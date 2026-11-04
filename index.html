@@ -90,7 +90,7 @@
   </select>
   <label class="chk"><input type="checkbox" id="solonum"> Solo títulos con número</label>
   <label class="chk"><input type="checkbox" id="solopromo"> Solo con curso / mentoría</label>
-  <label class="chk"><input type="checkbox" id="solofuerte"> Solo interacción ≥ 4 %</label>
+  <label class="chk"><input type="checkbox" id="solofuerte"> Solo interacción fuerte</label>
   <input type="search" id="q" placeholder="Buscar en títulos o canales…">
 </div>
 
@@ -157,7 +157,7 @@ function render(){
   const v = filtrar();
   const r = datos.resumen;
   $('#stats').innerHTML = `<span><b>${v.length}</b> videos virales</span><span><b>${datos.canales.length}</b> canales con fórmula probada</span>
-    <span><b>${r.con_promocion||0}</b> promocionan curso/mentoría</span><span><b>${r.fuertes||0}</b> con interacción ≥ 4 %</span>
+    <span><b>${r.con_promocion||0}</b> promocionan curso/mentoría</span><span><b>${r.fuertes||0}</b> con interacción fuerte (≥ 1,5 % largos / ≥ 4 % Shorts)</span>
     <span>${r.candidatos} candidatos → ${r.validos} relevantes → ${r.canales_en_rango} canales en rango</span><span>cuota usada: ${datos.cuota_usada}</span>`;
   if (!v.length){ $('#grid').innerHTML = '<div class="empty">Ningún video cumple los filtros.</div>'; }
   else $('#grid').innerHTML = v.map((x,i)=>`
