@@ -99,6 +99,29 @@ def idioma_coincide(texto, snippet_lang, idioma):
     except Exception:
         return True
 
+PROMO_PATRONES = [
+    ("curso", r"\bcursos?\b|\bmasterclass\b|\bclase gratuita\b|\bworkshop\b|\btaller\b|\bprograma\b|\bformaci[oó]n\b|\bcourse\b|\bbootcamp\b"),
+    ("mentoria", r"\bmentor[ií]as?\b|\bmentoring\b|\bcoaching\b|\bacompañamiento\b|\bsesi[oó]n 1 a 1\b|\bllamada gratuita\b|\bagenda(r)? (tu|una) (llamada|sesi[oó]n|cita)\b|\bbook a call\b"),
+    ("comunidad", r"\bcomunidad\b|\bmembres[ií]a\b|\bpatreon\b|\bskool\b|\bdiscord\b|\btelegram\b|\bgrupo (privado|vip)\b|\bmembership\b"),
+    ("libro", r"\bmi libro\b|\bebook\b|\be-book\b|\bgu[ií]a gratuita\b|\bpdf gratis\b|\bmy book\b"),
+]
+PROMO_PLATAFORMAS = ["hotmart", "kajabi", "teachable", "thinkific", "udemy", "domestika", "calendly", "wa.me", "whatsapp", "linktr.ee", "beacons.ai", "stan.store", "gumroad", "skool.com", "systeme.io", "clickfunnels", "typeform", "mailchimp", "manychat"]
+
+def detectar_promocion(titulo, descripcion, tags):
+    """Detecta si el video empuja una oferta (curso, mentoría, comunidad, libro) y por qué plataforma."""
+    texto = " ".join([titulo, descripcion or "", " ".join(tags or [])]).lower()
+    tipos = [t for t, rx in PROMO_PATRONES if re.search(rx, texto)]
+    plataformas = [pl for pl in PROMO_PLATAFORMAS if pl in texto]
+    cta = bool(re.search(r"link en (la )?(descripci[oó]n|bio|comentarios)|enlace en|inscr[ií]bete|reg[ií]strate|cupos? limitados?|descuento|precio|\$\s?\d|usd|link in (bio|description)|sign up|enroll", texto))
+    return {"promociona": bool(tipos or plataformas), "tipos": tipos, "plataformas": plataformas, "cta": cta}
+
+def relevancia(texto, palabras, excluir):
+    """Nº de palabras clave del nicho presentes; -1 si aparece un término excluido."""
+    t = texto.lower()
+    if any(e.lower() in t for e in excluir):
+        return -1
+    return sum(1 for k in palabras if k.lower() in t)
+
 def tiene_numero(titulo):
     return bool(re.search(r"\b\d{1,4}\b", titulo))
 
@@ -207,6 +230,7 @@ class Radar:
             "miniatura": miniatura(sn),
             "tags": (sn.get("tags") or [])[:15],
             "idioma_declarado": sn.get("defaultAudioLanguage") or sn.get("defaultLanguage") or "",
+            "promocion": detectar_promocion(sn["title"], sn.get("description", ""), sn.get("tags")),
         }
 
     # --- 3. Canales -----------------------------------------------------------
@@ -273,7 +297,11 @@ class Radar:
         self.log(f"  candidatos por búsqueda: {len(encontrados)}")
         detalles = self.videos(encontrados.keys())
 
-        # filtro de formato e idioma
+        # filtro de formato, idioma y relevancia con el nicho
+        nicho = self.nichos[perfil["nicho"]]
+        palabras = nicho.get("palabras_clave", {}).get(perfil["idioma"], [])
+        excluir = nicho.get("excluir", {}).get(perfil["idioma"], [])
+        descartados_relevancia = 0
         validos = {}
         for vid, v in detalles.items():
             dur = segundos(v["contentDetails"]["duration"])
@@ -285,8 +313,14 @@ class Radar:
             if not idioma_coincide(sn["title"] + ". " + sn.get("description", "")[:300],
                                    sn.get("defaultAudioLanguage") or sn.get("defaultLanguage"), perfil["idioma"]):
                 continue
+            texto = sn["title"] + " " + sn.get("description", "")[:500] + " " + " ".join(sn.get("tags") or [])
+            rel = relevancia(texto, palabras, excluir)
+            if palabras and rel < 1:
+                descartados_relevancia += 1
+                continue
+            v["_relevancia"] = rel
             validos[vid] = v
-        self.log(f"  tras filtro formato+idioma: {len(validos)}")
+        self.log(f"  tras filtro formato+idioma+relevancia: {len(validos)} (descartados por relevancia: {descartados_relevancia})")
 
         # canales en rango de suscriptores
         canales = self.canales({v["snippet"]["channelId"] for v in validos.values()})
@@ -322,7 +356,8 @@ class Radar:
             if f["ratio_vistas_subs"] < perfil["ratio_viral"]:
                 continue
             sid, q, region = encontrados[vid]
-            f.update(subnicho=sid, consulta=q, region=region, origen="busqueda",
+            f.update(subnicho=sid, consulta=q, region=region, origen="busqueda", relevancia=v.get("_relevancia", 0),
+                     fuerte=f["engagement"] >= perfil.get("min_engagement", 0.04),
                      canal_subs=info["suscriptores"], canal_n_virales=info["n_virales"])
             videos.append(f); vistos.add(vid)
         # + los otros virales recientes de esos canales (dentro de la ventana de días)
@@ -333,7 +368,12 @@ class Radar:
                 dur = f["duracion_s"]
                 if (perfil["formato"] == "shorts" and dur > 60) or (perfil["formato"] == "largo" and dur < 240):
                     continue
-                g = dict(f, subnicho="", consulta="", region="", origen="canal",
+                texto = f["titulo"] + " " + " ".join(f.get("tags") or [])
+                rel = relevancia(texto, palabras, excluir)
+                if palabras and rel < 1:
+                    continue
+                g = dict(f, subnicho="", consulta="", region="", origen="canal", relevancia=rel,
+                         fuerte=f["engagement"] >= perfil.get("min_engagement", 0.04),
                          canal_subs=info["suscriptores"], canal_n_virales=info["n_virales"])
                 videos.append(g); vistos.add(f["video_id"])
 
@@ -344,8 +384,10 @@ class Radar:
             "perfil": perfil,
             "generado": HOY.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "cuota_usada": self.yt.cuota - cuota0,
-            "resumen": {"candidatos": len(encontrados), "validos": len(validos), "canales_en_rango": len(en_rango),
-                        "canales_aprobados": len(aprobados), "videos": len(videos)},
+            "resumen": {"candidatos": len(encontrados), "validos": len(validos), "descartados_relevancia": descartados_relevancia,
+                        "canales_en_rango": len(en_rango), "canales_aprobados": len(aprobados), "videos": len(videos),
+                        "con_promocion": sum(1 for f in videos if f["promocion"]["promociona"]),
+                        "fuertes": sum(1 for f in videos if f.get("fuerte"))},
             "videos": videos,
             "canales": canales_out,
         }

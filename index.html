@@ -53,6 +53,7 @@
   .tags{display:flex;gap:6px;flex-wrap:wrap}
   .tag{font-size:11px;padding:2px 8px;border-radius:999px;background:var(--chip);color:var(--muted)}
   .tag.num{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+  .tag.promo{background:color-mix(in srgb,var(--accent) 16%,transparent);color:var(--accent)}
   .tag.ok{background:color-mix(in srgb,var(--ok) 18%,transparent);color:var(--ok)}
   table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:14px}
   th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line)}
@@ -88,6 +89,8 @@
     <option value="14">Últimos 14 días</option>
   </select>
   <label class="chk"><input type="checkbox" id="solonum"> Solo títulos con número</label>
+  <label class="chk"><input type="checkbox" id="solopromo"> Solo con curso / mentoría</label>
+  <label class="chk"><input type="checkbox" id="solofuerte"> Solo interacción ≥ 4 %</label>
   <input type="search" id="q" placeholder="Buscar en títulos o canales…">
 </div>
 
@@ -102,7 +105,7 @@
   <section id="videos"><div class="grid" id="grid"></div></section>
   <section id="canales" class="hidden"><div id="tabla"></div></section>
 </main>
-<footer>Fuente: YouTube Data API v3 (consulta no personalizada). "Viral" = vistas ≥ N× suscriptores del canal y ≥ 3× la mediana reciente del canal. Score = ratio × log10(1 + vistas/día).</footer>
+<footer>Fuente: YouTube Data API v3 (consulta no personalizada). "Interacción" = (likes + comentarios) / vistas; CTR y retención no son públicos para canales ajenos. "Viral" = vistas ≥ N× suscriptores del canal y ≥ 3× la mediana reciente del canal. Score = ratio × log10(1 + vistas/día).</footer>
 
 <script>
 const $ = s => document.querySelector(s);
@@ -139,9 +142,12 @@ async function cargarPerfil(){
 
 function filtrar(){
   const sub = $('#subnicho').value, q = $('#q').value.trim().toLowerCase(), maxd = +$('#maxdias').value, solonum = $('#solonum').checked, orden = $('#orden').value;
+  const solopromo = $('#solopromo').checked, solofuerte = $('#solofuerte').checked;
   let v = datos.videos.filter(x => x.dias <= maxd);
   if (sub === 'canal') v = v.filter(x => x.origen === 'canal'); else if (sub) v = v.filter(x => x.subnicho === sub);
   if (solonum) v = v.filter(x => x.titulo_con_numero);
+  if (solopromo) v = v.filter(x => x.promocion && x.promocion.promociona);
+  if (solofuerte) v = v.filter(x => x.fuerte);
   if (q) v = v.filter(x => (x.titulo + ' ' + x.canal).toLowerCase().includes(q));
   v.sort((a,b) => orden === 'dias' ? a.dias - b.dias : b[orden] - a[orden]);
   return v;
@@ -151,7 +157,8 @@ function render(){
   const v = filtrar();
   const r = datos.resumen;
   $('#stats').innerHTML = `<span><b>${v.length}</b> videos virales</span><span><b>${datos.canales.length}</b> canales con fórmula probada</span>
-    <span>${r.candidatos} candidatos → ${r.validos} en formato/idioma → ${r.canales_en_rango} canales en rango</span><span>cuota usada: ${datos.cuota_usada}</span>`;
+    <span><b>${r.con_promocion||0}</b> promocionan curso/mentoría</span><span><b>${r.fuertes||0}</b> con interacción ≥ 4 %</span>
+    <span>${r.candidatos} candidatos → ${r.validos} relevantes → ${r.canales_en_rango} canales en rango</span><span>cuota usada: ${datos.cuota_usada}</span>`;
   if (!v.length){ $('#grid').innerHTML = '<div class="empty">Ningún video cumple los filtros.</div>'; }
   else $('#grid').innerHTML = v.map((x,i)=>`
     <article class="card ${x.duracion_s<=60?'short':''}">
@@ -171,7 +178,8 @@ function render(){
           <span class="tag ok">${x.canal_n_virales} virales en el canal</span>
           ${x.titulo_con_numero?'<span class="tag num">título con número</span>':''}
           ${x.subnicho?`<span class="tag">${esc(x.subnicho)}</span>`:''}
-          <span class="tag">eng ${(x.engagement*100).toFixed(1)}%</span>
+          <span class="tag ${x.fuerte?'ok':''}">interacción ${(x.engagement*100).toFixed(1)}%</span>
+          ${x.promocion&&x.promocion.promociona?`<span class="tag promo" title="${esc((x.promocion.plataformas||[]).join(', '))}">vende: ${x.promocion.tipos.join(', ')||'oferta'}${x.promocion.plataformas.length?' · '+x.promocion.plataformas[0]:''}</span>`:''}
         </div>
       </div>
     </article>`).join('');
@@ -193,7 +201,7 @@ function renderCanales(){
 function esc(s){ return String(s).replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
 
 $('#perfil').onchange = cargarPerfil;
-['#subnicho','#orden','#maxdias','#solonum'].forEach(s=>$(s).onchange = render);
+['#subnicho','#orden','#maxdias','#solonum','#solopromo','#solofuerte'].forEach(s=>$(s).onchange = render);
 $('#q').oninput = render;
 document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{
   tab=b.dataset.tab; document.querySelectorAll('.tabs button').forEach(x=>x.setAttribute('aria-selected', x===b));
