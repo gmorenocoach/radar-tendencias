@@ -63,10 +63,17 @@ class YouTube:
                 self.log("  ! cuota diaria de YouTube agotada")
                 self.agotado = True
                 return None
+            if r.status_code == 404:                      # recurso inexistente (lista de subidas borrada, etc.)
+                self.cuota += costo
+                return {"items": []}
+            if r.status_code == 429:                      # límite de velocidad: esperar y reintentar
+                time.sleep(10 * (intento + 1))
+                continue
             if r.status_code in (403, 400):
                 raise RuntimeError(f"API {recurso} {r.status_code}: {err.get('message', r.text[:200])}")
             time.sleep(2 * (intento + 1))
-        raise RuntimeError(f"API {recurso}: fallo tras reintentos ({r.status_code})")
+        self.log(f"  ! {recurso} falló tras reintentos ({r.status_code}); se omite")
+        return None
 
 
 # ----------------------------------------------------------------------------
@@ -178,6 +185,7 @@ class Radar:
             # medium = 4–20 min, long = >20 min, short = <4 min (los Shorts se filtran luego por ≤60 s)
             params["videoDuration"] = "short" if formato == "shorts" else ("long" if HOY.toordinal() % 3 == 0 else "medium")
             res = self.yt.get("search", **params)
+            time.sleep(0.5)
             if res is None:
                 break
             n = 0
