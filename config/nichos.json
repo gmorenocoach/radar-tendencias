@@ -1,0 +1,215 @@
+{
+  "nichos": {
+    "crecimiento_personal": {
+      "nombre": "Crecimiento personal",
+      "subnichos": {
+        "espiritualidad": {
+          "nombre": "Espiritualidad",
+          "semillas": {
+            "es": ["espiritualidad", "despertar espiritual", "señales del universo", "ley de atracción", "meditación guiada", "energía y vibración", "propósito de vida", "universo te envía señales"],
+            "en": ["spiritual awakening", "signs from the universe", "law of attraction", "guided meditation", "raise your vibration", "life purpose", "spiritual growth"]
+          }
+        },
+        "numeros": {
+          "nombre": "Números y numerología",
+          "semillas": {
+            "es": ["números angelicales", "numerología", "horas espejo significado", "número 1111 significado", "número de vida", "qué significa ver números repetidos"],
+            "en": ["angel numbers", "numerology", "1111 meaning", "mirror hours meaning", "life path number", "seeing repeating numbers"]
+          }
+        },
+        "mentalidad": {
+          "nombre": "Mentalidad y desarrollo",
+          "semillas": {
+            "es": ["desarrollo personal", "mentalidad de crecimiento", "cómo cambiar tu vida", "autoestima", "disciplina", "hábitos que cambian tu vida"],
+            "en": ["personal development", "growth mindset", "how to change your life", "self discipline", "self worth"]
+          }
+        }
+      }
+    },
+    "espiritualidad": {
+      "nombre": "Espiritualidad",
+      "subnichos": {
+        "energia": {
+          "nombre": "Energía y limpieza",
+          "semillas": {
+            "es": ["limpieza energética", "proteger tu energía", "personas tóxicas energía", "chakras", "sanación energética"],
+            "en": ["energy cleansing", "protect your energy", "chakra healing", "energy healing"]
+          }
+        },
+        "estoicismo": {
+          "nombre": "Estoicismo y filosofía",
+          "semillas": {
+            "es": ["estoicismo", "filosofía estoica", "Marco Aurelio", "lecciones estoicas", "sabiduría antigua"],
+            "en": ["stoicism", "stoic philosophy", "Marcus Aurelius lessons", "ancient wisdom"]
+          }
+        },
+        "manifestacion": {
+          "nombre": "Manifestación",
+          "semillas": {
+            "es": ["manifestación", "cómo manifestar", "técnica de manifestación", "visualización", "gratitud"],
+            "en": ["manifestation", "how to manifest", "manifestation technique", "gratitude practice"]
+          }
+        }
+      }
+    },
+    "salud_mental": {
+      "nombre": "Salud mental y psicología",
+      "subnichos": {
+        "ansiedad_estres": {
+          "nombre": "Ansiedad y estrés",
+          "semillas": {
+            "es": ["ansiedad", "cómo calmar la ansiedad", "estrés laboral", "ataques de pánico", "burnout", "agotamiento emocional"],
+            "en": ["anxiety relief", "how to calm anxiety", "work stress", "burnout recovery", "emotional exhaustion"]
+          }
+        },
+        "psicologia": {
+          "nombre": "Psicología y conducta",
+          "semillas": {
+            "es": ["psicología", "señales de que", "personas narcisistas", "inteligencia emocional", "apego", "trauma infancia", "psicología oscura"],
+            "en": ["psychology facts", "signs that", "narcissist signs", "emotional intelligence", "attachment style", "childhood trauma"]
+          }
+        },
+        "bienestar_laboral": {
+          "nombre": "Bienestar laboral",
+          "semillas": {
+            "es": ["salud mental en el trabajo", "riesgo psicosocial", "acoso laboral", "clima laboral", "liderazgo tóxico", "equilibrio vida trabajo"],
+            "en": ["workplace mental health", "toxic boss", "work life balance", "psychological safety at work"]
+          }
+        }
+      }
+    },
+    "salud_bienestar": {
+      "nombre": "Salud y bienestar",
+      "subnichos": {
+        "habitos_salud": {
+          "nombre": "Hábitos de salud",
+          "semillas": {
+            "es": ["qué pasa en tu cuerpo cuando", "dejar el azúcar", "caminar 30 minutos", "dormir mejor", "ayuno intermitente", "longevidad"],
+            "en": ["what happens to your body when", "quit sugar", "walking 30 minutes a day", "sleep better", "intermittent fasting", "longevity"]
+          }
+        },
+        "nutricion": {
+          "nombre": "Nutrición",
+          "semillas": {
+            "es": ["alimentos que", "nutrición", "inflamación", "cortisol", "intestino y cerebro"],
+            "en": ["foods that", "nutrition tips", "inflammation", "cortisol", "gut health"]
+          }
+        }
+      }
+    },
+    "finanzas": {
+      "nombre": "Finanzas personales",
+      "subnichos": {
+        "dinero_mentalidad": {
+          "nombre": "Mentalidad financiera",
+          "semillas": {
+            "es": ["educación financiera", "hábitos de los ricos", "interés compuesto", "libertad financiera", "ahorrar dinero", "errores con el dinero"],
+            "en": ["financial education", "habits of rich people", "compound interest", "financial freedom", "money mistakes"]
+          }
+        },
+        "inversion": {
+          "nombre": "Inversión",
+          "semillas": {
+            "es": ["cómo invertir", "invertir desde cero", "ingresos pasivos", "fondos indexados"],
+            "en": ["how to invest", "investing for beginners", "passive income", "index funds"]
+          }
+        }
+      }
+    },
+    "motivacion": {
+      "nombre": "Motivación",
+      "subnichos": {
+        "discursos": {
+          "nombre": "Discursos y mensajes",
+          "semillas": {
+            "es": ["motivación", "discurso motivacional", "nunca te rindas", "mensaje para ti", "levántate", "reflexión de vida"],
+            "en": ["motivational speech", "never give up", "message for you", "life reflection", "morning motivation"]
+          }
+        },
+        "historias": {
+          "nombre": "Historias inspiradoras",
+          "semillas": {
+            "es": ["historia inspiradora", "historia real", "superación personal", "lección de vida"],
+            "en": ["inspiring story", "true story", "life lesson", "overcoming adversity"]
+          }
+        }
+      }
+    },
+    "relaciones": {
+      "nombre": "Relaciones",
+      "subnichos": {
+        "pareja": {
+          "nombre": "Pareja",
+          "semillas": {
+            "es": ["relaciones de pareja", "señales de que te ama", "relación tóxica", "cómo superar una ruptura", "amor propio"],
+            "en": ["relationship advice", "signs he loves you", "toxic relationship", "how to get over a breakup", "self love"]
+          }
+        },
+        "familia": {
+          "nombre": "Familia y crianza",
+          "semillas": {
+            "es": ["crianza respetuosa", "padres e hijos", "educar hijos", "familia"],
+            "en": ["parenting tips", "gentle parenting", "raising kids"]
+          }
+        }
+      }
+    },
+    "productividad": {
+      "nombre": "Productividad y hábitos",
+      "subnichos": {
+        "habitos": {
+          "nombre": "Hábitos",
+          "semillas": {
+            "es": ["hábitos", "rutina de mañana", "cómo ser más productivo", "procrastinación", "trampa de la dopamina", "dopamina"],
+            "en": ["habits", "morning routine", "how to be productive", "procrastination", "dopamine detox"]
+          }
+        },
+        "enfoque": {
+          "nombre": "Enfoque y aprendizaje",
+          "semillas": {
+            "es": ["cómo concentrarse", "aprender más rápido", "leer más", "enfoque profundo"],
+            "en": ["how to focus", "learn faster", "deep work", "read more books"]
+          }
+        }
+      }
+    },
+    "liderazgo": {
+      "nombre": "Liderazgo y trabajo",
+      "subnichos": {
+        "liderazgo": {
+          "nombre": "Liderazgo",
+          "semillas": {
+            "es": ["liderazgo", "cómo ser un buen líder", "habilidades blandas", "comunicación efectiva", "trabajo en equipo"],
+            "en": ["leadership", "how to be a good leader", "soft skills", "effective communication", "teamwork"]
+          }
+        },
+        "carrera": {
+          "nombre": "Carrera profesional",
+          "semillas": {
+            "es": ["entrevista de trabajo", "crecer profesionalmente", "renunciar al trabajo", "emprender"],
+            "en": ["job interview tips", "career growth", "quit your job", "start a business"]
+          }
+        }
+      }
+    },
+    "entretenimiento": {
+      "nombre": "Entretenimiento y curiosidades",
+      "subnichos": {
+        "curiosidades": {
+          "nombre": "Curiosidades",
+          "semillas": {
+            "es": ["curiosidades", "datos curiosos", "cosas que no sabías", "misterios", "historia"],
+            "en": ["fun facts", "things you didn't know", "mysteries", "history facts"]
+          }
+        },
+        "reflexiones": {
+          "nombre": "Reflexiones y filosofía",
+          "semillas": {
+            "es": ["reflexión", "filosofía de vida", "pregunta que cambia tu vida", "el sentido de la vida"],
+            "en": ["deep thoughts", "philosophy of life", "meaning of life"]
+          }
+        }
+      }
+    }
+  }
+}

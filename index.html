@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar de Tendencias</title>
+<style>
+  :root{
+    --bg:#f6f4ef; --panel:#ffffff; --ink:#1c1b18; --muted:#6b675e; --line:#e4e0d6;
+    --accent:#c0392b; --accent-ink:#fff; --chip:#efece4; --ok:#2e7d4f; --warn:#b26a00;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#141311; --panel:#1e1c19; --ink:#f1ede4; --muted:#a39d91; --line:#2d2a25;
+      --accent:#e35d4f; --chip:#2a2722; --ok:#5dbb84; --warn:#e0a34a;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#141311; --panel:#1e1c19; --ink:#f1ede4; --muted:#a39d91; --line:#2d2a25;
+    --accent:#e35d4f; --chip:#2a2722; --ok:#5dbb84; --warn:#e0a34a;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+  header{padding:20px 16px 8px;max-width:1240px;margin:0 auto}
+  h1{margin:0;font-size:22px;letter-spacing:-.01em}
+  h1 small{font-weight:400;color:var(--muted);font-size:14px;margin-left:8px}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;padding:8px 16px 16px;max-width:1240px;margin:0 auto;align-items:center}
+  select,input[type=search]{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px 10px;font:inherit}
+  input[type=search]{min-width:200px;flex:1}
+  label.chk{display:flex;gap:6px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 10px;cursor:pointer}
+  .tabs{display:flex;gap:6px;padding:0 16px;max-width:1240px;margin:0 auto 12px}
+  .tabs button{background:var(--panel);border:1px solid var(--line);color:var(--ink);padding:8px 14px;border-radius:999px;font:inherit;cursor:pointer}
+  .tabs button[aria-selected=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  .stats{display:flex;gap:16px;flex-wrap:wrap;padding:0 16px 12px;max-width:1240px;margin:0 auto;color:var(--muted);font-size:13px}
+  .stats b{color:var(--ink)}
+  main{max-width:1240px;margin:0 auto;padding:0 16px 48px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+  .card.short{grid-row:span 1}
+  .thumb{position:relative;background:#000;aspect-ratio:16/9;overflow:hidden}
+  .card.short .thumb{aspect-ratio:16/9}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb .dur{position:absolute;right:8px;bottom:8px;background:rgba(0,0,0,.75);color:#fff;font-size:12px;padding:2px 6px;border-radius:4px}
+  .thumb .rank{position:absolute;left:8px;top:8px;background:var(--accent);color:var(--accent-ink);font-weight:700;font-size:12px;padding:3px 8px;border-radius:999px}
+  .body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:8px;flex:1}
+  .title{font-weight:600;line-height:1.3;font-size:15px;color:var(--ink);text-decoration:none}
+  .title:hover{text-decoration:underline}
+  .meta{color:var(--muted);font-size:13px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+  .kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:2px}
+  .kpi{background:var(--chip);border-radius:8px;padding:6px 8px}
+  .kpi b{display:block;font-size:15px}
+  .kpi span{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+  .tags{display:flex;gap:6px;flex-wrap:wrap}
+  .tag{font-size:11px;padding:2px 8px;border-radius:999px;background:var(--chip);color:var(--muted)}
+  .tag.num{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+  .tag.ok{background:color-mix(in srgb,var(--ok) 18%,transparent);color:var(--ok)}
+  table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:14px}
+  th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line)}
+  th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.04em;cursor:pointer;user-select:none}
+  td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+  tr:last-child td{border-bottom:none}
+  a{color:inherit}
+  .empty{padding:40px;text-align:center;color:var(--muted);background:var(--panel);border:1px dashed var(--line);border-radius:12px}
+  .hidden{display:none}
+  footer{max-width:1240px;margin:0 auto;padding:0 16px 32px;color:var(--muted);font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Radar de Tendencias <small id="updated"></small></h1>
+</header>
+
+<div class="filters">
+  <select id="perfil" title="Perfil de canal"></select>
+  <select id="subnicho" title="Sub-nicho"><option value="">Todos los sub-nichos</option></select>
+  <select id="orden" title="Ordenar por">
+    <option value="score">Orden: score</option>
+    <option value="ratio_vistas_subs">Orden: vistas / suscriptores</option>
+    <option value="vistas_por_dia">Orden: vistas por día</option>
+    <option value="vistas">Orden: vistas</option>
+    <option value="dias">Orden: más recientes</option>
+    <option value="engagement">Orden: engagement</option>
+  </select>
+  <select id="maxdias" title="Antigüedad">
+    <option value="90">Últimos 90 días</option>
+    <option value="60">Últimos 60 días</option>
+    <option value="30">Últimos 30 días</option>
+    <option value="14">Últimos 14 días</option>
+  </select>
+  <label class="chk"><input type="checkbox" id="solonum"> Solo títulos con número</label>
+  <input type="search" id="q" placeholder="Buscar en títulos o canales…">
+</div>
+
+<div class="tabs" role="tablist">
+  <button role="tab" aria-selected="true" data-tab="videos">Videos virales</button>
+  <button role="tab" aria-selected="false" data-tab="canales">Canales / competencia</button>
+</div>
+
+<div class="stats" id="stats"></div>
+
+<main>
+  <section id="videos"><div class="grid" id="grid"></div></section>
+  <section id="canales" class="hidden"><div id="tabla"></div></section>
+</main>
+<footer>Fuente: YouTube Data API v3 (consulta no personalizada). "Viral" = vistas ≥ N× suscriptores del canal y ≥ 3× la mediana reciente del canal. Score = ratio × log10(1 + vistas/día).</footer>
+
+<script>
+const $ = s => document.querySelector(s);
+const fmt = n => n >= 1e6 ? (n/1e6).toFixed(1)+' M' : n >= 1e3 ? (n/1e3).toFixed(n>=1e4?0:1)+' k' : String(n);
+const dur = s => s >= 3600 ? `${Math.floor(s/3600)}:${String(Math.floor(s%3600/60)).padStart(2,'0')}:${String(s%60).padStart(2,'0')}` : `${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`;
+let indice = null, datos = null, nichos = null, tab = 'videos', ordenCanales = 'n_virales';
+
+async function cargar(){
+  try{
+    [indice, nichos] = await Promise.all([fetch('data/index.json').then(r=>r.json()), fetch('config/nichos.json').then(r=>r.json())]);
+  }catch(e){
+    $('#grid').innerHTML = '<div class="empty">Aún no hay datos. Ejecuta el radar (GitHub Actions → "Radar nocturno" → Run workflow) y vuelve a cargar.</div>';
+    return;
+  }
+  $('#updated').textContent = 'actualizado ' + new Date(indice.actualizado).toLocaleString('es-CO',{dateStyle:'medium',timeStyle:'short'});
+  const sel = $('#perfil');
+  sel.innerHTML = indice.perfiles.map(p=>`<option value="${p.id}">${p.canal} · ${p.nicho} · ${p.idioma.toUpperCase()} · ${p.formato}</option>`).join('');
+  let guardado = null; try{ guardado = localStorage.getItem('radar.perfil'); }catch(e){}
+  if (guardado && indice.perfiles.some(p=>p.id===guardado)) sel.value = guardado;
+  await cargarPerfil();
+}
+
+async function cargarPerfil(){
+  const id = $('#perfil').value;
+  try{ localStorage.setItem('radar.perfil', id); }catch(e){}
+  datos = await fetch(`data/${id}.json`).then(r=>r.json());
+  const nicho = nichos.nichos[datos.perfil.nicho];
+  const sub = $('#subnicho');
+  sub.innerHTML = '<option value="">Todos los sub-nichos</option>' +
+    datos.perfil.subnichos.map(s=>`<option value="${s}">${nicho.subnichos[s]?.nombre || s}</option>`).join('') +
+    '<option value="canal">Otros virales de los mismos canales</option>';
+  render();
+}
+
+function filtrar(){
+  const sub = $('#subnicho').value, q = $('#q').value.trim().toLowerCase(), maxd = +$('#maxdias').value, solonum = $('#solonum').checked, orden = $('#orden').value;
+  let v = datos.videos.filter(x => x.dias <= maxd);
+  if (sub === 'canal') v = v.filter(x => x.origen === 'canal'); else if (sub) v = v.filter(x => x.subnicho === sub);
+  if (solonum) v = v.filter(x => x.titulo_con_numero);
+  if (q) v = v.filter(x => (x.titulo + ' ' + x.canal).toLowerCase().includes(q));
+  v.sort((a,b) => orden === 'dias' ? a.dias - b.dias : b[orden] - a[orden]);
+  return v;
+}
+
+function render(){
+  const v = filtrar();
+  const r = datos.resumen;
+  $('#stats').innerHTML = `<span><b>${v.length}</b> videos virales</span><span><b>${datos.canales.length}</b> canales con fórmula probada</span>
+    <span>${r.candidatos} candidatos → ${r.validos} en formato/idioma → ${r.canales_en_rango} canales en rango</span><span>cuota usada: ${datos.cuota_usada}</span>`;
+  if (!v.length){ $('#grid').innerHTML = '<div class="empty">Ningún video cumple los filtros.</div>'; }
+  else $('#grid').innerHTML = v.map((x,i)=>`
+    <article class="card ${x.duracion_s<=60?'short':''}">
+      <a class="thumb" href="${x.url}" target="_blank" rel="noopener">
+        <img loading="lazy" src="${x.miniatura}" alt="">
+        <span class="rank">#${i+1}</span><span class="dur">${dur(x.duracion_s)}</span>
+      </a>
+      <div class="body">
+        <a class="title" href="${x.url}" target="_blank" rel="noopener">${esc(x.titulo)}</a>
+        <div class="meta"><span>${esc(x.canal)} · ${fmt(x.canal_subs)} subs</span><span>hace ${Math.round(x.dias)} d</span></div>
+        <div class="kpis">
+          <div class="kpi"><b>${fmt(x.vistas)}</b><span>vistas</span></div>
+          <div class="kpi"><b>${x.ratio_vistas_subs}×</b><span>vistas/subs</span></div>
+          <div class="kpi"><b>${fmt(x.vistas_por_dia)}</b><span>por día</span></div>
+        </div>
+        <div class="tags">
+          <span class="tag ok">${x.canal_n_virales} virales en el canal</span>
+          ${x.titulo_con_numero?'<span class="tag num">título con número</span>':''}
+          ${x.subnicho?`<span class="tag">${esc(x.subnicho)}</span>`:''}
+          <span class="tag">eng ${(x.engagement*100).toFixed(1)}%</span>
+        </div>
+      </div>
+    </article>`).join('');
+  renderCanales();
+}
+
+function renderCanales(){
+  const c = [...datos.canales].sort((a,b)=> ordenCanales==='canal' ? a.canal.localeCompare(b.canal) : b[ordenCanales]-a[ordenCanales]);
+  const th = (k,l,num)=>`<th class="${num?'num':''}" data-k="${k}">${l}${ordenCanales===k?' ▾':''}</th>`;
+  $('#tabla').innerHTML = c.length ? `<table><thead><tr>
+    ${th('canal','Canal')}${th('suscriptores','Subs',1)}${th('n_virales','Virales',1)}${th('mediana_vistas_recientes','Mediana vistas',1)}
+    ${th('videos_por_semana','Videos/sem',1)}${th('pct_shorts','% Shorts',1)}${th('duracion_media_s','Duración media',1)}<th>País</th></tr></thead><tbody>
+    ${c.map(x=>`<tr><td><a href="${x.url}" target="_blank" rel="noopener">${esc(x.canal)}</a></td><td class="num">${fmt(x.suscriptores)}</td><td class="num">${x.n_virales}</td>
+      <td class="num">${fmt(x.mediana_vistas_recientes)}</td><td class="num">${x.videos_por_semana}</td><td class="num">${Math.round(x.pct_shorts*100)}%</td><td class="num">${dur(x.duracion_media_s)}</td><td>${x.pais||'—'}</td></tr>`).join('')}
+    </tbody></table>` : '<div class="empty">Sin canales aprobados en este perfil todavía.</div>';
+  document.querySelectorAll('#tabla th[data-k]').forEach(h=>h.onclick=()=>{ordenCanales=h.dataset.k;renderCanales();});
+}
+
+function esc(s){ return String(s).replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+$('#perfil').onchange = cargarPerfil;
+['#subnicho','#orden','#maxdias','#solonum'].forEach(s=>$(s).onchange = render);
+$('#q').oninput = render;
+document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{
+  tab=b.dataset.tab; document.querySelectorAll('.tabs button').forEach(x=>x.setAttribute('aria-selected', x===b));
+  $('#videos').classList.toggle('hidden', tab!=='videos'); $('#canales').classList.toggle('hidden', tab!=='canales');
+});
+cargar();
+</script>
+</body>
+</html>

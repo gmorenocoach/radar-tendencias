@@ -1,0 +1,2 @@
+requests>=2.31
+langdetect>=1.0.9

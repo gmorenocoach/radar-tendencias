@@ -1,0 +1,45 @@
+name: Radar nocturno
+
+on:
+  schedule:
+    - cron: "17 8 * * *"      # 03:17 Bogotá (UTC-5), todos los días
+  workflow_dispatch:
+    inputs:
+      perfil:
+        description: "ID de perfil (vacío = todos)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Ejecutar radar
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python radar.py ${{ github.event.inputs.perfil }}
+
+      - name: Guardar resultados
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "sin cambios" || git commit -m "radar: datos $(date -u +%F)"
+          git push

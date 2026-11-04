@@ -1,0 +1,65 @@
+{
+  "_doc": "Perfiles de canal. Cada perfil define qué investiga el radar. 'formato': 'largo' (>= 4 min) o 'shorts' (<= 60 s). 'regiones': códigos ISO de país a consultar. 'min_subs'/'max_subs': rango del canal autor. 'dias': antigüedad máxima. 'min_virales_canal': videos virales que debe tener el canal. 'ratio_viral': vistas/suscriptores mínimo para llamar viral a un video.",
+  "perfiles": [
+    {
+      "id": "equilibrate_es",
+      "canal": "Equilíbrate",
+      "nicho": "crecimiento_personal",
+      "subnichos": ["espiritualidad", "numeros", "mentalidad"],
+      "idioma": "es",
+      "regiones": ["CO", "MX", "ES", "AR"],
+      "formato": "largo",
+      "dias": 90,
+      "min_subs": 1000,
+      "max_subs": 100000,
+      "min_virales_canal": 3,
+      "ratio_viral": 5,
+      "max_busquedas": 16
+    },
+    {
+      "id": "equilibrate_en",
+      "canal": "Equilíbrate (EN, investigación)",
+      "nicho": "crecimiento_personal",
+      "subnichos": ["espiritualidad", "numeros", "mentalidad"],
+      "idioma": "en",
+      "regiones": ["US", "GB"],
+      "formato": "largo",
+      "dias": 90,
+      "min_subs": 1000,
+      "max_subs": 100000,
+      "min_virales_canal": 3,
+      "ratio_viral": 5,
+      "max_busquedas": 10
+    },
+    {
+      "id": "mitribu_es",
+      "canal": "Mi Tribu",
+      "nicho": "salud_mental",
+      "subnichos": ["ansiedad_estres", "psicologia", "bienestar_laboral"],
+      "idioma": "es",
+      "regiones": ["CO", "MX", "ES", "AR"],
+      "formato": "shorts",
+      "dias": 90,
+      "min_subs": 1000,
+      "max_subs": 100000,
+      "min_virales_canal": 3,
+      "ratio_viral": 20,
+      "max_busquedas": 16
+    },
+    {
+      "id": "mitribu_en",
+      "canal": "Mi Tribu (EN, investigación)",
+      "nicho": "salud_mental",
+      "subnichos": ["ansiedad_estres", "psicologia", "bienestar_laboral"],
+      "idioma": "en",
+      "regiones": ["US", "GB"],
+      "formato": "shorts",
+      "dias": 90,
+      "min_subs": 1000,
+      "max_subs": 100000,
+      "min_virales_canal": 3,
+      "ratio_viral": 20,
+      "max_busquedas": 10
+    }
+  ]
+}
