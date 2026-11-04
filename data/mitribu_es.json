@@ -1,0 +1,131 @@
+{
+ "perfil": {
+  "id": "mitribu_es",
+  "canal": "Mi Tribu · Dinero",
+  "nicho": "dinero",
+  "subnichos": [
+   "mentalidad_dinero",
+   "ingresos",
+   "inversion",
+   "abundancia"
+  ],
+  "idioma": "es",
+  "regiones": [
+   "CO",
+   "MX",
+   "ES",
+   "AR"
+  ],
+  "formato": "shorts",
+  "dias": 90,
+  "min_subs": 1000,
+  "max_subs": 100000,
+  "min_virales_canal": 3,
+  "ratio_viral": 20,
+  "min_engagement": 0.04,
+  "max_busquedas": 12
+ },
+ "generado": "2026-11-04T20:56:30Z",
+ "cuota_usada": 1364,
+ "resumen": {
+  "candidatos": 597,
+  "validos": 205,
+  "descartados_relevancia": 47,
+  "canales_en_rango": 74,
+  "canales_aprobados": 3,
+  "videos": 1,
+  "con_promocion": 0,
+  "fuertes": 0
+ },
+ "videos": [
+  {
+   "video_id": "bQExmPckeyo",
+   "url": "https://www.youtube.com/watch?v=bQExmPckeyo",
+   "titulo": "Esto es: ¿Invertir? Tú puedes. Cómo empezar a invertir desde cero | ING",
+   "canal_id": "UCIpkIudMJIiFv1iE7WYHRMg",
+   "canal": "ING España",
+   "publicado": "2026-10-20",
+   "dias": 15.2,
+   "duracion_s": 51,
+   "vistas": 2271448,
+   "likes": 9,
+   "comentarios": 1,
+   "ratio_vistas_subs": 56.8,
+   "vistas_por_dia": 149065,
+   "engagement": 0.0,
+   "outlier_canal": 2546.5,
+   "score": 293.8,
+   "titulo_con_numero": false,
+   "miniatura": "https://i.ytimg.com/vi/bQExmPckeyo/maxresdefault.jpg",
+   "tags": [],
+   "idioma_declarado": "es-ES",
+   "promocion": {
+    "promociona": false,
+    "tipos": [],
+    "plataformas": [],
+    "cta": false
+   },
+   "subnicho": "inversion",
+   "consulta": "cómo invertir",
+   "region": "ES",
+   "origen": "busqueda",
+   "relevancia": 3,
+   "fuerte": false,
+   "canal_subs": 40000,
+   "canal_n_virales": 7
+  }
+ ],
+ "canales": [
+  {
+   "canal_id": "UCIpkIudMJIiFv1iE7WYHRMg",
+   "canal": "ING España",
+   "url": "https://www.youtube.com/channel/UCIpkIudMJIiFv1iE7WYHRMg",
+   "pais": "ES",
+   "suscriptores": 40000,
+   "videos_totales": 453,
+   "vistas_totales": 179879388,
+   "creado": "2011-04-28",
+   "mediana_vistas_recientes": 892,
+   "videos_por_semana": 5.1,
+   "pct_shorts": 0.48,
+   "duracion_media_s": 101,
+   "n_virales": 7,
+   "ratio_viral": 20,
+   "analizado": "2026-11-04T20:56:30Z"
+  },
+  {
+   "canal_id": "UCg15kgT9YT4cvb3UoW5h3sg",
+   "canal": "Ther Rodríguez",
+   "url": "https://www.youtube.com/channel/UCg15kgT9YT4cvb3UoW5h3sg",
+   "pais": "ES",
+   "suscriptores": 49300,
+   "videos_totales": 136,
+   "vistas_totales": 54712646,
+   "creado": "2012-05-04",
+   "mediana_vistas_recientes": 153016,
+   "videos_por_semana": 2.7,
+   "pct_shorts": 1.0,
+   "duracion_media_s": 36,
+   "n_virales": 4,
+   "ratio_viral": 20,
+   "analizado": "2026-11-04T20:56:30Z"
+  },
+  {
+   "canal_id": "UCSRdFQRfLoHDoch4zdWMvZA",
+   "canal": "Coco y Leo",
+   "url": "https://www.youtube.com/channel/UCSRdFQRfLoHDoch4zdWMvZA",
+   "pais": "",
+   "suscriptores": 1440,
+   "videos_totales": 36,
+   "vistas_totales": 1360654,
+   "creado": "2026-08-12",
+   "mediana_vistas_recientes": 10946,
+   "videos_por_semana": 8.3,
+   "pct_shorts": 1.0,
+   "duracion_media_s": 12,
+   "n_virales": 3,
+   "ratio_viral": 20,
+   "analizado": "2026-11-04T20:56:30Z"
+  }
+ ]
+}
