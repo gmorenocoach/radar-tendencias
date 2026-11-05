@@ -78,21 +78,27 @@ jobs:
           if [ -n "${{ github.event.inputs.tema }}" ]; then ARGS="$ARGS --tema \"${{ github.event.inputs.tema }}\""; fi
           eval python -m fabrica.produce $ARGS
 
-      - name: Guardar producción
-        run: |
-          git config user.name "fabrica-bot"
-          git config user.email "fabrica-bot@users.noreply.github.com"
-          git add producciones/
-          git diff --cached --quiet && echo "sin cambios" || git commit -m "fábrica: $(ls -t producciones | grep -v index.json | head -1)"
-          git pull --rebase --autostash origin main
-          git push
-
-      - name: Subir también como artefacto descargable
+      - name: Artefacto descargable (por si falla el guardado)
         uses: actions/upload-artifact@v4
         with:
-          name: short
+          name: short-${{ github.run_id }}
           path: |
             producciones/*/short.mp4
             producciones/*/miniatura*.jpg
             producciones/*/metadata.json
           retention-days: 14
+
+      - name: Guardar producción
+        run: |
+          git config user.name "fabrica-bot"
+          git config user.email "fabrica-bot@users.noreply.github.com"
+          # 1) subir solo la carpeta nueva (sin el índice, que es lo que choca entre corridas)
+          git add producciones/*/ && git reset -q producciones/index.json || true
+          git diff --cached --quiet && echo "sin cambios" || git commit -m "fábrica: $(ls -t producciones | grep -v index.json | head -1)"
+          git checkout -- producciones/index.json || true
+          git pull --rebase origin main
+          # 2) reconstruir el índice con todo lo que hay y subirlo
+          python -m fabrica.indice
+          git add producciones/index.json
+          git diff --cached --quiet || git commit -m "índice de producciones"
+          git push || (git pull --rebase origin main && python -m fabrica.indice && git add producciones/index.json && git commit -qm "índice" ; git push)

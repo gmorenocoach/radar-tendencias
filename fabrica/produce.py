@@ -90,13 +90,8 @@ def main():
             "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."}
     guardar_json(d / "metadata.json", meta)
 
-    # índice
-    idx_path = OUT / "index.json"
-    idx = json.loads(idx_path.read_text()) if idx_path.exists() else {"producciones": []}
-    idx["producciones"] = [x for x in idx["producciones"] if x["id"] != nombre] + [meta]
-    idx["producciones"].sort(key=lambda x: x["fecha"], reverse=True)
-    idx["actualizado"] = meta["fecha"]
-    guardar_json(idx_path, idx)
+    from .indice import main as reconstruir_indice
+    reconstruir_indice()
     print(f"\nListo en {time.time() - t0:.0f} s → producciones/{nombre}/short.mp4 ({tam:.1f} MB, {dur:.1f} s)")
 
 
