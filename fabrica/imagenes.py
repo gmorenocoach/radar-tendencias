@@ -74,6 +74,17 @@ def generar_escena(escena, canal, path):
         print(f"  ! kontext falló ({e}); usando texto→imagen")
         res = _fal(FAL_FALLBACK, {"prompt": prompt, "image_size": "portrait_16_9", "num_inference_steps": 28, "output_format": "png"})
     _descargar(res["images"][0]["url"], path)
+    # control de calidad: fondo oscuro → regenerar una vez insistiendo en papel blanco
+    from PIL import ImageStat
+    brillo = ImageStat.Stat(Image.open(path).convert("L")).mean[0]
+    if brillo < 170:
+        print(f"  ! escena oscura (brillo {brillo:.0f}); regenerando con fondo blanco")
+        prompt2 = prompt + " IMPORTANT: the background must be plain bright white/off-white paper with nothing dark; no night scene, no black areas, no smoke."
+        try:
+            res = _fal(FAL_MODEL, {"prompt": prompt2, "image_url": ref_url, "aspect_ratio": "9:16", "output_format": "png", "safety_tolerance": "2"})
+            _descargar(res["images"][0]["url"], path)
+        except Exception as e:
+            print(f"  ! reintento falló: {e}")
     return prompt
 
 

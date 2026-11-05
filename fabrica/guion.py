@@ -49,6 +49,10 @@ Responde SOLO con JSON:
         print(f"  ! guion incompleto ({len(g.get('escenas', []))} escenas, {palabras} palabras); regenerando")
         user2 = user + f"\n\nTu intento anterior quedó incompleto ({len(g.get('escenas', []))} escenas, {palabras} palabras). Entrega las {n_escenas} escenas completas y el JSON cerrado."
         g = claude(ESTILO_GERMANCHO, user2, mock=mock, max_tokens=6000)
+    ultima = g["escenas"][-1]["texto"].lower() if g.get("escenas") else ""
+    if "reto" not in ultima and g.get("reto_de_hoy"):
+        g["escenas"].append({"n": len(g["escenas"]) + 1, "texto": f"Reto de hoy: {g['reto_de_hoy'].rstrip('.')}. Cuéntame en comentarios cómo te fue.",
+                             "emocion": "alegria", "objeto": "tarjeta Reto", "pose": "letrero", "prompt_visual": "holding up a small blank card", "segundos": 8})
     g["palabras"] = sum(len(e.get("texto", "").split()) for e in g.get("escenas", []))
     g["titulo"] = re.sub(r"\s*#\S+", "", g.get("titulo", "")).strip() or g.get("titulo", "")
     g["canal"] = canal
