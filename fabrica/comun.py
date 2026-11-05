@@ -58,8 +58,8 @@ def guardar_json(path, data):
 # ----------------------------------------------------------------------------
 # Claude
 # ----------------------------------------------------------------------------
-def claude(system, user, max_tokens=4000, json_out=True, mock=None):
-    """Llama a Claude y devuelve texto o JSON. En modo simulado devuelve `mock`."""
+def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0):
+    """Llama a Claude y devuelve texto o JSON. En modo simulado devuelve `mock`. Si el JSON no es válido, reintenta una vez."""
     if MOCK:
         return mock
     key = os.environ.get("ANTHROPIC_API_KEY")
@@ -74,7 +74,14 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None):
             texto = "".join(b.get("text", "") for b in r.json()["content"])
             if not json_out:
                 return texto
-            return parsear_json(texto)
+            try:
+                return parsear_json(texto)
+            except RuntimeError as e:
+                if _intento == 0:
+                    print(f"  ! respuesta no JSON ({texto[:120]!r}); reintentando")
+                    return claude(system, user + "\n\nRESPONDE ÚNICAMENTE con el objeto JSON pedido, sin texto antes ni después, sin bloques de código.",
+                                  max_tokens, json_out, mock, _intento=1)
+                raise
         if r.status_code in (429, 500, 529):
             time.sleep(5 * (intento + 1))
             continue
