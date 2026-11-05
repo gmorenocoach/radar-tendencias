@@ -8,7 +8,7 @@ FAL_MODEL = os.environ.get("FAL_MODEL", "fal-ai/flux-pro/kontext/max")   # edici
 FAL_FALLBACK = "fal-ai/flux/dev"
 
 PROMPT_BASE = ("This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design: the head is a flat INVERTED TRIANGLE "
-               "(wide at the top, pointed chin) with spiky scribbled hair on the top edge, two small black oval eyes, a simple mouth, no nose, no ears; "
+               "(wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; "
                "very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign "
                "the face or head shape, do NOT make it a skull, alien or realistic head. "
                "Change ONLY his clothes and the scene: he wears a {color} hoodie (hood down) and {color} high-top sneakers with white soles; "

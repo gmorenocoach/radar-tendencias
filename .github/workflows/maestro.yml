@@ -1,0 +1,39 @@
+name: Germancho maestro
+
+on:
+  workflow_dispatch:
+    inputs:
+      canal:
+        description: "Canal"
+        required: true
+        type: choice
+        options: [mitribu, equilibrate, soyintegral]
+      instruccion:
+        description: "Cambio a aplicar (en inglés o español)"
+        required: false
+        default: ""
+      desde:
+        description: "Derivar desde la maestra de otro canal (vacío = editar la propia)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  maestro:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - env:
+          FAL_KEY: ${{ secrets.FAL_KEY }}
+        run: |
+          ARGS="--canal ${{ github.event.inputs.canal }}"
+          [ -n "${{ github.event.inputs.desde }}" ] && ARGS="$ARGS --desde ${{ github.event.inputs.desde }}"
+          python -m fabrica.maestro $ARGS --instruccion "${{ github.event.inputs.instruccion }}"
+      - run: |
+          git config user.name "fabrica-bot"; git config user.email "fabrica-bot@users.noreply.github.com"
+          git add assets/germancho && git commit -m "maestro ${{ github.event.inputs.canal }}" && git pull --rebase --autostash origin main && git push
