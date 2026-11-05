@@ -1,0 +1,2156 @@
+{
+ "perfil": "equilibrate_es",
+ "canal": "Equilíbrate · Amor",
+ "plan": {
+  "modo": "sprint",
+  "objetivo": "Solicitar YPP antes del 31 de diciembre de 2026 (1.000 subs + 4.000 h) para entrar con las reglas actuales",
+  "desde": "2026-11-06",
+  "hasta": "2026-12-31",
+  "largos_semana": 3,
+  "shorts_semana": 7,
+  "vivos_semana": 3,
+  "comunidad_semana": 3,
+  "dias_largos": [
+   0,
+   2,
+   4
+  ],
+  "hora_largos": "18:00",
+  "dias_shorts": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "hora_shorts": "12:00",
+  "dias_vivos": [
+   1,
+   3,
+   6
+  ],
+  "hora_vivos": "19:00",
+  "duracion_vivo_min": 75,
+  "minutos_largo": 15,
+  "series_activas": 2,
+  "subs_actuales": 365,
+  "horas_actuales": 0
+ },
+ "desde": "2026-11-06",
+ "hasta": "2026-12-31",
+ "generado": "2026-11-05T21:32:19",
+ "series": [
+  {
+   "nombre": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "tema_madre": "Cada capítulo destapa una forma distinta en la que te vas vaciando por amor: dar de más, depender, repetir heridas, pelear siempre por lo mismo, no soltar y no elegirte. Cada uno cierra con una pregunta incómoda que se responde en el siguiente. La tensión de toda la serie es una sola: ¿cuánto de ti queda en la taza cuando amas?",
+   "promesa": "Al terminar la serie sabrás detectar dónde se te escapa el amor propio dentro de tus vínculos y tendrás 6 retos de menos de 5 minutos para empezar a llenar tu taza sin cerrar el corazón.",
+   "capitulos": [
+    {
+     "n": 1,
+     "titulo": "Das tanto en pareja que no te queda nada: ¿por qué lo haces?",
+     "subtema": "Dar de más como miedo disfrazado de generosidad: el agradador crónico y el miedo a que si no das, no te quieran. Cierre: si das tanto, ¿de dónde te estás sirviendo?",
+     "referencia_video_id": "-PX8yO82xys",
+     "shorts": [
+      {
+       "titulo": "Dar de más no siempre es amor",
+       "gancho": "Si das para que no se vayan, eso no es generosidad. Es una cuenta que alguien va a cobrar. Te cuento cuál."
+      },
+      {
+       "titulo": "3 frases del agradador crónico",
+       "gancho": "Como tú quieras, no importa, a mí me da igual. Si dices esto seguido, tu taza lleva meses vacía."
+      },
+      {
+       "titulo": "¿Cuándo fue la última vez que pediste algo?",
+       "gancho": "Piensa en tu último pedido real a tu pareja o familia. Si no lo recuerdas, este video es para ti."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "titulo": "5 señales de que tu dependencia se disfraza de amor",
+     "subtema": "Diferencia entre necesitar y elegir: ansiedad por mensajes, miedo a la soledad, validación constante. Cierre: si no es amor, ¿de dónde viene esa necesidad?",
+     "referencia_video_id": "-ai9L-jXtx0",
+     "shorts": [
+      {
+       "titulo": "Amor o necesidad: la prueba del celular",
+       "gancho": "Deja tu celular boca abajo una hora. Lo que sientes ahí dice más que cualquier te quiero."
+      },
+      {
+       "titulo": "No es que lo ames, es que le temes",
+       "gancho": "A veces lo que llamas amor es pánico a quedarte con tu propio silencio. Ojo con esto."
+      },
+      {
+       "titulo": "Una taza compartida no es una taza ajena",
+       "gancho": "Compartir la vida no es dejar de tener la tuya. Esta imagen del café te lo explica en 30 segundos."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "titulo": "¿Y si el amor que atraes habla más de ti que de ellos?",
+     "subtema": "Patrones afectivos que se repiten: elegir a la misma persona con distinta cara, heridas de infancia y lo que aprendimos que era amar. Cierre: ¿de quién aprendiste a pelear?",
+     "referencia_video_id": "VaEtQ9UIGqU",
+     "shorts": [
+      {
+       "titulo": "Cambias de pareja, pero no de historia",
+       "gancho": "Nombre distinto, mismo final. Si te pasa, el problema no es la mala suerte. Es un guion."
+      },
+      {
+       "titulo": "Lo que creías normal en casa",
+       "gancho": "Lo que viste de niño es el primer manual de amor que leíste. Y quizá nadie lo revisó."
+      },
+      {
+       "titulo": "Anota 3 cosas que se repiten",
+       "gancho": "Cuaderno y 2 minutos: tres cosas que se repiten en todas tus relaciones. Ya tienes tu mapa."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "titulo": "¿Por qué siempre peleas por lo mismo? Pista: viene de casa",
+     "subtema": "El conflicto que se vuelve familiar: roles heredados, discusiones en bucle y qué necesidad hay debajo de la pelea. Cierre: si ya sabes por qué peleas, ¿por qué sigues ahí?",
+     "referencia_video_id": "C2xJX-QIY28",
+     "shorts": [
+      {
+       "titulo": "La pelea que ya te sabes de memoria",
+       "gancho": "Si puedes adivinar cada frase de la discusión antes de que empiece, no están peleando por eso."
+      },
+      {
+       "titulo": "Debajo de cada pelea hay una petición",
+       "gancho": "Detrás del siempre llegas tarde suele esconderse un necesito sentirte cerca. Aprende a traducir."
+      },
+      {
+       "titulo": "Pausa de un café",
+       "gancho": "Antes de responder en tu próxima discusión, pide 5 minutos y respira. Así se corta el bucle."
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "titulo": "Cómo dejar de amar a quien no te conviene (sin odiarlo)",
+     "subtema": "Desapego sin rencor: duelo, límites y soltar la versión idealizada de la persona. Cierre: cuando sueltas, ¿qué hay en tus manos vacías?",
+     "referencia_video_id": "PidfYb2KciY",
+     "shorts": [
+      {
+       "titulo": "Extrañas a alguien que nunca existió",
+       "gancho": "A veces no extrañas a la persona. Extrañas lo que imaginaste que podía ser. Y eso se puede soltar."
+      },
+      {
+       "titulo": "Soltar no es odiar",
+       "gancho": "Puedes cerrar la puerta sin tirar la casa abajo. Te digo cómo con un ejemplo de cafetería."
+      },
+      {
+       "titulo": "La carta que no vas a enviar",
+       "gancho": "Escribe todo lo que no le dijiste, en 5 minutos, y guárdala. Luego te cuento qué hacer con ella."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "titulo": "Amar sin perderte: lo que nadie te explica de elegirte",
+     "subtema": "Amor propio sin egoísmo ni muros: límites, tiempo propio, pedir y recibir. Cierre de la serie: te quedas con tu taza llena y la decisión de con quién compartirla.",
+     "referencia_video_id": "xt6CGKDkLpM",
+     "shorts": [
+      {
+       "titulo": "Elegirte no es egoísmo",
+       "gancho": "Te enseñaron que pensar en ti era ser frío. Hoy te muestro por qué es justo lo contrario."
+      },
+      {
+       "titulo": "3 límites suaves que sí funcionan",
+       "gancho": "No necesitas gritar para poner un límite. Tres frases cortas que lo hacen con cariño."
+      },
+      {
+       "titulo": "Tu taza llena primero",
+       "gancho": "No puedes servir café de una taza vacía. Mira cómo empezar a llenar la tuya hoy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "tema_madre": "Nadie se peleó, nadie traicionó a nadie, pero el vínculo ya no se siente igual. Germancho acompaña una pregunta que atraviesa los 6 capítulos: ¿este café frío se puede recalentar o toca servir una taza nueva? Cada capítulo destapa una capa del enfriamiento (distancia, discusiones repetidas, heridas viejas, hábitos) y deja abierta la duda que lleva al siguiente.",
+   "promesa": "Al terminar los 6 capítulos sabrás distinguir si tu vínculo está frío o terminado, qué lo enfrió y qué puedes hacer desde mañana, con un Reto de hoy de menos de 5 minutos en cada video. No sustituye la terapia de pareja: si el tema es muy pesado, acompáñate de un profesional.",
+   "capitulos": [
+    {
+     "n": 1,
+     "titulo": "¿Se enfrió tu relación o solo la dejaste sin atender?",
+     "subtema": "Diferencia entre un vínculo apagado por descuido y uno que ya terminó. Las tres tazas: tibia, fría y rota. Un mini diagnóstico honesto para empezar la serie.",
+     "referencia_video_id": "C2xJX-QIY28",
+     "shorts": [
+      {
+       "titulo": "Tu amor no se acabó, se enfrió",
+       "gancho": "Un café no se vuelve agua de un segundo a otro. Se enfría mientras miras el celular. ¿Cuándo fue la última vez que lo calentaste?"
+      },
+      {
+       "titulo": "3 tazas: tibia, fría o rota. ¿Cuál es la tuya?",
+       "gancho": "Antes de decidir nada con tu pareja, toca el borde de la taza. Te cuento cómo saber en cuál de las tres estás."
+      },
+      {
+       "titulo": "¿Cuándo fue la última vez que te sorprendió?",
+       "gancho": "Cierra los ojos y busca el último detalle bonito entre ustedes. Si tardaste en encontrarlo, este video es para ti."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "titulo": "5 señales de que se aleja (y ninguna es falta de amor)",
+     "subtema": "Cómo leer la distancia emocional sin dramatizar ni negarla: cansancio, miedo, rutina, silencio y desconexión. Qué hacer cuando alguien se aleja sin perseguir ni exigir.",
+     "referencia_video_id": "QPc13lHA1CM",
+     "shorts": [
+      {
+       "titulo": "Cuando se aleja, casi nunca es por lo que crees",
+       "gancho": "Tu mente ya armó tres películas. Frena un segundo: hay cinco razones de distancia y ninguna dice que no te quiere."
+      },
+      {
+       "titulo": "No lo persigas: haz esto en su lugar",
+       "gancho": "Perseguir enfría más. Hay una pregunta de diez segundos que abre la puerta sin presionar."
+      },
+      {
+       "titulo": "La señal número 4 casi nadie la ve",
+       "gancho": "No es que hable menos. Es algo que dejó de contarte. Fíjate si pasa en tu casa."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "titulo": "Por qué siempre discuten por lo mismo (y no es lo que crees)",
+     "subtema": "El conflicto repetido como mensaje: debajo de la discusión por platos, mensajes o tiempo hay una necesidad sin nombrar. Cómo cambiar el guion de la pelea y pedir lo que de verdad necesitas.",
+     "referencia_video_id": "C2xJX-QIY28",
+     "shorts": [
+      {
+       "titulo": "No pelean por los platos",
+       "gancho": "Los platos son la excusa. Debajo hay una frase que ninguno se atreve a decir. Te enseño a encontrarla."
+      },
+      {
+       "titulo": "La frase que apaga cualquier discusión en 10 segundos",
+       "gancho": "No es perdón ni razón. Es una pregunta corta que baja el volumen de la pelea. Pruébala hoy."
+      },
+      {
+       "titulo": "¿Te suena familiar este conflicto?",
+       "gancho": "Si la discusión de anoche ya la tuvieron hace un mes, el problema no es el tema. Mira esto."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "titulo": "La herida que enfría tu taza: lo que traes de antes",
+     "subtema": "Cómo las heridas de infancia y relaciones pasadas (abandono, rechazo, control) se cuelan en la pareja actual. Cómo reconocer cuándo reaccionas desde lo viejo y no desde lo que pasa hoy.",
+     "referencia_video_id": "VaEtQ9UIGqU",
+     "shorts": [
+      {
+       "titulo": "Estás peleando con alguien que no está en la mesa",
+       "gancho": "A veces tu pareja paga una cuenta que dejó otra persona. Te cuento cómo notarlo antes de explotar."
+      },
+      {
+       "titulo": "El amor que atraes cuenta tu historia",
+       "gancho": "Mismo tipo de pareja, mismo final. No es mala suerte. Hay un patrón y tiene arreglo."
+      },
+      {
+       "titulo": "Reacción de hoy o herida de ayer: pregúntate esto",
+       "gancho": "Antes de contestar enojado, hazte una pregunta de cinco palabras. Cambia todo el diálogo."
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "titulo": "7 hábitos de 5 minutos que recalientan una relación",
+     "subtema": "Microhábitos de conexión emocional: mirada, pregunta del día, agradecimiento específico, tacto, tiempo sin pantallas, curiosidad y reparación rápida tras una pelea. Cómo sostenerlos sin que se sientan forzados.",
+     "referencia_video_id": "bYnUKmH4KxA",
+     "shorts": [
+      {
+       "titulo": "5 minutos al día que cambian una relación",
+       "gancho": "No necesitas una cena romántica ni un viaje. Necesitas cinco minutos sin celular. Te digo qué hacer en ellos."
+      },
+      {
+       "titulo": "Agradece así y verás qué pasa",
+       "gancho": "Gracias por todo no sirve. Hay una forma específica de agradecer que se siente como un abrazo."
+      },
+      {
+       "titulo": "El hábito más pequeño y el más poderoso",
+       "gancho": "Dura diez segundos y casi nadie lo hace al llegar a casa. Hoy puedes empezar."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "titulo": "¿Recalentar el café o servir una taza nueva?",
+     "subtema": "Cierre de la serie: criterios honestos para decidir si seguir, pausar o soltar. Cuándo hay algo que reconstruir, cuándo dejar ir con paz, y la importancia de pedir ayuda profesional en pareja.",
+     "referencia_video_id": "PidfYb2KciY",
+     "shorts": [
+      {
+       "titulo": "3 preguntas para saber si quedarte o soltar",
+       "gancho": "Sin lista infinita de pros y contras. Tres preguntas, una taza y un cuaderno. Anota tus respuestas."
+      },
+      {
+       "titulo": "Soltar también puede ser amor",
+       "gancho": "Quedarse no siempre es valentía y irse no siempre es fracaso. Te cuento cómo distinguirlo."
+      },
+      {
+       "titulo": "¿Y si ya no hay nada que recalentar?",
+       "gancho": "Hay señales de que esta taza ya cumplió su ciclo. Y hay una forma de cerrar sin rencor."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "tema_madre": "Amas como aprendiste a amar, y casi nadie te lo contó. Cada capítulo destapa un ingrediente heredado de tu familia (cómo se discutía, quién cuidaba, qué no se decía) que hoy sazona tu pareja, tu amor propio y tus vínculos. La tensión: en cada video aparece una pista más sobre una receta que sigues cocinando sin haberla elegido, y solo en el capítulo 6 aprendes a reescribirla.",
+   "promesa": "Al terminar la serie sabrás identificar qué patrones de amor copiaste sin darte cuenta, cuáles quieres conservar y cuáles cambiar, con un reto de menos de 5 minutos en cada capítulo. Si algún tema te remueve mucho, acompañarte de un profesional de la salud mental puede ayudarte.",
+   "capitulos": [
+    {
+     "n": 1,
+     "titulo": "Por qué te enamoras siempre del mismo tipo de persona",
+     "subtema": "La repetición de patrones en pareja: cómo lo familiar se confunde con lo correcto y cómo reconocer tu tipo sin culparte.",
+     "referencia_video_id": "VaEtQ9UIGqU",
+     "shorts": [
+      {
+       "titulo": "Cambias de pareja, pero no de historia",
+       "gancho": "Otra cara, otro nombre, y la misma película. Te cuento por qué tu corazón elige siempre el mismo guion."
+      },
+      {
+       "titulo": "Lo familiar no siempre es lo bueno",
+       "gancho": "Tu cuerpo no busca lo que te conviene, busca lo que reconoce. Y eso lo cambia todo en el amor."
+      },
+      {
+       "titulo": "Reto: tus 3 exparejas en una taza",
+       "gancho": "Toma tu cuaderno y anota qué tuvieron en común tus últimas tres relaciones. Lo que verás en 2 minutos te va a sorprender."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "titulo": "Discutes como tus papás y no te das cuenta: 5 señales",
+     "subtema": "Cómo se heredan las formas de pelear, callar o huir en la pareja, y cómo notar cuándo estás repitiendo la discusión de tu infancia.",
+     "referencia_video_id": "C2xJX-QIY28",
+     "shorts": [
+      {
+       "titulo": "¿Gritas, callas o te vas? Mira de quién lo aprendiste",
+       "gancho": "En tu última discusión hiciste algo que ya habías visto en casa. Adivina qué fue."
+      },
+      {
+       "titulo": "Esa frase que juraste no decir... y dijiste",
+       "gancho": "Tu voz sonó igual a la de alguien más. Hablemos de por qué pasa y cómo frenarlo."
+      },
+      {
+       "titulo": "Reto: la pausa de una taza",
+       "gancho": "La próxima vez que te enojes, pide cinco minutos y sirve algo caliente. Así se rompe el ciclo."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "titulo": "Rescatas, complaces, aguantas: 4 disfraces del amor aprendido",
+     "subtema": "Cuando la dependencia, el sacrificio constante o el rol de salvador se confunden con amar. Cómo distinguir cuidar de cargar.",
+     "referencia_video_id": "-ai9L-jXtx0",
+     "shorts": [
+      {
+       "titulo": "Amar no es salvar a nadie",
+       "gancho": "Si siempre eres quien arregla al otro, quizá no estás amando: estás cumpliendo un papel viejo."
+      },
+      {
+       "titulo": "Cuidar o cargar: la prueba de la escalera",
+       "gancho": "Hay una pregunta simple para saber si subes con alguien o lo llevas en la espalda."
+      },
+      {
+       "titulo": "Reto: di no a una cosa pequeña hoy",
+       "gancho": "Un no suave, sin drama, en menos de cinco minutos. Cuéntame cómo se sintió."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "titulo": "En tu casa no se hablaba de esto y hoy te cuesta en pareja",
+     "subtema": "Las emociones silenciadas en la familia (tristeza, miedo, necesidad de afecto) y cómo se notan hoy en la distancia emocional y en el cuesta pedir lo que necesitas.",
+     "referencia_video_id": "yiBB-3_Fmx8",
+     "shorts": [
+      {
+       "titulo": "El silencio también se hereda",
+       "gancho": "Hay cosas que nadie dijo en tu casa y que hoy tu pareja siente que le faltan."
+      },
+      {
+       "titulo": "¿Por qué te cuesta pedir un abrazo?",
+       "gancho": "No es orgullo ni frialdad. Es una lección vieja que nunca revisaste."
+      },
+      {
+       "titulo": "Reto: una frase que nunca dijiste",
+       "gancho": "Escríbela en una servilleta y dila hoy a quien quieras. Solo una. Menos de cinco minutos."
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "titulo": "Por qué lo que te hace daño se siente como hogar",
+     "subtema": "El apego a vínculos que no convienen: por qué soltar duele más de lo esperado, cómo diferenciar costumbre de amor y pasos para el desapego sin dureza.",
+     "referencia_video_id": "PidfYb2KciY",
+     "shorts": [
+      {
+       "titulo": "Extrañas a alguien que te hacía mal. ¿Qué te pasa?",
+       "gancho": "No estás loco ni loca. Te explico qué extrañas realmente cuando extrañas eso."
+      },
+      {
+       "titulo": "Costumbre o amor: 3 preguntas para saberlo",
+       "gancho": "Responde con el corazón tibio, no caliente. Te toma un café."
+      },
+      {
+       "titulo": "Reto: la lista de lo que sí y lo que no",
+       "gancho": "Dos columnas en tu cuaderno. Tres minutos. Y una verdad que quizá ya sabías."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "titulo": "Reescribe tu receta de amor: 7 hábitos pequeños",
+     "subtema": "Cierre de la serie: cómo conservar lo bueno heredado, cambiar lo que no funciona y construir hábitos diarios para vínculos más sanos con pareja, familia y contigo.",
+     "referencia_video_id": "bYnUKmH4KxA",
+     "shorts": [
+      {
+       "titulo": "No viniste a repetir la receta, viniste a mejorarla",
+       "gancho": "Tu familia te dio ingredientes, no una condena. Aquí empieza tu versión."
+      },
+      {
+       "titulo": "El hábito de 2 minutos que cambia tus vínculos",
+       "gancho": "Pequeño, casi ridículo, pero constante. Te cuento cuál es."
+      },
+      {
+       "titulo": "Reto: escribe tu primer ingrediente nuevo",
+       "gancho": "Una sola línea sobre cómo quieres amar desde hoy. Compártela en comentarios."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "El Cuaderno Tachado: 6 capítulos para soltar sin romperte",
+   "tema_madre": "Hay amores que ya no son amor, pero siguen ocupando todas las páginas de tu cuaderno. Germancho te acompaña a descubrir por qué te cuesta soltar, qué se disfraza de cariño, qué patrón repites, cuánto cuesta quedarte, cómo atravesar el vacío y qué escribir en la primera página en blanco. Cada capítulo cierra con una pista sobre la página que sigue, y la última página (la 7) se revela solo en el capítulo 6.",
+   "promesa": "Al terminar los 6 capítulos sabrás distinguir amor de apego, soltar sin odiarte ni castigarte y empezar una página nueva con criterio propio, no con miedo a la soledad.",
+   "capitulos": [
+    {
+     "n": 1,
+     "titulo": "Por qué sigues amando a quien no te conviene (no eres débil)",
+     "subtema": "La mecánica emocional del apego: por qué el corazón no obedece a la lógica y cómo nombrar lo que sientes sin juzgarte.",
+     "referencia_video_id": "PidfYb2KciY",
+     "shorts": [
+      {
+       "titulo": "Sabes que no te conviene, pero igual lo extrañas",
+       "gancho": "Tu cabeza dice basta y tu corazón sigue mandando mensajes. Eso no es debilidad. Tiene nombre, y en 30 segundos te lo cuento."
+      },
+      {
+       "titulo": "El truco del café: así se siente el apego",
+       "gancho": "Dejar un café que te hace daño cuesta, no porque sea bueno, sino porque es costumbre. Con las personas pasa igual."
+      },
+      {
+       "titulo": "Reto: escribe 3 cosas que extrañas de verdad",
+       "gancho": "Coge tu cuaderno. Escribe qué extrañas: ¿a la persona o a cómo te hacía sentir? La respuesta incomoda, pero aclara."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "titulo": "5 señales de que es dependencia y no amor (la 4 duele)",
+     "subtema": "Diferencias entre amar y necesitar: miedo a la soledad, control, ansiedad por la respuesta, y cómo se disfraza todo de entrega.",
+     "referencia_video_id": "-ai9L-jXtx0",
+     "shorts": [
+      {
+       "titulo": "Si tu día depende de su mensaje, mira esto",
+       "gancho": "Revisar el celular cada cinco minutos no es romanticismo. Es una pista. Te muestro qué te está diciendo."
+      },
+      {
+       "titulo": "Amar no se siente como esperar permiso",
+       "gancho": "Cuando pides perdón por existir, algo se torció. Esto es lo que cambia entre amor y dependencia."
+      },
+      {
+       "titulo": "Reto: la prueba del fin de semana sin ti",
+       "gancho": "Imagina un domingo sin su respuesta. ¿Qué sientes primero: calma o pánico? Anótalo y cuéntame en comentarios."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "titulo": "¿Por qué siempre eliges al mismo tipo de persona?",
+     "subtema": "Patrones afectivos y heridas de origen: cómo lo familiar se confunde con lo correcto y cómo empezar a elegir distinto. Si el patrón duele mucho, un profesional puede acompañarte.",
+     "referencia_video_id": "VaEtQ9UIGqU",
+     "shorts": [
+      {
+       "titulo": "Cambias de nombre, pero es la misma historia",
+       "gancho": "Otra persona, otra ciudad y el mismo final. No es mala suerte: es un patrón que se puede leer."
+      },
+      {
+       "titulo": "Lo familiar no siempre es lo seguro",
+       "gancho": "Tu cuerpo reconoce lo conocido aunque duela. Por eso a veces el amor tranquilo te parece aburrido."
+      },
+      {
+       "titulo": "Reto: dibuja a tus últimas 3 parejas en una línea",
+       "gancho": "Una frase por cada una: cómo te trataban. Mira qué se repite. Esa es tu primera pista."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "titulo": "Quedarte no siempre es amar: el costo oculto de aguantar",
+     "subtema": "Lo que sacrificas al sostener un vínculo que te agota: paz, sueño, amistades, autoestima. Cómo calcular el precio real sin dramatizar.",
+     "referencia_video_id": "-PX8yO82xys",
+     "shorts": [
+      {
+       "titulo": "¿Cuánto te cuesta esta relación? Haz la cuenta",
+       "gancho": "No hablo de dinero. Hablo de sueño, de risa y de paz. Saca el cuaderno y suma lo que has dejado."
+      },
+      {
+       "titulo": "Aguantar no es lo mismo que ser fuerte",
+       "gancho": "Hay quien confunde resistir con amar. La diferencia está en cuánto te quedas tú después."
+      },
+      {
+       "titulo": "Reto: una cosa que dejaste por esta relación",
+       "gancho": "Piensa en un hobby, un amigo o una rutina que abandonaste. Hoy dedícale cinco minutos."
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "titulo": "Soltar no es olvidar: qué hacer con el vacío después",
+     "subtema": "El duelo posterior: recaídas, nostalgia, silencio, la tentación de volver. Herramientas simples para acompañarte, y cuándo pedir ayuda profesional.",
+     "referencia_video_id": "9Mx_EO1QWTU",
+     "shorts": [
+      {
+       "titulo": "La semana 3 es la peor y nadie te la cuenta",
+       "gancho": "Pasó la adrenalina, llega el silencio. Si estás ahí, esto te va a hacer sentir menos solo."
+      },
+      {
+       "titulo": "Vas a escribirle. Haz esto antes de enviar",
+       "gancho": "Antes de escribir ese mensaje, abre tu cuaderno y haz esto durante tres minutos. Después decides."
+      },
+      {
+       "titulo": "Extrañar no significa que debas volver",
+       "gancho": "Puedes extrañar algo y aun así no elegirlo. Te explico cómo convivir con las dos cosas."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "titulo": "Qué escribir en la página en blanco: 3 reglas para amar de nuevo",
+     "subtema": "Cómo empezar un vínculo nuevo sin repetir el patrón: criterios propios, ritmo, límites y la revelación de la página 7 que da cierre a la serie.",
+     "referencia_video_id": "cIB92GESyrE",
+     "shorts": [
+      {
+       "titulo": "La página 7: lo que nunca te dijeron de empezar otra vez",
+       "gancho": "Llegamos a la última página del cuaderno. Y lo que va escrito ahí no es un nombre, es una decisión."
+      },
+      {
+       "titulo": "3 reglas antes de abrirle la puerta a alguien nuevo",
+       "gancho": "No es una lista perfecta, es una guía mínima. La regla 2 te va a ahorrar meses."
+      },
+      {
+       "titulo": "Reto: escribe tu primera línea en blanco",
+       "gancho": "Una sola frase sobre cómo quieres sentirte en tu próximo vínculo. Cinco minutos, sin tachar."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "vivos": [
+  {
+   "titulo": "En vivo: ¿Amas o te aferras? Café y cuaderno en mano",
+   "pregunta_abierta": "¿Cómo distingues en tu vida cuándo estás amando y cuándo te estás aferrando por miedo a soltar?",
+   "reto_colectivo": "Todos escribimos en el chat una frase que empiece con: Esta semana voy a soltar ______. Al final, cada quien elige una acción de menos de 5 minutos para cumplirla y la comparte en comentarios."
+  },
+  {
+   "titulo": "En vivo: 5 conversaciones pendientes con tu pareja",
+   "pregunta_abierta": "¿Cuál es esa conversación que llevas semanas posponiendo y qué crees que pasaría si la abrieras con calma?",
+   "reto_colectivo": "Cada persona redacta en el chat la primera frase de esa conversación, sin reproches y con un yo siento. Nos damos retroalimentación entre todos y quien quiera se compromete a decirla en las próximas 48 horas."
+  },
+  {
+   "titulo": "En vivo: decir que no en el amor sin sentir culpa",
+   "pregunta_abierta": "¿En qué situaciones de pareja o familia dices sí cuando por dentro quieres decir no, y qué te da miedo que pase?",
+   "reto_colectivo": "Durante el vivo practicamos juntos: cada quien escribe un no amable y claro. Después, el reto de la semana es decir un solo no pequeño y contar cómo se sintió."
+  },
+  {
+   "titulo": "En vivo: familia que duele, familia que amas",
+   "pregunta_abierta": "¿Qué vínculo familiar te gustaría tratar con más paz, y qué parte de esa relación sí depende de ti?",
+   "reto_colectivo": "Cada quien elige un gesto pequeño, como un mensaje, una llamada o un límite sano, para esa persona. Lo escribimos en el chat y lo cumplimos antes del próximo vivo. Si el vínculo te desborda, apoyarte en un profesional también es un acto de amor."
+  },
+  {
+   "titulo": "En vivo: cómo volver a elegirte después de una ruptura",
+   "pregunta_abierta": "¿Qué parte de ti quedó en pausa durante esa relación y qué necesitas para volver a darle espacio?",
+   "reto_colectivo": "Armamos entre todos una lista colectiva de pequeños rituales de amor propio, como un café a solas, una caminata o una carta. Cada persona se lleva uno para hacer en los próximos 7 días. Si el dolor se siente muy pesado, consulta a un profesional."
+  },
+  {
+   "titulo": "En vivo: ¿qué le pides al amor que ya puedes darte tú?",
+   "pregunta_abierta": "¿Qué cosa esperas que te dé tu pareja, o quien quieres que llegue, que hoy podrías empezar a darte tú mismo o tú misma?",
+   "reto_colectivo": "Escribimos en el chat: Hoy me doy ______. Y cada quien se lo cumple antes de dormir, con un acto de menos de 5 minutos. Mañana lo contamos en comentarios."
+  }
+ ],
+ "comunidad": [
+  {
+   "tipo": "encuesta",
+   "texto": "Personaliza tu Germancho: ¿de qué hablamos en el próximo video? A) Cómo soltar a alguien que no te conviene. B) Cómo poner límites sin culpa. C) Cómo amarte sin volverte egoísta. D) Cómo hablar lo difícil en pareja."
+  },
+  {
+   "tipo": "reto",
+   "texto": "Reto de la semana: durante 7 días, antes de responder en una discusión, toma 3 respiraciones y pregúntate qué necesito yo realmente ahora. Anota la respuesta en tu cuaderno y cuéntanos en comentarios cómo te fue el día 3."
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Pregunta de hoy, con café en mano: ¿qué es lo más amoroso que alguien ha hecho por ti sin decir una sola palabra? Léelo y quizá te animes a devolver ese gesto."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Personaliza tu Germancho: ¿en qué formato prefieres que te acompañe? A) Shorts de 1 minuto con reto rápido. B) Videos largos para reflexionar con calma. C) Vivos con preguntas y retos en grupo. D) Un poco de todo, pero con café."
+  },
+  {
+   "tipo": "reto",
+   "texto": "Reto de la semana: escríbete una carta de 5 líneas como si fueras tu mejor amigo o amiga hablándote del amor. Léela en voz alta una vez y comparte en comentarios una frase que quieras guardar."
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Sin juzgar y sin dar consejos: ¿qué patrón repites en tus relaciones que ya te gustaría cambiar? Si lo escribes aquí, ya empezaste a verlo."
+  }
+ ],
+ "piezas": [
+  {
+   "id": "equilibrate_es-20261106-L",
+   "fecha": "2026-11-06",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 1,
+   "titulo": "Das tanto en pareja que no te queda nada: ¿por qué lo haces?",
+   "subtema": "Dar de más como miedo disfrazado de generosidad: el agradador crónico y el miedo a que si no das, no te quieran. Cierre: si das tanto, ¿de dónde te estás sirviendo?",
+   "referencia_video_id": "-PX8yO82xys",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261106-S",
+   "fecha": "2026-11-06",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 1,
+   "titulo": "Dar de más no siempre es amor",
+   "gancho": "Si das para que no se vayan, eso no es generosidad. Es una cuenta que alguien va a cobrar. Te cuento cuál.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261107-S",
+   "fecha": "2026-11-07",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "Amas a alguien que no te conviene: 3 pasos para soltar",
+   "gancho": "Te sirvieron un café que ya se enfrió y sigues soplándole como si fuera a calentarse. Hoy hablamos de soltar la taza sin culparte. Reto de hoy: escribe en una hoja una cosa que esa relación te quita y otra que te da, y léelas en voz alta.",
+   "referencia_video_id": "PidfYb2KciY",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261107-C",
+   "fecha": "2026-11-07",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Personaliza tu Germancho: ¿de qué hablamos en el próximo video? A) Cómo soltar a alguien que no te conviene. B) Cómo poner límites sin culpa. C) Cómo amarte sin volverte egoísta. D) Cómo hablar lo difícil en pareja.",
+   "subtipo": "encuesta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261108-S",
+   "fecha": "2026-11-08",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "¿Es amor o es miedo a quedarte sin nadie?",
+   "gancho": "Si tu paz depende de que te respondan el mensaje, mira bien la etiqueta de esa taza. Puede que no diga amor. Reto de hoy: completa esta frase en tu cuaderno: me quedo porque ______. Y comenta con qué la completaste.",
+   "referencia_video_id": "-ai9L-jXtx0",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261108-V",
+   "fecha": "2026-11-08",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: ¿Amas o te aferras? Café y cuaderno en mano",
+   "pregunta_abierta": "¿Cómo distingues en tu vida cuándo estás amando y cuándo te estás aferrando por miedo a soltar?",
+   "reto_colectivo": "Todos escribimos en el chat una frase que empiece con: Esta semana voy a soltar ______. Al final, cada quien elige una acción de menos de 5 minutos para cumplirla y la comparte en comentarios.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261109-L",
+   "fecha": "2026-11-09",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 2,
+   "titulo": "5 señales de que tu dependencia se disfraza de amor",
+   "subtema": "Diferencia entre necesitar y elegir: ansiedad por mensajes, miedo a la soledad, validación constante. Cierre: si no es amor, ¿de dónde viene esa necesidad?",
+   "referencia_video_id": "-ai9L-jXtx0",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261109-S",
+   "fecha": "2026-11-09",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 1,
+   "titulo": "3 frases del agradador crónico",
+   "gancho": "Como tú quieras, no importa, a mí me da igual. Si dices esto seguido, tu taza lleva meses vacía.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261109-C",
+   "fecha": "2026-11-09",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Reto de la semana: durante 7 días, antes de responder en una discusión, toma 3 respiraciones y pregúntate qué necesito yo realmente ahora. Anota la respuesta en tu cuaderno y cuéntanos en comentarios cómo te fue el día 3.",
+   "subtipo": "reto",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261110-S",
+   "fecha": "2026-11-10",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 1,
+   "titulo": "¿Cuándo fue la última vez que pediste algo?",
+   "gancho": "Piensa en tu último pedido real a tu pareja o familia. Si no lo recuerdas, este video es para ti.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261110-V",
+   "fecha": "2026-11-10",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: 5 conversaciones pendientes con tu pareja",
+   "pregunta_abierta": "¿Cuál es esa conversación que llevas semanas posponiendo y qué crees que pasaría si la abrieras con calma?",
+   "reto_colectivo": "Cada persona redacta en el chat la primera frase de esa conversación, sin reproches y con un yo siento. Nos damos retroalimentación entre todos y quien quiera se compromete a decirla en las próximas 48 horas.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261111-L",
+   "fecha": "2026-11-11",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 3,
+   "titulo": "¿Y si el amor que atraes habla más de ti que de ellos?",
+   "subtema": "Patrones afectivos que se repiten: elegir a la misma persona con distinta cara, heridas de infancia y lo que aprendimos que era amar. Cierre: ¿de quién aprendiste a pelear?",
+   "referencia_video_id": "VaEtQ9UIGqU",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261111-S",
+   "fecha": "2026-11-11",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 2,
+   "titulo": "Amor o necesidad: la prueba del celular",
+   "gancho": "Deja tu celular boca abajo una hora. Lo que sientes ahí dice más que cualquier te quiero.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261112-S",
+   "fecha": "2026-11-12",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 2,
+   "titulo": "No es que lo ames, es que le temes",
+   "gancho": "A veces lo que llamas amor es pánico a quedarte con tu propio silencio. Ojo con esto.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261112-V",
+   "fecha": "2026-11-12",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: decir que no en el amor sin sentir culpa",
+   "pregunta_abierta": "¿En qué situaciones de pareja o familia dices sí cuando por dentro quieres decir no, y qué te da miedo que pase?",
+   "reto_colectivo": "Durante el vivo practicamos juntos: cada quien escribe un no amable y claro. Después, el reto de la semana es decir un solo no pequeño y contar cómo se sintió.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261112-C",
+   "fecha": "2026-11-12",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Pregunta de hoy, con café en mano: ¿qué es lo más amoroso que alguien ha hecho por ti sin decir una sola palabra? Léelo y quizá te animes a devolver ese gesto.",
+   "subtipo": "pregunta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261113-L",
+   "fecha": "2026-11-13",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 4,
+   "titulo": "¿Por qué siempre peleas por lo mismo? Pista: viene de casa",
+   "subtema": "El conflicto que se vuelve familiar: roles heredados, discusiones en bucle y qué necesidad hay debajo de la pelea. Cierre: si ya sabes por qué peleas, ¿por qué sigues ahí?",
+   "referencia_video_id": "C2xJX-QIY28",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261113-S",
+   "fecha": "2026-11-13",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 2,
+   "titulo": "Una taza compartida no es una taza ajena",
+   "gancho": "Compartir la vida no es dejar de tener la tuya. Esta imagen del café te lo explica en 30 segundos.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261114-S",
+   "fecha": "2026-11-14",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 3,
+   "titulo": "Cambias de pareja, pero no de historia",
+   "gancho": "Nombre distinto, mismo final. Si te pasa, el problema no es la mala suerte. Es un guion.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261114-C",
+   "fecha": "2026-11-14",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Personaliza tu Germancho: ¿en qué formato prefieres que te acompañe? A) Shorts de 1 minuto con reto rápido. B) Videos largos para reflexionar con calma. C) Vivos con preguntas y retos en grupo. D) Un poco de todo, pero con café.",
+   "subtipo": "encuesta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261115-S",
+   "fecha": "2026-11-15",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "Amar sin perderte: lo que pasa cuando vacías tu taza",
+   "gancho": "Nadie puede servir café de una taza vacía, y en el amor muchas veces servimos hasta la última gota. Te muestro cómo amar sin quedarte en cero. Reto de hoy: anota una cosa que dejaste de hacer por ti desde que estás en pareja y agéndala esta semana.",
+   "referencia_video_id": "xt6CGKDkLpM",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261115-V",
+   "fecha": "2026-11-15",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: familia que duele, familia que amas",
+   "pregunta_abierta": "¿Qué vínculo familiar te gustaría tratar con más paz, y qué parte de esa relación sí depende de ti?",
+   "reto_colectivo": "Cada quien elige un gesto pequeño, como un mensaje, una llamada o un límite sano, para esa persona. Lo escribimos en el chat y lo cumplimos antes del próximo vivo. Si el vínculo te desborda, apoyarte en un profesional también es un acto de amor.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261116-L",
+   "fecha": "2026-11-16",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 5,
+   "titulo": "Cómo dejar de amar a quien no te conviene (sin odiarlo)",
+   "subtema": "Desapego sin rencor: duelo, límites y soltar la versión idealizada de la persona. Cierre: cuando sueltas, ¿qué hay en tus manos vacías?",
+   "referencia_video_id": "PidfYb2KciY",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261116-S",
+   "fecha": "2026-11-16",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 3,
+   "titulo": "Lo que creías normal en casa",
+   "gancho": "Lo que viste de niño es el primer manual de amor que leíste. Y quizá nadie lo revisó.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261116-C",
+   "fecha": "2026-11-16",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Reto de la semana: escríbete una carta de 5 líneas como si fueras tu mejor amigo o amiga hablándote del amor. Léela en voz alta una vez y comparte en comentarios una frase que quieras guardar.",
+   "subtipo": "reto",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261117-S",
+   "fecha": "2026-11-17",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 3,
+   "titulo": "Anota 3 cosas que se repiten",
+   "gancho": "Cuaderno y 2 minutos: tres cosas que se repiten en todas tus relaciones. Ya tienes tu mapa.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261117-V",
+   "fecha": "2026-11-17",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: cómo volver a elegirte después de una ruptura",
+   "pregunta_abierta": "¿Qué parte de ti quedó en pausa durante esa relación y qué necesitas para volver a darle espacio?",
+   "reto_colectivo": "Armamos entre todos una lista colectiva de pequeños rituales de amor propio, como un café a solas, una caminata o una carta. Cada persona se lleva uno para hacer en los próximos 7 días. Si el dolor se siente muy pesado, consulta a un profesional.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261118-L",
+   "fecha": "2026-11-18",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 6,
+   "titulo": "Amar sin perderte: lo que nadie te explica de elegirte",
+   "subtema": "Amor propio sin egoísmo ni muros: límites, tiempo propio, pedir y recibir. Cierre de la serie: te quedas con tu taza llena y la decisión de con quién compartirla.",
+   "referencia_video_id": "xt6CGKDkLpM",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261118-S",
+   "fecha": "2026-11-18",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 4,
+   "titulo": "La pelea que ya te sabes de memoria",
+   "gancho": "Si puedes adivinar cada frase de la discusión antes de que empiece, no están peleando por eso.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261119-S",
+   "fecha": "2026-11-19",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 4,
+   "titulo": "Debajo de cada pelea hay una petición",
+   "gancho": "Detrás del siempre llegas tarde suele esconderse un necesito sentirte cerca. Aprende a traducir.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261119-V",
+   "fecha": "2026-11-19",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: ¿qué le pides al amor que ya puedes darte tú?",
+   "pregunta_abierta": "¿Qué cosa esperas que te dé tu pareja, o quien quieres que llegue, que hoy podrías empezar a darte tú mismo o tú misma?",
+   "reto_colectivo": "Escribimos en el chat: Hoy me doy ______. Y cada quien se lo cumple antes de dormir, con un acto de menos de 5 minutos. Mañana lo contamos en comentarios.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261119-C",
+   "fecha": "2026-11-19",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Sin juzgar y sin dar consejos: ¿qué patrón repites en tus relaciones que ya te gustaría cambiar? Si lo escribes aquí, ya empezaste a verlo.",
+   "subtipo": "pregunta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261120-L",
+   "fecha": "2026-11-20",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 1,
+   "titulo": "¿Se enfrió tu relación o solo la dejaste sin atender?",
+   "subtema": "Diferencia entre un vínculo apagado por descuido y uno que ya terminó. Las tres tazas: tibia, fría y rota. Un mini diagnóstico honesto para empezar la serie.",
+   "referencia_video_id": "C2xJX-QIY28",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261120-S",
+   "fecha": "2026-11-20",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 4,
+   "titulo": "Pausa de un café",
+   "gancho": "Antes de responder en tu próxima discusión, pide 5 minutos y respira. Así se corta el bucle.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261121-S",
+   "fecha": "2026-11-21",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 5,
+   "titulo": "Extrañas a alguien que nunca existió",
+   "gancho": "A veces no extrañas a la persona. Extrañas lo que imaginaste que podía ser. Y eso se puede soltar.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261121-C",
+   "fecha": "2026-11-21",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Personaliza tu Germancho: ¿de qué hablamos en el próximo video? A) Cómo soltar a alguien que no te conviene. B) Cómo poner límites sin culpa. C) Cómo amarte sin volverte egoísta. D) Cómo hablar lo difícil en pareja.",
+   "subtipo": "encuesta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261122-S",
+   "fecha": "2026-11-22",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "El amor que atraes habla más de ti que de tu pareja",
+   "gancho": "¿Y si siempre te enamoras del mismo tipo de persona porque sigues pidiendo el mismo café? Un patrón repetido es una pista, no una condena. Reto de hoy: escribe tres rasgos que se repiten en tus últimas relaciones y comenta cuál te sorprendió.",
+   "referencia_video_id": "VaEtQ9UIGqU",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261122-V",
+   "fecha": "2026-11-22",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: ¿Amas o te aferras? Café y cuaderno en mano",
+   "pregunta_abierta": "¿Cómo distingues en tu vida cuándo estás amando y cuándo te estás aferrando por miedo a soltar?",
+   "reto_colectivo": "Todos escribimos en el chat una frase que empiece con: Esta semana voy a soltar ______. Al final, cada quien elige una acción de menos de 5 minutos para cumplirla y la comparte en comentarios.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261123-L",
+   "fecha": "2026-11-23",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 2,
+   "titulo": "5 señales de que se aleja (y ninguna es falta de amor)",
+   "subtema": "Cómo leer la distancia emocional sin dramatizar ni negarla: cansancio, miedo, rutina, silencio y desconexión. Qué hacer cuando alguien se aleja sin perseguir ni exigir.",
+   "referencia_video_id": "QPc13lHA1CM",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261123-S",
+   "fecha": "2026-11-23",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 5,
+   "titulo": "Soltar no es odiar",
+   "gancho": "Puedes cerrar la puerta sin tirar la casa abajo. Te digo cómo con un ejemplo de cafetería.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261123-C",
+   "fecha": "2026-11-23",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Reto de la semana: durante 7 días, antes de responder en una discusión, toma 3 respiraciones y pregúntate qué necesito yo realmente ahora. Anota la respuesta en tu cuaderno y cuéntanos en comentarios cómo te fue el día 3.",
+   "subtipo": "reto",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261124-S",
+   "fecha": "2026-11-24",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 5,
+   "titulo": "La carta que no vas a enviar",
+   "gancho": "Escribe todo lo que no le dijiste, en 5 minutos, y guárdala. Luego te cuento qué hacer con ella.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261124-V",
+   "fecha": "2026-11-24",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: 5 conversaciones pendientes con tu pareja",
+   "pregunta_abierta": "¿Cuál es esa conversación que llevas semanas posponiendo y qué crees que pasaría si la abrieras con calma?",
+   "reto_colectivo": "Cada persona redacta en el chat la primera frase de esa conversación, sin reproches y con un yo siento. Nos damos retroalimentación entre todos y quien quiera se compromete a decirla en las próximas 48 horas.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261125-L",
+   "fecha": "2026-11-25",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 3,
+   "titulo": "Por qué siempre discuten por lo mismo (y no es lo que crees)",
+   "subtema": "El conflicto repetido como mensaje: debajo de la discusión por platos, mensajes o tiempo hay una necesidad sin nombrar. Cómo cambiar el guion de la pelea y pedir lo que de verdad necesitas.",
+   "referencia_video_id": "C2xJX-QIY28",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261125-S",
+   "fecha": "2026-11-25",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 6,
+   "titulo": "Elegirte no es egoísmo",
+   "gancho": "Te enseñaron que pensar en ti era ser frío. Hoy te muestro por qué es justo lo contrario.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261126-S",
+   "fecha": "2026-11-26",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 6,
+   "titulo": "3 límites suaves que sí funcionan",
+   "gancho": "No necesitas gritar para poner un límite. Tres frases cortas que lo hacen con cariño.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261126-V",
+   "fecha": "2026-11-26",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: decir que no en el amor sin sentir culpa",
+   "pregunta_abierta": "¿En qué situaciones de pareja o familia dices sí cuando por dentro quieres decir no, y qué te da miedo que pase?",
+   "reto_colectivo": "Durante el vivo practicamos juntos: cada quien escribe un no amable y claro. Después, el reto de la semana es decir un solo no pequeño y contar cómo se sintió.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261126-C",
+   "fecha": "2026-11-26",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Pregunta de hoy, con café en mano: ¿qué es lo más amoroso que alguien ha hecho por ti sin decir una sola palabra? Léelo y quizá te animes a devolver ese gesto.",
+   "subtipo": "pregunta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261127-L",
+   "fecha": "2026-11-27",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 4,
+   "titulo": "La herida que enfría tu taza: lo que traes de antes",
+   "subtema": "Cómo las heridas de infancia y relaciones pasadas (abandono, rechazo, control) se cuelan en la pareja actual. Cómo reconocer cuándo reaccionas desde lo viejo y no desde lo que pasa hoy.",
+   "referencia_video_id": "VaEtQ9UIGqU",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261127-S",
+   "fecha": "2026-11-27",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Taza Derramada: 6 capítulos para amar sin perderte",
+   "capitulo": 6,
+   "titulo": "Tu taza llena primero",
+   "gancho": "No puedes servir café de una taza vacía. Mira cómo empezar a llenar la tuya hoy.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261128-S",
+   "fecha": "2026-11-28",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 1,
+   "titulo": "Tu amor no se acabó, se enfrió",
+   "gancho": "Un café no se vuelve agua de un segundo a otro. Se enfría mientras miras el celular. ¿Cuándo fue la última vez que lo calentaste?",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261128-C",
+   "fecha": "2026-11-28",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Personaliza tu Germancho: ¿en qué formato prefieres que te acompañe? A) Shorts de 1 minuto con reto rápido. B) Videos largos para reflexionar con calma. C) Vivos con preguntas y retos en grupo. D) Un poco de todo, pero con café.",
+   "subtipo": "encuesta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261129-S",
+   "fecha": "2026-11-29",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 1,
+   "titulo": "3 tazas: tibia, fría o rota. ¿Cuál es la tuya?",
+   "gancho": "Antes de decidir nada con tu pareja, toca el borde de la taza. Te cuento cómo saber en cuál de las tres estás.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261129-V",
+   "fecha": "2026-11-29",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: familia que duele, familia que amas",
+   "pregunta_abierta": "¿Qué vínculo familiar te gustaría tratar con más paz, y qué parte de esa relación sí depende de ti?",
+   "reto_colectivo": "Cada quien elige un gesto pequeño, como un mensaje, una llamada o un límite sano, para esa persona. Lo escribimos en el chat y lo cumplimos antes del próximo vivo. Si el vínculo te desborda, apoyarte en un profesional también es un acto de amor.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261130-L",
+   "fecha": "2026-11-30",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 5,
+   "titulo": "7 hábitos de 5 minutos que recalientan una relación",
+   "subtema": "Microhábitos de conexión emocional: mirada, pregunta del día, agradecimiento específico, tacto, tiempo sin pantallas, curiosidad y reparación rápida tras una pelea. Cómo sostenerlos sin que se sientan forzados.",
+   "referencia_video_id": "bYnUKmH4KxA",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261130-S",
+   "fecha": "2026-11-30",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 1,
+   "titulo": "¿Cuándo fue la última vez que te sorprendió?",
+   "gancho": "Cierra los ojos y busca el último detalle bonito entre ustedes. Si tardaste en encontrarlo, este video es para ti.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261130-C",
+   "fecha": "2026-11-30",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Reto de la semana: escríbete una carta de 5 líneas como si fueras tu mejor amigo o amiga hablándote del amor. Léela en voz alta una vez y comparte en comentarios una frase que quieras guardar.",
+   "subtipo": "reto",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261201-S",
+   "fecha": "2026-12-01",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 2,
+   "titulo": "Cuando se aleja, casi nunca es por lo que crees",
+   "gancho": "Tu mente ya armó tres películas. Frena un segundo: hay cinco razones de distancia y ninguna dice que no te quiere.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261201-V",
+   "fecha": "2026-12-01",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: cómo volver a elegirte después de una ruptura",
+   "pregunta_abierta": "¿Qué parte de ti quedó en pausa durante esa relación y qué necesitas para volver a darle espacio?",
+   "reto_colectivo": "Armamos entre todos una lista colectiva de pequeños rituales de amor propio, como un café a solas, una caminata o una carta. Cada persona se lleva uno para hacer en los próximos 7 días. Si el dolor se siente muy pesado, consulta a un profesional.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261202-L",
+   "fecha": "2026-12-02",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 6,
+   "titulo": "¿Recalentar el café o servir una taza nueva?",
+   "subtema": "Cierre de la serie: criterios honestos para decidir si seguir, pausar o soltar. Cuándo hay algo que reconstruir, cuándo dejar ir con paz, y la importancia de pedir ayuda profesional en pareja.",
+   "referencia_video_id": "PidfYb2KciY",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261202-S",
+   "fecha": "2026-12-02",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 2,
+   "titulo": "No lo persigas: haz esto en su lugar",
+   "gancho": "Perseguir enfría más. Hay una pregunta de diez segundos que abre la puerta sin presionar.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261203-S",
+   "fecha": "2026-12-03",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 2,
+   "titulo": "La señal número 4 casi nadie la ve",
+   "gancho": "No es que hable menos. Es algo que dejó de contarte. Fíjate si pasa en tu casa.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261203-V",
+   "fecha": "2026-12-03",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: ¿qué le pides al amor que ya puedes darte tú?",
+   "pregunta_abierta": "¿Qué cosa esperas que te dé tu pareja, o quien quieres que llegue, que hoy podrías empezar a darte tú mismo o tú misma?",
+   "reto_colectivo": "Escribimos en el chat: Hoy me doy ______. Y cada quien se lo cumple antes de dormir, con un acto de menos de 5 minutos. Mañana lo contamos en comentarios.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261203-C",
+   "fecha": "2026-12-03",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Sin juzgar y sin dar consejos: ¿qué patrón repites en tus relaciones que ya te gustaría cambiar? Si lo escribes aquí, ya empezaste a verlo.",
+   "subtipo": "pregunta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261204-L",
+   "fecha": "2026-12-04",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 1,
+   "titulo": "Por qué te enamoras siempre del mismo tipo de persona",
+   "subtema": "La repetición de patrones en pareja: cómo lo familiar se confunde con lo correcto y cómo reconocer tu tipo sin culparte.",
+   "referencia_video_id": "VaEtQ9UIGqU",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261204-S",
+   "fecha": "2026-12-04",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 3,
+   "titulo": "No pelean por los platos",
+   "gancho": "Los platos son la excusa. Debajo hay una frase que ninguno se atreve a decir. Te enseño a encontrarla.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261205-S",
+   "fecha": "2026-12-05",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 3,
+   "titulo": "La frase que apaga cualquier discusión en 10 segundos",
+   "gancho": "No es perdón ni razón. Es una pregunta corta que baja el volumen de la pelea. Pruébala hoy.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261205-C",
+   "fecha": "2026-12-05",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Personaliza tu Germancho: ¿de qué hablamos en el próximo video? A) Cómo soltar a alguien que no te conviene. B) Cómo poner límites sin culpa. C) Cómo amarte sin volverte egoísta. D) Cómo hablar lo difícil en pareja.",
+   "subtipo": "encuesta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261206-S",
+   "fecha": "2026-12-06",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 3,
+   "titulo": "¿Te suena familiar este conflicto?",
+   "gancho": "Si la discusión de anoche ya la tuvieron hace un mes, el problema no es el tema. Mira esto.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261206-V",
+   "fecha": "2026-12-06",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: ¿Amas o te aferras? Café y cuaderno en mano",
+   "pregunta_abierta": "¿Cómo distingues en tu vida cuándo estás amando y cuándo te estás aferrando por miedo a soltar?",
+   "reto_colectivo": "Todos escribimos en el chat una frase que empiece con: Esta semana voy a soltar ______. Al final, cada quien elige una acción de menos de 5 minutos para cumplirla y la comparte en comentarios.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261207-L",
+   "fecha": "2026-12-07",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 2,
+   "titulo": "Discutes como tus papás y no te das cuenta: 5 señales",
+   "subtema": "Cómo se heredan las formas de pelear, callar o huir en la pareja, y cómo notar cuándo estás repitiendo la discusión de tu infancia.",
+   "referencia_video_id": "C2xJX-QIY28",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261207-S",
+   "fecha": "2026-12-07",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 4,
+   "titulo": "Estás peleando con alguien que no está en la mesa",
+   "gancho": "A veces tu pareja paga una cuenta que dejó otra persona. Te cuento cómo notarlo antes de explotar.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261207-C",
+   "fecha": "2026-12-07",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Reto de la semana: durante 7 días, antes de responder en una discusión, toma 3 respiraciones y pregúntate qué necesito yo realmente ahora. Anota la respuesta en tu cuaderno y cuéntanos en comentarios cómo te fue el día 3.",
+   "subtipo": "reto",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261208-S",
+   "fecha": "2026-12-08",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 4,
+   "titulo": "El amor que atraes cuenta tu historia",
+   "gancho": "Mismo tipo de pareja, mismo final. No es mala suerte. Hay un patrón y tiene arreglo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261208-V",
+   "fecha": "2026-12-08",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: 5 conversaciones pendientes con tu pareja",
+   "pregunta_abierta": "¿Cuál es esa conversación que llevas semanas posponiendo y qué crees que pasaría si la abrieras con calma?",
+   "reto_colectivo": "Cada persona redacta en el chat la primera frase de esa conversación, sin reproches y con un yo siento. Nos damos retroalimentación entre todos y quien quiera se compromete a decirla en las próximas 48 horas.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261209-L",
+   "fecha": "2026-12-09",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 3,
+   "titulo": "Rescatas, complaces, aguantas: 4 disfraces del amor aprendido",
+   "subtema": "Cuando la dependencia, el sacrificio constante o el rol de salvador se confunden con amar. Cómo distinguir cuidar de cargar.",
+   "referencia_video_id": "-ai9L-jXtx0",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261209-S",
+   "fecha": "2026-12-09",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 4,
+   "titulo": "Reacción de hoy o herida de ayer: pregúntate esto",
+   "gancho": "Antes de contestar enojado, hazte una pregunta de cinco palabras. Cambia todo el diálogo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261210-S",
+   "fecha": "2026-12-10",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 5,
+   "titulo": "5 minutos al día que cambian una relación",
+   "gancho": "No necesitas una cena romántica ni un viaje. Necesitas cinco minutos sin celular. Te digo qué hacer en ellos.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261210-V",
+   "fecha": "2026-12-10",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: decir que no en el amor sin sentir culpa",
+   "pregunta_abierta": "¿En qué situaciones de pareja o familia dices sí cuando por dentro quieres decir no, y qué te da miedo que pase?",
+   "reto_colectivo": "Durante el vivo practicamos juntos: cada quien escribe un no amable y claro. Después, el reto de la semana es decir un solo no pequeño y contar cómo se sintió.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261210-C",
+   "fecha": "2026-12-10",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Pregunta de hoy, con café en mano: ¿qué es lo más amoroso que alguien ha hecho por ti sin decir una sola palabra? Léelo y quizá te animes a devolver ese gesto.",
+   "subtipo": "pregunta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261211-L",
+   "fecha": "2026-12-11",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 4,
+   "titulo": "En tu casa no se hablaba de esto y hoy te cuesta en pareja",
+   "subtema": "Las emociones silenciadas en la familia (tristeza, miedo, necesidad de afecto) y cómo se notan hoy en la distancia emocional y en el cuesta pedir lo que necesitas.",
+   "referencia_video_id": "yiBB-3_Fmx8",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261211-S",
+   "fecha": "2026-12-11",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 5,
+   "titulo": "Agradece así y verás qué pasa",
+   "gancho": "Gracias por todo no sirve. Hay una forma específica de agradecer que se siente como un abrazo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261212-S",
+   "fecha": "2026-12-12",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 5,
+   "titulo": "El hábito más pequeño y el más poderoso",
+   "gancho": "Dura diez segundos y casi nadie lo hace al llegar a casa. Hoy puedes empezar.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261212-C",
+   "fecha": "2026-12-12",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Personaliza tu Germancho: ¿en qué formato prefieres que te acompañe? A) Shorts de 1 minuto con reto rápido. B) Videos largos para reflexionar con calma. C) Vivos con preguntas y retos en grupo. D) Un poco de todo, pero con café.",
+   "subtipo": "encuesta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261213-S",
+   "fecha": "2026-12-13",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 6,
+   "titulo": "3 preguntas para saber si quedarte o soltar",
+   "gancho": "Sin lista infinita de pros y contras. Tres preguntas, una taza y un cuaderno. Anota tus respuestas.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261213-V",
+   "fecha": "2026-12-13",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: familia que duele, familia que amas",
+   "pregunta_abierta": "¿Qué vínculo familiar te gustaría tratar con más paz, y qué parte de esa relación sí depende de ti?",
+   "reto_colectivo": "Cada quien elige un gesto pequeño, como un mensaje, una llamada o un límite sano, para esa persona. Lo escribimos en el chat y lo cumplimos antes del próximo vivo. Si el vínculo te desborda, apoyarte en un profesional también es un acto de amor.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261214-L",
+   "fecha": "2026-12-14",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 5,
+   "titulo": "Por qué lo que te hace daño se siente como hogar",
+   "subtema": "El apego a vínculos que no convienen: por qué soltar duele más de lo esperado, cómo diferenciar costumbre de amor y pasos para el desapego sin dureza.",
+   "referencia_video_id": "PidfYb2KciY",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261214-S",
+   "fecha": "2026-12-14",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 6,
+   "titulo": "Soltar también puede ser amor",
+   "gancho": "Quedarse no siempre es valentía y irse no siempre es fracaso. Te cuento cómo distinguirlo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261214-C",
+   "fecha": "2026-12-14",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Reto de la semana: escríbete una carta de 5 líneas como si fueras tu mejor amigo o amiga hablándote del amor. Léela en voz alta una vez y comparte en comentarios una frase que quieras guardar.",
+   "subtipo": "reto",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261215-S",
+   "fecha": "2026-12-15",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "El Café Frío: 6 capítulos para reconectar cuando el amor se enfrió",
+   "capitulo": 6,
+   "titulo": "¿Y si ya no hay nada que recalentar?",
+   "gancho": "Hay señales de que esta taza ya cumplió su ciclo. Y hay una forma de cerrar sin rencor.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261215-V",
+   "fecha": "2026-12-15",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: cómo volver a elegirte después de una ruptura",
+   "pregunta_abierta": "¿Qué parte de ti quedó en pausa durante esa relación y qué necesitas para volver a darle espacio?",
+   "reto_colectivo": "Armamos entre todos una lista colectiva de pequeños rituales de amor propio, como un café a solas, una caminata o una carta. Cada persona se lleva uno para hacer en los próximos 7 días. Si el dolor se siente muy pesado, consulta a un profesional.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261216-L",
+   "fecha": "2026-12-16",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 6,
+   "titulo": "Reescribe tu receta de amor: 7 hábitos pequeños",
+   "subtema": "Cierre de la serie: cómo conservar lo bueno heredado, cambiar lo que no funciona y construir hábitos diarios para vínculos más sanos con pareja, familia y contigo.",
+   "referencia_video_id": "bYnUKmH4KxA",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261216-S",
+   "fecha": "2026-12-16",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 1,
+   "titulo": "Cambias de pareja, pero no de historia",
+   "gancho": "Otra cara, otro nombre, y la misma película. Te cuento por qué tu corazón elige siempre el mismo guion.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261217-S",
+   "fecha": "2026-12-17",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 1,
+   "titulo": "Lo familiar no siempre es lo bueno",
+   "gancho": "Tu cuerpo no busca lo que te conviene, busca lo que reconoce. Y eso lo cambia todo en el amor.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261217-V",
+   "fecha": "2026-12-17",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: ¿qué le pides al amor que ya puedes darte tú?",
+   "pregunta_abierta": "¿Qué cosa esperas que te dé tu pareja, o quien quieres que llegue, que hoy podrías empezar a darte tú mismo o tú misma?",
+   "reto_colectivo": "Escribimos en el chat: Hoy me doy ______. Y cada quien se lo cumple antes de dormir, con un acto de menos de 5 minutos. Mañana lo contamos en comentarios.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261217-C",
+   "fecha": "2026-12-17",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Sin juzgar y sin dar consejos: ¿qué patrón repites en tus relaciones que ya te gustaría cambiar? Si lo escribes aquí, ya empezaste a verlo.",
+   "subtipo": "pregunta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261218-L",
+   "fecha": "2026-12-18",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Cuaderno Tachado: 6 capítulos para soltar sin romperte",
+   "capitulo": 1,
+   "titulo": "Por qué sigues amando a quien no te conviene (no eres débil)",
+   "subtema": "La mecánica emocional del apego: por qué el corazón no obedece a la lógica y cómo nombrar lo que sientes sin juzgarte.",
+   "referencia_video_id": "PidfYb2KciY",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261218-S",
+   "fecha": "2026-12-18",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 1,
+   "titulo": "Reto: tus 3 exparejas en una taza",
+   "gancho": "Toma tu cuaderno y anota qué tuvieron en común tus últimas tres relaciones. Lo que verás en 2 minutos te va a sorprender.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261219-S",
+   "fecha": "2026-12-19",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 2,
+   "titulo": "¿Gritas, callas o te vas? Mira de quién lo aprendiste",
+   "gancho": "En tu última discusión hiciste algo que ya habías visto en casa. Adivina qué fue.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261219-C",
+   "fecha": "2026-12-19",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Personaliza tu Germancho: ¿de qué hablamos en el próximo video? A) Cómo soltar a alguien que no te conviene. B) Cómo poner límites sin culpa. C) Cómo amarte sin volverte egoísta. D) Cómo hablar lo difícil en pareja.",
+   "subtipo": "encuesta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261220-S",
+   "fecha": "2026-12-20",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 2,
+   "titulo": "Esa frase que juraste no decir... y dijiste",
+   "gancho": "Tu voz sonó igual a la de alguien más. Hablemos de por qué pasa y cómo frenarlo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261220-V",
+   "fecha": "2026-12-20",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: ¿Amas o te aferras? Café y cuaderno en mano",
+   "pregunta_abierta": "¿Cómo distingues en tu vida cuándo estás amando y cuándo te estás aferrando por miedo a soltar?",
+   "reto_colectivo": "Todos escribimos en el chat una frase que empiece con: Esta semana voy a soltar ______. Al final, cada quien elige una acción de menos de 5 minutos para cumplirla y la comparte en comentarios.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261221-L",
+   "fecha": "2026-12-21",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Cuaderno Tachado: 6 capítulos para soltar sin romperte",
+   "capitulo": 2,
+   "titulo": "5 señales de que es dependencia y no amor (la 4 duele)",
+   "subtema": "Diferencias entre amar y necesitar: miedo a la soledad, control, ansiedad por la respuesta, y cómo se disfraza todo de entrega.",
+   "referencia_video_id": "-ai9L-jXtx0",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261221-S",
+   "fecha": "2026-12-21",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 2,
+   "titulo": "Reto: la pausa de una taza",
+   "gancho": "La próxima vez que te enojes, pide cinco minutos y sirve algo caliente. Así se rompe el ciclo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261221-C",
+   "fecha": "2026-12-21",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Reto de la semana: durante 7 días, antes de responder en una discusión, toma 3 respiraciones y pregúntate qué necesito yo realmente ahora. Anota la respuesta en tu cuaderno y cuéntanos en comentarios cómo te fue el día 3.",
+   "subtipo": "reto",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261222-S",
+   "fecha": "2026-12-22",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 3,
+   "titulo": "Amar no es salvar a nadie",
+   "gancho": "Si siempre eres quien arregla al otro, quizá no estás amando: estás cumpliendo un papel viejo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261222-V",
+   "fecha": "2026-12-22",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: 5 conversaciones pendientes con tu pareja",
+   "pregunta_abierta": "¿Cuál es esa conversación que llevas semanas posponiendo y qué crees que pasaría si la abrieras con calma?",
+   "reto_colectivo": "Cada persona redacta en el chat la primera frase de esa conversación, sin reproches y con un yo siento. Nos damos retroalimentación entre todos y quien quiera se compromete a decirla en las próximas 48 horas.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261223-L",
+   "fecha": "2026-12-23",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Cuaderno Tachado: 6 capítulos para soltar sin romperte",
+   "capitulo": 3,
+   "titulo": "¿Por qué siempre eliges al mismo tipo de persona?",
+   "subtema": "Patrones afectivos y heridas de origen: cómo lo familiar se confunde con lo correcto y cómo empezar a elegir distinto. Si el patrón duele mucho, un profesional puede acompañarte.",
+   "referencia_video_id": "VaEtQ9UIGqU",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261223-S",
+   "fecha": "2026-12-23",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 3,
+   "titulo": "Cuidar o cargar: la prueba de la escalera",
+   "gancho": "Hay una pregunta simple para saber si subes con alguien o lo llevas en la espalda.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261224-S",
+   "fecha": "2026-12-24",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 3,
+   "titulo": "Reto: di no a una cosa pequeña hoy",
+   "gancho": "Un no suave, sin drama, en menos de cinco minutos. Cuéntame cómo se sintió.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261224-V",
+   "fecha": "2026-12-24",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: decir que no en el amor sin sentir culpa",
+   "pregunta_abierta": "¿En qué situaciones de pareja o familia dices sí cuando por dentro quieres decir no, y qué te da miedo que pase?",
+   "reto_colectivo": "Durante el vivo practicamos juntos: cada quien escribe un no amable y claro. Después, el reto de la semana es decir un solo no pequeño y contar cómo se sintió.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261224-C",
+   "fecha": "2026-12-24",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Pregunta de hoy, con café en mano: ¿qué es lo más amoroso que alguien ha hecho por ti sin decir una sola palabra? Léelo y quizá te animes a devolver ese gesto.",
+   "subtipo": "pregunta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261225-L",
+   "fecha": "2026-12-25",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Cuaderno Tachado: 6 capítulos para soltar sin romperte",
+   "capitulo": 4,
+   "titulo": "Quedarte no siempre es amar: el costo oculto de aguantar",
+   "subtema": "Lo que sacrificas al sostener un vínculo que te agota: paz, sueño, amistades, autoestima. Cómo calcular el precio real sin dramatizar.",
+   "referencia_video_id": "-PX8yO82xys",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261225-S",
+   "fecha": "2026-12-25",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 4,
+   "titulo": "El silencio también se hereda",
+   "gancho": "Hay cosas que nadie dijo en tu casa y que hoy tu pareja siente que le faltan.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261226-S",
+   "fecha": "2026-12-26",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 4,
+   "titulo": "¿Por qué te cuesta pedir un abrazo?",
+   "gancho": "No es orgullo ni frialdad. Es una lección vieja que nunca revisaste.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261226-C",
+   "fecha": "2026-12-26",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Personaliza tu Germancho: ¿en qué formato prefieres que te acompañe? A) Shorts de 1 minuto con reto rápido. B) Videos largos para reflexionar con calma. C) Vivos con preguntas y retos en grupo. D) Un poco de todo, pero con café.",
+   "subtipo": "encuesta",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261227-S",
+   "fecha": "2026-12-27",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 4,
+   "titulo": "Reto: una frase que nunca dijiste",
+   "gancho": "Escríbela en una servilleta y dila hoy a quien quieras. Solo una. Menos de cinco minutos.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261227-V",
+   "fecha": "2026-12-27",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: familia que duele, familia que amas",
+   "pregunta_abierta": "¿Qué vínculo familiar te gustaría tratar con más paz, y qué parte de esa relación sí depende de ti?",
+   "reto_colectivo": "Cada quien elige un gesto pequeño, como un mensaje, una llamada o un límite sano, para esa persona. Lo escribimos en el chat y lo cumplimos antes del próximo vivo. Si el vínculo te desborda, apoyarte en un profesional también es un acto de amor.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261228-L",
+   "fecha": "2026-12-28",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Cuaderno Tachado: 6 capítulos para soltar sin romperte",
+   "capitulo": 5,
+   "titulo": "Soltar no es olvidar: qué hacer con el vacío después",
+   "subtema": "El duelo posterior: recaídas, nostalgia, silencio, la tentación de volver. Herramientas simples para acompañarte, y cuándo pedir ayuda profesional.",
+   "referencia_video_id": "9Mx_EO1QWTU",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261228-S",
+   "fecha": "2026-12-28",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 5,
+   "titulo": "Extrañas a alguien que te hacía mal. ¿Qué te pasa?",
+   "gancho": "No estás loco ni loca. Te explico qué extrañas realmente cuando extrañas eso.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261228-C",
+   "fecha": "2026-12-28",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Reto de la semana: escríbete una carta de 5 líneas como si fueras tu mejor amigo o amiga hablándote del amor. Léela en voz alta una vez y comparte en comentarios una frase que quieras guardar.",
+   "subtipo": "reto",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261229-S",
+   "fecha": "2026-12-29",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 5,
+   "titulo": "Costumbre o amor: 3 preguntas para saberlo",
+   "gancho": "Responde con el corazón tibio, no caliente. Te toma un café.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261229-V",
+   "fecha": "2026-12-29",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: cómo volver a elegirte después de una ruptura",
+   "pregunta_abierta": "¿Qué parte de ti quedó en pausa durante esa relación y qué necesitas para volver a darle espacio?",
+   "reto_colectivo": "Armamos entre todos una lista colectiva de pequeños rituales de amor propio, como un café a solas, una caminata o una carta. Cada persona se lleva uno para hacer en los próximos 7 días. Si el dolor se siente muy pesado, consulta a un profesional.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261230-L",
+   "fecha": "2026-12-30",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "El Cuaderno Tachado: 6 capítulos para soltar sin romperte",
+   "capitulo": 6,
+   "titulo": "Qué escribir en la página en blanco: 3 reglas para amar de nuevo",
+   "subtema": "Cómo empezar un vínculo nuevo sin repetir el patrón: criterios propios, ritmo, límites y la revelación de la página 7 que da cierre a la serie.",
+   "referencia_video_id": "cIB92GESyrE",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261230-S",
+   "fecha": "2026-12-30",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 5,
+   "titulo": "Reto: la lista de lo que sí y lo que no",
+   "gancho": "Dos columnas en tu cuaderno. Tres minutos. Y una verdad que quizá ya sabías.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261231-S",
+   "fecha": "2026-12-31",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "La Receta de la Abuela: 6 capítulos para descubrir qué amor heredaste",
+   "capitulo": 6,
+   "titulo": "No viniste a repetir la receta, viniste a mejorarla",
+   "gancho": "Tu familia te dio ingredientes, no una condena. Aquí empieza tu versión.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261231-V",
+   "fecha": "2026-12-31",
+   "hora": "19:00",
+   "tipo": "vivo",
+   "titulo": "En vivo: ¿qué le pides al amor que ya puedes darte tú?",
+   "pregunta_abierta": "¿Qué cosa esperas que te dé tu pareja, o quien quieres que llegue, que hoy podrías empezar a darte tú mismo o tú misma?",
+   "reto_colectivo": "Escribimos en el chat: Hoy me doy ______. Y cada quien se lo cumple antes de dormir, con un acto de menos de 5 minutos. Mañana lo contamos en comentarios.",
+   "minutos": 75,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261231-C",
+   "fecha": "2026-12-31",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Sin juzgar y sin dar consejos: ¿qué patrón repites en tus relaciones que ya te gustaría cambiar? Si lo escribes aquí, ya empezaste a verlo.",
+   "subtipo": "pregunta",
+   "estado": "planificado"
+  }
+ ],
+ "proyeccion": {
+  "semanas": 7.9,
+  "largos": 24,
+  "shorts": 56,
+  "vivos": 24,
+  "horas_estimadas": 3870,
+  "horas_de_largos": 1470,
+  "horas_de_vivos": 2400,
+  "subs_estimados": 2045,
+  "supuestos": {
+   "vistas_largo_promedio": 700,
+   "retencion_largo": 0.35,
+   "minutos_largo": 15,
+   "espectadores_vivo_promedio": 35,
+   "minutos_vivo": 75,
+   "repeticion_vivo_vistas": 150,
+   "vistas_short_promedio": 3500,
+   "conversion_subs_short": 0.006,
+   "conversion_subs_largo": 0.03
+  },
+  "nota": "Estimación con supuestos conservadores; se recalibra cada semana con datos reales del tablero."
+ }
+}
