@@ -389,6 +389,10 @@ class Radar:
                          canal_subs=info["suscriptores"], canal_n_virales=info["n_virales"])
                 videos.append(g); vistos.add(f["video_id"])
 
+        if perfil["id"].startswith("mercado"):
+            for f in videos:
+                if f["promocion"]["promociona"]:
+                    f["score"] = round(f["score"] * 3 + 10, 1)
         videos.sort(key=lambda f: -f["score"])
         canales_out = sorted(({k: v for k, v in i.items() if k != "virales"} for i in aprobados.values()),
                              key=lambda c: -c["n_virales"])

@@ -151,6 +151,32 @@
    "min_engagement": 0.015,
    "max_busquedas": 5,
    "voz_id": "W1hAcdh0RNsPYUA7fkJh"
+  },
+  {
+   "id": "mercado_coaching_es",
+   "canal": "Mercado · coaching y cursos (investigación)",
+   "nicho": "mercado_coaching",
+   "subnichos": [
+    "coaching_emociones",
+    "liderazgo_empresas",
+    "proposito_mentoria"
+   ],
+   "idioma": "es",
+   "regiones": [
+    "CO",
+    "MX",
+    "ES",
+    "AR"
+   ],
+   "formato": "largo",
+   "dias": 120,
+   "min_subs": 1000,
+   "max_subs": 500000,
+   "min_virales_canal": 1,
+   "ratio_viral": 2,
+   "min_engagement": 0.015,
+   "max_busquedas": 12,
+   "voz_id": "W1hAcdh0RNsPYUA7fkJh"
   }
  ],
  "_doc": "Perfiles de canal: tres líneas (amor/dinero/salud) alineadas con ∀normal. min_engagement = (likes+comentarios)/vistas mínimo para considerar fuerte un video."

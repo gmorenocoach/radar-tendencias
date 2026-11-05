@@ -1099,6 +1099,138 @@
      }
     }
    }
+  },
+  "mercado_coaching": {
+   "nombre": "Mercado coaching y cursos",
+   "palabras_clave": {
+    "es": [
+     "coach",
+     "coaching",
+     "mentoría",
+     "mentoria",
+     "mentor",
+     "curso",
+     "programa",
+     "taller",
+     "masterclass",
+     "liderazgo",
+     "líder",
+     "inteligencia emocional",
+     "emociones",
+     "propósito",
+     "desarrollo personal",
+     "crecimiento",
+     "hábitos",
+     "mentalidad",
+     "bienestar",
+     "equipo",
+     "empresa",
+     "certificación",
+     "formación",
+     "sesión"
+    ],
+    "en": [
+     "coach",
+     "coaching",
+     "mentorship",
+     "course",
+     "program",
+     "workshop",
+     "masterclass",
+     "leadership",
+     "emotional intelligence",
+     "purpose",
+     "personal development",
+     "mindset",
+     "wellbeing",
+     "team",
+     "certification"
+    ]
+   },
+   "excluir": {
+    "es": [
+     "#kpop",
+     "#humor",
+     "canción",
+     "letra",
+     "trailer",
+     "gameplay",
+     "#futbol",
+     "forex",
+     "cripto",
+     "casino",
+     "video oficial"
+    ],
+    "en": [
+     "lyrics",
+     "trailer",
+     "gameplay",
+     "forex",
+     "crypto",
+     "casino",
+     "official video"
+    ]
+   },
+   "subnichos": {
+    "coaching_emociones": {
+     "nombre": "Coaching y emociones",
+     "semillas": {
+      "es": [
+       "coaching ontológico",
+       "coach de vida",
+       "gestionar emociones curso",
+       "inteligencia emocional curso",
+       "mentoría desarrollo personal",
+       "programa de transformación personal",
+       "masterclass gratuita desarrollo personal"
+      ],
+      "en": [
+       "life coach program",
+       "emotional intelligence course",
+       "personal transformation program",
+       "free masterclass personal growth"
+      ]
+     }
+    },
+    "liderazgo_empresas": {
+     "nombre": "Liderazgo y empresas",
+     "semillas": {
+      "es": [
+       "programa de liderazgo",
+       "liderazgo consciente",
+       "taller de liderazgo empresas",
+       "coaching ejecutivo",
+       "bienestar laboral empresas programa",
+       "habilidades blandas curso",
+       "cultura organizacional liderazgo"
+      ],
+      "en": [
+       "leadership program",
+       "conscious leadership",
+       "executive coaching",
+       "soft skills course"
+      ]
+     }
+    },
+    "proposito_mentoria": {
+     "nombre": "Propósito y mentoría",
+     "semillas": {
+      "es": [
+       "encuentra tu propósito",
+       "mentoría de propósito",
+       "vivir con propósito curso",
+       "reinventarte después de los 40",
+       "salud dinero y amor equilibrio",
+       "comunidad de crecimiento personal"
+      ],
+      "en": [
+       "find your purpose course",
+       "purpose mentorship",
+       "reinvent yourself after 40"
+      ]
+     }
+    }
+   }
   }
  }
 }
