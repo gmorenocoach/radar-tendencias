@@ -74,13 +74,27 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None):
             texto = "".join(b.get("text", "") for b in r.json()["content"])
             if not json_out:
                 return texto
-            m = re.search(r"\{.*\}", texto, re.S)
-            return json.loads(m.group(0) if m else texto)
+            return parsear_json(texto)
         if r.status_code in (429, 500, 529):
             time.sleep(5 * (intento + 1))
             continue
         raise RuntimeError(f"Claude {r.status_code}: {r.text[:300]}")
     raise RuntimeError("Claude: sin respuesta tras reintentos")
+
+
+def parsear_json(texto):
+    """Extrae y repara el JSON de la respuesta (comillas sin escapar, comas finales, texto alrededor)."""
+    m = re.search(r"\{.*\}", texto, re.S)
+    bruto = m.group(0) if m else texto
+    try:
+        return json.loads(bruto)
+    except json.JSONDecodeError:
+        pass
+    try:
+        from json_repair import repair_json
+        return json.loads(repair_json(bruto))
+    except Exception as e:
+        raise RuntimeError(f"JSON inválido de Claude: {e}\n{bruto[:500]}")
 
 
 ESTILO_GERMANCHO = """Eres el guionista de "Germancho", el personaje de los libros de Germán Alonso Moreno (coach ontológico, "El Barista del Ser",
