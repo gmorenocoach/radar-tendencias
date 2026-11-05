@@ -72,8 +72,18 @@ def main():
     tam = os.path.getsize(mp4) / 1e6
 
     # 7. Metadatos para publicar
+    # CTA del canal (enlaces desde config/perfiles.json → _enlaces); se omiten líneas con enlaces vacíos
+    cfg = json.loads((OUT.parent / "config/perfiles.json").read_text())
+    enlaces = cfg.get("_enlaces", {})
+    cta_lineas = []
+    for linea in (p.get("cta") or "").split("\n"):
+        for k, v in enlaces.items():
+            linea = linea.replace("{" + k + "}", v)
+        if "{ENLACE_" not in linea and linea.strip():
+            cta_lineas.append(linea)
+    cta = "\n".join(cta_lineas)
     meta = {"id": nombre, "perfil": p["id"], "canal": p["canal"], "fecha": dt.datetime.now().isoformat(timespec="seconds"),
-            "titulo": g["titulo"], "titulos_alternativos": g.get("titulos_alternativos", []), "descripcion": g["descripcion"] + "\n\n" + " ".join(g["hashtags"]),
+            "titulo": g["titulo"], "titulos_alternativos": g.get("titulos_alternativos", []), "descripcion": g["descripcion"] + ("\n\n" + cta if cta else "") + "\n\n" + " ".join(g["hashtags"]),
             "hashtags": g["hashtags"], "reto_de_hoy": g.get("reto_de_hoy", ""), "duracion_s": round(dur, 1), "tamano_mb": round(tam, 1),
             "fuente": f["fuente"], "estado": "pendiente_aprobacion", "archivos": {"video": f"{nombre}/short.mp4", "miniatura": f"{nombre}/miniatura.jpg",
             "miniatura_16x9": f"{nombre}/miniatura_16x9.jpg", "guion": f"{nombre}/guion.json", "ficha": f"{nombre}/ficha.json"},

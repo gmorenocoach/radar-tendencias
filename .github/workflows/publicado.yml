@@ -1,0 +1,33 @@
+name: Marcar publicado
+
+on:
+  workflow_dispatch:
+    inputs:
+      produccion:
+        description: "ID de la producción (nombre de la carpeta en producciones/)"
+        required: true
+      url:
+        description: "URL del video ya publicado en YouTube"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  marcar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python3 - <<'EOF'
+          import json, datetime
+          pid = "${{ github.event.inputs.produccion }}".strip(); url = "${{ github.event.inputs.url }}".strip()
+          idx = json.load(open("producciones/index.json"))
+          for p in idx["producciones"]:
+              if p["id"] == pid:
+                  p["estado"] = "publicado"; p["youtube_url"] = url; p["publicado_en"] = datetime.datetime.now().isoformat(timespec="seconds")
+                  m = json.load(open(f"producciones/{pid}/metadata.json")); m.update(estado="publicado", youtube_url=url); json.dump(m, open(f"producciones/{pid}/metadata.json", "w"), ensure_ascii=False, indent=1)
+          json.dump(idx, open("producciones/index.json", "w"), ensure_ascii=False, indent=1)
+          EOF
+          git config user.name "fabrica-bot"; git config user.email "fabrica-bot@users.noreply.github.com"
+          git add producciones && git commit -m "publicado: ${{ github.event.inputs.produccion }}" && git pull --rebase --autostash origin main && git push

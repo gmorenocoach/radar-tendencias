@@ -223,10 +223,12 @@ async function renderProducciones(){
         <button data-copy="${esc(p.titulo)}">Copiar título</button>
         <button data-copy="${esc(p.descripcion)}">Copiar descripción</button>
         <a href="producciones/${p.archivos.guion}" target="_blank">Guion</a>
+        ${p.youtube_url?`<a href="${p.youtube_url}" target="_blank" rel="noopener">▶ Ver en YouTube</a>`:`<button data-pub="${p.id}" title="Copia el ID y abre el paso Marcar publicado">✓ Marcar publicado</button>`}
       </div>
       <div class="meta" style="margin-top:6px"><span>⚠ ${esc(p.divulgacion_ia||'')}</span></div>
     </div></article>`).join('');
   el.querySelectorAll('button[data-copy]').forEach(b=>b.onclick=()=>{navigator.clipboard.writeText(b.dataset.copy); b.textContent='Copiado ✓';});
+  el.querySelectorAll('button[data-pub]').forEach(b=>b.onclick=async()=>{ try{await navigator.clipboard.writeText(b.dataset.pub);}catch(e){} window.open('https://github.com/gmorenocoach/radar-tendencias/actions/workflows/publicado.yml','_blank'); });
 }
 
 function renderCanales(){
