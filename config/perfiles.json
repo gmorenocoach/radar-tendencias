@@ -172,10 +172,10 @@
    "dias": 120,
    "min_subs": 1000,
    "max_subs": 500000,
-   "min_virales_canal": 1,
+   "min_virales_canal": 0,
    "ratio_viral": 2,
    "min_engagement": 0.015,
-   "max_busquedas": 12,
+   "max_busquedas": 14,
    "voz_id": "W1hAcdh0RNsPYUA7fkJh"
   }
  ],

@@ -365,7 +365,7 @@ class Radar:
                 continue
             info = aprobados[cid]
             f = self.ficha_video(v, info["suscriptores"], info["mediana_vistas_recientes"])
-            if f["ratio_vistas_subs"] < perfil["ratio_viral"]:
+            if f["ratio_vistas_subs"] < perfil["ratio_viral"] and not perfil["id"].startswith("mercado"):
                 continue
             sid, q, region = encontrados[vid]
             f.update(subnicho=sid, consulta=q, region=region, origen="busqueda", relevancia=v.get("_relevancia", 0),
