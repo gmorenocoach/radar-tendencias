@@ -36,7 +36,7 @@ def _palabras_desde_alineacion(texto, chars, starts, ends):
     return palabras
 
 
-def sintetizar(escenas, out_dir, voz_nombre=None, idioma="es", velocidad=1.0):
+def sintetizar(escenas, out_dir, voz_nombre=None, idioma="es", velocidad=1.0, voz_id=None):
     """Genera voz.mp3 y devuelve lista de palabras con tiempos y los límites de cada escena."""
     os.makedirs(out_dir, exist_ok=True)
     mp3 = os.path.join(out_dir, "voz.mp3")
@@ -50,7 +50,7 @@ def sintetizar(escenas, out_dir, voz_nombre=None, idioma="es", velocidad=1.0):
         palabras = [{"w": w, "s": i * paso, "e": (i + 1) * paso} for i, w in enumerate(palabras_txt)]
     else:
         key = os.environ["ELEVENLABS_API_KEY"]
-        voice_id = elegir_voz(voz_nombre, idioma)
+        voice_id = voz_id or elegir_voz(voz_nombre, idioma)
         body = {"text": texto, "model_id": "eleven_multilingual_v2",
                 "voice_settings": {"stability": 0.45, "similarity_boost": 0.8, "style": 0.35, "speed": velocidad}}
         r = requests.post(f"{API}/text-to-speech/{voice_id}/with-timestamps", json=body, timeout=300,

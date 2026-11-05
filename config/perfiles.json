@@ -24,7 +24,8 @@
    "min_virales_canal": 3,
    "ratio_viral": 5,
    "min_engagement": 0.015,
-   "max_busquedas": 10
+   "max_busquedas": 10,
+   "voz_id": "Y4HwpMNrBWN5dFKi5Lw8"
   },
   {
    "id": "mitribu_es",
@@ -50,7 +51,8 @@
    "min_virales_canal": 2,
    "ratio_viral": 12,
    "min_engagement": 0.04,
-   "max_busquedas": 16
+   "max_busquedas": 16,
+   "voz_id": "Y4HwpMNrBWN5dFKi5Lw8"
   },
   {
    "id": "soyintegral_es",
@@ -76,7 +78,8 @@
    "min_virales_canal": 3,
    "ratio_viral": 5,
    "min_engagement": 0.015,
-   "max_busquedas": 10
+   "max_busquedas": 10,
+   "voz_id": "Y4HwpMNrBWN5dFKi5Lw8"
   },
   {
    "id": "equilibrate_en",
@@ -99,7 +102,8 @@
    "min_virales_canal": 3,
    "ratio_viral": 5,
    "min_engagement": 0.015,
-   "max_busquedas": 5
+   "max_busquedas": 5,
+   "voz_id": "Y4HwpMNrBWN5dFKi5Lw8"
   },
   {
    "id": "mitribu_en",
@@ -122,7 +126,8 @@
    "min_virales_canal": 2,
    "ratio_viral": 12,
    "min_engagement": 0.04,
-   "max_busquedas": 5
+   "max_busquedas": 5,
+   "voz_id": "Y4HwpMNrBWN5dFKi5Lw8"
   },
   {
    "id": "soyintegral_en",
@@ -144,7 +149,8 @@
    "min_virales_canal": 3,
    "ratio_viral": 5,
    "min_engagement": 0.015,
-   "max_busquedas": 5
+   "max_busquedas": 5,
+   "voz_id": "Y4HwpMNrBWN5dFKi5Lw8"
   }
  ],
  "_doc": "Perfiles de canal: tres líneas (amor/dinero/salud) alineadas con ∀normal. min_engagement = (likes+comentarios)/vistas mínimo para considerar fuerte un video."

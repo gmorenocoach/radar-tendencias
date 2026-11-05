@@ -43,6 +43,18 @@ def _placeholder(pose, path, w=1080, h=1920):
     lienzo.save(path)
 
 
+POSE_EN = {"saludando": "standing and waving", "brazos_abiertos": "arms wide open", "letrero": "holding up a blank sign board",
+           "senalando": "pointing forward with one long finger", "salto_sorpresa": "jumping with arms up", "triste_acostado": "lying on the floor, sad",
+           "escalera": "climbing a tall ladder", "butaco_tazas": "sitting on a wooden stool", "agachado": "bent over looking down",
+           "cambio": "arms stretched sideways", "aburrido": "slumped, bored", "acostado_ira": "lying down, annoyed"}
+
+
+def maestro(canal):
+    """Imagen maestra del canal (Germancho con buzo del color). Si no existe, se usa la pose del libro."""
+    p = ROOT / "assets/germancho" / f"maestro_{canal}.png"
+    return f"{PAGES_BASE}/assets/germancho/maestro_{canal}.png" if p.exists() else None
+
+
 def generar_escena(escena, canal, path):
     color_en, _ = CANAL_COLOR[canal]
     pose = escena.get("pose", "saludando")
@@ -50,8 +62,12 @@ def generar_escena(escena, canal, path):
         _placeholder(pose, path)
         return "mock"
     prompt = PROMPT_BASE.format(color=color_en, emocion=EMOCION_EN.get(escena.get("emocion", "sereno"), "calm"),
-                                accion=escena.get("prompt_visual", ""), objeto=escena.get("objeto", "object"))
-    ref_url = f"{PAGES_BASE}/assets/germancho/{POSES[pose]}"
+                                accion=f"{POSE_EN.get(pose, '')}; {escena.get('prompt_visual', '')}", objeto=escena.get("objeto", "object"))
+    prompt += " Absolutely no written words, letters, labels or captions anywhere in the image."
+    ref_url = maestro(canal) or f"{PAGES_BASE}/assets/germancho/{POSES[pose]}"
+    if maestro(canal):
+        prompt = prompt.replace("This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design:",
+                                "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object:")
     try:
         res = _fal(FAL_MODEL, {"prompt": prompt, "image_url": ref_url, "aspect_ratio": "9:16", "output_format": "png", "safety_tolerance": "2"})
     except Exception as e:
