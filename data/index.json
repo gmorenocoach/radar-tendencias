@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T13:37:14Z",
+ "actualizado": "2026-11-05T13:38:57Z",
  "perfiles": [
   {
    "id": "equilibrate_en",
@@ -27,9 +27,9 @@
    "nicho": "Mercado coaching y cursos",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-05T13:37:14Z",
-   "videos": 0,
-   "canales": 8
+   "generado": "2026-11-05T13:38:57Z",
+   "videos": 65,
+   "canales": 61
   },
   {
    "id": "mitribu_en",
@@ -72,5 +72,5 @@
    "canales": 16
   }
  ],
- "cuota_usada_hoy": 1324
+ "cuota_usada_hoy": 1422
 }
