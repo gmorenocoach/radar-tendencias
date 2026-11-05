@@ -15,7 +15,7 @@ from .comun import cargar_env, OUT, ROOT, PAGES_BASE, slug, perfil as cargar_per
 from . import adn, voz, imagenes, render
 from .indice import main as reconstruir_indice
 
-PALABRAS_POR_MIN = 145
+PALABRAS_POR_MIN = 165
 
 
 def ambientes_de(canal):
