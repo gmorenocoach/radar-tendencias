@@ -1,6 +1,55 @@
 {
- "actualizado": "2026-11-05T14:05:45",
+ "actualizado": "2026-11-05T14:09:55",
  "producciones": [
+  {
+   "id": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d",
+   "perfil": "soyintegral_es",
+   "canal": "Soy Integral · Salud",
+   "fecha": "2026-11-05T14:09:55",
+   "titulo": "¿Qué le pasa a tu cuerpo si dejas pan y azúcar 14 días?",
+   "titulos_alternativos": [
+    "14 días sin pan ni azúcar: qué cambia en tu cuerpo",
+    "Dejar el pan y el azúcar 14 días: lo que dicen los estudios"
+   ],
+   "descripcion": "¿Qué le pasa a tu cuerpo si dejas el pan y el azúcar durante 14 días? Germancho te cuenta, con promedios de estudios, qué cambia primero en el hígado graso, en la balanza y en la grasa visceral. No es una promesa personal; ante dudas de salud, consulta a un profesional. Acepta el reto de hoy y cuéntame en comentarios.\n\n💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): \n☕ Bienestar y liderazgo para tu equipo: Programa Café con Propósito: \n\n#SoyIntegral #Germancho #DejarElAzucar #HigadoGraso #GrasaVisceral #HabitosSaludables #Bienestar #CafeConProposito",
+   "hashtags": [
+    "#SoyIntegral",
+    "#Germancho",
+    "#DejarElAzucar",
+    "#HigadoGraso",
+    "#GrasaVisceral",
+    "#HabitosSaludables",
+    "#Bienestar",
+    "#CafeConProposito"
+   ],
+   "reto_de_hoy": "En tu cuaderno, anota durante tres minutos todos los azúcares escondidos que tomas en un día (refrescos, jugos, salsas, panes dulces) y compártelo en comentarios.",
+   "duracion_s": 66.9,
+   "tamano_mb": 10.2,
+   "fuente": {
+    "video_id": "haSDtRxOxuI",
+    "url": "https://www.youtube.com/watch?v=haSDtRxOxuI",
+    "titulo": "¿Qué le pasa a tu cuerpo si dejas el pan y el azúcar durante 14 días?",
+    "descripcion": "Catorce días sin pan y sin nada que lleve azúcar: ¿qué cambia de verdad dentro de tu cuerpo? La respuesta corta: cambian tres cosas, y cada una a su ritmo.\nEl hígado reacciona primero: en los estudios, su grasa empieza a bajar desde el primer día. La balanza cae rápido los primeros días, pero sobre todo por el agua que acompaña al glucógeno. Y la grasa de la panza, la que rodea los órganos, necesita semanas, no días.\nTambién vemos el refresco diario y la grasa visceral, la trampa de cambiar el pan por más tortillas o arroz, y cuándo cambia tu gusto por lo dulce. Los números son promedios de estudios, no una promesa personal.\n\nEstudios mencionados en el video:\n1. Mardinoglu A et al., 2018, Cell Metabolism (dieta isocalórica baja en carbohidratos durante 14 días en personas con hígado graso)\n2. Kirk E et al., 2009, Gastroenterology (grasa del hígado a las 48 horas y tras perder un 7 % de peso con dieta baja vs alta en carbohidratos)\n3. Kreitzman SN et al., 1992, American Journal of Clinical Nutrition (glucógeno, agua y cambios rápidos de peso)\n4. Ma J et al., 2016, Circulation (bebidas azucaradas y cambio de la grasa visceral en 6 años, cohorte de Framingham)\n5. Wise PM et al., 2016, American Journal of Clinical Nutrition (reducir el azúcar y la percepción del dulzor)\n6. National Heart, Lung, and Blood Institute, 1998, Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults (ritmo prudente de pérdida de peso)\n\nEste video es información general de salud y no reemplaza la consulta médica. Si tratas tu diabetes con pastillas o insulina, habla con tu médico antes de quitar el pan y el azúcar: la dosis puede necesitar ajuste. Si te indicaron limitar la proteína, consulta antes de cambiar tu plato. Si te dijeron que tienes hígado graso, tu control lo confirma tu médico.\n#hígadograso #sinazúcar #grasavisceral #bajardepeso #salud",
+    "canal": "BioCuerpo",
+    "vistas": 511805,
+    "likes": 2817,
+    "comentarios": 41,
+    "publicado": "2026-10-28",
+    "miniatura": "https://i.ytimg.com/vi/haSDtRxOxuI/maxresdefault.jpg",
+    "duracion": "PT12M3S",
+    "tags": [],
+    "transcripcion_chars": 0
+   },
+   "estado": "pendiente_aprobacion",
+   "archivos": {
+    "video": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/short.mp4",
+    "miniatura": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/miniatura.jpg",
+    "miniatura_16x9": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/miniatura_16x9.jpg",
+    "guion": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/guion.json",
+    "ficha": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/ficha.json"
+   },
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
   {
    "id": "20261105-equilibrate_es-como-soltar-a-quien-no-te-conviene-desapego",
    "perfil": "equilibrate_es",
