@@ -1,0 +1,32 @@
+{
+  "_doc": "Ambientes por canal para videos largos. Cada capítulo del guion elige uno. 'prompt' describe el escenario en inglés, en el mismo trazo de tinta de Germancho.",
+  "comunes": {
+    "cafeteria": {"nombre": "Cafetería", "prompt": "a cozy small coffee shop: wooden counter, espresso machine, a few cups and a chalkboard, drawn in loose scribbly ink lines, mostly white with light hatching"},
+    "cocina": {"nombre": "Cocina de casa", "prompt": "a simple home kitchen: table, kettle, fruit bowl, window with light, loose scribbly ink lines, mostly white with light hatching"},
+    "sala": {"nombre": "Sala de casa", "prompt": "a simple living room: sofa, lamp, bookshelf with a few books, plant, loose scribbly ink lines, mostly white"},
+    "parque": {"nombre": "Parque", "prompt": "a city park: bench, a tree, a path, a few birds, loose scribbly ink lines, mostly white with light hatching"},
+    "calle": {"nombre": "Calle", "prompt": "a quiet street corner with a lamp post and a shop window, loose scribbly ink lines, mostly white"},
+    "biblioteca": {"nombre": "Biblioteca", "prompt": "a small library: tall shelves, reading table and lamp, loose scribbly ink lines, mostly white"},
+    "escalera": {"nombre": "Escalera", "prompt": "a tall hand-drawn ladder leaning on an empty wall, loose scribbly ink lines, mostly white"}
+  },
+  "por_canal": {
+    "soyintegral": {
+      "consultorio": {"nombre": "Consultorio", "prompt": "a simple doctor's office: desk, examination bed, anatomy poster without text, stethoscope, loose scribbly ink lines, mostly white"},
+      "gimnasio": {"nombre": "Gimnasio sencillo", "prompt": "a simple gym corner: yoga mat, a pair of dumbbells, water bottle, loose scribbly ink lines, mostly white"},
+      "dormitorio": {"nombre": "Dormitorio", "prompt": "a calm bedroom: bed, bedside lamp, window with moon, loose scribbly ink lines, mostly white"},
+      "oficina": {"nombre": "Oficina", "prompt": "an office desk with a laptop, papers and a plant, loose scribbly ink lines, mostly white"}
+    },
+    "mitribu": {
+      "oficina": {"nombre": "Oficina", "prompt": "an office desk with a laptop, papers and a plant, loose scribbly ink lines, mostly white"},
+      "banco": {"nombre": "Banco / cajero", "prompt": "a bank counter and an ATM, loose scribbly ink lines, mostly white"},
+      "mercado": {"nombre": "Mercado", "prompt": "a market stall with baskets and price tags without text, loose scribbly ink lines, mostly white"},
+      "escritorio": {"nombre": "Escritorio de casa", "prompt": "a home desk with a notebook, calculator and a piggy bank, loose scribbly ink lines, mostly white"}
+    },
+    "equilibrate": {
+      "restaurante": {"nombre": "Mesa para dos", "prompt": "a small restaurant table for two with a candle and two cups, loose scribbly ink lines, mostly white"},
+      "puerta": {"nombre": "Puerta de casa", "prompt": "a front door with a doormat and a suitcase beside it, loose scribbly ink lines, mostly white"},
+      "espejo": {"nombre": "Espejo", "prompt": "a tall mirror in a plain room, loose scribbly ink lines, mostly white"},
+      "playa": {"nombre": "Orilla del mar", "prompt": "a quiet beach shoreline with a single chair, loose scribbly ink lines, mostly white"}
+    }
+  }
+}

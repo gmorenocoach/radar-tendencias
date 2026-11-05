@@ -17,8 +17,18 @@ on:
         description: "Tema (si no hay video de referencia)"
         required: false
         default: ""
+      formato:
+        description: "Formato"
+        required: true
+        type: choice
+        options: [shorts, largo]
+        default: shorts
+      minutos:
+        description: "Duración objetivo del video largo (minutos)"
+        required: false
+        default: "15"
       voz:
-        description: "Nombre de la voz de ElevenLabs (vacío = automática en español)"
+        description: "Nombre de la voz de ElevenLabs (vacío = la del perfil)"
         required: false
         default: ""
 
@@ -32,7 +42,7 @@ concurrency:
 jobs:
   producir:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -76,7 +86,11 @@ jobs:
           ARGS="--perfil ${{ github.event.inputs.perfil }}"
           if [ -n "${{ github.event.inputs.video_id }}" ]; then ARGS="$ARGS --video_id ${{ github.event.inputs.video_id }}"; fi
           if [ -n "${{ github.event.inputs.tema }}" ]; then ARGS="$ARGS --tema \"${{ github.event.inputs.tema }}\""; fi
-          eval python -m fabrica.produce $ARGS
+          if [ "${{ github.event.inputs.formato }}" = "largo" ]; then
+            eval python -m fabrica.largo $ARGS --minutos ${{ github.event.inputs.minutos || 15 }}
+          else
+            eval python -m fabrica.produce $ARGS
+          fi
 
       - name: Artefacto descargable (por si falla el guardado)
         uses: actions/upload-artifact@v4
@@ -84,8 +98,10 @@ jobs:
           name: short-${{ github.run_id }}
           path: |
             producciones/*/short.mp4
+            producciones/*/largo.mp4
             producciones/*/miniatura*.jpg
             producciones/*/metadata.json
+            producciones/*/guion.json
           retention-days: 14
 
       - name: Guardar producción
@@ -93,6 +109,8 @@ jobs:
           git config user.name "fabrica-bot"
           git config user.email "fabrica-bot@users.noreply.github.com"
           # 1) subir solo la carpeta nueva (sin el índice, que es lo que choca entre corridas)
+          # no subir MP4 de más de 90 MB (límite de GitHub); quedan en el artefacto
+          find producciones -name "*.mp4" -size +90M -print -exec sh -c 'echo "$1" >> .git/info/exclude' _ {} \; || true
           git add producciones/*/ && git reset -q producciones/index.json || true
           git diff --cached --quiet && echo "sin cambios" || git commit -m "fábrica: $(ls -t producciones | grep -v index.json | head -1)"
           git checkout -- producciones/index.json || true

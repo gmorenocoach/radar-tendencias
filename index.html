@@ -209,10 +209,10 @@ async function renderProducciones(){
   const el=$('#prods');
   if(!idx||!idx.producciones.length){ el.innerHTML='<div class="empty">Aún no hay producciones. En el ranking pulsa “⚙ producir Short” (copia el ID del video) y lánzala en Actions → Fábrica de Shorts → Run workflow.</div>'; return; }
   el.innerHTML = idx.producciones.map(p=>`<article class="prod">
-    <video controls preload="metadata" poster="producciones/${p.archivos.miniatura}" src="producciones/${p.archivos.video}"></video>
+    ${p.video_en_repositorio===false?`<a class="thumb" href="https://github.com/gmorenocoach/radar-tendencias/actions/workflows/fabrica.yml" target="_blank" rel="noopener" title="Descargar desde el artefacto de la corrida"><img src="producciones/${p.archivos.miniatura_16x9}" alt="" style="width:200px;border-radius:8px"></a>`:`<video controls preload="metadata" poster="producciones/${p.archivos.miniatura}" src="producciones/${p.archivos.video}" ${p.formato==='largo'?'style="aspect-ratio:16/9;width:320px"':''}></video>`}
     <div>
       <h3>${esc(p.titulo)}</h3>
-      <div class="meta"><span>${esc(p.canal)} · ${p.duracion_s}s · ${p.tamano_mb} MB</span><span>${new Date(p.fecha).toLocaleString('es-CO',{dateStyle:'medium',timeStyle:'short'})} · <b>${esc(p.estado)}</b></span></div>
+      <div class="meta"><span>${esc(p.canal)} · ${p.formato==='largo'?'LARGO · '+Math.round(p.duracion_s/60)+' min':'Short · '+p.duracion_s+'s'} · ${p.tamano_mb} MB${p.nota?' · ⚠ '+esc(p.nota):''}</span><span>${new Date(p.fecha).toLocaleString('es-CO',{dateStyle:'medium',timeStyle:'short'})} · <b>${esc(p.estado)}</b></span></div>
       <pre>${esc(p.descripcion)}</pre>
       <div class="meta"><span>Reto: ${esc(p.reto_de_hoy||'')}</span></div>
       ${p.fuente&&p.fuente.url?`<div class="meta"><span>Referencia: <a href="${p.fuente.url}" target="_blank" rel="noopener">${esc(p.fuente.titulo||p.fuente.url)}</a></span></div>`:''}

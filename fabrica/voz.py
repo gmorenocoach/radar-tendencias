@@ -68,7 +68,7 @@ def sintetizar(escenas, out_dir, voz_nombre=None, idioma="es", velocidad=1.0, vo
         n = len(e["texto"].split())
         trozo = palabras[idx: idx + n]
         if trozo:
-            limites.append({"n": e["n"], "inicio": trozo[0]["s"], "fin": trozo[-1]["e"]})
+            limites.append({"n": e.get("n", len(limites) + 1), "inicio": trozo[0]["s"], "fin": trozo[-1]["e"]})
         idx += n
     if limites:
         limites[-1]["fin"] = dur + 0.4
