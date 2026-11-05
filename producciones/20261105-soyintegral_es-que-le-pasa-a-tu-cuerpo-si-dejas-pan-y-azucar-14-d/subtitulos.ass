@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00578B2E,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.67,Sub,,0,0,0,,{\k21}¿QUÉ {\k15}LE {\k31}PASA
+Dialogue: 0,0:00:00.67,0:00:01.38,Sub,,0,0,0,,{\k8}A {\k14}TU {\k49}CUERPO
+Dialogue: 0,0:00:01.38,0:00:02.12,Sub,,0,0,0,,{\k31}SIN {\k28}PAN {\k15}NI
+Dialogue: 0,0:00:02.12,0:00:04.04,Sub,,0,0,0,,{\k42}AZÚCAR {\k48}14 {\k102}DÍAS?
+Dialogue: 0,0:00:04.04,0:00:05.46,Sub,,0,0,0,,{\k36}TRES {\k41}COSAS {\k65}CAMBIAN,
+Dialogue: 0,0:00:05.46,0:00:06.26,Sub,,0,0,0,,{\k43}CADA {\k29}UNA {\k8}A
+Dialogue: 0,0:00:06.26,0:00:08.12,Sub,,0,0,0,,{\k21}SU {\k101}RITMO. {\k64}OJO:
+Dialogue: 0,0:00:08.12,0:00:09.10,Sub,,0,0,0,,{\k27}SON {\k60}PROMEDIOS {\k12}DE
+Dialogue: 0,0:00:09.10,0:00:11.33,Sub,,0,0,0,,{\k89}ESTUDIOS, {\k24}NO {\k109}PROMESAS.
+Dialogue: 0,0:00:11.33,0:00:12.18,Sub,,0,0,0,,{\k21}SI {\k29}TIENES {\k35}ALGUNA
+Dialogue: 0,0:00:12.18,0:00:13.65,Sub,,0,0,0,,{\k77}CONDICIÓN, {\k64}CONSULTA {\k7}A
+Dialogue: 0,0:00:13.65,0:00:15.43,Sub,,0,0,0,,{\k15}TU {\k104}MÉDICO. {\k58}PRIMERO
+Dialogue: 0,0:00:15.43,0:00:17.25,Sub,,0,0,0,,{\k66}REACCIONA {\k14}EL {\k102}HÍGADO.
+Dialogue: 0,0:00:17.25,0:00:18.37,Sub,,0,0,0,,{\k44}ALGUNOS {\k51}ESTUDIOS {\k16}CON
+Dialogue: 0,0:00:18.37,0:00:19.34,Sub,,0,0,0,,{\k30}HÍGADO {\k45}GRASO {\k22}VEN
+Dialogue: 0,0:00:19.34,0:00:20.24,Sub,,0,0,0,,{\k34}BAJAR {\k15}SU {\k41}GRASA
+Dialogue: 0,0:00:20.24,0:00:21.47,Sub,,0,0,0,,{\k14}EN {\k39}POCOS {\k70}DÍAS,
+Dialogue: 0,0:00:21.47,0:00:22.32,Sub,,0,0,0,,{\k33}PORQUE {\k12}LE {\k41}LLEGA
+Dialogue: 0,0:00:22.32,0:00:23.38,Sub,,0,0,0,,{\k38}MENOS {\k46}AZÚCAR {\k22}PARA
+Dialogue: 0,0:00:23.38,0:00:25.11,Sub,,0,0,0,,{\k60}CONVERTIR {\k8}EN {\k104}GRASA.
+Dialogue: 0,0:00:25.11,0:00:27.26,Sub,,0,0,0,,{\k82}SEGUNDO, {\k15}LA {\k117}BALANZA.
+Dialogue: 0,0:00:27.26,0:00:28.79,Sub,,0,0,0,,{\k49}BAJA {\k74}RÁPIDO, {\k30}PERO
+Dialogue: 0,0:00:28.79,0:00:29.78,Sub,,0,0,0,,{\k37}BUENA {\k39}PARTE {\k22}ES
+Dialogue: 0,0:00:29.78,0:00:30.68,Sub,,0,0,0,,{\k29}AGUA {\k14}QUE {\k48}GUARDABA
+Dialogue: 0,0:00:30.68,0:00:31.44,Sub,,0,0,0,,{\k16}TU {\k46}RESERVA {\k13}DE
+Dialogue: 0,0:00:31.44,0:00:33.40,Sub,,0,0,0,,{\k111}ENERGÍA. {\k57}PESO {\k28}NO
+Dialogue: 0,0:00:33.40,0:00:34.08,Sub,,0,0,0,,{\k15}ES {\k15}LO {\k37}MISMO
+Dialogue: 0,0:00:34.08,0:00:36.15,Sub,,0,0,0,,{\k13}QUE {\k107}GRASA. {\k88}TERCERO,
+Dialogue: 0,0:00:36.15,0:00:37.66,Sub,,0,0,0,,{\k20}LA {\k43}GRASA {\k88}VISCERAL,
+Dialogue: 0,0:00:37.66,0:00:38.35,Sub,,0,0,0,,{\k13}LA {\k13}QUE {\k43}RODEA
+Dialogue: 0,0:00:38.35,0:00:39.89,Sub,,0,0,0,,{\k24}TUS {\k89}ÓRGANOS. {\k41}ESA
+Dialogue: 0,0:00:39.89,0:00:41.40,Sub,,0,0,0,,{\k37}PIDE {\k91}SEMANAS, {\k23}NO
+Dialogue: 0,0:00:41.40,0:00:43.93,Sub,,0,0,0,,{\k80}DÍAS. {\k135}PACIENCIA. {\k38}OJO
+Dialogue: 0,0:00:43.93,0:00:45.07,Sub,,0,0,0,,{\k16}CON {\k12}LA {\k86}TRAMPA:
+Dialogue: 0,0:00:45.07,0:00:45.92,Sub,,0,0,0,,{\k43}CAMBIAR {\k13}EL {\k29}PAN
+Dialogue: 0,0:00:45.92,0:00:47.10,Sub,,0,0,0,,{\k26}POR {\k26}MÁS {\k67}TORTILLAS
+Dialogue: 0,0:00:47.10,0:00:48.05,Sub,,0,0,0,,{\k13}O {\k69}ARROZ. {\k14}Y
+Dialogue: 0,0:00:48.05,0:00:49.17,Sub,,0,0,0,,{\k14}EL {\k49}REFRESCO {\k49}DIARIO
+Dialogue: 0,0:00:49.17,0:00:50.83,Sub,,0,0,0,,{\k52}TAMBIÉN {\k13}ES {\k101}AZÚCAR.
+Dialogue: 0,0:00:50.83,0:00:52.52,Sub,,0,0,0,,{\k44}HÍGADO {\k63}PRIMERO, {\k63}BALANZA
+Dialogue: 0,0:00:52.52,0:00:54.24,Sub,,0,0,0,,{\k77}RÁPIDA, {\k47}GRASA {\k49}VISCERAL
+Dialogue: 0,0:00:54.24,0:00:56.03,Sub,,0,0,0,,{\k95}LENTA. {\k23}¿QUÉ {\k60}NOTARÍAS
+Dialogue: 0,0:00:56.03,0:00:57.69,Sub,,0,0,0,,{\k14}TÚ {\k98}PRIMERO? {\k54}CUÉNTAMELO
+Dialogue: 0,0:00:57.69,0:00:59.41,Sub,,0,0,0,,{\k8}EN {\k130}COMENTARIOS. {\k34}RETO
+Dialogue: 0,0:00:59.41,0:01:00.63,Sub,,0,0,0,,{\k12}DE {\k94}HOY: {\k16}EN
+Dialogue: 0,0:01:00.63,0:01:01.80,Sub,,0,0,0,,{\k13}TU {\k63}CUADERNO, {\k42}ANOTA
+Dialogue: 0,0:01:01.80,0:01:03.53,Sub,,0,0,0,,{\k52}CUÁNTOS {\k53}AZÚCARES {\k67}ESCONDIDOS
+Dialogue: 0,0:01:03.53,0:01:04.96,Sub,,0,0,0,,{\k37}TOMAS {\k71}HOY. {\k35}TRES
+Dialogue: 0,0:01:04.96,0:01:06.87,Sub,,0,0,0,,{\k79}MINUTOS, {\k41}SOLO {\k72}ANOTA.

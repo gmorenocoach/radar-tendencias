@@ -1,0 +1,110 @@
+{
+ "titulo": "¿Qué le pasa a tu cuerpo si dejas pan y azúcar 14 días?",
+ "titulos_alternativos": [
+  "14 días sin pan ni azúcar: qué cambia en tu cuerpo",
+  "Dejar el pan y el azúcar 14 días: lo que dicen los estudios"
+ ],
+ "descripcion": "¿Qué le pasa a tu cuerpo si dejas el pan y el azúcar durante 14 días? Germancho te cuenta, con promedios de estudios, qué cambia primero en el hígado graso, en la balanza y en la grasa visceral. No es una promesa personal; ante dudas de salud, consulta a un profesional. Acepta el reto de hoy y cuéntame en comentarios.",
+ "hashtags": [
+  "#SoyIntegral",
+  "#Germancho",
+  "#DejarElAzucar",
+  "#HigadoGraso",
+  "#GrasaVisceral",
+  "#HabitosSaludables",
+  "#Bienestar",
+  "#CafeConProposito"
+ ],
+ "miniatura": {
+  "texto": "14 DÍAS SIN PAN",
+  "emocion": "sorpresa",
+  "objeto": "Pan y azúcar tachados junto a una silueta de torso con el abdomen resaltado en rojo",
+  "pose": "salto_sorpresa"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "¿Qué le pasa a tu cuerpo sin pan ni azúcar 14 días? Tres cosas cambian, cada una a su ritmo.",
+   "emocion": "sorpresa",
+   "objeto": "pan y terrón de azúcar tachados",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon character jumping in surprise, crossed-out bread and sugar cube, bold simple lines, warm orange accents",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: surprised, round eyes and open mouth; jumping with arms up; cartoon character jumping in surprise, crossed-out bread and sugar cube, bold simple lines, warm orange accents; the pan y terrón de azúcar tachados is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Ojo: son promedios de estudios, no promesas. Si tienes alguna condición, consulta a tu médico.",
+   "emocion": "calma",
+   "objeto": "letrero con la palabra promedios",
+   "pose": "letrero",
+   "prompt_visual": "character holding a sign that reads averages, small doctor stethoscope icon, clean flat style",
+   "segundos": 6,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: calm; holding up a blank sign board; character holding a sign that reads averages, small doctor stethoscope icon, clean flat style; the letrero con la palabra promedios is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Primero reacciona el hígado. Algunos estudios con hígado graso ven bajar su grasa en pocos días, porque le llega menos azúcar para convertir en grasa.",
+   "emocion": "curiosidad",
+   "objeto": "hígado dibujado con una gota de grasa que se achica",
+   "pose": "senalando",
+   "prompt_visual": "character pointing at a cartoon liver with a shrinking fat droplet, simple educational infographic style",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: calm; pointing forward with one long finger; character pointing at a cartoon liver with a shrinking fat droplet, simple educational infographic style; the hígado dibujado con una gota de grasa que se achica is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Segundo, la balanza. Baja rápido, pero buena parte es agua que guardaba tu reserva de energía. Peso no es lo mismo que grasa.",
+   "emocion": "sorpresa",
+   "objeto": "balanza con gotas de agua",
+   "pose": "cambio",
+   "prompt_visual": "bathroom scale with water drops falling, character showing before and after, flat illustration",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: surprised, round eyes and open mouth; arms stretched sideways; bathroom scale with water drops falling, character showing before and after, flat illustration; the balanza con gotas de agua is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Tercero, la grasa visceral, la que rodea tus órganos. Esa pide semanas, no días. Paciencia.",
+   "emocion": "calma",
+   "objeto": "escalera lenta de muchos peldaños",
+   "pose": "escalera",
+   "prompt_visual": "character climbing a long staircase toward an abdomen silhouette, calm patient mood, simple lines",
+   "segundos": 6,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: calm; climbing a tall ladder; character climbing a long staircase toward an abdomen silhouette, calm patient mood, simple lines; the escalera lenta de muchos peldaños is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "Ojo con la trampa: cambiar el pan por más tortillas o arroz. Y el refresco diario también es azúcar.",
+   "emocion": "picardia",
+   "objeto": "tortillas, plato de arroz y vaso de refresco",
+   "pose": "aburrido",
+   "prompt_visual": "character with a knowing look beside tortillas, rice bowl and soda glass, light humorous flat style",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: calm; slumped, bored; character with a knowing look beside tortillas, rice bowl and soda glass, light humorous flat style; the tortillas, plato de arroz y vaso de refresco is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Hígado primero, balanza rápida, grasa visceral lenta. ¿Qué notarías tú primero? Cuéntamelo en comentarios.",
+   "emocion": "alegria",
+   "objeto": "tres tazas de café de distinto tamaño",
+   "pose": "butaco_tazas",
+   "prompt_visual": "character sitting on a stool with three coffee cups of different sizes, friendly smile, simple lines",
+   "segundos": 5,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; sitting on a wooden stool; character sitting on a stool with three coffee cups of different sizes, friendly smile, simple lines; the tres tazas de café de distinto tamaño is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 8,
+   "texto": "Reto de hoy: en tu cuaderno, anota cuántos azúcares escondidos tomas hoy. Tres minutos, solo anota.",
+   "emocion": "motivacion",
+   "objeto": "cuaderno y lápiz",
+   "pose": "saludando",
+   "prompt_visual": "character waving holding a notebook and pencil, cheerful tone, coffee cup nearby, flat style",
+   "segundos": 6,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: calm; standing and waving; character waving holding a notebook and pencil, cheerful tone, coffee cup nearby, flat style; the cuaderno y lápiz is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "En tu cuaderno, anota durante tres minutos todos los azúcares escondidos que tomas en un día (refrescos, jugos, salsas, panes dulces) y compártelo en comentarios.",
+ "palabras": 147,
+ "canal": "soyintegral",
+ "color": "#2E8B57"
+}
