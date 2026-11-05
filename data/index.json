@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T20:56:30Z",
+ "actualizado": "2026-11-05T10:20:51Z",
  "perfiles": [
   {
    "id": "equilibrate_en",
@@ -7,9 +7,19 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "en",
    "formato": "largo",
-   "generado": "2026-11-04T20:56:30Z",
-   "videos": 24,
-   "canales": 11
+   "generado": "2026-11-05T10:20:51Z",
+   "videos": 27,
+   "canales": 12
+  },
+  {
+   "id": "equilibrate_es",
+   "canal": "Equilíbrate · Amor",
+   "nicho": "Amor (Equilíbrate)",
+   "idioma": "es",
+   "formato": "largo",
+   "generado": "2026-11-05T10:20:51Z",
+   "videos": 37,
+   "canales": 13
   },
   {
    "id": "mitribu_en",
@@ -17,9 +27,9 @@
    "nicho": "Dinero (Mi Tribu)",
    "idioma": "en",
    "formato": "shorts",
-   "generado": "2026-11-04T20:56:30Z",
-   "videos": 5,
-   "canales": 6
+   "generado": "2026-11-05T10:20:51Z",
+   "videos": 4,
+   "canales": 7
   },
   {
    "id": "mitribu_es",
@@ -27,9 +37,19 @@
    "nicho": "Dinero (Mi Tribu)",
    "idioma": "es",
    "formato": "shorts",
-   "generado": "2026-11-04T20:56:30Z",
-   "videos": 1,
-   "canales": 3
+   "generado": "2026-11-05T10:20:51Z",
+   "videos": 4,
+   "canales": 4
+  },
+  {
+   "id": "soyintegral_en",
+   "canal": "Soy Integral · Salud (EN)",
+   "nicho": "Salud (Soy Integral)",
+   "idioma": "en",
+   "formato": "largo",
+   "generado": "2026-11-05T10:20:51Z",
+   "videos": 26,
+   "canales": 9
   },
   {
    "id": "soyintegral_es",
@@ -37,10 +57,10 @@
    "nicho": "Salud (Soy Integral)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-04T20:56:30Z",
-   "videos": 46,
-   "canales": 15
+   "generado": "2026-11-05T10:20:51Z",
+   "videos": 47,
+   "canales": 16
   }
  ],
- "cuota_usada_hoy": 5765
+ "cuota_usada_hoy": 4966
 }
