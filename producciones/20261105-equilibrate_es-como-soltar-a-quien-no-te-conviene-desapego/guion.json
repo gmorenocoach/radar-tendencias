@@ -1,0 +1,100 @@
+{
+ "titulo": "Cómo soltar a quien no te conviene | Desapego",
+ "titulos_alternativos": [
+  "Cómo dejar de amar a quien te hace daño | Psicología",
+  "Cómo soltar a alguien que no te valora | Apego emocional"
+ ],
+ "descripcion": "¿Te cuesta soltar a alguien que no te conviene? Germancho te explica en menos de un minuto cómo el apego emocional se alimenta de la idealización y la esperanza, y te da pasos simples de desapego y amor propio. Si el dolor pesa mucho, busca apoyo profesional. Haz el reto de hoy y cuéntame en comentarios cómo te fue.",
+ "hashtags": [
+  "#desapegoemocional",
+  "#amorpropio",
+  "#soltar",
+  "#apegoemocional",
+  "#autoestima",
+  "#dependenciaemocional",
+  "#psicologia",
+  "#Equilibrate"
+ ],
+ "miniatura": {
+  "texto": "DEJAR DE AMAR",
+  "emocion": "tristeza",
+  "objeto": "corazón con una cadena rompiéndose",
+  "pose": "triste_acostado"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "¿Y si no extrañas a esa persona, sino a la versión que tú imaginaste?",
+   "emocion": "tristeza",
+   "objeto": "taza de café con un corazón dibujado en la espuma",
+   "pose": "butaco_tazas",
+   "prompt_visual": "melancholic barista character sitting on a stool, coffee cup with a heart in the foam, deep blue background, red accent",
+   "segundos": 5,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: sad, drooping eyes; sitting on a wooden stool; melancholic barista character sitting on a stool, coffee cup with a heart in the foam, deep blue background, red accent; the taza de café con un corazón dibujado en la espuma is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Si te cuesta soltar, no eres débil. Tu mente se apegó a lo que podría ser, y la esperanza engancha como el primer café del día.",
+   "emocion": "ternura",
+   "objeto": "taza humeante",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "warm character with open arms, steaming coffee cup floating nearby, soft purple tones, comforting mood",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: calm; arms wide open; warm character with open arms, steaming coffee cup floating nearby, soft purple tones, comforting mood; the taza humeante is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Primero: mira a la persona real. Abre tu cuaderno y haz dos columnas: lo que promete y lo que hace. Quédate con la segunda.",
+   "emocion": "claridad",
+   "objeto": "cuaderno con dos columnas",
+   "pose": "letrero",
+   "prompt_visual": "character holding a sign next to an open notebook with two columns, clean flat illustration, dark background",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: calm; holding up a blank sign board; character holding a sign next to an open notebook with two columns, clean flat illustration, dark background; the cuaderno con dos columnas is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Segundo: anota lo que esto te cuesta. Ansiedad, dudas, sentirte menos. Eso también es información.",
+   "emocion": "seriedad",
+   "objeto": "lápiz sobre una hoja",
+   "pose": "agachado",
+   "prompt_visual": "character crouching writing on paper with a pencil, list of worries, moody blue light",
+   "segundos": 6,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: calm; bent over looking down; character crouching writing on paper with a pencil, list of worries, moody blue light; the lápiz sobre una hoja is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Tercero: pon distancia. Silencia chats, guarda fotos, cuida tu espacio. No es castigo, es cuidado.",
+   "emocion": "determinación",
+   "objeto": "celular con notificaciones silenciadas",
+   "pose": "senalando",
+   "prompt_visual": "character pointing at a smartphone with a muted bell icon, dark purple background, gold accent",
+   "segundos": 6,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: calm; pointing forward with one long finger; character pointing at a smartphone with a muted bell icon, dark purple background, gold accent; the celular con notificaciones silenciadas is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "Y sí, vas a recaer en nostalgia. Es una ola, no un retroceso. Déjala pasar y vuelve a ti. Si pesa demasiado, habla con un profesional.",
+   "emocion": "tristeza",
+   "objeto": "ola dibujada sobre una taza",
+   "pose": "triste_acostado",
+   "prompt_visual": "sad character lying down, a gentle wave passing over, small coffee cup beside, calm night colors",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: sad, drooping eyes; lying on the floor, sad; sad character lying down, a gentle wave passing over, small coffee cup beside, calm night colors; the ola dibujada sobre una taza is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: escribe en una nota una cualidad tuya que olvidaste por esta relación, y cuéntame en los comentarios cuál es.",
+   "emocion": "esperanza",
+   "objeto": "nota adhesiva con una estrella",
+   "pose": "cambio",
+   "prompt_visual": "character smiling and holding a sticky note with a star, sunrise light breaking through dark blue, gold accent",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: calm; arms stretched sideways; character smiling and holding a sticky note with a star, sunrise light breaking through dark blue, gold accent; the nota adhesiva con una estrella is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "Escribe en una nota una cualidad tuya que olvidaste por esta relación, pégala donde la veas y compártela en los comentarios.",
+ "palabras": 142,
+ "canal": "equilibrate",
+ "color": "#E8705F"
+}
