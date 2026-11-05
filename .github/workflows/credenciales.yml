@@ -1,0 +1,21 @@
+name: Verificar credenciales
+
+on:
+  workflow_dispatch:
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          FAL_KEY: ${{ secrets.FAL_KEY }}
+        run: |
+          for k in YOUTUBE_API_KEY ANTHROPIC_API_KEY ELEVENLABS_API_KEY FAL_KEY; do v="${!k}"; printf '%s: longitud %s, prefijo %s\n' "$k" "${#v}" "${v:0:8}..."; done
+          echo "--- pruebas"
+          echo -n "YouTube: "; curl -s -o /dev/null -w '%{http_code}\n' "https://www.googleapis.com/youtube/v3/videos?part=id&id=dQw4w9WgXcQ&key=$YOUTUBE_API_KEY"
+          echo -n "Anthropic: "; curl -s -o /dev/null -w '%{http_code}\n' https://api.anthropic.com/v1/models -H "x-api-key: $ANTHROPIC_API_KEY" -H "anthropic-version: 2023-06-01"
+          echo -n "ElevenLabs: "; curl -s -w ' %{http_code}\n' https://api.elevenlabs.io/v1/user/subscription -H "xi-api-key: $ELEVENLABS_API_KEY" | python3 -c "import sys,json; t=sys.stdin.read(); j=json.loads(t.rsplit(' ',1)[0]); print(j.get('tier'), j.get('character_count'),'/',j.get('character_limit'),'caracteres', t.rsplit(' ',1)[1])" 2>/dev/null || echo "(sin detalle)"
+          echo -n "fal.ai: "; curl -s -o /dev/null -w '%{http_code}\n' -X POST https://fal.run/fal-ai/flux/schnell -H "Authorization: Key $FAL_KEY" -H "Content-Type: application/json" -d '{"prompt":"test","num_images":1,"image_size":"square"}'
