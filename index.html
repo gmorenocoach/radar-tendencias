@@ -62,6 +62,15 @@
   .prod .acts{display:flex;gap:8px;flex-wrap:wrap}
   .prod .acts a,.prod .acts button{font:inherit;font-size:13px;padding:6px 10px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);cursor:pointer;text-decoration:none}
   @media (max-width:600px){.prod{grid-template-columns:1fr}.prod video{width:100%}}
+  .plan-kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:0 0 14px}
+  .plan-kpis .kpi b{font-size:22px}
+  .serie{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px}
+  .serie h3{margin:0 0 4px;font-size:16px}.serie ol{margin:6px 0 0 18px;padding:0;font-size:14px}
+  .sem{margin:18px 0 6px;font-weight:700;color:var(--muted);font-size:13px;text-transform:uppercase;letter-spacing:.04em}
+  .pieza{display:grid;grid-template-columns:110px 70px 1fr auto;gap:10px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:8px 12px;margin-bottom:6px;font-size:14px}
+  .pieza .t{font-size:11px;text-transform:uppercase;letter-spacing:.04em;padding:2px 8px;border-radius:999px;text-align:center}
+  .t.largo{background:color-mix(in srgb,var(--accent) 18%,transparent);color:var(--accent)}.t.short{background:var(--chip);color:var(--muted)}.t.vivo{background:color-mix(in srgb,var(--ok) 18%,transparent);color:var(--ok)}.t.comunidad{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+  @media (max-width:640px){.pieza{grid-template-columns:1fr;gap:4px}}
   .tag.promo{background:color-mix(in srgb,var(--accent) 16%,transparent);color:var(--accent)}
   .tag.ok{background:color-mix(in srgb,var(--ok) 18%,transparent);color:var(--ok)}
   table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:14px}
@@ -107,6 +116,7 @@
   <button role="tab" aria-selected="true" data-tab="videos">Videos virales</button>
   <button role="tab" aria-selected="false" data-tab="canales">Canales / competencia</button>
   <button role="tab" aria-selected="false" data-tab="producciones">Producciones</button>
+  <button role="tab" aria-selected="false" data-tab="plan">Plan</button>
 </div>
 
 <div class="stats" id="stats"></div>
@@ -115,6 +125,7 @@
   <section id="videos"><div class="grid" id="grid"></div></section>
   <section id="canales" class="hidden"><div id="tabla"></div></section>
   <section id="producciones" class="hidden"><div id="prods"></div></section>
+  <section id="plan" class="hidden"><div id="plancont"></div></section>
 </main>
 <footer>Fuente: YouTube Data API v3 (consulta no personalizada). "Interacción" = (likes + comentarios) / vistas; CTR y retención no son públicos para canales ajenos. "Viral" = vistas ≥ N× suscriptores del canal y ≥ 3× la mediana reciente del canal. Score = ratio × log10(1 + vistas/día).</footer>
 
@@ -243,6 +254,29 @@ function renderCanales(){
   document.querySelectorAll('#tabla th[data-k]').forEach(h=>h.onclick=()=>{ordenCanales=h.dataset.k;renderCanales();});
 }
 
+async function renderPlan(){
+  const el=$('#plancont'); const pid=$('#perfil').value;
+  let pl=null; try{ pl=await fetch(`planes/${pid}.json`,{cache:'no-store'}).then(r=>r.ok?r.json():null); }catch(e){}
+  if(!pl){ el.innerHTML='<div class="empty">Este perfil no tiene plan generado. Actions → "Planificar canal" → Run workflow.</div>'; return; }
+  const pr=pl.proyeccion, p=pl.plan;
+  const semanas={}; pl.piezas.forEach(x=>{const d=new Date(x.fecha+'T12:00:00'); const lun=new Date(d); lun.setDate(d.getDate()-((d.getDay()+6)%7)); const k=lun.toISOString().slice(0,10); (semanas[k]=semanas[k]||[]).push(x);});
+  const fmt=d=>new Date(d+'T12:00:00').toLocaleDateString('es-CO',{weekday:'short',day:'numeric',month:'short'});
+  el.innerHTML=`<div class="meta" style="margin-bottom:10px"><span><b>${esc(pl.canal)}</b> · modo <b>${esc(p.modo)}</b> · ${fmt(pl.desde)} → ${fmt(pl.hasta)}</span><span>generado ${new Date(pl.generado).toLocaleString('es-CO',{dateStyle:'medium',timeStyle:'short'})}</span></div>
+    <div class="meta" style="margin-bottom:12px"><span>${esc(p.objetivo)}</span></div>
+    <div class="plan-kpis">
+      <div class="kpi"><b>${pr.largos}</b><span>largos</span></div><div class="kpi"><b>${pr.shorts}</b><span>shorts</span></div><div class="kpi"><b>${pr.vivos}</b><span>en vivos</span></div>
+      <div class="kpi"><b>${pr.horas_estimadas.toLocaleString('es-CO')}</b><span>horas estimadas al cierre</span></div><div class="kpi"><b>${pr.subs_estimados.toLocaleString('es-CO')}</b><span>subs estimados</span></div>
+    </div>
+    <div class="meta" style="margin-bottom:14px"><span>Supuestos: ${pr.supuestos.vistas_largo_promedio} vistas/largo al ${Math.round(pr.supuestos.retencion_largo*100)} % · ${pr.supuestos.espectadores_vivo_promedio} personas/en vivo · ${pr.supuestos.vistas_short_promedio} vistas/short. ${esc(pr.nota)}</span></div>
+    <h3 style="font-size:15px;margin:8px 0">Series</h3>
+    ${pl.series.map(s=>`<div class="serie"><h3>${esc(s.nombre)}</h3><div class="meta"><span>${esc(s.tema_madre)} — ${esc(s.promesa||'')}</span></div><ol>${s.capitulos.map(c=>`<li>${esc(c.titulo)} <span class="tag">${c.shorts.length} shorts</span></li>`).join('')}</ol></div>`).join('')}
+    <h3 style="font-size:15px;margin:16px 0 4px">Calendario</h3>
+    ${Object.keys(semanas).sort().map(k=>`<div class="sem">Semana del ${fmt(k)}</div>`+semanas[k].map(x=>`<div class="pieza"><span>${fmt(x.fecha)} · ${x.hora}</span><span class="t ${x.tipo}">${x.tipo}</span>
+      <span><b>${esc(x.titulo)}</b>${x.serie?` <span class="tag">${esc(x.serie)}${x.capitulo?' · cap. '+x.capitulo:''}</span>`:''}${x.origen==='radar'?' <span class="tag">radar</span>':''}${x.gancho?`<br><span style="color:var(--muted)">${esc(x.gancho)}</span>`:''}${x.pregunta_abierta?`<br><span style="color:var(--muted)">${esc(x.pregunta_abierta)} · Reto: ${esc(x.reto_colectivo||'')}</span>`:''}</span>
+      <span>${(x.tipo==='largo'||x.tipo==='short')?`<button class="tag btn" data-prod='${esc(JSON.stringify({perfil:pl.perfil,formato:x.tipo==='largo'?'largo':'shorts',video_id:x.referencia_video_id||'',tema:x.titulo,minutos:x.minutos||15}))}'>⚙ producir</button>`:`<span class="tag ${x.tipo==='vivo'?'ok':''}">${x.tipo==='vivo'?'manual · '+x.minutos+' min':'manual'}</span>`}</span></div>`).join('')).join('')}`;
+  el.querySelectorAll('button[data-prod]').forEach(b=>b.onclick=async()=>{const o=JSON.parse(b.dataset.prod); const txt=`perfil: ${o.perfil}\nformato: ${o.formato}\nvideo_id: ${o.video_id}\ntema: ${o.tema}\nminutos: ${o.minutos}`; try{await navigator.clipboard.writeText(txt);}catch(e){} b.textContent='datos copiados ✓'; window.open('https://github.com/gmorenocoach/radar-tendencias/actions/workflows/fabrica.yml','_blank');});
+}
+
 function esc(s){ return String(s).replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
 
 $('#perfil').onchange = cargarPerfil;
@@ -250,8 +284,9 @@ $('#perfil').onchange = cargarPerfil;
 $('#q').oninput = render;
 document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{
   tab=b.dataset.tab; document.querySelectorAll('.tabs button').forEach(x=>x.setAttribute('aria-selected', x===b));
-  $('#videos').classList.toggle('hidden', tab!=='videos'); $('#canales').classList.toggle('hidden', tab!=='canales'); $('#producciones').classList.toggle('hidden', tab!=='producciones');
+  ['videos','canales','producciones','plan'].forEach(t=>$('#'+t).classList.toggle('hidden', tab!==t));
   if(tab==='producciones') renderProducciones();
+  if(tab==='plan') renderPlan();
 });
 cargar();
 </script>

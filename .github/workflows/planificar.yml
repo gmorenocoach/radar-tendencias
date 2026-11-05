@@ -1,0 +1,36 @@
+name: Planificar canal
+
+on:
+  workflow_dispatch:
+    inputs:
+      perfil:
+        description: "Perfil"
+        required: true
+        type: choice
+        options: [equilibrate_es, soyintegral_es, mitribu_es]
+      desde:
+        description: "Desde (AAAA-MM-DD, vacío = del plan)"
+        required: false
+        default: ""
+      hasta:
+        description: "Hasta (AAAA-MM-DD, vacío = del plan)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  planificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m fabrica.planificar --perfil ${{ github.event.inputs.perfil }} --desde "${{ github.event.inputs.desde }}" --hasta "${{ github.event.inputs.hasta }}"
+      - run: |
+          git config user.name "fabrica-bot"; git config user.email "fabrica-bot@users.noreply.github.com"
+          git add planes && git commit -m "plan: ${{ github.event.inputs.perfil }}" && git pull --rebase --autostash origin main && git push
