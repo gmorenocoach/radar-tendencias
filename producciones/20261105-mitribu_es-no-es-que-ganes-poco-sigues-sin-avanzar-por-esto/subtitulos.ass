@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H0017A0D4,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.46,Sub,,0,0,0,,{\k23}NO {\k11}ES {\k13}QUE
+Dialogue: 0,0:00:00.46,0:00:01.64,Sub,,0,0,0,,{\k29}GANES {\k58}POCO. {\k30}ES
+Dialogue: 0,0:00:01.64,0:00:02.79,Sub,,0,0,0,,{\k66}ESTO. {\k35}LLEGA {\k14}EL
+Dialogue: 0,0:00:02.79,0:00:03.66,Sub,,0,0,0,,{\k36}SUELDO {\k10}Y {\k41}PAGAS
+Dialogue: 0,0:00:03.66,0:00:05.96,Sub,,0,0,0,,{\k86}TODO. {\k66}ARRIENDO, {\k78}TARJETAS,
+Dialogue: 0,0:00:05.96,0:00:07.37,Sub,,0,0,0,,{\k113}ANTOJOS. {\k16}LO {\k13}QUE
+Dialogue: 0,0:00:07.37,0:00:08.73,Sub,,0,0,0,,{\k55}SOBRA, {\k21}SI {\k60}SOBRA,
+Dialogue: 0,0:00:08.73,0:00:10.65,Sub,,0,0,0,,{\k16}LO {\k137}AHORRAS. {\k38}ESE
+Dialogue: 0,0:00:10.65,0:00:11.78,Sub,,0,0,0,,{\k16}ES {\k13}EL {\k85}HÁBITO:
+Dialogue: 0,0:00:11.78,0:00:13.46,Sub,,0,0,0,,{\k51}AHORRAR {\k15}DE {\k101}ÚLTIMO.
+Dialogue: 0,0:00:13.46,0:00:14.26,Sub,,0,0,0,,{\k22}ES {\k22}COMO {\k36}LLENAR
+Dialogue: 0,0:00:14.26,0:00:14.94,Sub,,0,0,0,,{\k15}LA {\k31}TAZA {\k22}HASTA
+Dialogue: 0,0:00:14.94,0:00:15.53,Sub,,0,0,0,,{\k12}EL {\k37}BORDE {\k10}Y
+Dialogue: 0,0:00:15.53,0:00:16.38,Sub,,0,0,0,,{\k32}PEDIR {\k21}QUE {\k31}QUEPA
+Dialogue: 0,0:00:16.38,0:00:17.51,Sub,,0,0,0,,{\k16}MÁS {\k73}CAFÉ. {\k23}Y
+Dialogue: 0,0:00:17.51,0:00:18.46,Sub,,0,0,0,,{\k46}CLARO, {\k16}EL {\k32}MES
+Dialogue: 0,0:00:18.46,0:00:20.04,Sub,,0,0,0,,{\k50}SIEMPRE {\k32}TRAE {\k76}ALGO:
+Dialogue: 0,0:00:20.04,0:00:21.25,Sub,,0,0,0,,{\k16}UN {\k84}CUMPLEAÑOS, {\k21}UNA
+Dialogue: 0,0:00:21.25,0:00:23.24,Sub,,0,0,0,,{\k75}REPARACIÓN, {\k13}UN {\k111}ANTOJO.
+Dialogue: 0,0:00:23.24,0:00:24.22,Sub,,0,0,0,,{\k29}EL {\k42}GASTO {\k27}SABE
+Dialogue: 0,0:00:24.22,0:00:25.83,Sub,,0,0,0,,{\k36}LLEGAR {\k96}PRIMERO. {\k29}QUIEN
+Dialogue: 0,0:00:25.83,0:00:27.19,Sub,,0,0,0,,{\k58}CONSTRUYE {\k55}INGRESOS {\k23}HACE
+Dialogue: 0,0:00:27.19,0:00:29.12,Sub,,0,0,0,,{\k13}LO {\k135}CONTRARIO. {\k45}APARTA
+Dialogue: 0,0:00:29.12,0:00:30.21,Sub,,0,0,0,,{\k51}PRIMERO, {\k31}AUNQUE {\k27}SEA
+Dialogue: 0,0:00:30.21,0:00:31.57,Sub,,0,0,0,,{\k101}POQUITO, {\k20}Y {\k15}CON
+Dialogue: 0,0:00:31.57,0:00:32.07,Sub,,0,0,0,,{\k13}LO {\k13}QUE {\k24}QUEDA
+Dialogue: 0,0:00:32.07,0:00:33.55,Sub,,0,0,0,,{\k44}ORGANIZA {\k13}EL {\k92}MES.
+Dialogue: 0,0:00:33.55,0:00:34.58,Sub,,0,0,0,,{\k22}NO {\k16}ES {\k64}MAGIA,
+Dialogue: 0,0:00:34.58,0:00:36.06,Sub,,0,0,0,,{\k30}ES {\k95}ORDEN. {\k23}Y
+Dialogue: 0,0:00:36.06,0:00:36.72,Sub,,0,0,0,,{\k23}ESE {\k31}ORDEN {\k12}TE
+Dialogue: 0,0:00:36.72,0:00:37.59,Sub,,0,0,0,,{\k31}LIBERA {\k12}LA {\k44}CABEZA
+Dialogue: 0,0:00:37.59,0:00:38.59,Sub,,0,0,0,,{\k22}PARA {\k46}PENSAR {\k31}CÓMO
+Dialogue: 0,0:00:38.59,0:00:40.18,Sub,,0,0,0,,{\k33}GANAR {\k103}MÁS. {\k23}EL
+Dialogue: 0,0:00:40.18,0:00:41.16,Sub,,0,0,0,,{\k35}DINERO {\k16}SIN {\k47}DESTINO
+Dialogue: 0,0:00:41.16,0:00:41.95,Sub,,0,0,0,,{\k9}SE {\k50}EVAPORA {\k20}COMO
+Dialogue: 0,0:00:41.95,0:00:43.42,Sub,,0,0,0,,{\k12}EL {\k107}CAFÉ. {\k29}DALE
+Dialogue: 0,0:00:43.42,0:00:45.64,Sub,,0,0,0,,{\k31}LUGAR {\k158}PRIMERO. {\k33}RETO
+Dialogue: 0,0:00:45.64,0:00:47.00,Sub,,0,0,0,,{\k10}DE {\k75}HOY: {\k50}PROGRAMA
+Dialogue: 0,0:00:47.00,0:00:47.86,Sub,,0,0,0,,{\k15}UN {\k30}AHORRO {\k41}PEQUEÑO
+Dialogue: 0,0:00:47.86,0:00:48.37,Sub,,0,0,0,,{\k17}PARA {\k10}EL {\k23}DÍA
+Dialogue: 0,0:00:48.37,0:00:49.26,Sub,,0,0,0,,{\k12}QUE {\k15}TE {\k63}PAGUEN,
+Dialogue: 0,0:00:49.26,0:00:50.14,Sub,,0,0,0,,{\k36}ANTES {\k10}DE {\k42}GASTAR
+Dialogue: 0,0:00:50.14,0:00:51.76,Sub,,0,0,0,,{\k125}NADA. {\k27}DIME {\k9}EN
+Dialogue: 0,0:00:51.76,0:00:53.64,Sub,,0,0,0,,{\k68}COMENTARIOS {\k38}CUÁNTO {\k81}FUE.
+Dialogue: 0,0:00:53.64,0:00:54.14,Sub,,0,0,0,,{\k16}Y {\k15}SI {\k19}TUS
+Dialogue: 0,0:00:54.14,0:00:55.72,Sub,,0,0,0,,{\k51}FINANZAS {\k29}ESTÁN {\k78}COMPLICADAS,
+Dialogue: 0,0:00:55.72,0:00:56.53,Sub,,0,0,0,,{\k56}CONSULTA {\k15}A {\k11}UN
+Dialogue: 0,0:00:56.53,0:00:57.54,Sub,,0,0,0,,{\k101}PROFESIONAL.

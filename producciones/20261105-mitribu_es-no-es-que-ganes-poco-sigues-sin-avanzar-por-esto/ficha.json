@@ -1,0 +1,81 @@
+{
+ "fuente": {
+  "video_id": "CJXMOjGMyCM",
+  "url": "https://www.youtube.com/watch?v=CJXMOjGMyCM",
+  "titulo": "la gente sigue pobre por esto 🧏‍♂️ #mentalidad #hábitos #pobreza",
+  "descripcion": "la gente sigue pobre por esto 🧏‍♂️ #mentalidad #hábitos #pobreza",
+  "canal": "Ronald de la Hoz | Mentor de Ingresos On line",
+  "vistas": 156583,
+  "likes": 2053,
+  "comentarios": 45,
+  "publicado": "2026-11-01",
+  "miniatura": "https://i.ytimg.com/vi/CJXMOjGMyCM/maxresdefault.jpg",
+  "duracion": "PT30S",
+  "tags": [],
+  "transcripcion_chars": 0
+ },
+ "adn": {
+  "tema_central": "Mentalidad y hábitos que mantienen a las personas en la pobreza financiera, presentados como una verdad incómoda que casi nadie dice",
+  "promesa_del_titulo": "Revelar en 30 segundos la causa oculta (un hábito o creencia) por la que la gente no sale de la pobreza",
+  "gancho_primeros_segundos": "Afirmación directa y confrontadora a cámara, del estilo 'La gente sigue pobre por esto', que abre un bucle de curiosidad sobre cuál es 'esto' y lleva al espectador a quedarse para descubrirlo (inferido del título)",
+  "tipo_de_gancho": "contradiccion",
+  "estructura": [
+   {
+    "bloque": "gancho",
+    "segundos_aprox": 3,
+    "funcion": "Lanzar la afirmación polémica y abrir el bucle de curiosidad ('esto') sin revelarlo aún"
+   },
+   {
+    "bloque": "contexto",
+    "segundos_aprox": 5,
+    "funcion": "Plantear el problema: describir cómo la mayoría piensa o actúa con el dinero y por qué eso los frena"
+   },
+   {
+    "bloque": "punto 1",
+    "segundos_aprox": 10,
+    "funcion": "Revelar el hábito o creencia central que mantiene la pobreza, con un ejemplo cotidiano reconocible"
+   },
+   {
+    "bloque": "punto 2",
+    "segundos_aprox": 7,
+    "funcion": "Contrastar con la mentalidad o hábito de quien sí crea ingresos, reforzando la diferencia"
+   },
+   {
+    "bloque": "cierre",
+    "segundos_aprox": 5,
+    "funcion": "Frase contundente y memorable que resuma la idea e invite a seguir al canal o actuar"
+   }
+  ],
+  "ritmo": "Muy rápido, propio de un short de 30s: frases cortas de una sola idea (5-10 palabras), sin relleno, pausas mínimas, cortes visuales frecuentes y subtítulos dinámicos. Un solo mensaje por video, con cierre seco.",
+  "tono": "Directo, autoritario y confrontador, estilo mentor; sin rodeos, con un punto de verdad dura pero motivacional",
+  "cta_final": "Invitación a seguir al mentor para aprender más sobre ingresos online, o a comentar si el espectador se identifica con ese hábito (inferido; no verificado)",
+  "formula_del_titulo": "'[Grupo de personas] sigue [estado negativo] por esto' + emoji de gesto + 3 hashtags temáticos (#concepto1 #concepto2 #concepto3)",
+  "titulo_con_numero": false,
+  "palabras_clave": [
+   "pobreza",
+   "mentalidad",
+   "hábitos",
+   "dinero",
+   "gente",
+   "ingresos online",
+   "error",
+   "esto"
+  ],
+  "emocion_dominante": "miedo",
+  "formula_miniatura": {
+   "rostro": "Sí, probablemente el creador a cámara con expresión seria o de seguridad (en Shorts el fotograma suele ser el propio video)",
+   "texto": "Opcional; 3-5 palabras en subtítulo grande en negrita, con alto contraste",
+   "objeto": "Ninguno específico; posible referencia al dinero (billetes, billetera vacía) o gesto de la mano",
+   "color_dominante": "Tonos oscuros o neutros con acentos de texto en amarillo o blanco"
+  },
+  "por_que_funciona": "El título activa la curiosidad con el pronombre vago 'esto' y apela a un miedo universal (la escasez económica) con una afirmación generalizadora que invita a comprobar si uno mismo cae en ello. La duración de 30s y el tema simple y emocional favorecen la retención completa y el reenvío.",
+  "riesgos_a_evitar": [
+   "Copiar frases o el guion literal del original",
+   "Prometer riqueza garantizada o resultados económicos irreales",
+   "Culpar o estigmatizar a las personas pobres en lugar de señalar hábitos o creencias",
+   "Revelar el 'esto' demasiado tarde o dejarlo vago, lo que frustra y baja la retención",
+   "Usar datos o afirmaciones sin sustento presentándolos como verdad absoluta",
+   "Saturar de hashtags genéricos que no aportan"
+  ]
+ }
+}

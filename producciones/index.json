@@ -1,6 +1,54 @@
 {
  "producciones": [
   {
+   "id": "20261105-mitribu_es-no-es-que-ganes-poco-sigues-sin-avanzar-por-esto",
+   "perfil": "mitribu_es",
+   "canal": "Mi Tribu · Dinero",
+   "fecha": "2026-11-05T11:54:29",
+   "titulo": "No es que ganes poco: sigues sin avanzar por esto",
+   "titulos_alternativos": [
+    "Tu dinero no alcanza por este hábito, no por tu sueldo",
+    "Mucha gente no avanza con su dinero por esto"
+   ],
+   "descripcion": "Un hábito simple con el dinero puede explicar por qué el sueldo se va y nunca queda nada. Germancho te cuenta cuál es y cómo lo cambian quienes construyen ingresos, con mentalidad financiera y ahorro. Sin fórmulas mágicas, solo orden y un primer paso pequeño. Haz el reto de hoy y cuéntame en comentarios cómo te fue.\n\n#dinero #mentalidadfinanciera #ahorro #habitos #ingresos #finanzaspersonales #cafeconproposito",
+   "hashtags": [
+    "#dinero",
+    "#mentalidadfinanciera",
+    "#ahorro",
+    "#habitos",
+    "#ingresos",
+    "#finanzaspersonales",
+    "#cafeconproposito"
+   ],
+   "reto_de_hoy": "Abre tu app del banco y programa un ahorro pequeño, aunque sea mínimo, para el día que te paguen. Luego cuéntame en comentarios cuánto fue.",
+   "duracion_s": 57.5,
+   "tamano_mb": 9.2,
+   "fuente": {
+    "video_id": "CJXMOjGMyCM",
+    "url": "https://www.youtube.com/watch?v=CJXMOjGMyCM",
+    "titulo": "la gente sigue pobre por esto 🧏‍♂️ #mentalidad #hábitos #pobreza",
+    "descripcion": "la gente sigue pobre por esto 🧏‍♂️ #mentalidad #hábitos #pobreza",
+    "canal": "Ronald de la Hoz | Mentor de Ingresos On line",
+    "vistas": 156583,
+    "likes": 2053,
+    "comentarios": 45,
+    "publicado": "2026-11-01",
+    "miniatura": "https://i.ytimg.com/vi/CJXMOjGMyCM/maxresdefault.jpg",
+    "duracion": "PT30S",
+    "tags": [],
+    "transcripcion_chars": 0
+   },
+   "estado": "pendiente_aprobacion",
+   "archivos": {
+    "video": "20261105-mitribu_es-no-es-que-ganes-poco-sigues-sin-avanzar-por-esto/short.mp4",
+    "miniatura": "20261105-mitribu_es-no-es-que-ganes-poco-sigues-sin-avanzar-por-esto/miniatura.jpg",
+    "miniatura_16x9": "20261105-mitribu_es-no-es-que-ganes-poco-sigues-sin-avanzar-por-esto/miniatura_16x9.jpg",
+    "guion": "20261105-mitribu_es-no-es-que-ganes-poco-sigues-sin-avanzar-por-esto/guion.json",
+    "ficha": "20261105-mitribu_es-no-es-que-ganes-poco-sigues-sin-avanzar-por-esto/ficha.json"
+   },
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
+  {
    "id": "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata",
    "perfil": "mitribu_es",
    "canal": "Mi Tribu · Dinero",
@@ -84,5 +132,5 @@
    "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
   }
  ],
- "actualizado": "2026-11-05T06:50:44"
+ "actualizado": "2026-11-05T11:54:29"
 }

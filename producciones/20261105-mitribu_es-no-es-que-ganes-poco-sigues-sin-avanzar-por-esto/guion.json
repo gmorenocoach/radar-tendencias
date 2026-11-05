@@ -1,0 +1,109 @@
+{
+ "titulo": "No es que ganes poco: sigues sin avanzar por esto",
+ "titulos_alternativos": [
+  "Tu dinero no alcanza por este hábito, no por tu sueldo",
+  "Mucha gente no avanza con su dinero por esto"
+ ],
+ "descripcion": "Un hábito simple con el dinero puede explicar por qué el sueldo se va y nunca queda nada. Germancho te cuenta cuál es y cómo lo cambian quienes construyen ingresos, con mentalidad financiera y ahorro. Sin fórmulas mágicas, solo orden y un primer paso pequeño. Haz el reto de hoy y cuéntame en comentarios cómo te fue.",
+ "hashtags": [
+  "#dinero",
+  "#mentalidadfinanciera",
+  "#ahorro",
+  "#habitos",
+  "#ingresos",
+  "#finanzaspersonales",
+  "#cafeconproposito"
+ ],
+ "miniatura": {
+  "texto": "Es por esto",
+  "emocion": "miedo",
+  "objeto": "billetera vacía",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "No es que ganes poco. Es esto.",
+   "emocion": "miedo",
+   "objeto": "billetera vacía",
+   "pose": "senalando",
+   "prompt_visual": "close-up of an empty open wallet, dramatic dark background, bold yellow arrow pointing at it, serious mood",
+   "segundos": 3,
+   "prompt_final": "This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two small black oval eyes, a simple mouth, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: scared, wide eyes, raised brows; close-up of an empty open wallet, dramatic dark background, bold yellow arrow pointing at it, serious mood; the billetera vacía is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration."
+  },
+  {
+   "n": 2,
+   "texto": "Llega el sueldo y pagas todo. Arriendo, tarjetas, antojos. Lo que sobra, si sobra, lo ahorras.",
+   "emocion": "tristeza",
+   "objeto": "calendario con cuentas",
+   "pose": "aburrido",
+   "prompt_visual": "person looking at a pile of bills and a calendar after payday, muted tones, tired expression, flat illustration",
+   "segundos": 6,
+   "prompt_final": "This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two small black oval eyes, a simple mouth, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: sad, drooping eyes; person looking at a pile of bills and a calendar after payday, muted tones, tired expression, flat illustration; the calendario con cuentas is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration."
+  },
+  {
+   "n": 3,
+   "texto": "Ese es el hábito: ahorrar de último. Es como llenar la taza hasta el borde y pedir que quepa más café.",
+   "emocion": "sorpresa",
+   "objeto": "taza desbordada",
+   "pose": "butaco_tazas",
+   "prompt_visual": "coffee cup overflowing onto a saucer, humorous scene, cafe stool in background, warm flat illustration",
+   "segundos": 8,
+   "prompt_final": "This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two small black oval eyes, a simple mouth, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: surprised, round eyes and open mouth; coffee cup overflowing onto a saucer, humorous scene, cafe stool in background, warm flat illustration; the taza desbordada is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration."
+  },
+  {
+   "n": 4,
+   "texto": "Y claro, el mes siempre trae algo: un cumpleaños, una reparación, un antojo. El gasto sabe llegar primero.",
+   "emocion": "miedo",
+   "objeto": "cuaderno con gastos",
+   "pose": "agachado",
+   "prompt_visual": "notebook with a growing list of expenses, small icons of a cake, a wrench and a snack, character crouching over it",
+   "segundos": 7,
+   "prompt_final": "This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two small black oval eyes, a simple mouth, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: scared, wide eyes, raised brows; notebook with a growing list of expenses, small icons of a cake, a wrench and a snack, character crouching over it; the cuaderno con gastos is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration."
+  },
+  {
+   "n": 5,
+   "texto": "Quien construye ingresos hace lo contrario. Aparta primero, aunque sea poquito, y con lo que queda organiza el mes.",
+   "emocion": "alegria",
+   "objeto": "alcancía",
+   "pose": "cambio",
+   "prompt_visual": "split scene: before and after, character dropping a coin into a piggy bank first, then planning the month in a notebook",
+   "segundos": 7,
+   "prompt_final": "This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two small black oval eyes, a simple mouth, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: happy, big toothy grin; split scene: before and after, character dropping a coin into a piggy bank first, then planning the month in a notebook; the alcancía is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration."
+  },
+  {
+   "n": 6,
+   "texto": "No es magia, es orden. Y ese orden te libera la cabeza para pensar cómo ganar más.",
+   "emocion": "alegria",
+   "objeto": "escalera",
+   "pose": "escalera",
+   "prompt_visual": "character climbing a simple staircase with a lightbulb above, optimistic mood, clean flat illustration",
+   "segundos": 6,
+   "prompt_final": "This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two small black oval eyes, a simple mouth, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: happy, big toothy grin; character climbing a simple staircase with a lightbulb above, optimistic mood, clean flat illustration; the escalera is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration."
+  },
+  {
+   "n": 7,
+   "texto": "El dinero sin destino se evapora como el café. Dale lugar primero.",
+   "emocion": "sorpresa",
+   "objeto": "taza humeante",
+   "pose": "letrero",
+   "prompt_visual": "steaming coffee cup with steam turning into floating banknotes, character holding a sign, bold contrast",
+   "segundos": 5,
+   "prompt_final": "This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two small black oval eyes, a simple mouth, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: surprised, round eyes and open mouth; steaming coffee cup with steam turning into floating banknotes, character holding a sign, bold contrast; the taza humeante is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration."
+  },
+  {
+   "n": 8,
+   "texto": "Reto de hoy: programa un ahorro pequeño para el día que te paguen, antes de gastar nada. Dime en comentarios cuánto fue. Y si tus finanzas están complicadas, consulta a un profesional.",
+   "emocion": "alegria",
+   "objeto": "celular con transferencia",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "character with open arms next to a phone showing a small scheduled transfer, friendly and encouraging, bright accents",
+   "segundos": 12,
+   "prompt_final": "This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two small black oval eyes, a simple mouth, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: happy, big toothy grin; character with open arms next to a phone showing a small scheduled transfer, friendly and encouraging, bright accents; the celular con transferencia is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration."
+  }
+ ],
+ "reto_de_hoy": "Abre tu app del banco y programa un ahorro pequeño, aunque sea mínimo, para el día que te paguen. Luego cuéntame en comentarios cuánto fue.",
+ "palabras": 142,
+ "canal": "mitribu",
+ "color": "#D4A017"
+}
