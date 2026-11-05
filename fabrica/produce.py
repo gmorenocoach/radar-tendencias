@@ -47,8 +47,8 @@ def main():
     # 3. Voz
     mp3, palabras, limites, dur = voz.sintetizar(g["escenas"], str(d), a.voz or None, p["idioma"], voz_id=None if a.voz else p.get("voz_id"))
     print(f"  Voz: {dur:.1f} s · {len(palabras)} palabras")
-    if dur > 59 and a.formato == "shorts":
-        print("  ! aviso: supera 59 s; YouTube lo tratará como video normal. Acortar guion.")
+    if dur > 175 and a.formato == "shorts":
+        print("  ! aviso: supera 3 minutos; YouTube no lo tratará como Short. Acortar guion.")
 
     # 4. Escenas
     pngs = []
