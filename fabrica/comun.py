@@ -65,7 +65,7 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None):
     key = os.environ.get("ANTHROPIC_API_KEY")
     if not key:
         raise SystemExit("Falta ANTHROPIC_API_KEY")
-    body = {"model": os.environ.get("CLAUDE_MODEL", "claude-sonnet-4-5"), "max_tokens": max_tokens,
+    body = {"model": os.environ.get("CLAUDE_MODEL", "claude-sonnet-5-5"), "max_tokens": max_tokens,
             "system": system, "messages": [{"role": "user", "content": user}]}
     for intento in range(3):
         r = requests.post("https://api.anthropic.com/v1/messages", json=body, timeout=180,
