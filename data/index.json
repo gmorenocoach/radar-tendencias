@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T10:20:51Z",
+ "actualizado": "2026-11-05T10:36:50Z",
  "perfiles": [
   {
    "id": "equilibrate_en",
@@ -17,9 +17,9 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-05T10:20:51Z",
-   "videos": 37,
-   "canales": 13
+   "generado": "2026-11-05T10:36:50Z",
+   "videos": 28,
+   "canales": 7
   },
   {
    "id": "mitribu_en",
@@ -37,9 +37,9 @@
    "nicho": "Dinero (Mi Tribu)",
    "idioma": "es",
    "formato": "shorts",
-   "generado": "2026-11-05T10:20:51Z",
-   "videos": 4,
-   "canales": 4
+   "generado": "2026-11-05T10:36:50Z",
+   "videos": 6,
+   "canales": 10
   },
   {
    "id": "soyintegral_en",
@@ -62,5 +62,5 @@
    "canales": 16
   }
  ],
- "cuota_usada_hoy": 4966
+ "cuota_usada_hoy": 2716
 }
