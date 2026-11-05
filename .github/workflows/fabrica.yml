@@ -1,0 +1,79 @@
+name: Fábrica de Shorts
+
+on:
+  workflow_dispatch:
+    inputs:
+      perfil:
+        description: "Perfil de canal"
+        required: true
+        type: choice
+        options: [mitribu_es, equilibrate_es, soyintegral_es, mitribu_en, equilibrate_en, soyintegral_en]
+        default: mitribu_es
+      video_id:
+        description: "ID del video viral de referencia (11 caracteres). Vacío si usas tema."
+        required: false
+        default: ""
+      tema:
+        description: "Tema (si no hay video de referencia)"
+        required: false
+        default: ""
+      voz:
+        description: "Nombre de la voz de ElevenLabs (vacío = automática en español)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fabrica
+  cancel-in-progress: false
+
+jobs:
+  producir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Dependencias
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
+          pip install -r requirements.txt
+
+      - name: Producir Short
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          FAL_KEY: ${{ secrets.FAL_KEY }}
+          ELEVEN_VOICE_NAME: ${{ github.event.inputs.voz }}
+        run: |
+          ARGS="--perfil ${{ github.event.inputs.perfil }}"
+          if [ -n "${{ github.event.inputs.video_id }}" ]; then ARGS="$ARGS --video_id ${{ github.event.inputs.video_id }}"; fi
+          if [ -n "${{ github.event.inputs.tema }}" ]; then ARGS="$ARGS --tema \"${{ github.event.inputs.tema }}\""; fi
+          eval python -m fabrica.produce $ARGS
+
+      - name: Guardar producción
+        run: |
+          git config user.name "fabrica-bot"
+          git config user.email "fabrica-bot@users.noreply.github.com"
+          git add producciones/
+          git diff --cached --quiet && echo "sin cambios" || git commit -m "fábrica: $(ls -t producciones | grep -v index.json | head -1)"
+          git pull --rebase --autostash origin main
+          git push
+
+      - name: Subir también como artefacto descargable
+        uses: actions/upload-artifact@v4
+        with:
+          name: short
+          path: |
+            producciones/*/short.mp4
+            producciones/*/miniatura*.jpg
+            producciones/*/metadata.json
+          retention-days: 14

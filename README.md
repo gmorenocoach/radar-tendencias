@@ -51,3 +51,11 @@ Para investigar más, añade perfiles o sube `max_busquedas`, vigilando el total
 ## Próximas fases
 
 2 Competencia (seguimiento diario de canales) · 3 ADN del video + guion · 4 Fábrica de Shorts · 5 Fábrica de largos y reciclaje de en vivos · 6 Tablero YPP.
+
+## Fábrica de Shorts (Fase 4)
+
+`fabrica/` produce un Short completo con Germancho a partir de un video viral del radar o de un tema:
+ADN (transcripción + Claude) → guion en escenas → voz (ElevenLabs) → escenas con el personaje (fal.ai, referencia del libro en `assets/germancho/`) → render 1080×1920 con subtítulos (ffmpeg) → miniatura → metadatos.
+
+Ejecutar: *Actions → Fábrica de Shorts → Run workflow* (perfil + `video_id` o `tema`). El resultado queda en `producciones/` y en la pestaña **Producciones** de la página, en estado `pendiente_aprobacion`. Secretos necesarios: `YOUTUBE_API_KEY`, `ANTHROPIC_API_KEY`, `ELEVENLABS_API_KEY`, `FAL_KEY`.
+Prueba local sin APIs: `FABRICA_MOCK=1 python -m fabrica.produce --perfil mitribu_es --tema prueba`.

@@ -53,6 +53,15 @@
   .tags{display:flex;gap:6px;flex-wrap:wrap}
   .tag{font-size:11px;padding:2px 8px;border-radius:999px;background:var(--chip);color:var(--muted)}
   .tag.num{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+  .tag.btn{cursor:pointer;border:1px solid var(--line);background:var(--panel);color:var(--ink);font:inherit;font-size:11px}
+  .tag.btn:hover{background:var(--ink);color:var(--bg)}
+  .prod{display:grid;grid-template-columns:200px 1fr;gap:16px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:14px}
+  .prod video{width:200px;aspect-ratio:9/16;background:#000;border-radius:8px}
+  .prod h3{margin:0 0 6px;font-size:17px}
+  .prod pre{white-space:pre-wrap;font:13px/1.4 inherit;background:var(--chip);padding:10px;border-radius:8px;margin:8px 0}
+  .prod .acts{display:flex;gap:8px;flex-wrap:wrap}
+  .prod .acts a,.prod .acts button{font:inherit;font-size:13px;padding:6px 10px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);cursor:pointer;text-decoration:none}
+  @media (max-width:600px){.prod{grid-template-columns:1fr}.prod video{width:100%}}
   .tag.promo{background:color-mix(in srgb,var(--accent) 16%,transparent);color:var(--accent)}
   .tag.ok{background:color-mix(in srgb,var(--ok) 18%,transparent);color:var(--ok)}
   table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:14px}
@@ -97,6 +106,7 @@
 <div class="tabs" role="tablist">
   <button role="tab" aria-selected="true" data-tab="videos">Videos virales</button>
   <button role="tab" aria-selected="false" data-tab="canales">Canales / competencia</button>
+  <button role="tab" aria-selected="false" data-tab="producciones">Producciones</button>
 </div>
 
 <div class="stats" id="stats"></div>
@@ -104,6 +114,7 @@
 <main>
   <section id="videos"><div class="grid" id="grid"></div></section>
   <section id="canales" class="hidden"><div id="tabla"></div></section>
+  <section id="producciones" class="hidden"><div id="prods"></div></section>
 </main>
 <footer>Fuente: YouTube Data API v3 (consulta no personalizada). "Interacción" = (likes + comentarios) / vistas; CTR y retención no son públicos para canales ajenos. "Viral" = vistas ≥ N× suscriptores del canal y ≥ 3× la mediana reciente del canal. Score = ratio × log10(1 + vistas/día).</footer>
 
@@ -179,11 +190,43 @@ function render(){
           ${x.titulo_con_numero?'<span class="tag num">título con número</span>':''}
           ${x.subnicho?`<span class="tag">${esc(x.subnicho)}</span>`:''}
           <span class="tag ${x.fuerte?'ok':''}">interacción ${(x.engagement*100).toFixed(1)}%</span>
+          <button class="tag btn" data-vid="${x.video_id}" title="Copia el ID y abre la fábrica">⚙ producir Short</button>
           ${x.promocion&&x.promocion.promociona?`<span class="tag promo" title="${esc((x.promocion.plataformas||[]).join(', '))}">vende: ${x.promocion.tipos.join(', ')||'oferta'}${x.promocion.plataformas.length?' · '+x.promocion.plataformas[0]:''}</span>`:''}
         </div>
       </div>
     </article>`).join('');
   renderCanales();
+  document.querySelectorAll('.tag.btn').forEach(b=>b.onclick=async e=>{
+    e.preventDefault(); const id=b.dataset.vid;
+    try{ await navigator.clipboard.writeText(id); b.textContent='ID copiado ✓'; }catch(_){ b.textContent=id; }
+    window.open('https://github.com/gmorenocoach/radar-tendencias/actions/workflows/fabrica.yml','_blank');
+  });
+}
+
+async function renderProducciones(){
+  let idx=null;
+  try{ idx=await fetch('producciones/index.json',{cache:'no-store'}).then(r=>r.json()); }catch(e){}
+  const el=$('#prods');
+  if(!idx||!idx.producciones.length){ el.innerHTML='<div class="empty">Aún no hay producciones. En el ranking pulsa “⚙ producir Short” (copia el ID del video) y lánzala en Actions → Fábrica de Shorts → Run workflow.</div>'; return; }
+  el.innerHTML = idx.producciones.map(p=>`<article class="prod">
+    <video controls preload="metadata" poster="producciones/${p.archivos.miniatura}" src="producciones/${p.archivos.video}"></video>
+    <div>
+      <h3>${esc(p.titulo)}</h3>
+      <div class="meta"><span>${esc(p.canal)} · ${p.duracion_s}s · ${p.tamano_mb} MB</span><span>${new Date(p.fecha).toLocaleString('es-CO',{dateStyle:'medium',timeStyle:'short'})} · <b>${esc(p.estado)}</b></span></div>
+      <pre>${esc(p.descripcion)}</pre>
+      <div class="meta"><span>Reto: ${esc(p.reto_de_hoy||'')}</span></div>
+      ${p.fuente&&p.fuente.url?`<div class="meta"><span>Referencia: <a href="${p.fuente.url}" target="_blank" rel="noopener">${esc(p.fuente.titulo||p.fuente.url)}</a></span></div>`:''}
+      <div class="acts">
+        <a href="producciones/${p.archivos.video}" download>Descargar MP4</a>
+        <a href="producciones/${p.archivos.miniatura}" download>Miniatura 9:16</a>
+        <a href="producciones/${p.archivos.miniatura_16x9}" download>Miniatura 16:9</a>
+        <button data-copy="${esc(p.titulo)}">Copiar título</button>
+        <button data-copy="${esc(p.descripcion)}">Copiar descripción</button>
+        <a href="producciones/${p.archivos.guion}" target="_blank">Guion</a>
+      </div>
+      <div class="meta" style="margin-top:6px"><span>⚠ ${esc(p.divulgacion_ia||'')}</span></div>
+    </div></article>`).join('');
+  el.querySelectorAll('button[data-copy]').forEach(b=>b.onclick=()=>{navigator.clipboard.writeText(b.dataset.copy); b.textContent='Copiado ✓';});
 }
 
 function renderCanales(){
@@ -205,7 +248,8 @@ $('#perfil').onchange = cargarPerfil;
 $('#q').oninput = render;
 document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{
   tab=b.dataset.tab; document.querySelectorAll('.tabs button').forEach(x=>x.setAttribute('aria-selected', x===b));
-  $('#videos').classList.toggle('hidden', tab!=='videos'); $('#canales').classList.toggle('hidden', tab!=='canales');
+  $('#videos').classList.toggle('hidden', tab!=='videos'); $('#canales').classList.toggle('hidden', tab!=='canales'); $('#producciones').classList.toggle('hidden', tab!=='producciones');
+  if(tab==='producciones') renderProducciones();
 });
 cargar();
 </script>
