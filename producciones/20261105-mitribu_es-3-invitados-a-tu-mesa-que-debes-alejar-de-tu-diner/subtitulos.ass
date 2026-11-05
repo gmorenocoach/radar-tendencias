@@ -1,0 +1,55 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H0017A0D4,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.07,Sub,,0,0,0,,{\k23}HAY {\k30}TRES {\k53}INVITADOS
+Dialogue: 0,0:00:01.07,0:00:01.64,Sub,,0,0,0,,{\k10}EN {\k15}TU {\k31}MESA
+Dialogue: 0,0:00:01.64,0:00:03.32,Sub,,0,0,0,,{\k49}FRENANDO {\k14}TU {\k106}DINERO.
+Dialogue: 0,0:00:03.32,0:00:04.57,Sub,,0,0,0,,{\k27}HOY {\k14}LOS {\k85}SACAMOS.
+Dialogue: 0,0:00:04.57,0:00:05.14,Sub,,0,0,0,,{\k24}NO {\k26}HABLO {\k7}DE
+Dialogue: 0,0:00:05.14,0:00:06.20,Sub,,0,0,0,,{\k26}ODIAR {\k7}A {\k73}NADIE,
+Dialogue: 0,0:00:06.20,0:00:07.61,Sub,,0,0,0,,{\k28}HABLO {\k11}DE {\k102}CONDUCTAS.
+Dialogue: 0,0:00:07.61,0:00:08.13,Sub,,0,0,0,,{\k18}LO {\k14}QUE {\k20}VES
+Dialogue: 0,0:00:08.13,0:00:09.38,Sub,,0,0,0,,{\k60}SEGUIDO, {\k17}LO {\k48}TERMINAS
+Dialogue: 0,0:00:09.38,0:00:11.52,Sub,,0,0,0,,{\k133}COPIANDO. {\k60}PRIMERO: {\k20}EL
+Dialogue: 0,0:00:11.52,0:00:13.71,Sub,,0,0,0,,{\k35}ETERNO {\k120}MAÑANA. {\k65}DICE:
+Dialogue: 0,0:00:13.71,0:00:15.39,Sub,,0,0,0,,{\k37}CUANDO {\k25}GANE {\k106}MÁS,
+Dialogue: 0,0:00:15.39,0:00:17.19,Sub,,0,0,0,,{\k120}AHORRO. {\k34}ESE {\k27}DÍA
+Dialogue: 0,0:00:17.19,0:00:18.59,Sub,,0,0,0,,{\k12}NO {\k27}LLEGA {\k101}SOLO.
+Dialogue: 0,0:00:18.59,0:00:19.52,Sub,,0,0,0,,{\k23}EL {\k29}HÁBITO {\k41}EMPIEZA
+Dialogue: 0,0:00:19.52,0:00:21.79,Sub,,0,0,0,,{\k17}CON {\k88}POQUITO, {\k122}HOY.
+Dialogue: 0,0:00:21.79,0:00:24.53,Sub,,0,0,0,,{\k138}SEGUNDO: {\k19}EL {\k117}APARENTOSO.
+Dialogue: 0,0:00:24.53,0:00:25.31,Sub,,0,0,0,,{\k44}COMPRA {\k21}PARA {\k13}QUE
+Dialogue: 0,0:00:25.31,0:00:26.10,Sub,,0,0,0,,{\k13}LO {\k50}VEAN, {\k16}NO
+Dialogue: 0,0:00:26.10,0:00:26.56,Sub,,0,0,0,,{\k22}PARA {\k13}QUE {\k12}LE
+Dialogue: 0,0:00:26.56,0:00:27.96,Sub,,0,0,0,,{\k82}SIRVA. {\k22}SU {\k35}CUENTA
+Dialogue: 0,0:00:27.96,0:00:29.00,Sub,,0,0,0,,{\k65}FLAQUEA, {\k26}PERO {\k14}SU
+Dialogue: 0,0:00:29.00,0:00:31.18,Sub,,0,0,0,,{\k28}FOTO {\k98}BRILLA. {\k93}TERCERO,
+Dialogue: 0,0:00:31.18,0:00:32.66,Sub,,0,0,0,,{\k22}EL {\k22}MÁS {\k103}CALLADO:
+Dialogue: 0,0:00:32.66,0:00:33.48,Sub,,0,0,0,,{\k20}EL {\k45}PROFETA {\k18}DEL
+Dialogue: 0,0:00:33.48,0:00:35.06,Sub,,0,0,0,,{\k110}NO. {\k36}VIVE {\k12}EN
+Dialogue: 0,0:00:35.06,0:00:35.69,Sub,,0,0,0,,{\k15}TU {\k41}CABEZA {\k7}Y
+Dialogue: 0,0:00:35.69,0:00:37.40,Sub,,0,0,0,,{\k109}SUSURRA: {\k21}EL {\k41}DINERO
+Dialogue: 0,0:00:37.40,0:00:37.83,Sub,,0,0,0,,{\k9}NO {\k12}ES {\k22}PARA
+Dialogue: 0,0:00:37.83,0:00:39.28,Sub,,0,0,0,,{\k31}GENTE {\k24}COMO {\k89}TÚ.
+Dialogue: 0,0:00:39.28,0:00:39.86,Sub,,0,0,0,,{\k24}A {\k22}ESE {\k12}NO
+Dialogue: 0,0:00:39.86,0:00:40.45,Sub,,0,0,0,,{\k14}LO {\k34}CAMBIAS {\k12}DE
+Dialogue: 0,0:00:40.45,0:00:41.65,Sub,,0,0,0,,{\k84}MESA. {\k24}PERO {\k12}LO
+Dialogue: 0,0:00:41.65,0:00:42.59,Sub,,0,0,0,,{\k63}CONTRADICES {\k18}CON {\k13}UNA
+Dialogue: 0,0:00:42.59,0:00:44.13,Sub,,0,0,0,,{\k33}ACCIÓN {\k106}PEQUEÑA. {\k16}TU
+Dialogue: 0,0:00:44.13,0:00:45.09,Sub,,0,0,0,,{\k38}ENTORNO {\k45}INFLUYE {\k13}EN
+Dialogue: 0,0:00:45.09,0:00:45.85,Sub,,0,0,0,,{\k15}TU {\k34}NIVEL {\k27}MÁS
+Dialogue: 0,0:00:45.85,0:00:46.22,Sub,,0,0,0,,{\k12}DE {\k13}LO {\k13}QUE
+Dialogue: 0,0:00:46.22,0:00:48.89,Sub,,0,0,0,,{\k113}CREES. {\k41}CAMBIA {\k114}INVITADOS,
+Dialogue: 0,0:00:48.89,0:00:50.79,Sub,,0,0,0,,{\k35}CAMBIA {\k135}CONVERSACIÓN. {\k21}SI
+Dialogue: 0,0:00:50.79,0:00:51.55,Sub,,0,0,0,,{\k19}TUS {\k48}FINANZAS {\k9}TE
+Dialogue: 0,0:00:51.55,0:00:52.79,Sub,,0,0,0,,{\k65}AGOBIAN, {\k51}CONSULTA {\k8}A
+Dialogue: 0,0:00:52.79,0:00:53.82,Sub,,0,0,0,,{\k9}UN {\k94}PROFESIONAL.

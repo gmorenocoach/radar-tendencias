@@ -1,6 +1,55 @@
 {
  "producciones": [
   {
+   "id": "20261105-mitribu_es-3-invitados-a-tu-mesa-que-debes-alejar-de-tu-diner",
+   "perfil": "mitribu_es",
+   "canal": "Mi Tribu · Dinero",
+   "fecha": "2026-11-05T12:20:48",
+   "titulo": "3 invitados a tu mesa que debes alejar de tu dinero",
+   "titulos_alternativos": [
+    "3 hábitos sentados en tu mesa que frenan tu dinero",
+    "Saca a estos 3 invitados de tu mesa si quieres prosperar"
+   ],
+   "descripcion": "Tres influencias que frenan tu mentalidad financiera y tus hábitos con el dinero: el Eterno Mañana, el Aparentoso y el Profeta del No. Germancho te lo cuenta en menos de un minuto, con café y sin sermones. Si tus finanzas te agobian, apóyate en un profesional. Haz el reto de hoy y cuéntame en comentarios cuál se sienta más cerca de ti.\n\n#mentalidadfinanciera #habitosfinancieros #dinero #ahorro #prosperidad #germancho #cafeconproposito #shorts",
+   "hashtags": [
+    "#mentalidadfinanciera",
+    "#habitosfinancieros",
+    "#dinero",
+    "#ahorro",
+    "#prosperidad",
+    "#germancho",
+    "#cafeconproposito",
+    "#shorts"
+   ],
+   "reto_de_hoy": "",
+   "duracion_s": 53.8,
+   "tamano_mb": 10.7,
+   "fuente": {
+    "video_id": "RTWD9aEu3DQ",
+    "url": "https://www.youtube.com/watch?v=RTWD9aEu3DQ",
+    "titulo": "3 vecinos que debe alejar de su vida 🧏‍♂️❌️ #mentalidad #habitos #pobreza",
+    "descripcion": "3 vecinos que debe alejar de su vida 🧏‍♂️❌️ #mentalidad #habitos #pobreza",
+    "canal": "Ronald de la Hoz | Mentor de Ingresos On line",
+    "vistas": 77618,
+    "likes": 1020,
+    "comentarios": 27,
+    "publicado": "2026-11-02",
+    "miniatura": "https://i.ytimg.com/vi/RTWD9aEu3DQ/maxresdefault.jpg",
+    "duracion": "PT48S",
+    "tags": [],
+    "transcripcion_chars": 0
+   },
+   "estado": "pendiente_aprobacion",
+   "archivos": {
+    "video": "20261105-mitribu_es-3-invitados-a-tu-mesa-que-debes-alejar-de-tu-diner/short.mp4",
+    "miniatura": "20261105-mitribu_es-3-invitados-a-tu-mesa-que-debes-alejar-de-tu-diner/miniatura.jpg",
+    "miniatura_16x9": "20261105-mitribu_es-3-invitados-a-tu-mesa-que-debes-alejar-de-tu-diner/miniatura_16x9.jpg",
+    "guion": "20261105-mitribu_es-3-invitados-a-tu-mesa-que-debes-alejar-de-tu-diner/guion.json",
+    "ficha": "20261105-mitribu_es-3-invitados-a-tu-mesa-que-debes-alejar-de-tu-diner/ficha.json"
+   },
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
+  {
    "id": "20261105-mitribu_es-no-es-que-ganes-poco-sigues-sin-avanzar-por-esto",
    "perfil": "mitribu_es",
    "canal": "Mi Tribu · Dinero",
@@ -132,5 +181,5 @@
    "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
   }
  ],
- "actualizado": "2026-11-05T07:16:18"
+ "actualizado": "2026-11-05T12:20:48"
 }
