@@ -24,28 +24,39 @@ def radar_top(perfil_id, n=40):
 
 
 def disenar(perfil, plan, n_series, n_shorts_radar, top):
+    """Diseña en llamadas pequeñas: una por serie (6 capítulos + 3 shorts c/u), otra para shorts del radar, en vivos y comunidad."""
     canal = canal_de(perfil["id"])
-    user = f"""Canal: {perfil['canal']} · Eje: {EJES[canal]} · Objetivo: {plan['objetivo']}
-Videos virales recientes del nicho detectados por el radar (canales de 1k–100k subs), para inspirar temas y fórmulas (NO copiar títulos):
-{json.dumps(top[:30], ensure_ascii=False)}
+    contexto = f"""Canal: {perfil['canal']} · Eje: {EJES[canal]} · Objetivo: {plan['objetivo']}
+Videos virales recientes del nicho (canales de 1k–100k subs), para inspirar temas y fórmulas, NO copiar títulos:
+{json.dumps(top[:25], ensure_ascii=False)}
+Títulos con fórmula probada (número, contradicción, pregunta), sin hashtags, ≤ 70 caracteres. Dentro de los textos no uses comillas dobles."""
+    series, usados = [], []
+    for i in range(n_series):
+        user = contexto + f"""
 
-Diseña {n_series} SERIES de videos largos (6 capítulos cada una) para acumular horas de visualización: cada serie tiene un tema madre con tensión
-narrativa (el espectador quiere ver el siguiente), y cada capítulo es un video largo de {plan['minutos_largo']} min con título propio que funciona solo.
-Para cada capítulo propone 3 SHORTS derivados (gancho corto que lleva al largo). Además propone {n_shorts_radar} Shorts sueltos basados en los temas
-virales del radar (indica el video_id de referencia de la lista cuando aplique). Incluye también {len(plan.get('dias_vivos', []))} temas de EN VIVO semanales
-tipo (formato: pregunta abierta + reto colectivo) y 3 publicaciones de comunidad tipo (encuesta "Personaliza tu Germancho", reto de la semana).
-Títulos con fórmula probada (número, contradicción, pregunta), sin hashtags, ≤ 70 caracteres. Responde SOLO JSON:
-{{"series": [{{"nombre": "..", "tema_madre": "..", "promesa": "..", "capitulos": [{{"n": 1, "titulo": "..", "subtema": "..", "referencia_video_id": "o vacío",
-   "shorts": [{{"titulo": "..", "gancho": ".."}}, {{...}}, {{...}}]}}, "... 6 capítulos"]}}],
- "shorts_radar": [{{"titulo": "..", "gancho": "..", "referencia_video_id": ".."}}],
- "vivos": [{{"titulo": "..", "pregunta_abierta": "..", "reto_colectivo": ".."}}],
+Diseña la SERIE {i + 1} de {n_series} de videos largos de {plan['minutos_largo']} min (6 capítulos) para acumular horas de visualización: tema madre con tensión
+narrativa (el espectador quiere ver el siguiente); cada capítulo es un video que funciona solo. Debe ser distinta de estas series ya diseñadas: {usados or 'ninguna'}.
+Para cada capítulo, 3 SHORTS derivados (gancho corto que lleva al largo). Responde SOLO JSON:
+{{"nombre": "..", "tema_madre": "..", "promesa": "..", "capitulos": [{{"n": 1, "titulo": "..", "subtema": "..", "referencia_video_id": "video_id de la lista o vacío",
+  "shorts": [{{"titulo": "..", "gancho": ".."}}, {{"titulo": "..", "gancho": ".."}}, {{"titulo": "..", "gancho": ".."}}]}}, "... hasta n=6"]}}"""
+        mock = {"nombre": f"Serie {i + 1}", "tema_madre": "x", "promesa": "y", "capitulos": [{"n": k, "titulo": f"Capítulo {k} serie {i + 1}", "subtema": "", "referencia_video_id": "",
+                "shorts": [{"titulo": f"Short {i + 1}.{k}.{j}", "gancho": ".."} for j in range(1, 4)]} for k in range(1, 7)]}
+        sr = claude(ESTILO_GERMANCHO, user, mock=mock, max_tokens=5000)
+        sr["capitulos"] = sr.get("capitulos", [])[:6]
+        for c in sr["capitulos"]:
+            c["shorts"] = (c.get("shorts") or [])[:3]
+        series.append(sr); usados.append(sr.get("nombre", f"serie {i + 1}"))
+    user = contexto + f"""
+
+Propón: (a) {n_shorts_radar} SHORTS sueltos basados en los temas virales de la lista (indica referencia_video_id de la lista); (b) {max(len(plan.get('dias_vivos', [])), 1) * 2} temas de EN VIVO
+(formato: pregunta abierta + reto colectivo, 60–75 min, pensados para que la gente se quede y participe); (c) 6 publicaciones de comunidad (encuesta "Personaliza tu Germancho",
+reto de la semana, pregunta). Responde SOLO JSON:
+{{"shorts_radar": [{{"titulo": "..", "gancho": "..", "referencia_video_id": ".."}}], "vivos": [{{"titulo": "..", "pregunta_abierta": "..", "reto_colectivo": ".."}}],
  "comunidad": [{{"tipo": "encuesta|reto|pregunta", "texto": ".."}}]}}"""
-    mock = {"series": [{"nombre": "Soltar sin romperte", "tema_madre": "desapego", "promesa": "aprender a soltar", "capitulos": [
-        {"n": i, "titulo": f"Capítulo {i} de prueba", "subtema": "x", "referencia_video_id": "", "shorts": [{"titulo": f"Short {i}.{j}", "gancho": ".."} for j in range(1, 4)]} for i in range(1, 7)]}] * n_series,
-            "shorts_radar": [{"titulo": f"Short radar {i}", "gancho": "..", "referencia_video_id": (top[i]["video_id"] if i < len(top) else "")} for i in range(n_shorts_radar)],
-            "vivos": [{"titulo": "En vivo de prueba", "pregunta_abierta": "..", "reto_colectivo": ".."}] * 3,
-            "comunidad": [{"tipo": "encuesta", "texto": "¿Con qué cara amaneció tu Germancho?"}] * 3}
-    return claude(ESTILO_GERMANCHO, user, mock=mock, max_tokens=8000)
+    mock = {"shorts_radar": [{"titulo": f"Short radar {i}", "gancho": "..", "referencia_video_id": (top[i]["video_id"] if i < len(top) else "")} for i in range(n_shorts_radar)],
+            "vivos": [{"titulo": "En vivo de prueba", "pregunta_abierta": "..", "reto_colectivo": ".."}] * 3, "comunidad": [{"tipo": "encuesta", "texto": "¿Con qué cara amaneció tu Germancho?"}] * 3}
+    extra = claude(ESTILO_GERMANCHO, user, mock=mock, max_tokens=5000)
+    return {"series": series, "shorts_radar": extra.get("shorts_radar", []), "vivos": extra.get("vivos", []), "comunidad": extra.get("comunidad", [])}
 
 
 def calendario(perfil, plan, diseno, desde, hasta):
