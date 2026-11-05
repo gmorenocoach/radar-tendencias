@@ -1,0 +1,1211 @@
+{
+ "perfil": "equilibrate_es",
+ "canal": "Equilíbrate · Amor",
+ "plan": {
+  "modo": "sprint",
+  "objetivo": "Solicitar YPP antes del 31 de diciembre de 2026 (1.000 subs + 4.000 h) para entrar con las reglas actuales",
+  "desde": "2026-11-06",
+  "hasta": "2026-12-31",
+  "largos_semana": 3,
+  "shorts_semana": 7,
+  "vivos_semana": 3,
+  "comunidad_semana": 3,
+  "dias_largos": [
+   0,
+   2,
+   4
+  ],
+  "hora_largos": "18:00",
+  "dias_shorts": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "hora_shorts": "12:00",
+  "dias_vivos": [
+   1,
+   3,
+   6
+  ],
+  "hora_vivos": "19:00",
+  "duracion_vivo_min": 75,
+  "minutos_largo": 15,
+  "series_activas": 2,
+  "subs_actuales": 365,
+  "horas_actuales": 0
+ },
+ "desde": "2026-11-06",
+ "hasta": "2026-12-31",
+ "generado": "2026-11-05T21:28:48",
+ "series": [
+  {
+   "nombre": "Amor Sin Perderte",
+   "tema_madre": "Cada vez que amas, algo de ti desaparece. Seis capítulos para descubrir qué cediste, por qué y cómo volver a ti sin dejar de amar.",
+   "promesa": "Al final sabrás amar con la taza llena: sin vaciarte para que otro se sirva.",
+   "capitulos": [
+    {
+     "n": 1,
+     "titulo": "Por qué te pierdes cada vez que amas (no es tu culpa)",
+     "subtema": "El patrón de desaparecer en el vínculo y de dónde se aprende. Cierra con una pregunta abierta: ¿qué fue lo primero que cediste? Reto de hoy: escribe en tu cuaderno una cosa que dejaste de hacer desde que estás en pareja.",
+     "referencia_video_id": "xt6CGKDkLpM",
+     "shorts": [
+      {
+       "titulo": "Amas tanto que ya no sabes qué te gusta",
+       "gancho": "¿Cuándo fue la última vez que elegiste algo sin pensar en el otro? Piénsalo mientras se enfría tu café."
+      },
+      {
+       "titulo": "Ceder no es amar: 3 diferencias",
+       "gancho": "Amar suma. Ceder en silencio resta. Te muestro cómo notar cuál estás haciendo."
+      },
+      {
+       "titulo": "La primera cosa que dejas de ser",
+       "gancho": "Casi nadie se pierde de golpe. Se pierde en cucharaditas. ¿Cuál fue la tuya?"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "titulo": "Tu paz no es negociable: el precio de decir siempre que sí",
+     "subtema": "El costo oculto de evitar el conflicto por mantener el vínculo. Gancho al siguiente: ¿y si agradar también es una forma de abandonarte? Reto de hoy: di un 'no, gracias' pequeño y amable a algo que no quieres.",
+     "referencia_video_id": "-PX8yO82xys",
+     "shorts": [
+      {
+       "titulo": "Un 'sí' que te cuesta la paz no es gratis",
+       "gancho": "Lo pagas después, con intereses. Y casi siempre a solas."
+      },
+      {
+       "titulo": "Cómo decir no sin pelear (frase de 8 palabras)",
+       "gancho": "No necesitas un discurso. Necesitas una frase corta y tranquila. Te la doy."
+      },
+      {
+       "titulo": "Paz o relación: la falsa elección",
+       "gancho": "Si para estar bien con alguien tienes que estar mal contigo, algo hay que revisar."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "titulo": "5 señales de que te estás abandonando por agradar",
+     "subtema": "Lista práctica de señales cotidianas: pedir perdón de más, esconder gustos, cambiar opiniones. Gancho: la señal 5 conecta con el capítulo siguiente. Reto de hoy: marca cuál de las 5 te suena más y cuéntalo en comentarios.",
+     "referencia_video_id": "",
+     "shorts": [
+      {
+       "titulo": "Pides perdón por todo: ¿qué estás cuidando?",
+       "gancho": "Si tu primera palabra siempre es 'perdón', quizá hay miedo debajo. Hablemos de eso."
+      },
+      {
+       "titulo": "Tu opinión cambia según quién te escucha",
+       "gancho": "Cuando tu respuesta depende de la cara del otro, tu voz se queda en silencio."
+      },
+      {
+       "titulo": "La señal 5 que casi nadie reconoce",
+       "gancho": "Es la más sutil y la más común. Está en tu manera de decir 'a mí me da igual'."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "titulo": "Amor propio no es egoísmo: la contradicción que te frena",
+     "subtema": "Desmontar la creencia de que cuidarte te hace menos generoso. Gancho: ¿de dónde sale esa culpa? Reto de hoy: regálate 5 minutos sin pantalla y sin pedir permiso.",
+     "referencia_video_id": "cIB92GESyrE",
+     "shorts": [
+      {
+       "titulo": "Elegirte no es dejar de amar",
+       "gancho": "Puedes quererlos a todos y aun así ponerte en la lista. Tú también cuentas."
+      },
+      {
+       "titulo": "¿Egoísta tú? Haz esta prueba de 1 minuto",
+       "gancho": "Dos preguntas honestas para saber si cuidarte te hace daño a alguien… o solo a la culpa."
+      },
+      {
+       "titulo": "La culpa que te enseñaron a sentir",
+       "gancho": "Nadie nace creyendo que descansar es pecado. Alguien te lo enseñó. ¿Quién?"
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "titulo": "¿Qué parte de ti escondes para que te quieran?",
+     "subtema": "Exploración de las partes escondidas (humor, enojo, ambición, necesidad) y el miedo al rechazo. Gancho: ¿qué pasa cuando las muestras? Reto de hoy: muestra hoy una parte pequeña de ti que sueles callar.",
+     "referencia_video_id": "27wrcQJKrrY",
+     "shorts": [
+      {
+       "titulo": "La parte de ti que guardas en un cajón",
+       "gancho": "Todos tenemos una. La tuya probablemente la escondiste para encajar."
+      },
+      {
+       "titulo": "Si te quieren solo cuando finges, ¿a quién quieren?",
+       "gancho": "Pregunta incómoda, pero útil. La conversamos con café y sin juicio."
+      },
+      {
+       "titulo": "Cuando te amas, cambia lo que toleras",
+       "gancho": "El amor propio no se nota en las frases bonitas, sino en lo que ya no aceptas."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "titulo": "Amar con la taza llena: cómo se ve una relación sin perderte",
+     "subtema": "Cierre con ejemplos de vínculos donde ambos conservan su identidad y acuerdos concretos para lograrlo. Reto de hoy: escribe tu acuerdo innegociable de una frase y compártelo. Nota: si sientes que el vínculo te lastima, considera hablarlo con un profesional.",
+     "referencia_video_id": "yiBB-3_Fmx8",
+     "shorts": [
+      {
+       "titulo": "Una relación sana deja espacio para ti",
+       "gancho": "Si tu pareja te quiere, tu espacio no le asusta. Te cuento cómo se ve eso en la vida real."
+      },
+      {
+       "titulo": "3 acuerdos para amar sin desaparecer",
+       "gancho": "Son simples, caben en una servilleta y cambian la dinámica."
+      },
+      {
+       "titulo": "Taza llena, amor que alcanza",
+       "gancho": "Nadie sirve café de una taza vacía. Esto aplica también al amor."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Café de a Dos",
+   "tema_madre": "Se quieren, pero ya no se escuchan. Seis capítulos para entender qué pasa realmente en la conversación de pareja y cómo reabrirla antes de decidir nada.",
+   "promesa": "Entenderás por qué discuten, qué necesitan de verdad y qué hacer cuando uno se aleja.",
+   "capitulos": [
+    {
+     "n": 1,
+     "titulo": "Por qué discuten siempre por lo mismo (y no es lo que crees)",
+     "subtema": "La discusión repetida como mensaje de una necesidad no dicha. Gancho: ¿qué necesidad es la tuya? Reto de hoy: antes de la próxima discusión, escribe en una línea qué necesitas de verdad.",
+     "referencia_video_id": "C2xJX-QIY28",
+     "shorts": [
+      {
+       "titulo": "No pelean por los platos",
+       "gancho": "Pelean por sentirse vistos. Los platos son la excusa."
+      },
+      {
+       "titulo": "El conflicto que se te hace familiar",
+       "gancho": "Si la discusión te suena conocida, quizá la escena no es nueva. Tampoco el guion."
+      },
+      {
+       "titulo": "Una pregunta que baja la tensión en 10 segundos",
+       "gancho": "'¿Qué necesitas ahora de mí?' Suena simple. Pruébala y cuéntame."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "titulo": "7 necesidades emocionales que nadie dice en voz alta",
+     "subtema": "Siete necesidades concretas (ser escuchado, reconocimiento, calma, juego, autonomía, cercanía, apoyo) y cómo pedirlas. Reto de hoy: pide una de ellas en una frase clara.",
+     "referencia_video_id": "omVKK_ijFcA",
+     "shorts": [
+      {
+       "titulo": "Necesitas ser escuchado, no arreglado",
+       "gancho": "A veces solo quieres que alguien se siente a oír. Sin soluciones."
+      },
+      {
+       "titulo": "La necesidad que más se calla en pareja",
+       "gancho": "Es la que parece pequeña y pesa muchísimo. Te la nombro."
+      },
+      {
+       "titulo": "Pedir sin exigir: guion de 3 frases",
+       "gancho": "Así se pide cariño sin sonar a reclamo."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "titulo": "Cuando se aleja: qué hacer sin perseguir ni callarte",
+     "subtema": "Distancia emocional: no perseguir, no fingir; abrir una conversación honesta. Gancho: ¿y si la distancia también es tuya? Reto de hoy: envía un mensaje breve y sincero sin exigir respuesta.",
+     "referencia_video_id": "QPc13lHA1CM",
+     "shorts": [
+      {
+       "titulo": "Perseguir o callar: hay una tercera opción",
+       "gancho": "No es correr detrás ni hacerte el fuerte. Es decir lo que sientes con calma."
+      },
+      {
+       "titulo": "Cómo abrir la charla difícil sin que se ponga a la defensiva",
+       "gancho": "Cambia una palabra y cambia la reacción. Te digo cuál."
+      },
+      {
+       "titulo": "La distancia también puede ser tuya",
+       "gancho": "A veces miras hacia el otro lado y no te das cuenta de que tú también te alejaste."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "titulo": "5 hábitos de 5 minutos que cambian una relación",
+     "subtema": "Microrituales: café sin celular, agradecimiento diario, pregunta del día, abrazo largo, revisión semanal. Reto de hoy: elige uno y hazlo esta noche.",
+     "referencia_video_id": "bYnUK mH4KxA",
+     "shorts": [
+      {
+       "titulo": "Café sin celular: el ritual de 5 minutos",
+       "gancho": "Dos tazas, cero pantallas. Parece poco y hace mucho."
+      },
+      {
+       "titulo": "El agradecimiento diario que sí funciona",
+       "gancho": "No es decir 'gracias' por costumbre. Es nombrar algo concreto."
+      },
+      {
+       "titulo": "La pregunta de la noche que acerca",
+       "gancho": "Una pregunta, una respuesta, cero juicio. Hoy mismo puedes probarla."
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "titulo": "5 frases pequeñas que avisan que algo está cambiando",
+     "subtema": "Frases cotidianas ('como quieras', 'ya da igual') como señales para conversar, no para sentenciar. Gancho: ¿qué frase dices tú? Reto de hoy: detecta una de esas frases en tu día y responde con curiosidad.",
+     "referencia_video_id": "gQuaHhFSyEI",
+     "shorts": [
+      {
+       "titulo": "'Como tú quieras': lo que realmente quiere decir",
+       "gancho": "A veces significa confianza. Otras, cansancio. Aprende a distinguirlas."
+      },
+      {
+       "titulo": "'Ya no importa': la frase que apaga conversaciones",
+       "gancho": "Cuando algo ya 'no importa', suele importar muchísimo."
+      },
+      {
+       "titulo": "Una frase no es una sentencia",
+       "gancho": "No leas el final de la historia en una sola frase. Pregunta antes."
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "titulo": "¿Reconstruir o cerrar? Cómo decidir con cabeza y corazón",
+     "subtema": "Marco de preguntas para decidir con claridad, no desde el miedo ni la nostalgia. Reto de hoy: responde por escrito una de las 3 preguntas clave. Nota: para decisiones difíciles, apoyarse en un profesional de pareja puede ayudar.",
+     "referencia_video_id": "",
+     "shorts": [
+      {
+       "titulo": "3 preguntas antes de decidir si sigues",
+       "gancho": "Si no puedes responderlas con honestidad, todavía no es momento de decidir."
+      },
+      {
+       "titulo": "¿Miedo a estar solo o ganas de estar con esa persona?",
+       "gancho": "Se parecen, pero no son lo mismo. Aprende a distinguirlo."
+      },
+      {
+       "titulo": "Quedarse y cerrar también pueden ser actos de amor",
+       "gancho": "Lo importante no es qué eliges, sino desde dónde lo eliges."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Soltar Sin Romperte",
+   "tema_madre": "Sabes que no te conviene y aun así sigues. Seis capítulos para entender el apego, soltar con dignidad y volver a abrir la puerta sin armadura.",
+   "promesa": "Entenderás qué te ata, cómo soltar a tu ritmo y cómo amar de nuevo sin miedo a repetirte.",
+   "capitulos": [
+    {
+     "n": 1,
+     "titulo": "Por qué sigues amando a quien no te conviene",
+     "subtema": "Apego, esperanza y la historia que te cuentas. Gancho: ¿amas a la persona o a lo que imaginas que podría ser? Reto de hoy: anota 3 hechos (no promesas) de esa relación.",
+     "referencia_video_id": "PidfYb2KciY",
+     "shorts": [
+      {
+       "titulo": "Amas lo que podría ser, no lo que es",
+       "gancho": "La esperanza es linda, pero a veces vive de promesas. Mira los hechos."
+      },
+      {
+       "titulo": "3 hechos vs. 3 promesas: ejercicio rápido",
+       "gancho": "Toma papel y lápiz. En dos minutos sabrás desde dónde sigues."
+      },
+      {
+       "titulo": "Querer no siempre es lo mismo que convenir",
+       "gancho": "Puedes querer mucho a alguien y aun así no elegirlo. Eso no te hace frío."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "titulo": "Cuando la dependencia se disfraza de amor",
+     "subtema": "Diferencias entre amar y necesitar para sentirse completo. Gancho: ¿cómo se ve cuando el amor se vuelve miedo? Reto de hoy: completa la frase 'Sin ti yo…' y mira qué sale.",
+     "referencia_video_id": "-ai9L-jXtx0",
+     "shorts": [
+      {
+       "titulo": "Amor o miedo a quedarte solo: 4 diferencias",
+       "gancho": "Se parecen mucho por fuera. Por dentro, no tanto."
+      },
+      {
+       "titulo": "'No puedo vivir sin ti' ¿romántico o alarma?",
+       "gancho": "Depende de lo que haya detrás de la frase. Vamos a mirarlo."
+      },
+      {
+       "titulo": "Completa la frase: 'Sin ti yo…'",
+       "gancho": "Tu respuesta dice más de lo que crees. Cuéntamela en comentarios."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "titulo": "¿El amor que atraes es un espejo? La verdad incómoda",
+     "subtema": "Patrones repetidos y heridas que buscan resolverse. Sin culpar a la víctima: se trata de comprender, no de juzgar. Reto de hoy: nombra un patrón que se repite en tus vínculos.",
+     "referencia_video_id": "VaEtQ9UIGqU",
+     "shorts": [
+      {
+       "titulo": "¿Por qué siempre eliges al mismo tipo de persona?",
+       "gancho": "Quizá no es mala suerte. Quizá es un patrón que puedes mirar."
+      },
+      {
+       "titulo": "Una herida no es una condena",
+       "gancho": "Lo que repites se puede reescribir. Despacio, pero se puede."
+      },
+      {
+       "titulo": "El espejo que no te gusta mirar",
+       "gancho": "No es para culparte. Es para que dejes de repetirlo."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "titulo": "5 preguntas antes de escribirle ese mensaje",
+     "subtema": "Un filtro de cinco preguntas antes de buscar a alguien tras una ruptura. Gancho: la pregunta 5 es la más difícil de responder. Reto de hoy: guarda el mensaje en borradores y respira 5 minutos.",
+     "referencia_video_id": "",
+     "shorts": [
+      {
+       "titulo": "Antes de escribirle: la pregunta que cambia todo",
+       "gancho": "¿Qué espero que responda? Si la respuesta es 'que cambie', frena."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "vivos": [],
+ "comunidad": [],
+ "piezas": [
+  {
+   "id": "equilibrate_es-20261106-L",
+   "fecha": "2026-11-06",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 1,
+   "titulo": "Por qué te pierdes cada vez que amas (no es tu culpa)",
+   "subtema": "El patrón de desaparecer en el vínculo y de dónde se aprende. Cierra con una pregunta abierta: ¿qué fue lo primero que cediste? Reto de hoy: escribe en tu cuaderno una cosa que dejaste de hacer desde que estás en pareja.",
+   "referencia_video_id": "xt6CGKDkLpM",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261106-S",
+   "fecha": "2026-11-06",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 1,
+   "titulo": "Amas tanto que ya no sabes qué te gusta",
+   "gancho": "¿Cuándo fue la última vez que elegiste algo sin pensar en el otro? Piénsalo mientras se enfría tu café.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261107-S",
+   "fecha": "2026-11-07",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 1,
+   "titulo": "Ceder no es amar: 3 diferencias",
+   "gancho": "Amar suma. Ceder en silencio resta. Te muestro cómo notar cuál estás haciendo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261108-S",
+   "fecha": "2026-11-08",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 1,
+   "titulo": "La primera cosa que dejas de ser",
+   "gancho": "Casi nadie se pierde de golpe. Se pierde en cucharaditas. ¿Cuál fue la tuya?",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261109-L",
+   "fecha": "2026-11-09",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 2,
+   "titulo": "Tu paz no es negociable: el precio de decir siempre que sí",
+   "subtema": "El costo oculto de evitar el conflicto por mantener el vínculo. Gancho al siguiente: ¿y si agradar también es una forma de abandonarte? Reto de hoy: di un 'no, gracias' pequeño y amable a algo que no quieres.",
+   "referencia_video_id": "-PX8yO82xys",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261109-S",
+   "fecha": "2026-11-09",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 2,
+   "titulo": "Un 'sí' que te cuesta la paz no es gratis",
+   "gancho": "Lo pagas después, con intereses. Y casi siempre a solas.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261110-S",
+   "fecha": "2026-11-10",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 2,
+   "titulo": "Cómo decir no sin pelear (frase de 8 palabras)",
+   "gancho": "No necesitas un discurso. Necesitas una frase corta y tranquila. Te la doy.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261111-L",
+   "fecha": "2026-11-11",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 3,
+   "titulo": "5 señales de que te estás abandonando por agradar",
+   "subtema": "Lista práctica de señales cotidianas: pedir perdón de más, esconder gustos, cambiar opiniones. Gancho: la señal 5 conecta con el capítulo siguiente. Reto de hoy: marca cuál de las 5 te suena más y cuéntalo en comentarios.",
+   "referencia_video_id": "",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261111-S",
+   "fecha": "2026-11-11",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 2,
+   "titulo": "Paz o relación: la falsa elección",
+   "gancho": "Si para estar bien con alguien tienes que estar mal contigo, algo hay que revisar.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261112-S",
+   "fecha": "2026-11-12",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 3,
+   "titulo": "Pides perdón por todo: ¿qué estás cuidando?",
+   "gancho": "Si tu primera palabra siempre es 'perdón', quizá hay miedo debajo. Hablemos de eso.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261113-L",
+   "fecha": "2026-11-13",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 4,
+   "titulo": "Amor propio no es egoísmo: la contradicción que te frena",
+   "subtema": "Desmontar la creencia de que cuidarte te hace menos generoso. Gancho: ¿de dónde sale esa culpa? Reto de hoy: regálate 5 minutos sin pantalla y sin pedir permiso.",
+   "referencia_video_id": "cIB92GESyrE",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261113-S",
+   "fecha": "2026-11-13",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 3,
+   "titulo": "Tu opinión cambia según quién te escucha",
+   "gancho": "Cuando tu respuesta depende de la cara del otro, tu voz se queda en silencio.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261114-S",
+   "fecha": "2026-11-14",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 3,
+   "titulo": "La señal 5 que casi nadie reconoce",
+   "gancho": "Es la más sutil y la más común. Está en tu manera de decir 'a mí me da igual'.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261115-S",
+   "fecha": "2026-11-15",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 4,
+   "titulo": "Elegirte no es dejar de amar",
+   "gancho": "Puedes quererlos a todos y aun así ponerte en la lista. Tú también cuentas.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261116-L",
+   "fecha": "2026-11-16",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 5,
+   "titulo": "¿Qué parte de ti escondes para que te quieran?",
+   "subtema": "Exploración de las partes escondidas (humor, enojo, ambición, necesidad) y el miedo al rechazo. Gancho: ¿qué pasa cuando las muestras? Reto de hoy: muestra hoy una parte pequeña de ti que sueles callar.",
+   "referencia_video_id": "27wrcQJKrrY",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261116-S",
+   "fecha": "2026-11-16",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 4,
+   "titulo": "¿Egoísta tú? Haz esta prueba de 1 minuto",
+   "gancho": "Dos preguntas honestas para saber si cuidarte te hace daño a alguien… o solo a la culpa.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261117-S",
+   "fecha": "2026-11-17",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 4,
+   "titulo": "La culpa que te enseñaron a sentir",
+   "gancho": "Nadie nace creyendo que descansar es pecado. Alguien te lo enseñó. ¿Quién?",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261118-L",
+   "fecha": "2026-11-18",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 6,
+   "titulo": "Amar con la taza llena: cómo se ve una relación sin perderte",
+   "subtema": "Cierre con ejemplos de vínculos donde ambos conservan su identidad y acuerdos concretos para lograrlo. Reto de hoy: escribe tu acuerdo innegociable de una frase y compártelo. Nota: si sientes que el vínculo te lastima, considera hablarlo con un profesional.",
+   "referencia_video_id": "yiBB-3_Fmx8",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261118-S",
+   "fecha": "2026-11-18",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 5,
+   "titulo": "La parte de ti que guardas en un cajón",
+   "gancho": "Todos tenemos una. La tuya probablemente la escondiste para encajar.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261119-S",
+   "fecha": "2026-11-19",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 5,
+   "titulo": "Si te quieren solo cuando finges, ¿a quién quieren?",
+   "gancho": "Pregunta incómoda, pero útil. La conversamos con café y sin juicio.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261120-L",
+   "fecha": "2026-11-20",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Café de a Dos",
+   "capitulo": 1,
+   "titulo": "Por qué discuten siempre por lo mismo (y no es lo que crees)",
+   "subtema": "La discusión repetida como mensaje de una necesidad no dicha. Gancho: ¿qué necesidad es la tuya? Reto de hoy: antes de la próxima discusión, escribe en una línea qué necesitas de verdad.",
+   "referencia_video_id": "C2xJX-QIY28",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261120-S",
+   "fecha": "2026-11-20",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 5,
+   "titulo": "Cuando te amas, cambia lo que toleras",
+   "gancho": "El amor propio no se nota en las frases bonitas, sino en lo que ya no aceptas.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261121-S",
+   "fecha": "2026-11-21",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 6,
+   "titulo": "Una relación sana deja espacio para ti",
+   "gancho": "Si tu pareja te quiere, tu espacio no le asusta. Te cuento cómo se ve eso en la vida real.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261122-S",
+   "fecha": "2026-11-22",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 6,
+   "titulo": "3 acuerdos para amar sin desaparecer",
+   "gancho": "Son simples, caben en una servilleta y cambian la dinámica.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261123-L",
+   "fecha": "2026-11-23",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Café de a Dos",
+   "capitulo": 2,
+   "titulo": "7 necesidades emocionales que nadie dice en voz alta",
+   "subtema": "Siete necesidades concretas (ser escuchado, reconocimiento, calma, juego, autonomía, cercanía, apoyo) y cómo pedirlas. Reto de hoy: pide una de ellas en una frase clara.",
+   "referencia_video_id": "omVKK_ijFcA",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261123-S",
+   "fecha": "2026-11-23",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Amor Sin Perderte",
+   "capitulo": 6,
+   "titulo": "Taza llena, amor que alcanza",
+   "gancho": "Nadie sirve café de una taza vacía. Esto aplica también al amor.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261124-S",
+   "fecha": "2026-11-24",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 1,
+   "titulo": "No pelean por los platos",
+   "gancho": "Pelean por sentirse vistos. Los platos son la excusa.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261125-L",
+   "fecha": "2026-11-25",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Café de a Dos",
+   "capitulo": 3,
+   "titulo": "Cuando se aleja: qué hacer sin perseguir ni callarte",
+   "subtema": "Distancia emocional: no perseguir, no fingir; abrir una conversación honesta. Gancho: ¿y si la distancia también es tuya? Reto de hoy: envía un mensaje breve y sincero sin exigir respuesta.",
+   "referencia_video_id": "QPc13lHA1CM",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261125-S",
+   "fecha": "2026-11-25",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 1,
+   "titulo": "El conflicto que se te hace familiar",
+   "gancho": "Si la discusión te suena conocida, quizá la escena no es nueva. Tampoco el guion.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261126-S",
+   "fecha": "2026-11-26",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 1,
+   "titulo": "Una pregunta que baja la tensión en 10 segundos",
+   "gancho": "'¿Qué necesitas ahora de mí?' Suena simple. Pruébala y cuéntame.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261127-L",
+   "fecha": "2026-11-27",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Café de a Dos",
+   "capitulo": 4,
+   "titulo": "5 hábitos de 5 minutos que cambian una relación",
+   "subtema": "Microrituales: café sin celular, agradecimiento diario, pregunta del día, abrazo largo, revisión semanal. Reto de hoy: elige uno y hazlo esta noche.",
+   "referencia_video_id": "bYnUK mH4KxA",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261127-S",
+   "fecha": "2026-11-27",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 2,
+   "titulo": "Necesitas ser escuchado, no arreglado",
+   "gancho": "A veces solo quieres que alguien se siente a oír. Sin soluciones.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261128-S",
+   "fecha": "2026-11-28",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 2,
+   "titulo": "La necesidad que más se calla en pareja",
+   "gancho": "Es la que parece pequeña y pesa muchísimo. Te la nombro.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261129-S",
+   "fecha": "2026-11-29",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 2,
+   "titulo": "Pedir sin exigir: guion de 3 frases",
+   "gancho": "Así se pide cariño sin sonar a reclamo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261130-L",
+   "fecha": "2026-11-30",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Café de a Dos",
+   "capitulo": 5,
+   "titulo": "5 frases pequeñas que avisan que algo está cambiando",
+   "subtema": "Frases cotidianas ('como quieras', 'ya da igual') como señales para conversar, no para sentenciar. Gancho: ¿qué frase dices tú? Reto de hoy: detecta una de esas frases en tu día y responde con curiosidad.",
+   "referencia_video_id": "gQuaHhFSyEI",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261130-S",
+   "fecha": "2026-11-30",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 3,
+   "titulo": "Perseguir o callar: hay una tercera opción",
+   "gancho": "No es correr detrás ni hacerte el fuerte. Es decir lo que sientes con calma.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261201-S",
+   "fecha": "2026-12-01",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 3,
+   "titulo": "Cómo abrir la charla difícil sin que se ponga a la defensiva",
+   "gancho": "Cambia una palabra y cambia la reacción. Te digo cuál.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261202-L",
+   "fecha": "2026-12-02",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Café de a Dos",
+   "capitulo": 6,
+   "titulo": "¿Reconstruir o cerrar? Cómo decidir con cabeza y corazón",
+   "subtema": "Marco de preguntas para decidir con claridad, no desde el miedo ni la nostalgia. Reto de hoy: responde por escrito una de las 3 preguntas clave. Nota: para decisiones difíciles, apoyarse en un profesional de pareja puede ayudar.",
+   "referencia_video_id": "",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261202-S",
+   "fecha": "2026-12-02",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 3,
+   "titulo": "La distancia también puede ser tuya",
+   "gancho": "A veces miras hacia el otro lado y no te das cuenta de que tú también te alejaste.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261203-S",
+   "fecha": "2026-12-03",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 4,
+   "titulo": "Café sin celular: el ritual de 5 minutos",
+   "gancho": "Dos tazas, cero pantallas. Parece poco y hace mucho.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261204-L",
+   "fecha": "2026-12-04",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 1,
+   "titulo": "Por qué sigues amando a quien no te conviene",
+   "subtema": "Apego, esperanza y la historia que te cuentas. Gancho: ¿amas a la persona o a lo que imaginas que podría ser? Reto de hoy: anota 3 hechos (no promesas) de esa relación.",
+   "referencia_video_id": "PidfYb2KciY",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261204-S",
+   "fecha": "2026-12-04",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 4,
+   "titulo": "El agradecimiento diario que sí funciona",
+   "gancho": "No es decir 'gracias' por costumbre. Es nombrar algo concreto.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261205-S",
+   "fecha": "2026-12-05",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 4,
+   "titulo": "La pregunta de la noche que acerca",
+   "gancho": "Una pregunta, una respuesta, cero juicio. Hoy mismo puedes probarla.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261206-S",
+   "fecha": "2026-12-06",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 5,
+   "titulo": "'Como tú quieras': lo que realmente quiere decir",
+   "gancho": "A veces significa confianza. Otras, cansancio. Aprende a distinguirlas.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261207-L",
+   "fecha": "2026-12-07",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 2,
+   "titulo": "Cuando la dependencia se disfraza de amor",
+   "subtema": "Diferencias entre amar y necesitar para sentirse completo. Gancho: ¿cómo se ve cuando el amor se vuelve miedo? Reto de hoy: completa la frase 'Sin ti yo…' y mira qué sale.",
+   "referencia_video_id": "-ai9L-jXtx0",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261207-S",
+   "fecha": "2026-12-07",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 5,
+   "titulo": "'Ya no importa': la frase que apaga conversaciones",
+   "gancho": "Cuando algo ya 'no importa', suele importar muchísimo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261208-S",
+   "fecha": "2026-12-08",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 5,
+   "titulo": "Una frase no es una sentencia",
+   "gancho": "No leas el final de la historia en una sola frase. Pregunta antes.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261209-L",
+   "fecha": "2026-12-09",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 3,
+   "titulo": "¿El amor que atraes es un espejo? La verdad incómoda",
+   "subtema": "Patrones repetidos y heridas que buscan resolverse. Sin culpar a la víctima: se trata de comprender, no de juzgar. Reto de hoy: nombra un patrón que se repite en tus vínculos.",
+   "referencia_video_id": "VaEtQ9UIGqU",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261209-S",
+   "fecha": "2026-12-09",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 6,
+   "titulo": "3 preguntas antes de decidir si sigues",
+   "gancho": "Si no puedes responderlas con honestidad, todavía no es momento de decidir.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261210-S",
+   "fecha": "2026-12-10",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 6,
+   "titulo": "¿Miedo a estar solo o ganas de estar con esa persona?",
+   "gancho": "Se parecen, pero no son lo mismo. Aprende a distinguirlo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261211-L",
+   "fecha": "2026-12-11",
+   "hora": "18:00",
+   "tipo": "largo",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 4,
+   "titulo": "5 preguntas antes de escribirle ese mensaje",
+   "subtema": "Un filtro de cinco preguntas antes de buscar a alguien tras una ruptura. Gancho: la pregunta 5 es la más difícil de responder. Reto de hoy: guarda el mensaje en borradores y respira 5 minutos.",
+   "referencia_video_id": "",
+   "minutos": 15,
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261211-S",
+   "fecha": "2026-12-11",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Café de a Dos",
+   "capitulo": 6,
+   "titulo": "Quedarse y cerrar también pueden ser actos de amor",
+   "gancho": "Lo importante no es qué eliges, sino desde dónde lo eliges.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261212-S",
+   "fecha": "2026-12-12",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 1,
+   "titulo": "Amas lo que podría ser, no lo que es",
+   "gancho": "La esperanza es linda, pero a veces vive de promesas. Mira los hechos.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261213-S",
+   "fecha": "2026-12-13",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 1,
+   "titulo": "3 hechos vs. 3 promesas: ejercicio rápido",
+   "gancho": "Toma papel y lápiz. En dos minutos sabrás desde dónde sigues.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261214-S",
+   "fecha": "2026-12-14",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 1,
+   "titulo": "Querer no siempre es lo mismo que convenir",
+   "gancho": "Puedes querer mucho a alguien y aun así no elegirlo. Eso no te hace frío.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261215-S",
+   "fecha": "2026-12-15",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 2,
+   "titulo": "Amor o miedo a quedarte solo: 4 diferencias",
+   "gancho": "Se parecen mucho por fuera. Por dentro, no tanto.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261216-S",
+   "fecha": "2026-12-16",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 2,
+   "titulo": "'No puedo vivir sin ti' ¿romántico o alarma?",
+   "gancho": "Depende de lo que haya detrás de la frase. Vamos a mirarlo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261217-S",
+   "fecha": "2026-12-17",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 2,
+   "titulo": "Completa la frase: 'Sin ti yo…'",
+   "gancho": "Tu respuesta dice más de lo que crees. Cuéntamela en comentarios.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261218-S",
+   "fecha": "2026-12-18",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 3,
+   "titulo": "¿Por qué siempre eliges al mismo tipo de persona?",
+   "gancho": "Quizá no es mala suerte. Quizá es un patrón que puedes mirar.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261219-S",
+   "fecha": "2026-12-19",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 3,
+   "titulo": "Una herida no es una condena",
+   "gancho": "Lo que repites se puede reescribir. Despacio, pero se puede.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261220-S",
+   "fecha": "2026-12-20",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 3,
+   "titulo": "El espejo que no te gusta mirar",
+   "gancho": "No es para culparte. Es para que dejes de repetirlo.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  },
+  {
+   "id": "equilibrate_es-20261221-S",
+   "fecha": "2026-12-21",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Soltar Sin Romperte",
+   "capitulo": 4,
+   "titulo": "Antes de escribirle: la pregunta que cambia todo",
+   "gancho": "¿Qué espero que responda? Si la respuesta es 'que cambie', frena.",
+   "referencia_video_id": "",
+   "estado": "planificado"
+  }
+ ],
+ "proyeccion": {
+  "semanas": 7.9,
+  "largos": 16,
+  "shorts": 46,
+  "vivos": 0,
+  "horas_estimadas": 980,
+  "horas_de_largos": 980,
+  "horas_de_vivos": 0,
+  "subs_estimados": 1667,
+  "supuestos": {
+   "vistas_largo_promedio": 700,
+   "retencion_largo": 0.35,
+   "minutos_largo": 15,
+   "espectadores_vivo_promedio": 35,
+   "minutos_vivo": 75,
+   "repeticion_vivo_vistas": 150,
+   "vistas_short_promedio": 3500,
+   "conversion_subs_short": 0.006,
+   "conversion_subs_largo": 0.03
+  },
+  "nota": "Estimación con supuestos conservadores; se recalibra cada semana con datos reales del tablero."
+ }
+}
