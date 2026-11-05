@@ -46,6 +46,25 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
           pip install -r requirements.txt
 
+      - name: Verificar credenciales
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          FAL_KEY: ${{ secrets.FAL_KEY }}
+        run: |
+          ok=1
+          for k in YOUTUBE_API_KEY ANTHROPIC_API_KEY ELEVENLABS_API_KEY FAL_KEY; do
+            v="${!k}"; printf '%s: longitud %s, prefijo %s\n' "$k" "${#v}" "${v:0:10}..."
+            if [ "$v" != "$(printf '%s' "$v" | tr -d '[:space:]')" ]; then echo "  ! $k contiene espacios o saltos de línea"; ok=0; fi
+          done
+          echo "--- pruebas de API"
+          echo -n "YouTube: "; curl -s -o /dev/null -w '%{http_code}\n' "https://www.googleapis.com/youtube/v3/videos?part=id&id=dQw4w9WgXcQ&key=$YOUTUBE_API_KEY"
+          echo -n "Anthropic: "; curl -s -o /tmp/a.json -w '%{http_code}\n' https://api.anthropic.com/v1/models -H "x-api-key: $ANTHROPIC_API_KEY" -H "anthropic-version: 2023-06-01"; head -c 200 /tmp/a.json; echo
+          echo -n "ElevenLabs: "; curl -s -o /dev/null -w '%{http_code}\n' https://api.elevenlabs.io/v1/user -H "xi-api-key: $ELEVENLABS_API_KEY"
+          echo -n "fal.ai: "; curl -s -o /dev/null -w '%{http_code}\n' -X POST https://fal.run/fal-ai/flux/schnell -H "Authorization: Key $FAL_KEY" -H "Content-Type: application/json" -d '{"prompt":"test","num_images":1,"image_size":"square"}'
+          [ $ok = 1 ]
+
       - name: Producir Short
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
