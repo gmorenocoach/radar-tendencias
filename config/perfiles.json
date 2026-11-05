@@ -47,10 +47,10 @@
    "dias": 90,
    "min_subs": 1000,
    "max_subs": 100000,
-   "min_virales_canal": 3,
+   "min_virales_canal": 2,
    "ratio_viral": 12,
    "min_engagement": 0.04,
-   "max_busquedas": 10
+   "max_busquedas": 16
   },
   {
    "id": "soyintegral_es",
@@ -119,7 +119,7 @@
    "dias": 90,
    "min_subs": 1000,
    "max_subs": 100000,
-   "min_virales_canal": 3,
+   "min_virales_canal": 2,
    "ratio_viral": 12,
    "min_engagement": 0.04,
    "max_busquedas": 5

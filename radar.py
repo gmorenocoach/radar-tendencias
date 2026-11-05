@@ -311,7 +311,11 @@ class Radar:
         excluir = nicho.get("excluir", {}).get(perfil["idioma"], [])
         descartados_relevancia = 0
         validos = {}
+        categorias_excluidas = {"10", "20", "17"}   # Música, Juegos, Deportes
         for vid, v in detalles.items():
+            if v["snippet"].get("categoryId") in categorias_excluidas:
+                descartados_relevancia += 1
+                continue
             dur = segundos(v["contentDetails"]["duration"])
             if perfil["formato"] == "shorts" and dur > 60:
                 continue
