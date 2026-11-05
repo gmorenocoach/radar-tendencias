@@ -1,0 +1,25 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H0017A0D4,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.49,Sub,,0,0,0,,{\k22}NO {\k13}ES {\k14}QUE
+Dialogue: 0,0:00:00.49,0:00:01.78,Sub,,0,0,0,,{\k31}GANES {\k71}POCO. {\k27}ES
+Dialogue: 0,0:00:01.78,0:00:03.54,Sub,,0,0,0,,{\k78}ESTO. {\k68}TRABAJAS {\k30}TODO
+Dialogue: 0,0:00:03.54,0:00:04.03,Sub,,0,0,0,,{\k12}EL {\k30}MES {\k7}Y
+Dialogue: 0,0:00:04.03,0:00:04.75,Sub,,0,0,0,,{\k12}EL {\k24}DÍA {\k36}30
+Dialogue: 0,0:00:04.75,0:00:06.48,Sub,,0,0,0,,{\k13}NO {\k34}QUEDA {\k126}NADA.
+Dialogue: 0,0:00:06.48,0:00:07.56,Sub,,0,0,0,,{\k41}SÍ, {\k25}LOS {\k42}PRECIOS
+Dialogue: 0,0:00:07.56,0:00:08.23,Sub,,0,0,0,,{\k7}Y {\k16}LOS {\k44}SUELDOS
+Dialogue: 0,0:00:08.23,0:00:09.44,Sub,,0,0,0,,{\k79}PESAN, {\k25}PERO {\k16}HAY
+Dialogue: 0,0:00:09.44,0:00:10.16,Sub,,0,0,0,,{\k17}UNA {\k33}PARTE {\k22}QUE
+Dialogue: 0,0:00:10.16,0:00:11.39,Sub,,0,0,0,,{\k20}SÍ {\k14}ES {\k89}TUYA.
+Dialogue: 0,0:00:11.39,0:00:12.37,Sub,,0,0,0,,{\k22}TU {\k44}FUTURO {\k31}COBRA
+Dialogue: 0,0:00:12.37,0:00:13.23,Sub,,0,0,0,,{\k15}DE {\k72}ÚLTIMO.

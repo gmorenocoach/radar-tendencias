@@ -1,0 +1,58 @@
+{
+ "titulo": "Tu plata no rinde por esto 👇 #dinero #hábitos #plata",
+ "titulos_alternativos": [
+  "Tu sueldo desaparece por esto 👇 #dinero #ahorro #mentalidad",
+  "Sigues sin avanzar con tu plata por esto 👇 #finanzas #hábitos #dinero"
+ ],
+ "descripcion": "¿Trabajas todo el mes y el día 30 no queda nada? Germancho te cuenta el hábito de dinero que casi nadie ve: tu futuro cobra de último. Hablamos de mentalidad financiera, ahorro, hábitos con el dinero y cómo construir más ingresos paso a paso. Haz el reto de hoy y cuéntame en comentarios: ¿listo?",
+ "hashtags": [
+  "#dinero",
+  "#mentalidadfinanciera",
+  "#habitosfinancieros",
+  "#ahorro",
+  "#ingresos",
+  "#educacionfinanciera",
+  "#germancho",
+  "#cafeconproposito"
+ ],
+ "miniatura": {
+  "texto": "NO RINDE POR ESTO",
+  "emocion": "miedo",
+  "objeto": "billetera vacía",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "No es que ganes poco. Es esto.",
+   "emocion": "ira",
+   "objeto": "billetera vacía",
+   "pose": "letrero",
+   "prompt_visual": "serious cartoon barista holding a sign, empty wallet in front, dark background, bold red and yellow accents",
+   "segundos": 3,
+   "prompt_final": "Keep this exact hand-drawn ink cartoon character and his scratchy pen-line style: inverted-triangle head, scribbled spiky hair, long thin neck, very long wire-thin legs, twig-like hands with long fingers, two black oval eyes. Change only: he wears a mustard yellow hoodie with the hood down and mustard yellow high-top sneakers with white soles; expression: angry, frowning brows; serious cartoon barista holding a sign, empty wallet in front, dark background, bold red and yellow accents; the billetera vacía is drawn in mustard yellow; everything else black ink on plain off-white paper; no text, no other colors, vertical 9:16 composition with the character large in frame, children's-book illustration."
+  },
+  {
+   "n": 2,
+   "texto": "Trabajas todo el mes y el día 30 no queda nada. Sí, los precios y los sueldos pesan, pero hay una parte que sí es tuya.",
+   "emocion": "tristeza",
+   "objeto": "calendario con el día 30",
+   "pose": "aburrido",
+   "prompt_visual": "tired cartoon character slumped next to a calendar marked day 30, empty pockets turned out, muted colors",
+   "segundos": 9,
+   "prompt_final": "Keep this exact hand-drawn ink cartoon character and his scratchy pen-line style: inverted-triangle head, scribbled spiky hair, long thin neck, very long wire-thin legs, twig-like hands with long fingers, two black oval eyes. Change only: he wears a mustard yellow hoodie with the hood down and mustard yellow high-top sneakers with white soles; expression: sad, drooping eyes; tired cartoon character slumped next to a calendar marked day 30, empty pockets turned out, muted colors; the calendario con el día 30 is drawn in mustard yellow; everything else black ink on plain off-white paper; no text, no other colors, vertical 9:16 composition with the character large in frame, children's-book illustration."
+  },
+  {
+   "n": 3,
+   "texto": "Tu futuro cobra de último.",
+   "emocion": "sorpresa",
+   "objeto": "fila de monedas",
+   "pose": "senalando",
+   "prompt_visual": "cartoon character pointing at the end of a long line of coins where a tiny figure labeled future waits last",
+   "segundos": 3,
+   "prompt_final": "Keep this exact hand-drawn ink cartoon character and his scratchy pen-line style: inverted-triangle head, scribbled spiky hair, long thin neck, very long wire-thin legs, twig-like hands with long fingers, two black oval eyes. Change only: he wears a mustard yellow hoodie with the hood down and mustard yellow high-top sneakers with white soles; expression: surprised, round eyes and open mouth; cartoon character pointing at the end of a long line of coins where a tiny figure labeled future waits last; the fila de monedas is drawn in mustard yellow; everything else black ink on plain off-white paper; no text, no other colors, vertical 9:16 composition with the character large in frame, children's-book illustration."
+  }
+ ],
+ "canal": "mitribu",
+ "color": "#D4A017"
+}

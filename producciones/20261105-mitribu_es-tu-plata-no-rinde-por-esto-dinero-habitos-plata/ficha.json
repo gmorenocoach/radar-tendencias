@@ -1,0 +1,81 @@
+{
+ "fuente": {
+  "video_id": "CJXMOjGMyCM",
+  "url": "https://www.youtube.com/watch?v=CJXMOjGMyCM",
+  "titulo": "la gente sigue pobre por esto 🧏‍♂️ #mentalidad #hábitos #pobreza",
+  "descripcion": "la gente sigue pobre por esto 🧏‍♂️ #mentalidad #hábitos #pobreza",
+  "canal": "Ronald de la Hoz | Mentor de Ingresos On line",
+  "vistas": 156574,
+  "likes": 2053,
+  "comentarios": 45,
+  "publicado": "2026-11-01",
+  "miniatura": "https://i.ytimg.com/vi/CJXMOjGMyCM/maxresdefault.jpg",
+  "duracion": "PT30S",
+  "tags": [],
+  "transcripcion_chars": 0
+ },
+ "adn": {
+  "tema_central": "Mentalidad y hábitos financieros: la razón oculta por la que la gente no sale de la pobreza",
+  "promesa_del_titulo": "Revelar en 30 segundos la causa principal (un hábito o creencia concreta) por la que la gente sigue siendo pobre",
+  "gancho_primeros_segundos": "Afirmación directa y polémica a cámara, tipo 'La gente sigue pobre por esto', que abre un bucle de curiosidad sobre cuál es el 'esto' y deja al espectador esperando la revelación",
+  "tipo_de_gancho": "contradiccion",
+  "estructura": [
+   {
+    "bloque": "gancho",
+    "segundos_aprox": 3,
+    "funcion": "Lanzar la afirmación provocadora que señala una causa única y crea un vacío de curiosidad"
+   },
+   {
+    "bloque": "contexto",
+    "segundos_aprox": 6,
+    "funcion": "Plantear brevemente el problema: personas que trabajan y se esfuerzan pero no avanzan económicamente"
+   },
+   {
+    "bloque": "punto 1",
+    "segundos_aprox": 10,
+    "funcion": "Revelar el hábito o creencia central (p. ej. gastar todo lo que entra, esperar seguridad en vez de crear ingresos) con un ejemplo cotidiano"
+   },
+   {
+    "bloque": "punto 2",
+    "segundos_aprox": 6,
+    "funcion": "Contrastar con lo que hace quien sí construye ingresos para reforzar la diferencia de mentalidad"
+   },
+   {
+    "bloque": "cierre",
+    "segundos_aprox": 5,
+    "funcion": "Frase contundente y memorable que invite a reflexionar o a seguir al canal para aprender más"
+   }
+  ],
+  "ritmo": "Frases muy cortas, una idea por frase (unas 6-8 frases en total), ritmo rápido sin pausas largas, cortes de edición frecuentes o subtítulos dinámicos, y una pausa breve justo antes de la revelación",
+  "tono": "Directo, sentencioso y algo confrontador, con autoridad de mentor; cercano y coloquial pero firme, sin suavizar el mensaje",
+  "cta_final": "Invitar a seguir al canal o a comentar si el espectador se identifica, con opción de dirigir a contenido de ingresos online (mentoría, comunidad o guía gratuita)",
+  "formula_del_titulo": "'[Grupo de personas] sigue [estado negativo] por esto' + emoji de gesto + 3 hashtags temáticos (patrón de causa oculta con bucle de curiosidad)",
+  "titulo_con_numero": false,
+  "palabras_clave": [
+   "pobre",
+   "pobreza",
+   "mentalidad",
+   "hábitos",
+   "dinero",
+   "por esto",
+   "ingresos online",
+   "mentor"
+  ],
+  "emocion_dominante": "miedo",
+  "formula_miniatura": {
+   "rostro": "sí, expresión seria o de advertencia, mirando a cámara",
+   "texto": "3-5 palabras en mayúsculas, tipografía gruesa y alto contraste (ej. 'POBRE POR ESTO')",
+   "objeto": "Dinero, billetera vacía o un gesto de la mano señalando; elemento simple que refuerce la idea de escasez",
+   "color_dominante": "Rojo, amarillo o negro sobre fondo oscuro para contraste y sensación de urgencia"
+  },
+  "por_que_funciona": "Combina una afirmación polémica y generalizadora con un 'esto' sin explicar, que obliga a ver el video completo para resolver la curiosidad, y toca un miedo universal (quedarse pobre) con una promesa de claridad rápida. La duración de 30 segundos favorece la retención total y la repetición de visionado en Shorts.",
+  "riesgos_a_evitar": [
+   "copiar frases literales del video original",
+   "generalizar ofensivamente sobre las personas pobres o culparlas de su situación",
+   "prometer resultados económicos garantizados",
+   "dar una revelación vaga o decepcionante que no pague el gancho",
+   "usar clickbait sin entregar un hábito concreto y accionable",
+   "ignorar factores estructurales sin matizar"
+  ]
+ }
+}
