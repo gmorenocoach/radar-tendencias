@@ -1,0 +1,99 @@
+{
+ "titulo": "3 compañeros de mesa que debes alejar de tu dinero",
+ "titulos_alternativos": [
+  "3 voces en tu mesa que frenan tu dinero",
+  "Aléjate de estos 3 si quieres salir de apuros"
+ ],
+ "descripcion": "Tu entorno influye en cómo gastas, ahorras y sueñas con tu dinero. En menos de un minuto, Germancho te presenta 3 compañeros de mesa que frenan tu mentalidad financiera y tus hábitos. Aprende a poner límites con cariño y a cuidar tu entorno. Haz el reto de hoy y cuéntamelo en los comentarios.",
+ "hashtags": [
+  "#mentalidadfinanciera",
+  "#habitosfinancieros",
+  "#dinero",
+  "#entorno",
+  "#crecimientopersonal",
+  "#germancho",
+  "#cafeconproposito"
+ ],
+ "miniatura": {
+  "texto": "ALÉJATE YA",
+  "emocion": "miedo",
+  "objeto": "tres tazas de café con una X roja encima",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Hay tres compañeros de mesa que debes alejar de tu dinero. Hoy.",
+   "emocion": "miedo",
+   "objeto": "taza con una X",
+   "pose": "senalando",
+   "prompt_visual": "cartoon coach pointing at camera, three coffee cups on a table with a red prohibition sign, bold red and black style",
+   "segundos": 4,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: scared, wide eyes, raised brows; pointing forward with one long finger; cartoon coach pointing at camera, three coffee cups on a table with a red prohibition sign, bold red and black style; the taza con una X is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Tu mesa es tu entorno. Con quien tomas café, aprendes a gastar, soñar y ahorrar. Y no hablo solo de personas: también de voces.",
+   "emocion": "sorpresa",
+   "objeto": "mesa con tres tazas",
+   "pose": "butaco_tazas",
+   "prompt_visual": "coach sitting on a stool at a table with three coffee cups, speech bubbles floating above them",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: surprised, round eyes and open mouth; sitting on a wooden stool; coach sitting on a stool at a table with three coffee cups, speech bubbles floating above them; the mesa con tres tazas is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Uno: el Quejón. Todo está mal, nada se puede. Te contagia la idea de que tu plata no depende de ti.",
+   "emocion": "tristeza",
+   "objeto": "nube de lluvia sobre una taza",
+   "pose": "aburrido",
+   "prompt_visual": "gloomy cartoon figure under a rain cloud next to a coffee cup, coach looking bored, red and black tones",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: sad, drooping eyes; slumped, bored; gloomy cartoon figure under a rain cloud next to a coffee cup, coach looking bored, red and black tones; the nube de lluvia sobre una taza is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Dos: el Burlón. Se ríe de tus metas, de tu cuaderno de gastos. Con cada chiste, tu sueño se hace más pequeño.",
+   "emocion": "ira",
+   "objeto": "cuaderno con una burbuja de risa",
+   "pose": "agachado",
+   "prompt_visual": "laughing silhouette pointing at a small notebook, coach crouching sadly beside it, dramatic red accents",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: angry, frowning brows; bent over looking down; laughing silhouette pointing at a small notebook, coach crouching sadly beside it, dramatic red accents; the cuaderno con una burbuja de risa is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Tres: el Compra-todo. Gasta sin pensar y te dice: «¡Vive hoy!». Normaliza deudas y antojos. Y tú terminas copiándolo sin darte cuenta.",
+   "emocion": "sorpresa",
+   "objeto": "bolsas de compras y una billetera vacía",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon shopper loaded with bags, empty wallet, coach jumping in surprise, bold red black yellow",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: surprised, round eyes and open mouth; jumping with arms up; cartoon shopper loaded with bags, empty wallet, coach jumping in surprise, bold red black yellow; the bolsas de compras y una billetera vacía is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "Alejar no es odiar. Es poner límites con cariño, incluso en familia. Tu entorno ayuda a escribir tu futuro. Sigue el canal.",
+   "emocion": "alegria",
+   "objeto": "taza con corazón",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "coach with open arms, warm coffee cup with a heart, soft boundary line drawn on the floor, hopeful mood",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: happy, big toothy grin; arms wide open; coach with open arms, warm coffee cup with a heart, soft boundary line drawn on the floor, hopeful mood; the taza con corazón is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: anota en tu cuaderno qué voz se sentó en tu mesa esta semana. Y cuéntamela en comentarios.",
+   "emocion": "alegria",
+   "objeto": "cuaderno y lápiz",
+   "pose": "letrero",
+   "prompt_visual": "coach holding a sign that reads Reto de hoy, notebook and pencil on a table, friendly look",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a mustard yellow hoodie (hood down) and mustard yellow high-top sneakers with white soles; expression: happy, big toothy grin; holding up a blank sign board; coach holding a sign that reads Reto de hoy, notebook and pencil on a table, friendly look; the cuaderno y lápiz is drawn in mustard yellow. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "Anota en tu cuaderno qué voz (el Quejón, el Burlón o el Compra-todo) se sentó en tu mesa esta semana y cuéntamela en los comentarios.",
+ "palabras": 143,
+ "canal": "mitribu",
+ "color": "#D4A017"
+}

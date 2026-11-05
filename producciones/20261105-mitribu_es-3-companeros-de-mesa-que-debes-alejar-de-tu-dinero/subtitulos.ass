@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H0017A0D4,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.21,Sub,,0,0,0,,{\k35}HAY {\k28}TRES {\k58}COMPAÑEROS
+Dialogue: 0,0:00:01.21,0:00:01.80,Sub,,0,0,0,,{\k10}DE {\k34}MESA {\k15}QUE
+Dialogue: 0,0:00:01.80,0:00:02.62,Sub,,0,0,0,,{\k32}DEBES {\k41}ALEJAR {\k9}DE
+Dialogue: 0,0:00:02.62,0:00:04.52,Sub,,0,0,0,,{\k13}TU {\k78}DINERO. {\k99}HOY.
+Dialogue: 0,0:00:04.52,0:00:05.35,Sub,,0,0,0,,{\k20}TU {\k44}MESA {\k20}ES
+Dialogue: 0,0:00:05.35,0:00:06.64,Sub,,0,0,0,,{\k12}TU {\k95}ENTORNO. {\k22}CON
+Dialogue: 0,0:00:06.64,0:00:07.65,Sub,,0,0,0,,{\k21}QUIEN {\k30}TOMAS {\k50}CAFÉ,
+Dialogue: 0,0:00:07.65,0:00:09.04,Sub,,0,0,0,,{\k55}APRENDES {\k7}A {\k78}GASTAR,
+Dialogue: 0,0:00:09.04,0:00:10.82,Sub,,0,0,0,,{\k68}SOÑAR {\k17}Y {\k92}AHORRAR.
+Dialogue: 0,0:00:10.82,0:00:11.40,Sub,,0,0,0,,{\k17}Y {\k15}NO {\k25}HABLO
+Dialogue: 0,0:00:11.40,0:00:12.54,Sub,,0,0,0,,{\k26}SOLO {\k10}DE {\k78}PERSONAS:
+Dialogue: 0,0:00:12.54,0:00:14.01,Sub,,0,0,0,,{\k43}TAMBIÉN {\k12}DE {\k93}VOCES.
+Dialogue: 0,0:00:14.01,0:00:16.02,Sub,,0,0,0,,{\k77}UNO: {\k23}EL {\k101}QUEJÓN.
+Dialogue: 0,0:00:16.02,0:00:17.25,Sub,,0,0,0,,{\k43}TODO {\k27}ESTÁ {\k53}MAL,
+Dialogue: 0,0:00:17.25,0:00:18.52,Sub,,0,0,0,,{\k36}NADA {\k14}SE {\k77}PUEDE.
+Dialogue: 0,0:00:18.52,0:00:19.38,Sub,,0,0,0,,{\k18}TE {\k58}CONTAGIA {\k9}LA
+Dialogue: 0,0:00:19.38,0:00:19.95,Sub,,0,0,0,,{\k33}IDEA {\k12}DE {\k13}QUE
+Dialogue: 0,0:00:19.95,0:00:20.89,Sub,,0,0,0,,{\k15}TU {\k53}PLATA {\k25}NO
+Dialogue: 0,0:00:20.89,0:00:22.54,Sub,,0,0,0,,{\k50}DEPENDE {\k13}DE {\k102}TI.
+Dialogue: 0,0:00:22.54,0:00:24.55,Sub,,0,0,0,,{\k77}DOS: {\k22}EL {\k103}BURLÓN.
+Dialogue: 0,0:00:24.55,0:00:25.27,Sub,,0,0,0,,{\k28}SE {\k33}RÍE {\k12}DE
+Dialogue: 0,0:00:25.27,0:00:26.30,Sub,,0,0,0,,{\k24}TUS {\k64}METAS, {\k14}DE
+Dialogue: 0,0:00:26.30,0:00:27.05,Sub,,0,0,0,,{\k12}TU {\k53}CUADERNO {\k10}DE
+Dialogue: 0,0:00:27.05,0:00:28.43,Sub,,0,0,0,,{\k87}GASTOS. {\k24}CON {\k27}CADA
+Dialogue: 0,0:00:28.43,0:00:29.62,Sub,,0,0,0,,{\k53}CHISTE, {\k17}TU {\k48}SUEÑO
+Dialogue: 0,0:00:29.62,0:00:30.59,Sub,,0,0,0,,{\k20}SE {\k44}HACE {\k34}MÁS
+Dialogue: 0,0:00:30.59,0:00:32.65,Sub,,0,0,0,,{\k100}PEQUEÑO. {\k78}TRES: {\k28}EL
+Dialogue: 0,0:00:32.65,0:00:34.56,Sub,,0,0,0,,{\k128}COMPRA-TODO. {\k43}GASTA {\k21}SIN
+Dialogue: 0,0:00:34.56,0:00:35.24,Sub,,0,0,0,,{\k48}PENSAR {\k7}Y {\k13}TE
+Dialogue: 0,0:00:35.24,0:00:37.29,Sub,,0,0,0,,{\k78}DICE: {\k49}«¡VIVE {\k79}HOY!».
+Dialogue: 0,0:00:37.29,0:00:38.66,Sub,,0,0,0,,{\k85}NORMALIZA {\k47}DEUDAS {\k6}Y
+Dialogue: 0,0:00:38.66,0:00:39.91,Sub,,0,0,0,,{\k84}ANTOJOS. {\k24}Y {\k17}TÚ
+Dialogue: 0,0:00:39.91,0:00:41.30,Sub,,0,0,0,,{\k50}TERMINAS {\k64}COPIÁNDOLO {\k24}SIN
+Dialogue: 0,0:00:41.30,0:00:42.98,Sub,,0,0,0,,{\k31}DARTE {\k70}CUENTA. {\k67}ALEJAR
+Dialogue: 0,0:00:42.98,0:00:44.27,Sub,,0,0,0,,{\k30}NO {\k20}ES {\k79}ODIAR.
+Dialogue: 0,0:00:44.27,0:00:45.37,Sub,,0,0,0,,{\k24}ES {\k36}PONER {\k50}LÍMITES
+Dialogue: 0,0:00:45.37,0:00:47.03,Sub,,0,0,0,,{\k17}CON {\k78}CARIÑO, {\k71}INCLUSO
+Dialogue: 0,0:00:47.03,0:00:48.45,Sub,,0,0,0,,{\k13}EN {\k109}FAMILIA. {\k20}TU
+Dialogue: 0,0:00:48.45,0:00:49.49,Sub,,0,0,0,,{\k57}ENTORNO {\k34}AYUDA {\k14}A
+Dialogue: 0,0:00:49.49,0:00:51.25,Sub,,0,0,0,,{\k56}ESCRIBIR {\k15}TU {\k105}FUTURO.
+Dialogue: 0,0:00:51.25,0:00:52.96,Sub,,0,0,0,,{\k53}SIGUE {\k15}EL {\k103}CANAL.
+Dialogue: 0,0:00:52.96,0:00:54.15,Sub,,0,0,0,,{\k40}RETO {\k14}DE {\k65}HOY:
+Dialogue: 0,0:00:54.15,0:00:54.82,Sub,,0,0,0,,{\k44}ANOTA {\k11}EN {\k13}TU
+Dialogue: 0,0:00:54.82,0:00:55.83,Sub,,0,0,0,,{\k53}CUADERNO {\k21}QUÉ {\k27}VOZ
+Dialogue: 0,0:00:55.83,0:00:56.59,Sub,,0,0,0,,{\k15}SE {\k50}SENTÓ {\k10}EN
+Dialogue: 0,0:00:56.59,0:00:57.43,Sub,,0,0,0,,{\k16}TU {\k45}MESA {\k23}ESTA
+Dialogue: 0,0:00:57.43,0:00:59.08,Sub,,0,0,0,,{\k93}SEMANA. {\k16}Y {\k56}CUÉNTAMELA
+Dialogue: 0,0:00:59.08,0:01:00.28,Sub,,0,0,0,,{\k10}EN {\k109}COMENTARIOS.
