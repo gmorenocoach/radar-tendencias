@@ -4,14 +4,17 @@ import requests
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 from .comun import MOCK, ROOT, PAGES_BASE, POSES, CANAL_COLOR, EMOCION_COLOR
 
-FAL_MODEL = os.environ.get("FAL_MODEL", "fal-ai/flux-pro/kontext")   # edición guiada por imagen de referencia
+FAL_MODEL = os.environ.get("FAL_MODEL", "fal-ai/flux-pro/kontext/max")   # edición guiada por imagen de referencia
 FAL_FALLBACK = "fal-ai/flux/dev"
 
-PROMPT_BASE = ("Keep this exact hand-drawn ink cartoon character and his scratchy pen-line style: inverted-triangle head, scribbled spiky hair, "
-               "long thin neck, very long wire-thin legs, twig-like hands with long fingers, two black oval eyes. "
-               "Change only: he wears a {color} hoodie with the hood down and {color} high-top sneakers with white soles; "
-               "expression: {emocion}; {accion}; the {objeto} is drawn in {color}; everything else black ink on plain off-white paper; "
-               "no text, no other colors, vertical 9:16 composition with the character large in frame, children's-book illustration.")
+PROMPT_BASE = ("This is Germancho, a hand-drawn scribbly ink character. PRESERVE EXACTLY his design: the head is a flat INVERTED TRIANGLE "
+               "(wide at the top, pointed chin) with spiky scribbled hair on the top edge, two small black oval eyes, a simple mouth, no nose, no ears; "
+               "very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign "
+               "the face or head shape, do NOT make it a skull, alien or realistic head. "
+               "Change ONLY his clothes and the scene: he wears a {color} hoodie (hood down) and {color} high-top sneakers with white soles; "
+               "expression: {emocion}; {accion}; the {objeto} is drawn in {color}. Everything else is black ink on a plain flat off-white paper background. "
+               "No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. "
+               "Vertical 9:16 composition, character large and centered, children's-book sketch illustration.")
 EMOCION_EN = {"alegria": "happy, big toothy grin", "miedo": "scared, wide eyes, raised brows", "ira": "angry, frowning brows", "tristeza": "sad, drooping eyes",
               "asco": "disgusted, tongue out", "sorpresa": "surprised, round eyes and open mouth", "sereno": "calm, soft smile"}
 

@@ -48,7 +48,41 @@
     "ficha": "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata/ficha.json"
    },
    "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
+  {
+   "id": "20261105-mitribu_es-la-gente-sigue-sin-plata-por-esto",
+   "perfil": "mitribu_es",
+   "canal": "Mi Tribu · Dinero",
+   "fecha": "2026-11-05T06:50:44",
+   "titulo": "La gente sigue sin plata por ESTO",
+   "titulos_alternativos": [
+    "3 hábitos que te mantienen sin dinero",
+    "No es falta de plata"
+   ],
+   "descripcion": "No es falta de dinero: son tres hábitos. Germancho te muestra cuáles y te deja un reto de 5 minutos. #dinero #habitos\n\n#dinero #habitos #mentalidad #finanzaspersonales #shorts",
+   "hashtags": [
+    "#dinero",
+    "#habitos",
+    "#mentalidad",
+    "#finanzaspersonales",
+    "#shorts"
+   ],
+   "reto_de_hoy": "Anota el último gasto que no necesitabas.",
+   "duracion_s": 29.6,
+   "tamano_mb": 2.9,
+   "fuente": {
+    "tema": "prueba"
+   },
+   "estado": "pendiente_aprobacion",
+   "archivos": {
+    "video": "20261105-mitribu_es-la-gente-sigue-sin-plata-por-esto/short.mp4",
+    "miniatura": "20261105-mitribu_es-la-gente-sigue-sin-plata-por-esto/miniatura.jpg",
+    "miniatura_16x9": "20261105-mitribu_es-la-gente-sigue-sin-plata-por-esto/miniatura_16x9.jpg",
+    "guion": "20261105-mitribu_es-la-gente-sigue-sin-plata-por-esto/guion.json",
+    "ficha": "20261105-mitribu_es-la-gente-sigue-sin-plata-por-esto/ficha.json"
+   },
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
   }
  ],
- "actualizado": "2026-11-05T11:48:40"
+ "actualizado": "2026-11-05T06:50:44"
 }

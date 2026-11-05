@@ -1,5 +1,5 @@
 """Guion de Short (45–60 s) en escenas, con la voz de Germancho, a partir de la ficha de ADN y el perfil del canal."""
-import json
+import json, re
 from .comun import claude, ESTILO_GERMANCHO, POSES, CANAL_COLOR, canal_de
 
 EJES = {"equilibrate": "Amor (pareja, amor propio, familia, vínculos)", "mitribu": "Dinero (mentalidad financiera, ingresos, hábitos con el dinero)",
@@ -19,6 +19,8 @@ FICHA DE ADN DEL VIDEO DE REFERENCIA (replica estructura y gancho, NO el conteni
 Escribe el guion de Germancho en {n_escenas} escenas. Cada escena: una o dos frases habladas, una emoción del personaje, un objeto de apoyo
 (se dibuja en el color del canal), una pose del libro entre {list(POSES)} y un prompt visual corto en inglés para ilustrar la escena.
 El gancho va en la escena 1 y debe funcionar en los primeros 2 segundos. La última escena es el "Reto de hoy".
+IMPORTANTE: el total hablado debe sumar {largo}; cuenta las palabras. El título va SIN hashtags ni emojis.
+Dentro de los textos usa comillas angulares «» o ninguna; NUNCA comillas dobles " (rompen el JSON). Devuelve JSON válido y completo.
 
 Responde SOLO con JSON:
 {{"titulo": "máx. 60 caracteres, con la fórmula del ADN adaptada", "titulos_alternativos": ["...", "..."],
@@ -40,7 +42,15 @@ Responde SOLO con JSON:
                 {"n": 5, "texto": "La buena noticia: los hábitos se cambian uno a la vez.", "emocion": "alegria", "objeto": "taza roja", "pose": "butaco_tazas", "prompt_visual": "sitting on a stool holding a red mug", "segundos": 7},
                 {"n": 6, "texto": "Reto de hoy: anota en un papel el último gasto que no necesitabas. Solo eso. Y cuéntame en comentarios.", "emocion": "alegria", "objeto": "tarjeta Reto", "pose": "letrero", "prompt_visual": "holding a sign that reads RETO", "segundos": 10}],
             "reto_de_hoy": "Anota el último gasto que no necesitabas.", "palabras": 130}
-    g = claude(ESTILO_GERMANCHO, user, mock=mock)
+    g = claude(ESTILO_GERMANCHO, user, mock=mock, max_tokens=6000)
+    palabras = sum(len(e.get("texto", "").split()) for e in g.get("escenas", []))
+    minimo = 100 if formato == "shorts" else 900
+    if len(g.get("escenas", [])) < 5 or palabras < minimo:
+        print(f"  ! guion incompleto ({len(g.get('escenas', []))} escenas, {palabras} palabras); regenerando")
+        user2 = user + f"\n\nTu intento anterior quedó incompleto ({len(g.get('escenas', []))} escenas, {palabras} palabras). Entrega las {n_escenas} escenas completas y el JSON cerrado."
+        g = claude(ESTILO_GERMANCHO, user2, mock=mock, max_tokens=6000)
+    g["palabras"] = sum(len(e.get("texto", "").split()) for e in g.get("escenas", []))
+    g["titulo"] = re.sub(r"\s*#\S+", "", g.get("titulo", "")).strip() or g.get("titulo", "")
     g["canal"] = canal
     g["color"] = CANAL_COLOR[canal][1]
     for e in g["escenas"]:
