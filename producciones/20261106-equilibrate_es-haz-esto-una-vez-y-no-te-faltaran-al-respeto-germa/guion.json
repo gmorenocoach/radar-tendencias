@@ -1,0 +1,93 @@
+{
+ "titulo": "Haz esto una vez y no te faltarán al respeto | Germancho",
+ "titulos_alternativos": [
+  "Un límite, una vez: así frenas a personas tóxicas | Germancho",
+  "Haz esto una sola vez y cambia cómo te tratan | Germancho"
+ ],
+ "descripcion": "¿Te faltan al respeto y no sabes cómo parar? Germancho te cuenta cómo poner límites con personas tóxicas, sin gritar ni discutir, para recuperar tu dignidad y tu paz mental. Una decisión clara, dicha con calma y sostenida con coherencia. Si hay violencia o miedo, busca ayuda profesional. Haz el reto de hoy y cuéntamelo en comentarios.",
+ "hashtags": [
+  "#personastoxicas",
+  "#ponerlimites",
+  "#respetopropio",
+  "#pazmental",
+  "#amorpropio",
+  "#manipulacion",
+  "#autoestima",
+  "#Germancho"
+ ],
+ "miniatura": {
+  "texto": "UN LÍMITE, UNA VEZ",
+  "emocion": "ira",
+  "objeto": "mano abierta en gesto de alto junto a una taza de café",
+  "pose": "letrero"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "¿Dejaste que alguien te faltara al respeto, otra vez? Una sola decisión lo cambia. Quédate hasta el final.",
+   "emocion": "ira",
+   "objeto": "mano en gesto de alto",
+   "pose": "senalando",
+   "prompt_visual": "cartoon character pointing at viewer with serious face, big stop hand symbol, dark dramatic background, red and yellow accents",
+   "segundos": 7
+  },
+  {
+   "n": 2,
+   "texto": "Callas por miedo al conflicto, por costumbre o por querer caer bien. Tranquilo, le pasa a casi todos.",
+   "emocion": "tristeza",
+   "objeto": "taza de café con grieta",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon character sitting on a stool with several coffee cups, one cracked cup, soft warm light, gentle sad expression",
+   "segundos": 7
+  },
+  {
+   "n": 3,
+   "texto": "Burlas disfrazadas de chiste, chantaje con silencios, culpa que te echan encima. Eso tiene nombre: manipulación.",
+   "emocion": "ira",
+   "objeto": "cuaderno con una lista tachada",
+   "pose": "acostado_ira",
+   "prompt_visual": "cartoon character lying down angrily next to a notebook with crossed-out list, speech bubbles with sarcastic laughs, dark background",
+   "segundos": 6
+  },
+  {
+   "n": 4,
+   "texto": "No necesitas gritar ni ganar la discusión. La fuerza no hace ruido: es un café sobre la mesa, quieto y firme.",
+   "emocion": "calma",
+   "objeto": "taza de café quieta sobre una mesa",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon character with open arms and calm confident smile, steady coffee cup on table with gentle steam, warm tones",
+   "segundos": 8
+  },
+  {
+   "n": 5,
+   "texto": "La decisión es esta: di un límite claro, una vez, con calma, y sostenlo. Por ejemplo: «Eso no me gusta, no lo voy a permitir». Y si insiste, te retiras.",
+   "emocion": "determinación",
+   "objeto": "letrero con la palabra LÍMITE",
+   "pose": "letrero",
+   "prompt_visual": "cartoon character holding a big sign that reads LIMITE, firm expression, bold lines, red and yellow highlights on dark background",
+   "segundos": 12
+  },
+  {
+   "n": 6,
+   "texto": "Se va a molestar y sentirás culpa. Es normal. Poner límites no te hace mala persona. Si hay violencia, busca ayuda profesional.",
+   "emocion": "empatía",
+   "objeto": "escalera pequeña",
+   "pose": "escalera",
+   "prompt_visual": "cartoon character climbing a small ladder step by step, supportive warm expression, soft light, a small heart nearby",
+   "segundos": 8
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: escribe un límite que has callado y dilo en voz alta frente al espejo. Cuéntamelo en comentarios.",
+   "emocion": "alegria",
+   "objeto": "cuaderno y lápiz",
+   "pose": "cambio",
+   "prompt_visual": "cartoon character smiling holding notebook and pencil in front of a small mirror, bright hopeful mood, warm colors",
+   "segundos": 8
+  }
+ ],
+ "reto_de_hoy": "Escribe en tu cuaderno un límite que has callado y dilo en voz alta frente al espejo, con calma. Toma menos de 2 minutos.",
+ "palabras": 145,
+ "canal": "equilibrate",
+ "color": "#E8705F"
+}
