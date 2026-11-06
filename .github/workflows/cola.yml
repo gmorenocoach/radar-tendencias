@@ -1,0 +1,81 @@
+name: Cola de producción
+
+on:
+  schedule:
+    - cron: "40 9 * * *"      # 04:40 Bogotá: produce lo que se publica en las próximas 48 h
+  workflow_dispatch:
+    inputs:
+      perfil:
+        description: "Perfil (vacío = todos los planes activos)"
+        required: false
+        default: ""
+      pieza:
+        description: "ID de una pieza concreta del plan (opcional)"
+        required: false
+        default: ""
+      dias:
+        description: "Producir piezas con fecha hasta hoy + N días"
+        required: false
+        default: "2"
+      max:
+        description: "Máximo de piezas por corrida"
+        required: false
+        default: "4"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fabrica
+  cancel-in-progress: false
+
+jobs:
+  cola:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Dependencias
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
+          pip install -r requirements.txt
+      - name: Producir cola
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          FAL_KEY: ${{ secrets.FAL_KEY }}
+        run: |
+          ARGS="--dias ${{ github.event.inputs.dias || 2 }} --max ${{ github.event.inputs.max || 4 }}"
+          if [ -n "${{ github.event.inputs.pieza }}" ]; then ARGS="$ARGS --pieza ${{ github.event.inputs.pieza }}";
+          elif [ -n "${{ github.event.inputs.perfil }}" ]; then ARGS="$ARGS --perfil ${{ github.event.inputs.perfil }}";
+          else ARGS="$ARGS --todos"; fi
+          python -m fabrica.cola $ARGS
+      - name: Artefacto (videos largos)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cola-${{ github.run_id }}
+          path: |
+            producciones/*/largo.mp4
+            producciones/*/short.mp4
+            producciones/*/miniatura*.jpg
+            producciones/*/metadata.json
+          retention-days: 14
+          if-no-files-found: ignore
+      - name: Guardar
+        if: always()
+        run: |
+          git config user.name "fabrica-bot"; git config user.email "fabrica-bot@users.noreply.github.com"
+          find producciones -name "*.mp4" -size +90M -exec sh -c 'echo "$1" >> .git/info/exclude' _ {} \; || true
+          git add producciones/*/ planes/ 2>/dev/null; git reset -q producciones/index.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "cola: $(date -u +%F)"
+          git checkout -- producciones/index.json 2>/dev/null || true
+          git pull --rebase --autostash origin main
+          python -m fabrica.indice
+          git add producciones/index.json && (git diff --cached --quiet || git commit -m "índice")
+          git push || (git pull --rebase --autostash origin main && git push)

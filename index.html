@@ -219,7 +219,7 @@ async function renderProducciones(){
   try{ idx=await fetch('producciones/index.json',{cache:'no-store'}).then(r=>r.json()); }catch(e){}
   const el=$('#prods');
   if(!idx||!idx.producciones.length){ el.innerHTML='<div class="empty">Aún no hay producciones. En el ranking pulsa “⚙ producir Short” (copia el ID del video) y lánzala en Actions → Fábrica de Shorts → Run workflow.</div>'; return; }
-  el.innerHTML = idx.producciones.map(p=>`<article class="prod">
+  el.innerHTML = idx.producciones.map(p=>`<article class="prod" id="p-${esc(p.id)}">
     ${p.video_en_repositorio===false?`<a class="thumb" href="https://github.com/gmorenocoach/radar-tendencias/actions/workflows/fabrica.yml" target="_blank" rel="noopener" title="Descargar desde el artefacto de la corrida"><img src="producciones/${p.archivos.miniatura_16x9}" alt="" style="width:200px;border-radius:8px"></a>`:`<video controls preload="metadata" poster="producciones/${p.archivos.miniatura}" src="producciones/${p.archivos.video}" ${p.formato==='largo'?'style="aspect-ratio:16/9;width:320px"':''}></video>`}
     <div>
       <h3>${esc(p.titulo)}</h3>
@@ -273,7 +273,17 @@ async function renderPlan(){
     <h3 style="font-size:15px;margin:16px 0 4px">Calendario</h3>
     ${Object.keys(semanas).sort().map(k=>`<div class="sem">Semana del ${fmt(k)}</div>`+semanas[k].map(x=>`<div class="pieza"><span>${fmt(x.fecha)} · ${x.hora}</span><span class="t ${x.tipo}">${x.tipo}</span>
       <span><b>${esc(x.titulo)}</b>${x.serie?` <span class="tag">${esc(x.serie)}${x.capitulo?' · cap. '+x.capitulo:''}</span>`:''}${x.origen==='radar'?' <span class="tag">radar</span>':''}${x.gancho?`<br><span style="color:var(--muted)">${esc(x.gancho)}</span>`:''}${x.pregunta_abierta?`<br><span style="color:var(--muted)">${esc(x.pregunta_abierta)} · Reto: ${esc(x.reto_colectivo||'')}</span>`:''}</span>
-      <span>${(x.tipo==='largo'||x.tipo==='short')?`<button class="tag btn" data-prod='${esc(JSON.stringify({perfil:pl.perfil,formato:x.tipo==='largo'?'largo':'shorts',video_id:x.referencia_video_id||'',tema:x.titulo,minutos:x.minutos||15}))}'>⚙ producir</button>`:`<span class="tag ${x.tipo==='vivo'?'ok':''}">${x.tipo==='vivo'?'manual · '+x.minutos+' min':'manual'}</span>`}</span></div>`).join('')).join('')}`;
+      <span>${(x.tipo==='largo'||x.tipo==='short')?(x.estado==='producido'?`<a class="tag ok" href="#" data-ver="${esc(x.produccion_id||'')}">✓ producido · ver</a>`:x.estado==='produciendo'?`<span class="tag">⏳ produciendo</span>`:x.estado==='error'?`<span class="tag promo" title="${esc(x.resultado||'')}">✗ error · reintentar</span> <button class="tag btn" data-pieza="${x.id}">⚙ reintentar</button>`:`<button class="tag btn" data-pieza="${x.id}">⚙ producir ahora</button>`):`<span class="tag ${x.tipo==='vivo'?'ok':''}">${x.tipo==='vivo'?'manual · '+x.minutos+' min':'manual'}</span>`}</span></div>`).join('')).join('')}
+    <div class="meta" style="margin-top:18px"><span>La cola automática produce cada madrugada lo que se publica en las próximas 48 h. "Producir ahora" lanza la fábrica de inmediato (requiere un token de GitHub guardado en este navegador: <button class="tag btn" id="settoken">configurar token</button>).</span></div>`;
+  el.querySelectorAll('a[data-ver]').forEach(a_=>a_.onclick=e=>{e.preventDefault(); document.querySelector('.tabs button[data-tab=producciones]').click(); setTimeout(()=>{const t=document.getElementById('p-'+a_.dataset.ver); if(t) t.scrollIntoView({behavior:'smooth'});},600);});
+  $('#settoken').onclick=()=>{const t=prompt('Pega un token de GitHub (fine-grained, repo radar-tendencias, permiso Actions: Read and write). Se guarda solo en este navegador.'); if(t){try{localStorage.setItem('radar.ghtoken',t.trim());}catch(e){} alert('Token guardado.');}};
+  el.querySelectorAll('button[data-pieza]').forEach(b=>b.onclick=async()=>{
+    let tok=null; try{tok=localStorage.getItem('radar.ghtoken');}catch(e){}
+    if(!tok){ alert('Primero configura el token de GitHub (botón al final de la lista).'); return; }
+    b.textContent='lanzando…';
+    const r=await fetch('https://api.github.com/repos/gmorenocoach/radar-tendencias/actions/workflows/cola.yml/dispatches',{method:'POST',headers:{'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json','Content-Type':'application/json'},body:JSON.stringify({ref:'main',inputs:{pieza:b.dataset.pieza,dias:'365',max:'1'}})});
+    if(r.status===204){ b.textContent='⏳ en cola (3–25 min)'; b.disabled=true; } else { b.textContent='✗ no se pudo ('+r.status+')'; }
+  });
   el.querySelectorAll('button[data-prod]').forEach(b=>b.onclick=async()=>{const o=JSON.parse(b.dataset.prod); const txt=`perfil: ${o.perfil}\nformato: ${o.formato}\nvideo_id: ${o.video_id}\ntema: ${o.tema}\nminutos: ${o.minutos}`; try{await navigator.clipboard.writeText(txt);}catch(e){} b.textContent='datos copiados ✓'; window.open('https://github.com/gmorenocoach/radar-tendencias/actions/workflows/fabrica.yml','_blank');});
 }
 
