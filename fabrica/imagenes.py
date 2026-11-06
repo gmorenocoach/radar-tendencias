@@ -204,6 +204,90 @@ def miniatura_pro(canal, emocion, objeto, textos, out_base, aspecto="16:9", esti
     return salidas
 
 
+ROSTROS = {  # emoción del video → fotos de Alonso (assets/rostro), en orden de preferencia
+    "sorpresa": ["sorpresa_encogido", "sorpresa_libro_arriba", "explicando_manos"],
+    "miedo": ["pensativo_mano_menton", "sorpresa_encogido", "serio_libro_pecho"],
+    "ira": ["senalando_camara", "serio_libro_pecho", "confianza_brazos_cruzados"],
+    "tristeza": ["sereno_libro_mirando", "pensativo_mano_menton", "sereno_sentado"],
+    "asco": ["sorpresa_encogido", "pensativo_mano_menton"],
+    "alegria": ["alegria_presentar_libro", "alegria_libro_abierto", "cercano_manos_juntas"],
+    "sereno": ["cercano_manos_juntas", "confianza_brazos_cruzados", "sereno_sentado"],
+}
+
+
+def _rostro_png(emocion, usados=()):
+    for n in ROSTROS.get(emocion, []) + ROSTROS["sereno"]:
+        p = ROOT / "assets/rostro" / f"{n}.png"
+        if p.exists() and n not in usados:
+            return p
+    return None
+
+
+def miniatura_rostro(canal, emocion, textos, out_base, aspecto="16:9"):
+    """Variante con el rostro real de Alonso: fondo oscuro, Alonso grande (cabeza y hombros), texto amarillo, Germancho pequeño como firma."""
+    foto = _rostro_png(emocion)
+    if not foto:
+        return []
+    W, H = (1280, 720) if aspecto == "16:9" else (1080, 1920)
+    _, hexc = CANAL_COLOR[canal]
+    per = Image.open(foto).convert("RGBA")
+    bb = per.getbbox() or (0, 0, per.width, per.height)
+    per = per.crop(bb)
+    # encuadre: cabeza y hombros (≈ 55 % superior del recorte) para que la cara sea grande
+    alto = int(per.height * 0.58)
+    per = per.crop((0, 0, per.width, alto))
+    salidas = []
+    for i, texto in enumerate([t for t in textos if t][:2]):
+        im = Image.new("RGB", (W, H), "#0E0E0E")
+        dr = ImageDraw.Draw(im)
+        # degradado sutil del color del canal detrás del rostro
+        halo = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        r_, g_, b_ = int(hexc[1:3], 16), int(hexc[3:5], 16), int(hexc[5:7], 16)
+        if aspecto == "16:9":
+            ImageDraw.Draw(halo).ellipse((W * 0.5, -H * 0.2, W * 1.15, H * 1.1), fill=(r_, g_, b_, 60))
+        else:
+            ImageDraw.Draw(halo).ellipse((-W * 0.15, H * 0.35, W * 1.15, H * 1.1), fill=(r_, g_, b_, 60))
+        im.paste(halo, (0, 0), halo)
+        if aspecto == "16:9":
+            esc = (H * 0.98) / per.height; p2 = per.resize((int(per.width * esc), int(per.height * esc)))
+            im.paste(p2, (W - p2.width - int(W * 0.02), H - p2.height), p2)
+            size = int(H * 0.19); maxw = int(W * 0.5); x0, y0 = int(W * 0.045), int(H * 0.08)
+        else:
+            esc = (H * 0.6) / per.height; p2 = per.resize((int(per.width * esc), int(per.height * esc)))
+            im.paste(p2, ((W - p2.width) // 2, H - p2.height), p2)
+            size = int(W * 0.16); maxw = int(W * 0.9); x0, y0 = int(W * 0.05), int(H * 0.06)
+        f = _font_manuscrita(size)
+        palabras = texto.upper().split()[:4]
+        lineas, actual = [], ""
+        for w in palabras:
+            prueba = (actual + " " + w).strip()
+            if dr.textlength(prueba, font=f) <= maxw or not actual:
+                actual = prueba
+            else:
+                lineas.append(actual); actual = w
+        lineas.append(actual)
+        y = y0
+        for linea in lineas:
+            x = x0
+            for w in linea.split(" "):
+                col = "#FFD400" if w == palabras[-1] else "#FFFFFF"
+                dr.text((x + 5, y + 5), w, font=f, fill="#000000")
+                dr.text((x, y), w, font=f, fill=col, stroke_width=4, stroke_fill="#000000")
+                x += dr.textlength(w + " ", font=f)
+            y += int(size * 1.08)
+        # Germancho pequeño como firma (maestro del canal recortado)
+        m = ROOT / "assets/germancho" / f"maestro_{canal}.png"
+        if m.exists():
+            g = _recortar_personaje(Image.open(m).convert("RGB"))
+            gb = g.getbbox()
+            if gb:
+                g = g.crop(gb); esc = (H * 0.26) / g.height; g = g.resize((int(g.width * esc), int(g.height * esc)))
+                im.paste(g, (int(W * 0.03), H - g.height - int(H * 0.02)), g)
+        out = out_base + ("_rostro" if i == 0 else "_rostro_b") + (".jpg" if aspecto == "16:9" else "_9x16.jpg")
+        im.save(out, quality=92); salidas.append(out)
+    return salidas
+
+
 def miniatura(escena_png, texto, canal, emocion, out_path, size=(1080, 1920)):
     """Miniatura según la guía: fondo blanco hueso, Germancho grande, mancha pastel pequeña, 2–4 palabras, una en color del canal, esquina rasgada."""
     W, H = size

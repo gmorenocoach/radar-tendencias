@@ -267,6 +267,7 @@ def main():
     try:
         imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos_mini, str(d / "miniatura_16x9"), "16:9")
         shutil.copy(str(d / "miniatura_16x9.jpg"), str(d / "miniatura.jpg"))
+        imagenes.miniatura_rostro(canal, m.get("emocion", "sorpresa"), textos_mini, str(d / "miniatura_16x9"), "16:9")
     except Exception as e:
         print(f"  ! miniatura pro falló ({e}); usando versión básica")
         imagenes.miniatura(pngs[0], m["texto"], canal, m.get("emocion", "sorpresa"), str(d / "miniatura.jpg"))

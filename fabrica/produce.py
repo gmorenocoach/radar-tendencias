@@ -67,6 +67,8 @@ def main():
         imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos, str(d / "miniatura_16x9"), "16:9")
         imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos[:1], str(d / "miniatura"), "9:16")
         os.replace(str(d / "miniatura_9x16.jpg"), str(d / "miniatura.jpg"))
+        imagenes.miniatura_rostro(canal, m.get("emocion", "sorpresa"), textos, str(d / "miniatura_16x9"), "16:9")
+        imagenes.miniatura_rostro(canal, m.get("emocion", "sorpresa"), textos[:1], str(d / "miniatura"), "9:16")
     except Exception as e:
         print(f"  ! miniatura pro falló ({e}); usando versión básica")
         base = next((png for e_, png in zip(g["escenas"], pngs) if e_["emocion"] == m.get("emocion")), pngs[0])
