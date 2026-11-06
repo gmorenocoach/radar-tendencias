@@ -43,7 +43,13 @@
   "miniatura": "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata/miniatura.jpg",
   "miniatura_16x9": "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata/miniatura_16x9.jpg",
   "guion": "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata/guion.json",
-  "ficha": "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata/ficha.json"
+  "ficha": "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata/ficha.json",
+  "miniaturas": [
+   "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata/miniatura.jpg",
+   "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata/miniatura_16x9.jpg",
+   "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata/miniatura_16x9_rostro.jpg",
+   "20261105-mitribu_es-tu-plata-no-rinde-por-esto-dinero-habitos-plata/miniatura_rostro_9x16.jpg"
+  ]
  },
  "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
 }

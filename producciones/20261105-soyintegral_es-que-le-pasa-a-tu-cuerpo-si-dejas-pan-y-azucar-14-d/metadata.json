@@ -43,7 +43,13 @@
   "miniatura": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/miniatura.jpg",
   "miniatura_16x9": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/miniatura_16x9.jpg",
   "guion": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/guion.json",
-  "ficha": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/ficha.json"
+  "ficha": "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/ficha.json",
+  "miniaturas": [
+   "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/miniatura.jpg",
+   "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/miniatura_16x9.jpg",
+   "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/miniatura_16x9_rostro.jpg",
+   "20261105-soyintegral_es-que-le-pasa-a-tu-cuerpo-si-dejas-pan-y-azucar-14-d/miniatura_rostro_9x16.jpg"
+  ]
  },
  "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
 }

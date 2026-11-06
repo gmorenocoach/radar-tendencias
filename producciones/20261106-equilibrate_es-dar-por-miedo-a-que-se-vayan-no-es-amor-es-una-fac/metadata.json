@@ -30,7 +30,13 @@
   "miniatura": "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac/miniatura.jpg",
   "miniatura_16x9": "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac/miniatura_16x9.jpg",
   "guion": "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac/guion.json",
-  "ficha": "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac/ficha.json"
+  "ficha": "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac/ficha.json",
+  "miniaturas": [
+   "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac/miniatura.jpg",
+   "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac/miniatura_16x9.jpg",
+   "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac/miniatura_16x9_rostro.jpg",
+   "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac/miniatura_rostro_9x16.jpg"
+  ]
  },
  "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
 }

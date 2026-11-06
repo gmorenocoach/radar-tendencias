@@ -43,7 +43,13 @@
   "miniatura": "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor/miniatura.jpg",
   "miniatura_16x9": "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor/miniatura_16x9.jpg",
   "guion": "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor/guion.json",
-  "ficha": "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor/ficha.json"
+  "ficha": "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor/ficha.json",
+  "miniaturas": [
+   "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor/miniatura.jpg",
+   "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor/miniatura_16x9.jpg",
+   "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor/miniatura_16x9_rostro.jpg",
+   "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor/miniatura_rostro_9x16.jpg"
+  ]
  },
  "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
 }
