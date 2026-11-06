@@ -1,6 +1,133 @@
 {
- "actualizado": "2026-11-06T11:34:13",
+ "actualizado": "2026-11-06T11:56:34",
  "producciones": [
+  {
+   "id": "20261106-equilibrate_es-largo-no-sacrifiques-tu-paz-por-amor-germancho",
+   "perfil": "equilibrate_es",
+   "canal": "Equilíbrate · Amor",
+   "formato": "largo",
+   "fecha": "2026-11-06T11:56:34",
+   "titulo": "No sacrifiques tu paz por amor | Germancho",
+   "titulos_alternativos": [
+    "Si tu relación te quita la calma, mira esto | Germancho",
+    "Amar no es aguantar: elígete sin culpa | Germancho"
+   ],
+   "descripcion": "¿Sientes que mantener a alguien cerca te cuesta la paz? En este video Germancho te acompaña a entender por qué sacrificamos la tranquilidad en las relaciones y cómo recuperarla.\nHablamos de amor propio, límites sanos, bienestar emocional y de cómo reconocer cuando estás perdiendo tu esencia.\nVerás cómo comunicar un límite sin culpa, cómo elegirte sin victimizarte y qué prácticas de respiración y atención plena te ayudan a sanar.\nEste contenido es reflexivo y no reemplaza la ayuda de un psicólogo o terapeuta. Si lo necesitas, busca acompañamiento profesional.\nCuéntame en los comentarios desde qué lugar ves este video y cuál es tu Reto de hoy.\n\nCapítulos:\n0:00 Gancho\n0:32 Por qué cambiamos paz por compañía\n3:00 Cinco señales de que te estás perdiendo\n4:36 Límites sin culpa\n7:20 Elegirte sin victimizarte\n10:01 Cómo recuperar tu paz\n10:19 Cierre\n\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».\n\n#amorpropio #limites #pazinterior #relacionessanas #bienestaremocional #Germancho #Equilibrate",
+   "hashtags": [
+    "#amorpropio",
+    "#limites",
+    "#pazinterior",
+    "#relacionessanas",
+    "#bienestaremocional",
+    "#Germancho",
+    "#Equilibrate"
+   ],
+   "reto_de_hoy": "Toma tu cuaderno y escribe en 3 minutos: 1) una situación de esta semana en la que dijiste sí queriendo decir no, y 2) una frase corta de límite que te gustaría decir la próxima vez. Cuéntame en comentarios cómo se siente tu frase.",
+   "duracion_s": 683.2,
+   "tamano_mb": 80.5,
+   "capitulos": [
+    {
+     "n": 0,
+     "titulo": "Gancho",
+     "inicio_s": 0.0,
+     "ambiente": "cafeteria"
+    },
+    {
+     "n": 1,
+     "titulo": "Por qué cambiamos paz por compañía",
+     "inicio_s": 32.3,
+     "ambiente": "sala"
+    },
+    {
+     "n": 2,
+     "titulo": "Cinco señales de que te estás perdiendo",
+     "inicio_s": 180.2,
+     "ambiente": "espejo"
+    },
+    {
+     "n": 3,
+     "titulo": "Límites sin culpa",
+     "inicio_s": 276.0,
+     "ambiente": "puerta"
+    },
+    {
+     "n": 4,
+     "titulo": "Elegirte sin victimizarte",
+     "inicio_s": 440.8,
+     "ambiente": "escalera"
+    },
+    {
+     "n": 5,
+     "titulo": "Cómo recuperar tu paz",
+     "inicio_s": 601.9,
+     "ambiente": "playa"
+    },
+    {
+     "n": 6,
+     "titulo": "Cierre",
+     "inicio_s": 619.8,
+     "ambiente": "cafeteria"
+    }
+   ],
+   "fuente": {
+    "video_id": "-PX8yO82xys",
+    "url": "https://www.youtube.com/watch?v=-PX8yO82xys",
+    "titulo": "No sacrifiques tu paz por una relación | Nilda Chiaraviglio",
+    "descripcion": "Una relación debe sumar a tu vida, no convertirse en el motivo de tu sufrimiento. Nunca sacrifiques tu tranquilidad, tu esencia ni tu bienestar por mantener a alguien a tu lado. Amar también significa saber poner límites y elegirte cuando sea necesario.",
+    "canal": "Sembrando Reflexiones",
+    "vistas": 93729,
+    "likes": 803,
+    "comentarios": 18,
+    "publicado": "2026-09-11",
+    "miniatura": "https://i.ytimg.com/vi/-PX8yO82xys/maxresdefault.jpg",
+    "duracion": "PT19M51S",
+    "tags": [
+     "carmen alegria",
+     "Desarrollo personal",
+     "Amor y salud",
+     "Curación emocional",
+     "Beneficios del amor",
+     "Salud emocional",
+     "Relaciones sanadoras",
+     "Mario Alonso Puig",
+     "Poder del amor",
+     "Psicología positiva",
+     "Bienestar emocional",
+     "Terapia emocional",
+     "ciencia",
+     "neurociencia",
+     "meditación",
+     "introspección",
+     "relajación",
+     "respiración",
+     "técnicas de atención plena",
+     "estrés",
+     "ansiedad",
+     "autoconocimiento",
+     "mindfulness",
+     "consciencia",
+     "conciencia",
+     "cebrero",
+     "desarrollo personal",
+     "crecimiento personal",
+     "espiritualidad",
+     "psicología",
+     "educación"
+    ],
+    "transcripcion_chars": 0
+   },
+   "estado": "pendiente_aprobacion",
+   "archivos": {
+    "video": "20261106-equilibrate_es-largo-no-sacrifiques-tu-paz-por-amor-germancho/largo.mp4",
+    "miniatura": "20261106-equilibrate_es-largo-no-sacrifiques-tu-paz-por-amor-germancho/miniatura.jpg",
+    "miniatura_16x9": "20261106-equilibrate_es-largo-no-sacrifiques-tu-paz-por-amor-germancho/miniatura_16x9.jpg",
+    "guion": "20261106-equilibrate_es-largo-no-sacrifiques-tu-paz-por-amor-germancho/guion.json",
+    "ficha": "20261106-equilibrate_es-largo-no-sacrifiques-tu-paz-por-amor-germancho/ficha.json"
+   },
+   "video_en_repositorio": true,
+   "nota": "",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
   {
    "id": "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor",
    "perfil": "equilibrate_es",
