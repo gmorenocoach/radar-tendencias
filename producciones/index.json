@@ -1,6 +1,73 @@
 {
- "actualizado": "2026-11-06T11:56:34",
+ "actualizado": "2026-11-06T12:11:11",
  "producciones": [
+  {
+   "id": "20261106-equilibrate_es-recopilacion-4-verdades-para-soltar-sin-romperte",
+   "perfil": "equilibrate_es",
+   "canal": "Equilíbrate · Amor",
+   "formato": "recopilacion",
+   "fecha": "2026-11-06T12:11:11",
+   "titulo": "4 verdades para soltar sin romperte",
+   "titulos_alternativos": [],
+   "descripcion": "4 verdades para soltar sin romperte. Germancho reúne en un solo video 4 piezas para verlas seguidas.\n\nCapítulos:\n0:03 Cómo soltar a quien no te conviene | Desapego\n1:03 Dar por miedo a que se vayan no es amor: es una factura\n2:05 Cómo soltar a quien no te conviene | Psicología del amor\n3:13 Cuando el miedo a estar solo se disfraza de amor\n\n💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): \n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».\n\n#germancho #cafeconproposito",
+   "hashtags": [
+    "#germancho"
+   ],
+   "reto_de_hoy": "",
+   "duracion_s": 258.2,
+   "tamano_mb": 30.2,
+   "capitulos": [
+    {
+     "n": 1,
+     "titulo": "Cómo soltar a quien no te conviene | Desapego",
+     "inicio_s": 3.0,
+     "produccion_id": "20261105-equilibrate_es-como-soltar-a-quien-no-te-conviene-desapego"
+    },
+    {
+     "n": 2,
+     "titulo": "Dar por miedo a que se vayan no es amor: es una factura",
+     "inicio_s": 63.1,
+     "produccion_id": "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac"
+    },
+    {
+     "n": 3,
+     "titulo": "Cómo soltar a quien no te conviene | Psicología del amor",
+     "inicio_s": 125.0,
+     "produccion_id": "20261106-equilibrate_es-como-soltar-a-quien-no-te-conviene-psicologia-del-"
+    },
+    {
+     "n": 4,
+     "titulo": "Cuando el miedo a estar solo se disfraza de amor",
+     "inicio_s": 193.2,
+     "produccion_id": "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor"
+    }
+   ],
+   "fuente": {
+    "recopila": [
+     "20261105-equilibrate_es-como-soltar-a-quien-no-te-conviene-desapego",
+     "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac",
+     "20261106-equilibrate_es-como-soltar-a-quien-no-te-conviene-psicologia-del-",
+     "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor"
+    ]
+   },
+   "estado": "pendiente_aprobacion",
+   "video_en_repositorio": true,
+   "nota": "",
+   "archivos": {
+    "video": "20261106-equilibrate_es-recopilacion-4-verdades-para-soltar-sin-romperte/largo.mp4",
+    "miniatura": "20261106-equilibrate_es-recopilacion-4-verdades-para-soltar-sin-romperte/miniatura.jpg",
+    "miniatura_16x9": "20261106-equilibrate_es-recopilacion-4-verdades-para-soltar-sin-romperte/miniatura_16x9.jpg",
+    "guion": "",
+    "ficha": "",
+    "miniaturas": [
+     "20261106-equilibrate_es-recopilacion-4-verdades-para-soltar-sin-romperte/miniatura.jpg",
+     "20261106-equilibrate_es-recopilacion-4-verdades-para-soltar-sin-romperte/miniatura_16x9.jpg",
+     "20261106-equilibrate_es-recopilacion-4-verdades-para-soltar-sin-romperte/miniatura_16x9_rostro.jpg",
+     "20261106-equilibrate_es-recopilacion-4-verdades-para-soltar-sin-romperte/miniatura_16x9_rostro_b.jpg"
+    ]
+   },
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
   {
    "id": "20261106-equilibrate_es-largo-no-sacrifiques-tu-paz-por-amor-germancho",
    "perfil": "equilibrate_es",

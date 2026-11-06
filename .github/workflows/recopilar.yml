@@ -1,0 +1,67 @@
+name: Recopilación
+
+on:
+  workflow_dispatch:
+    inputs:
+      perfil:
+        description: "Perfil"
+        required: true
+        type: choice
+        options: [equilibrate_es, soyintegral_es, mitribu_es]
+      titulo:
+        description: "Título de la recopilación"
+        required: true
+      tipo:
+        description: "Tipo de piezas a unir (short | largo | vacío = todas)"
+        required: false
+        default: "short"
+      serie:
+        description: "Filtrar por nombre de serie (opcional)"
+        required: false
+        default: ""
+      ids:
+        description: "IDs de producciones separados por coma (opcional; manda sobre tipo/serie)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fabrica
+  cancel-in-progress: false
+
+jobs:
+  recopilar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
+          pip install -r requirements.txt
+      - run: |
+          ARGS="--perfil ${{ github.event.inputs.perfil }} --titulo \"${{ github.event.inputs.titulo }}\""
+          [ -n "${{ github.event.inputs.ids }}" ] && ARGS="$ARGS --ids ${{ github.event.inputs.ids }}"
+          [ -n "${{ github.event.inputs.tipo }}" ] && ARGS="$ARGS --tipo ${{ github.event.inputs.tipo }}"
+          [ -n "${{ github.event.inputs.serie }}" ] && ARGS="$ARGS --serie \"${{ github.event.inputs.serie }}\""
+          eval python -m fabrica.recopilar $ARGS
+      - uses: actions/upload-artifact@v4
+        with:
+          name: recopilacion-${{ github.run_id }}
+          path: |
+            producciones/*recopilacion*/largo.mp4
+            producciones/*recopilacion*/miniatura*.jpg
+            producciones/*recopilacion*/metadata.json
+          retention-days: 14
+      - run: |
+          git config user.name "fabrica-bot"; git config user.email "fabrica-bot@users.noreply.github.com"
+          find producciones -name "*.mp4" -size +90M -exec sh -c 'echo "$1" >> .git/info/exclude' _ {} \; || true
+          git add producciones/*/ && git reset -q producciones/index.json || true
+          git diff --cached --quiet || git commit -m "recopilación: ${{ github.event.inputs.titulo }}"
+          git checkout -- producciones/index.json || true
+          git pull --rebase --autostash origin main
+          python -m fabrica.indice && git add producciones/index.json && (git diff --cached --quiet || git commit -m "índice")
+          git push || (git pull --rebase --autostash origin main && git push)
