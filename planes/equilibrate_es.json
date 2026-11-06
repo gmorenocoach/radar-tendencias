@@ -621,10 +621,10 @@
    "subtema": "Dar de más como miedo disfrazado de generosidad: el agradador crónico y el miedo a que si no das, no te quieran. Cierre: si das tanto, ¿de dónde te estás sirviendo?",
    "referencia_video_id": "-PX8yO82xys",
    "minutos": 15,
-   "estado": "error",
-   "produccion_id": "",
-   "resultado": "error: TypeError: string indices must be integers, not 'str'",
-   "producido_en": "2026-11-06T11:30:35"
+   "estado": "producido",
+   "produccion_id": "20261106-equilibrate_es-largo-no-sacrifiques-tu-paz-por-amor-germancho",
+   "resultado": "ok 1156s",
+   "producido_en": "2026-11-06T11:56:34"
   },
   {
    "id": "equilibrate_es-20261106-S",
