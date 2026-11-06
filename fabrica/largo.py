@@ -259,7 +259,16 @@ def main():
         print(f"  Imágenes cap {cap['n']}: {len(cap['escenas'])}")
 
     m = est["miniatura"]
-    imagenes.miniatura(pngs[0], m["texto"], canal, m.get("emocion", "sorpresa"), str(d / "miniatura.jpg"))
+    textos = [m["texto"]] + [t for t in est.get("titulos_alternativos", []) if len(t.split()) <= 5][:1]
+    try:
+        imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos, str(d / "miniatura"), "16:9")
+        os.replace(str(d / "miniatura.jpg"), str(d / "miniatura_16x9.jpg"))
+        if os.path.exists(str(d / "miniatura_b.jpg")):
+            os.replace(str(d / "miniatura_b.jpg"), str(d / "miniatura_16x9_b.jpg"))
+        shutil.copy(str(d / "miniatura_16x9.jpg"), str(d / "miniatura.jpg"))
+    except Exception as e:
+        print(f"  ! miniatura pro falló ({e}); usando versión básica")
+        imagenes.miniatura(pngs[0], m["texto"], canal, m.get("emocion", "sorpresa"), str(d / "miniatura.jpg"))
     musica = next((str(x) for x in (ROOT / "assets/musica").glob("*.mp3")), None) if (ROOT / "assets/musica").exists() else None
     ass = ass_largo(palabras, textos, canal, str(d / "subtitulos.ass"))
     mp4 = ensamblar_largo(pngs, limites[: len(pngs)], mp3, ass, str(d / "largo.mp4"), str(d / "_tmp"), musica)

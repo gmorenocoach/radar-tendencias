@@ -62,8 +62,15 @@ def main():
 
     # 5. Miniatura (escena de la emoción pedida; si no, la primera)
     m = g["miniatura"]
-    base = next((png for e, png in zip(g["escenas"], pngs) if e["emocion"] == m.get("emocion")), pngs[0])
-    imagenes.miniatura(base, m["texto"], canal, m.get("emocion", "sorpresa"), str(d / "miniatura.jpg"))
+    textos = [m["texto"]] + [t for t in g.get("titulos_alternativos", []) if len(t.split()) <= 5][:1]
+    try:
+        imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos, str(d / "miniatura_16x9"), "16:9")
+        imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos[:1], str(d / "miniatura"), "9:16")
+        os.replace(str(d / "miniatura_9x16.jpg"), str(d / "miniatura.jpg"))
+    except Exception as e:
+        print(f"  ! miniatura pro falló ({e}); usando versión básica")
+        base = next((png for e_, png in zip(g["escenas"], pngs) if e_["emocion"] == m.get("emocion")), pngs[0])
+        imagenes.miniatura(base, m["texto"], canal, m.get("emocion", "sorpresa"), str(d / "miniatura.jpg"))
 
     # 6. Render
     ass = render.subtitulos_ass(palabras, canal, str(d / "subtitulos.ass"))
