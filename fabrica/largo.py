@@ -265,10 +265,7 @@ def main():
     m = est["miniatura"]
     textos_mini = [m["texto"]] + [t for t in est.get("titulos_alternativos", []) if len(t.split()) <= 5][:1]
     try:
-        imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos_mini, str(d / "miniatura"), "16:9")
-        os.replace(str(d / "miniatura.jpg"), str(d / "miniatura_16x9.jpg"))
-        if os.path.exists(str(d / "miniatura_b.jpg")):
-            os.replace(str(d / "miniatura_b.jpg"), str(d / "miniatura_16x9_b.jpg"))
+        imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos_mini, str(d / "miniatura_16x9"), "16:9")
         shutil.copy(str(d / "miniatura_16x9.jpg"), str(d / "miniatura.jpg"))
     except Exception as e:
         print(f"  ! miniatura pro falló ({e}); usando versión básica")
@@ -291,7 +288,8 @@ def main():
             "hashtags": est["hashtags"], "reto_de_hoy": est.get("reto_de_hoy", ""), "duracion_s": round(dur, 1), "tamano_mb": round(tam, 1),
             "capitulos": [{"n": c["n"], "titulo": c["titulo"], "inicio_s": c["inicio_s"], "ambiente": c["ambiente"]} for c in est["capitulos"]],
             "fuente": f["fuente"], "estado": "pendiente_aprobacion",
-            "archivos": {"video": f"{nombre}/largo.mp4", "miniatura": f"{nombre}/miniatura.jpg", "miniatura_16x9": f"{nombre}/miniatura_16x9.jpg", "guion": f"{nombre}/guion.json", "ficha": f"{nombre}/ficha.json"},
+            "archivos": {"video": f"{nombre}/largo.mp4", "miniatura": f"{nombre}/miniatura.jpg", "miniatura_16x9": f"{nombre}/miniatura_16x9.jpg", "guion": f"{nombre}/guion.json", "ficha": f"{nombre}/ficha.json",
+                         "miniaturas": [f"{nombre}/{x}" for x in sorted(os.listdir(d)) if x.startswith("miniatura") and x.endswith(".jpg")]},
             "video_en_repositorio": tam < 90, "nota": "" if tam < 90 else "El MP4 supera el límite de GitHub: descárgalo desde el artefacto del workflow (Actions → esta corrida → Artifacts).",
             "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."}
     guardar_json(d / "metadata.json", meta)

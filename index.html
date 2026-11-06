@@ -229,8 +229,7 @@ async function renderProducciones(){
       ${p.fuente&&p.fuente.url?`<div class="meta"><span>Referencia: <a href="${p.fuente.url}" target="_blank" rel="noopener">${esc(p.fuente.titulo||p.fuente.url)}</a></span></div>`:''}
       <div class="acts">
         <a href="producciones/${p.archivos.video}" download>Descargar MP4</a>
-        <a href="producciones/${p.archivos.miniatura}" download>Miniatura 9:16</a>
-        <a href="producciones/${p.archivos.miniatura_16x9}" download>Miniatura 16:9</a>
+        ${(p.archivos.miniaturas&&p.archivos.miniaturas.length?p.archivos.miniaturas:[p.archivos.miniatura,p.archivos.miniatura_16x9]).map(m=>`<a href="producciones/${m}" download title="${m.split('/').pop()}">🖼 ${m.split('/').pop().replace('miniatura','mini').replace('.jpg','')}</a>`).join('')}
         <button data-copy="${esc(p.titulo)}">Copiar título</button>
         <button data-copy="${esc(p.descripcion)}">Copiar descripción</button>
         <a href="producciones/${p.archivos.guion}" target="_blank">Guion</a>

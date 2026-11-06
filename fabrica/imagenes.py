@@ -126,24 +126,42 @@ def _rasgado(dr, W, H):
     dr.polygon(pts, fill="#2B2420")
 
 
-def miniatura_pro(canal, emocion, objeto, textos, out_base, aspecto="16:9"):
-    """Miniatura final: imagen dedicada + mancha pastel + texto manuscrito (una palabra en color del canal) + esquina rasgada. Una salida por texto (variantes A/B)."""
+def _recortar_personaje(per):
+    px = per.convert("RGBA"); datos = [(r, g, b, 0) if r > 232 and g > 226 and b > 214 else (r, g, b, 255) for r, g, b, a in px.getdata()]; px.putdata(datos)
+    return px
+
+
+def miniatura_pro(canal, emocion, objeto, textos, out_base, aspecto="16:9", estilos=("clara", "oscura")):
+    """Miniatura final a partir de una imagen dedicada de Germancho. Estilos:
+       clara  → fondo blanco hueso, mancha pastel, texto negro con una palabra en color del canal (identidad del libro)
+       oscura → fondo negro, texto amarillo, el buzo del canal como único color fuerte (códigos de alto CTR del nicho)
+       Salidas: <out_base>.jpg (clara, texto 1), <out_base>_b.jpg (clara, texto 2), <out_base>_oscura.jpg, <out_base>_oscura_b.jpg."""
     W, H = (1280, 720) if aspecto == "16:9" else (1080, 1920)
     _, hexc = CANAL_COLOR[canal]
     base_png = out_base + f"_base_{aspecto.replace(':', 'x')}.png"
     imagen_miniatura(canal, emocion, objeto, base_png, aspecto)
     per = Image.open(base_png).convert("RGB").resize((W, H))
+    px = _recortar_personaje(per)
     salidas = []
-    for i, texto in enumerate([t for t in textos if t][:2]):
-        im = Image.new("RGB", (W, H), "#F7F3EA")
-        mancha = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-        if aspecto == "16:9":
-            ImageDraw.Draw(mancha).ellipse((W * 0.42, -H * 0.1, W * 1.05, H * 0.95), fill=EMOCION_COLOR.get(emocion, "#E8E2D6") + "66")
+    combos = [(estilo, i, texto) for estilo in estilos for i, texto in enumerate([t for t in textos if t][:2])]
+    for estilo, i, texto in combos:
+        oscuro = estilo == "oscura"
+        im = Image.new("RGB", (W, H), "#101010" if oscuro else "#F7F3EA")
+        if oscuro:
+            # ventana crema detrás del personaje (el trazo negro necesita fondo claro) con borde del color del canal
+            dr0 = ImageDraw.Draw(im)
+            if aspecto == "16:9":
+                caja = (W * 0.47, -H * 0.08, W * 1.04, H * 1.08)
+            else:
+                caja = (-W * 0.06, H * 0.36, W * 1.06, H * 1.08)
+            dr0.ellipse(caja, fill="#F7F3EA", outline=hexc, width=14)
         else:
-            ImageDraw.Draw(mancha).ellipse((-W * 0.1, H * 0.38, W * 1.1, H * 1.02), fill=EMOCION_COLOR.get(emocion, "#E8E2D6") + "66")
-        im.paste(mancha, (0, 0), mancha)
-        # personaje con fondo blanco → transparente
-        px = per.convert("RGBA"); datos = [(r, g, b, 0) if r > 232 and g > 226 and b > 214 else (r, g, b, 255) for r, g, b, a in px.getdata()]; px.putdata(datos)
+            mancha = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+            if aspecto == "16:9":
+                ImageDraw.Draw(mancha).ellipse((W * 0.42, -H * 0.1, W * 1.05, H * 0.95), fill=EMOCION_COLOR.get(emocion, "#E8E2D6") + "66")
+            else:
+                ImageDraw.Draw(mancha).ellipse((-W * 0.1, H * 0.38, W * 1.1, H * 1.02), fill=EMOCION_COLOR.get(emocion, "#E8E2D6") + "66")
+            im.paste(mancha, (0, 0), mancha)
         im.paste(px, (0, 0), px)
         dr = ImageDraw.Draw(im)
         palabras = texto.upper().split()[:4]
@@ -166,13 +184,22 @@ def miniatura_pro(canal, emocion, objeto, textos, out_base, aspecto="16:9"):
         for linea in lineas:
             x = x0
             for w in linea.split(" "):
-                col = hexc if w == destacada else "#1b1410"
-                dr.text((x + 6, y + 6), w, font=f, fill="#F7F3EA")  # halo
-                dr.text((x, y), w, font=f, fill=col, stroke_width=3, stroke_fill="#F7F3EA")
+                if oscuro:
+                    col = "#FFD400" if w == destacada else "#FFFFFF"
+                    dr.text((x + 5, y + 5), w, font=f, fill="#000000")
+                    dr.text((x, y), w, font=f, fill=col, stroke_width=4, stroke_fill="#000000")
+                else:
+                    col = hexc if w == destacada else "#1b1410"
+                    dr.text((x + 6, y + 6), w, font=f, fill="#F7F3EA")
+                    dr.text((x, y), w, font=f, fill=col, stroke_width=3, stroke_fill="#F7F3EA")
                 x += dr.textlength(w + " ", font=f)
             y += int(size * 1.08)
-        _rasgado(dr, W, H)
-        out = out_base + ("" if i == 0 else "_b") + (".jpg" if aspecto == "16:9" else "_9x16.jpg")
+        if not oscuro:
+            _rasgado(dr, W, H)
+        else:
+            ImageDraw.Draw(im).polygon([(W, H - int(H * 0.16)), (W - int(W * 0.06), H - int(H * 0.1)), (W - int(W * 0.03), H - int(H * 0.04)), (W - int(W * 0.08), H), (W, H)], fill=hexc)
+        sufijo = ("" if i == 0 else "_b") if not oscuro else ("_oscura" if i == 0 else "_oscura_b")
+        out = out_base + sufijo + (".jpg" if aspecto == "16:9" else "_9x16.jpg")
         im.save(out, quality=92); salidas.append(out)
     return salidas
 
