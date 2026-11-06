@@ -259,9 +259,9 @@ def main():
         print(f"  Imágenes cap {cap['n']}: {len(cap['escenas'])}")
 
     m = est["miniatura"]
-    textos = [m["texto"]] + [t for t in est.get("titulos_alternativos", []) if len(t.split()) <= 5][:1]
+    textos_mini = [m["texto"]] + [t for t in est.get("titulos_alternativos", []) if len(t.split()) <= 5][:1]
     try:
-        imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos, str(d / "miniatura"), "16:9")
+        imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos_mini, str(d / "miniatura"), "16:9")
         os.replace(str(d / "miniatura.jpg"), str(d / "miniatura_16x9.jpg"))
         if os.path.exists(str(d / "miniatura_b.jpg")):
             os.replace(str(d / "miniatura_b.jpg"), str(d / "miniatura_16x9_b.jpg"))
