@@ -1,0 +1,146 @@
+{
+ "perfil": "mercado_coaching_es",
+ "n": 30,
+ "promedio": {
+  "brillo": 97,
+  "pct_oscuro": 40,
+  "pct_amarillo": 2,
+  "pct_piel": 16,
+  "pct_saturado": 12
+ },
+ "promedio_top10": {
+  "brillo": 88,
+  "pct_oscuro": 38,
+  "pct_amarillo": 3,
+  "pct_piel": 12,
+  "pct_saturado": 21
+ },
+ "lectura": {
+  "pct_miniaturas_oscuras": 67,
+  "pct_con_rostro_probable": 80,
+  "pct_con_amarillo": 37
+ },
+ "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
+ "ejemplos": [
+  {
+   "video_id": "xWWmL1f4sWo",
+   "titulo": "Las decisiones que definen a un líder: por qué la cultura vale más que los resultados.",
+   "vistas": 134897,
+   "ratio": 12.0,
+   "miniatura": "https://i.ytimg.com/vi/xWWmL1f4sWo/maxresdefault.jpg",
+   "brillo": 98,
+   "pct_oscuro": 28,
+   "pct_amarillo": 6,
+   "pct_piel": 37,
+   "pct_saturado": 11
+  },
+  {
+   "video_id": "8zrcmbzMelk",
+   "titulo": "Perdí Todo Antes de Encontrar mi Propósito | @RODRIGOMACIASG",
+   "vistas": 133052,
+   "ratio": 0.6,
+   "miniatura": "https://i.ytimg.com/vi/8zrcmbzMelk/maxresdefault.jpg",
+   "brillo": 84,
+   "pct_oscuro": 53,
+   "pct_amarillo": 3,
+   "pct_piel": 22,
+   "pct_saturado": 7
+  },
+  {
+   "video_id": "O-5kuqhw1L8",
+   "titulo": "EL PODER DE LA CONSTANCIA: Cómo Seguir Adelante Hasta Ver Resultado | Audiolibro completo",
+   "vistas": 64212,
+   "ratio": 5.7,
+   "miniatura": "https://i.ytimg.com/vi/O-5kuqhw1L8/maxresdefault.jpg",
+   "brillo": 96,
+   "pct_oscuro": 45,
+   "pct_amarillo": 3,
+   "pct_piel": 12,
+   "pct_saturado": 16
+  },
+  {
+   "video_id": "knw0-eXDYiQ",
+   "titulo": "🛒 LA SEÑORA DE COSTCO | De Mamá en PANDEMIA a Crear una Empresa SIN MOSTRAR su Rostro",
+   "vistas": 53069,
+   "ratio": 15.1,
+   "miniatura": "https://i.ytimg.com/vi/knw0-eXDYiQ/maxresdefault.jpg",
+   "brillo": 76,
+   "pct_oscuro": 37,
+   "pct_amarillo": 4,
+   "pct_piel": 0,
+   "pct_saturado": 45
+  },
+  {
+   "video_id": "BYxTSGaoVDY",
+   "titulo": "🥇 DE 5K A 100K/MES: Cómo Escalar tu Negocio de Coaching Online (Masterclass Llados)",
+   "vistas": 47754,
+   "ratio": 0.1,
+   "miniatura": "https://i.ytimg.com/vi/BYxTSGaoVDY/maxresdefault.jpg",
+   "brillo": 55,
+   "pct_oscuro": 67,
+   "pct_amarillo": 0,
+   "pct_piel": 10,
+   "pct_saturado": 14
+  },
+  {
+   "video_id": "-bIPINgN8-A",
+   "titulo": "🔴 VALENTINA FERRER | Dinero, Inversiones y su MENTALIDAD en los NEGOCIOS",
+   "vistas": 34863,
+   "ratio": 9.9,
+   "miniatura": "https://i.ytimg.com/vi/-bIPINgN8-A/maxresdefault.jpg",
+   "brillo": 96,
+   "pct_oscuro": 23,
+   "pct_amarillo": 5,
+   "pct_piel": 1,
+   "pct_saturado": 48
+  },
+  {
+   "video_id": "CcLIEOO23zo",
+   "titulo": "🔴 \"El Algoritmo Quiere que las MUJERES Vuelvan al Pasado\" | LA CHÁVEZ",
+   "vistas": 21757,
+   "ratio": 6.2,
+   "miniatura": "https://i.ytimg.com/vi/CcLIEOO23zo/maxresdefault.jpg",
+   "brillo": 78,
+   "pct_oscuro": 31,
+   "pct_amarillo": 10,
+   "pct_piel": 0,
+   "pct_saturado": 56
+  },
+  {
+   "video_id": "vFZyTnX4BTQ",
+   "titulo": "ASMR | ¿Amor o trauma? Por qué nos atrae quien nos destruye",
+   "vistas": 18546,
+   "ratio": 6.2,
+   "miniatura": "https://i.ytimg.com/vi/vFZyTnX4BTQ/maxresdefault.jpg",
+   "brillo": 119,
+   "pct_oscuro": 22,
+   "pct_amarillo": 0,
+   "pct_piel": 30,
+   "pct_saturado": 0
+  },
+  {
+   "video_id": "mK9yvpPV1Qs",
+   "titulo": "Yussel Flores | Starbucks: Cultura, liderazgo y los nuevos desafíos de RR. HH.",
+   "vistas": 14062,
+   "ratio": 0.1,
+   "miniatura": "https://i.ytimg.com/vi/mK9yvpPV1Qs/maxresdefault.jpg",
+   "brillo": 94,
+   "pct_oscuro": 30,
+   "pct_amarillo": 0,
+   "pct_piel": 6,
+   "pct_saturado": 0
+  },
+  {
+   "video_id": "pBj0Z5A8RZU",
+   "titulo": "¡DESCUBRE EL PROPÓSITO DE TU VIDA Y ENCUENTRA EL VERDADERO SENTIDO! | JOEL FLORES",
+   "vistas": 12584,
+   "ratio": 8.6,
+   "miniatura": "https://i.ytimg.com/vi/pBj0Z5A8RZU/sddefault.jpg",
+   "brillo": 82,
+   "pct_oscuro": 40,
+   "pct_amarillo": 0,
+   "pct_piel": 2,
+   "pct_saturado": 9
+  }
+ ]
+}

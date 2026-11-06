@@ -1,0 +1,146 @@
+{
+ "perfil": "equilibrate_en",
+ "n": 30,
+ "promedio": {
+  "brillo": 114,
+  "pct_oscuro": 35,
+  "pct_amarillo": 1,
+  "pct_piel": 27,
+  "pct_saturado": 5
+ },
+ "promedio_top10": {
+  "brillo": 121,
+  "pct_oscuro": 32,
+  "pct_amarillo": 0,
+  "pct_piel": 33,
+  "pct_saturado": 1
+ },
+ "lectura": {
+  "pct_miniaturas_oscuras": 53,
+  "pct_con_rostro_probable": 83,
+  "pct_con_amarillo": 20
+ },
+ "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
+ "ejemplos": [
+  {
+   "video_id": "jnifG4paFiA",
+   "titulo": "HD FULL💔She Chased Her Campus Crush for Years—Then Rewound Time and Let Him Go🔥CEO🔥ENGSUB",
+   "vistas": 456147,
+   "ratio": 253.4,
+   "miniatura": "https://i.ytimg.com/vi/jnifG4paFiA/maxresdefault.jpg",
+   "brillo": 105,
+   "pct_oscuro": 38,
+   "pct_amarillo": 4,
+   "pct_piel": 23,
+   "pct_saturado": 6
+  },
+  {
+   "video_id": "K4oITS5wxP8",
+   "titulo": "She Could Hear Babies’ Thoughts—Then Her Own Baby Revealed Its Billionaire Dad | Full | Eng Dub",
+   "vistas": 357899,
+   "ratio": 25.0,
+   "miniatura": "https://i.ytimg.com/vi/K4oITS5wxP8/maxresdefault.jpg",
+   "brillo": 156,
+   "pct_oscuro": 20,
+   "pct_amarillo": 0,
+   "pct_piel": 30,
+   "pct_saturado": 0
+  },
+  {
+   "video_id": "0-XITQClaNI",
+   "titulo": "She Was Forced to Marry a Disabled Heir—Neither Knew They Were Childhood Loves | Full | Eng Dub",
+   "vistas": 336221,
+   "ratio": 23.5,
+   "miniatura": "https://i.ytimg.com/vi/0-XITQClaNI/maxresdefault.jpg",
+   "brillo": 160,
+   "pct_oscuro": 7,
+   "pct_amarillo": 0,
+   "pct_piel": 49,
+   "pct_saturado": 1
+  },
+  {
+   "video_id": "BVd8cyNv8ps",
+   "titulo": "She Asked for a Divorce—Then Her Husband Learned She Was the Star He’d Been Chasing | Full | Eng Dub",
+   "vistas": 310884,
+   "ratio": 21.7,
+   "miniatura": "https://i.ytimg.com/vi/BVd8cyNv8ps/maxresdefault.jpg",
+   "brillo": 165,
+   "pct_oscuro": 10,
+   "pct_amarillo": 0,
+   "pct_piel": 43,
+   "pct_saturado": 0
+  },
+  {
+   "video_id": "jqUl-fg8bG8",
+   "titulo": "He hated her for restoring his memories.Reborn,she let go completely and left marry cold-facedCEO!",
+   "vistas": 298830,
+   "ratio": 100.3,
+   "miniatura": "https://i.ytimg.com/vi/jqUl-fg8bG8/maxresdefault.jpg",
+   "brillo": 144,
+   "pct_oscuro": 17,
+   "pct_amarillo": 0,
+   "pct_piel": 45,
+   "pct_saturado": 1
+  },
+  {
+   "video_id": "DJHWRR_TbI4",
+   "titulo": "He Warned Everyone Not to Bully His “Fragile” Wife—Then She Took Down Ten Men With One Punch!",
+   "vistas": 227369,
+   "ratio": 15.9,
+   "miniatura": "https://i.ytimg.com/vi/DJHWRR_TbI4/maxresdefault.jpg",
+   "brillo": 137,
+   "pct_oscuro": 18,
+   "pct_amarillo": 0,
+   "pct_piel": 44,
+   "pct_saturado": 0
+  },
+  {
+   "video_id": "VGyGqWOEAnI",
+   "titulo": "【FULL】He Chose His Mistress Over His Wife—Reborn, She Walked Away and a Billionaire Fell for Her🔥",
+   "vistas": 226050,
+   "ratio": 86.9,
+   "miniatura": "https://i.ytimg.com/vi/VGyGqWOEAnI/maxresdefault.jpg",
+   "brillo": 125,
+   "pct_oscuro": 27,
+   "pct_amarillo": 0,
+   "pct_piel": 41,
+   "pct_saturado": 2
+  },
+  {
+   "video_id": "Rzv6O8jgJDE",
+   "titulo": "Reborn on two day of marriage, she shocked her cold CEO husband by asking to have his baby!",
+   "vistas": 201127,
+   "ratio": 110.5,
+   "miniatura": "https://i.ytimg.com/vi/Rzv6O8jgJDE/maxresdefault.jpg",
+   "brillo": 81,
+   "pct_oscuro": 46,
+   "pct_amarillo": 0,
+   "pct_piel": 47,
+   "pct_saturado": 1
+  },
+  {
+   "video_id": "lEPxKVzK1zM",
+   "titulo": "HOW TO RESET YOUR HEART | PHILIP ANTHONY MITCHELL (2819 CHURCH) ❤️🔥",
+   "vistas": 158568,
+   "ratio": 46.0,
+   "miniatura": "https://i.ytimg.com/vi/lEPxKVzK1zM/maxresdefault.jpg",
+   "brillo": 67,
+   "pct_oscuro": 67,
+   "pct_amarillo": 0,
+   "pct_piel": 6,
+   "pct_saturado": 0
+  },
+  {
+   "video_id": "QgZRN2BwP1o",
+   "titulo": "🙏 STOP STRESSING — GOD CHOSE YOU FOR THIS, LET HIM WORK! | PHILIP ANTHONY MITCHELL 🔥",
+   "vistas": 144302,
+   "ratio": 41.8,
+   "miniatura": "https://i.ytimg.com/vi/QgZRN2BwP1o/maxresdefault.jpg",
+   "brillo": 67,
+   "pct_oscuro": 68,
+   "pct_amarillo": 0,
+   "pct_piel": 6,
+   "pct_saturado": 0
+  }
+ ]
+}

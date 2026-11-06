@@ -1,0 +1,146 @@
+{
+ "perfil": "soyintegral_en",
+ "n": 25,
+ "promedio": {
+  "brillo": 105,
+  "pct_oscuro": 37,
+  "pct_amarillo": 6,
+  "pct_piel": 15,
+  "pct_saturado": 16
+ },
+ "promedio_top10": {
+  "brillo": 135,
+  "pct_oscuro": 18,
+  "pct_amarillo": 8,
+  "pct_piel": 19,
+  "pct_saturado": 23
+ },
+ "lectura": {
+  "pct_miniaturas_oscuras": 48,
+  "pct_con_rostro_probable": 72,
+  "pct_con_amarillo": 64
+ },
+ "recomendacion": "Mixto: probar clara y oscura con 'Prueba y compara'",
+ "ejemplos": [
+  {
+   "video_id": "aZd96eAusAw",
+   "titulo": "30 Minute High Intensity Dance Cardio (No Equipment Needed!)",
+   "vistas": 2061190,
+   "ratio": 47.4,
+   "miniatura": "https://i.ytimg.com/vi/aZd96eAusAw/maxresdefault.jpg",
+   "brillo": 164,
+   "pct_oscuro": 11,
+   "pct_amarillo": 12,
+   "pct_piel": 12,
+   "pct_saturado": 13
+  },
+  {
+   "video_id": "wdmwAhLL-OQ",
+   "titulo": "7 Things That REALLY Happen to Your Body Inside a Cremation Chamber in the UK",
+   "vistas": 688451,
+   "ratio": 231.8,
+   "miniatura": "https://i.ytimg.com/vi/wdmwAhLL-OQ/maxresdefault.jpg",
+   "brillo": 90,
+   "pct_oscuro": 40,
+   "pct_amarillo": 8,
+   "pct_piel": 34,
+   "pct_saturado": 12
+  },
+  {
+   "video_id": "vmc6JmjAS1o",
+   "titulo": "What Happens to Your Body If You Never Shower Again?",
+   "vistas": 501850,
+   "ratio": 149.4,
+   "miniatura": "https://i.ytimg.com/vi/vmc6JmjAS1o/maxresdefault.jpg",
+   "brillo": 187,
+   "pct_oscuro": 5,
+   "pct_amarillo": 5,
+   "pct_piel": 3,
+   "pct_saturado": 13
+  },
+  {
+   "video_id": "16RS5AAOzc4",
+   "titulo": "Flat Belly in 24 Min a Day, No Equipment, No Jump Routine!",
+   "vistas": 464259,
+   "ratio": 10.7,
+   "miniatura": "https://i.ytimg.com/vi/16RS5AAOzc4/maxresdefault.jpg",
+   "brillo": 144,
+   "pct_oscuro": 13,
+   "pct_amarillo": 9,
+   "pct_piel": 37,
+   "pct_saturado": 15
+  },
+  {
+   "video_id": "hwQbkSv5krw",
+   "titulo": "15 Night Foods You Should Eat Before Sleeping!",
+   "vistas": 276298,
+   "ratio": 18.4,
+   "miniatura": "https://i.ytimg.com/vi/hwQbkSv5krw/maxresdefault.jpg",
+   "brillo": 135,
+   "pct_oscuro": 23,
+   "pct_amarillo": 0,
+   "pct_piel": 18,
+   "pct_saturado": 10
+  },
+  {
+   "video_id": "13KG72HVvxM",
+   "titulo": "What If You Only Ate Meat For 365 Days?",
+   "vistas": 265139,
+   "ratio": 71.9,
+   "miniatura": "https://i.ytimg.com/vi/13KG72HVvxM/maxresdefault.jpg",
+   "brillo": 115,
+   "pct_oscuro": 14,
+   "pct_amarillo": 11,
+   "pct_piel": 17,
+   "pct_saturado": 43
+  },
+  {
+   "video_id": "C66TyEMiuvo",
+   "titulo": "What Happens To Your Body If You Only Drink Soda?",
+   "vistas": 202661,
+   "ratio": 54.9,
+   "miniatura": "https://i.ytimg.com/vi/C66TyEMiuvo/maxresdefault.jpg",
+   "brillo": 133,
+   "pct_oscuro": 9,
+   "pct_amarillo": 4,
+   "pct_piel": 12,
+   "pct_saturado": 45
+  },
+  {
+   "video_id": "GHIOOJeCsKE",
+   "titulo": "What If You Didn't Eat For 365 Days?",
+   "vistas": 186160,
+   "ratio": 50.4,
+   "miniatura": "https://i.ytimg.com/vi/GHIOOJeCsKE/maxresdefault.jpg",
+   "brillo": 135,
+   "pct_oscuro": 11,
+   "pct_amarillo": 13,
+   "pct_piel": 15,
+   "pct_saturado": 22
+  },
+  {
+   "video_id": "NjqmumidThs",
+   "titulo": "21 High Protein Foods to Build Muscle Faster!",
+   "vistas": 167642,
+   "ratio": 11.2,
+   "miniatura": "https://i.ytimg.com/vi/NjqmumidThs/maxresdefault.jpg",
+   "brillo": 151,
+   "pct_oscuro": 7,
+   "pct_amarillo": 21,
+   "pct_piel": 26,
+   "pct_saturado": 44
+  },
+  {
+   "video_id": "M8h3gYIkFaU",
+   "titulo": "5 Things You Should NEVER Do on Wegovy, Ozempic & Zepbound",
+   "vistas": 163969,
+   "ratio": 10.6,
+   "miniatura": "https://i.ytimg.com/vi/M8h3gYIkFaU/maxresdefault.jpg",
+   "brillo": 100,
+   "pct_oscuro": 45,
+   "pct_amarillo": 0,
+   "pct_piel": 14,
+   "pct_saturado": 10
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "perfil": "equilibrate_es",
+ "n": 30,
+ "promedio": {
+  "brillo": 81,
+  "pct_oscuro": 50,
+  "pct_amarillo": 4,
+  "pct_piel": 19,
+  "pct_saturado": 14
+ },
+ "promedio_top10": {
+  "brillo": 86,
+  "pct_oscuro": 43,
+  "pct_amarillo": 7,
+  "pct_piel": 21,
+  "pct_saturado": 16
+ },
+ "lectura": {
+  "pct_miniaturas_oscuras": 90,
+  "pct_con_rostro_probable": 90,
+  "pct_con_amarillo": 50
+ },
+ "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
+ "ejemplos": [
+  {
+   "video_id": "qsxbh95gED0",
+   "titulo": "Un Amor Equivocado | Película Completa en Español | CINE MAXIMO Drama | Natalie Portman",
+   "vistas": 3108432,
+   "ratio": 76.9,
+   "miniatura": "https://i.ytimg.com/vi/qsxbh95gED0/maxresdefault.jpg",
+   "brillo": 114,
+   "pct_oscuro": 24,
+   "pct_amarillo": 1,
+   "pct_piel": 39,
+   "pct_saturado": 9
+  },
+  {
+   "video_id": "skxW5zu9Z-Q",
+   "titulo": "BASADO EN HECHOS REALES: UN AMOR CONTRA TODO PRONÓSTICO",
+   "vistas": 495954,
+   "ratio": 26.4,
+   "miniatura": "https://i.ytimg.com/vi/skxW5zu9Z-Q/maxresdefault.jpg",
+   "brillo": 67,
+   "pct_oscuro": 44,
+   "pct_amarillo": 0,
+   "pct_piel": 47,
+   "pct_saturado": 0
+  },
+  {
+   "video_id": "UKV5-h3DsDw",
+   "titulo": "La FILOSOFÍA del AMOR PROPIO que TRANSFORMA la VIDA de una MUJER 🧠 | Brian Tracy",
+   "vistas": 373174,
+   "ratio": 20.5,
+   "miniatura": "https://i.ytimg.com/vi/UKV5-h3DsDw/maxresdefault.jpg",
+   "brillo": 74,
+   "pct_oscuro": 55,
+   "pct_amarillo": 2,
+   "pct_piel": 4,
+   "pct_saturado": 6
+  },
+  {
+   "video_id": "xt6CGKDkLpM",
+   "titulo": "El arte de amar sin perderte | Nilda Chiaraviglio",
+   "vistas": 162740,
+   "ratio": 19.6,
+   "miniatura": "https://i.ytimg.com/vi/xt6CGKDkLpM/maxresdefault.jpg",
+   "brillo": 82,
+   "pct_oscuro": 46,
+   "pct_amarillo": 11,
+   "pct_piel": 11,
+   "pct_saturado": 23
+  },
+  {
+   "video_id": "JJ4VYVYzxHw",
+   "titulo": "SI AMBOS DEJAN DE CONTACTARSE, ESTO TERMINARÁ PASANDO | Gabriel Rolon",
+   "vistas": 132956,
+   "ratio": 94.3,
+   "miniatura": "https://i.ytimg.com/vi/JJ4VYVYzxHw/maxresdefault.jpg",
+   "brillo": 93,
+   "pct_oscuro": 46,
+   "pct_amarillo": 11,
+   "pct_piel": 17,
+   "pct_saturado": 18
+  },
+  {
+   "video_id": "9Mx_EO1QWTU",
+   "titulo": "La paz comienza cuando decides sanar | Nilda Chiaraviglio",
+   "vistas": 123312,
+   "ratio": 14.9,
+   "miniatura": "https://i.ytimg.com/vi/9Mx_EO1QWTU/maxresdefault.jpg",
+   "brillo": 84,
+   "pct_oscuro": 43,
+   "pct_amarillo": 13,
+   "pct_piel": 12,
+   "pct_saturado": 24
+  },
+  {
+   "video_id": "zxVwWEpeIhk",
+   "titulo": "Decisiones en tu vida que pueden cambiarlo todo | Nilda Chiaraviglio",
+   "vistas": 107646,
+   "ratio": 13.0,
+   "miniatura": "https://i.ytimg.com/vi/zxVwWEpeIhk/maxresdefault.jpg",
+   "brillo": 83,
+   "pct_oscuro": 46,
+   "pct_amarillo": 6,
+   "pct_piel": 11,
+   "pct_saturado": 18
+  },
+  {
+   "video_id": "cIB92GESyrE",
+   "titulo": "Tu libertad comienza cuando decides elegirte | Nilda Chiaraviglio",
+   "vistas": 97969,
+   "ratio": 11.8,
+   "miniatura": "https://i.ytimg.com/vi/cIB92GESyrE/maxresdefault.jpg",
+   "brillo": 80,
+   "pct_oscuro": 46,
+   "pct_amarillo": 8,
+   "pct_piel": 11,
+   "pct_saturado": 21
+  },
+  {
+   "video_id": "ywWeAqdyygY",
+   "titulo": "¡Chihuahua 2! | Un alma busca un hogar eterno! | Peliculas Familiar En Espanol Latino",
+   "vistas": 97784,
+   "ratio": 27.7,
+   "miniatura": "https://i.ytimg.com/vi/ywWeAqdyygY/maxresdefault.jpg",
+   "brillo": 89,
+   "pct_oscuro": 37,
+   "pct_amarillo": 4,
+   "pct_piel": 46,
+   "pct_saturado": 14
+  },
+  {
+   "video_id": "yiBB-3_Fmx8",
+   "titulo": "Construye la relación que deseas | Nilda Chiaraviglio",
+   "vistas": 95612,
+   "ratio": 11.5,
+   "miniatura": "https://i.ytimg.com/vi/yiBB-3_Fmx8/maxresdefault.jpg",
+   "brillo": 89,
+   "pct_oscuro": 42,
+   "pct_amarillo": 13,
+   "pct_piel": 11,
+   "pct_saturado": 24
+  }
+ ]
+}

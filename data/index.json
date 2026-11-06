@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T15:57:26Z",
+ "actualizado": "2026-11-06T16:40:54Z",
  "perfiles": [
   {
    "id": "equilibrate_en",
@@ -17,9 +17,9 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-06T15:57:26Z",
-   "videos": 61,
-   "canales": 22
+   "generado": "2026-11-06T16:40:54Z",
+   "videos": 54,
+   "canales": 20
   },
   {
    "id": "mercado_coaching_es",
@@ -67,10 +67,10 @@
    "nicho": "Salud (Soy Integral)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-06T15:57:26Z",
+   "generado": "2026-11-06T16:40:54Z",
    "videos": 43,
    "canales": 15
   }
  ],
- "cuota_usada_hoy": 7388
+ "cuota_usada_hoy": 2043
 }
