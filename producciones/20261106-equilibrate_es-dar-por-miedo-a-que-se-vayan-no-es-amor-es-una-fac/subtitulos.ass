@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.82,Sub,,0,0,0,,{\k46}DAR {\k23}PARA {\k13}QUE
+Dialogue: 0,0:00:00.82,0:00:01.83,Sub,,0,0,0,,{\k31}NADIE {\k15}SE {\k55}VAYA
+Dialogue: 0,0:00:01.83,0:00:03.04,Sub,,0,0,0,,{\k28}NO {\k16}ES {\k77}AMOR.
+Dialogue: 0,0:00:03.04,0:00:04.41,Sub,,0,0,0,,{\k22}ES {\k17}UNA {\k98}FACTURA.
+Dialogue: 0,0:00:04.41,0:00:05.06,Sub,,0,0,0,,{\k20}Y {\k35}ALGUIEN {\k11}LA
+Dialogue: 0,0:00:05.06,0:00:06.19,Sub,,0,0,0,,{\k13}VA {\k8}A {\k92}COBRAR.
+Dialogue: 0,0:00:06.19,0:00:07.11,Sub,,0,0,0,,{\k21}SI {\k43}ALGUNA {\k28}VEZ
+Dialogue: 0,0:00:07.11,0:00:08.08,Sub,,0,0,0,,{\k16}LO {\k37}DISTE {\k44}TODO
+Dialogue: 0,0:00:08.08,0:00:08.65,Sub,,0,0,0,,{\k13}Y {\k22}AUN {\k22}ASÍ
+Dialogue: 0,0:00:08.65,0:00:09.42,Sub,,0,0,0,,{\k53}SENTISTE {\k12}QUE {\k12}NO
+Dialogue: 0,0:00:09.42,0:00:11.18,Sub,,0,0,0,,{\k78}ALCANZABA, {\k72}QUÉDATE: {\k27}SON
+Dialogue: 0,0:00:11.18,0:00:13.04,Sub,,0,0,0,,{\k96}TRES. {\k74}PRIMERA: {\k15}LA
+Dialogue: 0,0:00:13.04,0:00:14.96,Sub,,0,0,0,,{\k48}FACTURA {\k17}DEL {\k128}RESENTIMIENTO.
+Dialogue: 0,0:00:14.96,0:00:15.72,Sub,,0,0,0,,{\k30}HOY {\k26}DAS {\k20}CON
+Dialogue: 0,0:00:15.72,0:00:17.31,Sub,,0,0,0,,{\k17}UNA {\k96}SONRISA; {\k45}MAÑANA
+Dialogue: 0,0:00:17.31,0:00:18.07,Sub,,0,0,0,,{\k14}TE {\k38}SIENTES {\k23}SIN
+Dialogue: 0,0:00:18.07,0:00:18.95,Sub,,0,0,0,,{\k51}NADA {\k20}Y {\k17}LO
+Dialogue: 0,0:00:18.95,0:00:20.70,Sub,,0,0,0,,{\k50}RECLAMAS {\k19}SIN {\k107}DECIRLO.
+Dialogue: 0,0:00:20.70,0:00:22.54,Sub,,0,0,0,,{\k108}SEGUNDA: {\k19}LA {\k57}FACTURA
+Dialogue: 0,0:00:22.54,0:00:23.89,Sub,,0,0,0,,{\k11}DE {\k12}LA {\k114}CULPA.
+Dialogue: 0,0:00:23.89,0:00:24.91,Sub,,0,0,0,,{\k24}EL {\k31}OTRO {\k46}SIENTE
+Dialogue: 0,0:00:24.91,0:00:25.79,Sub,,0,0,0,,{\k14}QUE {\k15}TE {\k58}DEBE,
+Dialogue: 0,0:00:25.79,0:00:26.41,Sub,,0,0,0,,{\k25}Y {\k21}O {\k16}SE
+Dialogue: 0,0:00:26.41,0:00:27.38,Sub,,0,0,0,,{\k61}ALEJA, {\k20}O {\k15}SE
+Dialogue: 0,0:00:27.38,0:00:28.21,Sub,,0,0,0,,{\k31}QUEDA {\k35}SOLO {\k17}POR
+Dialogue: 0,0:00:28.21,0:00:30.78,Sub,,0,0,0,,{\k127}OBLIGACIÓN. {\k110}TERCERA: {\k20}LA
+Dialogue: 0,0:00:30.78,0:00:31.77,Sub,,0,0,0,,{\k56}FACTURA {\k15}DE {\k28}QUIÉN
+Dialogue: 0,0:00:31.77,0:00:33.06,Sub,,0,0,0,,{\k71}ERES. {\k17}TE {\k42}VUELVES
+Dialogue: 0,0:00:33.06,0:00:34.02,Sub,,0,0,0,,{\k30}«EL {\k16}QUE {\k49}SIEMPRE
+Dialogue: 0,0:00:34.02,0:00:34.90,Sub,,0,0,0,,{\k55}DA», {\k16}Y {\k17}SI
+Dialogue: 0,0:00:34.90,0:00:35.98,Sub,,0,0,0,,{\k34}DEJAS {\k9}DE {\k65}HACERLO,
+Dialogue: 0,0:00:35.98,0:00:36.97,Sub,,0,0,0,,{\k59}SIENTES {\k21}QUE {\k19}YA
+Dialogue: 0,0:00:36.97,0:00:38.38,Sub,,0,0,0,,{\k14}NO {\k81}VALES. {\k47}DAR
+Dialogue: 0,0:00:38.38,0:00:39.02,Sub,,0,0,0,,{\k32}NO {\k19}ES {\k13}EL
+Dialogue: 0,0:00:39.02,0:00:40.45,Sub,,0,0,0,,{\k92}PROBLEMA. {\k30}DAR {\k21}CON
+Dialogue: 0,0:00:40.45,0:00:42.25,Sub,,0,0,0,,{\k56}MIEDO, {\k74}SÍ. {\k50}HAZTE
+Dialogue: 0,0:00:42.25,0:00:43.55,Sub,,0,0,0,,{\k27}ESTA {\k74}PRUEBA: {\k29}¿LO
+Dialogue: 0,0:00:43.55,0:00:44.38,Sub,,0,0,0,,{\k31}DARÍA {\k41}IGUAL {\k12}SI
+Dialogue: 0,0:00:44.38,0:00:45.24,Sub,,0,0,0,,{\k46}SUPIERA {\k15}QUE {\k24}ESTA
+Dialogue: 0,0:00:45.24,0:00:46.37,Sub,,0,0,0,,{\k59}PERSONA {\k21}SE {\k32}QUEDA
+Dialogue: 0,0:00:46.37,0:00:48.20,Sub,,0,0,0,,{\k23}COMO {\k120}ESTÁ? {\k41}RETO
+Dialogue: 0,0:00:48.20,0:00:49.41,Sub,,0,0,0,,{\k12}DE {\k69}HOY: {\k41}ANTES
+Dialogue: 0,0:00:49.41,0:00:50.82,Sub,,0,0,0,,{\k11}DE {\k31}DAR, {\k99}PREGÚNTATE:
+Dialogue: 0,0:00:50.82,0:00:51.92,Sub,,0,0,0,,{\k34}¿LO {\k64}REGALO {\k13}O
+Dialogue: 0,0:00:51.92,0:00:53.39,Sub,,0,0,0,,{\k13}LO {\k47}ESTOY {\k88}PAGANDO?
+Dialogue: 0,0:00:53.39,0:00:54.72,Sub,,0,0,0,,{\k76}CUÉNTAME {\k21}QUÉ {\k36}DISTE
+Dialogue: 0,0:00:54.72,0:00:56.48,Sub,,0,0,0,,{\k21}POR {\k73}MIEDO. {\k82}MAÑANA,
+Dialogue: 0,0:00:56.48,0:00:58.04,Sub,,0,0,0,,{\k73}CAPÍTULO {\k62}2 {\k21}DE
+Dialogue: 0,0:00:58.04,0:00:59.81,Sub,,0,0,0,,{\k23}LA {\k48}TAZA {\k107}DERRAMADA.

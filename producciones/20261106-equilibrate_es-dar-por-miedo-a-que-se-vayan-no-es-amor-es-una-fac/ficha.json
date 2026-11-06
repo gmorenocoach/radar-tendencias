@@ -1,0 +1,52 @@
+{
+ "fuente": {
+  "tema": "Dar de más no siempre es amor. Gancho: Si das para que no se vayan, eso no es generosidad. Es una cuenta que alguien va a cobrar. Te cuento cuál.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 1"
+ },
+ "adn": {
+  "tema_central": "Dar de más para que el otro no se vaya no es generosidad ni amor: es una deuda emocional encubierta que alguien terminará cobrando. Capítulo 1 de la serie 'La Taza Derramada: 6 capítulos para amar sin perderte'.",
+  "promesa_del_titulo": "Descubrirás cuál es la 'cuenta oculta' que se genera cuando das por miedo a perder a alguien, y cómo reconocerla antes de que te cobre con resentimiento, culpa o abandono.",
+  "gancho_primeros_segundos": "\"Si das para que no se vayan, eso no es generosidad. Es una cuenta que alguien va a cobrar. Te cuento cuál.\" (Texto en pantalla: 'NO ES GENEROSIDAD'. Plano cerrado, mirada directa a cámara, sin saludo ni presentación, primera frase en menos de 2 segundos.)",
+  "tipo_de_gancho": "Contradicción + curiosidad abierta (redefine un valor positivo como 'generosidad' en algo negativo y deja un bucle abierto con 'Te cuento cuál')",
+  "estructura": [
+   "0-3s: Gancho de contradicción: 'Si das para que no se vayan, eso no es generosidad. Es una cuenta que alguien va a cobrar.'",
+   "3-8s: Bucle abierto y credencial emocional: 'Te cuento cuál' + una frase de identificación ('Si alguna vez diste de más y aun así sentiste que no era suficiente...')",
+   "8-35s: Lista corta de 3 cuentas ocultas: 1) La cuenta del resentimiento: das hoy, te sientes vacía/o mañana y lo reclamas sin decirlo. 2) La cuenta de la culpa: el otro siente que te debe y se aleja o se vuelve a cumplir por obligación. 3) La cuenta de la identidad: te conviertes en 'el que da' y si dejas de dar, sientes que no vales.",
+   "35-48s: Giro: dar desde la abundancia vs. dar desde el miedo; la prueba rápida: '¿Daría esto si supiera que se queda igual?'",
+   "48-55s: Cierre con reto: 'Esta semana, antes de dar algo, pregúntate: ¿esto lo doy o lo estoy pagando?' + invitación a comentar un ejemplo",
+   "55-58s: Puente de serie: 'Esto es el capítulo 1 de La Taza Derramada. Mañana: por qué te cuesta tanto decir que no.'"
+  ],
+  "ritmo": "Rápido y limpio: cortes cada 2-3 segundos, subtítulos grandes palabra por palabra, pausas breves antes de cada 'cuenta', zoom sutil en la frase clave, sin música invasiva (pad suave que sube en el giro). Duración objetivo 45-58 segundos.",
+  "tono": "Cercano, firme y compasivo; como una amiga o amigo sincero que dice una verdad incómoda sin juzgar. Segunda persona directa ('tú'), frases cortas, cero tecnicismos psicológicos.",
+  "cta_final": "Reto + comunidad: 'Esta semana, antes de dar, pregúntate: ¿lo doy o lo estoy pagando? Cuéntame en comentarios qué fue lo último que diste por miedo a que se fueran. Y sigue la serie: mañana, capítulo 2.'",
+  "formula_del_titulo": "[Acción que parece virtud] + no es [valor positivo] + es [consecuencia oculta] (contradicción) + promesa de revelación o lista",
+  "titulo_con_numero": "3 cuentas ocultas que cobras cuando das de más por miedo a que se vayan",
+  "palabras_clave": [
+   "dar de más",
+   "no es amor",
+   "generosidad",
+   "miedo al abandono",
+   "relaciones sanas",
+   "límites",
+   "dependencia emocional",
+   "complacer a los demás",
+   "amar sin perderte",
+   "La Taza Derramada",
+   "psicología de pareja",
+   "autoestima"
+  ],
+  "emocion_dominante": "Reconocimiento incómodo (identificación + culpa suave) que deriva en alivio y empoderamiento",
+  "formula_miniatura": "Primer plano del rostro con expresión seria/reveladora a la derecha; a la izquierda una taza desbordada derramando líquido sobre una cuenta/recibo. Texto máximo 3-4 palabras en mayúsculas de alto contraste: 'NO ES GENEROSIDAD'. Paleta: fondo oscuro, texto amarillo o blanco, taza en color cálido. Etiqueta pequeña 'Cap. 1'.",
+  "por_que_funciona": "Desafía una creencia socialmente aprobada (dar = amar), lo que genera disonancia y obliga a quedarse para resolverla. La metáfora de la 'cuenta' convierte un concepto abstracto en algo concreto y memorable. El bucle abierto 'te cuento cuál' sostiene la retención, la lista de 3 facilita el ritmo y la capacidad de compartir, el reto final provoca comentarios, y la serie numerada incentiva seguir el canal y ver los demás capítulos. Además toca un dolor universal (miedo a perder al otro) con alta identificación.",
+  "riesgos_a_evitar": [
+   "Empezar con saludo, presentación del canal o contexto antes del gancho",
+   "Sonar a sermón o juzgar a quien da de más; mantener empatía",
+   "Revelar las tres cuentas demasiado pronto o prometer 'cuál' y no cumplirlo con claridad",
+   "Usar jerga clínica (apego ansioso, codependencia) sin explicarla en lenguaje cotidiano",
+   "Generalizar que dar es malo: aclarar la diferencia entre dar por abundancia y dar por miedo",
+   "Presentar el contenido como diagnóstico o sustituto de terapia",
+   "Miniatura saturada de texto o metáfora visual confusa",
+   "Cerrar sin reto ni puente al siguiente capítulo, perdiendo el efecto serie",
+   "Exceder 60 segundos o bajar el ritmo en el tramo central"
+  ]
+ }
+}

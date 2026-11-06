@@ -621,7 +621,10 @@
    "subtema": "Dar de más como miedo disfrazado de generosidad: el agradador crónico y el miedo a que si no das, no te quieran. Cierre: si das tanto, ¿de dónde te estás sirviendo?",
    "referencia_video_id": "-PX8yO82xys",
    "minutos": 15,
-   "estado": "planificado"
+   "estado": "error",
+   "produccion_id": "",
+   "resultado": "error: largo.py: error: argument --video_id: expected one argument",
+   "producido_en": "2026-11-06T11:04:16"
   },
   {
    "id": "equilibrate_es-20261106-S",
@@ -634,7 +637,10 @@
    "titulo": "Dar de más no siempre es amor",
    "gancho": "Si das para que no se vayan, eso no es generosidad. Es una cuenta que alguien va a cobrar. Te cuento cuál.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261106-equilibrate_es-dar-por-miedo-a-que-se-vayan-no-es-amor-es-una-fac",
+   "resultado": "ok 200s",
+   "producido_en": "2026-11-06T11:07:37"
   },
   {
    "id": "equilibrate_es-20261107-S",
@@ -647,7 +653,10 @@
    "titulo": "Amas a alguien que no te conviene: 3 pasos para soltar",
    "gancho": "Te sirvieron un café que ya se enfrió y sigues soplándole como si fuera a calentarse. Hoy hablamos de soltar la taza sin culparte. Reto de hoy: escribe en una hoja una cosa que esa relación te quita y otra que te da, y léelas en voz alta.",
    "referencia_video_id": "PidfYb2KciY",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261106-equilibrate_es-como-soltar-a-quien-no-te-conviene-psicologia-del-",
+   "resultado": "ok 208s",
+   "producido_en": "2026-11-06T11:11:06"
   },
   {
    "id": "equilibrate_es-20261107-C",
@@ -669,7 +678,10 @@
    "titulo": "¿Es amor o es miedo a quedarte sin nadie?",
    "gancho": "Si tu paz depende de que te respondan el mensaje, mira bien la etiqueta de esa taza. Puede que no diga amor. Reto de hoy: completa esta frase en tu cuaderno: me quedo porque ______. Y comenta con qué la completaste.",
    "referencia_video_id": "-ai9L-jXtx0",
-   "estado": "planificado"
+   "estado": "error",
+   "produccion_id": "",
+   "resultado": "error: produce.py: error: argument --video_id: expected one argument",
+   "producido_en": "2026-11-06T11:11:07"
   },
   {
    "id": "equilibrate_es-20261108-V",

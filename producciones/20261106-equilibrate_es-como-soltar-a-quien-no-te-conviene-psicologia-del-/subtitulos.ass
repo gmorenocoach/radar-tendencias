@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.85,Sub,,0,0,0,,{\k52}AMAS {\k12}A {\k21}QUIEN
+Dialogue: 0,0:00:00.85,0:00:02.18,Sub,,0,0,0,,{\k12}TE {\k85}LASTIMA. {\k37}PERO
+Dialogue: 0,0:00:02.18,0:00:02.83,Sub,,0,0,0,,{\k27}NO {\k32}AMAS {\k6}A
+Dialogue: 0,0:00:02.83,0:00:04.40,Sub,,0,0,0,,{\k12}LA {\k93}PERSONA: {\k52}AMAS
+Dialogue: 0,0:00:04.40,0:00:05.25,Sub,,0,0,0,,{\k17}LO {\k15}QUE {\k52}PODRÍA
+Dialogue: 0,0:00:05.25,0:00:06.56,Sub,,0,0,0,,{\k44}LLEGAR {\k7}A {\k80}SER.
+Dialogue: 0,0:00:06.56,0:00:07.88,Sub,,0,0,0,,{\k56}SOLTAR {\k46}CUESTA {\k30}PORQUE
+Dialogue: 0,0:00:07.88,0:00:09.20,Sub,,0,0,0,,{\k8}LA {\k71}ESPERANZA {\k52}LLEGA
+Dialogue: 0,0:00:09.20,0:00:10.74,Sub,,0,0,0,,{\k7}A {\k131}CUENTAGOTAS: {\k16}UN
+Dialogue: 0,0:00:10.74,0:00:12.50,Sub,,0,0,0,,{\k63}MENSAJE {\k92}DULCE, {\k22}UN
+Dialogue: 0,0:00:12.50,0:00:13.76,Sub,,0,0,0,,{\k23}BUEN {\k82}DÍA. {\k20}Y
+Dialogue: 0,0:00:13.76,0:00:15.01,Sub,,0,0,0,,{\k51}SENTIR {\k48}AMOR {\k27}NO
+Dialogue: 0,0:00:15.01,0:00:15.93,Sub,,0,0,0,,{\k68}SIGNIFICA {\k12}QUE {\k12}LA
+Dialogue: 0,0:00:15.93,0:00:18.24,Sub,,0,0,0,,{\k76}RELACIÓN {\k46}SEA {\k109}BUENA.
+Dialogue: 0,0:00:18.24,0:00:19.25,Sub,,0,0,0,,{\k41}MIRA {\k15}LA {\k45}TAZA
+Dialogue: 0,0:00:19.25,0:00:20.39,Sub,,0,0,0,,{\k71}REAL, {\k28}NO {\k15}LA
+Dialogue: 0,0:00:20.39,0:00:22.34,Sub,,0,0,0,,{\k13}QUE {\k97}IMAGINAS. {\k85}HECHOS,
+Dialogue: 0,0:00:22.34,0:00:24.57,Sub,,0,0,0,,{\k25}NO {\k94}PROMESAS. {\k103}PATRONES,
+Dialogue: 0,0:00:24.57,0:00:26.54,Sub,,0,0,0,,{\k27}NO {\k116}DISCURSOS. {\k55}ANOTA
+Dialogue: 0,0:00:26.54,0:00:27.33,Sub,,0,0,0,,{\k20}QUÉ {\k14}TE {\k45}CUESTA
+Dialogue: 0,0:00:27.33,0:00:29.13,Sub,,0,0,0,,{\k27}ESTA {\k86}RELACIÓN: {\k67}PAZ,
+Dialogue: 0,0:00:29.13,0:00:31.23,Sub,,0,0,0,,{\k73}SUEÑO, {\k116}ENERGÍA. {\k21}EL
+Dialogue: 0,0:00:31.23,0:00:32.47,Sub,,0,0,0,,{\k22}AMOR {\k78}EXISTE, {\k24}PERO
+Dialogue: 0,0:00:32.47,0:00:33.34,Sub,,0,0,0,,{\k15}NO {\k52}ALCANZA {\k20}PARA
+Dialogue: 0,0:00:33.34,0:00:34.87,Sub,,0,0,0,,{\k39}PAGAR {\k21}ESA {\k92}CUENTA.
+Dialogue: 0,0:00:34.87,0:00:35.79,Sub,,0,0,0,,{\k60}SOLTAR {\k20}ES {\k13}UNA
+Dialogue: 0,0:00:35.79,0:00:37.18,Sub,,0,0,0,,{\k53}ESCALERA {\k17}CON {\k67}ESCALONES
+Dialogue: 0,0:00:37.18,0:00:38.87,Sub,,0,0,0,,{\k9}DE {\k107}NOSTALGIA. {\k53}SIENTE
+Dialogue: 0,0:00:38.87,0:00:40.24,Sub,,0,0,0,,{\k12}LA {\k96}TRISTEZA, {\k29}DEJA
+Dialogue: 0,0:00:40.24,0:00:41.60,Sub,,0,0,0,,{\k34}PASAR {\k10}EL {\k92}PENSAMIENTO,
+Dialogue: 0,0:00:41.60,0:00:42.30,Sub,,0,0,0,,{\k38}PERO {\k19}NO {\k13}LE
+Dialogue: 0,0:00:42.30,0:00:43.94,Sub,,0,0,0,,{\k107}ESCRIBAS. {\k31}CADA {\k27}VEZ
+Dialogue: 0,0:00:43.94,0:00:44.88,Sub,,0,0,0,,{\k20}QUE {\k21}NO {\k53}ACTÚAS,
+Dialogue: 0,0:00:44.88,0:00:45.98,Sub,,0,0,0,,{\k19}EL {\k45}APEGO {\k45}PIERDE
+Dialogue: 0,0:00:45.98,0:00:48.08,Sub,,0,0,0,,{\k101}FUERZA. {\k86}DEVUÉLVETE {\k23}ESA
+Dialogue: 0,0:00:48.08,0:00:49.80,Sub,,0,0,0,,{\k111}ENERGÍA. {\k26}SI {\k35}PESA
+Dialogue: 0,0:00:49.80,0:00:51.59,Sub,,0,0,0,,{\k81}DEMASIADO, {\k55}BUSCA {\k44}APOYO
+Dialogue: 0,0:00:51.59,0:00:53.70,Sub,,0,0,0,,{\k131}PROFESIONAL. {\k62}MERECES {\k17}UN
+Dialogue: 0,0:00:53.70,0:00:54.46,Sub,,0,0,0,,{\k30}AMOR {\k24}QUE {\k22}NO
+Dialogue: 0,0:00:54.46,0:00:55.31,Sub,,0,0,0,,{\k17}TE {\k30}HAGA {\k37}DUDAR
+Dialogue: 0,0:00:55.31,0:00:56.63,Sub,,0,0,0,,{\k12}DE {\k86}TI. {\k35}RETO
+Dialogue: 0,0:00:56.63,0:00:58.10,Sub,,0,0,0,,{\k13}DE {\k78}HOY: {\k56}ESCRIBE
+Dialogue: 0,0:00:58.10,0:00:59.42,Sub,,0,0,0,,{\k39}TRES {\k44}HECHOS {\k49}REALES
+Dialogue: 0,0:00:59.42,0:01:00.37,Sub,,0,0,0,,{\k13}DE {\k22}ESA {\k60}PERSONA,
+Dialogue: 0,0:01:00.37,0:01:02.20,Sub,,0,0,0,,{\k26}SIN {\k105}PROMESAS. {\k52}LÉELOS
+Dialogue: 0,0:01:02.20,0:01:03.01,Sub,,0,0,0,,{\k10}EN {\k23}VOZ {\k48}ALTA
+Dialogue: 0,0:01:03.01,0:01:03.82,Sub,,0,0,0,,{\k21}Y {\k49}CUÉNTAME {\k12}EN
+Dialogue: 0,0:01:03.82,0:01:05.10,Sub,,0,0,0,,{\k77}COMENTARIOS {\k37}CÓMO {\k14}TE
+Dialogue: 0,0:01:05.10,0:01:06.27,Sub,,0,0,0,,{\k117}SENTISTE.
