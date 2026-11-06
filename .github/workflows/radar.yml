@@ -36,6 +36,9 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python radar.py ${{ github.event.inputs.perfil }}
 
+      - name: Analizar miniaturas virales
+        run: python -m fabrica.miniaturas_analisis || true
+
       - name: Guardar resultados
         run: |
           git config user.name "radar-bot"

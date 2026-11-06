@@ -154,6 +154,7 @@ async function cargarPerfil(){
   const id = $('#perfil').value;
   try{ localStorage.setItem('radar.perfil', id); }catch(e){}
   datos = await fetch(`data/${id}.json`).then(r=>r.json());
+  try{ datos._mini = await fetch(`data/miniaturas_${id}.json`,{cache:'no-store'}).then(r=>r.ok?r.json():null); }catch(e){ datos._mini=null; }
   const nicho = nichos.nichos[datos.perfil.nicho];
   const sub = $('#subnicho');
   sub.innerHTML = '<option value="">Todos los sub-nichos</option>' +
@@ -180,7 +181,8 @@ function render(){
   const r = datos.resumen;
   $('#stats').innerHTML = `<span><b>${v.length}</b> videos virales</span><span><b>${datos.canales.length}</b> canales con fórmula probada</span>
     <span><b>${r.con_promocion||0}</b> promocionan curso/mentoría</span><span><b>${r.fuertes||0}</b> con interacción fuerte (≥ 1,5 % largos / ≥ 4 % Shorts)</span>
-    <span>${r.candidatos} candidatos → ${r.validos} relevantes → ${r.canales_en_rango} canales en rango</span><span>cuota usada: ${datos.cuota_usada}</span>`;
+    <span>${r.candidatos} candidatos → ${r.validos} relevantes → ${r.canales_en_rango} canales en rango</span><span>cuota usada: ${datos.cuota_usada}</span>
+    ${datos._mini?`<span style="flex-basis:100%">🖼 Miniaturas virales (${datos._mini.n}): <b>${datos._mini.lectura.pct_miniaturas_oscuras}%</b> fondo oscuro · <b>${datos._mini.lectura.pct_con_rostro_probable}%</b> con rostro · <b>${datos._mini.lectura.pct_con_amarillo}%</b> con amarillo → ${esc(datos._mini.recomendacion)}</span>`:''}`;
   if (!v.length){ $('#grid').innerHTML = '<div class="empty">Ningún video cumple los filtros.</div>'; }
   else $('#grid').innerHTML = v.map((x,i)=>`
     <article class="card ${x.duracion_s<=60?'short':''}">
