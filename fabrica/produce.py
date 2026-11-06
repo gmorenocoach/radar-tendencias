@@ -22,27 +22,58 @@ def main():
     ap.add_argument("--tema", default="")
     ap.add_argument("--formato", default="shorts", choices=["shorts"])
     ap.add_argument("--voz", default=os.environ.get("ELEVEN_VOICE_NAME", ""))
+    ap.add_argument("--etapa", default="completa", choices=["completa", "propuesta"], help="propuesta = solo ADN, guion y miniaturas (para aprobar)")
+    ap.add_argument("--continuar", default="", help="ID de una propuesta ya aprobada: produce voz, escenas y render con su guion")
     a = ap.parse_args()
-    if not a.video_id and not a.tema:
-        sys.exit("Indica --video_id o --tema")
+    if not a.video_id and not a.tema and not a.continuar:
+        sys.exit("Indica --video_id, --tema o --continuar")
 
     p = cargar_perfil(a.perfil)
     canal = canal_de(p["id"])
     t0 = time.time()
-    print(f"=== Fábrica · {p['canal']} · {'video ' + a.video_id if a.video_id else 'tema: ' + a.tema}{' · MOCK' if MOCK else ''}")
+    if a.continuar:
+        d = OUT / a.continuar
+        f = json.loads((d / "ficha.json").read_text()); g = json.loads((d / "guion.json").read_text()); nombre = a.continuar
+        (d / "escenas").mkdir(parents=True, exist_ok=True)
+        print(f"=== Fábrica · {p['canal']} · continuar propuesta {nombre}")
+    else:
+        print(f"=== Fábrica · {p['canal']} · {'video ' + a.video_id if a.video_id else 'tema: ' + a.tema} · etapa {a.etapa}{' · MOCK' if MOCK else ''}")
+        # 1. ADN
+        f = adn.ficha(a.video_id or None, a.tema or None, p["idioma"])
+        print(f"  ADN: {f['adn'].get('tema_central', '')[:70]} · gancho: {f['adn'].get('tipo_de_gancho')}")
+        # 2. Guion
+        g = mod_guion.guion(f, p, a.formato)
+        nombre = f"{dt.date.today():%Y%m%d}-{p['id']}-{slug(g['titulo'])}"
+        d = OUT / nombre
+        (d / "escenas").mkdir(parents=True, exist_ok=True)
+        guardar_json(d / "ficha.json", f)
+        guardar_json(d / "guion.json", g)
+        print(f"  Guion: «{g['titulo']}» · {len(g['escenas'])} escenas · ~{g.get('palabras', '?')} palabras")
 
-    # 1. ADN
-    f = adn.ficha(a.video_id or None, a.tema or None, p["idioma"])
-    print(f"  ADN: {f['adn'].get('tema_central', '')[:70]} · gancho: {f['adn'].get('tipo_de_gancho')}")
-
-    # 2. Guion
-    g = mod_guion.guion(f, p, a.formato)
-    nombre = f"{dt.date.today():%Y%m%d}-{p['id']}-{slug(g['titulo'])}"
-    d = OUT / nombre
-    (d / "escenas").mkdir(parents=True, exist_ok=True)
-    guardar_json(d / "ficha.json", f)
-    guardar_json(d / "guion.json", g)
-    print(f"  Guion: «{g['titulo']}» · {len(g['escenas'])} escenas · ~{g.get('palabras', '?')} palabras")
+    if a.etapa == "propuesta" and not a.continuar:
+        # miniaturas de propuesta (1 imagen IA + rostro) y ficha para decidir
+        m = g["miniatura"]
+        textos = [m["texto"]] + [t for t in g.get("titulos_alternativos", []) if len(t.split()) <= 5][:1]
+        try:
+            imagenes.miniatura_pro(canal, m.get("emocion", "sorpresa"), m.get("objeto", "taza"), textos, str(d / "miniatura_16x9"), "16:9")
+            shutil.copy(str(d / "miniatura_16x9.jpg"), str(d / "miniatura.jpg"))
+        except Exception as e:
+            print(f"  ! miniatura pro falló ({e})")
+        imagenes.miniatura_rostro(canal, m.get("emocion", "sorpresa"), textos, str(d / "miniatura_16x9"), "16:9")
+        cfg = json.loads((OUT.parent / "config/perfiles.json").read_text()); enlaces = cfg.get("_enlaces", {})
+        meta = {"id": nombre, "perfil": p["id"], "canal": p["canal"], "formato": "short", "fecha": dt.datetime.now().isoformat(timespec="seconds"),
+                "titulo": g["titulo"], "titulos_alternativos": g.get("titulos_alternativos", []), "descripcion": g["descripcion"] + "\n\n" + " ".join(g["hashtags"]),
+                "hashtags": g["hashtags"], "reto_de_hoy": g.get("reto_de_hoy", ""), "duracion_s": 0, "tamano_mb": 0, "fuente": f["fuente"], "estado": "propuesta",
+                "adn_resumen": {k: f["adn"].get(k) for k in ("tema_central", "gancho_primeros_segundos", "tipo_de_gancho", "formula_del_titulo", "emocion_dominante", "formula_miniatura", "por_que_funciona")},
+                "guion_texto": [e["texto"] for e in g["escenas"]],
+                "archivos": {"video": "", "miniatura": f"{nombre}/miniatura.jpg", "miniatura_16x9": f"{nombre}/miniatura_16x9.jpg", "guion": f"{nombre}/guion.json", "ficha": f"{nombre}/ficha.json",
+                             "miniaturas": [f"{nombre}/{x}" for x in sorted(os.listdir(d)) if x.startswith("miniatura") and x.endswith(".jpg")]},
+                "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."}
+        guardar_json(d / "metadata.json", meta)
+        from .indice import main as reconstruir_indice
+        reconstruir_indice()
+        print(f"\nPropuesta lista en {time.time() - t0:.0f} s → producciones/{nombre} (revisar y aprobar)")
+        return
 
     # 3. Voz
     mp3, palabras, limites, dur = voz.sintetizar(g["escenas"], str(d), a.voz or None, p["idioma"], voz_id=None if a.voz else p.get("voz_id"))

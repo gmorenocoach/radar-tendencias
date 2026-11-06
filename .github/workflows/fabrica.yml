@@ -27,6 +27,16 @@ on:
         description: "Duración objetivo del video largo (minutos)"
         required: false
         default: "15"
+      etapa:
+        description: "completa | propuesta (solo guion y miniaturas, para aprobar)"
+        required: false
+        type: choice
+        options: [completa, propuesta]
+        default: completa
+      continuar:
+        description: "ID de una propuesta aprobada (produce voz, escenas y render)"
+        required: false
+        default: ""
       economico:
         description: "Largo en modo económico (una imagen por capítulo)"
         required: false
@@ -89,6 +99,8 @@ jobs:
           ELEVEN_VOICE_NAME: ${{ github.event.inputs.voz }}
         run: |
           ARGS="--perfil ${{ github.event.inputs.perfil }}"
+          if [ -n "${{ github.event.inputs.continuar }}" ]; then ARGS="$ARGS --continuar ${{ github.event.inputs.continuar }}"; fi
+          if [ "${{ github.event.inputs.etapa }}" = "propuesta" ]; then ARGS="$ARGS --etapa propuesta"; fi
           if [ -n "${{ github.event.inputs.video_id }}" ]; then ARGS="$ARGS --video_id=${{ github.event.inputs.video_id }}"; fi
           if [ -n "${{ github.event.inputs.tema }}" ]; then ARGS="$ARGS --tema=\"${{ github.event.inputs.tema }}\""; fi
           if [ "${{ github.event.inputs.formato }}" = "largo" ]; then
