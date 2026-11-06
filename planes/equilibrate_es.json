@@ -623,8 +623,8 @@
    "minutos": 15,
    "estado": "error",
    "produccion_id": "",
-   "resultado": "error: largo.py: error: argument --video_id: expected one argument",
-   "producido_en": "2026-11-06T11:04:16"
+   "resultado": "error: TypeError: string indices must be integers, not 'str'",
+   "producido_en": "2026-11-06T11:30:35"
   },
   {
    "id": "equilibrate_es-20261106-S",
@@ -678,10 +678,10 @@
    "titulo": "¿Es amor o es miedo a quedarte sin nadie?",
    "gancho": "Si tu paz depende de que te respondan el mensaje, mira bien la etiqueta de esa taza. Puede que no diga amor. Reto de hoy: completa esta frase en tu cuaderno: me quedo porque ______. Y comenta con qué la completaste.",
    "referencia_video_id": "-ai9L-jXtx0",
-   "estado": "error",
-   "produccion_id": "",
-   "resultado": "error: produce.py: error: argument --video_id: expected one argument",
-   "producido_en": "2026-11-06T11:11:07"
+   "estado": "producido",
+   "produccion_id": "20261106-equilibrate_es-cuando-el-miedo-a-estar-solo-se-disfraza-de-amor",
+   "resultado": "ok 217s",
+   "producido_en": "2026-11-06T11:34:13"
   },
   {
    "id": "equilibrate_es-20261108-V",

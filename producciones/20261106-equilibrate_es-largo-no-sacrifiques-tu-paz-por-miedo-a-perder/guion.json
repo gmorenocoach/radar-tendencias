@@ -1,0 +1,533 @@
+{
+ "titulo": "No sacrifiques tu paz por miedo a perder a alguien",
+ "titulos_alternativos": [
+  "Amar no es aguantar: no sacrifiques tu tranquilidad",
+  "Si una relación te quita la paz, escucha esto"
+ ],
+ "promesa": "Aprenderás a reconocer cuándo una relación te cuesta tu paz, a poner límites sin culpa y a elegirte sin sentir que fracasaste, con una práctica breve para reconectar contigo.",
+ "descripcion": "¿Sientes que amar te está costando la paz? En este video hablamos de relaciones, límites y amor propio.\nVes cómo distinguir una relación que suma de una que resta, y qué señales muestran que estás perdiendo tu esencia.\nTambién hablamos del desgaste emocional de sostener lo que duele, cómo poner límites sin culpa y cómo elegirte sin verlo como un fracaso.\nCierras con una práctica corta de respiración y un Reto de hoy para recuperar tu tranquilidad y tu bienestar emocional.\nEste contenido es reflexivo y no reemplaza la ayuda de un profesional de la salud mental.\nCuéntame en los comentarios desde qué país nos ves.",
+ "hashtags": [
+  "#amorpropio",
+  "#limites",
+  "#paz",
+  "#relaciones",
+  "#bienestaremocional",
+  "#sanar",
+  "#elegirte",
+  "#equilibrate"
+ ],
+ "miniatura": {
+  "texto": "NO SACRIFIQUES TU PAZ",
+  "emocion": "tristeza",
+  "objeto": "taza de café humeante con la silueta de dos manos soltándose",
+  "pose": "letrero"
+ },
+ "capitulos": [
+  {
+   "n": 0,
+   "titulo": "Gancho",
+   "ambiente": "cafeteria",
+   "palabras": 75,
+   "objetivo": "Contradecir la idea de que amar es aguantar todo. Prometer tres preguntas para saber si tu relación te quita la paz y abrir el bucle: la tercera pregunta es la que casi nadie se atreve a responder.",
+   "idea_clave": "Amar no es perder tu paz",
+   "escenas": [
+    {
+     "texto": "¿Y si amar no fuera aguantarlo todo? Te lo digo como quien te sirve un café: si para conservar a alguien te estás apagando tú, eso no es amor, es miedo con buen disfraz. Y el miedo siempre cobra caro.",
+     "emocion": "sereno",
+     "objeto": "taza de café humeante",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Cartoon barista character sitting at a cafe counter stool, sliding a steaming coffee cup toward the viewer with a calm, knowing look, warm cafe background",
+     "texto_en_pantalla": "Amar no es aguantarlo todo"
+    },
+    {
+     "texto": "Hoy te traigo tres preguntas para saber si tu relación te está quitando la paz. Las dos primeras se responden rápido. La tercera, en cambio, casi nadie se atreve a contestarla. Quédate hasta el final, y ojalá no la esquives.",
+     "emocion": "sorpresa",
+     "objeto": "cuaderno con tres números escritos",
+     "pose": "senalando",
+     "prompt_visual": "Cartoon barista character pointing at a notebook on a cafe table showing numbers 1, 2, 3, the number 3 circled and glowing, curious raised eyebrow",
+     "texto_en_pantalla": "3 preguntas. La 3ra incomoda"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "titulo": "Por qué aguantamos tanto",
+   "ambiente": "cafeteria",
+   "palabras": 380,
+   "objetivo": "Mini-gancho: 'No aguantas porque seas débil; hay una razón que casi nunca nombramos.' Explicar el miedo a la soledad, el apego, la culpa, la costumbre y la idea romántica del sacrificio. Validar sin juzgar.",
+   "idea_clave": "Aguantar no es lo mismo que amar",
+   "escenas": [
+    {
+     "texto": "No aguantas porque seas débil. Hay una razón que casi nunca nombramos, y hoy la ponemos sobre la mesa, junto al café. Sin juicios. Aquí nadie viene a decirte que exageras, solo a entender qué es lo que de verdad te mantiene ahí.",
+     "emocion": "sereno",
+     "objeto": "taza de café humeante",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waves warmly from behind a cafe counter, steaming cup in front of him, cozy cafeteria background",
+     "texto_en_pantalla": "No es debilidad"
+    },
+    {
+     "texto": "Primera razón: el miedo a la soledad. Es un miedo antiguo, de cuando sobrevivir dependía de la tribu. Por eso a veces una relación que duele se siente más segura que el silencio de una casa vacía. Tu cuerpo no te miente, solo te protege de forma torpe.",
+     "emocion": "miedo",
+     "objeto": "silla vacía junto a la mesa",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches beside a small cafe table looking at an empty chair, dim warm light, worried expression",
+     "texto_en_pantalla": "1. Miedo a la soledad"
+    },
+    {
+     "texto": "Segunda: el apego. Compartes rutinas, planes, amigos, hasta la playlist del carro. Soltar no es perder solo a una persona, es perder un mundo entero. Es como dejar una taza favorita aunque esté rota: sigues sintiendo que es tuya.",
+     "emocion": "tristeza",
+     "objeto": "taza favorita con una grieta",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a stool holding a cracked favorite mug tenderly, row of cups on the counter",
+     "texto_en_pantalla": "2. El apego"
+    },
+    {
+     "texto": "Tercera: la culpa. Esa voz que dice: después de todo lo que hizo por ti, ¿cómo te vas a quejar? Ahí confundimos gratitud con deuda. Puedes agradecer lo bueno y aun así reconocer que ya no te hace bien. Las dos cosas caben en la misma mesa.",
+     "emocion": "sorpresa",
+     "objeto": "dos tazas sobre la mesa",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points at two cups side by side on a table, as if showing two truths coexisting, cafeteria setting",
+     "texto_en_pantalla": "3. La culpa"
+    },
+    {
+     "texto": "Cuarta: la costumbre. Es el café de todas las mañanas, el que ya ni saboreas. No sabe rico, pero lo tomas igual porque es tu rutina. Muchas veces no aguantamos por amor, aguantamos por inercia, y la inercia se disfraza muy bien de lealtad.",
+     "emocion": "asco",
+     "objeto": "café frío y rancio",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho slumped on the counter with a bored face, staring at a cold cup of coffee, gray tones",
+     "texto_en_pantalla": "4. La costumbre"
+    },
+    {
+     "texto": "Quinta: la idea romántica del sacrificio. Películas, canciones, abuelas bien intencionadas: amar es darlo todo, aguantar todo, no rendirse jamás. Pero una escalera donde solo uno sube y el otro mira desde abajo no es amor, es cansancio. Querer no debería costarte tu paz.",
+     "emocion": "ira",
+     "objeto": "escalera de madera",
+     "pose": "escalera",
+     "prompt_visual": "Germancho climbing a wooden ladder alone, tired, looking down at an empty bottom step, cafe interior",
+     "texto_en_pantalla": "5. El mito del sacrificio"
+    },
+    {
+     "texto": "Fíjate: ninguna de estas cinco razones habla de debilidad. Hablan de ser humano. De querer cuidar, de temer perder, de haber invertido tiempo y corazón. Si te reconociste en una, o en las cinco, respira. Estás en buena compañía, y esta mesa también es tuya.",
+     "emocion": "alegria",
+     "objeto": "mesa con tazas para compartir",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho opens his arms welcoming the viewer, warm smile, cafe table with several cups, golden light",
+     "texto_en_pantalla": "Eres humano, no débil"
+    },
+    {
+     "texto": "Ahora, un respiro pequeño antes de seguir: de las cinco, ¿cuál te suena más fuerte hoy? Ponle nombre, aunque sea en voz baja. Lo que se nombra pierde un poquito de poder. En el siguiente capítulo vamos a las preguntas que te dirán si tu paz está en juego.",
+     "emocion": "sereno",
+     "objeto": "letrero de pizarra de cafetería",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a cafe chalkboard sign listing numbers 1 to 5, calm friendly expression",
+     "texto_en_pantalla": "¿Cuál te suena más?"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "¿Suma o resta? Y las señales de que te pierdes",
+   "ambiente": "sala",
+   "palabras": 440,
+   "objetivo": "Mini-gancho: 'Una pregunta de cinco segundos que te dice mucho de tu relación.' Dar criterios para distinguir una relación que suma de una que resta. Listar señales de perder la esencia: adaptarte de más, callar, justificarte, vivir en alerta.",
+   "idea_clave": "Si te adaptas de más, te pierdes",
+   "escenas": [
+    {
+     "texto": "Una pregunta de cinco segundos puede decirte mucho de tu relación. Piensa en esa persona. Ahora responde sin analizar: cuando sabes que va a llamarte o a verte, ¿tu cuerpo se abre o se encoge? No lo pienses demasiado. Tu cuerpo responde antes que tus excusas.",
+     "emocion": "sorpresa",
+     "objeto": "reloj de pared marcando cinco segundos",
+     "pose": "senalando",
+     "prompt_visual": "Germancho in a cozy living room points at the viewer with one eyebrow raised, holding a small hourglass in the other hand",
+     "texto_en_pantalla": "Cinco segundos"
+    },
+    {
+     "texto": "Si se abrió, qué bueno. Si se encogió, no es una sentencia, es un dato. Como cuando pruebas el café y notas que se quemó. No necesitas juzgar, necesitas prestar atención. Ahora le ponemos criterios a esa sensación, para que no dependa solo de cómo amaneciste hoy.",
+     "emocion": "sereno",
+     "objeto": "taza de café humeante",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a stool in the living room sipping from a steaming cup, thoughtful and calm",
+     "texto_en_pantalla": "Es un dato, no una sentencia"
+    },
+    {
+     "texto": "Una relación que suma se parece a una taza caliente en tu sala: te abriga, no te quema. Puedes decir lo que piensas sin ensayarlo. Los desacuerdos se hablan y se resuelven. Y al despedirte, te quedas con energía, no con cansancio.",
+     "emocion": "alegria",
+     "objeto": "taza humeante sobre mesa de sala",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms smiling in a warm living room, a glowing cup on the coffee table beside him",
+     "texto_en_pantalla": "Suma: te abriga, no te quema"
+    },
+    {
+     "texto": "Una que resta se siente distinto. El cariño parece depender de que no molestes. Das, y das, casi siempre en una sola dirección. Y después de verse, queda un vacío raro. Ojo: una mala semana no es un patrón. Mira lo que se repite, no solo el día.",
+     "emocion": "tristeza",
+     "objeto": "taza medio vacía y fría",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho lies on the living room sofa looking at a cold half-empty cup on the floor, tired expression",
+     "texto_en_pantalla": "Mira el patrón, no el día"
+    },
+    {
+     "texto": "Primera señal de que te estás perdiendo: te adaptas de más. Cambias planes, gustos, humor, hasta tu forma de vestir para encajar. Un día te preguntas qué música escuchabas antes y no lo recuerdas. Adaptarse es ser flexible. Desaparecer es otra cosa.",
+     "emocion": "sorpresa",
+     "objeto": "espejo con silueta que se desvanece",
+     "pose": "cambio",
+     "prompt_visual": "Germancho changes outfits and hats quickly in front of a living room mirror, his reflection getting faint",
+     "texto_en_pantalla": "1. Te adaptas de más"
+    },
+    {
+     "texto": "Segunda señal: callas. Te tragas el eso me molestó y el no quiero. Te dices que no vale la pena discutir. Pero cada silencio se guarda, como los posos en el fondo de la taza. Y tarde o temprano, esos posos amargan todo el café.",
+     "emocion": "tristeza",
+     "objeto": "taza con posos en el fondo",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches and peers into a cup with dark grounds at the bottom, lips pressed shut with a hand over his mouth",
+     "texto_en_pantalla": "2. Callas"
+    },
+    {
+     "texto": "Tercera señal: te justificas. Explicas tus decisiones como si estuvieras en un juicio. Pides permiso por cosas pequeñas. Y hasta defiendes al otro frente a tus amigos con un es que no es tan malo. Si necesitas tanto argumento, quizá tu intuición ya habló.",
+     "emocion": "miedo",
+     "objeto": "letrero con la palabra Porque...",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a sign covered with long scribbled explanations, nervous smile, in a living room",
+     "texto_en_pantalla": "3. Te justificas"
+    },
+    {
+     "texto": "Cuarta señal: vives en alerta. Lees el tono del mensaje, el portazo, el silencio, intentando adivinar el clima de hoy. Caminas como sobre piso mojado. Si esa tensión es casi constante y te cuesta descansar, vale la pena hablarlo con un profesional.",
+     "emocion": "miedo",
+     "objeto": "piso mojado con letrero de precaución",
+     "pose": "escalera",
+     "prompt_visual": "Germancho tiptoes carefully across a living room floor with a wet floor sign, glancing nervously over his shoulder",
+     "texto_en_pantalla": "4. Vives en alerta"
+    },
+    {
+     "texto": "Si te reconociste en alguna, respira: no fracasaste, te diste cuenta. Y eso ya es un paso. Reto de hoy: pon un cronómetro de cinco segundos, hazte la pregunta, tu cuerpo se abre o se encoge, y cuéntanos tu respuesta en los comentarios.",
+     "emocion": "sereno",
+     "objeto": "celular con cronómetro y cuaderno",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waves warmly at the camera in the living room, holding a phone showing a five second timer and a notebook",
+     "texto_en_pantalla": "Reto de hoy: ¿se abre o se encoge?"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Lo que le cuesta a tu cuerpo sostener lo que duele",
+   "ambiente": "escalera",
+   "palabras": 360,
+   "objetivo": "Mini-gancho: 'Tu cuerpo ya lo sabe, aunque tu cabeza siga negándolo.' Explicar con lenguaje simple el estrés sostenido, el agotamiento y la desconexión de uno mismo. Sugerir consultar a un profesional si el malestar persiste. Sin afirmaciones médicas absolutas.",
+   "idea_clave": "Tu cuerpo también pone el precio",
+   "escenas": [
+    {
+     "texto": "Tu cuerpo ya lo sabe, aunque tu cabeza siga negándolo. Esa opresión en el pecho los domingos por la noche, ese nudo cuando suena un mensaje, ese cansancio que ni el café arregla. No es exageración tuya. Es tu cuerpo levantando la mano para decirte algo importante.",
+     "emocion": "sereno",
+     "objeto": "taza de café humeante en un escalón",
+     "pose": "escalera",
+     "prompt_visual": "Germancho sits on a middle step of a staircase holding a coffee cup, one hand on his chest, looking at the camera with a knowing look",
+     "texto_en_pantalla": "Tu cuerpo ya lo sabe"
+    },
+    {
+     "texto": "Imagina subir una escalera cargando una maleta pesada. Un tramo, lo aguantas. Pero si subes así todos los días, sin sentarte ni un minuto, algo termina cansándose. El estrés sostenido es eso: tu cuerpo en alerta durante semanas, esperando el próximo conflicto, sin un escalón donde descansar.",
+     "emocion": "sereno",
+     "objeto": "maleta pesada",
+     "pose": "escalera",
+     "prompt_visual": "Germancho climbing a long staircase carrying a heavy suitcase, slightly hunched, looking tired but still going",
+     "texto_en_pantalla": "Estrés sostenido = alerta constante"
+    },
+    {
+     "texto": "Cuando vives en alerta, el cuerpo puede avisarte de muchas formas: sueño liviano, hombros tensos, dolores de cabeza, irritabilidad, ganas de llorar sin motivo claro. Nada de esto es un diagnóstico ni una prueba de nada. Son señales. Y una señal no se castiga: se escucha.",
+     "emocion": "miedo",
+     "objeto": "alarma sonando",
+     "pose": "senalando",
+     "prompt_visual": "Germancho pointing to his shoulders and head with small glowing signal icons around him, standing next to a staircase railing",
+     "texto_en_pantalla": "Son señales, no castigos"
+    },
+    {
+     "texto": "Luego aparece el agotamiento. No el de haber trabajado mucho, sino el de haber explicado, justificado y esperado demasiado. Es como una taza que rellenas para todos, pero nadie te rellena a ti. Llega un día en que sigues sirviendo, y ya casi no sale nada.",
+     "emocion": "tristeza",
+     "objeto": "taza vacía",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho lying on the stairs looking at an empty coffee cup held above him, tired expression",
+     "texto_en_pantalla": "Una taza que nadie rellena"
+    },
+    {
+     "texto": "Y lo más silencioso: la desconexión de ti. Dejas de saber qué quieres cenar, qué te gusta, qué opinas. Te acostumbras a leer el ánimo del otro antes que el tuyo. Un día te miras al espejo y piensas: ¿en qué momento me perdí de vista?",
+     "emocion": "tristeza",
+     "objeto": "espejo en la pared de la escalera",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching at the foot of the stairs, looking at his own reflection in a small mirror, thoughtful and a bit lost",
+     "texto_en_pantalla": "¿Cuándo me perdí de vista?"
+    },
+    {
+     "texto": "Ojo: aquí no se trata de ponerte etiquetas. Si ese malestar se queda por semanas, o te cuesta dormir, comer o hacer tu día a día, busca a un profesional de la salud o del acompañamiento emocional. Pedir ayuda no es rendirte. Es cuidar la casa donde vives: tu cuerpo.",
+     "emocion": "sereno",
+     "objeto": "puerta de casa con luz cálida",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho at the top of the stairs with open arms next to a warmly lit door, gentle and reassuring smile",
+     "texto_en_pantalla": "Pedir ayuda también es cuidarte"
+    },
+    {
+     "texto": "Reto de hoy, menos de cinco minutos: pon una mano en el pecho y otra en el abdomen, respira lento tres veces y pregúntate: ¿dónde lo siento? Cuéntanos en los comentarios qué parte de tu cuerpo respondió. En el próximo capítulo llegan las tres preguntas que te falta conocer.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y taza en el escalón",
+     "pose": "letrero",
+     "prompt_visual": "Germancho sitting on a step holding a sign that says Reto de hoy, with a notebook and coffee cup beside him, one hand on his chest",
+     "texto_en_pantalla": "Reto de hoy: ¿dónde lo siento?"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Poner límites sin culpa",
+   "ambiente": "puerta",
+   "palabras": 400,
+   "objetivo": "Mini-gancho: 'Un límite no es un portazo, es una puerta con manija de tu lado.' Presentar los límites como respeto mutuo y amor propio. Dar fórmulas sencillas para comunicarlos con calma y manejar la culpa que aparece después.",
+   "idea_clave": "Un límite también es amor",
+   "escenas": [
+    {
+     "texto": "Un límite no es un portazo, es una puerta con manija de tu lado. Tú decides cuándo abrir, cuánto abrir y a quién. Poner un límite no es sacar a alguien de tu vida. Es dejar claro por dónde sí se entra, con respeto.",
+     "emocion": "sereno",
+     "objeto": "puerta con manija",
+     "pose": "senalando",
+     "prompt_visual": "Germancho stands beside a wooden door, pointing to the handle on his own side with a calm smile",
+     "texto_en_pantalla": "Una puerta con manija"
+    },
+    {
+     "texto": "Piénsalo así: sin puerta, entra cualquiera, incluso quien te quiere bien. Y tú te cansas, te irritas y te vas apagando en silencio. Un límite dicho a tiempo cuida a los dos. Es amor propio, y también honestidad con el otro.",
+     "emocion": "tristeza",
+     "objeto": "puerta abierta de par en par",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with arms wide open in front of a doorless frame, people-shaped shadows walking through, looking tired",
+     "texto_en_pantalla": "Límite = respeto mutuo"
+    },
+    {
+     "texto": "Antes de hablar, hazte una pregunta de café: ¿qué no quiero seguir repitiendo y qué necesito en su lugar? Si tú no lo tienes claro, el otro mucho menos. Un límite claro empieza en tu cuaderno, no en la discusión.",
+     "emocion": "sereno",
+     "objeto": "cuaderno y taza de café",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sitting on a stool with a coffee cup and notebook, thinking and writing a note",
+     "texto_en_pantalla": "¿Qué necesito yo?"
+    },
+    {
+     "texto": "Fórmula uno, la más simple: cuando pasa esto, me siento así, y necesito esto otro. Por ejemplo: cuando me llamas veinte veces seguidas, me siento agobiado, y necesito espacio hasta la noche. Hecho, emoción y petición. Sin acusar a nadie.",
+     "emocion": "alegria",
+     "objeto": "letrero con la fórmula",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a sign that shows three simple icons: event, heart, request, smiling",
+     "texto_en_pantalla": "Hecho + emoción + petición"
+    },
+    {
+     "texto": "Fórmula dos: me importa lo nuestro, y por eso necesito parar esto. Fórmula tres: esto no me funciona; lo que sí puedo hacer es esto otro. Respira antes, habla despacio. No necesitas ganar la conversación. Solo necesitas ser claro.",
+     "emocion": "sereno",
+     "objeto": "dos tarjetas con frases",
+     "pose": "senalando",
+     "prompt_visual": "Germancho pointing at two cards pinned on a door, speaking calmly, steam rising from a cup nearby",
+     "texto_en_pantalla": "Claro, no duro"
+    },
+    {
+     "texto": "Ahora viene lo que casi nadie cuenta: después del límite llega la culpa. Sube como una ola. No significa que hiciste algo malo. Significa que estás haciendo algo nuevo. Es como estrenar zapatos: aprietan un poco, y no por eso son los equivocados.",
+     "emocion": "miedo",
+     "objeto": "zapatos nuevos",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching, trying on a pair of new shoes next to a closed door, looking unsure but curious",
+     "texto_en_pantalla": "La culpa es una ola"
+    },
+    {
+     "texto": "Cuando llegue la culpa, ponle nombre, respira y recuerda: puedo cuidar a otro sin abandonarme. Si el otro se molesta, está en su derecho, y tu límite sigue en pie. Y si poner límites te da miedo real, busca apoyo profesional.",
+     "emocion": "sereno",
+     "objeto": "taza humeante",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho breathing deeply with a steaming cup in his hands, a closed door with a handle behind him",
+     "texto_en_pantalla": "Cuidar sin abandonarte"
+    },
+    {
+     "texto": "Reto de hoy: toma tu cuaderno y, en tres minutos, escribe un límite con la fórmula: cuando pasa esto, me siento así, y necesito esto. No tienes que decirlo hoy, solo ponerlo en palabras. Cuéntanos en los comentarios cuál escribiste. Sigue: viene la práctica para volver a ti.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y lápiz",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waving with a notebook and pencil in hand, a door slightly open behind him with warm light",
+     "texto_en_pantalla": "Reto de hoy: escribe tu límite"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Elegirte no es fracasar",
+   "ambiente": "playa",
+   "palabras": 400,
+   "objetivo": "Mini-gancho: 'A veces la decisión más amorosa es soltar, y no significa que perdiste.' Hablar de tomar distancia o terminar sin verlo como fracaso, y de sanar el apego. Aclarar que no se trata de decidir en impulso. Si hay abuso o riesgo, buscar ayuda profesional y apoyo cercano. No prometer resultados.",
+   "idea_clave": "Soltar también puede ser amor",
+   "escenas": [
+    {
+     "texto": "A veces la decisión más amorosa es soltar, y no significa que perdiste. Lo sé, suena raro. Te lo digo aquí, con los pies en la arena, porque el mar también se retira cada tarde y nadie dice que fracasó. Solo sigue su ritmo.",
+     "emocion": "sereno",
+     "objeto": "olas suaves y huellas en la arena",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho stands barefoot on a calm beach at sunset, arms open toward the sea, a coffee mug in one hand",
+     "texto_en_pantalla": "Soltar no es perder"
+    },
+    {
+     "texto": "Nos enseñaron que si una relación termina, reprobaste el examen. Pero una relación no es una tarea con nota. Es un camino entre dos personas. A veces el camino se bifurca, o ya no cabe lo que necesitas llevar contigo en la maleta.",
+     "emocion": "tristeza",
+     "objeto": "maleta pequeña junto a una silla de playa",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho lies on a beach towel looking at the sky, a small suitcase beside him, thoughtful and a bit sad",
+     "texto_en_pantalla": "No es un examen"
+    },
+    {
+     "texto": "Ojo: esto no se trata de decidir en caliente. Nadie debería tomar una decisión grande en medio de la rabia o del llanto. Dale tiempo a la marea. Escribe, conversa, observa los patrones. Soltar con claridad es muy distinto a huir con prisa.",
+     "emocion": "sereno",
+     "objeto": "cuaderno y lápiz sobre la arena",
+     "pose": "senalando",
+     "prompt_visual": "Germancho sits on the sand pointing at a notebook, waves rolling slowly behind him, calm and reassuring expression",
+     "texto_en_pantalla": "Sin decidir en impulso"
+    },
+    {
+     "texto": "Elegirte tampoco siempre significa terminar. A veces es tomar distancia, pedir una pausa o cambiar cómo te relacionas. Otras veces sí es cerrar el capítulo. Ninguna opción es un castigo para el otro. Es volver a tu centro, como quien vuelve a la orilla.",
+     "emocion": "sereno",
+     "objeto": "dos caminos de huellas que se separan en la arena",
+     "pose": "cambio",
+     "prompt_visual": "Germancho walks along the shoreline where two lines of footprints split in different directions, looking peaceful",
+     "texto_en_pantalla": "Distancia también es cuidado"
+    },
+    {
+     "texto": "Y sí, duele. Eso que sientes es apego, y se sana despacio, como se seca una toalla al sol. Extrañar no significa que te equivocaste. Puedes extrañar y aun así cuidarte. Las dos cosas caben en la misma taza.",
+     "emocion": "tristeza",
+     "objeto": "toalla secándose al sol y una taza de café",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches on the beach holding a warm coffee cup with both hands, a towel drying on a chair nearby, gentle tender look",
+     "texto_en_pantalla": "Extrañar no es error"
+    },
+    {
+     "texto": "Si en tu relación hay miedo, golpes, humillaciones, control o amenazas, esto ya no es solo cuestión de límites. Busca ayuda profesional y apóyate en alguien cercano de confianza. No tienes que cargarlo sin compañía. Pedir ayuda también es elegirte.",
+     "emocion": "sereno",
+     "objeto": "letrero con un corazón y un teléfono",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a wooden sign with a heart and a phone icon, standing firmly on the beach, serious but warm expression",
+     "texto_en_pantalla": "Si hay riesgo, pide ayuda"
+    },
+    {
+     "texto": "Resumamos como quien recoge sus cosas de la playa. Uno: tu paz es información, no capricho. Dos: un límite es una puerta con manija de tu lado. Tres: elegirte no es fracasar, y no se decide con prisa. No hay garantías, pero puedes acompañarte.",
+     "emocion": "alegria",
+     "objeto": "tres piedras apiladas sobre la arena",
+     "pose": "escalera",
+     "prompt_visual": "Germancho stacks three smooth stones on the sand like small steps, smiling, golden sunset light",
+     "texto_en_pantalla": "Paz, límite, elegirte"
+    },
+    {
+     "texto": "Reto de hoy: toma tu cuaderno y escribe en 3 minutos: Algo que he estado aguantando por miedo a perder y que hoy quiero cuidar es... Después escribe un pequeño límite que podrías poner esta semana, y cuéntanos en los comentarios cuál elegiste.",
+     "emocion": "alegria",
+     "objeto": "cuaderno abierto y taza de café",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a beach stool with an open notebook and a coffee cup, writing with a smile, sunset behind",
+     "texto_en_pantalla": "Reto de hoy: 3 minutos"
+    },
+    {
+     "texto": "Gracias por quedarte hasta aquí. Escribe tu límite en los comentarios, aunque sea pequeñito, y lee los de otras personas. A veces el valor se contagia. Yo te leo con el café en la mano. Nos vemos en la próxima taza.",
+     "emocion": "alegria",
+     "objeto": "taza de café levantada hacia el mar",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waves goodbye on the beach holding a coffee mug up, big warm smile, sun setting over the ocean",
+     "texto_en_pantalla": "Cuéntame tu límite"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Práctica: vuelve a tu paz",
+   "ambiente": "parque",
+   "palabras": 270,
+   "objetivo": "Mini-gancho: 'Quédate conmigo tres minutos; esto lo puedes repetir cuando todo se agite.' Guiar una respiración lenta y tres preguntas de introspección para reconectar con la propia calma.",
+   "idea_clave": "Respira y pregúntate qué necesitas",
+   "escenas": [
+    {
+     "texto": "Quédate conmigo tres minutos; esto lo puedes repetir cuando todo se agite. Busca un banco o siéntate en el pasto. Deja el celular boca abajo. Nada tiene que salir perfecto. Solo vamos a respirar, como quien se toma el primer sorbo de café.",
+     "emocion": "sereno",
+     "objeto": "banco de parque y taza de café",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waves gently and sits on a park bench holding a coffee cup, soft morning light, trees behind him",
+     "texto_en_pantalla": "Tres minutos para ti"
+    },
+    {
+     "texto": "Inhala por la nariz contando cuatro. Sostén un segundo. Exhala despacio contando seis, como si soplaras una taza caliente. Hazlo tres veces. Siente los pies en el suelo y el aire del parque. Si la mente se escapa, tráela de vuelta sin regañarla.",
+     "emocion": "sereno",
+     "objeto": "taza humeante",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits calmly, eyes closed, inhaling slowly then blowing on a steaming cup, gentle breeze moving the leaves",
+     "texto_en_pantalla": "Inhala 4 · Exhala 6"
+    },
+    {
+     "texto": "Primera pregunta: ¿cómo me siento de verdad cuando estoy cerca de esta persona? No como debería sentirme. Como me siento. Deja que llegue una sola palabra y nómbrala sin juzgarla. Cansancio, calma, tensión, lo que sea. Esa palabra ya es información.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points softly to his chest, an open notebook on his knees, park pathway behind him",
+     "texto_en_pantalla": "¿Cómo me siento de verdad?"
+    },
+    {
+     "texto": "Segunda pregunta: ¿qué parte de mí estoy dejando a un lado para sostener esto? Quizá tu descanso, tu voz, tus ganas. Respira y mira esa parte con ternura. No viniste a pelear contigo. Viniste a escucharte.",
+     "emocion": "tristeza",
+     "objeto": "hoja que cae de un árbol",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches and picks up a fallen leaf, looking at it tenderly, soft golden park light",
+     "texto_en_pantalla": "¿Qué dejo de lado de mí?"
+    },
+    {
+     "texto": "Tercera, la que casi nadie se atreve: ¿qué haría diferente hoy si perder no me diera tanto miedo? No tienes que hacerlo ya. Deja que la respuesta se siente a tu lado, como una taza tibia. Y una última respiración larga.",
+     "emocion": "sorpresa",
+     "objeto": "taza tibia",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho opens his arms wide under a big tree, taking a deep breath, a warm cup resting on the bench beside him",
+     "texto_en_pantalla": "¿Qué haría sin tanto miedo?"
+    },
+    {
+     "texto": "Resumen rápido. Uno: amar no es aguantar todo. Dos: un límite es una puerta con manija de tu lado, no un portazo. Tres: elegirte no es fracasar, es cuidar la casa donde vives. Y si el malestar persiste, un profesional puede acompañarte.",
+     "emocion": "alegria",
+     "objeto": "letrero con tres puntos",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a small sign listing three points, smiling, park background with soft sunlight",
+     "texto_en_pantalla": "Amar no es aguantar todo"
+    },
+    {
+     "texto": "Reto de hoy: toma tu cuaderno y escribe en 3 minutos: 'Algo que he estado aguantando por miedo a perder y que hoy quiero cuidar es...'. Después escribe un pequeño límite que podrías poner esta semana, y cuéntanos en los comentarios cuál elegiste.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y lapicero",
+     "pose": "saludando",
+     "prompt_visual": "Germancho smiles and holds up a notebook and pen toward the viewer, waving goodbye, park bench and coffee cup behind him",
+     "texto_en_pantalla": "Reto de hoy: escríbelo"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Cierre",
+   "ambiente": "cafeteria",
+   "palabras": 150,
+   "objetivo": "Resumir en tres ideas, cerrar el bucle de las tres preguntas del gancho, dar el Reto de hoy y el CTA: suscribirse, dar like, compartir con alguien que necesite escucharlo y comentar desde qué país ven el video.",
+   "idea_clave": "Tu paz no se negocia",
+   "escenas": [
+    {
+     "texto": "Llegamos al fondo de la taza. ¿Recuerdas las tres preguntas del inicio? Una: amar no es aguantar, y tu paz es la señal. Dos: el límite es una puerta con manija de tu lado, no un portazo. Tres: elegirte no es fracasar, es cuidar la casa donde vives.",
+     "emocion": "sereno",
+     "objeto": "taza de café vacía",
+     "pose": "senalando",
+     "prompt_visual": "Germancho in a cozy cafe holding an almost empty cup, calmly counting three ideas on his fingers",
+     "texto_en_pantalla": "Tres ideas para llevarte"
+    },
+    {
+     "texto": "Reto de hoy. Toma tu cuaderno y escribe en 3 minutos: 'Algo que he estado aguantando por miedo a perder y que hoy quiero cuidar es...'. Después escribe un pequeño límite que podrías poner esta semana, y cuéntanos en los comentarios cuál elegiste.",
+     "emocion": "sereno",
+     "objeto": "cuaderno y lápiz",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding up a notebook and pencil on a cafe table, inviting the viewer to write",
+     "texto_en_pantalla": "Reto de hoy: 3 minutos"
+    },
+    {
+     "texto": "Si este café te sirvió, suscríbete y dale like. Compártelo con alguien que necesite escucharlo hoy. Y cuéntame en los comentarios: ¿desde qué país me ves? Cuida tu paz, que yo me encargo de la cafetera. Nos vemos en el próximo café.",
+     "emocion": "alegria",
+     "objeto": "taza humeante",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho smiling warmly with open arms behind a cafe counter, steaming cup beside him, waving goodbye",
+     "texto_en_pantalla": "¿Desde qué país nos ves?"
+    }
+   ]
+  }
+ ],
+ "reto_de_hoy": "Toma tu cuaderno y escribe en 3 minutos: 'Algo que he estado aguantando por miedo a perder y que hoy quiero cuidar es...'. Después escribe un pequeño límite que podrías poner esta semana, y cuéntanos en los comentarios cuál elegiste.",
+ "palabras": 2308
+}
