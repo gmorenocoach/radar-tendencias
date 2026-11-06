@@ -24,11 +24,13 @@ def producir(pieza, plan):
         cmd = [sys.executable, "-m", "fabrica.largo", "--perfil", perfil, "--minutos", str(pieza.get("minutos") or plan["plan"].get("minutos_largo", 15))]
     else:
         cmd = [sys.executable, "-m", "fabrica.produce", "--perfil", perfil]
-    if pieza.get("referencia_video_id"):
-        cmd += ["--video_id", pieza["referencia_video_id"]]
+    vid = (pieza.get("referencia_video_id") or "").strip()
+    if len(vid) == 11:
+        cmd += [f"--video_id={vid}"]          # con '=' porque algunos IDs de YouTube empiezan por '-'
+    
     else:
         tema = pieza["titulo"] + (f". Gancho: {pieza['gancho']}" if pieza.get("gancho") else "") + (f". Serie: {pieza['serie']}, capítulo {pieza['capitulo']}" if pieza.get("serie") else "")
-        cmd += ["--tema", tema]
+        cmd += [f"--tema={tema}"]
     print(f"\n>>> {pieza['id']} · {pieza['tipo']} · {pieza['titulo'][:60]}")
     t0 = time.time()
     r = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
@@ -61,7 +63,7 @@ def main():
             continue
         if plan["plan"].get("modo") == "pausa" and not a.pieza:
             continue
-        candidatas = [x for x in plan["piezas"] if x["tipo"] in ("largo", "short") and x.get("estado") == "planificado"
+        candidatas = [x for x in plan["piezas"] if x["tipo"] in ("largo", "short") and x.get("estado") in ("planificado", "error")
                       and (x["id"] == a.pieza if a.pieza else dt.date.fromisoformat(x["fecha"]) <= hoy + dt.timedelta(days=a.dias))]
         candidatas.sort(key=lambda x: (x["fecha"], 0 if x["tipo"] == "largo" else 1))
         for pieza in candidatas:
