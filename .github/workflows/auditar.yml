@@ -1,0 +1,30 @@
+name: Auditar canal
+
+on:
+  workflow_dispatch:
+    inputs:
+      canal_id:
+        description: "ID del canal (UC…)"
+        required: true
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          CID: ${{ github.event.inputs.canal_id }}
+        run: |
+          python3 - <<'EOF2'
+          import json, os, urllib.request
+          k=os.environ["YOUTUBE_API_KEY"]; cid=os.environ["CID"]; A="https://www.googleapis.com/youtube/v3/"
+          g=lambda u: json.load(urllib.request.urlopen(A+u+"&key="+k))
+          c=g(f"channels?part=snippet,statistics,contentDetails,brandingSettings&id={cid}")["items"][0]
+          s=c["statistics"]; print("CANAL:", c["snippet"]["title"], "| subs", s.get("subscriberCount"), "| videos", s.get("videoCount"), "| vistas", s.get("viewCount"), "| creado", c["snippet"]["publishedAt"][:10])
+          print("KEYWORDS:", c.get("brandingSettings",{}).get("channel",{}).get("keywords",""))
+          up=c["contentDetails"]["relatedPlaylists"]["uploads"]
+          items=g(f"playlistItems?part=contentDetails&playlistId={up}&maxResults=30")["items"]
+          ids=",".join(i["contentDetails"]["videoId"] for i in items)
+          for v in g(f"videos?part=snippet,statistics,contentDetails&id={ids}")["items"]:
+              st=v["statistics"]; print(f"{v['snippet']['publishedAt'][:10]} {v['contentDetails']['duration']:>9} vistas {st.get('viewCount','0'):>6} likes {st.get('likeCount','0'):>4} | {v['snippet']['title'][:70]}")
+          EOF2
