@@ -311,7 +311,7 @@ class Radar:
         excluir = nicho.get("excluir", {}).get(perfil["idioma"], [])
         descartados_relevancia = 0
         validos = {}
-        categorias_excluidas = {"10", "20", "17"}   # Música, Juegos, Deportes
+        categorias_excluidas = {"10", "20", "17", "1", "30", "44", "43"}   # Música, Juegos, Deportes, Cine, Películas, Tráileres, Programas
         for vid, v in detalles.items():
             if v["snippet"].get("categoryId") in categorias_excluidas:
                 descartados_relevancia += 1
