@@ -27,6 +27,11 @@ on:
         description: "Duración objetivo del video largo (minutos)"
         required: false
         default: "15"
+      economico:
+        description: "Largo en modo económico (una imagen por capítulo)"
+        required: false
+        type: boolean
+        default: false
       voz:
         description: "Nombre de la voz de ElevenLabs (vacío = la del perfil)"
         required: false
@@ -87,7 +92,7 @@ jobs:
           if [ -n "${{ github.event.inputs.video_id }}" ]; then ARGS="$ARGS --video_id=${{ github.event.inputs.video_id }}"; fi
           if [ -n "${{ github.event.inputs.tema }}" ]; then ARGS="$ARGS --tema=\"${{ github.event.inputs.tema }}\""; fi
           if [ "${{ github.event.inputs.formato }}" = "largo" ]; then
-            eval python -m fabrica.largo $ARGS --minutos ${{ github.event.inputs.minutos || 15 }}
+            eval python -m fabrica.largo $ARGS --minutos ${{ github.event.inputs.minutos || 15 }} ${{ github.event.inputs.economico == 'true' && '--economico' || '' }}
           else
             eval python -m fabrica.produce $ARGS
           fi

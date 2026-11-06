@@ -215,12 +215,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--perfil", required=True); ap.add_argument("--video_id", default=""); ap.add_argument("--tema", default="")
     ap.add_argument("--minutos", type=int, default=15)
+    ap.add_argument("--economico", action="store_true", help="una imagen por capítulo (≈ 1/5 del costo); variedad por cámara y texto en pantalla")
     a = ap.parse_args()
     if not a.video_id and not a.tema:
         sys.exit("Indica --video_id o --tema")
     p = cargar_perfil(a.perfil); canal = canal_de(p["id"]); ambientes = ambientes_de(canal)
     t0 = time.time()
-    print(f"=== Largo · {p['canal']} · {a.minutos} min · {'video ' + a.video_id if a.video_id else 'tema: ' + a.tema}{' · MOCK' if MOCK else ''}")
+    print(f"=== Largo · {p['canal']} · {a.minutos} min · {'video ' + a.video_id if a.video_id else 'tema: ' + a.tema}{' · ECONÓMICO' if a.economico else ''}{' · MOCK' if MOCK else ''}")
 
     f = adn.ficha(a.video_id or None, a.tema or None, p["idioma"])
     est = estructura(f, p, a.minutos, ambientes)
@@ -245,16 +246,19 @@ def main():
     for cap in est["capitulos"]:
         base = str(d / "escenas" / f"cap{cap['n']:02d}_base.png")
         imagen_base_capitulo(cap, canal, ambientes, base)
-        base_url = subir_temporal(base)
+        base_url = subir_temporal(base) if not a.economico else ""
         for j, esc in enumerate(cap["escenas"]):
             png = str(d / "escenas" / f"cap{cap['n']:02d}_e{j + 1:02d}.png")
-            if j == 0:
+            if j == 0 or a.economico:
                 shutil.copy(base, png)
             else:
                 imagen_escena_largo(esc, canal, base_url, png)
             pngs.append(png)
             lim = limites[k] if k < len(limites) else {"inicio": 0, "fin": 1}
-            textos.append({"texto": esc.get("texto_en_pantalla", "") or (cap.get("idea_clave", "") if j == 0 else ""), "inicio": lim["inicio"], "fin": lim["fin"]})
+            texto_pantalla = esc.get("texto_en_pantalla", "") or (cap.get("idea_clave", "") if j == 0 else "")
+            if a.economico and not texto_pantalla:
+                texto_pantalla = " ".join(esc["texto"].split()[:6]) + "…"
+            textos.append({"texto": texto_pantalla, "inicio": lim["inicio"], "fin": lim["fin"]})
             k += 1
         print(f"  Imágenes cap {cap['n']}: {len(cap['escenas'])}")
 
@@ -281,7 +285,7 @@ def main():
     for k_, v_ in enlaces.items():
         cta = cta.replace("{" + k_ + "}", v_)
     cta = "\n".join(l for l in cta.split("\n") if "{ENLACE_" not in l)
-    meta = {"id": nombre, "perfil": p["id"], "canal": p["canal"], "formato": "largo", "fecha": dt.datetime.now().isoformat(timespec="seconds"),
+    meta = {"id": nombre, "perfil": p["id"], "canal": p["canal"], "formato": "largo", "modo": "economico" if a.economico else "completo", "fecha": dt.datetime.now().isoformat(timespec="seconds"),
             "titulo": est["titulo"], "titulos_alternativos": est.get("titulos_alternativos", []),
             "descripcion": est["descripcion"] + "\n\nCapítulos:\n" + capitulos_txt + ("\n\n" + cta if cta else "") + "\n\n" + " ".join(est["hashtags"]),
             "hashtags": est["hashtags"], "reto_de_hoy": est.get("reto_de_hoy", ""), "duracion_s": round(dur, 1), "tamano_mb": round(tam, 1),

@@ -22,6 +22,8 @@ def producir(pieza, plan):
     perfil = plan["perfil"]
     if pieza["tipo"] == "largo":
         cmd = [sys.executable, "-m", "fabrica.largo", "--perfil", perfil, "--minutos", str(pieza.get("minutos") or plan["plan"].get("minutos_largo", 15))]
+        if plan["plan"].get("modo_largo") == "economico":
+            cmd.append("--economico")
     else:
         cmd = [sys.executable, "-m", "fabrica.produce", "--perfil", perfil]
     vid = (pieza.get("referencia_video_id") or "").strip()
