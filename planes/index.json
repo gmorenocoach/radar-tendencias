@@ -123,6 +123,101 @@
     },
     "nota": "Estimación con supuestos conservadores; se recalibra cada semana con datos reales del tablero."
    }
+  },
+  {
+   "perfil": "soyintegral_es",
+   "canal": "Soy Integral · Salud",
+   "plan": {
+    "modo": "mantenimiento",
+    "objetivo": "Acumular horas y suscriptores con las reglas nuevas (8.000 h) sin frenar el sprint de Equilíbrate",
+    "desde": "2026-11-10",
+    "hasta": "2026-12-31",
+    "largos_semana": 1,
+    "shorts_semana": 3,
+    "vivos_semana": 0,
+    "comunidad_semana": 1,
+    "dias_largos": [
+     3
+    ],
+    "hora_largos": "18:00",
+    "dias_shorts": [
+     1,
+     3,
+     5
+    ],
+    "hora_shorts": "12:00",
+    "dias_vivos": [],
+    "hora_vivos": "19:00",
+    "duracion_vivo_min": 60,
+    "minutos_largo": 12,
+    "series_activas": 1,
+    "subs_actuales": 0,
+    "horas_actuales": 0,
+    "modo_largo": "economico"
+   },
+   "desde": "2026-11-10",
+   "hasta": "2026-12-31",
+   "generado": "2026-11-06T12:23:09",
+   "vivos": [
+    {
+     "titulo": "En vivo: ¿Qué hábito de salud llevas años posponiendo?",
+     "pregunta_abierta": "¿Cuál es ese hábito que sabes que te haría bien y llevas meses o años dejando para después? ¿Qué excusa usas siempre? Vamos a ponerle nombre juntos en el chat.",
+     "reto_colectivo": "Durante el vivo, cada persona escribe su hábito y lo reduce a una versión de menos de 5 minutos. Todos lo hacemos al mismo tiempo antes de cerrar la transmisión, y quien quiera cuenta cómo le fue en comentarios."
+    },
+    {
+     "titulo": "En vivo: Tu cuerpo te habla, ¿le estás contestando?",
+     "pregunta_abierta": "¿Qué señal pequeña de tu cuerpo llevas tiempo ignorando: cansancio, tensión, sueño, antojos? ¿Qué crees que te quiere decir? Si algo te preocupa de verdad, lo mejor es consultarlo con un profesional de salud.",
+     "reto_colectivo": "Hacemos una pausa de 5 minutos en vivo: cada quien se estira, toma agua y anota en su cuaderno una señal de su cuerpo. Quien quiera, la comparte en el chat y entre todos proponemos una acción pequeña de cuidado."
+    }
+   ],
+   "comunidad": [
+    {
+     "tipo": "encuesta",
+     "texto": "Personaliza tu Germancho: ¿de qué quieres que hable el próximo video? A) Dormir mejor B) Tener más energía en la tarde C) Moverme sin aburrirme D) Comer con menos culpa. Vota y cuéntame por qué en comentarios."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Personaliza tu Germancho: ¿cómo prefieres tu reto de la semana? A) 5 minutos de movimiento B) 5 minutos de respiración y silencio C) 5 minutos de cuaderno D) Sorpréndeme, que yo me animo."
+    },
+    {
+     "tipo": "reto",
+     "texto": "Reto de la semana: la taza de las 3 pausas. Cada día toma 3 pausas de 1 minuto: una al despertar, una a media tarde y una antes de dormir. En cada una, respira lento y pregúntate cómo está tu cuerpo. Cuéntame el viernes cuál pausa te costó menos."
+    },
+    {
+     "tipo": "reto",
+     "texto": "Reto de la semana: la escalera del agua. Lunes 1 vaso extra, martes 2, miércoles 3 y así hasta donde se sienta cómodo para ti. Si tienes alguna condición de salud, ajusta con tu profesional. Cuenta en comentarios hasta qué escalón llegaste."
+    },
+    {
+     "tipo": "pregunta",
+     "texto": "Pregunta para hoy: ¿cuál es el hábito más pequeño que hiciste esta semana y que sí te hizo sentir mejor? Escríbelo en una línea. Seguro le sirve a alguien más."
+    },
+    {
+     "tipo": "pregunta",
+     "texto": "Pregunta para hoy: si tu salud fuera una taza de café, ¿cómo está hoy: vacía, tibia, amarga o recién servida? Cuéntame por qué, sin juicios."
+    }
+   ],
+   "proyeccion": {
+    "semanas": 7.3,
+    "largos": 8,
+    "shorts": 23,
+    "vivos": 0,
+    "horas_estimadas": 392,
+    "horas_de_largos": 392,
+    "horas_de_vivos": 0,
+    "subs_estimados": 651,
+    "supuestos": {
+     "vistas_largo_promedio": 700,
+     "retencion_largo": 0.35,
+     "minutos_largo": 12,
+     "espectadores_vivo_promedio": 35,
+     "minutos_vivo": 60,
+     "repeticion_vivo_vistas": 150,
+     "vistas_short_promedio": 3500,
+     "conversion_subs_short": 0.006,
+     "conversion_subs_largo": 0.03
+    },
+    "nota": "Estimación con supuestos conservadores; se recalibra cada semana con datos reales del tablero."
+   }
   }
  ]
 }
