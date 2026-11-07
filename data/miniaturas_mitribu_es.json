@@ -1,32 +1,32 @@
 {
  "perfil": "mitribu_es",
- "n": 8,
+ "n": 7,
  "promedio": {
-  "brillo": 68,
-  "pct_oscuro": 59,
+  "brillo": 66,
+  "pct_oscuro": 63,
   "pct_amarillo": 0,
-  "pct_piel": 8,
+  "pct_piel": 10,
   "pct_saturado": 0
  },
  "promedio_top10": {
-  "brillo": 68,
-  "pct_oscuro": 59,
+  "brillo": 66,
+  "pct_oscuro": 63,
   "pct_amarillo": 0,
-  "pct_piel": 8,
+  "pct_piel": 10,
   "pct_saturado": 0
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 88,
-  "pct_con_rostro_probable": 50,
+  "pct_miniaturas_oscuras": 100,
+  "pct_con_rostro_probable": 57,
   "pct_con_amarillo": 0
  },
- "recomendacion": "Mixto: probar clara y oscura con 'Prueba y compara'",
+ "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
  "ejemplos": [
   {
    "video_id": "I6WOUQstEmg",
    "titulo": "¿Se acuerdan del sobrecito para ahorrar? ✉️ Hacela fácil con los Frascos Fijos de Naranja X📱",
-   "vistas": 3520174,
-   "ratio": 505.0,
+   "vistas": 3603604,
+   "ratio": 517.0,
    "miniatura": "https://i.ytimg.com/vi/I6WOUQstEmg/maxresdefault.jpg",
    "brillo": 89,
    "pct_oscuro": 47,
@@ -35,22 +35,10 @@
    "pct_saturado": 0
   },
   {
-   "video_id": "bQExmPckeyo",
-   "titulo": "Esto es: ¿Invertir? Tú puedes. Cómo empezar a invertir desde cero | ING",
-   "vistas": 2269583,
-   "ratio": 56.7,
-   "miniatura": "https://i.ytimg.com/vi/bQExmPckeyo/maxresdefault.jpg",
-   "brillo": 105,
-   "pct_oscuro": 21,
-   "pct_amarillo": 0,
-   "pct_piel": 11,
-   "pct_saturado": 0
-  },
-  {
    "video_id": "LZdStuNPJHY",
    "titulo": "Formas de ahorrar en Amazon #amazoncoupon",
-   "vistas": 2183472,
-   "ratio": 576.1,
+   "vistas": 2183701,
+   "ratio": 576.2,
    "miniatura": "https://i.ytimg.com/vi/LZdStuNPJHY/maxresdefault.jpg",
    "brillo": 71,
    "pct_oscuro": 58,
@@ -71,6 +59,18 @@
    "pct_saturado": 0
   },
   {
+   "video_id": "89t8iAHGEPo",
+   "titulo": "💰 Desafío de 24 Horas para Manifestar Dinero | ¿Funciona la Ley de la Atracción?",
+   "vistas": 125280,
+   "ratio": 21.2,
+   "miniatura": "https://i.ytimg.com/vi/89t8iAHGEPo/maxresdefault.jpg",
+   "brillo": 71,
+   "pct_oscuro": 64,
+   "pct_amarillo": 0,
+   "pct_piel": 20,
+   "pct_saturado": 0
+  },
+  {
    "video_id": "MQP17FvMjZc",
    "titulo": "Trucos del repartidor de Amazon para ahorrar #amazoncoupon",
    "vistas": 86547,
@@ -80,18 +80,6 @@
    "pct_oscuro": 67,
    "pct_amarillo": 0,
    "pct_piel": 1,
-   "pct_saturado": 1
-  },
-  {
-   "video_id": "Vp2I_dRSldI",
-   "titulo": "¿Cual es la libertad financiera?",
-   "vistas": 79151,
-   "ratio": 54.6,
-   "miniatura": "https://i.ytimg.com/vi/Vp2I_dRSldI/maxresdefault.jpg",
-   "brillo": 49,
-   "pct_oscuro": 76,
-   "pct_amarillo": 0,
-   "pct_piel": 7,
    "pct_saturado": 1
   },
   {
