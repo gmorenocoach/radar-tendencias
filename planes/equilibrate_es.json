@@ -705,7 +705,10 @@
    "subtema": "Diferencia entre necesitar y elegir: ansiedad por mensajes, miedo a la soledad, validación constante. Cierre: si no es amor, ¿de dónde viene esa necesidad?",
    "referencia_video_id": "-ai9L-jXtx0",
    "minutos": 15,
-   "estado": "planificado"
+   "estado": "error",
+   "produccion_id": "",
+   "resultado": "error: RuntimeError: JSON inválido de Claude: Expecting value: line 1 column 1 (char 0)",
+   "producido_en": "2026-11-07T15:57:33"
   },
   {
    "id": "equilibrate_es-20261109-S",
@@ -718,7 +721,10 @@
    "titulo": "3 frases del agradador crónico",
    "gancho": "Como tú quieras, no importa, a mí me da igual. Si dices esto seguido, tu taza lleva meses vacía.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261107-equilibrate_es-3-frases-que-vacian-tu-taza-sin-que-lo-notes-cap-1",
+   "resultado": "ok 246s",
+   "producido_en": "2026-11-07T16:01:40"
   },
   {
    "id": "equilibrate_es-20261109-C",

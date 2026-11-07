@@ -1,0 +1,52 @@
+{
+ "fuente": {
+  "tema": "3 frases del agradador crónico. Gancho: Como tú quieras, no importa, a mí me da igual. Si dices esto seguido, tu taza lleva meses vacía.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 1"
+ },
+ "adn": {
+  "tema_central": "Las 3 frases típicas del agradador crónico ('Como tú quieras', 'No importa', 'A mí me da igual') y cómo, dichas con frecuencia, revelan que la persona lleva meses sin atender sus propias necesidades. Capítulo 1 de la serie 'La Taza Derramada: 6 capítulos para amar sin perderte', con la metáfora de la taza vacía como eje.",
+  "promesa_del_titulo": "En menos de 45 segundos reconocerás las 3 frases con las que te estás borrando en tus relaciones y entenderás por qué te sientes vacío/a aunque des todo.",
+  "gancho_primeros_segundos": "Voz directa a cámara, sin saludo, con la primera frase dicha de forma casual: 'Como tú quieras... no importa... a mí me da igual.' Pausa de medio segundo y corte seco: 'Si dices esto seguido, tu taza lleva meses vacía.' Visual: una taza que se inclina y se vacía en cámara lenta mientras aparece el texto en pantalla con las tres frases.",
+  "tipo_de_gancho": "Contradicción emocional + espejo de identificación: frases que parecen amables y generosas se presentan como señal de alarma. Refuerzo con metáfora visual (taza vacía) y apelación directa en segunda persona.",
+  "estructura": [
+   "0-3s: Gancho. Las tres frases dichas seguidas + sentencia 'tu taza lleva meses vacía'.",
+   "3-6s: Marco rápido: 'Esto no es ser buena persona, es desaparecer poco a poco. Capítulo 1 de La Taza Derramada.'",
+   "6-20s: Frase 1, 'Como tú quieras': qué esconde (miedo a incomodar, renuncia a tener preferencia) y ejemplo cotidiano de 1 línea.",
+   "20-32s: Frase 2, 'No importa': qué esconde (minimizas tu necesidad antes de que otro la minimice) y ejemplo.",
+   "32-42s: Frase 3, 'A mí me da igual': qué esconde (no sabes qué quieres porque llevas años sin preguntártelo) y ejemplo.",
+   "42-50s: Giro esperanzador: la taza se llena con una sola preferencia dicha en voz alta; no hace falta ser egoísta, basta con existir en la conversación.",
+   "50-58s: Reto + CTA y apertura del siguiente capítulo."
+  ],
+  "ritmo": "Rápido y limpio: cortes cada 2-3 segundos, texto en pantalla sincronizado con cada frase, un golpe sonoro o silencio breve antes de cada revelación. Frases cortas, sin relleno. Cada frase de la lista dura unos 10 segundos con estructura repetida (frase → qué esconde → ejemplo) para facilitar retención y rewatch. Duración total 45-58 segundos.",
+  "tono": "Cercano, empático y firme; como una amiga/o que te dice una verdad con cariño, sin juzgar ni dar lástima. Sin tecnicismos psicológicos. Ligera ironía al imitar las frases, calidez al explicarlas.",
+  "cta_final": "Reto: 'Esta semana, la próxima vez que te pregunten qué quieres, responde con una preferencia real. Una sola. Cuéntame en comentarios cuál fue.' Cierre: 'Sigue la serie: en el capítulo 2 te cuento por qué te cuesta tanto decir que no.'",
+  "formula_del_titulo": "[Número] + frases cotidianas aparentemente inocentes + consecuencia emocional inesperada (+ metáfora) + etiqueta de serie",
+  "titulo_con_numero": "3 frases que dices a diario y que vacían tu taza (Cap. 1)",
+  "palabras_clave": [
+   "agradador crónico",
+   "complaciente",
+   "people pleaser",
+   "como tú quieras",
+   "a mí me da igual",
+   "límites",
+   "amor propio",
+   "relaciones sanas",
+   "dependencia emocional",
+   "La Taza Derramada",
+   "psicología",
+   "autoestima"
+  ],
+  "emocion_dominante": "Reconocimiento incómodo (sentirse visto/a) que deriva en alivio y esperanza.",
+  "formula_miniatura": "Primer plano de una taza volcada o vacía con un hilo de líquido, fondo de color cálido y contrastado. Texto grande de 3-4 palabras máximo: 'TU TAZA ESTÁ VACÍA' o '3 FRASES'. Opcional: el número 3 en color de acento y rostro con expresión neutra-resignada a un lado. Etiqueta pequeña 'Cap. 1'.",
+  "por_que_funciona": "Usa frases que el espectador dice o escucha a diario, lo que provoca identificación inmediata y ganas de comentar. La contradicción (amabilidad = señal de alarma) genera curiosidad y disonancia. La lista de 3 es fácil de consumir y de repetir. La metáfora de la taza es visual, memorable y compartible. El formato serie con capítulos crea motivo para seguir al canal, y el reto final impulsa comentarios y retención.",
+  "riesgos_a_evitar": [
+   "Sonar a diagnóstico clínico o culpabilizar al espectador ('eres débil', 'estás enfermo/a').",
+   "Empezar con saludo o presentación de la serie antes del gancho.",
+   "Explicar de más cada frase y superar el minuto, con caída de retención.",
+   "Mensaje que empuje al egoísmo en lugar de al equilibrio; aclarar que se trata de incluirte, no de dejar de dar.",
+   "Metáfora de la taza confusa o repetida en exceso.",
+   "Miniatura con demasiado texto o sin contraste.",
+   "CTA vago ('suscríbete') sin reto concreto.",
+   "Generalizar: decir que siempre indican agradar en exceso; usar 'si lo dices seguido'."
+  ]
+ }
+}

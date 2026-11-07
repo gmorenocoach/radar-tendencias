@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.60,Sub,,0,0,0,,{\k21}LO {\k16}QUE {\k23}TÚ
+Dialogue: 0,0:00:00.60,0:00:01.89,Sub,,0,0,0,,{\k96}DECIDAS... {\k20}NO {\k13}ES
+Dialogue: 0,0:00:01.89,0:00:02.86,Sub,,0,0,0,,{\k68}NADA... {\k19}YO {\k9}ME
+Dialogue: 0,0:00:02.86,0:00:04.37,Sub,,0,0,0,,{\k93}ACOMODO. {\k21}SI {\k37}DICES
+Dialogue: 0,0:00:04.37,0:00:05.43,Sub,,0,0,0,,{\k26}ESTO {\k59}SEGUIDO, {\k22}TU
+Dialogue: 0,0:00:05.43,0:00:06.66,Sub,,0,0,0,,{\k37}TAZA {\k42}LLEVA {\k44}MESES
+Dialogue: 0,0:00:06.66,0:00:08.42,Sub,,0,0,0,,{\k101}VACÍA. {\k52}ESTO {\k22}NO
+Dialogue: 0,0:00:08.42,0:00:08.99,Sub,,0,0,0,,{\k9}ES {\k21}SER {\k27}BUENA
+Dialogue: 0,0:00:08.99,0:00:10.88,Sub,,0,0,0,,{\k74}PERSONA, {\k26}ES {\k89}DESAPARECER
+Dialogue: 0,0:00:10.88,0:00:12.27,Sub,,0,0,0,,{\k12}DE {\k7}A {\k121}POQUITO.
+Dialogue: 0,0:00:12.27,0:00:13.91,Sub,,0,0,0,,{\k70}CAPÍTULO {\k69}UNO: {\k26}LA
+Dialogue: 0,0:00:13.91,0:00:16.35,Sub,,0,0,0,,{\k41}TAZA {\k120}DERRAMADA. {\k84}PRIMERA:
+Dialogue: 0,0:00:16.35,0:00:17.17,Sub,,0,0,0,,{\k35}«LO {\k20}QUE {\k28}TÚ
+Dialogue: 0,0:00:17.17,0:00:19.32,Sub,,0,0,0,,{\k112}DECIDAS». {\k61}ESCONDE {\k42}MIEDO
+Dialogue: 0,0:00:19.32,0:00:20.72,Sub,,0,0,0,,{\k7}A {\k117}INCOMODAR. {\k16}TE
+Dialogue: 0,0:00:20.72,0:00:22.23,Sub,,0,0,0,,{\k53}PREGUNTAN {\k31}DÓNDE {\k66}CENAR,
+Dialogue: 0,0:00:22.23,0:00:22.89,Sub,,0,0,0,,{\k18}YA {\k34}SABES {\k15}QUÉ
+Dialogue: 0,0:00:22.89,0:00:24.15,Sub,,0,0,0,,{\k55}QUIERES, {\k15}Y {\k56}DICES
+Dialogue: 0,0:00:24.15,0:00:27.07,Sub,,0,0,0,,{\k57}«DONDE {\k135}QUIERAS». {\k101}SEGUNDA:
+Dialogue: 0,0:00:27.07,0:00:28.40,Sub,,0,0,0,,{\k98}«TRANQUILO, {\k21}NO {\k14}ES
+Dialogue: 0,0:00:28.40,0:00:30.16,Sub,,0,0,0,,{\k89}NADA». {\k74}MINIMIZAS {\k13}TU
+Dialogue: 0,0:00:30.16,0:00:31.43,Sub,,0,0,0,,{\k73}NECESIDAD {\k42}ANTES {\k12}DE
+Dialogue: 0,0:00:31.43,0:00:32.07,Sub,,0,0,0,,{\k20}QUE {\k30}OTRO {\k14}LO
+Dialogue: 0,0:00:32.07,0:00:33.44,Sub,,0,0,0,,{\k74}HAGA. {\k43}LLEGAS {\k20}SIN
+Dialogue: 0,0:00:33.44,0:00:34.90,Sub,,0,0,0,,{\k59}ENERGÍA {\k10}Y {\k77}DICES:
+Dialogue: 0,0:00:34.90,0:00:36.37,Sub,,0,0,0,,{\k24}YO {\k49}DESCANSO {\k74}LUEGO.
+Dialogue: 0,0:00:36.37,0:00:37.90,Sub,,0,0,0,,{\k93}TERCERA: {\k45}«YO {\k14}ME
+Dialogue: 0,0:00:37.90,0:00:40.23,Sub,,0,0,0,,{\k101}ACOMODO». {\k49}ESTA {\k84}DUELE:
+Dialogue: 0,0:00:40.23,0:00:40.96,Sub,,0,0,0,,{\k17}YA {\k16}NO {\k39}SABES
+Dialogue: 0,0:00:40.96,0:00:42.13,Sub,,0,0,0,,{\k14}QUÉ {\k70}QUIERES, {\k34}PORQUE
+Dialogue: 0,0:00:42.13,0:00:43.07,Sub,,0,0,0,,{\k24}HACE {\k49}TIEMPO {\k21}NO
+Dialogue: 0,0:00:43.07,0:00:44.48,Sub,,0,0,0,,{\k12}TE {\k10}LO {\k118}PREGUNTAS.
+Dialogue: 0,0:00:44.48,0:00:45.83,Sub,,0,0,0,,{\k35}BUENA {\k84}NOTICIA: {\k16}LA
+Dialogue: 0,0:00:45.83,0:00:46.65,Sub,,0,0,0,,{\k38}TAZA {\k13}SE {\k31}LLENA
+Dialogue: 0,0:00:46.65,0:00:47.43,Sub,,0,0,0,,{\k20}CON {\k24}UNA {\k34}SOLA
+Dialogue: 0,0:00:47.43,0:00:48.68,Sub,,0,0,0,,{\k74}PREFERENCIA {\k41}DICHA {\k10}EN
+Dialogue: 0,0:00:48.68,0:00:50.18,Sub,,0,0,0,,{\k27}VOZ {\k91}ALTA. {\k33}NO
+Dialogue: 0,0:00:50.18,0:00:51.48,Sub,,0,0,0,,{\k16}ES {\k87}EGOÍSMO, {\k27}ES
+Dialogue: 0,0:00:51.48,0:00:52.33,Sub,,0,0,0,,{\k65}EXISTIR {\k8}EN {\k12}LA
+Dialogue: 0,0:00:52.33,0:00:54.23,Sub,,0,0,0,,{\k135}CONVERSACIÓN. {\k43}RETO {\k13}DE
+Dialogue: 0,0:00:54.23,0:00:55.33,Sub,,0,0,0,,{\k67}HOY: {\k32}CUANDO {\k10}TE
+Dialogue: 0,0:00:55.33,0:00:56.62,Sub,,0,0,0,,{\k59}PREGUNTEN {\k18}QUÉ {\k52}QUIERES,
+Dialogue: 0,0:00:56.62,0:00:57.66,Sub,,0,0,0,,{\k58}RESPONDE {\k22}CON {\k23}UNA
+Dialogue: 0,0:00:57.66,0:00:59.77,Sub,,0,0,0,,{\k79}PREFERENCIA {\k94}REAL. {\k38}UNA
+Dialogue: 0,0:00:59.77,0:01:01.01,Sub,,0,0,0,,{\k64}SOLA. {\k49}CUÉNTAME {\k12}EN
+Dialogue: 0,0:01:01.01,0:01:02.95,Sub,,0,0,0,,{\k78}COMENTARIOS {\k28}CUÁL {\k88}FUE.
+Dialogue: 0,0:01:02.95,0:01:04.53,Sub,,0,0,0,,{\k62}CAPÍTULO {\k71}DOS: {\k26}POR
+Dialogue: 0,0:01:04.53,0:01:05.54,Sub,,0,0,0,,{\k22}QUÉ {\k44}CUESTA {\k35}DECIR
+Dialogue: 0,0:01:05.54,0:01:06.22,Sub,,0,0,0,,{\k14}QUE {\k55}NO.
