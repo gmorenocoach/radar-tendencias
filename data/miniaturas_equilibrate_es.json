@@ -1,56 +1,56 @@
 {
  "perfil": "equilibrate_es",
- "n": 25,
+ "n": 19,
  "promedio": {
-  "brillo": 93,
-  "pct_oscuro": 50,
-  "pct_amarillo": 4,
-  "pct_piel": 26,
-  "pct_saturado": 7
+  "brillo": 84,
+  "pct_oscuro": 51,
+  "pct_amarillo": 6,
+  "pct_piel": 20,
+  "pct_saturado": 11
  },
  "promedio_top10": {
-  "brillo": 126,
-  "pct_oscuro": 32,
-  "pct_amarillo": 4,
-  "pct_piel": 36,
-  "pct_saturado": 8
+  "brillo": 85,
+  "pct_oscuro": 53,
+  "pct_amarillo": 6,
+  "pct_piel": 17,
+  "pct_saturado": 12
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 64,
-  "pct_con_rostro_probable": 84,
-  "pct_con_amarillo": 52
+  "pct_miniaturas_oscuras": 89,
+  "pct_con_rostro_probable": 100,
+  "pct_con_amarillo": 89
  },
  "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
  "ejemplos": [
   {
-   "video_id": "G3nN3wYPYec",
-   "titulo": "Si Te Lastima y Luego Actúa Como Si Nada Pasara, Recuerda Estas 5 Cosas | Psicología",
-   "vistas": 418767,
-   "ratio": 72.3,
-   "miniatura": "https://i.ytimg.com/vi/G3nN3wYPYec/maxresdefault.jpg",
-   "brillo": 156,
-   "pct_oscuro": 20,
-   "pct_amarillo": 0,
-   "pct_piel": 48,
-   "pct_saturado": 3
+   "video_id": "IC94e1U6-mg",
+   "titulo": "9 Hábitos Que Hacen Irresistible a un Hombre Mayor Psicología Femenina",
+   "vistas": 219524,
+   "ratio": 78.7,
+   "miniatura": "https://i.ytimg.com/vi/IC94e1U6-mg/maxresdefault.jpg",
+   "brillo": 102,
+   "pct_oscuro": 43,
+   "pct_amarillo": 4,
+   "pct_piel": 20,
+   "pct_saturado": 10
   },
   {
-   "video_id": "0KbAWyPg8sg",
-   "titulo": "Cuando Tu Familia Se Vuelve Tóxica… Haz Esto en Silencio | Psicología",
-   "vistas": 138481,
-   "ratio": 23.9,
-   "miniatura": "https://i.ytimg.com/vi/0KbAWyPg8sg/maxresdefault.jpg",
-   "brillo": 177,
-   "pct_oscuro": 6,
-   "pct_amarillo": 0,
-   "pct_piel": 64,
-   "pct_saturado": 0
+   "video_id": "PsGbfVAs0k8",
+   "titulo": "Lo que los Amigos de mi Marido Hicieron Me Dejó en Shock ｜ historias de infidelidad",
+   "vistas": 148471,
+   "ratio": 53.2,
+   "miniatura": "https://i.ytimg.com/vi/PsGbfVAs0k8/maxresdefault.jpg",
+   "brillo": 102,
+   "pct_oscuro": 43,
+   "pct_amarillo": 4,
+   "pct_piel": 20,
+   "pct_saturado": 10
   },
   {
    "video_id": "JJ4VYVYzxHw",
    "titulo": "SI AMBOS DEJAN DE CONTACTARSE, ESTO TERMINARÁ PASANDO | Gabriel Rolon",
-   "vistas": 136013,
-   "ratio": 96.5,
+   "vistas": 139218,
+   "ratio": 98.7,
    "miniatura": "https://i.ytimg.com/vi/JJ4VYVYzxHw/maxresdefault.jpg",
    "brillo": 93,
    "pct_oscuro": 46,
@@ -59,28 +59,28 @@
    "pct_saturado": 18
   },
   {
-   "video_id": "C3pl3su9bhs",
-   "titulo": "La Mejor Forma de Responder a una Falta de Respeto Te Sorprenderá | Psicología",
-   "vistas": 64086,
-   "ratio": 11.1,
-   "miniatura": "https://i.ytimg.com/vi/C3pl3su9bhs/maxresdefault.jpg",
-   "brillo": 161,
-   "pct_oscuro": 13,
-   "pct_amarillo": 0,
-   "pct_piel": 49,
-   "pct_saturado": 4
+   "video_id": "zidYkJXKsBk",
+   "titulo": "SOLO LOS HOMBRES CON EXPERIENCIA SABEN ESTO SOBRE LAS MENTE FEMENINA",
+   "vistas": 100716,
+   "ratio": 36.1,
+   "miniatura": "https://i.ytimg.com/vi/zidYkJXKsBk/maxresdefault.jpg",
+   "brillo": 103,
+   "pct_oscuro": 42,
+   "pct_amarillo": 4,
+   "pct_piel": 20,
+   "pct_saturado": 9
   },
   {
-   "video_id": "im8tWneD-J4",
-   "titulo": "Te Lastima y Después Te Culpa… Haz Esto | Psicología",
-   "vistas": 46954,
-   "ratio": 8.1,
-   "miniatura": "https://i.ytimg.com/vi/im8tWneD-J4/maxresdefault.jpg",
-   "brillo": 153,
-   "pct_oscuro": 22,
-   "pct_amarillo": 0,
-   "pct_piel": 42,
-   "pct_saturado": 4
+   "video_id": "XmOPZ-XXrug",
+   "titulo": "Triangulación Familiar Cuando el Deseo de Ayudar Destruye Límites",
+   "vistas": 89032,
+   "ratio": 31.9,
+   "miniatura": "https://i.ytimg.com/vi/XmOPZ-XXrug/maxresdefault.jpg",
+   "brillo": 92,
+   "pct_oscuro": 51,
+   "pct_amarillo": 4,
+   "pct_piel": 20,
+   "pct_saturado": 9
   },
   {
    "video_id": "PidfYb2KciY",
@@ -107,16 +107,28 @@
    "pct_saturado": 8
   },
   {
-   "video_id": "hR5DgmiRjE0",
-   "titulo": "Cuando Alguien Te Hace Daño y Luego Se Hace la Víctima, Significa Esto | Psicología",
-   "vistas": 38778,
-   "ratio": 6.7,
-   "miniatura": "https://i.ytimg.com/vi/hR5DgmiRjE0/maxresdefault.jpg",
-   "brillo": 166,
-   "pct_oscuro": 9,
+   "video_id": "XU_HOfzNvqM",
+   "titulo": "7 Toques Que Harán Que Una Mujer Madura Se Enamore Profundamente de Ti   Psicología Femenina",
+   "vistas": 39234,
+   "ratio": 14.1,
+   "miniatura": "https://i.ytimg.com/vi/XU_HOfzNvqM/maxresdefault.jpg",
+   "brillo": 103,
+   "pct_oscuro": 44,
+   "pct_amarillo": 4,
+   "pct_piel": 20,
+   "pct_saturado": 10
+  },
+  {
+   "video_id": "OYOZT8PNNpw",
+   "titulo": "6 Señales Ocultas de que una Mujer Quiere Entregarse a Ti | Psicología Femenina",
+   "vistas": 39167,
+   "ratio": 21.4,
+   "miniatura": "https://i.ytimg.com/vi/OYOZT8PNNpw/maxresdefault.jpg",
+   "brillo": 50,
+   "pct_oscuro": 74,
    "pct_amarillo": 5,
-   "pct_piel": 45,
-   "pct_saturado": 6
+   "pct_piel": 8,
+   "pct_saturado": 7
   },
   {
    "video_id": "M792ZNlLS2A",
@@ -129,18 +141,6 @@
    "pct_amarillo": 12,
    "pct_piel": 15,
    "pct_saturado": 18
-  },
-  {
-   "video_id": "k3aMcE6XUrA",
-   "titulo": "Una Persona Débil Siempre Dice Estas 4 Cosas… ¡Aprende a Evitarlas! | Psicología",
-   "vistas": 34990,
-   "ratio": 6.0,
-   "miniatura": "https://i.ytimg.com/vi/k3aMcE6XUrA/maxresdefault.jpg",
-   "brillo": 153,
-   "pct_oscuro": 22,
-   "pct_amarillo": 0,
-   "pct_piel": 45,
-   "pct_saturado": 0
   }
  ]
 }

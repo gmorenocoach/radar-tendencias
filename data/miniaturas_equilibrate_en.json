@@ -2,11 +2,11 @@
  "perfil": "equilibrate_en",
  "n": 16,
  "promedio": {
-  "brillo": 127,
-  "pct_oscuro": 30,
-  "pct_amarillo": 1,
-  "pct_piel": 14,
-  "pct_saturado": 6
+  "brillo": 144,
+  "pct_oscuro": 26,
+  "pct_amarillo": 2,
+  "pct_piel": 12,
+  "pct_saturado": 8
  },
  "promedio_top10": {
   "brillo": 141,
@@ -18,15 +18,15 @@
  "lectura": {
   "pct_miniaturas_oscuras": 25,
   "pct_con_rostro_probable": 50,
-  "pct_con_amarillo": 12
+  "pct_con_amarillo": 31
  },
  "recomendacion": "Predomina fondo claro: la variante CLARA compite bien",
  "ejemplos": [
   {
    "video_id": "6MtY3fBXOMo",
    "titulo": "Psychology of Men Who Let Women Go",
-   "vistas": 586386,
-   "ratio": 163.3,
+   "vistas": 595486,
+   "ratio": 165.9,
    "miniatura": "https://i.ytimg.com/vi/6MtY3fBXOMo/maxresdefault.jpg",
    "brillo": 160,
    "pct_oscuro": 27,
@@ -37,8 +37,8 @@
   {
    "video_id": "5aI6icg7bVU",
    "titulo": "PSYCHOLOGY OF MEN WHO LET WOMEN GO",
-   "vistas": 426841,
-   "ratio": 211.3,
+   "vistas": 430507,
+   "ratio": 213.1,
    "miniatura": "https://i.ytimg.com/vi/5aI6icg7bVU/maxresdefault.jpg",
    "brillo": 208,
    "pct_oscuro": 7,
@@ -49,7 +49,7 @@
   {
    "video_id": "x22UWeJVS6k",
    "titulo": "Learn the Art of Detachment and Your Life Will Change Forever | Shree Krishna Motivation",
-   "vistas": 386761,
+   "vistas": 389579,
    "ratio": 10.0,
    "miniatura": "https://i.ytimg.com/vi/x22UWeJVS6k/maxresdefault.jpg",
    "brillo": 66,
@@ -73,8 +73,8 @@
   {
    "video_id": "pIi9kzpoFPk",
    "titulo": "Once you TRULY let go, everything starts to flow",
-   "vistas": 163803,
-   "ratio": 14.0,
+   "vistas": 164588,
+   "ratio": 14.1,
    "miniatura": "https://i.ytimg.com/vi/pIi9kzpoFPk/maxresdefault.jpg",
    "brillo": 115,
    "pct_oscuro": 9,

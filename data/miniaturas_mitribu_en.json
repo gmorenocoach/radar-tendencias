@@ -1,19 +1,19 @@
 {
  "perfil": "mitribu_en",
- "n": 4,
+ "n": 3,
  "promedio": {
-  "brillo": 41,
-  "pct_oscuro": 82,
+  "brillo": 33,
+  "pct_oscuro": 87,
   "pct_amarillo": 0,
-  "pct_piel": 4,
-  "pct_saturado": 0
+  "pct_piel": 2,
+  "pct_saturado": 1
  },
  "promedio_top10": {
-  "brillo": 41,
-  "pct_oscuro": 82,
+  "brillo": 33,
+  "pct_oscuro": 87,
   "pct_amarillo": 0,
-  "pct_piel": 4,
-  "pct_saturado": 0
+  "pct_piel": 2,
+  "pct_saturado": 1
  },
  "lectura": {
   "pct_miniaturas_oscuras": 100,
@@ -22,18 +22,6 @@
  },
  "recomendacion": "Mixto: probar clara y oscura con 'Prueba y compara'",
  "ejemplos": [
-  {
-   "video_id": "KSZv7vfV8QU",
-   "titulo": "Bank Lunch Time Rules Explained | Your Customer Rights. #financialawareness #banking #viralshorts",
-   "vistas": 1814485,
-   "ratio": 23.4,
-   "miniatura": "https://i.ytimg.com/vi/KSZv7vfV8QU/maxresdefault.jpg",
-   "brillo": 64,
-   "pct_oscuro": 69,
-   "pct_amarillo": 0,
-   "pct_piel": 7,
-   "pct_saturado": 0
-  },
   {
    "video_id": "wbHB9R21yFM",
    "titulo": "This Vintage Commercial Is Wild #germany #marketing #advertisement #businessstrategy #chinesefood",
@@ -49,7 +37,7 @@
   {
    "video_id": "Cr5oMKtpTLg",
    "titulo": "6 Powerful Money Habits of Successful People | Elon Musk’s Lessons on Wealth & Success 🚀💰",
-   "vistas": 584736,
+   "vistas": 584737,
    "ratio": 21.6,
    "miniatura": "https://i.ytimg.com/vi/Cr5oMKtpTLg/maxresdefault.jpg",
    "brillo": 43,
@@ -61,7 +49,7 @@
   {
    "video_id": "0iJsTgSXB-E",
    "titulo": "rich people habits #motivation #youtubeshorts #habits #rich",
-   "vistas": 31287,
+   "vistas": 31330,
    "ratio": 15.0,
    "miniatura": "https://i.ytimg.com/vi/0iJsTgSXB-E/maxresdefault.jpg",
    "brillo": 27,

@@ -1,32 +1,32 @@
 {
  "perfil": "mitribu_es",
- "n": 7,
+ "n": 10,
  "promedio": {
-  "brillo": 66,
-  "pct_oscuro": 63,
+  "brillo": 61,
+  "pct_oscuro": 64,
   "pct_amarillo": 0,
-  "pct_piel": 10,
-  "pct_saturado": 0
+  "pct_piel": 7,
+  "pct_saturado": 1
  },
  "promedio_top10": {
-  "brillo": 66,
-  "pct_oscuro": 63,
+  "brillo": 61,
+  "pct_oscuro": 64,
   "pct_amarillo": 0,
-  "pct_piel": 10,
-  "pct_saturado": 0
+  "pct_piel": 7,
+  "pct_saturado": 1
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 100,
-  "pct_con_rostro_probable": 57,
+  "pct_miniaturas_oscuras": 90,
+  "pct_con_rostro_probable": 40,
   "pct_con_amarillo": 0
  },
- "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
+ "recomendacion": "Mixto: probar clara y oscura con 'Prueba y compara'",
  "ejemplos": [
   {
    "video_id": "I6WOUQstEmg",
    "titulo": "¿Se acuerdan del sobrecito para ahorrar? ✉️ Hacela fácil con los Frascos Fijos de Naranja X📱",
-   "vistas": 3603604,
-   "ratio": 517.0,
+   "vistas": 3684763,
+   "ratio": 528.7,
    "miniatura": "https://i.ytimg.com/vi/I6WOUQstEmg/maxresdefault.jpg",
    "brillo": 89,
    "pct_oscuro": 47,
@@ -37,8 +37,8 @@
   {
    "video_id": "LZdStuNPJHY",
    "titulo": "Formas de ahorrar en Amazon #amazoncoupon",
-   "vistas": 2183701,
-   "ratio": 576.2,
+   "vistas": 2184009,
+   "ratio": 576.3,
    "miniatura": "https://i.ytimg.com/vi/LZdStuNPJHY/maxresdefault.jpg",
    "brillo": 71,
    "pct_oscuro": 58,
@@ -95,6 +95,30 @@
    "pct_saturado": 1
   },
   {
+   "video_id": "V3vtKyf47n4",
+   "titulo": "No Lo Ignores, Si Lo Ves Te Toca Ser MILLONARIO 💰✈️",
+   "vistas": 55535,
+   "ratio": 29.7,
+   "miniatura": "https://i.ytimg.com/vi/V3vtKyf47n4/maxresdefault.jpg",
+   "brillo": 37,
+   "pct_oscuro": 83,
+   "pct_amarillo": 0,
+   "pct_piel": 1,
+   "pct_saturado": 6
+  },
+  {
+   "video_id": "_kZZ-EIlcvA",
+   "titulo": "Solo Futuros MILLONARIOS Verán Esto.. 🍀",
+   "vistas": 51991,
+   "ratio": 27.8,
+   "miniatura": "https://i.ytimg.com/vi/_kZZ-EIlcvA/maxresdefault.jpg",
+   "brillo": 33,
+   "pct_oscuro": 85,
+   "pct_amarillo": 0,
+   "pct_piel": 0,
+   "pct_saturado": 0
+  },
+  {
    "video_id": "ynSnJTEJxy8",
    "titulo": "Cuando mi novia y yo hacemos un ritual para atraer dinero💸💸",
    "vistas": 25452,
@@ -104,6 +128,18 @@
    "pct_oscuro": 72,
    "pct_amarillo": 0,
    "pct_piel": 6,
+   "pct_saturado": 0
+  },
+  {
+   "video_id": "vHFL9mMdVN4",
+   "titulo": "Tener dinero no siempre significa ser feliz ❤️ #Reflexiones #VidaConPropósito",
+   "vistas": 16236,
+   "ratio": 14.9,
+   "miniatura": "https://i.ytimg.com/vi/vHFL9mMdVN4/maxresdefault.jpg",
+   "brillo": 78,
+   "pct_oscuro": 28,
+   "pct_amarillo": 0,
+   "pct_piel": 4,
    "pct_saturado": 0
   }
  ]

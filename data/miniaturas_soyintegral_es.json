@@ -5,15 +5,15 @@
   "brillo": 148,
   "pct_oscuro": 20,
   "pct_amarillo": 3,
-  "pct_piel": 12,
+  "pct_piel": 13,
   "pct_saturado": 20
  },
  "promedio_top10": {
-  "brillo": 143,
-  "pct_oscuro": 26,
+  "brillo": 148,
+  "pct_oscuro": 25,
   "pct_amarillo": 2,
-  "pct_piel": 14,
-  "pct_saturado": 20
+  "pct_piel": 11,
+  "pct_saturado": 16
  },
  "lectura": {
   "pct_miniaturas_oscuras": 17,
@@ -37,8 +37,8 @@
   {
    "video_id": "2MS5JFqOaaE",
    "titulo": "CACAHUATES: Esto Le Pasa a Tus RIÑONES Cuando Los Comes",
-   "vistas": 1283435,
-   "ratio": 473.6,
+   "vistas": 1286886,
+   "ratio": 474.9,
    "miniatura": "https://i.ytimg.com/vi/2MS5JFqOaaE/maxresdefault.jpg",
    "brillo": 150,
    "pct_oscuro": 17,
@@ -49,8 +49,8 @@
   {
    "video_id": "g3PCX_J71Mw",
    "titulo": "Qué Le Pasa a Tu Cuerpo si Tomas Tadalafilo Todos los Días Durante 6 Meses",
-   "vistas": 1160650,
-   "ratio": 73.9,
+   "vistas": 1167369,
+   "ratio": 74.4,
    "miniatura": "https://i.ytimg.com/vi/g3PCX_J71Mw/maxresdefault.jpg",
    "brillo": 56,
    "pct_oscuro": 72,
@@ -61,8 +61,8 @@
   {
    "video_id": "Y21yxp3qs9M",
    "titulo": "INFARTO | ¿Tu cuerpo te está avisando? Estas 5 SEÑALES lo dicen",
-   "vistas": 1017229,
-   "ratio": 313.0,
+   "vistas": 1025262,
+   "ratio": 315.5,
    "miniatura": "https://i.ytimg.com/vi/Y21yxp3qs9M/maxresdefault.jpg",
    "brillo": 72,
    "pct_oscuro": 64,
@@ -73,8 +73,8 @@
   {
    "video_id": "ZxScpWviwvo",
    "titulo": "Cada Droga de la Calle y Sus Efectos, Explicada",
-   "vistas": 865934,
-   "ratio": 107.7,
+   "vistas": 872592,
+   "ratio": 108.5,
    "miniatura": "https://i.ytimg.com/vi/ZxScpWviwvo/maxresdefault.jpg",
    "brillo": 167,
    "pct_oscuro": 16,
@@ -85,8 +85,8 @@
   {
    "video_id": "haSDtRxOxuI",
    "titulo": "¿Qué le pasa a tu cuerpo si dejas el pan y el azúcar durante 14 días?",
-   "vistas": 639862,
-   "ratio": 171.5,
+   "vistas": 704090,
+   "ratio": 188.8,
    "miniatura": "https://i.ytimg.com/vi/haSDtRxOxuI/maxresdefault.jpg",
    "brillo": 162,
    "pct_oscuro": 18,
@@ -109,8 +109,8 @@
   {
    "video_id": "VrWuwu-Huzk",
    "titulo": "¿Qué les pasa a tus órganos si no cenas durante 14 días?",
-   "vistas": 507577,
-   "ratio": 136.1,
+   "vistas": 519206,
+   "ratio": 139.2,
    "miniatura": "https://i.ytimg.com/vi/VrWuwu-Huzk/maxresdefault.jpg",
    "brillo": 187,
    "pct_oscuro": 18,
@@ -119,28 +119,28 @@
    "pct_saturado": 3
   },
   {
+   "video_id": "AWKfW9IroZs",
+   "titulo": "Qué Le Hace Cada Bebida a Tu Cuerpo (de la Más Sana a la Más Peligrosa)",
+   "vistas": 450399,
+   "ratio": 190.8,
+   "miniatura": "https://i.ytimg.com/vi/AWKfW9IroZs/maxresdefault.jpg",
+   "brillo": 175,
+   "pct_oscuro": 8,
+   "pct_amarillo": 4,
+   "pct_piel": 5,
+   "pct_saturado": 19
+  },
+  {
    "video_id": "6ZhYAYANt1Y",
    "titulo": "MANÍ: Lo que pasa en tus RIÑONES cuando lo consumes",
-   "vistas": 446276,
-   "ratio": 164.7,
+   "vistas": 447485,
+   "ratio": 165.1,
    "miniatura": "https://i.ytimg.com/vi/6ZhYAYANt1Y/maxresdefault.jpg",
    "brillo": 139,
    "pct_oscuro": 18,
    "pct_amarillo": 3,
    "pct_piel": 30,
    "pct_saturado": 34
-  },
-  {
-   "video_id": "uZL9dR9KLcg",
-   "titulo": "NUECES: Lo que pasa en tus RIÑONES cuando las consumes",
-   "vistas": 403428,
-   "ratio": 148.9,
-   "miniatura": "https://i.ytimg.com/vi/uZL9dR9KLcg/maxresdefault.jpg",
-   "brillo": 126,
-   "pct_oscuro": 18,
-   "pct_amarillo": 10,
-   "pct_piel": 27,
-   "pct_saturado": 51
   }
  ]
 }

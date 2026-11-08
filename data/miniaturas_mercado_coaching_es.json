@@ -2,22 +2,22 @@
  "perfil": "mercado_coaching_es",
  "n": 30,
  "promedio": {
-  "brillo": 104,
-  "pct_oscuro": 38,
+  "brillo": 103,
+  "pct_oscuro": 39,
   "pct_amarillo": 2,
-  "pct_piel": 14,
-  "pct_saturado": 11
+  "pct_piel": 17,
+  "pct_saturado": 9
  },
  "promedio_top10": {
   "brillo": 98,
-  "pct_oscuro": 42,
+  "pct_oscuro": 39,
   "pct_amarillo": 3,
-  "pct_piel": 13,
-  "pct_saturado": 15
+  "pct_piel": 22,
+  "pct_saturado": 17
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 53,
-  "pct_con_rostro_probable": 70,
+  "pct_miniaturas_oscuras": 57,
+  "pct_con_rostro_probable": 80,
   "pct_con_amarillo": 40
  },
  "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
@@ -25,7 +25,7 @@
   {
    "video_id": "v6axSDrSeDQ",
    "titulo": "Comienza tu Día con Dios | Oración para Encontrar Propósito, Paz y Dirección Espiritual",
-   "vistas": 11636,
+   "vistas": 11865,
    "ratio": 0.2,
    "miniatura": "https://i.ytimg.com/vi/v6axSDrSeDQ/maxresdefault.jpg",
    "brillo": 133,
@@ -35,9 +35,21 @@
    "pct_saturado": 26
   },
   {
+   "video_id": "ZD8e_U4S3L8",
+   "titulo": "Lo que aprendí para llegar acá | Mi vida como coach fitness",
+   "vistas": 3399,
+   "ratio": 0.4,
+   "miniatura": "https://i.ytimg.com/vi/ZD8e_U4S3L8/maxresdefault.jpg",
+   "brillo": 84,
+   "pct_oscuro": 52,
+   "pct_amarillo": 3,
+   "pct_piel": 28,
+   "pct_saturado": 6
+  },
+  {
    "video_id": "wM_fPLmyO58",
    "titulo": "Más allá del miedo: cómo recuperar tu voz en el liderazgo",
-   "vistas": 2745,
+   "vistas": 2747,
    "ratio": 0.2,
    "miniatura": "https://i.ytimg.com/vi/wM_fPLmyO58/maxresdefault.jpg",
    "brillo": 60,
@@ -49,7 +61,7 @@
   {
    "video_id": "Pj13DNKFdsM",
    "titulo": "LISBETH GENAO EXPLICA CÓMO VENCER EL VACÍO EXISTENCIAL Y ENCONTRAR TU PROPÓSITO",
-   "vistas": 2301,
+   "vistas": 2302,
    "ratio": 0.1,
    "miniatura": "https://i.ytimg.com/vi/Pj13DNKFdsM/maxresdefault.jpg",
    "brillo": 86,
@@ -61,7 +73,7 @@
   {
    "video_id": "FEvqEpHHTtM",
    "titulo": "Encuentra tu PROPÓSITO haciendo SOLO ESTO.",
-   "vistas": 2180,
+   "vistas": 2191,
    "ratio": 0.0,
    "miniatura": "https://i.ytimg.com/vi/FEvqEpHHTtM/maxresdefault.jpg",
    "brillo": 65,
@@ -71,9 +83,21 @@
    "pct_saturado": 28
   },
   {
+   "video_id": "f60rexttJYc",
+   "titulo": "🤲 MULTIPLICA TUS DONES Y ENCUENTRA TU PROPÓSITO | Oración a la Sangre de Cristo | Al que mucho se da",
+   "vistas": 1785,
+   "ratio": 0.0,
+   "miniatura": "https://i.ytimg.com/vi/f60rexttJYc/maxresdefault.jpg",
+   "brillo": 104,
+   "pct_oscuro": 29,
+   "pct_amarillo": 3,
+   "pct_piel": 52,
+   "pct_saturado": 16
+  },
+  {
    "video_id": "OYfCdC1KcyY",
    "titulo": "Separarte de tus PADRES para encontrar tu propósito",
-   "vistas": 1464,
+   "vistas": 1466,
    "ratio": 0.1,
    "miniatura": "https://i.ytimg.com/vi/OYfCdC1KcyY/maxresdefault.jpg",
    "brillo": 76,
@@ -83,9 +107,21 @@
    "pct_saturado": 10
   },
   {
+   "video_id": "YUgHNVUwRKc",
+   "titulo": "🧠 CÓMO ENCONTRAR TU PROPÓSITO y DESCUBRIR tu VOCACIÓN | Neydis Cardona",
+   "vistas": 806,
+   "ratio": 0.0,
+   "miniatura": "https://i.ytimg.com/vi/YUgHNVUwRKc/maxresdefault.jpg",
+   "brillo": 133,
+   "pct_oscuro": 22,
+   "pct_amarillo": 2,
+   "pct_piel": 32,
+   "pct_saturado": 10
+  },
+  {
    "video_id": "W9vzUEHRUuI",
    "titulo": "Los 5 errores de liderazgo comunes que te convierten en un jefe tóxico",
-   "vistas": 777,
+   "vistas": 789,
    "ratio": 0.3,
    "miniatura": "https://i.ytimg.com/vi/W9vzUEHRUuI/maxresdefault.jpg",
    "brillo": 86,
@@ -97,7 +133,7 @@
   {
    "video_id": "1sH9fYqms_U",
    "titulo": "SABIDURÍA: El Arte de vivir según Proverbios - Introducción",
-   "vistas": 626,
+   "vistas": 630,
    "ratio": 0.5,
    "miniatura": "https://i.ytimg.com/vi/1sH9fYqms_U/maxresdefault.jpg",
    "brillo": 158,
@@ -105,42 +141,6 @@
    "pct_amarillo": 0,
    "pct_piel": 3,
    "pct_saturado": 45
-  },
-  {
-   "video_id": "TOowk18jh34",
-   "titulo": "Jefe Vs Liderazgo Humanista: Cómo mejorar el compromiso con el trabajo",
-   "vistas": 587,
-   "ratio": 0.2,
-   "miniatura": "https://i.ytimg.com/vi/TOowk18jh34/maxresdefault.jpg",
-   "brillo": 88,
-   "pct_oscuro": 40,
-   "pct_amarillo": 5,
-   "pct_piel": 16,
-   "pct_saturado": 6
-  },
-  {
-   "video_id": "SVLMYWnsO-I",
-   "titulo": "Psicología del sentido: cómo encontrar el verdadero propósito de tu vida.",
-   "vistas": 548,
-   "ratio": 0.2,
-   "miniatura": "https://i.ytimg.com/vi/SVLMYWnsO-I/maxresdefault.jpg",
-   "brillo": 184,
-   "pct_oscuro": 16,
-   "pct_amarillo": 4,
-   "pct_piel": 1,
-   "pct_saturado": 4
-  },
-  {
-   "video_id": "LzVng33_a1c",
-   "titulo": "La cultura de Netflix: cómo dar libertad sin perder el liderazgo",
-   "vistas": 544,
-   "ratio": 0.1,
-   "miniatura": "https://i.ytimg.com/vi/LzVng33_a1c/maxresdefault.jpg",
-   "brillo": 49,
-   "pct_oscuro": 79,
-   "pct_amarillo": 1,
-   "pct_piel": 7,
-   "pct_saturado": 2
   }
  ]
 }

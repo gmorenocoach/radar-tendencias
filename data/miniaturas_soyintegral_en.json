@@ -1,32 +1,32 @@
 {
  "perfil": "soyintegral_en",
- "n": 8,
+ "n": 9,
  "promedio": {
-  "brillo": 94,
-  "pct_oscuro": 42,
-  "pct_amarillo": 5,
-  "pct_piel": 17,
-  "pct_saturado": 15
+  "brillo": 93,
+  "pct_oscuro": 40,
+  "pct_amarillo": 4,
+  "pct_piel": 21,
+  "pct_saturado": 13
  },
  "promedio_top10": {
-  "brillo": 94,
-  "pct_oscuro": 42,
-  "pct_amarillo": 5,
-  "pct_piel": 17,
-  "pct_saturado": 15
+  "brillo": 93,
+  "pct_oscuro": 40,
+  "pct_amarillo": 4,
+  "pct_piel": 21,
+  "pct_saturado": 13
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 88,
-  "pct_con_rostro_probable": 75,
-  "pct_con_amarillo": 88
+  "pct_miniaturas_oscuras": 78,
+  "pct_con_rostro_probable": 78,
+  "pct_con_amarillo": 78
  },
  "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
  "ejemplos": [
   {
    "video_id": "L9nFxHlD60I",
    "titulo": "He tried every ASMR sound to put mom to sleep 🤣",
-   "vistas": 363878,
-   "ratio": 9.5,
+   "vistas": 373697,
+   "ratio": 9.8,
    "miniatura": "https://i.ytimg.com/vi/L9nFxHlD60I/maxresdefault.jpg",
    "brillo": 51,
    "pct_oscuro": 64,
@@ -49,8 +49,8 @@
   {
    "video_id": "CTU6oUEMO1k",
    "titulo": "Comparison: Life Expectancy in Every Country – Global Map 2027",
-   "vistas": 68842,
-   "ratio": 29.5,
+   "vistas": 71289,
+   "ratio": 30.6,
    "miniatura": "https://i.ytimg.com/vi/CTU6oUEMO1k/maxresdefault.jpg",
    "brillo": 83,
    "pct_oscuro": 52,
@@ -61,7 +61,7 @@
   {
    "video_id": "fUjMvCtjaYc",
    "titulo": "Intermittent Fasting and weightloss — Here’s What I Actually Did#IntermittentFasting#fatlossjourney ",
-   "vistas": 67905,
+   "vistas": 67919,
    "ratio": 46.8,
    "miniatura": "https://i.ytimg.com/vi/fUjMvCtjaYc/maxresdefault.jpg",
    "brillo": 115,
@@ -85,8 +85,8 @@
   {
    "video_id": "Y4VPVkWneYQ",
    "titulo": "How I Lost 8KG (17.6 LBS) in 1 Month With Intermittent Fasting | My Real Weight Loss Story",
-   "vistas": 35470,
-   "ratio": 11.4,
+   "vistas": 35517,
+   "ratio": 11.5,
    "miniatura": "https://i.ytimg.com/vi/Y4VPVkWneYQ/maxresdefault.jpg",
    "brillo": 90,
    "pct_oscuro": 40,
@@ -105,6 +105,18 @@
    "pct_amarillo": 5,
    "pct_piel": 14,
    "pct_saturado": 23
+  },
+  {
+   "video_id": "coKgu7-Jwvo",
+   "titulo": "[M4A] 17 minutes of ASMR Puppy Bliss [clicker training] [anxiety relief] [SFW] [petplay] [hypnosis]",
+   "vistas": 29694,
+   "ratio": 16.5,
+   "miniatura": "https://i.ytimg.com/vi/coKgu7-Jwvo/maxresdefault.jpg",
+   "brillo": 85,
+   "pct_oscuro": 20,
+   "pct_amarillo": 0,
+   "pct_piel": 52,
+   "pct_saturado": 0
   },
   {
    "video_id": "OdjqxJUYHNc",
