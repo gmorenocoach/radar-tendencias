@@ -705,10 +705,10 @@
    "subtema": "Diferencia entre necesitar y elegir: ansiedad por mensajes, miedo a la soledad, validación constante. Cierre: si no es amor, ¿de dónde viene esa necesidad?",
    "referencia_video_id": "-ai9L-jXtx0",
    "minutos": 15,
-   "estado": "error",
-   "produccion_id": "",
-   "resultado": "error: RuntimeError: JSON inválido de Claude: Expecting value: line 1 column 1 (char 0)",
-   "producido_en": "2026-11-07T15:57:33"
+   "estado": "producido",
+   "produccion_id": "20261108-equilibrate_es-largo-cuando-la-dependencia-emocional-se-disfr",
+   "resultado": "ok 1185s",
+   "producido_en": "2026-11-08T16:44:12"
   },
   {
    "id": "equilibrate_es-20261109-S",
@@ -746,7 +746,10 @@
    "titulo": "¿Cuándo fue la última vez que pediste algo?",
    "gancho": "Piensa en tu último pedido real a tu pareja o familia. Si no lo recuerdas, este video es para ti.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261108-equilibrate_es-cuando-pediste-algo-por-ultima-vez-taza-derramada-",
+   "resultado": "ok 225s",
+   "producido_en": "2026-11-08T16:47:58"
   },
   {
    "id": "equilibrate_es-20261110-V",

@@ -1,0 +1,52 @@
+{
+ "fuente": {
+  "tema": "Dormir 8 horas no siempre es descansar. Gancho: Tu cama te ve llegar a las 11 y tu cabeza sigue en la oficina. ¿Quién durmió, entonces?. Serie: Las 6 cartas que tu cuerpo lleva meses mandándote, capítulo 1"
+ },
+ "adn": {
+  "tema_central": "Dormir 8 horas no garantiza descansar: la calidad del sueño depende de si tu mente realmente se desconecta, no de cuántas horas pasas en la cama. Capítulo 1 de la serie 'Las 6 cartas que tu cuerpo lleva meses mandándote', donde el cansancio crónico es la primera carta.",
+  "promesa_del_titulo": "Descubrirás por qué puedes dormir 8 horas y despertar agotado, y qué señal te está enviando tu cuerpo con ese cansancio.",
+  "gancho_primeros_segundos": "Plano cerrado de una cama hecha y una persona mirando el techo con la luz del móvil en la cara. Voz en off, directa: 'Tu cama te ve llegar a las 11... y tu cabeza sigue en la oficina. Entonces, ¿quién durmió?'. Texto en pantalla grande: '8 horas ≠ descanso'. Todo en menos de 3 segundos.",
+  "tipo_de_gancho": "Contradicción + pregunta retórica personificada (la cama como testigo). Rompe la creencia 'dormir 8 horas = descansar' y deja un vacío de curiosidad con '¿Quién durmió?'.",
+  "estructura": [
+   "0-3s: Gancho de contradicción y pregunta ('¿Quién durmió, entonces?')",
+   "3-8s: Presentación de la serie: 'Carta 1 de 6 que tu cuerpo lleva meses mandándote'",
+   "8-20s: Explicación breve: el cuerpo está acostado pero la mente sigue en modo alerta (cortisol alto, pensamientos laborales, pantalla antes de dormir)",
+   "20-40s: Lista corta de 3 señales de que dormiste sin descansar: 1) Despiertas cansado igual, 2) Necesitas cafeína para arrancar, 3) Te despiertas a las 3-4 a.m. con la mente activa",
+   "40-50s: Mini solución accionable: 10 minutos de 'cierre de oficina' antes de la cama (anotar pendientes, apagar pantallas, respiración lenta)",
+   "50-58s: Cierre con reto y gancho al capítulo 2",
+   "Loop: la última frase enlaza con la primera ('¿quién durmió hoy?')"
+  ],
+  "ritmo": "Rápido y con cortes cada 2-3 segundos. Frases cortas, pausas dramáticas tras la pregunta del gancho, subtítulos dinámicos palabra por palabra, cambios de plano entre cama, reloj y oficina. Música ambiental baja que se acelera suavemente en la lista y se calma en el cierre.",
+  "tono": "Cercano, íntimo y ligeramente misterioso, como una carta personal. Empático sin dramatizar, con un toque de ironía suave. Habla de tú a tú, sin tecnicismos médicos.",
+  "cta_final": "Reto: 'Esta noche, 10 minutos antes de acostarte, escribe en un papel todo lo que sigue en tu cabeza de la oficina. Mañana cuéntame en comentarios si la carta 1 llegó a su destino. Y sigue la serie: la carta 2 te va a incomodar más.'",
+  "formula_del_titulo": "[Creencia común] + [contradicción] + [pregunta o promesa de revelación] + [número de serie]",
+  "titulo_con_numero": "Dormiste 8 horas y sigues cansado: la carta 1 de 6 que tu cuerpo te manda",
+  "palabras_clave": [
+   "dormir 8 horas",
+   "no descansas",
+   "cansancio crónico",
+   "calidad del sueño",
+   "estrés laboral",
+   "dormir mal",
+   "insomnio",
+   "cortisol",
+   "rutina nocturna",
+   "señales del cuerpo",
+   "cartas del cuerpo",
+   "burnout"
+  ],
+  "emocion_dominante": "Identificación incómoda (reconocerse en la escena) mezclada con curiosidad por saber qué intenta decirle su cuerpo.",
+  "formula_miniatura": "Primer plano de una persona con ojeras sentada al borde de una cama perfectamente hecha, con un sobre o carta semitransparente sobre la almohada. Texto grande en 3-4 palabras: '8 HORAS... ¿Y?' o '¿QUIÉN DurmIÓ?'. Paleta azul oscuro nocturno con acento amarillo/naranja en el texto y la carta. Insignia pequeña: 'CARTA 1/6'.",
+  "por_que_funciona": "Ataca una creencia que casi todos tienen y la contradice con una imagen reconocible (llegar a la cama con la cabeza en el trabajo). La pregunta '¿quién durmió?' crea un vacío de curiosidad inmediato. El formato de serie con 'carta 1 de 6' impulsa el seguimiento y las visualizaciones repetidas. La lista corta de 3 señales facilita la retención y el autodiagnóstico, y el reto final genera comentarios, lo que refuerza la distribución. El cierre que enlaza con el inicio favorece el rewatch.",
+  "riesgos_a_evitar": [
+   "Dar consejos médicos como diagnósticos: aclarar que no sustituye a un profesional si el cansancio es persistente",
+   "Alargar la introducción antes de lanzar la contradicción: el gancho debe caer en los primeros 3 segundos",
+   "Saturar con datos científicos o tecnicismos que rompan el tono íntimo",
+   "Prometer curas rápidas o garantizadas para dormir mejor",
+   "Revelar las 6 cartas o el contenido de la siguiente en este capítulo: se pierde el motivo para seguir la serie",
+   "Metáfora de la carta poco clara: mantenerla simple y consistente en todo el video",
+   "Miniatura con demasiado texto o sin contraste en pantallas móviles",
+   "CTA genérico tipo 'suscríbete' sin reto concreto que invite a participar"
+  ]
+ }
+}

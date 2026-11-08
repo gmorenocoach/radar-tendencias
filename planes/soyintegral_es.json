@@ -338,7 +338,10 @@
    "titulo": "Dormir 8 horas no siempre es descansar",
    "gancho": "Tu cama te ve llegar a las 11 y tu cabeza sigue en la oficina. ¿Quién durmió, entonces?",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261108-soyintegral_es-dormiste-8-horas-y-sigues-cansado-carta-1-de-6",
+   "resultado": "ok 260s",
+   "producido_en": "2026-11-08T16:24:27"
   },
   {
    "id": "soyintegral_es-20261112-L",

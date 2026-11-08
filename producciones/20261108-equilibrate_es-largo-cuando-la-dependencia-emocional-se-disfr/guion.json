@@ -1,0 +1,404 @@
+{
+ "titulo": "Cuando la dependencia emocional se disfraza de amor",
+ "titulos_alternativos": [
+  "Cuando aguantar se disfraza de amor: no es lo que crees",
+  "No es amor, es dependencia: 3 disfraces que no ves"
+ ],
+ "promesa": "Aprenderás a distinguir cuándo lo que vives en tu relación es amor y cuándo es dependencia emocional disfrazada de intensidad, tolerancia o empatía. Te llevas tres señales claras, preguntas de autoexploración y un Reto de hoy de menos de 5 minutos.",
+ "descripcion": "¿Y si eso que llamas amor es dependencia emocional? En este video, Germancho te muestra tres disfraces comunes en las relaciones de pareja: la intensidad, la tolerancia y la empatía.\nVerás mini-historias reconocibles, señales de alerta para detectar una relación tóxica y preguntas para explorarte con honestidad, sin culpas.\nEste contenido es informativo y no reemplaza la terapia: si sientes que tu relación te daña, busca a un psicólogo o terapeuta de confianza.\nAl final te dejo un Reto de hoy para hacer en menos de 5 minutos. Cuéntame en comentarios cómo te fue.",
+ "hashtags": [
+  "#DependenciaEmocional",
+  "#Amor",
+  "#RelacionesDePareja",
+  "#RelacionesToxicas",
+  "#AmorPropio",
+  "#Equilibrate",
+  "#Germancho",
+  "#CrecimientoPersonal"
+ ],
+ "miniatura": {
+  "texto": "NO ES AMOR",
+  "emocion": "tristeza",
+  "objeto": "taza de café con un corazón encadenado, o corazón roto con una máscara sonriente",
+  "pose": "letrero"
+ },
+ "capitulos": [
+  {
+   "n": 0,
+   "titulo": "Gancho",
+   "ambiente": "puerta",
+   "palabras": 75,
+   "objetivo": "Contradicción directa ('lo que llamas amor quizá no lo es') con una escena breve y reconocible: mirar el celular esperando un mensaje que duele. Promete 3 disfraces concretos y abre el bucle: el tercero es el más difícil de ver.",
+   "idea_clave": "¿Amor o dependencia?",
+   "escenas": [
+    {
+     "texto": "Lo que llamas amor quizá no lo es. Mira esta escena: tu celular sobre la mesa, el café frío, y tú esperando un mensaje que, cuando llega, te duele. Aun así lo revisas otra vez. ¿Eso es amor, o es hambre?",
+     "emocion": "tristeza",
+     "objeto": "celular y taza de café frío",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho sitting at a table staring at a phone, cold coffee cup beside him, a sad hopeful look, warm dim kitchen light",
+     "texto_en_pantalla": "¿Amor o hambre?"
+    },
+    {
+     "texto": "Hoy te muestro tres disfraces de la dependencia emocional: la intensidad, la tolerancia y la empatía. Los dos primeros se notan si miras con calma. El tercero es el más difícil de ver, y por eso lo dejo para el final.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "senalando",
+     "prompt_visual": "Germancho pointing at the viewer with a calm smile, holding a coffee cup, three small mask icons floating beside him, the third one blurred",
+     "texto_en_pantalla": "3 disfraces del amor"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "titulo": "Por qué se confunden tan fácil",
+   "ambiente": "sala",
+   "palabras": 330,
+   "objetivo": "Mini-gancho: 'si te dolió más la idea de estar solo que la de estar mal acompañado, quédate'. Definir dependencia emocional con palabras simples, explicar por qué se parece al amor (urgencia, entrega, sacrificio) y presentar el mapa de los 3 disfraces. Aclarar que no se juzga a nadie y que no es diagnóstico.",
+   "idea_clave": "Se parecen, pero no son iguales",
+   "escenas": [
+    {
+     "texto": "Si te dolió más la idea de estar solo que la de estar mal acompañado, quédate. Esto es para ti. Siéntate en la sala, deja el celular boca abajo y sírvete algo caliente. Hoy le ponemos nombre a algo que se parece muchísimo al amor.",
+     "emocion": "sereno",
+     "objeto": "taza de café y celular boca abajo sobre la mesa de la sala",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waves warmly from a cozy living room sofa, holding a steaming cup, phone face down on the coffee table",
+     "texto_en_pantalla": "Si te dolió más estar solo..."
+    },
+    {
+     "texto": "Vamos con lo básico. Dependencia emocional es sentir que necesitas a otra persona para estar bien. No para disfrutar: para estar bien. Es como una taza que solo se llena si alguien más la sirve. Si esa persona se va, tu taza queda vacía.",
+     "emocion": "sereno",
+     "objeto": "taza vacía",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a stool next to a row of cups, holding one empty cup upside down, gentle explanatory expression",
+     "texto_en_pantalla": "Dependencia emocional, sin enredos"
+    },
+    {
+     "texto": "¿Y por qué se confunde con amor? Porque se le parece. Tiene urgencia: necesitas verle ya. Tiene entrega: das todo. Tiene sacrificio: te dejas de último. Desde afuera parece una película romántica. Desde adentro, a veces es puro miedo con perfume.",
+     "emocion": "sorpresa",
+     "objeto": "frasco de perfume junto a una taza",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points at three fingers counting, surprised look, a perfume bottle on the living room table",
+     "texto_en_pantalla": "Urgencia, entrega, sacrificio"
+    },
+    {
+     "texto": "Aquí va la diferencia, sin complicarla. El amor suma a tu vida y te deja ser tú. La dependencia calma un miedo: quedarte solo, no valer, que te dejen. Una invita a quedarte. La otra te agarra del tobillo.",
+     "emocion": "sereno",
+     "objeto": "dos tazas, una abierta y una con tapa",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho opens his arms wide comparing two cups on the table, one open and one with a lid, calm tone",
+     "texto_en_pantalla": "Amor suma. Miedo agarra."
+    },
+    {
+     "texto": "Te presento el mapa: tres disfraces. Primero, la intensidad: todo es drama y urgencia, y lo confundes con pasión. Segundo, la tolerancia: aguantas lo que no te gusta y le llamas paciencia. Tercero, la empatía: entiendes tanto al otro que te olvidas de ti.",
+     "emocion": "alegria",
+     "objeto": "letrero con tres disfraces dibujados",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a sign listing three masks labeled intensity, tolerance, empathy, standing in a bright living room",
+     "texto_en_pantalla": "Intensidad · Tolerancia · Empatía"
+    },
+    {
+     "texto": "Ojo con el tercero. Es el más difícil de ver, porque suena bonito. Nadie sospecha de quien comprende, cuida y siempre está. Pero si comprendes a todos menos a ti, ahí hay un mensaje escondido. Lo vamos a mirar con calma.",
+     "emocion": "miedo",
+     "objeto": "máscara sonriente sobre un cojín",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches near the sofa lifting a smiling mask from a cushion, curious and cautious expression",
+     "texto_en_pantalla": "El tercero es el más difícil"
+    },
+    {
+     "texto": "Antes de seguir, una aclaración. Aquí nadie te juzga, y yo menos. Esto no es un diagnóstico ni reemplaza a un profesional; es un espejo para mirarte con cariño. Si algo te remueve mucho, hablarlo con un psicólogo es buena idea. Vamos con la primera señal.",
+     "emocion": "sereno",
+     "objeto": "espejo pequeño y taza de café",
+     "pose": "saludando",
+     "prompt_visual": "Germancho smiles kindly holding a small mirror in one hand and a coffee cup in the other, relaxed living room",
+     "texto_en_pantalla": "No es diagnóstico. Es un espejo."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Disfraz 1: la intensidad",
+   "ambiente": "restaurante",
+   "palabras": 440,
+   "objetivo": "Mini-gancho: 'No poder estar sin ti' suena romántico, pero escucha qué esconde. Mini-historia de una pareja que no se separa ni un día y llama 'amor intenso' al miedo a quedarse solo. Diferencia clave: elegir al otro vs. necesitar al otro para no sentir vacío. Pausa reflexiva y pregunta.",
+   "idea_clave": "Necesitar no es lo mismo que elegir",
+   "escenas": [
+    {
+     "texto": "No poder estar sin ti suena a canción romántica. Suena a final de película. Pero escucha con calma, porque a veces esa frase no habla de amor. Habla de otra cosa que se sienta a la mesa sin que la invites.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "senalando",
+     "prompt_visual": "Germancho at a restaurant table pointing at an empty chair across from him, a steaming coffee cup in front of him, curious expression",
+     "texto_en_pantalla": "Disfraz 1: la intensidad"
+    },
+    {
+     "texto": "Imagina un restaurante. Una mesa para dos. Ana y Luis llevan tres años sin pasar un solo día separados. Comparten postre, ubicación del celular y contraseñas. Ellos le llaman amor intenso. Y todos, desde afuera, suspiramos un poquito.",
+     "emocion": "alegria",
+     "objeto": "mesa con dos platos",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho presenting a cozy restaurant table for two with candles and one dessert with two spoons, arms open like a host",
+     "texto_en_pantalla": "Ana y Luis"
+    },
+    {
+     "texto": "Ella cancela el almuerzo con su hermana para no dejarlo solo. Él abandona el fútbol con sus amigos porque se le aprieta el pecho si ella tarda en contestar. Y los dos dicen: es que nos amamos demasiado. Suena bonito. Pero fíjate quién manda ahí.",
+     "emocion": "sorpresa",
+     "objeto": "celular",
+     "pose": "senalando",
+     "prompt_visual": "Germancho holding a phone with many unread messages, raising an eyebrow, restaurant background",
+     "texto_en_pantalla": "¿Quién manda ahí?"
+    },
+    {
+     "texto": "Una noche, a él le sale un viaje de trabajo de dos días. Cena de despedida. Nadie prueba la comida. Ella sonríe, pero le tiembla la copa. Y ahí pasa algo que nadie dice: no es tristeza por extrañar. Es pánico a quedarse a solas con ella misma.",
+     "emocion": "miedo",
+     "objeto": "copa temblorosa",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching beside a restaurant table looking at a trembling water glass with worried face, dim warm light",
+     "texto_en_pantalla": "Pánico, no nostalgia"
+    },
+    {
+     "texto": "Ese es el truco. Extrañar es sentir que alguien te hace falta y seguir de pie. El pánico es sentir que, sin esa persona, el piso se abre. Una cosa es echar de menos. Otra muy distinta es no poder sostenerte.",
+     "emocion": "tristeza",
+     "objeto": "silla vacía",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho lying sadly on a restaurant bench next to an empty chair, a cup of cold coffee on the table",
+     "texto_en_pantalla": "Extrañar no es temer"
+    },
+    {
+     "texto": "Esta es la diferencia clave. Elegir al otro es decir: me encanta tu compañía y también estoy bien conmigo. Necesitar al otro para no sentir vacío es usarlo de tapón. Es como tomar café diez veces al día, no por gusto, sino para no sentir el cansancio.",
+     "emocion": "sereno",
+     "objeto": "dos tazas de café",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sitting on a stool with two coffee cups, one labeled choose and one labeled need, comparing them calmly",
+     "texto_en_pantalla": "Elegir ≠ necesitar"
+    },
+    {
+     "texto": "Cuando el otro es tu tapón, dejas de verlo a él. Lo empiezas a usar. Y sin querer lo vuelves responsable de tu calma. Es demasiado peso para una persona. Nadie puede ser tu única escalera para sentirte bien.",
+     "emocion": "sereno",
+     "objeto": "escalera pequeña",
+     "pose": "escalera",
+     "prompt_visual": "Germancho standing on a small ladder inside a restaurant holding a heavy sack labeled calm, balancing carefully",
+     "texto_en_pantalla": "Nadie es tu única escalera"
+    },
+    {
+     "texto": "Ojo, no es que estar muy cerca sea malo. Pasar mucho tiempo juntos puede ser hermoso. La pregunta no es cuánto tiempo, es por qué. ¿Estás ahí por gusto o por miedo? Ahí está la grieta, y casi nunca se ve desde afuera.",
+     "emocion": "sereno",
+     "objeto": "cuaderno",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a sign that says Gusto or Miedo, standing next to a restaurant table, friendly smile",
+     "texto_en_pantalla": "¿Gusto o miedo?"
+    },
+    {
+     "texto": "Pausa. Deja la taza un momento. Imagina que mañana tu pareja está seis horas sin señal. ¿Qué sientes primero: ganas de contarle algo o ganas de que vuelva para no sentirte sola? No contestes rápido. Respira, y escucha tu primera respuesta.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sitting quietly at a restaurant counter with a coffee cup, eyes closed, taking a deep breath, soft light",
+     "texto_en_pantalla": "¿Gusto o vacío?"
+    },
+    {
+     "texto": "Si te reconociste un poquito, tranquilo, aquí no hay juicio. Solo estás mirando. Y mira, que el siguiente disfraz es más silencioso: no hace ruido, no grita, se viste de aguante. Vamos a verlo.",
+     "emocion": "sorpresa",
+     "objeto": "servilleta",
+     "pose": "cambio",
+     "prompt_visual": "Germancho at a restaurant table, pulling a napkin like a curtain to reveal a quiet figure wearing a patient smile mask",
+     "texto_en_pantalla": "Siguiente: la tolerancia"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Disfraz 2: la tolerancia",
+   "ambiente": "cocina",
+   "palabras": 460,
+   "objetivo": "Mini-gancho: 'Aguantar no siempre es paciencia; a veces es miedo con buena reputación'. Mini-historia de alguien que normaliza desplantes, burlas o silencios castigadores diciendo 'así es él/ella'. Señal de alerta: cuando tu tolerancia crece y tu bienestar baja. Recordar que si hay maltrato o miedo, conviene buscar ayuda profesional.",
+   "idea_clave": "Paciencia sana tiene límites",
+   "escenas": [
+    {
+     "texto": "Estoy en la cocina, con el agua hirviendo, y te lo digo sin rodeos: aguantar no siempre es paciencia. A veces es miedo con buena reputación. Se ve bonito desde afuera. Le dicen madurez, aguante, paz. Pero por dentro hay alguien tragándose cosas todos los días.",
+     "emocion": "sereno",
+     "objeto": "tetera hirviendo",
+     "pose": "saludando",
+     "prompt_visual": "Germancho in a cozy kitchen waving at the camera with a steaming kettle behind him, calm but knowing smile",
+     "texto_en_pantalla": "Aguantar no siempre es paciencia"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Disfraz 3: la empatía",
+   "ambiente": "calle",
+   "palabras": 460,
+   "objetivo": "Mini-gancho (cierra el bucle): el tercer disfraz es el más elegante, porque parece bondad. Mini-historia de quien justifica todo, se hace cargo de las emociones del otro y se anula. Mostrar el límite entre comprender y sacrificarse: puedo entenderte sin hacerme responsable de ti.",
+   "idea_clave": "Comprender no es anularte",
+   "escenas": [
+    {
+     "texto": "Llegamos al tercer disfraz, y es el más elegante. Tan elegante que nadie sospecha de él, porque no parece control ni drama. Parece bondad. Parece madurez. Parece ese amigo que siempre dice: yo comprendo todo. Y justo ahí, en lo que se ve más bonito, se esconde.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café",
+     "pose": "senalando",
+     "prompt_visual": "Germancho on a city sidewalk lifting a coffee cup with a raised eyebrow, pointing at the viewer as if revealing a secret",
+     "texto_en_pantalla": "El disfraz más elegante"
+    },
+    {
+     "texto": "Se llama empatía mal usada. Es la que te hace decir: pobrecito, tuvo un mal día, no lo hizo con mala intención. Una vez, vale. Pero cien veces ya no es comprensión. Es la costumbre de tapar los huecos del otro con tu propia paz.",
+     "emocion": "sereno",
+     "objeto": "cuaderno",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a sign that reads Empatía mal usada, standing on a quiet street corner with soft afternoon light",
+     "texto_en_pantalla": "Empatía mal usada"
+    },
+    {
+     "texto": "Te cuento de Marcela. Caminamos con ella por una calle como esta, de regreso del trabajo. Julián, su pareja, canceló otra vez la cena. Y ella ya tiene lista la excusa antes de que él la diga: está estresado, no es contigo, otra vez será.",
+     "emocion": "tristeza",
+     "objeto": "celular",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching on a sidewalk looking at a phone, empathetic and slightly sad, evening street with streetlights turning on",
+     "texto_en_pantalla": "Marcela y la excusa lista"
+    },
+    {
+     "texto": "Marcela es experta leyendo caras. Sabe si Julián llegó molesto por cómo cierra la puerta. Entonces baja la voz, prepara el café, cambia de tema. Se pasa la tarde midiendo el clima de él, y se le olvida mirar el suyo.",
+     "emocion": "miedo",
+     "objeto": "taza de café",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sitting on a stool at a street coffee cart, carefully preparing cups and glancing nervously sideways, tense atmosphere",
+     "texto_en_pantalla": "Midiendo el clima del otro"
+    },
+    {
+     "texto": "Una amiga le pregunta: ¿y tú cómo estás? Marcela se queda en blanco. Responde: bien, bien, lo importante es que él esté tranquilo. Fíjate en esa frase. Cuando tu tranquilidad depende de la de otro, ya no estás acompañando. Estás cargando.",
+     "emocion": "tristeza",
+     "objeto": "mochila pesada",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho lying on a park bench by the street, hugging a heavy backpack, looking drained and thoughtful",
+     "texto_en_pantalla": "Ya no acompañas: cargas"
+    },
+    {
+     "texto": "Aquí está el límite. Comprender es decir: veo lo que te pasa y tiene sentido. Sacrificarte es decir: arreglar lo que te pasa me toca a mí, y lo mío puede esperar. Una puerta te acerca al otro. La otra te borra de la escena.",
+     "emocion": "sereno",
+     "objeto": "puerta dibujada con tiza",
+     "pose": "senalando",
+     "prompt_visual": "Germancho on the sidewalk pointing at two chalk-drawn doors on the pavement, one open and bright, one fading away",
+     "texto_en_pantalla": "Comprender no es anularte"
+    },
+    {
+     "texto": "Imagina dos tazas de café sobre una mesa. Comprender es sentarte con la tuya al lado de la del otro. Sacrificarte es tomarte la de él, dejar la tuya fría y encima pedir disculpas porque estaba muy caliente.",
+     "emocion": "alegria",
+     "objeto": "dos tazas de café",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho at a small outdoor cafe table with two cups, humorously pushing one cup away while keeping his own, playful expression",
+     "texto_en_pantalla": "Dos tazas, dos personas"
+    },
+    {
+     "texto": "Piénsalo así: puedo entenderte sin hacerme responsable de ti. Puedo escuchar tu enojo sin absorberlo. Puedo decir lo siento, y también decir esto me dolió. Las dos cosas caben en la misma conversación. Y ninguna te hace menos buena persona.",
+     "emocion": "alegria",
+     "objeto": "letrero",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with arms wide open in the middle of a sunny street, relaxed and smiling, a feeling of lightness and balance",
+     "texto_en_pantalla": "Entenderte no es cargarte"
+    },
+    {
+     "texto": "Tres señales para revisarte, sin juicio. Justificas antes de que te pidan explicaciones. Te sientes culpable por tener una necesidad. Y cuando el otro está mal, tú pierdes el sueño o tus planes. Si esto pesa mucho, hablarlo con un profesional de la psicología puede ayudarte.",
+     "emocion": "sereno",
+     "objeto": "cuaderno",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a notebook open to the camera with three checklist marks, standing near a bus stop, calm and warm expression",
+     "texto_en_pantalla": "Tres señales para revisarte"
+    },
+    {
+     "texto": "Pregúntate mientras caminas: ¿cuándo fue la última vez que dije algo incómodo sin pedir perdón antes? ¿Qué me estoy callando para que todo siga en paz? Y esa paz, ¿es de los dos o solo de uno? Quédate un momento con esas preguntas.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho walking slowly down a street at dusk holding a coffee cup, pensive, looking up as if asking himself a question",
+     "texto_en_pantalla": "¿Esa paz es de los dos?"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Señales y preguntas para mirarte",
+   "ambiente": "espejo",
+   "palabras": 570,
+   "objetivo": "Mini-gancho: 'Ahora mírate un momento, sin culpa'. Resumir señales prácticas (miedo a la soledad, pedir perdón por todo, perder amistades y gustos, ansiedad ante la distancia) y plantear 5 preguntas de autoexploración. Incluir un ejemplo integrador de una persona que reconoce los tres disfraces. Aclarar que ver esto no culpa a nadie y que no se generaliza a todas las relaciones.",
+   "idea_clave": "Mírate sin culparte",
+   "escenas": [
+    {
+     "texto": "Ahora mírate un momento, sin culpa. Imagina que esta pantalla es un espejo y yo te sostengo la taza mientras miras. No hay examen ni nota. Solo vas a observar con curiosidad lo que vives en tu relación, como quien mira el fondo de su taza antes de seguir bebiendo.",
+     "emocion": "sereno",
+     "objeto": "espejo y taza",
+     "pose": "senalando",
+     "prompt_visual": "Germancho holds a coffee cup in front of a large mirror, looking gently at his own reflection, warm soft light",
+     "texto_en_pantalla": "Mírate, sin culpa"
+    },
+    {
+     "texto": "Antes de seguir, una aclaración importante. Ver estas señales no te hace culpable ni débil. Tampoco significa que todas tus relaciones sean así, ni que tu pareja sea una mala persona. Es solo una luz encendida en un cuarto. Lo que hagas con esa luz lo decides tú.",
+     "emocion": "sereno",
+     "objeto": "lámpara pequeña",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms next to a small glowing lamp in a dim room, calm reassuring expression",
+     "texto_en_pantalla": "Ver no es culpar"
+    },
+    {
+     "texto": "Primera señal: miedo a la soledad. No a estar solo un rato, sino ese pánico que te hace aceptar lo que sea con tal de no quedarte sin esa persona. Segunda: ansiedad ante la distancia. Un viaje, un silencio o un visto sin respuesta, y el cuerpo entero se pone en alerta.",
+     "emocion": "miedo",
+     "objeto": "celular con mensaje sin respuesta",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a sign with numbers 1 and 2, nervous face, a phone with unread message beside him",
+     "texto_en_pantalla": "Soledad y distancia"
+    },
+    {
+     "texto": "Tercera señal: pedir perdón por todo, hasta por sentir lo que sientes. Cuarta: perder amistades y gustos. Dejaste el taller, el grupo de domingo, la música que te encantaba, y ni te diste cuenta de cuándo. Tu mundo se fue achicando hasta caber en una sola persona.",
+     "emocion": "tristeza",
+     "objeto": "taza vacía y guitarra olvidada",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching sadly beside a dusty guitar and an empty cup, fading photos of friends on the wall",
+     "texto_en_pantalla": "Tu mundo se achica"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Cierre: se puede sanar",
+   "ambiente": "cafeteria",
+   "palabras": 140,
+   "objetivo": "Resumen en 3 frases (intensidad, tolerancia, empatía), mensaje de esperanza (se puede aprender a vincularse distinto, con apoyo profesional si hace falta), Reto de hoy y CTA: comentar el reto, suscribirse y compartir con alguien que lo necesite.",
+   "idea_clave": "Sanar es posible, paso a paso",
+   "escenas": [
+    {
+     "texto": "Vamos cerrando la taza. Tres disfraces, tres señales. La intensidad confunde miedo a la soledad con pasión. La tolerancia confunde aguantar con amar. Y la empatía, la más difícil de ver, confunde cuidar al otro con olvidarte de ti.",
+     "emocion": "sereno",
+     "objeto": "tres tazas de café alineadas en la barra",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits at a cafe stool lifting three cups one by one, counting on his fingers, warm calm cafeteria light",
+     "texto_en_pantalla": "Intensidad · Tolerancia · Empatía"
+    },
+    {
+     "texto": "Y ahora lo importante: esto se puede sanar. Vincularte distinto se aprende, como aprender a preparar un buen café: con práctica, paciencia y algún error. Si sientes que te pesa demasiado, un psicólogo o terapeuta puede acompañarte. Pedir ayuda no es debilidad; es elegirte.",
+     "emocion": "alegria",
+     "objeto": "taza humeante",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho opens his arms with a warm smile behind the cafe counter, steaming cup beside him, hopeful soft light",
+     "texto_en_pantalla": "Se puede sanar",
+     "pose_nota": ""
+    },
+    {
+     "texto": "Reto de hoy. Toma tu cuaderno y, en menos de 5 minutos, escribe una situación reciente en la que dijiste 'no pasa nada' aunque sí pasaba. Completa la frase: 'Lo que realmente sentí fue…'. Luego compártela en los comentarios, sin nombres.",
+     "emocion": "sereno",
+     "objeto": "cuaderno y lapicero",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds up a notebook like a sign showing a half-written sentence, cafe table with coffee, friendly determined look",
+     "texto_en_pantalla": "Lo que realmente sentí fue…"
+    },
+    {
+     "texto": "Si hoy te sirvió, suscríbete para el próximo café. Y comparte este video con alguien que lo necesite; a veces una taza compartida abre una conversación. Yo te leo en los comentarios. Nos vemos pronto, con otra taza y otra pregunta.",
+     "emocion": "alegria",
+     "objeto": "taza para llevar",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waves goodbye with a big smile holding a takeaway cup, cozy cafeteria background",
+     "texto_en_pantalla": "Comenta, suscríbete, comparte"
+    }
+   ]
+  }
+ ],
+ "reto_de_hoy": "Toma tu cuaderno y, en menos de 5 minutos, escribe una situación reciente en la que dijiste 'no pasa nada' aunque sí pasaba. Completa la frase: 'Lo que realmente sentí fue…'. Luego comparte esa frase en los comentarios, sin nombres.",
+ "palabras": 1638
+}
