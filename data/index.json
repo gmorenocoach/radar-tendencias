@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T15:14:49Z",
+ "actualizado": "2026-11-09T18:50:28Z",
  "perfiles": [
   {
    "id": "equilibrate_en",
@@ -7,9 +7,9 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "en",
    "formato": "largo",
-   "generado": "2026-11-08T15:14:49Z",
-   "videos": 16,
-   "canales": 8
+   "generado": "2026-11-09T18:50:28Z",
+   "videos": 18,
+   "canales": 7
   },
   {
    "id": "equilibrate_es",
@@ -17,9 +17,9 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-08T15:14:49Z",
-   "videos": 19,
-   "canales": 5
+   "generado": "2026-11-09T18:50:28Z",
+   "videos": 29,
+   "canales": 12
   },
   {
    "id": "mercado_coaching_es",
@@ -27,9 +27,9 @@
    "nicho": "Mercado coaching y cursos",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-08T15:14:49Z",
-   "videos": 61,
-   "canales": 58
+   "generado": "2026-11-09T18:50:28Z",
+   "videos": 55,
+   "canales": 46
   },
   {
    "id": "mitribu_en",
@@ -37,9 +37,9 @@
    "nicho": "Dinero (Mi Tribu)",
    "idioma": "en",
    "formato": "shorts",
-   "generado": "2026-11-08T15:14:49Z",
-   "videos": 3,
-   "canales": 3
+   "generado": "2026-11-09T18:50:28Z",
+   "videos": 4,
+   "canales": 4
   },
   {
    "id": "mitribu_es",
@@ -47,9 +47,9 @@
    "nicho": "Dinero (Mi Tribu)",
    "idioma": "es",
    "formato": "shorts",
-   "generado": "2026-11-08T15:14:49Z",
-   "videos": 10,
-   "canales": 10
+   "generado": "2026-11-09T18:50:28Z",
+   "videos": 14,
+   "canales": 12
   },
   {
    "id": "soyintegral_en",
@@ -57,9 +57,9 @@
    "nicho": "Salud (Soy Integral)",
    "idioma": "en",
    "formato": "largo",
-   "generado": "2026-11-08T15:14:49Z",
+   "generado": "2026-11-09T18:50:28Z",
    "videos": 9,
-   "canales": 6
+   "canales": 4
   },
   {
    "id": "soyintegral_es",
@@ -67,10 +67,10 @@
    "nicho": "Salud (Soy Integral)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-08T15:14:49Z",
-   "videos": 52,
-   "canales": 17
+   "generado": "2026-11-09T18:50:28Z",
+   "videos": 38,
+   "canales": 14
   }
  ],
- "cuota_usada_hoy": 6747
+ "cuota_usada_hoy": 6857
 }

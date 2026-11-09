@@ -1,23 +1,23 @@
 {
  "perfil": "mitribu_es",
- "n": 10,
+ "n": 14,
  "promedio": {
-  "brillo": 61,
-  "pct_oscuro": 64,
+  "brillo": 62,
+  "pct_oscuro": 65,
   "pct_amarillo": 0,
   "pct_piel": 7,
-  "pct_saturado": 1
+  "pct_saturado": 2
  },
  "promedio_top10": {
-  "brillo": 61,
+  "brillo": 64,
   "pct_oscuro": 64,
   "pct_amarillo": 0,
-  "pct_piel": 7,
-  "pct_saturado": 1
+  "pct_piel": 8,
+  "pct_saturado": 2
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 90,
-  "pct_con_rostro_probable": 40,
+  "pct_miniaturas_oscuras": 100,
+  "pct_con_rostro_probable": 36,
   "pct_con_amarillo": 0
  },
  "recomendacion": "Mixto: probar clara y oscura con 'Prueba y compara'",
@@ -25,8 +25,8 @@
   {
    "video_id": "I6WOUQstEmg",
    "titulo": "¿Se acuerdan del sobrecito para ahorrar? ✉️ Hacela fácil con los Frascos Fijos de Naranja X📱",
-   "vistas": 3684763,
-   "ratio": 528.7,
+   "vistas": 3837998,
+   "ratio": 550.6,
    "miniatura": "https://i.ytimg.com/vi/I6WOUQstEmg/maxresdefault.jpg",
    "brillo": 89,
    "pct_oscuro": 47,
@@ -37,7 +37,7 @@
   {
    "video_id": "LZdStuNPJHY",
    "titulo": "Formas de ahorrar en Amazon #amazoncoupon",
-   "vistas": 2184009,
+   "vistas": 2184366,
    "ratio": 576.3,
    "miniatura": "https://i.ytimg.com/vi/LZdStuNPJHY/maxresdefault.jpg",
    "brillo": 71,
@@ -45,6 +45,42 @@
    "pct_amarillo": 0,
    "pct_piel": 11,
    "pct_saturado": 0
+  },
+  {
+   "video_id": "i5Y60tfWIGc",
+   "titulo": "💰 Peter descubre cómo ganar dinero con el nuevo trabajo de Quagmire",
+   "vistas": 1146557,
+   "ratio": 31.6,
+   "miniatura": "https://i.ytimg.com/vi/i5Y60tfWIGc/maxresdefault.jpg",
+   "brillo": 67,
+   "pct_oscuro": 69,
+   "pct_amarillo": 0,
+   "pct_piel": 4,
+   "pct_saturado": 2
+  },
+  {
+   "video_id": "hyMPY8BJMjQ",
+   "titulo": "🤯 Brian encuentra el boleto ganador entre 200 mil boletos",
+   "vistas": 894891,
+   "ratio": 24.7,
+   "miniatura": "https://i.ytimg.com/vi/hyMPY8BJMjQ/maxresdefault.jpg",
+   "brillo": 77,
+   "pct_oscuro": 55,
+   "pct_amarillo": 0,
+   "pct_piel": 3,
+   "pct_saturado": 1
+  },
+  {
+   "video_id": "pjf-6QPUXZ4",
+   "titulo": "AURONPLAY era mas FELIZ sin tanto DINERO  #auronplay #auron",
+   "vistas": 255711,
+   "ratio": 169.3,
+   "miniatura": "https://i.ytimg.com/vi/pjf-6QPUXZ4/maxresdefault.jpg",
+   "brillo": 58,
+   "pct_oscuro": 63,
+   "pct_amarillo": 0,
+   "pct_piel": 5,
+   "pct_saturado": 5
   },
   {
    "video_id": "CJXMOjGMyCM",
@@ -105,42 +141,6 @@
    "pct_amarillo": 0,
    "pct_piel": 1,
    "pct_saturado": 6
-  },
-  {
-   "video_id": "_kZZ-EIlcvA",
-   "titulo": "Solo Futuros MILLONARIOS Verán Esto.. 🍀",
-   "vistas": 51991,
-   "ratio": 27.8,
-   "miniatura": "https://i.ytimg.com/vi/_kZZ-EIlcvA/maxresdefault.jpg",
-   "brillo": 33,
-   "pct_oscuro": 85,
-   "pct_amarillo": 0,
-   "pct_piel": 0,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "ynSnJTEJxy8",
-   "titulo": "Cuando mi novia y yo hacemos un ritual para atraer dinero💸💸",
-   "vistas": 25452,
-   "ratio": 17.7,
-   "miniatura": "https://i.ytimg.com/vi/ynSnJTEJxy8/maxresdefault.jpg",
-   "brillo": 61,
-   "pct_oscuro": 72,
-   "pct_amarillo": 0,
-   "pct_piel": 6,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "vHFL9mMdVN4",
-   "titulo": "Tener dinero no siempre significa ser feliz ❤️ #Reflexiones #VidaConPropósito",
-   "vistas": 16236,
-   "ratio": 14.9,
-   "miniatura": "https://i.ytimg.com/vi/vHFL9mMdVN4/maxresdefault.jpg",
-   "brillo": 78,
-   "pct_oscuro": 28,
-   "pct_amarillo": 0,
-   "pct_piel": 4,
-   "pct_saturado": 0
   }
  ]
 }
