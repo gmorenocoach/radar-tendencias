@@ -1,0 +1,49 @@
+{
+ "fuente": {
+  "tema": "Amor o necesidad: la prueba del celular. Gancho: Deja tu celular boca abajo una hora. Lo que sientes ahí dice más que cualquier te quiero.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 2"
+ },
+ "adn": {
+  "tema_central": "Distinguir si lo que sentimos por alguien es amor o dependencia emocional, usando como prueba el malestar que aparece al dejar el celular boca abajo durante una hora esperando un mensaje. Capítulo 2 de la serie 'La Taza Derramada: 6 capítulos para amar sin perderte'.",
+  "promesa_del_titulo": "En una hora y con un gesto simple (celular boca abajo) vas a descubrir si tu vínculo nace del amor o de la necesidad, sin depender de ningún 'te quiero'.",
+  "gancho_primeros_segundos": "Plano cerrado: una mano gira el celular y lo deja boca abajo sobre la mesa. Texto en pantalla: '1 HORA'. Voz directa en los primeros 2 segundos: 'Deja tu celular boca abajo una hora. Lo que sientes ahí dice más que cualquier te quiero.' Corte seco al reloj y a la cara de ansiedad contenida.",
+  "tipo_de_gancho": "Reto + contradicción: propone un experimento inmediato y afirma que un gesto físico revela más que las palabras de amor.",
+  "estructura": [
+   "0-3s: Gancho con el reto del celular boca abajo y la frase de contradicción.",
+   "3-10s: Contexto breve: por qué revisamos el celular esperando a esa persona (amor vs. necesidad) y mención de la serie, capítulo 2 de 6.",
+   "10-30s: Lista corta de 3 señales de lo que puedes sentir durante la hora: 1) Calma y curiosidad = amor que te deja ser. 2) Inquietud creciente y ganas de revisar = necesidad que pide calmarse. 3) Enojo o castigo mental si no escribe = miedo al abandono disfrazado de amor.",
+   "30-45s: Giro: la taza derramada. Si dependes de que el otro te llene, te vacías; amar es compartir lo que ya tienes, no mendigar lo que te falta.",
+   "45-55s: Qué hacer con lo que sentiste: respirar, nombrarlo y no escribir desde la ansiedad.",
+   "55-60s: Cierre con reto y gancho al capítulo 3."
+  ],
+  "ritmo": "Rápido y de cortes cada 2-3 segundos, con texto en pantalla sincronizado a la voz. Pausa breve de 1 segundo antes de cada señal para dar peso. Loop final que conecta con el gancho inicial.",
+  "tono": "Cercano, empático y directo, como una amiga o terapeuta sincera. Sin juicio, con ligera provocación. Segunda persona (tú).",
+  "cta_final": "Haz la prueba hoy: celular boca abajo una hora y comenta con un emoji cómo te sentiste (😌 calma, 😰 ansiedad, 😤 enojo). Suscríbete para el capítulo 3 de La Taza Derramada.",
+  "formula_del_titulo": "Reto concreto + tiempo + revelación emocional + marca de serie",
+  "titulo_con_numero": "La prueba del celular: 1 hora que revela si es amor o necesidad (Cap. 2)",
+  "palabras_clave": [
+   "amor o necesidad",
+   "dependencia emocional",
+   "prueba del celular",
+   "ansiedad en la relación",
+   "amor propio",
+   "amar sin perderte",
+   "La Taza Derramada",
+   "señales de apego ansioso",
+   "relaciones sanas",
+   "reto de una hora"
+  ],
+  "emocion_dominante": "Curiosidad con una incomodidad reconocible (ansiedad), que termina en alivio y claridad.",
+  "formula_miniatura": "Primer plano de un celular boca abajo sobre una mesa, con una taza derramándose al lado. Texto grande de máximo 4 palabras: '¿AMOR O NECESIDAD?'. Fondo oscuro con acento cálido (naranja o rojo) y un reloj pequeño con '1H'. Rostro opcional con expresión de ansiedad contenida.",
+  "por_que_funciona": "Propone una acción mínima, medible y de baja fricción que el espectador puede probar al instante. Genera auto-reconocimiento (todos hemos mirado el celular esperando a alguien). La contradicción 'más que cualquier te quiero' despierta curiosidad. La lista corta de 3 señales es fácil de retener y compartir. El reto final fomenta comentarios y la serie numerada impulsa suscripción y retención entre capítulos. La metáfora de la taza da una imagen memorable.",
+  "riesgos_a_evitar": [
+   "Diagnosticar o patologizar: presentar la prueba como test clínico en lugar de ejercicio de autoobservación.",
+   "Culpabilizar a quien siente ansiedad; mantener un tono compasivo.",
+   "Sugerir que sentir inquietud significa que la relación es tóxica o que hay que terminarla.",
+   "Alargar la introducción: el reto debe aparecer antes del segundo 3.",
+   "Saturar con texto en pantalla o más de 3 señales.",
+   "Olvidar mencionar que es el capítulo 2 y no dar contexto a quien llega sin ver el 1.",
+   "Promesas absolutas ('esto prueba al 100%'); usar lenguaje de 'puede indicar'.",
+   "Omitir una nota de apoyo profesional si la ansiedad es intensa o frecuente."
+  ]
+ }
+}

@@ -773,7 +773,10 @@
    "subtema": "Patrones afectivos que se repiten: elegir a la misma persona con distinta cara, heridas de infancia y lo que aprendimos que era amar. Cierre: ¿de quién aprendiste a pelear?",
    "referencia_video_id": "VaEtQ9UIGqU",
    "minutos": 15,
-   "estado": "planificado"
+   "estado": "error",
+   "produccion_id": "",
+   "resultado": "error: RuntimeError: JSON inválido de Claude: Expecting value: line 1 column 1 (char 0)",
+   "producido_en": "2026-11-09T20:11:06"
   },
   {
    "id": "equilibrate_es-20261111-S",
@@ -786,7 +789,10 @@
    "titulo": "Amor o necesidad: la prueba del celular",
    "gancho": "Deja tu celular boca abajo una hora. Lo que sientes ahí dice más que cualquier te quiero.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261109-equilibrate_es-celular-boca-abajo-1-hora-amor-o-necesidad-cap-2",
+   "resultado": "ok 272s",
+   "producido_en": "2026-11-09T20:15:38"
   },
   {
    "id": "equilibrate_es-20261112-S",

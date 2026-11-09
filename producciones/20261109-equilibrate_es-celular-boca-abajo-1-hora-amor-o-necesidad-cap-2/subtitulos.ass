@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.35,Sub,,0,0,0,,{\k49}VOLTEA {\k13}TU {\k73}CELULAR.
+Dialogue: 0,0:00:01.35,0:00:02.73,Sub,,0,0,0,,{\k34}BOCA {\k74}ABAJO. {\k30}UNA
+Dialogue: 0,0:00:02.73,0:00:03.87,Sub,,0,0,0,,{\k70}HORA. {\k15}TU {\k29}CUERPO
+Dialogue: 0,0:00:03.87,0:00:04.61,Sub,,0,0,0,,{\k15}VA {\k7}A {\k52}CONFESAR
+Dialogue: 0,0:00:04.61,0:00:04.96,Sub,,0,0,0,,{\k11}LO {\k12}QUE {\k13}TU
+Dialogue: 0,0:00:04.96,0:00:05.75,Sub,,0,0,0,,{\k43}BOCA {\k23}NO {\k13}SE
+Dialogue: 0,0:00:05.75,0:00:08.53,Sub,,0,0,0,,{\k109}ATREVE. {\k41}SOY {\k129}GERMANCHO.
+Dialogue: 0,0:00:08.53,0:00:09.66,Sub,,0,0,0,,{\k57}CAPÍTULO {\k31}2 {\k24}DE
+Dialogue: 0,0:00:09.66,0:00:10.22,Sub,,0,0,0,,{\k30}6 {\k12}DE {\k14}LA
+Dialogue: 0,0:00:10.22,0:00:11.81,Sub,,0,0,0,,{\k29}TAZA {\k84}DERRAMADA: {\k46}AMAR
+Dialogue: 0,0:00:11.81,0:00:13.66,Sub,,0,0,0,,{\k27}SIN {\k101}PERDERTE. {\k58}¿AMOR
+Dialogue: 0,0:00:13.66,0:00:15.16,Sub,,0,0,0,,{\k12}O {\k102}NECESIDAD? {\k36}PRIMERA
+Dialogue: 0,0:00:15.16,0:00:16.52,Sub,,0,0,0,,{\k72}SEÑAL: {\k52}CALMA {\k12}Y
+Dialogue: 0,0:00:16.52,0:00:18.74,Sub,,0,0,0,,{\k128}CURIOSIDAD. {\k37}PUEDES {\k57}ESPERAR,
+Dialogue: 0,0:00:18.74,0:00:19.67,Sub,,0,0,0,,{\k37}PORQUE {\k21}ESE {\k35}AMOR
+Dialogue: 0,0:00:19.67,0:00:20.42,Sub,,0,0,0,,{\k15}NO {\k15}TE {\k45}ATA,
+Dialogue: 0,0:00:20.42,0:00:21.75,Sub,,0,0,0,,{\k18}TE {\k29}DEJA {\k86}SER.
+Dialogue: 0,0:00:21.75,0:00:23.48,Sub,,0,0,0,,{\k89}SEGUNDA: {\k70}INQUIETUD {\k14}QUE
+Dialogue: 0,0:00:23.48,0:00:26.59,Sub,,0,0,0,,{\k107}SUBE. {\k100}REVISAS, {\k104}REFRESCAS,
+Dialogue: 0,0:00:26.59,0:00:28.26,Sub,,0,0,0,,{\k59}REVISAS {\k24}OTRA {\k84}VEZ.
+Dialogue: 0,0:00:28.26,0:00:29.45,Sub,,0,0,0,,{\k34}PUEDE {\k21}SER {\k65}NECESIDAD
+Dialogue: 0,0:00:29.45,0:00:31.77,Sub,,0,0,0,,{\k48}PIDIENDO {\k89}CALMA. {\k94}TERCERA:
+Dialogue: 0,0:00:31.77,0:00:34.16,Sub,,0,0,0,,{\k76}ENOJO, {\k60}CASTIGO {\k103}MENTAL.
+Dialogue: 0,0:00:34.16,0:00:35.21,Sub,,0,0,0,,{\k34}«SI {\k12}NO {\k60}ESCRIBE,
+Dialogue: 0,0:00:35.21,0:00:36.73,Sub,,0,0,0,,{\k17}YO {\k105}TAMPOCO». {\k30}PUEDE
+Dialogue: 0,0:00:36.73,0:00:37.42,Sub,,0,0,0,,{\k20}SER {\k37}MIEDO {\k12}AL
+Dialogue: 0,0:00:37.42,0:00:38.48,Sub,,0,0,0,,{\k50}ABANDONO {\k16}CON {\k39}DISFRAZ
+Dialogue: 0,0:00:38.48,0:00:39.97,Sub,,0,0,0,,{\k12}DE {\k87}AMOR. {\k51}IMAGINA
+Dialogue: 0,0:00:39.97,0:00:41.12,Sub,,0,0,0,,{\k15}TU {\k82}TAZA. {\k17}SI
+Dialogue: 0,0:00:41.12,0:00:41.88,Sub,,0,0,0,,{\k37}ESPERAS {\k14}QUE {\k24}OTRO
+Dialogue: 0,0:00:41.88,0:00:42.50,Sub,,0,0,0,,{\k10}TE {\k9}LA {\k43}LLENE,
+Dialogue: 0,0:00:42.50,0:00:44.02,Sub,,0,0,0,,{\k14}TE {\k103}VACÍAS. {\k35}AMAR
+Dialogue: 0,0:00:44.02,0:00:44.84,Sub,,0,0,0,,{\k12}ES {\k57}COMPARTIR {\k13}LO
+Dialogue: 0,0:00:44.84,0:00:45.83,Sub,,0,0,0,,{\k16}QUE {\k16}YA {\k66}TIENES,
+Dialogue: 0,0:00:45.83,0:00:46.65,Sub,,0,0,0,,{\k19}NO {\k52}MENDIGAR {\k12}LO
+Dialogue: 0,0:00:46.65,0:00:47.79,Sub,,0,0,0,,{\k12}QUE {\k14}TE {\k88}FALTA.
+Dialogue: 0,0:00:47.79,0:00:50.61,Sub,,0,0,0,,{\k73}¿SENTISTE {\k132}ANSIEDAD? {\k77}RESPIRA,
+Dialogue: 0,0:00:50.61,0:00:51.70,Sub,,0,0,0,,{\k37}PONLE {\k52}NOMBRE {\k20}Y
+Dialogue: 0,0:00:51.70,0:00:52.62,Sub,,0,0,0,,{\k18}NO {\k48}ESCRIBAS {\k27}DESDE
+Dialogue: 0,0:00:52.62,0:00:53.89,Sub,,0,0,0,,{\k85}AHÍ. {\k28}SI {\k15}ES
+Dialogue: 0,0:00:53.89,0:00:55.27,Sub,,0,0,0,,{\k50}INTENSA {\k7}O {\k81}FRECUENTE,
+Dialogue: 0,0:00:55.27,0:00:56.04,Sub,,0,0,0,,{\k53}CONSULTA {\k12}A {\k12}UN
+Dialogue: 0,0:00:56.04,0:00:57.77,Sub,,0,0,0,,{\k122}PROFESIONAL. {\k38}RETO {\k13}DE
+Dialogue: 0,0:00:57.77,0:00:59.30,Sub,,0,0,0,,{\k69}HOY: {\k57}CELULAR {\k28}BOCA
+Dialogue: 0,0:00:59.30,0:01:00.63,Sub,,0,0,0,,{\k56}ABAJO {\k28}UNA {\k49}HORA
+Dialogue: 0,0:01:00.63,0:01:01.39,Sub,,0,0,0,,{\k16}Y {\k46}COMENTA {\k14}UN
+Dialogue: 0,0:01:01.39,0:01:02.37,Sub,,0,0,0,,{\k43}EMOJI {\k17}DE {\k37}CÓMO
+Dialogue: 0,0:01:02.37,0:01:04.18,Sub,,0,0,0,,{\k14}TE {\k108}SENTISTE. {\k59}CAPÍTULO
+Dialogue: 0,0:01:04.18,0:01:05.71,Sub,,0,0,0,,{\k57}3, {\k19}TE {\k78}ESPERO.
