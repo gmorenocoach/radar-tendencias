@@ -128,6 +128,7 @@ def main():
             "fuente": f["fuente"], "estado": "pendiente_aprobacion", "archivos": {"video": f"{nombre}/short.mp4", "miniatura": f"{nombre}/miniatura.jpg",
             "miniatura_16x9": f"{nombre}/miniatura_16x9.jpg", "guion": f"{nombre}/guion.json", "ficha": f"{nombre}/ficha.json",
             "miniaturas": [f"{nombre}/{x}" for x in sorted(os.listdir(d)) if x.startswith("miniatura") and x.endswith(".jpg")]},
+            "comentario_fijado": f"Reto de hoy: {g.get('reto_de_hoy', '')} Cuéntame cómo te fue 👇" + (f"\n{enlaces.get('ENLACE_ANORMAL')}" if enlaces.get('ENLACE_ANORMAL') else ""),
             "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."}
     guardar_json(d / "metadata.json", meta)
 
