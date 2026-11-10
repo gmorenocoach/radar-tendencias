@@ -1,7 +1,7 @@
 {
  "perfil": "soyintegral_es",
  "canal": "Soy Integral · Salud",
- "generado": "2026-11-10T20:33:59",
+ "generado": "2026-11-10T20:42:54",
  "canales": [
   {
    "canal_id": "UCh0CBgDE49V88YG61HcTlBg",
@@ -16,7 +16,7 @@
    "duracion_media_largos_min": 14.9,
    "duracion_media_shorts_s": 0,
    "mediana_vistas": 106954.0,
-   "vistas_top": 1683186,
+   "vistas_top": 1683239,
    "outlier_top": 15.7,
    "engagement_medio": 0.0152,
    "horas_publicacion": [
@@ -40,7 +40,7 @@
    "top5": [
     {
      "titulo": "Cada Paradoja Famosa Explicada en 15 Minutos",
-     "vistas": 1683186,
+     "vistas": 1683239,
      "duracion_s": 906,
      "url": "https://www.youtube.com/watch?v=PanXWSE7EYg",
      "miniatura": "https://i.ytimg.com/vi/PanXWSE7EYg/maxresdefault.jpg"
@@ -54,21 +54,21 @@
     },
     {
      "titulo": "Deformidades Comunes que TIENES Sin Saberlo",
-     "vistas": 1144411,
+     "vistas": 1144486,
      "duracion_s": 762,
      "url": "https://www.youtube.com/watch?v=SOV_8Bc-uog",
      "miniatura": "https://i.ytimg.com/vi/SOV_8Bc-uog/maxresdefault.jpg"
     },
     {
      "titulo": "Cada Desastre que Cambió la Historia, Explicado",
-     "vistas": 799040,
+     "vistas": 799088,
      "duracion_s": 1055,
      "url": "https://www.youtube.com/watch?v=0xXKClVWODk",
      "miniatura": "https://i.ytimg.com/vi/0xXKClVWODk/maxresdefault.jpg"
     },
     {
      "titulo": "Cada País que Pasó de RICO a POBRE, Explicado",
-     "vistas": 455713,
+     "vistas": 455725,
      "duracion_s": 1117,
      "url": "https://www.youtube.com/watch?v=KlVnz4TnH1U",
      "miniatura": "https://i.ytimg.com/vi/KlVnz4TnH1U/maxresdefault.jpg"
@@ -88,9 +88,9 @@
    "duracion_media_largos_min": 12.9,
    "duracion_media_shorts_s": 0,
    "mediana_vistas": 1273,
-   "vistas_top": 835367,
-   "outlier_top": 656.2,
-   "engagement_medio": 0.3319,
+   "vistas_top": 835655,
+   "outlier_top": 656.4,
+   "engagement_medio": 0.3325,
    "horas_publicacion": [
     "10:00",
     "20:00",
@@ -110,14 +110,14 @@
    "top5": [
     {
      "titulo": "¿Qué le pasa a tu cuerpo si dejas el pan y el azúcar durante 14 días?",
-     "vistas": 835367,
+     "vistas": 835655,
      "duracion_s": 723,
      "url": "https://www.youtube.com/watch?v=haSDtRxOxuI",
      "miniatura": "https://i.ytimg.com/vi/haSDtRxOxuI/maxresdefault.jpg"
     },
     {
      "titulo": "¿Qué les pasa a tus órganos si no cenas durante 14 días?",
-     "vistas": 541744,
+     "vistas": 541823,
      "duracion_s": 777,
      "url": "https://www.youtube.com/watch?v=VrWuwu-Huzk",
      "miniatura": "https://i.ytimg.com/vi/VrWuwu-Huzk/maxresdefault.jpg"
@@ -157,8 +157,8 @@
    "pct_shorts": 3,
    "duracion_media_largos_min": 17.5,
    "duracion_media_shorts_s": 73,
-   "mediana_vistas": 120765.5,
-   "vistas_top": 2110704,
+   "mediana_vistas": 120781.0,
+   "vistas_top": 2110736,
    "outlier_top": 17.5,
    "engagement_medio": 0.0156,
    "horas_publicacion": [
@@ -181,7 +181,7 @@
    "top5": [
     {
      "titulo": "Cada Pandemia que Casi Acabó con la Humanidad",
-     "vistas": 2110704,
+     "vistas": 2110736,
      "duracion_s": 1047,
      "url": "https://www.youtube.com/watch?v=urB_dOqmdJc",
      "miniatura": "https://i.ytimg.com/vi/urB_dOqmdJc/maxresdefault.jpg"
@@ -195,21 +195,21 @@
     },
     {
      "titulo": "Cada Bebida Alcohólica Explicada: Qué Es, De Dónde Viene y Qué Le Hace a Tu Cuerpo",
-     "vistas": 1052717,
+     "vistas": 1052727,
      "duracion_s": 1105,
      "url": "https://www.youtube.com/watch?v=iGBRUtnxzvM",
      "miniatura": "https://i.ytimg.com/vi/iGBRUtnxzvM/maxresdefault.jpg"
     },
     {
      "titulo": "Cada Parte del Cerebro: Qué Hace y Qué Pasa Cuando FALLA",
-     "vistas": 670586,
+     "vistas": 670604,
      "duracion_s": 1141,
      "url": "https://www.youtube.com/watch?v=ySskn5mPB9U",
      "miniatura": "https://i.ytimg.com/vi/ySskn5mPB9U/maxresdefault.jpg"
     },
     {
      "titulo": "Explicación de todas las técnicas de manipulación y cómo combatirlas",
-     "vistas": 620552,
+     "vistas": 620557,
      "duracion_s": 921,
      "url": "https://www.youtube.com/watch?v=95Zo8Cun4yc",
      "miniatura": "https://i.ytimg.com/vi/95Zo8Cun4yc/maxresdefault.jpg"
@@ -229,7 +229,7 @@
    "duracion_media_largos_min": 11.3,
    "duracion_media_shorts_s": 73,
    "mediana_vistas": 11950.0,
-   "vistas_top": 237748,
+   "vistas_top": 237767,
    "outlier_top": 19.9,
    "engagement_medio": 0.038,
    "horas_publicacion": [
@@ -251,14 +251,14 @@
    "top5": [
     {
      "titulo": "La Respuesta de 3 Segundos que Detiene las Malas Contestaciones",
-     "vistas": 237748,
+     "vistas": 237767,
      "duracion_s": 1156,
      "url": "https://www.youtube.com/watch?v=QVQ5L2BCDEI",
      "miniatura": "https://i.ytimg.com/vi/QVQ5L2BCDEI/maxresdefault.jpg"
     },
     {
      "titulo": "10 Frases que los Padres Dicen y que Destruyen la Confianza de sus Hijos",
-     "vistas": 188311,
+     "vistas": 188305,
      "duracion_s": 546,
      "url": "https://www.youtube.com/watch?v=imMvAaagJV0",
      "miniatura": "https://i.ytimg.com/vi/imMvAaagJV0/maxresdefault.jpg"
@@ -279,7 +279,7 @@
     },
     {
      "titulo": "7 Conductas que Parecen Rebeldía... Pero Revelan un Niño Superdotado",
-     "vistas": 89343,
+     "vistas": 89340,
      "duracion_s": 559,
      "url": "https://www.youtube.com/watch?v=qpUeB8D7_74",
      "miniatura": "https://i.ytimg.com/vi/qpUeB8D7_74/maxresdefault.jpg"
@@ -298,10 +298,10 @@
    "pct_shorts": 0,
    "duracion_media_largos_min": 8.9,
    "duracion_media_shorts_s": 0,
-   "mediana_vistas": 4598.5,
-   "vistas_top": 752208,
-   "outlier_top": 163.6,
-   "engagement_medio": 0.0313,
+   "mediana_vistas": 4607.0,
+   "vistas_top": 752236,
+   "outlier_top": 163.3,
+   "engagement_medio": 0.0312,
    "horas_publicacion": [
     "13:00",
     "14:00",
@@ -323,35 +323,35 @@
    "top5": [
     {
      "titulo": "La Grasa Visceral Odia Este Hábito Matutino (Empieza Mañana Mismo)",
-     "vistas": 752208,
+     "vistas": 752236,
      "duracion_s": 799,
      "url": "https://www.youtube.com/watch?v=hPBrwFn5-fU",
      "miniatura": "https://i.ytimg.com/vi/hPBrwFn5-fU/maxresdefault.jpg"
     },
     {
      "titulo": "La Grasa Visceral Odia Esto: Hazlo Todos los Días (Sin Dieta)",
-     "vistas": 514722,
+     "vistas": 514737,
      "duracion_s": 632,
      "url": "https://www.youtube.com/watch?v=Y8L1wMDhKB0",
      "miniatura": "https://i.ytimg.com/vi/Y8L1wMDhKB0/maxresdefault.jpg"
     },
     {
      "titulo": "La Grasa Visceral Odia Este Hábito Nocturno (Empieza Hoy Mismo)",
-     "vistas": 420561,
+     "vistas": 420586,
      "duracion_s": 500,
      "url": "https://www.youtube.com/watch?v=x2QtgaqNu48",
      "miniatura": "https://i.ytimg.com/vi/x2QtgaqNu48/maxresdefault.jpg"
     },
     {
      "titulo": "6 Alimentos Que Debes Dejar de Comer Hoy Mismo (Causan Grasa Visceral)",
-     "vistas": 164278,
+     "vistas": 164285,
      "duracion_s": 533,
      "url": "https://www.youtube.com/watch?v=OO0AAB8bVpQ",
      "miniatura": "https://i.ytimg.com/vi/OO0AAB8bVpQ/maxresdefault.jpg"
     },
     {
      "titulo": "La Grasa Visceral Odia Esta Bebida: Tómala Desde Hoy Mismo",
-     "vistas": 143958,
+     "vistas": 143963,
      "duracion_s": 496,
      "url": "https://www.youtube.com/watch?v=frb6WWLqJ64",
      "miniatura": "https://i.ytimg.com/vi/frb6WWLqJ64/maxresdefault.jpg"
@@ -362,28 +362,72 @@
  "analisis": {
   "formulas_titulo": [
    {
-    "plantilla": "Cada [categoría del cuerpo/salud] + [qué hace / qué te hace / para qué sirve] + Explicado(a). Formato enciclopedia, sin número y con una sola palabra en MAYÚSCULA como énfasis.",
+    "plantilla": "Cada [tema del cuerpo]: qué hace y para qué sirve, explicado",
     "ejemplos": [
-     "Cada Tipo de Sueño y Para Qué Sirve, Explicado (Pecas Explica)",
-     "Cada Órgano del Cuerpo Humano: Qué Hace y Qué Pasa Cuando Falla (Cápsula Mental)",
-     "Cada Mito sobre Perder Grasa, Explicado (Pecas Explica)"
+     "Cada Mito sobre Perder Grasa, Explicado",
+     "Cada Tipo de Sueño y Para Qué Sirve, Explicado",
+     "Cada Órgano del Cuerpo Humano: Qué Hace y Qué Pasa Cuando Falla"
     ]
    },
    {
-    "plantilla": "¿Qué le pasa a tu [órgano o marcador] si [hábito concreto] [frecuencia o edad]? Curiosidad causa-efecto en segunda persona, con número en 59% de los casos.",
+    "plantilla": "¿Qué le pasa a tu [órgano] si [hábito] [tiempo o edad]?",
     "ejemplos": [
-     "¿Qué le pasa a tu glucosa si haces 20 sentadillas después de cada comida? (BioCuerpo)",
-     "¿Qué le pasa a tu cuerpo si subes escaleras todos los días después de los 50? (BioCuerpo)",
-     "¿Qué les pasa a tus órganos si no cenas durante 14 días? (BioCuerpo)"
+     "¿Qué le pasa a tu cuerpo si tomas mate todos los días?",
+     "¿Qué le pasa a tu glucosa si haces 20 sentadillas después de cada comida?",
+     "¿Qué le pasa a tu cuerpo si haces el ayuno 5:2?"
     ]
    },
    {
-    "plantilla": "[Número] + [hábitos / frases / señales] + [de quién o para quién] + (gancho o beneficio entre paréntesis). Lista numerada con promesa de utilidad inmediata.",
+    "plantilla": "La [problema] odia [hábito concreto] (Empieza hoy)",
     "ejemplos": [
-     "10 Actividades para Estimular el Cerebro de tu Bebé en Casa (Gratis) (Crianza Consciente)",
-     "7 Hábitos Diarios De Padres Emocionalmente Fuertes (Crianza Consciente)",
-     "11 Lecciones de Crianza Que Todo Padre Descubre Demasiado Tarde (Crianza Consciente)"
+     "La Grasa Visceral Odia Este Hábito Matutino (Empieza Mañana Mismo)",
+     "La Grasa Visceral Odia Este Orden Al Comer (Empieza Hoy)",
+     "La Grasa Visceral Odia Este Hábito Aburrido (Y Casi Nadie Lo Hace)"
     ]
+   },
+   {
+    "plantilla": "[Número] [hábitos o frases] de [tipo de persona] que [efecto]",
+    "ejemplos": [
+     "7 Hábitos Diarios De Padres Emocionalmente Fuertes",
+     "10 Frases que los Padres Dicen y que Destruyen la Confianza de sus Hijos",
+     "11 Lecciones de Crianza Que Todo Padre Descubre Demasiado Tarde"
+    ]
+   },
+   {
+    "plantilla": "Cosas que [tu cuerpo hace o tienes] y nadie te explicó",
+    "ejemplos": [
+     "Cada Condición Común que Probablemente TIENES Sin Saberlo",
+     "Cosas que Tu Cuerpo Hace y Nadie te Explicó",
+     "Condiciones Físicas que Probablemente Tienes y NO Sabes"
+    ]
+   }
+  ],
+  "formato_y_cadencia": "Los dos canales grandes, Pecas Explica y Cápsula Mental, publican poco (1,3 a 1,5 videos por semana). Hacen videos largos de 15 a 17 minutos, casi sin shorts (0 a 3 por ciento), y tienen medianas de 107 mil y 121 mil vistas. Ganan por temas enciclopédicos con la palabra «Cada». Los pequeños publican más (BioCuerpo 3,3 por semana, Biotopía 2,3, Crianza Consciente 1,9) con videos de 9 a 13 minutos. Su mediana es mucho menor (1,3 mil a 12 mil vistas), pero tienen más engagement (3 a 4 por ciento) y picos virales: Biotopía llega a 163 veces su mediana y BioCuerpo a 656. El 33 por ciento de engagement de BioCuerpo sale de una base de vistas muy baja, así que tómalo con pinzas. Los números en título van de 15 por ciento (Pecas) a 67 por ciento (Crianza Consciente). Las horas más repetidas son del mediodía a la tarde (12:00 a 17:00), y Cápsula Mental publica de noche (20:00 a 22:00). Los días se concentran entre lunes y jueves. Conclusión: para canal pequeño sirven 2 videos por semana de 9 a 12 minutos, publicados entre semana a mediodía.",
+  "como_venden": "Todos venden poco y casi siempre cursos. Cápsula Mental tiene oferta en 40 por ciento de sus videos (comunidad y curso). Biotopía pone oferta en 17 por ciento, con curso en Hotmart. Pecas Explica la pone en 12 por ciento, con curso en Gumroad. BioCuerpo (curso) y Crianza Consciente (mentoría) la ponen solo en 3 por ciento. Los datos no muestran cómo cierran dentro del video, pero los títulos hacen de llamado a la acción con frases como «Empieza hoy» o «Hazlo hoy mismo». Entre los pequeños, el contenido va primero y la oferta aparece en pocos videos. Para nosotros: invitar sin empujar, con el reto de hoy como cierre y el libro o la comunidad como puerta suave en la descripción.",
+  "hueco": "Nadie usa shorts (0 a 3 por ciento), así que ese carril está libre. Los títulos juegan al miedo o al dato frío: «te está matando», «odia», «destruyen», «explicado». Nadie habla con voz cálida y cercana, ni conecta cuerpo, mente y trabajo como un solo sistema. Tampoco nadie cierra con una acción de menos de 5 minutos que invite a comentar. El canal de salud que le habla al espectador como un amigo con una taza de café, sin alarmismo, con una acción pequeña al final y con la sugerencia de consultar a un profesional, no existe en este grupo.",
+  "plan_replica": [
+   "Días 1 a 3: graba y publica un video largo de 10 a 12 minutos con la plantilla Cada [tema] explicado, en versión Germancho (por ejemplo, los tipos de cansancio). Publícalo un jueves a las 13:00 y cierra con el Reto de hoy.",
+   "Días 2 a 14: saca 6 shorts de 30 a 45 segundos (3 por semana), cada uno con una sola idea y un reto de menos de 5 minutos. Es el carril que nadie usa. Reutiliza los cortes del video largo.",
+   "Semana 2: publica un segundo largo con la plantilla ¿Qué le pasa a tu... si...? o con número, en versión suave y sin cifras médicas absolutas. Añade una frase de consultar a un profesional si hay síntomas.",
+   "Prueba de títulos: publica un video con número y otro sin número. Fija un comentario con el Reto de hoy en cada uno y responde los primeros 20 comentarios en las primeras 2 horas.",
+   "Día 14: compara mediana de vistas, engagement y comentarios con el reto. Pon el libro Café con Propósito en la descripción solo en 1 de cada 3 videos, como invitación y no como venta. Repite lo que funcionó."
+  ],
+  "titulos_propuestos": [
+   {
+    "titulo": "Cada Tipo de Cansancio Explicado: Qué Te Está Pidiendo Tu Cuerpo",
+    "formato": "largo"
+   },
+   {
+    "titulo": "¿Qué le pasa a tu día si empiezas con 5 minutos de cuaderno?",
+    "formato": "short"
+   },
+   {
+    "titulo": "5 Hábitos Diarios de Quienes Cuidan Cuerpo, Mente y Trabajo a la Vez",
+    "formato": "largo"
+   },
+   {
+    "titulo": "Cosas que Tu Cuerpo Te Dice Cuando Trabajas Sin Parar y Nadie Escucha",
+    "formato": "short"
    }
   ]
  }

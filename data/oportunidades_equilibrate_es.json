@@ -1,24 +1,175 @@
 {
  "perfil": "equilibrate_es",
  "canal": "Equilíbrate · Amor",
- "generado": "2026-11-10T20:30:53",
+ "generado": "2026-11-10T20:38:47",
  "videos_leidos": 35,
  "comentarios_leidos": 872,
  "temas": [
   {
-   "tema": "El silencio tras la ruptura: ¿es respuesta?, ¿escribo o no escribo?",
-   "menciones": 25,
-   "cita": "El silencio es el inicio del fin",
+   "tema": "Contacto cero y silencio tras una ruptura: ¿qué significa?",
+   "menciones": 22,
+   "cita": "El silencio también tiene algo que decir",
    "origen": "viral",
-   "titulo": "Si deja de escribirte, esto sí puedes hacer hoy",
-   "gancho": "El silencio no siempre es una respuesta; a veces es un espejo y te muestra qué estás esperando.",
-   "reto": "Agarra tu cuaderno y completa en 3 minutos: 'Cuando él/ella calla, yo me digo...'. Léelo y comenta qué frase te sorprendió.",
+   "titulo": "Contacto cero: lo que el silencio te dice de ti",
+   "gancho": "Todos preguntan qué significa su silencio. Hoy te pregunto otra cosa: ¿qué te dice a ti?",
+   "reto": "Escribe en tu cuaderno qué sientes cuando no te escribe. Una sola frase, sin juzgarte.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Soltar a quien no te conviene: retirar la inversión emocional",
+   "menciones": 35,
+   "cita": "Hoy retiro mi inversión y me quedo con mi oro",
+   "origen": "viral",
+   "titulo": "Retira tu inversión: 3 preguntas antes de soltar",
+   "gancho": "Muchos repiten esta frase como mantra. Pero soltar también se hace con preguntas, no solo con frases.",
+   "reto": "Anota tres cosas que dejaste de hacer por estar con esa persona. Elige una y retómala hoy.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Patrones repetidos de traición e infidelidad y su origen",
+   "menciones": 6,
+   "cita": "En cada relacion qué he tenido me han sido infiel",
+   "origen": "viral",
+   "titulo": "¿Por qué repites el mismo tipo de pareja?",
+   "gancho": "Si la historia se repite con distinta cara, quizá la taza que hay que mirar sea otra.",
+   "reto": "Dibuja en tu cuaderno tres rasgos que se repiten en tus parejas. Solo obsérvalos, no los juzgues.",
+   "formato": "largo",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Duelo largo y sentirse la única persona que sigue sintiendo",
+   "menciones": 9,
+   "cita": "me deja pensando... que soy la unica pensando y sintiendo",
+   "origen": "viral",
+   "titulo": "Si eres la única que sigue sintiendo, mira esto",
+   "gancho": "Que el otro siga adelante no significa que tu duelo esté mal. Va a su propio ritmo.",
+   "reto": "Ponle fecha a una pequeña cita contigo: un café, una caminata. Agéndala ahora y cúmplela.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Hombres que quedaron tras una separación y dudan si escribir de nuevo",
+   "menciones": 6,
+   "cita": "Debo volver a enviar algún mensaje para ver qué le pasa?",
+   "origen": "viral",
+   "titulo": "Te dejaron y no entiendes: lo que sí es tuyo",
+   "gancho": "Antes de escribir otro mensaje, pregúntate: ¿lo envío por ella o por mi miedo a la ausencia?",
+   "reto": "Antes de mandar un mensaje, escríbelo en tu cuaderno. Léelo mañana con calma.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Vivir en la madurez sin pareja: propósito, cuidar a la familia, soledad",
+   "menciones": 8,
+   "cita": "no siento necesidad de relación. Cuido de mi madre enferma",
+   "origen": "viral",
+   "titulo": "Sin pareja a los 60: ¿vida a medias o a tu ritmo?",
+   "gancho": "Tener un motivo para levantarte también es amor. A veces el primero es el propio.",
+   "reto": "Nombra en voz alta un motivo por el que te levantas mañana. Anótalo en una frase.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Sentir algo por otra persona estando en pareja o recién separado",
+   "menciones": 4,
+   "cita": "soy casado y ella hace poco se separó",
+   "origen": "viral",
+   "titulo": "Sientes algo por alguien más y tienes pareja",
+   "gancho": "Esa emoción no es una orden ni un delito. Es un espejo que pide que le prestes atención.",
+   "reto": "Escribe qué te falta que crees que esa persona te da. Hoy solo responde, no decidas.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Reciprocidad y hablar a tiempo en lugar de callar",
+   "menciones": 8,
+   "cita": "Más honesto es hablar",
+   "origen": "viral",
+   "titulo": "Callar o hablar: la taza que se enfría sola",
+   "gancho": "Hay silencios que protegen y silencios que huyen. Aprende a distinguirlos antes de que se enfríe todo.",
+   "reto": "Escribe una frase honesta que no has dicho. No la envíes: solo léela en voz alta.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Intimidad y dudas concretas sobre la vida sexual en pareja",
+   "menciones": 5,
+   "cita": "no entedi como es la postura",
+   "origen": "viral",
+   "titulo": "Intimidad: antes de la postura, la conversación",
+   "gancho": "Mucha gente pregunta por técnicas. Casi nadie pregunta cuándo fue la última vez que hablaron de lo que sienten.",
+   "reto": "Pregunta a tu pareja algo suave: ¿qué te hace sentir cerca de mí? Escucha sin responder.",
+   "formato": "short",
+   "urgencia": "baja"
+  },
+  {
+   "tema": "Hijos que responden mal: límites sin gritos ni castigos físicos",
+   "menciones": 14,
+   "cita": "Mi hija tiene 7 años. Ay que vergüenza por todo es un conflicto",
+   "origen": "viral",
+   "titulo": "Tu hijo te responde mal: respira primero",
+   "gancho": "Antes de corregirlo, corrígete la respiración. La calma contagia más rápido que el regaño.",
+   "reto": "La próxima vez que te hable feo, respira tres veces antes de contestar. Cuenta cómo te fue.",
+   "formato": "largo",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Ruptura familiar: hijo adulto que dejó de hablar, nietos, suegras",
+   "menciones": 6,
+   "cita": "me dejó de hablar hacé 10 meces y no me permite ver a mis nietos",
+   "origen": "viral",
+   "titulo": "Tu hijo adulto dejó de hablarte: qué sí puedes hacer",
+   "gancho": "No controlas su silencio, pero sí lo que le escribes y cómo te cuidas mientras tanto.",
+   "reto": "Escribe un mensaje breve de cariño sin reproches. Si hoy no lo envías, guárdalo para mañana.",
+   "formato": "largo",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Frases de seres queridos que ya no están: memoria afectiva",
+   "menciones": 1,
+   "cita": "Cuando me vas a volver a recitar el masquisella",
+   "origen": "propio",
+   "titulo": "La frase que extrañas de alguien que ya no está",
+   "gancho": "Hay frases que no son palabras: son abrazos que se quedaron a vivir en tu memoria.",
+   "reto": "Escribe esa frase en tu cuaderno y cuéntanos en comentarios quién te la decía.",
    "formato": "short",
    "urgencia": "alta"
   }
  ],
- "objeciones_a_la_oferta": [],
- "respuestas_sugeridas": [],
+ "objeciones_a_la_oferta": [
+  "No sé si lo que siento es amor o apego, y me da miedo soltar",
+  "Ya lo intenté y la otra persona no responde",
+  "En mis tiempos la mano dura funcionaba mejor que hablar",
+  "El video da muchos rodeos; quiero algo más corto y directo",
+  "Parece contenido hecho con IA o historias inventadas; prefiero personas reales",
+  "Mi duelo es largo y no se resuelve con un video",
+  "Ya estoy mayor y ya no hay tiempo ni ganas de cambiar",
+  "Me da vergüenza o miedo decir lo que siento sin pelear"
+ ],
+ "respuestas_sugeridas": [
+  {
+   "a": "Frases tipo: Hoy retiro mi inversión y me quedo con mi oro",
+   "respuesta": "Qué bonito verte volver a ti. Que esa frase no se quede en el comentario: escribe hoy una sola acción para cuidar tu oro, en tu cuaderno."
+  },
+  {
+   "a": "¿Debo escribirle para ver qué le pasa?",
+   "respuesta": "No hay una receta. Pregúntate si el mensaje nace de querer cuidarte o de querer calmar la ausencia. Escríbelo en tu cuaderno y léelo mañana."
+  },
+  {
+   "a": "El silencio es la respuesta / el silencio es el inicio del fin",
+   "respuesta": "El silencio a veces dice mucho y a veces solo calla. Lo que sí puedes escuchar es qué te dice a ti. Hoy, ponle una palabra."
+  },
+  {
+   "a": "La chancla y el cinto funcionaron bien",
+   "respuesta": "Entiendo de dónde vienes, y muchos crecimos así. Hoy hay otras formas de poner límites. Prueba una: respira tres veces antes de responder."
+  },
+  {
+   "a": "Mi duelo es muy largo, no se acaba con un video",
+   "respuesta": "Tienes razón. El duelo no se apura. Un video no sana nada, pero puede acompañarte. Si pesa demasiado, considera hablar con un profesional."
+  }
+ ],
  "fuentes": [
   {
    "origen": "viral",

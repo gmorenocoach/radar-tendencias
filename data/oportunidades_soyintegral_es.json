@@ -1,101 +1,170 @@
 {
  "perfil": "soyintegral_es",
  "canal": "Soy Integral · Salud",
- "generado": "2026-11-10T20:32:17",
+ "generado": "2026-11-10T20:40:06",
  "videos_leidos": 21,
  "comentarios_leidos": 1196,
  "temas": [
   {
-   "tema": "Despensa de emergencia: qué más sumar a la lista (sin gas, sin luz, escasez o desastre natural)",
-   "menciones": 45,
-   "cita": "Yo agregaría todo lo que viene en latas: lentejas, frutas, jardinera, arvejas. Etc.",
-   "origen": "viral",
-   "titulo": "5 alimentos sin cocina para tu despensa de calma",
-   "gancho": "Si mañana no tienes gas ni luz, ¿qué hay hoy en tu alacena que sí puedes comer?",
-   "reto": "Abre tu alacena, saca un papel y anota 3 cosas que comerías sin cocinar. Cuéntame cuáles en comentarios.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Miedo al futuro y fe: prepararse sin pánico («Dios proveerá» frente a «hay que prevenir»)",
-   "menciones": 30,
-   "cita": "Si no tienes dinero dile a Cristo Jesús que provea tu despensa y verás que Dios proveerá.",
-   "origen": "viral",
-   "titulo": "Prepararte sin entrar en pánico: tu reto de hoy",
-   "gancho": "Prepararte y confiar no se pelean: caben en la misma taza.",
-   "reto": "Escribe en tu cuaderno una preocupación y una acción pequeña que sí depende de ti. Haz solo esa hoy.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Confusión por información contradictoria: «¿es bueno o es malo?» (cacahuates, nueces, café, «todo hace daño»)",
-   "menciones": 22,
+   "tema": "Confusión: ¿esto es bueno o malo? Mensajes contradictorios sobre comida",
+   "menciones": 16,
    "cita": "Entonces es bueno ó malo! Asustan con este tipo de información.",
    "origen": "viral",
-   "titulo": "¿Todo hace daño? Qué sí hacer con tanta info",
-   "gancho": "Si cada video te dice algo distinto, no estás loco: estás saturado.",
-   "reto": "Anota en tu cuaderno lo que comiste hoy sin juzgarlo y elige una sola cosa que mantendrías mañana.",
+   "titulo": "Todo hace daño, todo es bueno: ¿a quién le creo?",
+   "gancho": "Si cada video te dice algo distinto, el problema no eres tú: te falta un filtro sencillo.",
+   "reto": "Anota en tu cuaderno una duda de comida y llévasela a tu médico o nutricionista.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Agua, limón, té y café: cuánto tomar y qué sirve para los riñones",
+   "tema": "Despensa de emergencia sin cocción ni gas: qué guardar y cuánto dura",
+   "menciones": 32,
+   "cita": "Yo agregaría atún en latas, frijoles y sopas enlatadas que se pueden comer en frío.",
+   "origen": "viral",
+   "titulo": "Tu despensa en 5 minutos: 5 cosas que sí vas a usar",
+   "gancho": "No necesitas una bodega: con cinco cosas que ya comes, tu casa respira tranquila.",
+   "reto": "Revisa tu alacena y escribe cinco alimentos que no necesitan cocción.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Miedo y fe ante la escasez: cómo prepararse sin vivir en alarma",
    "menciones": 28,
-   "cita": "El agua se toma cuando tienes sed. Mi padre va para los 90 años y solo bebe agua cuando tiene mucha sed.",
+   "cita": "En la mano de Dios ponemos las preocupaciones y Dios lo resolverá.",
    "origen": "viral",
-   "titulo": "Agua, limón o café: ¿qué pides primero hoy?",
-   "gancho": "Cada quien jura por su bebida de la mañana, pero ¿tu cuerpo qué te dice?",
-   "reto": "Antes de tu café, toma un vaso de agua y anota cómo te sientes. Si tienes alguna condición renal, pregunta a tu médico cuánto te conviene.",
+   "titulo": "Prepararte no es tener miedo: es cuidarte con calma",
+   "gancho": "Puedes confiar y también dejar la despensa lista. Las dos cosas caben en la misma taza.",
+   "reto": "Haz una lista de 3 cosas que sí controlas hoy y marca una.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Ayuno intermitente y cenar temprano: horarios personales y dudas en mayores de 50",
-   "menciones": 18,
-   "cita": "Quienes tengan más de 50 o 60 años deben tener muy en cuenta el problema de la sarcopenia y los peligros del ayuno intermitente.",
+   "tema": "Ayuno intermitente y no cenar: horarios, ejercicio, edad y proteína",
+   "menciones": 16,
+   "cita": "Quienes tengan más de 50 o 60 años deben tener en cuenta la sarcopenia.",
    "origen": "viral",
-   "titulo": "Ayuno hasta el mediodía: 3 preguntas antes de hacerlo",
-   "gancho": "Hay quien cena a las 5 y se siente de maravilla, y quien se marea: tu cuerpo no es el de tu vecino.",
-   "reto": "Anota a qué hora fue tu última comida de ayer y cómo amaneciste. Si tienes condiciones médicas o más de 50 años, consúltalo con un profesional antes de cambiar horarios.",
+   "titulo": "Ayuno: ¿sirve para todos? Lo que te conviene preguntar",
+   "gancho": "Al vecino le funciona su horario. A ti te toca preguntar qué le conviene a tu cuerpo.",
+   "reto": "Anota hoy a qué hora cenaste, cómo dormiste y cómo amaneciste.",
    "formato": "largo",
-   "urgencia": "alta"
+   "urgencia": "media"
   },
   {
-   "tema": "Alimentos caducados: cuánto duran de verdad (carne al vacío, leche condensada, huevos, miel)",
-   "menciones": 12,
-   "cita": "¿Cuánto dura la carne cocida y empacada en plástico grueso al vacío?",
+   "tema": "Alimentos caducados: qué se puede comer y cuánto dura cada uno",
+   "menciones": 11,
+   "cita": "Cuánto dura la carne cocida y empacada en plástico grueso al vacío?",
    "origen": "viral",
-   "titulo": "¿Caducó? 4 preguntas antes de tirar tu comida",
-   "gancho": "Una fecha en la lata no siempre dice lo que crees, pero tu nariz y tu criterio tampoco son infalibles.",
-   "reto": "Revisa un producto de tu alacena: lee la fecha, el empaque y el olor. Si dudas, no lo comas.",
+   "titulo": "Fecha vencida: ¿tirar o no tirar? Mira esto antes",
+   "gancho": "Caducidad y consumo preferente no son lo mismo, y tu nariz no es un laboratorio.",
+   "reto": "Busca en tu alacena un producto con fecha y lee qué dice exactamente.",
    "formato": "short",
    "urgencia": "media"
   },
   {
-   "tema": "Drogas, alcohol y azúcar: «te faltó…», adicción, escape y búsqueda de alegría",
-   "menciones": 28,
-   "cita": "Buscas alegría??? Descansa, ten amigos, levanta mancuernas, ayuda a alguien, sal a trotar… ¿qué sentido tiene entregar tu vida a un químico?",
+   "tema": "Alcohol y azúcar: las sustancias que la gente siente que se ignoran",
+   "menciones": 12,
+   "cita": "Te faltó el alcohol.",
    "origen": "viral",
-   "titulo": "Cuando buscas escape: 5 cosas que sí te llenan",
-   "gancho": "Casi todos buscamos lo mismo: alivio. La pregunta es qué estás pagando por él.",
-   "reto": "Escribe en tu cuaderno qué querías sentir la última vez que buscaste escape y qué otra cosa pequeña podría dártelo. Si luchas con una adicción, busca apoyo profesional.",
-   "formato": "largo",
+   "titulo": "La taza que nadie cuenta: alcohol y azúcar también pesan",
+   "gancho": "Lo legal y cotidiano también entra en tu equilibrio. Vamos a mirarlo sin culpa.",
+   "reto": "Anota cuánto azúcar o alcohol consumiste hoy, sin juzgarte. Solo anótalo.",
+   "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Síntomas en el pecho, palpitaciones y miedo o presión familiar para ir al médico",
+   "tema": "Dejar sustancias y buscar alegría sin ellas: relatos y petición de apoyo",
    "menciones": 14,
-   "cita": "Ayer pedí cita para el cardiólogo pero mi mujer y mi hija me dijeron que estaba loco… Al final la tuve que anular.",
+   "cita": "Buscas alegría? Descansa, ten amigos, levanta mancuernas, ayuda a alguien, sal a trotar.",
    "origen": "viral",
-   "titulo": "Tu pecho avisa: no canceles esa cita",
-   "gancho": "Pedir ayuda no es exagerar: es cuidar a los que te quieren.",
-   "reto": "Escribe tus síntomas, desde cuándo los tienes y cuándo aparecen, y agenda la cita ya. Esto no reemplaza al médico.",
+   "titulo": "Buscas alegría? Tu cuaderno tiene 3 caminos pequeños",
+   "gancho": "La alegría también se construye en pasos chiquitos. Hoy te propongo uno que no cuesta nada.",
+   "reto": "Escribe tres cosas que te dan alegría sin sustancias y haz una hoy.",
    "formato": "short",
    "urgencia": "alta"
+  },
+  {
+   "tema": "Síntomas en el pecho y miedo o presión familiar para ir al médico",
+   "menciones": 10,
+   "cita": "Mi mujer y mi hija me dijeron que estaba loco; al final anulé la cita.",
+   "origen": "viral",
+   "titulo": "Si tu cuerpo avisa, no canceles la cita",
+   "gancho": "Que te digan que es la edad no reemplaza una revisión. Pedir cita también es quererte.",
+   "reto": "Agenda hoy esa cita médica pendiente, o escribe la fecha en que la harás.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Medicamentos de uso diario y automedicación: dudas sobre analgésicos y tadalafilo",
+   "menciones": 24,
+   "cita": "Me terminé automedicando y terminé con gastritis.",
+   "origen": "viral",
+   "titulo": "Antes de tomarlo a diario, hazte esta pregunta",
+   "gancho": "Lo que a otro le funciona no es una receta para ti. Tu médico sí te conoce.",
+   "reto": "Haz una lista de lo que tomas y llévala a tu próxima consulta.",
+   "formato": "largo",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Agua, limón y ciruelas: hidratación y digestión simple",
+   "menciones": 24,
+   "cita": "El agua se toma cuando tienes sed.",
+   "origen": "viral",
+   "titulo": "¿Cuánta agua es suficiente? Empieza por tu taza",
+   "gancho": "No hay una cifra mágica para todos. Hay hábitos pequeños que sí puedes empezar hoy.",
+   "reto": "Toma un vaso de agua ahora y anota cómo te sientes esta tarde.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Bajar de peso con constancia: dejar pan, azúcar o gaseosas sin ver resultados",
+   "menciones": 7,
+   "cita": "Hace 3 meses dejé las gaseosas y no bajé nada.",
+   "origen": "viral",
+   "titulo": "Dejaste el azúcar y nada cambia? Mira tu escalera",
+   "gancho": "Si no ves resultados, no fallaste: quizás estás mirando un solo escalón.",
+   "reto": "Mide hoy cómo duermes, caminas y comes, no solo el peso.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Dolores de cabeza con causas inesperadas: dientes, digestión, comidas",
+   "menciones": 6,
+   "cita": "Se me quitó el dolor de cabeza cuando se estabilizó el colon.",
+   "origen": "viral",
+   "titulo": "Tu cabeza duele, pero la causa puede estar en otro lado",
+   "gancho": "Cuerpo, mente y trabajo son un solo sistema, y a veces el aviso llega desde otra parte.",
+   "reto": "Anota cuándo te duele la cabeza y qué hiciste o comiste antes.",
+   "formato": "short",
+   "urgencia": "baja"
   }
  ],
- "objeciones_a_la_oferta": [],
- "respuestas_sugeridas": [],
+ "objeciones_a_la_oferta": [
+  "Ya no sé a quién creerle: todo hace daño según cada video",
+  "Parece que cuidarse cuesta mucho: como lo que me alcanza",
+  "Prepararme me da miedo o siento que es exagerar",
+  "Mi familia dice que mis síntomas son la edad y no voy al médico",
+  "Prefiero evitar medicamentos pero no sé qué hacer cuando duele",
+  "Probé dejar el azúcar o las gaseosas y no vi resultados",
+  "A mí el ayuno me va bien, pero no sé si es para todos"
+ ],
+ "respuestas_sugeridas": [
+  {
+   "a": "Todo hace daño, mejor como sin pensar",
+   "respuesta": "Te entiendo, tanta info marea. Mejor que comer sin pensar es comer con un filtro simple: dosis, tu cuerpo y tu médico. Hoy, un solo cambio pequeño. Reto de hoy: elige uno."
+  },
+  {
+   "a": "Me funciona el ayuno o la dieta, a otros también",
+   "respuesta": "Qué bueno que te sientas bien. Cada cuerpo es distinto, y la edad y la salud cuentan. Si tienes dudas, coméntalas con tu médico. Reto de hoy: anota cómo amaneces."
+  },
+  {
+   "a": "Tengo síntomas pero me dicen que es la edad",
+   "respuesta": "Lo que sientes merece ser escuchado. Esto no reemplaza al médico: pide la cita y llévala por escrito. Que alguien te acompañe si puedes. Reto de hoy: agenda la consulta."
+  },
+  {
+   "a": "Comentarios religiosos: Dios proveerá",
+   "respuesta": "Qué bonito sostener la fe. Y también puedes dejar tu alacena lista con calma, sin miedo. Confiar y prepararse caben en la misma taza. Reto de hoy: lista de tres cosas."
+  }
+ ],
  "fuentes": [
   {
    "origen": "viral",

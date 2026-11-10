@@ -1,7 +1,7 @@
 {
  "perfil": "equilibrate_es",
  "canal": "Equilíbrate · Amor",
- "generado": "2026-11-10T20:32:51",
+ "generado": "2026-11-10T20:41:33",
  "canales": [
   {
    "canal_id": "UCWRRmqv_U-GYQ7b6D2-zwIg",
@@ -16,7 +16,7 @@
    "duracion_media_largos_min": 11.3,
    "duracion_media_shorts_s": 73,
    "mediana_vistas": 11950.0,
-   "vistas_top": 237748,
+   "vistas_top": 237758,
    "outlier_top": 19.9,
    "engagement_medio": 0.038,
    "horas_publicacion": [
@@ -38,7 +38,7 @@
    "top5": [
     {
      "titulo": "La Respuesta de 3 Segundos que Detiene las Malas Contestaciones",
-     "vistas": 237748,
+     "vistas": 237758,
      "duracion_s": 1156,
      "url": "https://www.youtube.com/watch?v=QVQ5L2BCDEI",
      "miniatura": "https://i.ytimg.com/vi/QVQ5L2BCDEI/maxresdefault.jpg"
@@ -59,7 +59,7 @@
     },
     {
      "titulo": "7  Hábitos de Padres que Crían Hijos que Piensan por Sí Mismos",
-     "vistas": 115845,
+     "vistas": 115846,
      "duracion_s": 529,
      "url": "https://www.youtube.com/watch?v=zpjD_XNwSlo",
      "miniatura": "https://i.ytimg.com/vi/zpjD_XNwSlo/maxresdefault.jpg"
@@ -114,7 +114,7 @@
     },
     {
      "titulo": "Lo que los Amigos de mi Marido Hicieron Me Dejó en Shock ｜ historias de infidelidad",
-     "vistas": 148483,
+     "vistas": 148484,
      "duracion_s": 839,
      "url": "https://www.youtube.com/watch?v=PsGbfVAs0k8",
      "miniatura": "https://i.ytimg.com/vi/PsGbfVAs0k8/maxresdefault.jpg"
@@ -293,10 +293,10 @@
    "pct_shorts": 0,
    "duracion_media_largos_min": 25.4,
    "duracion_media_shorts_s": 0,
-   "mediana_vistas": 1224.5,
-   "vistas_top": 145312,
-   "outlier_top": 118.7,
-   "engagement_medio": 0.0318,
+   "mediana_vistas": 1225.5,
+   "vistas_top": 145322,
+   "outlier_top": 118.6,
+   "engagement_medio": 0.0317,
    "horas_publicacion": [
     "14:00",
     "07:00",
@@ -317,35 +317,35 @@
    "top5": [
     {
      "titulo": "SI AMBOS DEJAN DE CONTACTARSE, ESTO TERMINARÁ PASANDO | Gabriel Rolon",
-     "vistas": 145312,
+     "vistas": 145322,
      "duracion_s": 1185,
      "url": "https://www.youtube.com/watch?v=JJ4VYVYzxHw",
      "miniatura": "https://i.ytimg.com/vi/JJ4VYVYzxHw/maxresdefault.jpg"
     },
     {
      "titulo": "Esa Persona Hará El Próximo Movimiento, No Quiere Dejarte Ir | Gabriel Rolón",
-     "vistas": 38838,
+     "vistas": 38861,
      "duracion_s": 1173,
      "url": "https://www.youtube.com/watch?v=M792ZNlLS2A",
      "miniatura": "https://i.ytimg.com/vi/M792ZNlLS2A/maxresdefault.jpg"
     },
     {
      "titulo": "EL SECRETO DE LA SANACIÓN EMOCIONAL QUE NUNCA DEJÓ DE EXPLORAR | Gabriel Rolón",
-     "vistas": 9116,
+     "vistas": 9118,
      "duracion_s": 1452,
      "url": "https://www.youtube.com/watch?v=jV5bG2tIV5Y",
      "miniatura": "https://i.ytimg.com/vi/jV5bG2tIV5Y/maxresdefault.jpg"
     },
     {
      "titulo": "ESTÁN TOMANDO UNA DECISIÓN FINAL SOBRE TI, ¡ESTO ES LO QUE REALMENTE SIGNIFICA! | Gabriel Rolón",
-     "vistas": 7224,
+     "vistas": 7229,
      "duracion_s": 1020,
      "url": "https://www.youtube.com/watch?v=dpyj59jWF70",
      "miniatura": "https://i.ytimg.com/vi/dpyj59jWF70/maxresdefault.jpg"
     },
     {
      "titulo": "CÓMO DESVINCULARTE EMOCIONALMENTE DE ALGUIEN, RECUPERA TU PAZ Y AMOR PROPIO | GABRIEL ROLÓN",
-     "vistas": 5365,
+     "vistas": 5370,
      "duracion_s": 2236,
      "url": "https://www.youtube.com/watch?v=x0TkhtCGk1A",
      "miniatura": "https://i.ytimg.com/vi/x0TkhtCGk1A/maxresdefault.jpg"
@@ -356,36 +356,80 @@
  "analisis": {
   "formulas_titulo": [
    {
-    "plantilla": "[Número] + [señales / hábitos / frases] + de/que [situación concreta] + [consecuencia o beneficio]. Es la fórmula del canal con mejor mediana (Crianza Consciente, 67% de títulos con número, ~12k vistas de mediana con solo 1,9 videos/semana).",
+    "plantilla": "Si [persona] hace [gesto], significa [revelación sobre el vínculo]",
     "ejemplos": [
-     "7 Hábitos de Padres que Crían Hijos que Piensan por Sí Mismos",
+     "5 señales de que ella te ama y lo está ocultando",
+     "Mira sus manos Si hace esto, está esperando tu beso",
+     "ESTÁ MUCHO MÁS ENAMORADO DE TI DE LO QUE IMAGINAS… OBSERVA ESTA SEÑAL"
+    ]
+   },
+   {
+    "plantilla": "Si [situación de pareja], haz esto y mira qué pasa",
+    "ejemplos": [
+     "Si no le dolió perderte, haz esto y mira qué pasa",
+     "SI NO LE IMPORTAS, HAZ ESTO Y MIRA CÓMO REACCIONA",
+     "SI AMBOS DEJAN DE MIRARSE, ESTO CAMBIARÁ EL JUEGO"
+    ]
+   },
+   {
+    "plantilla": "N [hábitos o frases] de [perfil] que [efecto]",
+    "ejemplos": [
+     "7 Hábitos Diarios De Padres Emocionalmente Fuertes",
      "10 Frases que los Padres Dicen y que Destruyen la Confianza de sus Hijos",
-     "5 señales de que ella te ama y lo está ocultando"
+     "11 Lecciones de Crianza Que Todo Padre Descubre Demasiado Tarde"
     ]
    },
    {
-    "plantilla": "Si [situación o conducta de la otra persona], [revelación o acción] + [promesa de giro]. Es la fórmula dominante en los canales de amor y se centra casi siempre en el otro, no en quien mira.",
+    "plantilla": "[Personaje] fue a [lugar]… y descubrió [giro emocional]",
     "ejemplos": [
-     "Si una Mujer Te Hace Estas 2 Preguntas, Está Más Interesada de lo que Imagina",
-     "SI AMBOS DEJAN DE MIRARSE, ESTO CAMBIARÁ EL JUEGO",
-     "Si no le dolió perderte, haz esto y mira qué pasa"
+     "El Millonario Vio a una Mujer Vendiendo Flores… ¡Y Descubrió Que Era Su Esposa Desaparecida!",
+     "Fue a la Cena de Navidad… ¡Y el Hijo de su Exesposa lo Llamó Papá!",
+     "4 años después encontró a su exesposa en un parque… y dos niños cambiaron…"
     ]
    },
    {
-    "plantilla": "[Técnica con nombre, tiempo o regla] + para [resultado concreto] + ([paréntesis que baja la fricción: Gratis / Sin Peleas / Lo que Dice la Ciencia]).",
+    "plantilla": "Cómo [soltar o lograr X] aunque [obstáculo emocional]",
     "ejemplos": [
-     "La Respuesta de 3 Segundos que Detiene las Malas Contestaciones",
-     "La Regla Francesa Para Que Tu Hijo Coma de Todo (Sin Peleas)",
-     "10 Actividades para Estimular el Cerebro de tu Bebé en Casa (Gratis)"
+     "Cómo Decir Se Acabó por Dentro Aunque Esa Persona Siga en Tu Cabeza",
+     "CÓMO DESVINCULARTE EMOCIONALMENTE DE ALGUIEN, RECUPERA TU PAZ Y AMOR PROPIO",
+     "La Respuesta de 3 Segundos que Detiene las Malas Contestaciones"
     ]
+   }
+  ],
+  "formato_y_cadencia": "Casi nadie usa Shorts (0 a 8%). Todos publican videos largos de 11 a 25 min. La cadencia va de 1,9 a 7,4 videos por semana. Crianza Consciente, con 1,9 por semana y 11 min, tiene la mejor mediana (11.950 vistas) y la mayor base (12.900 suscriptores). Más volumen no da más vistas: el canal con 7,4 por semana tiene mediana de 2.797. Los canales de amor tienen outliers enormes (78x y 118x), así que el tema engancha aunque la mediana sea baja. Horarios: tarde (14 a 17 h) en el canal de crianza, noche en el de psicología femenina. Días repetidos: mar, mié, jue, vie y dom. Para nosotros: 2 a 3 largos de 10 a 12 min por semana, más Shorts, que son terreno libre.",
+  "como_venden": "Venden poco y de forma suave. Crianza Consciente tiene oferta en el 3% de sus videos (mentoría). El canal de psicología femenina, 10% (comunidad). El Arte de Soltar, 20% (comunidad y mentoría). Secretos del Destino, 0%. Bajo el Manto de María es la excepción, con 85% de videos con oferta (comunidad y curso), y su engagement es el más alto (8,2%). Cierran con invitación a unirse a una comunidad o con un llamado emocional. Para nosotros: cerrar con el Reto de hoy y una invitación a comentarlo. El libro se menciona como una taza más, sin empujar.",
+  "hueco": "En amor, los canales venden control del otro: qué hacer para que reaccione, para que te desee o para que no te deje ir. Nadie habla de amor propio como punto de partida. Nadie propone la pareja como espejo. Nadie cierra con una acción de menos de 5 minutos. Además, los canales de amor casi no usan números (5% y 30% de títulos con número, contra 67% en crianza), y nadie usa Shorts. Hueco: listas numeradas y retos cortos sobre no abandonarte en la relación, con tono de café y cuaderno. Ojo: algunos canales usan nombres de personas reales como gancho. Nosotros no lo hacemos.",
+  "plan_replica": [
+   "Días 1 a 3: grabar 3 videos largos de 10 a 12 min con la plantilla numerada (hábitos o frases) enfocada en volver a ti, y publicarlos en mar, jue y dom a las 16:00.",
+   "Días 2 a 14: publicar 1 Short diario de 30 a 45 seg con la plantilla Si [situación], haz esto contigo primero. Cada uno cierra con Reto de hoy en menos de 5 minutos.",
+   "Semana 1: probar 1 video narrativo con giro (Llegó a la cena… y entendió que), pero con final de amor propio, sin infidelidad ni millonarios.",
+   "Semana 2: repetir el formato que supere la mediana de la semana 1 y ajustar el título. Fijar un comentario con la pregunta del Reto de hoy y responder los primeros 20 comentarios.",
+   "Día 14: revisar vistas, retención y comentarios por formato. Mencionar el libro Café con Propósito solo en 1 video, como invitación suave, sin ofertas ni promesas de resultados."
+  ],
+  "titulos_propuestos": [
+   {
+    "titulo": "7 hábitos diarios de quien ama sin perderse a sí misma o a sí mismo",
+    "formato": "largo"
    },
    {
-    "plantilla": "[Gancho emocional o de curiosidad] + sufijo fijo de serie o autoridad (| Nombre, Psicología Femenina, Psicología del Abandono). Funciona como marca de serie, pero aquí no conviene copiar el sufijo: usaríamos el propio, como «Café con Germancho».",
-    "ejemplos": [
-     "NADIE TE AMARÁ DE VERDAD HASTA QUE ENTIENDAS ESTO | Gabriel Rolón",
-     "SI SE FUE SIN LUCHAR POR TI, ENTIENDE ESTO | Psicología del Abandono",
-     "Todo hombre mayor debería ver este vídeo I Psicología del amor"
-    ]
+    "titulo": "Si no te responde, abre tu cuaderno y haz esto primero",
+    "formato": "short"
+   },
+   {
+    "titulo": "5 señales de que te estás abandonando en tu relación (y cómo volver a ti)",
+    "formato": "largo"
+   },
+   {
+    "titulo": "Llegó a la cena de aniversario… y entendió que quien faltaba era ella misma",
+    "formato": "largo"
+   },
+   {
+    "titulo": "Cómo soltar una conversación pendiente aunque tu cabeza siga ahí",
+    "formato": "short"
+   },
+   {
+    "titulo": "10 frases que te dices en pareja y te alejan de ti",
+    "formato": "largo"
    }
   ]
  }

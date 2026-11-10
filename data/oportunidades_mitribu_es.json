@@ -1,79 +1,170 @@
 {
  "perfil": "mitribu_es",
  "canal": "Mi Tribu · Dinero",
- "generado": "2026-11-10T20:31:35",
+ "generado": "2026-11-10T20:39:24",
  "videos_leidos": 12,
  "comentarios_leidos": 383,
  "temas": [
   {
-   "tema": "Fe y suerte: «si Dios quiere seré millonario»",
+   "tema": "Fe y suerte: esperar a ser millonario «si Dios quiere»",
    "menciones": 60,
-   "cita": "Con la ayuda de Dios amén",
+   "cita": "Con la ayuda de Dios seré millonaria",
    "origen": "viral",
-   "titulo": "Si Dios quiere... ¿y tú qué pones en la taza?",
-   "gancho": "Puedes pedir con toda tu fe, pero el dinero también es un hábito que se sirve todos los días, como el café.",
-   "reto": "Escribe en tu cuaderno una sola acción de dinero que sí depende de ti hoy (revisar un gasto, ahorrar una moneda) y hazla ya.",
+   "titulo": "Tu dinero no es suerte: es una conversación",
+   "gancho": "Puedes confiar en que todo saldrá bien y aun así abrir tu cuaderno de cuentas. Van juntos.",
+   "reto": "Anota en tu cuaderno una acción pequeña con tu dinero para hoy.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Pedirle al universo y repetir «Hecho está» (ritual de 24 h / 3 días)",
-   "menciones": 50,
-   "cita": "Universo muéstrame dónde está mi dinero ahora, hecho está",
+   "tema": "Pedirle al universo que muestre dónde está tu dinero",
+   "menciones": 45,
+   "cita": "Universo muéstrame dónde está mi dinero ahora",
    "origen": "viral",
-   "titulo": "Gratitud sí, ¿pero qué haces con tu dinero hoy?",
-   "gancho": "Dar gracias te centra, pero no paga la renta: lo que sigue después de la frase es lo que cuenta.",
-   "reto": "Después de dar gracias, anota cuánto entró y cuánto salió esta semana. Solo un número de cada uno, en menos de 5 minutos.",
+   "titulo": "¿Dónde está tu dinero? Empieza por tu taza",
+   "gancho": "Antes de preguntarle al universo, pregúntate a ti: ¿dónde se fueron tus últimos cinco gastos?",
+   "reto": "Apunta tus últimos 5 gastos y comenta cuál te sorprendió.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Deseo de ser millonario: «aquí los futuros millonarios» y para qué",
-   "menciones": 35,
-   "cita": "Yo seré el primer millonario de mi familia",
+   "tema": "Gastar en apariencia, ropa y marcas: ¿es de verdad el problema?",
+   "menciones": 25,
+   "cita": "La ropa nunca deja de ser un mal gasto",
    "origen": "viral",
-   "titulo": "¿Cuánto es «suficiente» para ti? Ponle un propósito",
-   "gancho": "Todos quieren ser millonarios, pero casi nadie sabe para qué: sin propósito, ningún monto te alcanza.",
-   "reto": "En tu cuaderno completa: «Quiero más dinero para ______». Si no sale rápido, esa es la pista.",
+   "titulo": "3 gastos que sí valen tu café (y 1 que no)",
+   "gancho": "No todo gasto es enemigo. La pregunta es si lo eliges tú o lo elige la prisa.",
+   "reto": "Mira tu último gasto no esencial y pregúntate: ¿lo volvería a elegir?",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Juicio y orgullo: «soy feliz siendo pobre» y críticas al mensaje",
+   "menciones": 10,
+   "cita": "Soy feliz siendo pobre y qué",
+   "origen": "viral",
+   "titulo": "Dinero sin culpa: no hace falta juzgar a nadie",
+   "gancho": "Hablar de dinero no es señalar a nadie. Es mirar tu propia taza con honestidad y sin vergüenza.",
+   "reto": "Escribe una frase amable sobre tu relación con el dinero hoy.",
    "formato": "short",
    "urgencia": "media"
   },
   {
-   "tema": "Ahorrar cuando no sobra o hay desconfianza (inflación, bancos, «el sobrecito»)",
-   "menciones": 6,
-   "cita": "Que fácil es hablar, ya no podemos separar ni un peso",
+   "tema": "Ahorrar cuando no sobra nada, con inflación y devaluación",
+   "menciones": 8,
+   "cita": "Ya no podemos separar ni un peso, cuanta fantasía",
    "origen": "viral",
-   "titulo": "No me sobra nada: ahorrar con lo que sí tienes",
-   "gancho": "Si ahorrar te suena a chiste porque el sueldo no alcanza, este video es para ti, sin sermón.",
-   "reto": "Separa hoy la moneda o billete más pequeño que tengas en una taza. El monto es lo de menos, lo que importa es el gesto. Para decidir dónde guardarlo, consulta a un profesional de tu país.",
+   "titulo": "Ahorrar cuando no sobra: empieza con una moneda",
+   "gancho": "Si no sobra, el ahorro no es una cifra: es un hábito pequeño. Para dudas de tu caso, consulta a un profesional.",
+   "reto": "Aparta hoy la moneda más pequeña que tengas en un frasco.",
+   "formato": "largo",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Lotería y boletos: ¿ganar por suerte es posible?",
+   "menciones": 12,
+   "cita": "Hay sujetos que han ganado la lotería más de 2 veces",
+   "origen": "viral",
+   "titulo": "Lotería: ilusión sí, plan no",
+   "gancho": "Soñar con el boleto ganador es humano. Pero tu plan de dinero no puede depender de la suerte.",
+   "reto": "Escribe qué haría hoy tu yo del futuro por tu dinero, sin boleto.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Dinero y amistad: cuánto tienen otros y cómo se comparte",
+   "menciones": 6,
+   "cita": "Al final los amigos, el dinero es bobería",
+   "origen": "viral",
+   "titulo": "Hablar de dinero con amigos sin que se ponga raro",
+   "gancho": "Comparar cuentas ajenas es fácil. Hablar claro con quien quieres es lo que de verdad pesa.",
+   "reto": "Escribe una frase honesta sobre dinero para decirle a alguien cercano.",
+   "formato": "short",
+   "urgencia": "baja"
+  },
+  {
+   "tema": "Deudas, hipoteca y familia en apuros",
+   "menciones": 5,
+   "cita": "Cómo es que seguían viviendo en su casa si la hipotecaron",
+   "origen": "viral",
+   "titulo": "Deudas en casa: la conversación que nadie quiere",
+   "gancho": "Una deuda callada pesa el doble. Ponerla sobre la mesa, con calma, ya es avanzar.",
+   "reto": "Haz en tu cuaderno una lista de lo que debes, sin juzgarte.",
    "formato": "largo",
    "urgencia": "media"
   },
   {
-   "tema": "Gastos por apariencia, ropa y «gastar sin valorar», con quien se siente juzgado",
-   "menciones": 10,
-   "cita": "La ropa nunca deja de ser un mal gasto",
+   "tema": "Sin trabajo y sin ingresos: ¿por dónde empiezo?",
+   "menciones": 5,
+   "cita": "Ojalá sea millonaria, porque no tengo trabajo",
    "origen": "viral",
-   "titulo": "Gastar no es pecado: gastar sin mirar, sí",
-   "gancho": "No hay gastos buenos o malos de entrada: hay gastos que mirabas de frente y gastos que hiciste en automático.",
-   "reto": "Mira tus últimos 3 gastos y marca con una carita cuál te dio alegría real y cuál fue por inercia.",
+   "titulo": "Sin trabajo hoy: tu primer escalón de dinero",
+   "gancho": "Cuando falta el ingreso, el primer escalón no es ganar más: es ordenar lo que ya entra y sale.",
+   "reto": "Anota tus 3 gastos fijos y tu primera acción de hoy para generar ingreso.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Para qué quieres el dinero: familia, comunidad, propósito",
+   "menciones": 10,
+   "cita": "Voy a ser millonario y voy a ayudar a la comunidad",
+   "origen": "viral",
+   "titulo": "Antes del millón, responde: ¿para qué?",
+   "gancho": "Mucha gente suma ceros sin saber para qué. Tu propósito es la brújula del dinero.",
+   "reto": "Completa en tu cuaderno: quiero dinero para...",
    "formato": "short",
    "urgencia": "media"
   },
   {
-   "tema": "El sueldo se va antes de cobrar / el día de pago",
-   "menciones": 4,
-   "cita": "Muchos aún no les pagan y ya gastaron el sueldo",
+   "tema": "Rituales y vibras para atraer dinero (humor)",
+   "menciones": 6,
+   "cita": "Ritual para el dinero ❌ FARMEANDO AURA ✅",
    "origen": "viral",
-   "titulo": "¿Tu sueldo se va antes de llegar? Prueba esto",
-   "gancho": "Si el dinero ya tiene dueño antes de entrar a tu cuenta, el problema no es cuánto ganas, sino a dónde lo mandas.",
-   "reto": "Antes de tu próximo pago, anota en el cuaderno los 3 destinos que le darás a ese dinero.",
+   "titulo": "Mi ritual para el dinero: cuaderno y café",
+   "gancho": "El único ritual que te propongo cabe en una taza: mirar tus números cada semana, con calma.",
+   "reto": "Haz tu ritual de 3 minutos: café, cuaderno y un número de hoy.",
    "formato": "short",
-   "urgencia": "media"
+   "urgencia": "baja"
+  },
+  {
+   "tema": "Entorno y vecinos: ¿afecta a tu paz y a tu dinero?",
+   "menciones": 7,
+   "cita": "Estoy de acuerdo. Tenía un ruidoso al lado",
+   "origen": "viral",
+   "titulo": "Tu entorno también habla de tu dinero",
+   "gancho": "El ruido, el gasto por compromiso, la presión del entorno: ¿cuánto te cuesta realmente?",
+   "reto": "Anota un hábito de tu entorno que te cuesta dinero o paz.",
+   "formato": "short",
+   "urgencia": "baja"
   }
  ],
- "objeciones_a_la_oferta": [],
- "respuestas_sugeridas": [],
+ "objeciones_a_la_oferta": [
+  "Ya no me sobra nada para ahorrar",
+  "El ahorro se devalúa con la inflación y los bancos",
+  "Todo depende de Dios o de la suerte, no de mis hábitos",
+  "Me juzgan por gastar en ropa o gustos",
+  "No tengo trabajo ni ingresos fijos",
+  "Esos consejos de mentalidad suenan a regaño",
+  "Soy feliz como estoy, no quiero ser millonario"
+ ],
+ "respuestas_sugeridas": [
+  {
+   "a": "Amén, si Dios quiere, seré millonario",
+   "respuesta": "Qué bonito confiar. Y mientras tanto, tu taza también necesita un cuaderno. Fe y hábito caminan juntos. Reto de hoy: anota una acción pequeña con tu dinero. Cuéntame cuál."
+  },
+  {
+   "a": "Universo, muéstrame dónde está mi dinero",
+   "respuesta": "Buena pregunta. Pero empecemos por casa: ¿dónde se fueron tus últimos cinco gastos? Anótalos hoy y comenta cuál te sorprendió. Ahí suele empezar la conversación."
+  },
+  {
+   "a": "Ya no puedo ahorrar ni un peso",
+   "respuesta": "Te entiendo, hay meses así. Empieza con una moneda en un frasco, sin meta. Es un hábito, no una cifra. Para tu caso concreto, consulta a un profesional."
+  },
+  {
+   "a": "¿Qué episodio y temporada es?",
+   "respuesta": "Esa pregunta es de otro canal, amigo. Aquí servimos café y dinero con calma. Reto de hoy: anota tu último gasto en el cuaderno y cuéntame."
+  }
+ ],
  "fuentes": [
   {
    "origen": "viral",
