@@ -1,0 +1,501 @@
+{
+ "titulo": "LO QUE ATRAES EN EL AMOR TE DELATA | Jung, sombra y heridas",
+ "titulos_alternativos": [
+  "Por qué atraes siempre al mismo tipo de pareja (y cómo parar)",
+  "TU PAREJA ES TU ESPEJO | Sombra, heridas y amor propio"
+ ],
+ "promesa": "Entender por qué repites el mismo tipo de pareja, reconocer qué heridas y qué parte de tu sombra se activan en el amor, y llevarte pasos concretos y amables para empezar a elegir con más conciencia, sin culparte ni prometer curas mágicas.",
+ "descripcion": "¿Por qué atraes siempre al mismo tipo de persona? En este video recorremos, con calma y sin juicio, cómo el amor que atraes puede reflejar tus heridas emocionales, tus creencias inconscientes y tu autoestima.\nHablamos de la sombra según Carl Jung, del miedo al abandono, de la dependencia emocional y de la búsqueda de validación en las relaciones.\nTambién verás pasos prácticos de amor propio para romper patrones en el amor y elegir desde la plenitud, no desde el vacío.\nSi vives una relación que te daña o te da miedo, busca el acompañamiento de un psicólogo o terapeuta. Este contenido es reflexivo y no reemplaza la terapia.\nCuéntame en los comentarios qué patrón reconociste.",
+ "hashtags": [
+  "#AmorPropio",
+  "#CarlJung",
+  "#HeridasEmocionales",
+  "#PatronesEnElAmor",
+  "#DependenciaEmocional",
+  "#Autoestima",
+  "#SanarEmocionalmente",
+  "#Equilibrate"
+ ],
+ "miniatura": {
+  "texto": "TE DELATA",
+  "emocion": "tristeza",
+  "objeto": "Espejo grande que refleja una silueta de pareja en sombra con un corazón dorado, fondo azul noche",
+  "pose": "senalando"
+ },
+ "capitulos": [
+  {
+   "n": 0,
+   "titulo": "Gancho",
+   "ambiente": "cafeteria",
+   "palabras": 70,
+   "objetivo": "Lanzar 3-4 preguntas incómodas sobre repetir parejas, aferrarse a lo que duele y buscar validación. Prometer una forma concreta de ver el patrón (Jung más un ejercicio) y abrir el bucle: la pregunta que cambia todo se revela en el capítulo 3.",
+   "idea_clave": "¿Por qué siempre el mismo?",
+   "escenas": [
+    {
+     "texto": "¿Por qué terminas con la misma persona, solo que con otra cara? ¿Por qué te aferras justo a lo que te duele? ¿Y por qué sientes que sin la validación de alguien, tu valor se enfría como un café olvidado?",
+     "emocion": "sorpresa",
+     "objeto": "taza de café frío",
+     "pose": "senalando",
+     "prompt_visual": "Germancho in a cozy cafe pointing at the viewer with a raised eyebrow, next to a cold untouched coffee cup on the counter",
+     "texto_en_pantalla": "¿Misma pareja, otra cara?"
+    },
+    {
+     "texto": "Hoy te muestro cómo ver ese patrón con Jung y un ejercicio de cuaderno, sin culpa y sin magia. Y ojo: hay una pregunta que lo cambia todo. Llega en el capítulo tres. Quédate, que el café apenas se está sirviendo.",
+     "emocion": "sereno",
+     "objeto": "cuaderno y cafetera",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a small sign that reads Capítulo 3, notebook and steaming coffee pot beside him in a warm cafe",
+     "texto_en_pantalla": "La pregunta llega en el capítulo 3"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "titulo": "Lo familiar no siempre es amor",
+   "ambiente": "sala",
+   "palabras": 440,
+   "objetivo": "Mini-gancho: la primera pista está en la sala de tu infancia. Explicar cómo las heridas tempranas y las creencias inconscientes funcionan como imán, y cómo lo conocido se confunde con amor. Ejemplo concreto (la persona fría o que 'hay que arreglar'). Aclarar que no se trata de culpar a nadie.",
+   "idea_clave": "Lo familiar se disfraza de amor",
+   "escenas": [
+    {
+     "texto": "La primera pista no está en tu celular ni en tu ex. Está en una sala. La de tu infancia. Ese sofá, esa tele, ese silencio o esos gritos a la hora de la cena. Siéntate conmigo un momento. Vamos a mirar ese cuarto con curiosidad, no con reproche.",
+     "emocion": "sereno",
+     "objeto": "sofá viejo",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho welcomes the viewer into a cozy retro living room, arms open, pointing to an old sofa and a warm lamp",
+     "texto_en_pantalla": "La pista está en la sala"
+    },
+    {
+     "texto": "Cuando eras niño o niña, tu mente era una libreta nueva. Y anotó lo que veía: así se quiere, así se pide atención, así se aguanta. Nadie te dio un manual. Solo copiaste. Y lo que anotaste ahí, sin darte cuenta, hoy sigue escribiendo.",
+     "emocion": "sereno",
+     "objeto": "cuaderno",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a stool holding an open notebook with childlike scribbles, soft light, thoughtful expression",
+     "texto_en_pantalla": "Copiaste lo que viste"
+    },
+    {
+     "texto": "Piensa en un imán. No elige, solo atrae lo que encaja con su carga. Las heridas tempranas funcionan parecido. Si algo dolió y nunca se nombró, queda una carga. Y tu cuerpo reconoce, a kilómetros, a quien llega con la carga que encaja.",
+     "emocion": "sorpresa",
+     "objeto": "imán",
+     "pose": "senalando",
+     "prompt_visual": "Germancho holds a big cartoon magnet that pulls tiny hearts and coffee cups toward it, curious face",
+     "texto_en_pantalla": "Las heridas son un imán"
+    },
+    {
+     "texto": "Junto con la herida se instalan creencias calladas. Que para que te quieran hay que ganárselo. Que pedir es molestar. Que el amor cuesta esfuerzo. No las piensas, las habitas. Como esa taza de siempre: ni miras cuál agarraste, ya la tienes en la mano.",
+     "emocion": "sereno",
+     "objeto": "taza de siempre",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho picks the same chipped mug from a shelf of many mugs without looking, a small smile",
+     "texto_en_pantalla": "Creencias que ni notas"
+    },
+    {
+     "texto": "Y aquí viene lo curioso. Lo familiar se siente como hogar, aunque ese hogar fuera incómodo. Tu sistema no pregunta si algo es sano, pregunta si es conocido. Ese cosquilleo, esa química intensa, a veces no es amor. Es reconocimiento. Es tu cuerpo diciendo: esto ya lo sé.",
+     "emocion": "sorpresa",
+     "objeto": "letrero",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a sign that crosses out the word amor and writes familiar below it, eyebrows raised",
+     "texto_en_pantalla": "Familiar no es igual a amor"
+    },
+    {
+     "texto": "Un ejemplo. Creciste esperando una mirada que no llegaba: un papá callado, una mamá siempre ocupada. Años después aparece alguien frío, distante. Y tú, sin pensarlo, te pones a trabajar: ser más simpático, más útil, más paciente. Crees que es amor. Es tu vieja sala con otra cara.",
+     "emocion": "tristeza",
+     "objeto": "ventana empañada",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho lies on the living room floor looking at a fogged window where a cold silhouette stands, melancholic mood",
+     "texto_en_pantalla": "La persona fría"
+    },
+    {
+     "texto": "Otro ejemplo. Alguien con mil problemas, roto, que necesita rescate. Y tú, ahí, con cinta y herramientas. Quizás de niño aprendiste que tu lugar valioso era cuidar, calmar, resolver. Entonces arreglar se siente como querer. Pero una pareja no es un proyecto de remodelación.",
+     "emocion": "alegria",
+     "objeto": "caja de herramientas",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches with a toolbox and duct tape, trying to fix a cracked cartoon heart, humorous tone",
+     "texto_en_pantalla": "Pareja no es remodelación"
+    },
+    {
+     "texto": "Mira el detalle: en los dos casos hay esfuerzo, ansiedad y esperanza. Y eso se parece mucho a la pasión. Esperar un mensaje, ganar una sonrisa, sentir alivio cuando por fin llega algo. Ese sube y baja se confunde con intensidad. Pero intensidad no es lo mismo que intimidad.",
+     "emocion": "sorpresa",
+     "objeto": "escalera",
+     "pose": "escalera",
+     "prompt_visual": "Germancho climbs and descends a steep staircase in the living room, dizzy and hopeful, a phone in hand",
+     "texto_en_pantalla": "Intensidad no es intimidad"
+    },
+    {
+     "texto": "Ahora, respira. Nada de esto es para señalar a tus papás ni para decirte que algo está mal contigo. Hicieron lo que pudieron con lo que tenían. Y tú hiciste lo que pudiste para sentirte querido. Entender el patrón no es buscar culpables. Es prender la luz de la sala.",
+     "emocion": "sereno",
+     "objeto": "lámpara",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho turns on a warm floor lamp that lights the whole living room, gentle reassuring smile, arms open",
+     "texto_en_pantalla": "Sin culpables, con luz"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "La sombra: lo que ves en el otro",
+   "ambiente": "espejo",
+   "palabras": 460,
+   "objetivo": "Mini-gancho: ¿y si lo que más te atrae o te irrita de tu pareja fuera tuyo? Explicar la sombra de Jung con rigor y sin inventar citas: lo que negamos se proyecta. Dar ejemplos (admirar en el otro la seguridad que no te permites, o rechazar su 'egoísmo' cuando tú no sabes poner límites). Dejar claro que la proyección no justifica el maltrato.",
+   "idea_clave": "Lo que niegas, lo proyectas",
+   "escenas": [
+    {
+     "texto": "¿Y si eso que más te atrae de tu pareja, o lo que más te irrita, no fuera solo de tu pareja? Imagina que entras a un cuarto y hay un espejo. Pero en vez de verte a ti, ves a otra persona. Pues así funciona, más o menos, la sombra.",
+     "emocion": "sorpresa",
+     "objeto": "espejo grande",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho jumps back surprised in front of a big mirror that shows another person's silhouette instead of his reflection",
+     "texto_en_pantalla": "¿Y si fuera tuyo?"
+    },
+    {
+     "texto": "Carl Jung llamó sombra a todo lo que de ti no te permites ver ni aceptar. Rasgos, deseos, emociones que escondiste porque en algún momento no eran bienvenidos. No desaparecen. Se quedan guardados en el sótano, esperando una oportunidad para salir.",
+     "emocion": "sereno",
+     "objeto": "caja en un sótano",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points toward a dark basement door with a dusty box labeled with hidden traits, calm expression",
+     "texto_en_pantalla": "La sombra: lo que niegas"
+    },
+    {
+     "texto": "Y cuando algo se queda negado, lo proyectamos. Lo vemos afuera, en otra persona, como si fuera suyo. Es como una película en la pared: la imagen se ve ahí, pero el proyector está en tu cabeza. Tómalo como una idea para explorar, no como una sentencia.",
+     "emocion": "sereno",
+     "objeto": "proyector",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho stands beside an old projector casting a movie on the wall, arms open explaining, warm cafe lighting",
+     "texto_en_pantalla": "Lo que niegas, se proyecta"
+    },
+    {
+     "texto": "Primer ejemplo. Te enamoras de alguien muy seguro, que dice lo que piensa sin pedir permiso. Te encanta, te hipnotiza. Quizás esa seguridad es justo la que tú no te permites. Admiras en el otro lo que tienes dormido adentro, y quieres quedarte cerquita, como junto a la estufa en invierno.",
+     "emocion": "alegria",
+     "objeto": "taza humeante",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits at a stool with steaming cups, looking admiringly at a confident silhouette across the room",
+     "texto_en_pantalla": "Admiras lo que no te permites"
+    },
+    {
+     "texto": "Segundo ejemplo. Tu pareja dice no, descansa, protege su tiempo, y tú piensas: qué egoísta. Pregúntate con calma: ¿y si me irrita porque yo no sé poner límites? A veces lo que juzgamos con tanta fuerza es justo lo que más nos cuesta darnos a nosotros.",
+     "emocion": "ira",
+     "objeto": "letrero de NO",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a sign that says NO, with a puzzled frown, then looks at himself in a small hand mirror",
+     "texto_en_pantalla": "¿Egoísta... o con límites?"
+    },
+    {
+     "texto": "Aquí aparece el patrón. Si buscas una y otra vez a alguien que tenga eso que tú niegas, repites el mismo tipo de pareja. No es mala suerte: tu sombra busca la manera de volver a casa. Es como pedir el mismo café esperando que sepa distinto.",
+     "emocion": "sorpresa",
+     "objeto": "tres tazas iguales",
+     "pose": "cambio",
+     "prompt_visual": "Germancho lines up three identical coffee cups on a counter, tastes one and raises an eyebrow, realizing the pattern",
+     "texto_en_pantalla": "Mismo café, mismo patrón"
+    },
+    {
+     "texto": "Pero escucha esto bien. Que exista la proyección no justifica el maltrato. Si te gritan, te controlan o te hacen daño, eso no es tu sombra: es daño. Mirarte por dentro no significa aguantar. Y si estás en una situación así, busca apoyo profesional.",
+     "emocion": "ira",
+     "objeto": "señal de alto",
+     "pose": "senalando",
+     "prompt_visual": "Germancho serious, raising one hand like a stop sign next to a red stop symbol, firm but caring look",
+     "texto_en_pantalla": "Proyección no justifica maltrato"
+    },
+    {
+     "texto": "Tampoco se trata de culparte. Ver tu sombra no es regañarte, es reconocer que eres más grande de lo que te dijeron. Piensa en un cuaderno viejo: no lo tiras porque tenga páginas que no quieres leer. Lo abres con ternura, una hoja a la vez.",
+     "emocion": "tristeza",
+     "objeto": "cuaderno viejo",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches gently opening an old notebook on the floor, soft light, tender expression",
+     "texto_en_pantalla": "Sin culpa, con ternura"
+    },
+    {
+     "texto": "Por ahora quédate con una idea suave: lo que más te mueve en el otro, para bien o para mal, puede traer una pista sobre ti. No tienes que resolverla hoy. Solo notarla. Y en el siguiente capítulo llega la pregunta clave que lo cambia todo.",
+     "emocion": "sereno",
+     "objeto": "espejo y taza",
+     "pose": "saludando",
+     "prompt_visual": "Germancho smiles holding a coffee cup next to the mirror, a mysterious question mark glowing in the reflection",
+     "texto_en_pantalla": "La pregunta clave viene ahora"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "El miedo a que se vayan",
+   "ambiente": "puerta",
+   "palabras": 470,
+   "objetivo": "Mini-gancho: la pregunta que casi nadie se hace antes de aferrarse. Mostrar cómo el miedo al abandono lleva a tolerar migajas y a confundir ansiedad con pasión. Dar un ejemplo (mirar el celular esperando un mensaje) y la pregunta clave: '¿me quedo por amor o por miedo a quedarme solo?'. Aclarar que quien vive maltrato no 'atrae' ni merece el daño, y sugerir buscar apoyo profesional.",
+   "idea_clave": "¿Amor o miedo a la soledad?",
+   "escenas": [
+    {
+     "texto": "Llegó la pregunta que te prometí, esa que casi nadie se hace antes de aferrarse a alguien. Pero primero, una puerta. Imagina que estás frente a ella y del otro lado alguien está a punto de irse. ¿Sientes ese apretón en el pecho? Ahí empieza este capítulo.",
+     "emocion": "miedo",
+     "objeto": "puerta entreabierta",
+     "pose": "senalando",
+     "prompt_visual": "Germancho standing in front of a half-open door, pointing at it with a worried curious look",
+     "texto_en_pantalla": "La pregunta que nadie se hace"
+    },
+    {
+     "texto": "Se llama miedo al abandono. Y es un miedo muy hábil: no se presenta como miedo. Se disfraza de amor intenso, de no puedo vivir sin ti, de química. Es como un café muy cargado que te acelera el corazón y tú lo confundes con emoción.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café humeante",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sitting on a stool holding a very strong coffee cup, eyes wide, heart-shaped steam rising",
+     "texto_en_pantalla": "Miedo disfrazado de amor"
+    },
+    {
+     "texto": "Por eso confundimos ansiedad con pasión. Si alguien te quiere con calma sientes aburrimiento, y si alguien va y viene sientes fuegos artificiales, ojo. Tu cuerpo puede estar tomando una alarma por una chispa. No eres raro: aprendiste a reconocer el amor así.",
+     "emocion": "sereno",
+     "objeto": "cuaderno",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms, a gentle smile, two icons beside him: a calm candle and a fireworks burst",
+     "texto_en_pantalla": "Ansiedad no es pasión"
+    },
+    {
+     "texto": "Te doy un ejemplo cotidiano. Son las diez de la noche y tienes el celular en la mano. Abres el chat, lo cierras. Lo abres otra vez. Miras si salió el visto, si está en línea. Pasan cuatro minutos y sientes que pasó una semana.",
+     "emocion": "tristeza",
+     "objeto": "celular",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho slouched on a couch at night, staring at his phone with a tired anxious face",
+     "texto_en_pantalla": "Mirar el celular, otra vez"
+    },
+    {
+     "texto": "Eso no es romanticismo, es tu alarma encendida. Y mientras esperas, empiezas a negociar contigo: seguro está ocupado, seguro mañana cambia. Cada excusa es una miga que te sirves y te dices que es banquete. Ahí nacen las migajas.",
+     "emocion": "tristeza",
+     "objeto": "migas de pan en un plato",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouched looking at a small plate with just a few crumbs, sad but thoughtful",
+     "texto_en_pantalla": "Aceptar migajas"
+    },
+    {
+     "texto": "Y aquí va la pregunta. Respira antes de contestarla. ¿Me quedo por amor o por miedo a quedarme solo? No tiene respuesta correcta. Pero hacerla en voz alta ya cambia algo, porque dejas el piloto automático y empiezas a mirar quién maneja.",
+     "emocion": "sereno",
+     "objeto": "letrero con la pregunta",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a big sign with a question mark, calm and direct look at the camera",
+     "texto_en_pantalla": "¿Amor o miedo a estar solo?"
+    },
+    {
+     "texto": "A veces la respuesta es una mezcla, y está bien. Puedes querer a alguien y también tener miedo. La diferencia es qué haces con ese miedo: si lo escuchas o si le entregas las llaves de tu casa. Quien se queda por amor elige; quien se queda por miedo se aguanta.",
+     "emocion": "sereno",
+     "objeto": "llaves",
+     "pose": "senalando",
+     "prompt_visual": "Germancho holding a set of house keys, deciding whether to hand them over, warm expression",
+     "texto_en_pantalla": "Elegir no es aguantar"
+    },
+    {
+     "texto": "Ahora, una aclaración importante. Si vives o viviste maltrato, no lo atrajiste ni lo mereces. Ni tu sombra ni tus heridas justifican que alguien te haga daño. Esa responsabilidad es de quien agrede. No tienes que salir de eso a solas: busca apoyo profesional o líneas de ayuda en tu país.",
+     "emocion": "sereno",
+     "objeto": "taza vacía y mano extendida",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho speaking seriously and kindly, open hands in a welcoming gesture, soft light, no jokes",
+     "texto_en_pantalla": "No lo mereces. Pide ayuda."
+    },
+    {
+     "texto": "Para todo lo demás, la invitación es suave: la próxima vez que agarres el celular a esperar, haz una pausa y pon la mano en el pecho. Pregúntate qué estás sintiendo de verdad. Sin regaño, sin juicio. Esa pausa es la primera mano que le das a tu miedo.",
+     "emocion": "alegria",
+     "objeto": "celular bocabajo",
+     "pose": "saludando",
+     "prompt_visual": "Germancho placing his phone face down on a table, hand on chest, relieved gentle smile",
+     "texto_en_pantalla": "Pausa. Mano en el pecho."
+    },
+    {
+     "texto": "Si el miedo es la puerta, falta ver qué hay detrás. En el siguiente capítulo vamos al cuaderno, para que esto no se quede en idea bonita. Prepara una taza y algo para escribir, que ahí te veo.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y taza",
+     "pose": "escalera",
+     "prompt_visual": "Germancho climbing a small staircase toward an open door with light behind it, holding a notebook and a mug",
+     "texto_en_pantalla": "Sigue: el cuaderno"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Nadie puede llenar ese vacío",
+   "ambiente": "restaurante",
+   "palabras": 460,
+   "objetivo": "Mini-gancho: una mesa para dos puede sentirse vacía. Explicar que buscar que otro nos valore revela una duda sobre el propio valor, y que el amor externo no llena un vacío interno. Dar ejemplos de validación (dar de más, agradar siempre, medir tu valor en likes o mensajes) y contrastar compañía elegida con compañía necesitada.",
+   "idea_clave": "Tu valor no se negocia",
+   "escenas": [
+    {
+     "texto": "Imagina una mesa para dos. Velas, dos copas, buena música. Y una silla que, aunque esté ocupada, se siente vacía. Quizá nunca lo dijiste en voz alta, pero lo sabes: se puede estar acompañado y aun así sentir que falta algo. Hablemos de ese hueco.",
+     "emocion": "tristeza",
+     "objeto": "mesa para dos con una silla vacía",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sitting alone at a candlelit restaurant table set for two, looking at the empty chair across from him, warm dim light",
+     "texto_en_pantalla": "Una mesa para dos"
+    },
+    {
+     "texto": "Aquí va una idea que puede picar un poquito. Cuando necesitas que otro te valore, muchas veces detrás hay una duda: ¿valgo algo si nadie me lo confirma? No es un defecto tuyo. Es una pregunta antigua que aprendiste a responder mirando afuera.",
+     "emocion": "sereno",
+     "objeto": "carta del restaurante",
+     "pose": "senalando",
+     "prompt_visual": "Germancho pointing gently at his own chest while holding a restaurant menu, calm expression, cozy restaurant background",
+     "texto_en_pantalla": "¿Valgo si nadie lo confirma?"
+    },
+    {
+     "texto": "Es como pedir un café y esperar que el mesero te diga si mereces tomarlo. Suena absurdo, ¿no? Pero en el amor lo hacemos seguido: entregamos la taza, el menú y hasta la silla, para que alguien más decida cuánto valemos.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café y mesero",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms and a surprised smile, a waiter silhouette holding a coffee cup out of reach, restaurant setting",
+     "texto_en_pantalla": "¿Quién decide tu valor?"
+    },
+    {
+     "texto": "Mira cómo se disfraza. A veces es dar de más: pagas, escuchas, resuelves, cedes, y esperas en silencio que alguien note cuánto das. Das, pero con una factura escondida. No es generosidad pura: es un por favor, elígeme.",
+     "emocion": "tristeza",
+     "objeto": "cuenta del restaurante",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouched slightly, holding a restaurant bill with too many items, tired but kind expression, restaurant table",
+     "texto_en_pantalla": "Dar de más"
+    },
+    {
+     "texto": "Otras veces es agradar siempre. Decir que sí cuando querías decir no. Pedir lo mismo que pide el otro para no incomodar. Volverte el plato del día que le gusta a todos, menos a ti. Y la pregunta es: ¿quién queda en esa mesa?",
+     "emocion": "miedo",
+     "objeto": "plato del día",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho with a forced smile at a table, a plate of the day in front of him, nodding to everyone, slightly uneasy eyes",
+     "texto_en_pantalla": "Agradar siempre"
+    },
+    {
+     "texto": "Y hay una versión moderna: medir tu valor en likes y mensajes. Ves que te respondió y el día brilla. Ves el visto y se apaga todo. Tu autoestima queda colgada de unas palomitas azules. Eso es mucho peso para una pantalla.",
+     "emocion": "sorpresa",
+     "objeto": "celular sobre la mesa",
+     "pose": "senalando",
+     "prompt_visual": "Germancho staring at a phone on a restaurant table, notification icons floating above, expression going from hope to disappointment",
+     "texto_en_pantalla": "Tu valor no es un visto"
+    },
+    {
+     "texto": "Aquí viene lo importante: el amor de afuera no llena un vacío de adentro. Puede acompañarlo, calentarlo, hacerlo más llevadero un rato. Pero es como servir café en una taza con grieta: se siente rico y, al rato, otra vez se va.",
+     "emocion": "sereno",
+     "objeto": "taza con una grieta",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding up a cracked coffee cup with coffee leaking slightly, calm and gentle expression, restaurant table in background",
+     "texto_en_pantalla": "Taza con grieta"
+    },
+    {
+     "texto": "Por eso hay dos tipos de compañía. La necesitada dice: quédate para que yo me sienta suficiente. La elegida dice: estoy bien conmigo, y contigo todavía mejor. En la primera hay miedo a perder. En la segunda hay ganas de compartir.",
+     "emocion": "alegria",
+     "objeto": "dos tazas distintas en la mesa",
+     "pose": "cambio",
+     "prompt_visual": "Split scene: Germancho clinging nervously to a chair on one side, then relaxed and smiling with a friend at a restaurant table on the other",
+     "texto_en_pantalla": "Necesitada vs. elegida"
+    },
+    {
+     "texto": "Y ojo: querer compañía no es debilidad. Todos la necesitamos. La diferencia está en si te sientas a la mesa por elección o por hambre. Si ese vacío se siente muy pesado, hablarlo con un profesional de la salud mental puede ser un buen paso.",
+     "emocion": "sereno",
+     "objeto": "silla acomodada junto a la mesa",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sitting comfortably at a restaurant table, a warm coffee in hand, relaxed and kind smile, soft golden light",
+     "texto_en_pantalla": "Elección, no hambre"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Cómo elegir distinto, paso a paso",
+   "ambiente": "escalera",
+   "palabras": 455,
+   "objetivo": "Mini-gancho: cuatro escalones, y el primero lo puedes subir hoy. Dar pasos reflexivos: 1) observar el patrón con curiosidad, 2) abrazar la sombra, 3) reparar la relación contigo, 4) dejar de perseguir y elegir desde la plenitud. Recomendar terapia cuando haya heridas profundas y evitar prometer curas.",
+   "idea_clave": "Cuatro escalones hacia ti",
+   "escenas": [
+    {
+     "texto": "Cuatro escalones. Eso es todo lo que necesitas para empezar a elegir distinto. Y el primero lo puedes subir hoy, con una taza en la mano y sin ayuda de nadie. No es magia, es escalera. Un peldaño a la vez, sin correr y sin culparte.",
+     "emocion": "alegria",
+     "objeto": "escalera de cuatro peldaños",
+     "pose": "escalera",
+     "prompt_visual": "Germancho standing at the bottom of a four-step staircase holding a coffee cup, smiling and pointing up at the first step",
+     "texto_en_pantalla": "4 escalones"
+    },
+    {
+     "texto": "Escalón uno: observa tu patrón con curiosidad. Curiosidad, no juicio. Mira tus últimas parejas como quien lee un cuaderno ajeno: ¿qué se repite? ¿La frialdad, el drama, la promesa que nunca llega? Si te regañas mientras miras, no ves nada. Si preguntas con ternura, el patrón habla.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto",
+     "pose": "senalando",
+     "prompt_visual": "Germancho on the first step reading an open notebook with a magnifying glass, curious expression",
+     "texto_en_pantalla": "1. Observa con curiosidad"
+    },
+    {
+     "texto": "Escalón dos: abraza tu sombra. Eso que te irrita o te fascina en el otro probablemente también vive en ti, dormido. No se trata de aplaudirlo, sino de reconocerlo. Es como encontrar una taza olvidada al fondo del armario: la lavas, la miras y ya no te asusta.",
+     "emocion": "sereno",
+     "objeto": "taza vieja y polvorienta",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching on the second step picking up a dusty forgotten cup from a cabinet, gentle smile, soft shadow behind him",
+     "texto_en_pantalla": "2. Abraza tu sombra"
+    },
+    {
+     "texto": "Escalón tres: repara la relación contigo. Piensa cuántas veces te hablas peor de lo que le hablarías a un desconocido. Empieza pequeño: cumple una promesa que te hiciste, descansa cuando toca, háblate con respeto. Lo que esperas que otro te dé, ensáyalo tú primero.",
+     "emocion": "alegria",
+     "objeto": "taza medio llena",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho at the top of the staircase with open arms, holding a half-full coffee cup, bright and calm atmosphere",
+     "texto_en_pantalla": "4. Elige desde la plenitud",
+     "},{\"texto": "Escalón cuatro: deja de perseguir y elige desde la plenitud. Perseguir es pedirle a otro que llene tu taza vacía. Elegir es compartir una taza que ya tienes medio llena. Desde ahí, el amor deja de ser rescate y se vuelve compañía. Y eso se nota en a quién eliges."
+    },
+    {
+     "texto": "Ojo con esto: subir no es lineal. Habrá días en que bajes dos escalones y te sientes en el suelo. Pasa. No es fracaso, es escalera. Y nadie promete que esto cure nada de la noche a la mañana. Es práctica, paciencia y un poco de humor contigo.",
+     "emocion": "sereno",
+     "objeto": "escalón con taza",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho sitting on a middle step with his chin on his hand, relaxed, a coffee cup beside him, a small shrug",
+     "texto_en_pantalla": "No es lineal"
+    },
+    {
+     "texto": "Si al mirar tu historia aparece algo muy hondo, abandono, violencia, un dolor que te desborda, no lo cargues solo. Buscar a un terapeuta no es rendirte, es subir con pasamanos. Hay escalones que se suben mejor acompañado, y pedir ayuda también es elegir distinto.",
+     "emocion": "sereno",
+     "objeto": "letrero con tres puntos",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a sign listing three short points with simple icons, calm friendly look",
+     "texto_en_pantalla": "Patrón, sombra, volver a ti",
+     "},{\"texto": "Resumamos. Uno: tu patrón no te condena, te informa. Dos: lo que proyectas en otros te muestra tu sombra y tus heridas. Tres: elegir distinto empieza por mirarte, abrazarte, repararte y llegar completo. Cuatro escalones, un solo camino: volver a ti antes de salir a buscar."
+    },
+    {
+     "texto": "Reto de hoy: toma un papel o las notas del celular y escribe tres cualidades que se repiten en tus últimas parejas. Al lado, escribe: 'Lo que busco en otro, ¿cómo puedo dármelo yo hoy?'. Tómate menos de 5 minutos.",
+     "emocion": "alegria",
+     "objeto": "papel y lapicero",
+     "pose": "senalando",
+     "prompt_visual": "Germancho pointing at the camera holding a piece of paper and a pen, enthusiastic expression, coffee cup on the table",
+     "texto_en_pantalla": "Reto de hoy"
+    },
+    {
+     "texto": "Y cuéntame en los comentarios cuál fue la cualidad que más se repitió. Léete con cariño, que alguien más se va a reconocer en tu respuesta. Si este video te sirvió, compártelo con esa persona que siempre elige igual. Nos vemos en el próximo café, escalón por escalón.",
+     "emocion": "alegria",
+     "objeto": "taza de café humeante",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waving goodbye at the foot of the staircase holding a steaming coffee cup, warm smile",
+     "texto_en_pantalla": "Cuéntame en comentarios"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Cierre",
+   "ambiente": "cafeteria",
+   "palabras": 120,
+   "objetivo": "Resumir la idea central (cuando cambias tú, cambia lo que eliges y lo que toleras), dejar una frase emotiva, dar el Reto de hoy e invitar a suscribirse a Equilíbrate, dar like y comentar qué patrón reconoció.",
+   "idea_clave": "Cambias tú, eliges distinto",
+   "escenas": [
+    {
+     "texto": "Cerremos el café con tres ideas. Uno: lo que te atrae te muestra qué heridas y qué sombra se activan. Dos: repetir pareja no es mala suerte, es un patrón que puedes mirar. Tres: cuando cambias tú, cambia lo que eliges y lo que toleras. No buscabas castigo, buscabas hogar.",
+     "emocion": "sereno",
+     "objeto": "taza de café humeante y cuaderno",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits calmly on a coffee shop stool with three cups lined up in front of him, lifting one finger at a time as he sums up the ideas, warm cafe light",
+     "texto_en_pantalla": "Cambias tú, cambia lo que eliges"
+    },
+    {
+     "texto": "Reto de hoy: toma un papel o las notas del celular y escribe tres cualidades que se repiten en tus últimas parejas. Al lado, escribe: 'Lo que busco en otro, ¿cómo puedo dármelo yo hoy?'. Tómate menos de 5 minutos y cuéntame en los comentarios cuál fue la cualidad que más se repitió.",
+     "emocion": "alegria",
+     "objeto": "cuaderno abierto con tres líneas escritas y un lápiz",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds up a small sign reading Reto de hoy next to an open notebook with three lines written, smiling and encouraging, cafe table",
+     "texto_en_pantalla": "Reto de hoy: 3 cualidades"
+    },
+    {
+     "texto": "Si hoy te viste en un patrón, quédate con esto: no estás roto, estás aprendiendo a elegirte. Suscríbete a Equilíbrate, dale like si este café te sirvió y cuéntame en los comentarios qué patrón reconociste. Nos vemos en la próxima taza.",
+     "emocion": "alegria",
+     "objeto": "taza de café levantada como brindis",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waves goodbye with one hand and raises a coffee cup like a toast with the other, warm smile, cozy cafe background",
+     "texto_en_pantalla": "Suscríbete a Equilíbrate"
+    }
+   ]
+  }
+ ],
+ "reto_de_hoy": "Toma un papel o las notas del celular y escribe tres cualidades que se repiten en tus últimas parejas. Al lado, escribe: 'Lo que busco en otro, ¿cómo puedo darmelo yo hoy?'. Tómate menos de 5 minutos y cuéntame en los comentarios cuál fue la cualidad que más se repitió.",
+ "palabras": 2262
+}

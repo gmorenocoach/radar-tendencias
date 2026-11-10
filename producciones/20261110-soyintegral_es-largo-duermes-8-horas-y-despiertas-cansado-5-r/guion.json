@@ -1,0 +1,379 @@
+{
+ "titulo": "Duermes 8 horas y despiertas cansado: 5 razones que nadie ve (1/6)",
+ "titulos_alternativos": [
+  "Dormiste 8 horas y sigues agotado: la carta que tu cuerpo no has abierto",
+  "Por qué despiertas cansado aunque duermas bien: 5 causas ocultas (Carta 1/6)"
+ ],
+ "promesa": "Descubrirás 5 razones concretas y poco comentadas por las que despiertas agotado aunque duermas 8 horas, y qué señal te manda tu cuerpo con cada una. Además te llevas un reto de menos de 5 minutos para probar esta misma noche.",
+ "descripcion": "¿Duermes 8 horas y aun así despiertas cansado? En este primer capítulo de la serie 'Las 6 cartas que tu cuerpo lleva meses mandándote' repasamos 5 razones del cansancio al despertar.\nHablamos de la calidad del sueño, los microdespertares, la cafeína y la cena tardía, la respiración al dormir y los horarios irregulares.\nTambién de causas como el estrés o la ansiedad y de por qué conviene revisar con un profesional la anemia, la tiroides o la vitamina D.\nSi buscas mejorar el descanso, tener un sueño reparador y crear mejores hábitos de sueño, este video te da un reto concreto para empezar hoy.\nEste contenido es informativo y no reemplaza una consulta médica.",
+ "hashtags": [
+  "#SoyIntegral",
+  "#Salud",
+  "#CalidadDelSueño",
+  "#Descanso",
+  "#SueñoReparador",
+  "#HabitosDeSueño",
+  "#Cansancio",
+  "#GermanchoRetoDeHoy"
+ ],
+ "miniatura": {
+  "texto": "8 HORAS Y CANSADO",
+  "emocion": "tristeza",
+  "objeto": "Sobre con sello rojo y numeración 1/6 junto a un despertador marcando 8:00, fondo azul oscuro con acentos amarillos",
+  "pose": "triste_acostado"
+ },
+ "capitulos": [
+  {
+   "n": 0,
+   "titulo": "Gancho",
+   "ambiente": "cafeteria",
+   "palabras": 80,
+   "objetivo": "Abrir con la contradicción (8 horas y agotado), presentar la metáfora de la carta 1 de 6 y prometer 5 razones, con la número 4 como bucle abierto que casi nadie revisa. Sin saludo previo.",
+   "idea_clave": "8 horas no es igual a descanso",
+   "escenas": [
+    {
+     "texto": "¿Y si dormir ocho horas no fuera la solución? Te acuestas temprano, apagas la luz, suena la alarma y despiertas como si hubieras cargado una escalera toda la noche. Ocho horas y cansado. Algo no cuadra, y no eres tú.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café vacía y un despertador",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho slouched at a cafe table, heavy eyelids, staring at an empty coffee cup next to a ringing alarm clock, warm cafe background",
+     "texto_en_pantalla": "8 horas... y agotado"
+    },
+    {
+     "texto": "Esta es la carta 1 de 6 del menú del descanso, y hoy te sirvo cinco razones que casi nadie ve. Cada una trae la señal que te manda tu cuerpo. La número cuatro es la que casi nadie revisa, y te va a sorprender. Quédate hasta ahí.",
+     "emocion": "alegria",
+     "objeto": "carta de menú de cafetería con el número 1 de 6",
+     "pose": "letrero",
+     "prompt_visual": "Germancho energetically holding up a cafe menu board showing 1/6 with five items listed and item number 4 covered by a coffee cup lid, cozy cafeteria",
+     "texto_en_pantalla": "5 razones. La 4, la oculta"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "titulo": "Razón 1: Tu sueño se corta sin que lo notes",
+   "ambiente": "sala",
+   "palabras": 360,
+   "objetivo": "Mini-gancho: 'Duermes de corrido, pero tu cerebro se despierta 20 veces'. Explicar los microdespertares con ejemplos cotidianos: pantalla antes de dormir, luz, ruido, alcohol por la noche. Dar 2 acciones concretas (apagar pantallas, bajar luces una hora antes). Cerrar adelantando la razón 2.",
+   "idea_clave": "Dormir seguido no es dormir profundo",
+   "escenas": [
+    {
+     "texto": "Duermes de corrido, o eso crees. Pero tu cerebro puede despertarse unas veinte veces en la noche y tú ni te enteras. Se llaman microdespertares: segundos en los que sales a la superficie, miras alrededor y vuelves a hundirte. Razón uno: tu sueño se corta sin que lo notes.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café humeante sobre la mesa de la sala",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho jumps back in surprise next to a cozy living room sofa, holding a steaming coffee cup",
+     "texto_en_pantalla": "Razón 1: sueño cortado"
+    },
+    {
+     "texto": "Imagina que ves una película y alguien le da pausa y play veinte veces. No pierdes la historia, pero terminas agotado. Tu cuerpo hace lo mismo: sigues dormido, sí, pero nunca llegas al sueño profundo donde realmente te recargas.",
+     "emocion": "sereno",
+     "objeto": "control remoto de TV",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points at a TV remote on the coffee table, calm expression, living room",
+     "texto_en_pantalla": "Pausa, play, pausa, play"
+    },
+    {
+     "texto": "¿Quién provoca esos cortes? Empecemos por el sospechoso número uno: la pantalla. Ese último vistazo al celular en la cama le dice a tu cerebro que aún es de día. Tú te acuestas, pero tu reloj interno sigue en horario de oficina.",
+     "emocion": "ira",
+     "objeto": "celular con luz brillante",
+     "pose": "senalando",
+     "prompt_visual": "Germancho squints at a glowing smartphone while sitting on the sofa at night, mildly annoyed",
+     "texto_en_pantalla": "Sospechoso 1: la pantalla"
+    },
+    {
+     "texto": "Sospechoso dos: la luz y el ruido. Una lucecita del cargador, la calle que se cuela por la cortina, el vecino con su música. Tú dices que ya te acostumbraste, pero tu cerebro sigue vigilando y se asoma cada rato a revisar si hay peligro.",
+     "emocion": "miedo",
+     "objeto": "cortina entreabierta con luz de la calle",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches peeking through a curtain at street light, worried face, dim living room",
+     "texto_en_pantalla": "Luz y ruido: tu cerebro vigila"
+    },
+    {
+     "texto": "Sospechoso tres, el más simpático: el traguito de la noche. El alcohol te ayuda a caer rápido, pero suele fragmentar el sueño más tarde. Es como pedir un café a las diez de la noche: te acompaña un rato y luego te cobra la cuenta.",
+     "emocion": "asco",
+     "objeto": "copa de vino junto a una taza de café",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a stool with a wine glass and a coffee cup side by side, comparing them with a wry look",
+     "texto_en_pantalla": "El traguito: cae rápido, cobra después"
+    },
+    {
+     "texto": "Vamos con dos acciones. Primera: apaga las pantallas una hora antes de dormir. Segunda: baja las luces de la casa esa misma hora, con lámparas cálidas o solo la de la mesita. Si aun así el cansancio no se va, consulta a un profesional.",
+     "emocion": "alegria",
+     "objeto": "lámpara cálida y celular apagado",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a sign listing two items, a warm lamp glowing beside him and a phone turned off",
+     "texto_en_pantalla": "1. Pantallas off 2. Luces bajas"
+    },
+    {
+     "texto": "Pero ojo: aunque tu sueño no se corte, hay otra razón que casi nadie revisa, y empieza antes de que te metas a la cama. La razón dos te va a sonar muy familiar. Quédate, que ya te la sirvo.",
+     "emocion": "sereno",
+     "objeto": "taza de café con una nota que dice 2",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho opens his arms welcomingly in the living room, holding a mug with a number 2 note, warm smile",
+     "texto_en_pantalla": "Razón 2, ya mismo"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Razón 2: La taza y el plato que te acompañan a la cama",
+   "ambiente": "cocina",
+   "palabras": 350,
+   "objetivo": "Mini-gancho: 'Ese café de las 4 p. m. sigue despierto en tu cuerpo a las 10'. Cafeína tardía y cenas pesadas o tardías que fragmentan el sueño. Dar horario de corte de cafeína y cena ligera con margen antes de acostarse, sin absolutos. Cerrar con pregunta que lleve a la razón 3.",
+   "idea_clave": "Lo que comes y tomas, duerme contigo",
+   "escenas": [
+    {
+     "texto": "Ese café de las 4 p. m. sigue despierto en tu cuerpo a las 10. Sí, aunque tú ya lo hayas olvidado. La taza se enfrió en el lavaplatos, pero su efecto no se enfrió. Bienvenido a la razón dos: la taza y el plato que te acompañan a la cama.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café fría en el lavaplatos",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho jumps back in surprise in a cozy kitchen, pointing at a cold coffee mug in the sink, wall clock showing 10 pm",
+     "texto_en_pantalla": "Razón 2: taza y plato"
+    },
+    {
+     "texto": "La cafeína no se apaga como una luz. Tu cuerpo la va soltando poco a poco, y en muchas personas buena parte sigue circulando varias horas después. Puedes quedarte dormido igual, claro. Pero el sueño se vuelve liviano, con despertares que ni recuerdas. Es como dormir con la tele bajita.",
+     "emocion": "sereno",
+     "objeto": "reloj de cocina y taza humeante",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points at a kitchen clock while a steaming cup sits on the counter, soft warm light, gentle explanatory mood",
+     "texto_en_pantalla": "La cafeína no se apaga sola"
+    },
+    {
+     "texto": "Entonces, un horario de corte. Guía simple: último café unas ocho horas antes de acostarte. Si duermes a las 10 de la noche, hasta las 2 de la tarde. ¿Te cuesta? Cambia el de la tarde por agua o una infusión sin cafeína. Cada cuerpo es distinto: prueba y observa.",
+     "emocion": "alegria",
+     "objeto": "letrero con la hora 2 p. m.",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a small sign reading 2 PM next to a coffee maker, smiling, kitchen background with herbal tea box",
+     "texto_en_pantalla": "Último café: 8 horas antes"
+    },
+    {
+     "texto": "La señal de esta razón: te acuestas cansado, pero con la mente prendida. Das vueltas, duermes a ratos y despiertas con el corazón medio acelerado. Tu cuerpo te dice que todavía estaba trabajando cuando debía apagar motores. Y ojo, no es solo el café: el plato también tiene voz.",
+     "emocion": "tristeza",
+     "objeto": "cuaderno con la nota: dormí a ratos",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a kitchen stool surrounded by several mugs, tired look, a notebook open in front of him",
+     "texto_en_pantalla": "Cansado, pero con la mente prendida"
+    },
+    {
+     "texto": "Hablemos de la cena. Esa pizza a las 11 de la noche, con gaseosa y postre, pone a tu cuerpo a digerir cuando debería descansar. Calor, acidez, sueño cortado en pedacitos. No es un pecado. Es solo mala hora para una comida grande.",
+     "emocion": "asco",
+     "objeto": "caja de pizza abierta y gaseosa",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches in front of an open fridge at night, holding a pizza box and soda, guilty funny expression, dim kitchen light",
+     "texto_en_pantalla": "Cena pesada = sueño partido"
+    },
+    {
+     "texto": "Prueba esto: cena más ligera y con margen, unas dos o tres horas antes de acostarte. Algo simple, como sopa, huevos o verduras con un poco de proteína. Si te da hambre después, una fruta basta. Y si tienes reflujo u otra condición, consulta con un profesional de la salud.",
+     "emocion": "sereno",
+     "objeto": "plato con sopa y verduras",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho opens his arms beside a table with a light dinner of soup and vegetables, warm evening kitchen light, calm smile",
+     "texto_en_pantalla": "Cena ligera, 2-3 horas antes"
+    },
+    {
+     "texto": "Hazlo fácil: pega una nota en la nevera con dos horas, la del último café y la de la cena. Dos números, nada más. Tu yo de las 9 de la noche te lo va a agradecer. Pero todavía queda algo. ¿Y si lo que te roba el sueño no lo tomas ni lo comes, sino que lo cargas contigo a la cama?",
+     "emocion": "sorpresa",
+     "objeto": "nota adhesiva en la nevera",
+     "pose": "cambio",
+     "prompt_visual": "Germancho sticks a note on the fridge door, then turns to the camera with a raised eyebrow and curious look, kitchen at dusk",
+     "texto_en_pantalla": "¿Qué cargas a la cama?"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Razón 3: Respirar mal mientras duermes",
+   "ambiente": "dormitorio",
+   "palabras": 350,
+   "objetivo": "Mini-gancho: 'Si alguien te dice que roncas, esta parte es para ti'. Ronquido, pausas al respirar y posible apnea del sueño, con tono tranquilo y sin alarmismo. Señales: boca seca, dolor de cabeza al despertar, somnolencia de día. Recomendar consultar a un profesional si se repiten. Cerrar con el anzuelo: 'la siguiente es la que casi nadie revisa'.",
+   "idea_clave": "Roncar mucho merece una consulta",
+   "escenas": [
+    {
+     "texto": "Si alguien te dice que roncas, esta parte es para ti. Razón 3: respirar mal mientras duermes. Y tranquilo, no vengo a asustarte. Vengo a que mires algo que tu cuerpo lleva tiempo intentando contarte mientras tú duermes y no te enteras.",
+     "emocion": "sereno",
+     "objeto": "taza de café en la mesita de noche",
+     "pose": "senalando",
+     "prompt_visual": "Germancho sits on the edge of a cozy bedroom bed, pointing at the viewer with a calm smile, warm lamp light, coffee cup on nightstand",
+     "texto_en_pantalla": "Razón 3: respirar mal"
+    },
+    {
+     "texto": "Roncar es el sonido del aire abriéndose paso. A veces es solo congestión, cansancio o mala postura. Otras veces la garganta se estrecha tanto que el aire casi no pasa. Imagina tomar jugo espeso con una pajilla medio aplastada. Así de cuesta arriba puede ser respirar.",
+     "emocion": "sereno",
+     "objeto": "pajilla aplastada en un vaso de jugo",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho holds a glass of thick juice with a pinched straw, bedroom background, curious expression, cartoon style",
+     "texto_en_pantalla": "El aire busca camino"
+    },
+    {
+     "texto": "Hay otro detalle. Algunas personas hacen pausas al respirar: ronquido, silencio, resoplido. Tú no lo recuerdas, pero tu cerebro sí reacciona y te saca del sueño profundo para que vuelvas a respirar. Esto puede pasar con lo que llaman apnea del sueño. Y se repite toda la noche.",
+     "emocion": "sorpresa",
+     "objeto": "almohada y reloj despertador",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho lying in bed with eyes closed, small sound wave lines above him that pause and restart, night bedroom, soft blue light",
+     "texto_en_pantalla": "Ronquido, pausa, resoplido"
+    },
+    {
+     "texto": "¿Y cómo se ve eso de día? Primera señal: boca seca al despertar. Segunda: dolor de cabeza en la mañana, de esos que llegan antes del primer café. Tercera: sueño a deshoras, en una reunión, en el semáforo, en medio de una conversación.",
+     "emocion": "sereno",
+     "objeto": "cuaderno con tres señales anotadas",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a sign listing three small icons: dry mouth, headache, sleepy face, bedroom morning light",
+     "texto_en_pantalla": "Boca seca, cabeza, sueño"
+    },
+    {
+     "texto": "Ojo: esto no es un diagnóstico y yo soy barista del ser, no médico. Un ronquido suelto no es motivo de alarma. Pero si estas señales se repiten durante semanas, o alguien nota que haces pausas al respirar, consulta con un profesional de salud. Vale la pena revisar esa taza.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms and a reassuring smile, holding a coffee cup, cozy bedroom, soft warm tones",
+     "texto_en_pantalla": "Si se repite, consulta"
+    },
+    {
+     "texto": "Mientras tanto, observa sin juzgarte. Pídele a quien duerme cerca que te cuente cómo suenas, o deja un audio grabando en el celular esta noche. A algunas personas dormir de lado les ayuda. Solo mira el fondo de la taza, sin culpa y sin drama.",
+     "emocion": "alegria",
+     "objeto": "celular grabando sobre la mesita",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching beside the bed placing a smartphone on the nightstand with a recording icon, friendly smile, dim bedroom",
+     "texto_en_pantalla": "Graba un audio esta noche"
+    },
+    {
+     "texto": "Con esta ya van tres razones, y quedan dos. La siguiente es la que casi nadie revisa. Y cuando la veas, vas a pensar: cómo no me di cuenta antes. Quédate, que enseguida la destapamos.",
+     "emocion": "sorpresa",
+     "objeto": "cortina entreabierta",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho jumping with a playful surprised face, one hand pulling back a bedroom curtain to reveal a mysterious glow, cartoon style",
+     "texto_en_pantalla": "La siguiente casi nadie la revisa"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Razón 4: La que casi nadie revisa, tus horarios",
+   "ambiente": "oficina",
+   "palabras": 350,
+   "objetivo": "Mini-gancho: 'Cierra el bucle: es tu reloj interno, y lo desajustas cada fin de semana'. Explicar el jet lag social (acostarse y levantarse a horas distintas) con ejemplo de semana laboral contra fin de semana. Acción concreta: fijar una hora de acostarse y mantenerla 3 noches. Conectar con el reto final.",
+   "idea_clave": "Tu reloj interno ama la rutina",
+   "escenas": [
+    {
+     "texto": "¿Te acuerdas de la razón que dejé guardada? Aquí está. No es el café ni la pantalla. Es tu reloj interno, y lo desajustas cada fin de semana. Sí, tú, con esa idea inocente de que el sábado me desquito. Razón 4: tus horarios.",
+     "emocion": "sorpresa",
+     "objeto": "reloj de pared de oficina",
+     "pose": "senalando",
+     "prompt_visual": "Germancho in a bright office points at a big wall clock with a playful smug look, coffee mug in the other hand",
+     "texto_en_pantalla": "Razón 4: tus horarios"
+    },
+    {
+     "texto": "Piensa en tu cuerpo como una oficina con un reloj en la pared. Ese reloj le avisa a todo el edificio cuándo dar sueño, cuándo dar hambre, cuándo despertar. Funciona mejor cuando las horas son predecibles. Si cada día cambias la hora de apertura, el edificio no sabe a qué atenerse.",
+     "emocion": "sereno",
+     "objeto": "llavero con llaves de la oficina",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho stands with open arms in front of an office building cutaway, tiny clock on every desk, calm friendly mood",
+     "texto_en_pantalla": "Tu cuerpo es una oficina"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Razón 5: Lo que el cuerpo y la mente cargan",
+   "ambiente": "consultorio",
+   "palabras": 360,
+   "objetivo": "Mini-gancho: 'A veces el problema no está en la cama, está en un análisis pendiente'. Estrés y ansiedad sostenidos, y posibles causas médicas como anemia, tiroides o falta de vitamina D, siempre como 'posibles causas' y sin diagnosticar. Sugerir hablar con un profesional de salud y llevar un registro del sueño. Cerrar con respiro de alivio: tener nombre para lo que pasa ya es un avance.",
+   "idea_clave": "Si persiste, consulta a un profesional",
+   "escenas": [
+    {
+     "texto": "A veces el problema no está en la cama. Está en un análisis pendiente. Sí, ese sobre que sigue en el cajón. Razón cinco: lo que el cuerpo y la mente cargan. Y tranquilo, no vengo a asustarte. Vengo a que mires donde casi nadie mira.",
+     "emocion": "sorpresa",
+     "objeto": "sobre de examen médico sobre el escritorio",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho in a cozy doctor's office jumps back in surprise, pointing at a sealed medical envelope on a desk",
+     "texto_en_pantalla": "Un análisis pendiente"
+    },
+    {
+     "texto": "Primero, la mente. Cuando el estrés o la ansiedad se quedan semanas, el cuerpo duerme con un ojo abierto. Es como dejar la cafetera encendida toda la noche: nadie la ve, pero gasta. Duermes las horas, pero no sueltas. Despiertas cansado, con la cabeza trabajando antes del primer café.",
+     "emocion": "sereno",
+     "objeto": "cafetera encendida",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points at a glowing coffee maker left on at night, calm expression, warm clinic-like room",
+     "texto_en_pantalla": "Estrés sostenido"
+    },
+    {
+     "texto": "Ahora, el cuerpo. Hay posibles causas médicas que también cansan: anemia, tiroides, poca vitamina D. Fíjate que dije posibles. Yo no diagnostico, soy barista del ser, no tu médico. Solo te cuento que un cansancio que no se va a veces tiene una explicación que se ve en un examen.",
+     "emocion": "sereno",
+     "objeto": "cartel con tres gotas y una mariposa de tiroides",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a simple sign listing three words, standing beside an exam table in a friendly consultation room",
+     "texto_en_pantalla": "Posibles causas, no diagnóstico"
+    },
+    {
+     "texto": "Entonces, dos cosas. Una: habla con un profesional de salud y pregunta qué chequeos te convienen. Dos: durante una semana lleva un registro del sueño en tu cuaderno. A qué hora te acostaste, cómo despertaste, cómo te sentiste de día. Ese es el mejor dato para llevar al consultorio.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y lapicero",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches at a low table writing in a notebook, sleep log with moon and sun icons, doctor's office background",
+     "texto_en_pantalla": "Habla con un profesional"
+    },
+    {
+     "texto": "Respira. Tener nombre para lo que te pasa ya es un avance. Pasas de pensar estoy dañado a pensar tengo algo que revisar. Y eso se parece mucho más a una taza que se puede volver a llenar que a una taza rota.",
+     "emocion": "sereno",
+     "objeto": "taza humeante",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho opens his arms with a relieved smile, holding a steaming cup, soft light in the consultation room",
+     "texto_en_pantalla": "Ponerle nombre ya es avanzar"
+    },
+    {
+     "texto": "Resumen en tres sorbos. Uno: pantallas, luz, cafeína y cenas pesadas fragmentan tu sueño. Dos: respirar mal al dormir también lo corta. Tres: el estrés y el cuerpo pueden cargar un cansancio que merece una revisión con un profesional. No es una sola razón, es un menú.",
+     "emocion": "alegria",
+     "objeto": "tres tazas en fila",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a stool with three coffee cups lined up on a counter, lifting one finger per point",
+     "texto_en_pantalla": "3 sorbos para recordar"
+    },
+    {
+     "texto": "Reto de hoy, menos de cinco minutos: elige ahora una hora fija para acostarte esta noche y programa una alarma de ir a la cama 30 minutos antes en tu celular. Mañana comenta con un número del 1 al 5 qué razón crees que te tocó a ti.",
+     "emocion": "alegria",
+     "objeto": "celular con alarma",
+     "pose": "senalando",
+     "prompt_visual": "Germancho smiling, pointing at a phone showing a bedtime alarm, cozy warm background",
+     "texto_en_pantalla": "Reto de hoy: alarma de ir a la cama"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Cierre: Resumen, Reto de hoy y Carta 2",
+   "ambiente": "cafeteria",
+   "palabras": 130,
+   "objetivo": "Resumir las 5 razones en una frase cada una, dar el Reto de hoy (misma hora de acostarse esta noche), pedir comentario con el número (1-5) de la razón que le tocó, invitar a seguir la serie y hacer el teaser de la carta 2: algo que el cuerpo grita cada tarde.",
+   "idea_clave": "Prueba UNA razón esta noche",
+   "escenas": [
+    {
+     "texto": "Vamos cerrando el café. Uno: luz, ruido y alcohol en tu cuarto. Dos: cafeína tarde y cenas pesadas. Tres: respirar mal mientras duermes. Cuatro: estrés y ansiedad que no sueltas. Cinco: causas médicas por revisar con un profesional. Cinco razones, una taza.",
+     "emocion": "sereno",
+     "objeto": "taza de café con cinco tapas numeradas",
+     "pose": "letrero",
+     "prompt_visual": "Germancho behind a cafe counter holding a small sign, five numbered coffee cups lined up in front of him, warm cozy light, calm smile",
+     "texto_en_pantalla": "Las 5 razones, resumidas"
+    },
+    {
+     "texto": "Reto de hoy, menos de cinco minutos. Elige ahora una hora fija para acostarte esta noche y programa una alarma de 'ir a la cama' 30 minutos antes en tu celular. Mañana comenta con un número del 1 al 5 qué razón crees que te tocó a ti.",
+     "emocion": "alegria",
+     "objeto": "celular con alarma y cuaderno",
+     "pose": "senalando",
+     "prompt_visual": "Germancho pointing at a smartphone showing an alarm on a cafe table next to an open notebook, friendly encouraging expression",
+     "texto_en_pantalla": "Reto de hoy: misma hora"
+    },
+    {
+     "texto": "Si te sirvió, sigue la serie, que esto apenas empieza. Y ojo con la carta 2: hay algo que tu cuerpo grita cada tarde, y casi nunca lo escuchamos. Nos vemos en la próxima taza. Mientras tanto, a dormir con horario.",
+     "emocion": "sorpresa",
+     "objeto": "carta cerrada junto a una taza humeante",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waving at the camera with a sealed envelope labeled 2 beside a steaming cup, mysterious playful look, cafe background",
+     "texto_en_pantalla": "Carta 2: lo que grita tu cuerpo"
+    }
+   ]
+  }
+ ],
+ "reto_de_hoy": "Elige ahora una hora fija para acostarte esta noche y programa una alarma de 'ir a la cama' 30 minutos antes en tu celular. Mañana comenta con un número del 1 al 5 qué razón crees que te tocó a ti.",
+ "palabras": 1615
+}

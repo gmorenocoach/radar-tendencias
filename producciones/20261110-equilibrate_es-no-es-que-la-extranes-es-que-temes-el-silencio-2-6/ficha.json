@@ -1,0 +1,50 @@
+{
+ "fuente": {
+  "tema": "No es que lo ames, es que le temes. Gancho: A veces lo que llamas amor es pánico a quedarte con tu propio silencio. Ojo con esto.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 2"
+ },
+ "adn": {
+  "tema_central": "Confundir amor con miedo a la soledad: cuando la dependencia emocional se disfraza de amor porque estar contigo mismo se siente insoportable. Capítulo 2 de la serie 'La Taza Derramada: 6 capítulos para amar sin perderte'.",
+  "promesa_del_titulo": "Descubrirás en menos de 60 segundos si lo que sientes por esa persona es amor real o pánico a quedarte a solas con tu propio silencio.",
+  "gancho_primeros_segundos": "\"No es que lo ames. Es que le temes... a tu propio silencio.\" (0-3 s: texto grande en pantalla + frase directa a cámara, sin saludo ni presentación). Seguido de: \"Y casi nadie te lo dice así.\"",
+  "tipo_de_gancho": "Contradicción + verdad incómoda (negación de la creencia del espectador, seguida de un giro que revela la causa real). Refuerzo con curiosidad: 'ojo con esto'.",
+  "estructura": [
+   "0-3 s | Gancho: 'No es que lo ames, es que le temes.' (contradicción)",
+   "3-10 s | Giro: 'A veces lo que llamas amor es pánico a quedarte con tu propio silencio.' (el centro de la tesis)",
+   "10-35 s | Lista corta de 3 señales: 1) Te angustias más cuando no responde que cuando te trata mal. 2) Llenas cada hueco libre con su presencia o su chat. 3) Imaginar la relación terminada te da miedo a ti, no tristeza por él/ella.",
+   "35-48 s | Reencuadre: 'Amar es elegir. Temer es huir. La taza no se llena con otra persona: primero se deja de derramar.' (conecta con la metáfora de la serie)",
+   "48-55 s | Reto: 'Esta noche, 10 minutos sin pantalla ni mensajes. Observa qué sientes.'",
+   "55-60 s | Cierre y puente: 'Comenta SILENCIO si te pasó. Capítulo 3 mañana.'"
+  ],
+  "ritmo": "Rápido y limpio: frases de 4-8 palabras, corte o zoom cada 2-3 segundos, subtítulos dinámicos con la palabra clave resaltada, una pausa breve de 0,5 s antes del giro central y otra antes del reto. Duración objetivo 45-58 s, con final que invite a rever el loop.",
+  "tono": "Íntimo, directo y compasivo; como un amigo lúcido que dice la verdad sin juzgar. Sin tecnicismos ni sermón. Voz cercana, calmada y firme.",
+  "cta_final": "Reto + comentario + serie: 'Esta noche, 10 minutos en silencio contigo. Mañana cuéntame en comentarios qué apareció. Escribe SILENCIO si te identificaste y sigue la serie: el capítulo 3 de La Taza Derramada llega pronto.'",
+  "formula_del_titulo": "No es que [emoción positiva socialmente aceptada], es que [verdad incómoda] + [elemento de curiosidad o serie]",
+  "titulo_con_numero": "3 señales de que no es amor, es miedo a estar solo/a (La Taza Derramada 2/6)",
+  "palabras_clave": [
+   "no es amor",
+   "miedo a la soledad",
+   "dependencia emocional",
+   "amor propio",
+   "silencio",
+   "amar sin perderte",
+   "relaciones tóxicas",
+   "apego ansioso",
+   "La Taza Derramada",
+   "psicología del amor"
+  ],
+  "emocion_dominante": "Reconocimiento incómodo (el 'me están leyendo la mente'), mezclado con alivio y esperanza al ofrecer una salida concreta.",
+  "formula_miniatura": "Primer plano de rostro serio o pensativo a un lado, mirada a cámara; al otro lado una taza derramándose (símbolo de la serie). Texto máximo 3-4 palabras en grande: 'NO ES AMOR' con 'ES MIEDO' en color de contraste (rojo/amarillo) sobre fondo oscuro. Insignia pequeña '2/6' para la serie. Alto contraste, sin saturar elementos.",
+  "por_que_funciona": "Niega una creencia profundamente emocional en la primera frase, lo que provoca disonancia y obliga a seguir viendo para resolverla. La verdad es personal y universal, así que el espectador se autodiagnostica y comenta. La lista de 3 señales aporta valor rápido y comprobable; el reto final da una acción concreta que impulsa comentarios; la serie numerada crea expectativa, suscripción y visualizaciones de otros capítulos. La metáfora de la taza hace el mensaje memorable y reconocible como marca.",
+  "riesgos_a_evitar": [
+   "Empezar con saludo, logo o presentación: se pierde el gancho en los primeros 2 segundos.",
+   "Diagnosticar o sonar como terapeuta: evita afirmaciones clínicas absolutas; usa 'a veces' y 'puede ser'.",
+   "Culpar o ridiculizar al espectador; mantener empatía.",
+   "Generalizar que todo amor es miedo: matiza para no perder credibilidad.",
+   "Más de 3 puntos o jerga psicológica que alargue y enfríe el ritmo.",
+   "Prometer curar la dependencia emocional en un minuto.",
+   "Ignorar contexto de violencia o abuso: añadir, si procede, sugerir apoyo profesional.",
+   "Cierre sin reto ni puente al capítulo 3, que rompe la continuidad de la serie.",
+   "Subtítulos pequeños, poco contraste o música que tape la voz."
+  ]
+ }
+}

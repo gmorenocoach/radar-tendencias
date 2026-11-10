@@ -773,10 +773,10 @@
    "subtema": "Patrones afectivos que se repiten: elegir a la misma persona con distinta cara, heridas de infancia y lo que aprendimos que era amar. Cierre: ¿de quién aprendiste a pelear?",
    "referencia_video_id": "VaEtQ9UIGqU",
    "minutos": 15,
-   "estado": "error",
-   "produccion_id": "",
-   "resultado": "error: RuntimeError: JSON inválido de Claude: Expecting value: line 1 column 1 (char 0)",
-   "producido_en": "2026-11-09T20:11:06"
+   "estado": "producido",
+   "produccion_id": "20261110-equilibrate_es-largo-lo-que-atraes-en-el-amor-te-delata-jung-",
+   "resultado": "ok 1381s",
+   "producido_en": "2026-11-10T11:26:52"
   },
   {
    "id": "equilibrate_es-20261111-S",
@@ -805,7 +805,10 @@
    "titulo": "No es que lo ames, es que le temes",
    "gancho": "A veces lo que llamas amor es pánico a quedarte con tu propio silencio. Ojo con esto.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261110-equilibrate_es-no-es-que-la-extranes-es-que-temes-el-silencio-2-6",
+   "resultado": "ok 192s",
+   "producido_en": "2026-11-10T11:33:40"
   },
   {
    "id": "equilibrate_es-20261112-V",

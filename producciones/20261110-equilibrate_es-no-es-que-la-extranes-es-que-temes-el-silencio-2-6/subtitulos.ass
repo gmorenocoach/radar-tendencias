@@ -1,0 +1,59 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.08,Sub,,0,0,0,,{\k27}NO {\k70}EXTRAÑAS {\k12}A
+Dialogue: 0,0:00:01.08,0:00:02.91,Sub,,0,0,0,,{\k25}ESA {\k74}PERSONA. {\k84}EXTRAÑAS
+Dialogue: 0,0:00:02.91,0:00:03.96,Sub,,0,0,0,,{\k13}EL {\k79}RUIDO. {\k13}A
+Dialogue: 0,0:00:03.96,0:00:04.59,Sub,,0,0,0,,{\k40}VECES {\k13}LO {\k11}QUE
+Dialogue: 0,0:00:04.59,0:00:05.47,Sub,,0,0,0,,{\k37}LLAMAS {\k34}AMOR {\k17}ES
+Dialogue: 0,0:00:05.47,0:00:06.42,Sub,,0,0,0,,{\k41}MIEDO {\k7}A {\k48}QUEDARTE
+Dialogue: 0,0:00:06.42,0:00:07.09,Sub,,0,0,0,,{\k9}A {\k38}SOLAS {\k20}CON
+Dialogue: 0,0:00:07.09,0:00:08.07,Sub,,0,0,0,,{\k17}TU {\k44}PROPIA {\k36}TAZA
+Dialogue: 0,0:00:08.07,0:00:09.71,Sub,,0,0,0,,{\k99}VACÍA. {\k43}OJO {\k22}CON
+Dialogue: 0,0:00:09.71,0:00:11.85,Sub,,0,0,0,,{\k96}ESTO. {\k69}UNO: {\k50}REVISAS
+Dialogue: 0,0:00:11.85,0:00:12.97,Sub,,0,0,0,,{\k10}EL {\k79}CELULAR, {\k22}NO
+Dialogue: 0,0:00:12.97,0:00:13.56,Sub,,0,0,0,,{\k21}POR {\k30}GANAS {\k8}DE
+Dialogue: 0,0:00:13.56,0:00:14.65,Sub,,0,0,0,,{\k54}HABLAR, {\k32}SINO {\k23}PARA
+Dialogue: 0,0:00:14.65,0:00:15.72,Sub,,0,0,0,,{\k12}QUE {\k15}EL {\k80}SILENCIO
+Dialogue: 0,0:00:15.72,0:00:17.12,Sub,,0,0,0,,{\k27}NO {\k12}TE {\k102}ALCANCE.
+Dialogue: 0,0:00:17.12,0:00:18.33,Sub,,0,0,0,,{\k81}DOS: {\k22}SI {\k17}TE
+Dialogue: 0,0:00:18.33,0:00:19.80,Sub,,0,0,0,,{\k38}QUEDAS {\k42}LIBRE, {\k66}ENSEGUIDA
+Dialogue: 0,0:00:19.80,0:00:21.22,Sub,,0,0,0,,{\k52}INVENTAS {\k48}PLAN, {\k43}CHAT
+Dialogue: 0,0:00:21.22,0:00:22.25,Sub,,0,0,0,,{\k11}O {\k74}DRAMA. {\k17}LO
+Dialogue: 0,0:00:22.25,0:00:22.94,Sub,,0,0,0,,{\k15}QUE {\k32}SEA {\k22}CON
+Dialogue: 0,0:00:22.94,0:00:23.60,Sub,,0,0,0,,{\k25}TAL {\k20}DE {\k21}NO
+Dialogue: 0,0:00:23.60,0:00:26.08,Sub,,0,0,0,,{\k106}ESCUCHARTE. {\k82}TRES: {\k59}IMAGINAR
+Dialogue: 0,0:00:26.08,0:00:26.76,Sub,,0,0,0,,{\k14}QUE {\k13}SE {\k42}ACABA
+Dialogue: 0,0:00:26.76,0:00:27.62,Sub,,0,0,0,,{\k14}TE {\k20}DA {\k52}PÁNICO
+Dialogue: 0,0:00:27.62,0:00:28.56,Sub,,0,0,0,,{\k11}A {\k61}TI, {\k22}MÁS
+Dialogue: 0,0:00:28.56,0:00:29.51,Sub,,0,0,0,,{\k13}QUE {\k63}TRISTEZA {\k20}POR
+Dialogue: 0,0:00:29.51,0:00:31.14,Sub,,0,0,0,,{\k21}ESA {\k92}PERSONA. {\k50}AMAR
+Dialogue: 0,0:00:31.14,0:00:32.71,Sub,,0,0,0,,{\k14}ES {\k87}ELEGIR. {\k56}TEMER
+Dialogue: 0,0:00:32.71,0:00:34.17,Sub,,0,0,0,,{\k22}ES {\k107}AGARRARSE. {\k17}Y
+Dialogue: 0,0:00:34.17,0:00:34.89,Sub,,0,0,0,,{\k14}LA {\k39}TAZA {\k19}NO
+Dialogue: 0,0:00:34.89,0:00:35.56,Sub,,0,0,0,,{\k13}SE {\k34}LLENA {\k21}CON
+Dialogue: 0,0:00:35.56,0:00:37.02,Sub,,0,0,0,,{\k34}ALGUIEN {\k63}MÁS: {\k50}PRIMERO
+Dialogue: 0,0:00:37.02,0:00:37.91,Sub,,0,0,0,,{\k38}MIRAS {\k19}POR {\k31}DÓNDE
+Dialogue: 0,0:00:37.91,0:00:39.20,Sub,,0,0,0,,{\k14}SE {\k92}DERRAMA. {\k23}SI
+Dialogue: 0,0:00:39.20,0:00:40.45,Sub,,0,0,0,,{\k15}HAY {\k65}MALTRATO, {\k45}BUSCA
+Dialogue: 0,0:00:40.45,0:00:42.50,Sub,,0,0,0,,{\k42}APOYO {\k124}PROFESIONAL. {\k39}RETO
+Dialogue: 0,0:00:42.50,0:00:43.53,Sub,,0,0,0,,{\k12}DE {\k56}HOY: {\k35}TRES
+Dialogue: 0,0:00:43.53,0:00:45.43,Sub,,0,0,0,,{\k77}MINUTOS, {\k35}SIN {\k79}PANTALLA,
+Dialogue: 0,0:00:45.43,0:00:46.23,Sub,,0,0,0,,{\k24}CON {\k20}TU {\k36}TAZA
+Dialogue: 0,0:00:46.23,0:00:47.16,Sub,,0,0,0,,{\k13}EN {\k13}LA {\k67}MANO.
+Dialogue: 0,0:00:47.16,0:00:48.84,Sub,,0,0,0,,{\k58}ANOTA {\k16}QUÉ {\k94}SIENTES.
+Dialogue: 0,0:00:48.84,0:00:50.21,Sub,,0,0,0,,{\k63}COMENTA {\k60}SILENCIO {\k14}SI
+Dialogue: 0,0:00:50.21,0:00:51.47,Sub,,0,0,0,,{\k13}TE {\k93}PASÓ. {\k20}EL
+Dialogue: 0,0:00:51.47,0:00:52.95,Sub,,0,0,0,,{\k38}VIDEO {\k64}COMPLETO {\k47}ESTÁ
+Dialogue: 0,0:00:52.95,0:00:54.09,Sub,,0,0,0,,{\k14}EN {\k13}EL {\k87}CANAL.
+Dialogue: 0,0:00:54.09,0:00:56.39,Sub,,0,0,0,,{\k115}SUSCRÍBETE: {\k67}MAÑANA {\k48}LLEGA
+Dialogue: 0,0:00:56.39,0:00:57.77,Sub,,0,0,0,,{\k13}EL {\k63}CAPÍTULO {\k63}3.

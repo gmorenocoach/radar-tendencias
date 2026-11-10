@@ -1,0 +1,52 @@
+{
+ "fuente": {
+  "tema": "Duermes 8 horas y despiertas cansado: 5 razones que nadie ve. Serie: Las 6 cartas que tu cuerpo lleva meses mandándote, capítulo 1"
+ },
+ "adn": {
+  "tema_central": "Dormir las horas recomendadas no garantiza descansar: existen factores ocultos (calidad del sueño, hábitos y salud) que explican por qué te despiertas agotado. Capítulo 1 de la serie 'Las 6 cartas que tu cuerpo lleva meses mandándote'.",
+  "promesa_del_titulo": "Descubrirás en menos de 60 segundos 5 razones concretas y poco conocidas por las que despiertas cansado aunque duermas 8 horas, y qué señal te está mandando tu cuerpo.",
+  "gancho_primeros_segundos": "\"Dormiste 8 horas… y aun así te despiertas como si te hubiera atropellado un camión. Tu cuerpo te está mandando una carta, y llevas meses sin abrirla.\" (0-3 s, con corte rápido y texto grande en pantalla: '8 HORAS ≠ DESCANSO').",
+  "tipo_de_gancho": "Contradicción + curiosidad (brecha de información) con metáfora de serie ('la carta' del cuerpo).",
+  "estructura": [
+   "0-3 s: Gancho de contradicción (8 horas y cansado) + mención de la carta 1 de 6.",
+   "3-8 s: Promesa rápida: 'Son 5 razones y la número 4 casi nadie la revisa'.",
+   "8-18 s: Razón 1: Sueño fragmentado por microdespertares (ruido, luz, pantalla, alcohol).",
+   "18-26 s: Razón 2: Cenar tarde o pesado / cafeína que sigue en tu cuerpo por la tarde.",
+   "26-34 s: Razón 3: Respirar mal al dormir (ronquido, posible apnea del sueño).",
+   "34-42 s: Razón 4: Horarios irregulares: te acuestas y levantas a horas distintas (jet lag social).",
+   "42-50 s: Razón 5: Causas médicas o de estrés no atendidas (anemia, tiroides, déficit de vitamina D, ansiedad).",
+   "50-58 s: Cierre con reto: 'Esta noche prueba UNA sola: misma hora de acostarte. Cuéntame en comentarios cuál te tocó'.",
+   "58-60 s: Teaser de la carta 2 para generar retención de serie y loop."
+  ],
+  "ritmo": "Rápido: cortes cada 2-3 segundos, texto en pantalla sincronizado con cada número, zooms suaves, efectos de sonido breves al cambiar de razón. Sin pausas muertas. Duración ideal 45-58 s para facilitar el loop.",
+  "tono": "Cercano, directo y empático, con un toque de misterio ligero por la metáfora de las cartas; autoridad sin alarmismo, lenguaje cotidiano y sin tecnicismos.",
+  "cta_final": "Reto + serie: 'Esta noche prueba solo UNA de estas 5 correcciones y mañana cuéntame cuál fue. Sígueme: la carta 2 trata de algo que tu cuerpo te grita cada tarde'. Pedir comentario con número (1-5) para impulsar interacción.",
+  "formula_del_titulo": "[Situación aparentemente buena] + [resultado contradictorio] + [número de razones] + [adjetivo de misterio: 'que nadie ve'] + [marca de serie]",
+  "titulo_con_numero": "Duermes 8 horas y despiertas cansado: 5 razones que nadie ve (Carta 1/6)",
+  "palabras_clave": [
+   "dormir 8 horas y estar cansado",
+   "por qué me despierto cansado",
+   "cansancio al despertar",
+   "calidad del sueño",
+   "apnea del sueño",
+   "mejorar el descanso",
+   "sueño reparador",
+   "hábitos de sueño",
+   "fatiga crónica",
+   "señales del cuerpo"
+  ],
+  "emocion_dominante": "Curiosidad con identificación (\"me pasa a mí\") y un punto de alivio al recibir una explicación.",
+  "formula_miniatura": "Primer plano de una persona con ojeras y expresión agotada junto a un reloj o despertador marcando 8:00; texto grande de 2-3 palabras: '8 HORAS Y CANSADO'; un sobre/carta con sello rojo como elemento de serie y numeración '1/6'; alto contraste, fondo oscuro azulado con acentos amarillos.",
+  "por_que_funciona": "Parte de una contradicción que casi todos han vivido, lo que genera identificación inmediata. La lista corta de 5 razones promete valor claro y mantiene la retención al anticipar el siguiente punto. La metáfora de las cartas convierte el contenido en serie, incentivando seguir el canal y ver los capítulos siguientes. El reto final impulsa comentarios y el cierre con teaser favorece la reproducción repetida.",
+  "riesgos_a_evitar": [
+   "Dar diagnósticos médicos o prometer curas: usar lenguaje de 'posible causa' y recomendar consultar a un profesional.",
+   "Alarmismo excesivo con apnea o enfermedades que genere miedo innecesario.",
+   "Saturar con datos técnicos o cifras no verificadas; citar solo información respaldada.",
+   "Gancho demasiado lento o con saludo previo que haga perder espectadores en los primeros 3 segundos.",
+   "Hacer las razones demasiado genéricas (ej. 'duerme mejor') sin una acción concreta.",
+   "Que la metáfora de las cartas confunda en lugar de reforzar el tema; mantenerla breve.",
+   "Titular engañoso: cumplir realmente con las 5 razones prometidas.",
+   "Superar el minuto o añadir relleno que reduzca el porcentaje de visualización."
+  ]
+ }
+}

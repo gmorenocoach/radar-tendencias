@@ -1,0 +1,91 @@
+{
+ "id": "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r",
+ "perfil": "soyintegral_es",
+ "canal": "Soy Integral · Salud",
+ "formato": "largo",
+ "modo": "economico",
+ "fecha": "2026-11-10T11:03:50",
+ "titulo": "Duermes 8 horas y despiertas cansado: 5 razones que nadie ve (1/6)",
+ "titulos_alternativos": [
+  "Dormiste 8 horas y sigues agotado: la carta que tu cuerpo no has abierto",
+  "Por qué despiertas cansado aunque duermas bien: 5 causas ocultas (Carta 1/6)"
+ ],
+ "descripcion": "¿Duermes 8 horas y aun así despiertas cansado? En este primer capítulo de la serie 'Las 6 cartas que tu cuerpo lleva meses mandándote' repasamos 5 razones del cansancio al despertar.\nHablamos de la calidad del sueño, los microdespertares, la cafeína y la cena tardía, la respiración al dormir y los horarios irregulares.\nTambién de causas como el estrés o la ansiedad y de por qué conviene revisar con un profesional la anemia, la tiroides o la vitamina D.\nSi buscas mejorar el descanso, tener un sueño reparador y crear mejores hábitos de sueño, este video te da un reto concreto para empezar hoy.\nEste contenido es informativo y no reemplaza una consulta médica.\n\nCapítulos:\n0:00 Gancho\n0:34 Razón 1: Tu sueño se corta sin que lo notes\n2:32 Razón 2: La taza y el plato que te acompañan a la cama\n4:50 Razón 3: Respirar mal mientras duermes\n6:59 Razón 4: La que casi nadie revisa, tus horarios\n7:38 Razón 5: Lo que el cuerpo y la mente cargan\n9:53 Cierre: Resumen, Reto de hoy y Carta 2\n\n#SoyIntegral #Salud #CalidadDelSueño #Descanso #SueñoReparador #HabitosDeSueño #Cansancio #GermanchoRetoDeHoy",
+ "hashtags": [
+  "#SoyIntegral",
+  "#Salud",
+  "#CalidadDelSueño",
+  "#Descanso",
+  "#SueñoReparador",
+  "#HabitosDeSueño",
+  "#Cansancio",
+  "#GermanchoRetoDeHoy"
+ ],
+ "reto_de_hoy": "Elige ahora una hora fija para acostarte esta noche y programa una alarma de 'ir a la cama' 30 minutos antes en tu celular. Mañana comenta con un número del 1 al 5 qué razón crees que te tocó a ti.",
+ "duracion_s": 646.6,
+ "tamano_mb": 87.1,
+ "capitulos": [
+  {
+   "n": 0,
+   "titulo": "Gancho",
+   "inicio_s": 0.0,
+   "ambiente": "cafeteria"
+  },
+  {
+   "n": 1,
+   "titulo": "Razón 1: Tu sueño se corta sin que lo notes",
+   "inicio_s": 34.1,
+   "ambiente": "sala"
+  },
+  {
+   "n": 2,
+   "titulo": "Razón 2: La taza y el plato que te acompañan a la cama",
+   "inicio_s": 152.6,
+   "ambiente": "cocina"
+  },
+  {
+   "n": 3,
+   "titulo": "Razón 3: Respirar mal mientras duermes",
+   "inicio_s": 290.4,
+   "ambiente": "dormitorio"
+  },
+  {
+   "n": 4,
+   "titulo": "Razón 4: La que casi nadie revisa, tus horarios",
+   "inicio_s": 419.6,
+   "ambiente": "oficina"
+  },
+  {
+   "n": 5,
+   "titulo": "Razón 5: Lo que el cuerpo y la mente cargan",
+   "inicio_s": 458.1,
+   "ambiente": "consultorio"
+  },
+  {
+   "n": 6,
+   "titulo": "Cierre: Resumen, Reto de hoy y Carta 2",
+   "inicio_s": 593.9,
+   "ambiente": "cafeteria"
+  }
+ ],
+ "fuente": {
+  "tema": "Duermes 8 horas y despiertas cansado: 5 razones que nadie ve. Serie: Las 6 cartas que tu cuerpo lleva meses mandándote, capítulo 1"
+ },
+ "estado": "pendiente_aprobacion",
+ "archivos": {
+  "video": "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r/largo.mp4",
+  "miniatura": "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r/miniatura.jpg",
+  "miniatura_16x9": "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r/miniatura_16x9.jpg",
+  "guion": "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r/guion.json",
+  "ficha": "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r/ficha.json",
+  "miniaturas": [
+   "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r/miniatura.jpg",
+   "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r/miniatura_16x9.jpg",
+   "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r/miniatura_16x9_oscura.jpg",
+   "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r/miniatura_16x9_rostro.jpg"
+  ]
+ },
+ "video_en_repositorio": true,
+ "nota": "",
+ "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+}

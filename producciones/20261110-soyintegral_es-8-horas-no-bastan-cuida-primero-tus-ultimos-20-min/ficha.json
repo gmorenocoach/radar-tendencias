@@ -1,0 +1,48 @@
+{
+ "fuente": {
+  "tema": "Dormir 8 horas no es la meta: haz esto primero. Gancho: Te acuestas temprano y amaneces igual de cansado. Pasa. A veces el problema no es la cantidad, es lo que haces los 20 minutos antes de cerrar los ojos. Apaga la pantalla, sirve una taza de algo tibio sin cafeína y suelta el día. Si el cansancio no se va, consulta a un profesional. Reto de hoy: antes de dormir, escribe en tu cuaderno una sola cosa que ya puedes dejar para mañana."
+ },
+ "adn": {
+  "tema_central": "La calidad de la rutina previa al sueño (los últimos 20 minutos antes de dormir) importa más que acumular 8 horas en la cama, y un pequeño ritual nocturno puede mejorar cómo amaneces.",
+  "promesa_del_titulo": "Descubrirás qué hacer en los 20 minutos antes de dormir para despertar con más energía, aunque ya duermas 8 horas.",
+  "gancho_primeros_segundos": "Te acuestas temprano y amaneces igual de cansado. Pasa. Y no siempre es por las horas que duermes.",
+  "tipo_de_gancho": "Contradicción empática: desmonta una creencia popular (dormir 8 horas es la meta) y valida la frustración del espectador en menos de 4 segundos, abriendo un bucle de curiosidad sobre la verdadera causa.",
+  "estructura": [
+   "0-3 s: Gancho de contradicción con la experiencia común (acostarse temprano y seguir cansado).",
+   "3-8 s: Reencuadre: el problema no es la cantidad, es lo que haces los 20 minutos antes de cerrar los ojos.",
+   "8-25 s: Lista corta de 3 pasos accionables: 1) apaga la pantalla, 2) sirve una taza de algo tibio sin cafeína, 3) suelta el día.",
+   "25-30 s: Aviso responsable breve: si el cansancio persiste, consulta a un profesional.",
+   "30-40 s: Reto de hoy: antes de dormir, escribe en tu cuaderno una sola cosa que ya puedes dejar para mañana.",
+   "Final: invitación a comentar o guardar el Short, con loop hacia el gancho."
+  ],
+  "ritmo": "Rápido y limpio: frases cortas, un cambio visual cada 2-3 segundos, textos en pantalla sincronizados con cada paso, pausa breve antes del reto para dar peso emocional. Duración ideal 30-40 segundos.",
+  "tono": "Cercano, calmado y empático, como un amigo que entiende el cansancio; sin dramatismo ni promesas médicas; voz pausada que modela la calma que se propone.",
+  "cta_final": "Reto de hoy: antes de dormir, escribe en tu cuaderno una sola cosa que ya puedes dejar para mañana. Cuéntame en comentarios cuál fue y guarda este Short para esta noche.",
+  "formula_del_titulo": "Creencia popular negada + promesa de acción prioritaria (\"X no es la meta: haz esto primero\") con curiosidad abierta y sin exageración.",
+  "titulo_con_numero": "Dormir 8 horas no es la meta: haz estos 3 pasos primero",
+  "palabras_clave": [
+   "dormir mejor",
+   "8 horas de sueño",
+   "rutina nocturna",
+   "cansancio al despertar",
+   "antes de dormir",
+   "higiene del sueño",
+   "descansar mejor",
+   "hábitos nocturnos",
+   "reto de hoy",
+   "sin pantallas"
+  ],
+  "emocion_dominante": "Alivio empático con curiosidad: el espectador se siente comprendido (\"Pasa\") y a la vez intrigado por una solución simple que puede probar esa misma noche.",
+  "formula_miniatura": "Primer plano de una persona con cara de cansancio al despertar junto a un reloj que marca 8:00 o un \"8H\" tachado; texto grande de 3-4 palabras: \"8 HORAS NO BASTAN\"; contraste frío/cálido (azul nocturno vs. taza tibia); una sola idea visual, sin saturar.",
+  "por_que_funciona": "Combina un gancho de contradicción con validación emocional, ofrece una lista corta fácil de recordar y aplicar, usa un reto mínimo que genera acción y comentarios, y cierra con un aviso responsable que da credibilidad. El tema es universal, recurrente y de baja fricción: cualquiera puede probarlo esa misma noche.",
+  "riesgos_a_evitar": [
+   "Prometer curas o hacer afirmaciones médicas absolutas sobre el insomnio o el cansancio.",
+   "Omitir el aviso de consultar a un profesional si el cansancio persiste.",
+   "Desestimar la importancia de dormir lo suficiente: el mensaje es que la cantidad no es lo único, no que no importe.",
+   "Saturar con más de 3 pasos o con jerga científica que rompa el ritmo.",
+   "Gancho tardío o intro con saludo largo que haga perder a la audiencia en los primeros 3 segundos.",
+   "Tono culpabilizante o sermoneador hacia quien duerme mal.",
+   "Miniatura o título clickbait que no cumpla lo prometido en el video."
+  ]
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "titulo": "8 horas no bastan: cuida primero tus últimos 20 minutos",
+ "titulos_alternativos": [
+  "Dormir 8 horas no es suficiente: prueba esto esta noche",
+  "Ocho horas de cama y sigues cansado: haz estos 3 pasos"
+ ],
+ "descripcion": "¿Duermes ocho horas y amaneces cansado? Quizá importe más cómo te vas a dormir. Tres pasos simples para tu rutina nocturna, antes de dormir y sin pantallas, para descansar mejor.\nSi el cansancio al despertar dura semanas, consulta con un profesional de la salud.\nHaz el reto de hoy y cuéntame en comentarios cómo amaneciste.",
+ "hashtags": [
+  "#dormirmejor",
+  "#rutinanocturna",
+  "#higienedelsueño",
+  "#descansarmejor",
+  "#hábitossaludables",
+  "#retodehoy",
+  "#SoyIntegral"
+ ],
+ "miniatura": {
+  "texto": "8 HORAS NO BASTAN",
+  "emocion": "tristeza",
+  "objeto": "reloj despertador con 8H tachado y una taza tibia al lado",
+  "pose": "triste_acostado"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Ocho horas de cama y cara de lunes. ¿Te suena?",
+   "emocion": "tristeza",
+   "objeto": "reloj despertador",
+   "pose": "triste_acostado",
+   "prompt_visual": "tired cartoon character lying in bed with messy hair, alarm clock showing 8:00, cool blue morning tone",
+   "segundos": 3,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: sad, drooping eyes; lying on the floor, sad; tired cartoon character lying in bed with messy hair, alarm clock showing 8:00, cool blue morning tone; the reloj despertador is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Tranquilo. A veces el problema no es cuánto duermes, sino cómo te vas a dormir. Tus últimos veinte minutos son la puerta de entrada.",
+   "emocion": "alegria",
+   "objeto": "reloj de arena",
+   "pose": "letrero",
+   "prompt_visual": "friendly character holding a sign that says 20 min, hourglass beside him, simple flat style",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; holding up a blank sign board; friendly character holding a sign that says 20 min, hourglass beside him, simple flat style; the reloj de arena is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Paso uno: baja las luces. Deja una sola lámpara tenue, como en un café con poca luz. Tu cuerpo recibe la señal de que el día termina.",
+   "emocion": "alegria",
+   "objeto": "lámpara tenue",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cozy dim room with a single warm lamp, character sitting on a stool next to cups, soft warm glow",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; sitting on a wooden stool; cozy dim room with a single warm lamp, character sitting on a stool next to cups, soft warm glow; the lámpara tenue is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Paso dos: el celular, a otra mesa. Que no duerma en tu almohada. Cada notificación es alguien tocando tu hombro.",
+   "emocion": "sorpresa",
+   "objeto": "celular",
+   "pose": "cambio",
+   "prompt_visual": "character moving a smartphone from the bed to a distant table, notification icons floating around, playful mood",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: surprised, round eyes and open mouth; arms stretched sideways; character moving a smartphone from the bed to a distant table, notification icons floating around, playful mood; the celular is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Paso tres: respira lento, tres veces. Como quien sopla un café caliente. Sin apuro.",
+   "emocion": "alegria",
+   "objeto": "taza humeante",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "calm character with open arms taking a slow breath, steaming coffee cup nearby, soft pastel night colors",
+   "segundos": 6,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; arms wide open; calm character with open arms taking a slow breath, steaming coffee cup nearby, soft pastel night colors; the taza humeante is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "Y ojo: si el cansancio sigue por semanas, consulta con un profesional de la salud. Eso también es cuidarte.",
+   "emocion": "alegria",
+   "objeto": "cuaderno con una cruz de salud",
+   "pose": "senalando",
+   "prompt_visual": "character pointing to a notebook with a small health cross icon, gentle supportive expression, clean background",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; pointing forward with one long finger; character pointing to a notebook with a small health cross icon, gentle supportive expression, clean background; the cuaderno con una cruz de salud is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: esta noche deja el celular cargando al otro lado del cuarto. Mañana cuéntame en comentarios cómo amaneciste. Guarda este Short para esta noche. Suscríbete: mañana hay otro reto.",
+   "emocion": "alegria",
+   "objeto": "celular cargando lejos de la cama",
+   "pose": "saludando",
+   "prompt_visual": "smiling character waving, phone charging on a far shelf across the bedroom, warm morning light through the window",
+   "segundos": 12,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; standing and waving; smiling character waving, phone charging on a far shelf across the bedroom, warm morning light through the window; the celular cargando lejos de la cama is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "Esta noche, deja el celular cargando al otro lado del cuarto, lejos de tu cama, y mañana cuenta en comentarios cómo amaneciste.",
+ "palabras": 145,
+ "canal": "soyintegral",
+ "color": "#2E8B57"
+}

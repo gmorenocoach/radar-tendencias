@@ -354,7 +354,10 @@
    "subtema": "Carta 1, el sueño. Diferencia entre dormir horas y descansar: luz, pantallas, cena, cabeza llena y horarios. Se cuenta con la imagen de una taza que se llena pero nunca se vacía. Pista final: la energía de la tarde esconde otro mensaje. Se aclara que si el cansancio persiste, conviene consultar a un profesional. Reto de hoy: escribe en una nota tres cosas que haces en la última hora antes de dormir y tacha una.",
    "referencia_video_id": "",
    "minutos": 12,
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r",
+   "resultado": "ok 687s",
+   "producido_en": "2026-11-10T11:03:50"
   },
   {
    "id": "soyintegral_es-20261112-S",
@@ -367,7 +370,10 @@
    "titulo": "Dormir 8 horas no es la meta: haz esto primero",
    "gancho": "Te acuestas temprano y amaneces igual de cansado. Pasa. A veces el problema no es la cantidad, es lo que haces los 20 minutos antes de cerrar los ojos. Apaga la pantalla, sirve una taza de algo tibio sin cafeína y suelta el día. Si el cansancio no se va, consulta a un profesional. Reto de hoy: antes de dormir, escribe en tu cuaderno una sola cosa que ya puedes dejar para mañana.",
    "referencia_video_id": "sin_referencia (lista vacía)",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261110-soyintegral_es-8-horas-no-bastan-cuida-primero-tus-ultimos-20-min",
+   "resultado": "ok 215s",
+   "producido_en": "2026-11-10T11:30:27"
   },
   {
    "id": "soyintegral_es-20261114-S",
