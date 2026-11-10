@@ -1,0 +1,392 @@
+{
+ "perfil": "equilibrate_es",
+ "canal": "Equilíbrate · Amor",
+ "generado": "2026-11-10T20:32:51",
+ "canales": [
+  {
+   "canal_id": "UCWRRmqv_U-GYQ7b6D2-zwIg",
+   "canal": "Crianza Consciente",
+   "url": "https://www.youtube.com/channel/UCWRRmqv_U-GYQ7b6D2-zwIg",
+   "suscriptores": 12900,
+   "pais": "CO",
+   "n_virales_radar": 6,
+   "videos_analizados": 30,
+   "videos_por_semana": 1.9,
+   "pct_shorts": 3,
+   "duracion_media_largos_min": 11.3,
+   "duracion_media_shorts_s": 73,
+   "mediana_vistas": 11950.0,
+   "vistas_top": 237748,
+   "outlier_top": 19.9,
+   "engagement_medio": 0.038,
+   "horas_publicacion": [
+    "17:00",
+    "14:00",
+    "16:00"
+   ],
+   "dias_publicacion": [
+    "jue",
+    "mié",
+    "dom"
+   ],
+   "pct_titulos_con_numero": 67,
+   "pct_videos_con_oferta": 3,
+   "ofertas": [
+    "mentoria"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "La Respuesta de 3 Segundos que Detiene las Malas Contestaciones",
+     "vistas": 237748,
+     "duracion_s": 1156,
+     "url": "https://www.youtube.com/watch?v=QVQ5L2BCDEI",
+     "miniatura": "https://i.ytimg.com/vi/QVQ5L2BCDEI/maxresdefault.jpg"
+    },
+    {
+     "titulo": "10 Frases que los Padres Dicen y que Destruyen la Confianza de sus Hijos",
+     "vistas": 188305,
+     "duracion_s": 546,
+     "url": "https://www.youtube.com/watch?v=imMvAaagJV0",
+     "miniatura": "https://i.ytimg.com/vi/imMvAaagJV0/maxresdefault.jpg"
+    },
+    {
+     "titulo": "La Importancia de los Abuelos en la Crianza y el Desarrollo del Bebé",
+     "vistas": 119826,
+     "duracion_s": 946,
+     "url": "https://www.youtube.com/watch?v=pUdwCRJKv30",
+     "miniatura": "https://i.ytimg.com/vi/pUdwCRJKv30/maxresdefault.jpg"
+    },
+    {
+     "titulo": "7  Hábitos de Padres que Crían Hijos que Piensan por Sí Mismos",
+     "vistas": 115845,
+     "duracion_s": 529,
+     "url": "https://www.youtube.com/watch?v=zpjD_XNwSlo",
+     "miniatura": "https://i.ytimg.com/vi/zpjD_XNwSlo/maxresdefault.jpg"
+    },
+    {
+     "titulo": "7 Conductas que Parecen Rebeldía... Pero Revelan un Niño Superdotado",
+     "vistas": 89340,
+     "duracion_s": 559,
+     "url": "https://www.youtube.com/watch?v=qpUeB8D7_74",
+     "miniatura": "https://i.ytimg.com/vi/qpUeB8D7_74/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCqI2cyF2pTW2yNC7RIEIRcA",
+   "canal": "psicóloga femenina estoica",
+   "url": "https://www.youtube.com/channel/UCqI2cyF2pTW2yNC7RIEIRcA",
+   "suscriptores": 2790,
+   "pais": "MX",
+   "n_virales_radar": 6,
+   "videos_analizados": 20,
+   "videos_por_semana": 7.4,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 18.0,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 2797.0,
+   "vistas_top": 219547,
+   "outlier_top": 78.5,
+   "engagement_medio": 0.0263,
+   "horas_publicacion": [
+    "23:00",
+    "00:00"
+   ],
+   "dias_publicacion": [
+    "mar",
+    "mié",
+    "vie"
+   ],
+   "pct_titulos_con_numero": 30,
+   "pct_videos_con_oferta": 10,
+   "ofertas": [
+    "comunidad"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "9 Hábitos Que Hacen Irresistible a un Hombre Mayor Psicología Femenina",
+     "vistas": 219547,
+     "duracion_s": 664,
+     "url": "https://www.youtube.com/watch?v=IC94e1U6-mg",
+     "miniatura": "https://i.ytimg.com/vi/IC94e1U6-mg/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Lo que los Amigos de mi Marido Hicieron Me Dejó en Shock ｜ historias de infidelidad",
+     "vistas": 148483,
+     "duracion_s": 839,
+     "url": "https://www.youtube.com/watch?v=PsGbfVAs0k8",
+     "miniatura": "https://i.ytimg.com/vi/PsGbfVAs0k8/maxresdefault.jpg"
+    },
+    {
+     "titulo": "SOLO LOS HOMBRES CON EXPERIENCIA SABEN ESTO SOBRE LAS MENTE FEMENINA",
+     "vistas": 100721,
+     "duracion_s": 1288,
+     "url": "https://www.youtube.com/watch?v=zidYkJXKsBk",
+     "miniatura": "https://i.ytimg.com/vi/zidYkJXKsBk/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Triangulación Familiar Cuando el Deseo de Ayudar Destruye Límites",
+     "vistas": 89035,
+     "duracion_s": 1013,
+     "url": "https://www.youtube.com/watch?v=XmOPZ-XXrug",
+     "miniatura": "https://i.ytimg.com/vi/XmOPZ-XXrug/maxresdefault.jpg"
+    },
+    {
+     "titulo": "7 Toques Que Harán Que Una Mujer Madura Se Enamore Profundamente de Ti   Psicología Femenina",
+     "vistas": 39239,
+     "duracion_s": 1148,
+     "url": "https://www.youtube.com/watch?v=XU_HOfzNvqM",
+     "miniatura": "https://i.ytimg.com/vi/XU_HOfzNvqM/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCeBVm7NZHC0OoeyDtIEiJuw",
+   "canal": "Bajo el Manto de María",
+   "url": "https://www.youtube.com/channel/UCeBVm7NZHC0OoeyDtIEiJuw",
+   "suscriptores": 1310,
+   "pais": "MX",
+   "n_virales_radar": 5,
+   "videos_analizados": 13,
+   "videos_por_semana": 1.9,
+   "pct_shorts": 8,
+   "duracion_media_largos_min": 20.4,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 4260,
+   "vistas_top": 42580,
+   "outlier_top": 10.0,
+   "engagement_medio": 0.0823,
+   "horas_publicacion": [
+    "05:00",
+    "00:00",
+    "06:00"
+   ],
+   "dias_publicacion": [
+    "vie",
+    "mar",
+    "mié"
+   ],
+   "pct_titulos_con_numero": 100,
+   "pct_videos_con_oferta": 85,
+   "ofertas": [
+    "comunidad",
+    "curso"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "ORACIÓN DE LAS 3 AVE MARÍAS | MADRE, DALES SALUD, FE Y PROTECCIÓN A MIS HIJOS 🙏✨",
+     "vistas": 42580,
+     "duracion_s": 1573,
+     "url": "https://www.youtube.com/watch?v=jRx9aJ-bpK8",
+     "miniatura": "https://i.ytimg.com/vi/jRx9aJ-bpK8/maxresdefault.jpg"
+    },
+    {
+     "titulo": "ORACIÓN DE LAS 3 AVE MARÍAS | MADRE, GUÍA LOS ESTUDIOS Y EL FUTURO DE MIS HIJOS",
+     "vistas": 22573,
+     "duracion_s": 1689,
+     "url": "https://www.youtube.com/watch?v=jevFglqnmg8",
+     "miniatura": "https://i.ytimg.com/vi/jevFglqnmg8/maxresdefault.jpg"
+    },
+    {
+     "titulo": "ORACIÓN DE LAS 3 AVE MARÍAS | CALMA MI ANSIEDAD Y ACOMPAÑA A LOS QUE ESTÁN SOLOS 🙏🕊️",
+     "vistas": 16829,
+     "duracion_s": 1666,
+     "url": "https://www.youtube.com/watch?v=S2k1Squz4TM",
+     "miniatura": "https://i.ytimg.com/vi/S2k1Squz4TM/maxresdefault.jpg"
+    },
+    {
+     "titulo": "ORACIÓN DE LAS 3 AVE MARÍAS | APÁRTALOS DE MALAS AMISTADES Y PROTÉGELOS DEL MAL 🙏",
+     "vistas": 15816,
+     "duracion_s": 890,
+     "url": "https://www.youtube.com/watch?v=lBvplvOKuHA",
+     "miniatura": "https://i.ytimg.com/vi/lBvplvOKuHA/maxresdefault.jpg"
+    },
+    {
+     "titulo": "ORACIÓN DE LAS 3 AVE MARÍAS | SÁNALOS, MADRE, Y FORTALECE A LOS ENFERMOS 🙏🕊️",
+     "vistas": 14571,
+     "duracion_s": 1594,
+     "url": "https://www.youtube.com/watch?v=CTiB8dWL-eY",
+     "miniatura": "https://i.ytimg.com/vi/CTiB8dWL-eY/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCEW7EcFP09AyVwsH5ZgHXFQ",
+   "canal": "Secretos del Destino",
+   "url": "https://www.youtube.com/channel/UCEW7EcFP09AyVwsH5ZgHXFQ",
+   "suscriptores": 1680,
+   "pais": "ES",
+   "n_virales_radar": 4,
+   "videos_analizados": 30,
+   "videos_por_semana": 6.0,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 17.2,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 3579.5,
+   "vistas_top": 34894,
+   "outlier_top": 9.7,
+   "engagement_medio": 0.0425,
+   "horas_publicacion": [
+    "13:00",
+    "08:00",
+    "15:00"
+   ],
+   "dias_publicacion": [
+    "jue",
+    "dom",
+    "vie"
+   ],
+   "pct_titulos_con_numero": 33,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "En una boda se encontró con su exesposa… y descubrió que tenía un hijo y una hija que nunca conoció.",
+     "vistas": 34894,
+     "duracion_s": 1155,
+     "url": "https://www.youtube.com/watch?v=oeL7ZMrgicM",
+     "miniatura": "https://i.ytimg.com/vi/oeL7ZMrgicM/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Volvió después de 7 años para vender su casa… y encontró a la hija que nunca supo que tenía. 😭👧🏡❤️",
+     "vistas": 24274,
+     "duracion_s": 961,
+     "url": "https://www.youtube.com/watch?v=_6r4LfVgLGQ",
+     "miniatura": "https://i.ytimg.com/vi/_6r4LfVgLGQ/maxresdefault.jpg"
+    },
+    {
+     "titulo": "El Millonario Fue al Cumpleaños de su Sobrina… ¡Y Descubrió a Su Hija Secreta! 😱🎂👧❤️",
+     "vistas": 17057,
+     "duracion_s": 1070,
+     "url": "https://www.youtube.com/watch?v=pyw2MHgv-2I",
+     "miniatura": "https://i.ytimg.com/vi/pyw2MHgv-2I/maxresdefault.jpg"
+    },
+    {
+     "titulo": "El multimillonario vio a su ex en el cumpleaños de su madre… con un niño de 8 años igual a él. 😭🎂👦❤️",
+     "vistas": 15066,
+     "duracion_s": 960,
+     "url": "https://www.youtube.com/watch?v=i_2GjCCQhIQ",
+     "miniatura": "https://i.ytimg.com/vi/i_2GjCCQhIQ/maxresdefault.jpg"
+    },
+    {
+     "titulo": "El millonario fue a la casa de su mejor amigo… y descubrió que la niña de su ex era su hija. 😱👧💔",
+     "vistas": 10275,
+     "duracion_s": 1167,
+     "url": "https://www.youtube.com/watch?v=ZlBqQnRiv9M",
+     "miniatura": "https://i.ytimg.com/vi/ZlBqQnRiv9M/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCeMr0JYiFk-i7UxaM1UXFLg",
+   "canal": "El Arte de Soltar",
+   "url": "https://www.youtube.com/channel/UCeMr0JYiFk-i7UxaM1UXFLg",
+   "suscriptores": 1410,
+   "pais": "US",
+   "n_virales_radar": 4,
+   "videos_analizados": 20,
+   "videos_por_semana": 4.2,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 25.4,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 1224.5,
+   "vistas_top": 145312,
+   "outlier_top": 118.7,
+   "engagement_medio": 0.0318,
+   "horas_publicacion": [
+    "14:00",
+    "07:00",
+    "08:00"
+   ],
+   "dias_publicacion": [
+    "dom",
+    "mar",
+    "vie"
+   ],
+   "pct_titulos_con_numero": 5,
+   "pct_videos_con_oferta": 20,
+   "ofertas": [
+    "comunidad",
+    "mentoria"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "SI AMBOS DEJAN DE CONTACTARSE, ESTO TERMINARÁ PASANDO | Gabriel Rolon",
+     "vistas": 145312,
+     "duracion_s": 1185,
+     "url": "https://www.youtube.com/watch?v=JJ4VYVYzxHw",
+     "miniatura": "https://i.ytimg.com/vi/JJ4VYVYzxHw/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Esa Persona Hará El Próximo Movimiento, No Quiere Dejarte Ir | Gabriel Rolón",
+     "vistas": 38838,
+     "duracion_s": 1173,
+     "url": "https://www.youtube.com/watch?v=M792ZNlLS2A",
+     "miniatura": "https://i.ytimg.com/vi/M792ZNlLS2A/maxresdefault.jpg"
+    },
+    {
+     "titulo": "EL SECRETO DE LA SANACIÓN EMOCIONAL QUE NUNCA DEJÓ DE EXPLORAR | Gabriel Rolón",
+     "vistas": 9116,
+     "duracion_s": 1452,
+     "url": "https://www.youtube.com/watch?v=jV5bG2tIV5Y",
+     "miniatura": "https://i.ytimg.com/vi/jV5bG2tIV5Y/maxresdefault.jpg"
+    },
+    {
+     "titulo": "ESTÁN TOMANDO UNA DECISIÓN FINAL SOBRE TI, ¡ESTO ES LO QUE REALMENTE SIGNIFICA! | Gabriel Rolón",
+     "vistas": 7224,
+     "duracion_s": 1020,
+     "url": "https://www.youtube.com/watch?v=dpyj59jWF70",
+     "miniatura": "https://i.ytimg.com/vi/dpyj59jWF70/maxresdefault.jpg"
+    },
+    {
+     "titulo": "CÓMO DESVINCULARTE EMOCIONALMENTE DE ALGUIEN, RECUPERA TU PAZ Y AMOR PROPIO | GABRIEL ROLÓN",
+     "vistas": 5365,
+     "duracion_s": 2236,
+     "url": "https://www.youtube.com/watch?v=x0TkhtCGk1A",
+     "miniatura": "https://i.ytimg.com/vi/x0TkhtCGk1A/maxresdefault.jpg"
+    }
+   ]
+  }
+ ],
+ "analisis": {
+  "formulas_titulo": [
+   {
+    "plantilla": "[Número] + [señales / hábitos / frases] + de/que [situación concreta] + [consecuencia o beneficio]. Es la fórmula del canal con mejor mediana (Crianza Consciente, 67% de títulos con número, ~12k vistas de mediana con solo 1,9 videos/semana).",
+    "ejemplos": [
+     "7 Hábitos de Padres que Crían Hijos que Piensan por Sí Mismos",
+     "10 Frases que los Padres Dicen y que Destruyen la Confianza de sus Hijos",
+     "5 señales de que ella te ama y lo está ocultando"
+    ]
+   },
+   {
+    "plantilla": "Si [situación o conducta de la otra persona], [revelación o acción] + [promesa de giro]. Es la fórmula dominante en los canales de amor y se centra casi siempre en el otro, no en quien mira.",
+    "ejemplos": [
+     "Si una Mujer Te Hace Estas 2 Preguntas, Está Más Interesada de lo que Imagina",
+     "SI AMBOS DEJAN DE MIRARSE, ESTO CAMBIARÁ EL JUEGO",
+     "Si no le dolió perderte, haz esto y mira qué pasa"
+    ]
+   },
+   {
+    "plantilla": "[Técnica con nombre, tiempo o regla] + para [resultado concreto] + ([paréntesis que baja la fricción: Gratis / Sin Peleas / Lo que Dice la Ciencia]).",
+    "ejemplos": [
+     "La Respuesta de 3 Segundos que Detiene las Malas Contestaciones",
+     "La Regla Francesa Para Que Tu Hijo Coma de Todo (Sin Peleas)",
+     "10 Actividades para Estimular el Cerebro de tu Bebé en Casa (Gratis)"
+    ]
+   },
+   {
+    "plantilla": "[Gancho emocional o de curiosidad] + sufijo fijo de serie o autoridad (| Nombre, Psicología Femenina, Psicología del Abandono). Funciona como marca de serie, pero aquí no conviene copiar el sufijo: usaríamos el propio, como «Café con Germancho».",
+    "ejemplos": [
+     "NADIE TE AMARÁ DE VERDAD HASTA QUE ENTIENDAS ESTO | Gabriel Rolón",
+     "SI SE FUE SIN LUCHAR POR TI, ENTIENDE ESTO | Psicología del Abandono",
+     "Todo hombre mayor debería ver este vídeo I Psicología del amor"
+    ]
+   }
+  ]
+ }
+}

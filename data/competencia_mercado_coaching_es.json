@@ -1,0 +1,367 @@
+{
+ "perfil": "mercado_coaching_es",
+ "canal": "Mercado · coaching y cursos (investigación)",
+ "generado": "2026-11-10T20:34:33",
+ "canales": [
+  {
+   "canal_id": "UCULi2HIpmcHaOeSm_DTliUw",
+   "canal": "Move Or Die Stoic Español",
+   "url": "https://www.youtube.com/channel/UCULi2HIpmcHaOeSm_DTliUw",
+   "suscriptores": 6630,
+   "pais": "US",
+   "n_virales_radar": 4,
+   "videos_analizados": 30,
+   "videos_por_semana": 4.2,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 17.2,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 4972.0,
+   "vistas_top": 265378,
+   "outlier_top": 53.4,
+   "engagement_medio": 0.0147,
+   "horas_publicacion": [
+    "11:00",
+    "12:00",
+    "13:00"
+   ],
+   "dias_publicacion": [
+    "mar",
+    "dom",
+    "jue"
+   ],
+   "pct_titulos_con_numero": 67,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "7 Razones para Jubilarte Tan Pronto Como Puedas — No Puedes Comprar de Nuevo Tu Tiempo | Estoicismo",
+     "vistas": 265378,
+     "duracion_s": 1160,
+     "url": "https://www.youtube.com/watch?v=NnZWaZq0SGY",
+     "miniatura": "https://i.ytimg.com/vi/NnZWaZq0SGY/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Envejecer sin pareja te cambia de maneras que la mayoría de la gente no comprende | ESTOICISMO",
+     "vistas": 19910,
+     "duracion_s": 976,
+     "url": "https://www.youtube.com/watch?v=hQugd7c2sU8",
+     "miniatura": "https://i.ytimg.com/vi/hQugd7c2sU8/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¿Tienes más de 60 años? NECESITAS estas 10 cosas para vivir solo con comodidad | ESTOICISMO",
+     "vistas": 19699,
+     "duracion_s": 1187,
+     "url": "https://www.youtube.com/watch?v=WjK1k9lt8jk",
+     "miniatura": "https://i.ytimg.com/vi/WjK1k9lt8jk/hqdefault.jpg"
+    },
+    {
+     "titulo": "Por Qué los Jubilados Poco a Poco Dejan de Querer Salir de Casa | ESTOICISMO",
+     "vistas": 17227,
+     "duracion_s": 1025,
+     "url": "https://www.youtube.com/watch?v=EIieBd0hGGk",
+     "miniatura": "https://i.ytimg.com/vi/EIieBd0hGGk/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Después de los 60, has cambiado más de lo que crees: 12 señales de sabiduría | ESTOICISMO",
+     "vistas": 15098,
+     "duracion_s": 1209,
+     "url": "https://www.youtube.com/watch?v=6d7fOUfQQsw",
+     "miniatura": "https://i.ytimg.com/vi/6d7fOUfQQsw/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCFz3nQc-zmHwvdQKWvCk9tw",
+   "canal": "Pichando Las 12",
+   "url": "https://www.youtube.com/channel/UCFz3nQc-zmHwvdQKWvCk9tw",
+   "suscriptores": 30200,
+   "pais": "US",
+   "n_virales_radar": 1,
+   "videos_analizados": 30,
+   "videos_por_semana": 16.2,
+   "pct_shorts": 3,
+   "duracion_media_largos_min": 49.1,
+   "duracion_media_shorts_s": 144,
+   "mediana_vistas": 12745.5,
+   "vistas_top": 93856,
+   "outlier_top": 7.4,
+   "engagement_medio": 0.0386,
+   "horas_publicacion": [
+    "08:00",
+    "13:00",
+    "17:00"
+   ],
+   "dias_publicacion": [
+    "mié",
+    "jue",
+    "mar"
+   ],
+   "pct_titulos_con_numero": 30,
+   "pct_videos_con_oferta": 100,
+   "ofertas": [
+    "curso"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "BROMA TELEFPONICA A MELISSA SANTOS 🤣 #melissasantos #juancarlospichardo #rd #lax102 #pichandolas12",
+     "vistas": 93856,
+     "duracion_s": 144,
+     "url": "https://www.youtube.com/watch?v=FKfjMLbXjZY",
+     "miniatura": "https://i.ytimg.com/vi/FKfjMLbXjZY/maxresdefault.jpg"
+    },
+    {
+     "titulo": "JHOEL LÓPEZ CASI PIERDE EL CONTROL POR LA BROMA TELEFONICA DE JUAN CARLOS PICHARDO",
+     "vistas": 91394,
+     "duracion_s": 701,
+     "url": "https://www.youtube.com/watch?v=AUmcKONXrNc",
+     "miniatura": "https://i.ytimg.com/vi/AUmcKONXrNc/maxresdefault.jpg"
+    },
+    {
+     "titulo": "BROMA TELEFÓNICA A MELISSA SANTOS: PICHARDO LA SACÓ DE QUICIO AL MANDARLA A REGALAR A SU PERRITA",
+     "vistas": 62764,
+     "duracion_s": 550,
+     "url": "https://www.youtube.com/watch?v=M_-b0WwtfW4",
+     "miniatura": "https://i.ytimg.com/vi/M_-b0WwtfW4/maxresdefault.jpg"
+    },
+    {
+     "titulo": "EDWARD LLEGA QUILLADO POR UNA VECINA QUE LO MIRO MAL Y LE MANDA SU RAFAGAZO",
+     "vistas": 50522,
+     "duracion_s": 1781,
+     "url": "https://www.youtube.com/watch?v=mk40Ib3Y3ps",
+     "miniatura": "https://i.ytimg.com/vi/mk40Ib3Y3ps/maxresdefault.jpg"
+    },
+    {
+     "titulo": "EDWARD VUELVE DE SU VIAJE REVOLTEADO Y DESPIERTA CELOS POR LAS NUEVAS AMIGAS QUE TIENE",
+     "vistas": 39270,
+     "duracion_s": 901,
+     "url": "https://www.youtube.com/watch?v=2vB-3AkLeeE",
+     "miniatura": "https://i.ytimg.com/vi/2vB-3AkLeeE/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCuRn0NWV49JLmLXQB5iaBsQ",
+   "canal": "Sofia Rays",
+   "url": "https://www.youtube.com/channel/UCuRn0NWV49JLmLXQB5iaBsQ",
+   "suscriptores": 6080,
+   "pais": "ES",
+   "n_virales_radar": 1,
+   "videos_analizados": 18,
+   "videos_por_semana": 0.8,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 13.8,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 9474.0,
+   "vistas_top": 58687,
+   "outlier_top": 6.2,
+   "engagement_medio": 0.0564,
+   "horas_publicacion": [
+    "07:00",
+    "10:00",
+    "11:00"
+   ],
+   "dias_publicacion": [
+    "mar",
+    "jue",
+    "vie"
+   ],
+   "pct_titulos_con_numero": 6,
+   "pct_videos_con_oferta": 78,
+   "ofertas": [
+    "curso"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "Cómo ser la mujer que recibe.",
+     "vistas": 58687,
+     "duracion_s": 1094,
+     "url": "https://www.youtube.com/watch?v=-UpV3Ty3XLw",
+     "miniatura": "https://i.ytimg.com/vi/-UpV3Ty3XLw/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Cómo ser esa mujer MAGNÉTICA que lo atrae todo.",
+     "vistas": 25528,
+     "duracion_s": 811,
+     "url": "https://www.youtube.com/watch?v=30j2rKt09GQ",
+     "miniatura": "https://i.ytimg.com/vi/30j2rKt09GQ/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Cómo enamorar al hombre exitoso",
+     "vistas": 16253,
+     "duracion_s": 1018,
+     "url": "https://www.youtube.com/watch?v=G53hGynME5A",
+     "miniatura": "https://i.ytimg.com/vi/G53hGynME5A/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Cómo sentirte MERECEDORA.",
+     "vistas": 16057,
+     "duracion_s": 939,
+     "url": "https://www.youtube.com/watch?v=pi1yvWZa2qY",
+     "miniatura": "https://i.ytimg.com/vi/pi1yvWZa2qY/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Cómo despertar una ENERGÍA FEMENINA irresistible",
+     "vistas": 13229,
+     "duracion_s": 789,
+     "url": "https://www.youtube.com/watch?v=Zoq0DdIOJnE",
+     "miniatura": "https://i.ytimg.com/vi/Zoq0DdIOJnE/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCso9xIW3WMeoS5Nt88izAZg",
+   "canal": "Pineal Terapias Holisticas",
+   "url": "https://www.youtube.com/channel/UCso9xIW3WMeoS5Nt88izAZg",
+   "suscriptores": 1240,
+   "pais": "PE",
+   "n_virales_radar": 1,
+   "videos_analizados": 30,
+   "videos_por_semana": 0.9,
+   "pct_shorts": 53,
+   "duracion_media_largos_min": 9.8,
+   "duracion_media_shorts_s": 67,
+   "mediana_vistas": 374.0,
+   "vistas_top": 2590,
+   "outlier_top": 6.9,
+   "engagement_medio": 0.0229,
+   "horas_publicacion": [
+    "19:00",
+    "20:00",
+    "12:00"
+   ],
+   "dias_publicacion": [
+    "mié",
+    "lun",
+    "vie"
+   ],
+   "pct_titulos_con_numero": 10,
+   "pct_videos_con_oferta": 10,
+   "ofertas": [
+    "curso",
+    "mentoria"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "Cuánto tiempo llevas cargando lo que no puedes soltar?",
+     "vistas": 2590,
+     "duracion_s": 20,
+     "url": "https://www.youtube.com/watch?v=kaZTx8D3nBE",
+     "miniatura": "https://i.ytimg.com/vi/kaZTx8D3nBE/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Deja los Químicos y escoge tu Flor",
+     "vistas": 2064,
+     "duracion_s": 101,
+     "url": "https://www.youtube.com/watch?v=qYnB35MWG1c",
+     "miniatura": "https://i.ytimg.com/vi/qYnB35MWG1c/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Las 5 Energías más Poderosas del Universo",
+     "vistas": 1541,
+     "duracion_s": 74,
+     "url": "https://www.youtube.com/watch?v=IJaVvn5Z21k",
+     "miniatura": "https://i.ytimg.com/vi/IJaVvn5Z21k/maxresdefault.jpg"
+    },
+    {
+     "titulo": "El síndrome de la Mujer Fuerte",
+     "vistas": 1356,
+     "duracion_s": 66,
+     "url": "https://www.youtube.com/watch?v=_N_xW9fVRc4",
+     "miniatura": "https://i.ytimg.com/vi/_N_xW9fVRc4/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Por qué Sigues Bloqueada aunque lo hayas Intentado Todo",
+     "vistas": 765,
+     "duracion_s": 656,
+     "url": "https://www.youtube.com/watch?v=mkBAmLNXdMQ",
+     "miniatura": "https://i.ytimg.com/vi/mkBAmLNXdMQ/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCgnJT9G3rMMQ1IWfUL2y0cw",
+   "canal": "Viviendo Slow",
+   "url": "https://www.youtube.com/channel/UCgnJT9G3rMMQ1IWfUL2y0cw",
+   "suscriptores": 1280,
+   "pais": "",
+   "n_virales_radar": 1,
+   "videos_analizados": 30,
+   "videos_por_semana": 0.2,
+   "pct_shorts": 3,
+   "duracion_media_largos_min": 29.1,
+   "duracion_media_shorts_s": 92,
+   "mediana_vistas": 203.5,
+   "vistas_top": 3199,
+   "outlier_top": 15.7,
+   "engagement_medio": 0.0987,
+   "horas_publicacion": [
+    "08:00",
+    "07:00",
+    "19:00"
+   ],
+   "dias_publicacion": [
+    "dom",
+    "mié",
+    "jue"
+   ],
+   "pct_titulos_con_numero": 50,
+   "pct_videos_con_oferta": 77,
+   "ofertas": [
+    "comunidad",
+    "curso",
+    "mentoria"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "¿Y si no eres indisciplinada? Cómo cambiar la historia que tienes sobre ti",
+     "vistas": 3199,
+     "duracion_s": 925,
+     "url": "https://www.youtube.com/watch?v=uGwzkzTg8TA",
+     "miniatura": "https://i.ytimg.com/vi/uGwzkzTg8TA/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Por qué te acostumbras a vivir mal: la teoría de las ventanas rotas.",
+     "vistas": 709,
+     "duracion_s": 680,
+     "url": "https://www.youtube.com/watch?v=_kEciCZ5LAc",
+     "miniatura": "https://i.ytimg.com/vi/_kEciCZ5LAc/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Episodio 2: La crisis que cambió mi vida",
+     "vistas": 700,
+     "duracion_s": 996,
+     "url": "https://www.youtube.com/watch?v=jDWXTVmhzEI",
+     "miniatura": "https://i.ytimg.com/vi/jDWXTVmhzEI/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Episodio 8: Compararme constantemente y perder mi norte.",
+     "vistas": 383,
+     "duracion_s": 702,
+     "url": "https://www.youtube.com/watch?v=u2062hk-uUk",
+     "miniatura": "https://i.ytimg.com/vi/u2062hk-uUk/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Meditacion con mantra para despertar la calma interior",
+     "vistas": 360,
+     "duracion_s": 541,
+     "url": "https://www.youtube.com/watch?v=tWIKVkdXdug",
+     "miniatura": "https://i.ytimg.com/vi/tWIKVkdXdug/maxresdefault.jpg"
+    }
+   ]
+  }
+ ],
+ "analisis": {
+  "formulas_titulo": [
+   {
+    "plantilla": "[Etapa o audiencia concreta"
+   },
+   "cosas / errores / verdades"
+  ],
+  "Die": 67
+ }
+}

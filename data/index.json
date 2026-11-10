@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T16:27:07Z",
+ "actualizado": "2026-11-10T20:29:34Z",
  "perfiles": [
   {
    "id": "equilibrate_en",
@@ -17,7 +17,7 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-10T16:27:07Z",
+   "generado": "2026-11-10T20:29:34Z",
    "videos": 27,
    "canales": 8
   },
@@ -72,5 +72,5 @@
    "canales": 27
   }
  ],
- "cuota_usada_hoy": 6811
+ "cuota_usada_hoy": 1014
 }
