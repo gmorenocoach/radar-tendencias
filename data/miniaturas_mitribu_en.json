@@ -2,22 +2,22 @@
  "perfil": "mitribu_en",
  "n": 4,
  "promedio": {
-  "brillo": 46,
-  "pct_oscuro": 75,
+  "brillo": 51,
+  "pct_oscuro": 73,
   "pct_amarillo": 0,
-  "pct_piel": 2,
+  "pct_piel": 6,
   "pct_saturado": 0
  },
  "promedio_top10": {
-  "brillo": 46,
-  "pct_oscuro": 75,
+  "brillo": 51,
+  "pct_oscuro": 73,
   "pct_amarillo": 0,
-  "pct_piel": 2,
+  "pct_piel": 6,
   "pct_saturado": 0
  },
  "lectura": {
   "pct_miniaturas_oscuras": 100,
-  "pct_con_rostro_probable": 0,
+  "pct_con_rostro_probable": 25,
   "pct_con_amarillo": 0
  },
  "recomendacion": "Mixto: probar clara y oscura con 'Prueba y compara'",
@@ -35,40 +35,40 @@
    "pct_saturado": 0
   },
   {
-   "video_id": "Cr5oMKtpTLg",
-   "titulo": "6 Powerful Money Habits of Successful People | Elon Musk’s Lessons on Wealth & Success 🚀💰",
-   "vistas": 584738,
-   "ratio": 21.6,
-   "miniatura": "https://i.ytimg.com/vi/Cr5oMKtpTLg/maxresdefault.jpg",
-   "brillo": 43,
-   "pct_oscuro": 83,
+   "video_id": "DU8ihsNyqsU",
+   "titulo": "How to Make Money with AI in 2026",
+   "vistas": 121777,
+   "ratio": 39.0,
+   "miniatura": "https://i.ytimg.com/vi/DU8ihsNyqsU/maxresdefault.jpg",
+   "brillo": 30,
+   "pct_oscuro": 87,
    "pct_amarillo": 0,
-   "pct_piel": 2,
+   "pct_piel": 11,
    "pct_saturado": 1
   },
   {
-   "video_id": "h4kf2v-6KSI",
-   "titulo": "Financial Independence for Every Woman ❤️ | Why Every Woman Needs Her Own Money",
-   "vistas": 425866,
-   "ratio": 61.0,
-   "miniatura": "https://i.ytimg.com/vi/h4kf2v-6KSI/maxresdefault.jpg",
-   "brillo": 91,
-   "pct_oscuro": 39,
+   "video_id": "jqnZRMDyWbs",
+   "titulo": "☺️😜Wait for end🙈😆 #money #comedy #mistakes #blind #smile",
+   "vistas": 28812,
+   "ratio": 28.0,
+   "miniatura": "https://i.ytimg.com/vi/jqnZRMDyWbs/maxresdefault.jpg",
+   "brillo": 80,
+   "pct_oscuro": 56,
    "pct_amarillo": 0,
-   "pct_piel": 4,
+   "pct_piel": 6,
+   "pct_saturado": 1
+  },
+  {
+   "video_id": "LORlgjGpcLI",
+   "titulo": "😆Wait for end😂😜 #drinking #comedy #jokesvideo #money",
+   "vistas": 27731,
+   "ratio": 26.9,
+   "miniatura": "https://i.ytimg.com/vi/LORlgjGpcLI/maxresdefault.jpg",
+   "brillo": 70,
+   "pct_oscuro": 62,
+   "pct_amarillo": 0,
+   "pct_piel": 6,
    "pct_saturado": 0
-  },
-  {
-   "video_id": "0iJsTgSXB-E",
-   "titulo": "rich people habits #motivation #youtubeshorts #habits #rich",
-   "vistas": 31593,
-   "ratio": 15.1,
-   "miniatura": "https://i.ytimg.com/vi/0iJsTgSXB-E/maxresdefault.jpg",
-   "brillo": 27,
-   "pct_oscuro": 92,
-   "pct_amarillo": 0,
-   "pct_piel": 2,
-   "pct_saturado": 1
   }
  ]
 }
