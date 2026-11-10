@@ -8,7 +8,7 @@ Salida: planes/<perfil>.json (lo lee la pestaña Plan de la página). Cada pieza
 la cola de producción toma las piezas aprobadas.
 """
 import argparse, datetime as dt, json, math
-from .comun import cargar_env, ROOT, claude, ESTILO_GERMANCHO, canal_de, perfil as cargar_perfil, guardar_json, MOCK
+from .comun import cargar_env, ROOT, claude, estilo, marca, nivel_para, oferta, canal_de, perfil as cargar_perfil, guardar_json, MOCK
 
 PLANES = ROOT / "planes"
 EJES = {"equilibrate": "Amor (pareja, amor propio, familia, vínculos, emociones)", "mitribu": "Dinero", "soyintegral": "Salud"}
@@ -23,7 +23,7 @@ def radar_top(perfil_id, n=40):
             for v in d["videos"][:n]]
 
 
-def disenar(perfil, plan, n_series, n_shorts_radar, top):
+def disenar(perfil, plan, n_series, n_shorts_radar, top, n_conversion=0, n_rostro=0):
     """Diseña en llamadas pequeñas: una por serie (6 capítulos + 3 shorts c/u), otra para shorts del radar, en vivos y comunidad."""
     canal = canal_de(perfil["id"])
     contexto = f"""Canal: {perfil['canal']} · Eje: {EJES[canal]} · Objetivo: {plan['objetivo']}
@@ -41,7 +41,7 @@ Para cada capítulo, 3 SHORTS derivados (gancho corto que lleva al largo). Respo
   "shorts": [{{"titulo": "..", "gancho": ".."}}, {{"titulo": "..", "gancho": ".."}}, {{"titulo": "..", "gancho": ".."}}]}}, "... hasta n=6"]}}"""
         mock = {"nombre": f"Serie {i + 1}", "tema_madre": "x", "promesa": "y", "capitulos": [{"n": k, "titulo": f"Capítulo {k} serie {i + 1}", "subtema": "", "referencia_video_id": "",
                 "shorts": [{"titulo": f"Short {i + 1}.{k}.{j}", "gancho": ".."} for j in range(1, 4)]} for k in range(1, 7)]}
-        sr = claude(ESTILO_GERMANCHO, user, mock=mock, max_tokens=5000)
+        sr = claude(estilo(canal), user, mock=mock, max_tokens=5000)
         sr["capitulos"] = sr.get("capitulos", [])[:6]
         for c in sr["capitulos"]:
             c["shorts"] = (c.get("shorts") or [])[:3]
@@ -55,8 +55,22 @@ reto de la semana, pregunta). Responde SOLO JSON:
  "comunidad": [{{"tipo": "encuesta|reto|pregunta", "texto": ".."}}]}}"""
     mock = {"shorts_radar": [{"titulo": f"Short radar {i}", "gancho": "..", "referencia_video_id": (top[i]["video_id"] if i < len(top) else "")} for i in range(n_shorts_radar)],
             "vivos": [{"titulo": "En vivo de prueba", "pregunta_abierta": "..", "reto_colectivo": ".."}] * 3, "comunidad": [{"tipo": "encuesta", "texto": "¿Con qué cara amaneció tu Germancho?"}] * 3}
-    extra = claude(ESTILO_GERMANCHO, user, mock=mock, max_tokens=5000)
-    return {"series": series, "shorts_radar": extra.get("shorts_radar", []), "vivos": extra.get("vivos", []), "comunidad": extra.get("comunidad", [])}
+    extra = claude(estilo(canal), user, mock=mock, max_tokens=5000)
+    conv = {"conversion": [], "rostro": []}
+    if n_conversion or n_rostro:
+        of = oferta(nivel_para(canal, "conversion"))
+        user = contexto + f"""
+
+Piezas de CONVERSIÓN (10 % del contenido; la única con invitación explícita). Oferta del canal: {of.get('nombre', 'clase gratuita')}.
+(a) {n_conversion} SHORTS de Germancho que invitan sin vender: formatos «qué pasa en la clase gratuita», «historia de alguien que hizo el reto 7 días», «cómo trabajo con la gente»,
+    «3 preguntas que me hacen siempre». Cada uno con gancho y la invitación al final.
+(b) {n_rostro} piezas con ROSTRO REAL (Germán a cámara, 60–90 s; él las graba, la fábrica las edita): tema, gancho de 1 frase, 3 ideas, cierre con invitación.
+Responde SOLO JSON: {{"conversion": [{{"titulo": "..", "gancho": "..", "formato": ".."}}], "rostro": [{{"titulo": "..", "gancho": "..", "ideas": ["..", "..", ".."], "cierre": ".."}}]}}"""
+        mock = {"conversion": [{"titulo": f"Conversión {i}", "gancho": "..", "formato": "clase"} for i in range(n_conversion)],
+                "rostro": [{"titulo": f"Rostro {i}", "gancho": "..", "ideas": ["a", "b", "c"], "cierre": ".."} for i in range(n_rostro)]}
+        conv = claude(estilo(canal), user, mock=mock, max_tokens=4000)
+    return {"series": series, "shorts_radar": extra.get("shorts_radar", []), "vivos": extra.get("vivos", []), "comunidad": extra.get("comunidad", []),
+            "conversion": conv.get("conversion", []), "rostro": conv.get("rostro", [])}
 
 
 def calendario(perfil, plan, diseno, desde, hasta):
@@ -66,34 +80,56 @@ def calendario(perfil, plan, diseno, desde, hasta):
     shorts_der = [dict(sh, serie=s["nombre"], capitulo=c["n"], capitulo_titulo=c["titulo"]) for s in diseno["series"] for c in s["capitulos"] for sh in c["shorts"]]
     shorts_radar = list(diseno.get("shorts_radar", []))
     vivos = list(diseno.get("vivos", [])); comunidad = list(diseno.get("comunidad", []))
+    conversion = list(diseno.get("conversion", [])); rostro = list(diseno.get("rostro", []))
+    canal = canal_de(perfil["id"])
+    mezcla = marca().get("tipos_contenido", {}).get("mezcla", {"atraccion": 0.6, "nutricion": 0.3, "conversion": 0.1})
+    conv_semana = max(1, round(plan["shorts_semana"] * mezcla.get("conversion", 0.1))) if conversion else 0
+    quincenal = plan["shorts_semana"] < 5          # con pocos shorts, la conversión va cada dos semanas para no comerse la atracción
+    dia_conv = sorted(plan["dias_shorts"])[-conv_semana:] if plan["dias_shorts"] else []   # últimos días de shorts de la semana → conversión
+    dia_rostro = sorted(plan["dias_shorts"])[len(plan["dias_shorts"]) // 2] if (rostro and plan["dias_shorts"]) else None
     piezas, k = [], 0
-    li = si_der = si_rad = vi = ci = 0
+    li = si_der = si_rad = vi = ci = co = ro = 0
     for d in dias:
         wd = d.weekday()
         if wd in plan["dias_largos"] and li < len(largos):
             c = largos[li]; li += 1; k += 1
+            tc = "atraccion" if c["n"] == 1 else "nutricion"
             piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-L", "fecha": d.isoformat(), "hora": plan["hora_largos"], "tipo": "largo", "serie": c["serie"], "capitulo": c["n"],
-                           "titulo": c["titulo"], "subtema": c.get("subtema", ""), "referencia_video_id": c.get("referencia_video_id", ""), "minutos": plan["minutos_largo"], "estado": "planificado"})
-        if wd in plan["dias_shorts"]:
-            # alternar: 2 derivados del largo más reciente, 1 del radar
+                           "titulo": c["titulo"], "subtema": c.get("subtema", ""), "referencia_video_id": c.get("referencia_video_id", ""), "minutos": plan["minutos_largo"],
+                           "tipo_contenido": tc, "nivel": nivel_para(canal, tc), "estado": "planificado"})
+        if wd in dia_conv and co < len(conversion) and not (quincenal and ((d - desde).days // 7) % 2):
+            c = conversion[co]; co += 1
+            piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-S", "fecha": d.isoformat(), "hora": plan["hora_shorts"], "tipo": "short", "origen": "conversion",
+                           "titulo": c["titulo"], "gancho": c.get("gancho", ""), "formato_conv": c.get("formato", ""), "referencia_video_id": "",
+                           "tipo_contenido": "conversion", "nivel": nivel_para(canal, "conversion"), "estado": "planificado"})
+        elif wd in plan["dias_shorts"]:
+            # mezcla objetivo: ~60 % atracción (radar) / ~40 % nutrición (derivados de los largos), según config/marca.json
             fuente = None
-            if (k + si_der) % 3 != 2 and si_der < len(shorts_der):
-                fuente = shorts_der[si_der]; si_der += 1; tipo_src = "derivado"
-            elif si_rad < len(shorts_radar):
+            quiere_radar = si_rad < max(1, (si_rad + si_der + 1) * mezcla.get("atraccion", 0.6))
+            if quiere_radar and si_rad < len(shorts_radar):
                 fuente = shorts_radar[si_rad]; si_rad += 1; tipo_src = "radar"
             elif si_der < len(shorts_der):
                 fuente = shorts_der[si_der]; si_der += 1; tipo_src = "derivado"
+            elif si_rad < len(shorts_radar):
+                fuente = shorts_radar[si_rad]; si_rad += 1; tipo_src = "radar"
             if fuente:
+                tc = "atraccion" if tipo_src == "radar" else "nutricion"
                 piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-S", "fecha": d.isoformat(), "hora": plan["hora_shorts"], "tipo": "short", "origen": tipo_src,
                                "serie": fuente.get("serie", ""), "capitulo": fuente.get("capitulo", ""), "titulo": fuente["titulo"], "gancho": fuente.get("gancho", ""),
-                               "referencia_video_id": fuente.get("referencia_video_id", ""), "estado": "planificado"})
+                               "referencia_video_id": fuente.get("referencia_video_id", ""), "tipo_contenido": tc, "nivel": nivel_para(canal, tc), "estado": "planificado"})
+        if wd == dia_rostro and ro < len(rostro):
+            r = rostro[ro]; ro += 1
+            piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-R", "fecha": d.isoformat(), "hora": plan["hora_shorts"], "tipo": "rostro", "titulo": r["titulo"], "gancho": r.get("gancho", ""),
+                           "ideas": r.get("ideas", []), "cierre": r.get("cierre", ""), "tipo_contenido": "conversion", "nivel": nivel_para(canal, "conversion"),
+                           "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.", "estado": "planificado"})
         if wd in plan.get("dias_vivos", []) and vivos:
             v = vivos[vi % len(vivos)]; vi += 1
             piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-V", "fecha": d.isoformat(), "hora": plan["hora_vivos"], "tipo": "vivo", "titulo": v["titulo"],
-                           "pregunta_abierta": v.get("pregunta_abierta", ""), "reto_colectivo": v.get("reto_colectivo", ""), "minutos": plan["duracion_vivo_min"], "estado": "planificado"})
+                           "pregunta_abierta": v.get("pregunta_abierta", ""), "reto_colectivo": v.get("reto_colectivo", ""), "minutos": plan["duracion_vivo_min"],
+                           "tipo_contenido": "nutricion", "nivel": nivel_para(canal, "nutricion"), "estado": "planificado"})
         if comunidad and plan.get("comunidad_semana", 0) and wd in [0, 3, 5][: plan["comunidad_semana"]]:
             c = comunidad[ci % len(comunidad)]; ci += 1
-            piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-C", "fecha": d.isoformat(), "hora": "09:00", "tipo": "comunidad", "titulo": c["texto"], "subtipo": c.get("tipo", ""), "estado": "planificado"})
+            piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-C", "fecha": d.isoformat(), "hora": "09:00", "tipo": "comunidad", "titulo": c["texto"], "subtipo": c.get("tipo", ""), "tipo_contenido": "nutricion", "estado": "planificado"})
     return piezas
 
 
@@ -122,13 +158,18 @@ def main():
     n_largos = round(plan["largos_semana"] * semanas)
     n_series = max(math.ceil(n_largos / 6), 1)
     n_shorts = round(plan["shorts_semana"] * semanas)
-    n_shorts_radar = max(n_shorts - n_largos * 3, 4)
+    n_shorts_radar = max(round(n_shorts * 0.6), 4)
     top = radar_top(a.perfil)
-    print(f"=== Plan {a.perfil} [{plan['modo']}] {desde} → {hasta}: {n_largos} largos en {n_series} series, {n_shorts} shorts, {len(top)} referencias del radar")
-    diseno = disenar(p, plan, n_series, n_shorts_radar, top)
+    mezcla = marca().get("tipos_contenido", {}).get("mezcla", {})
+    n_conv = round(max(1, round(plan["shorts_semana"] * mezcla.get("conversion", 0.1))) * semanas / (1 if plan["shorts_semana"] >= 5 else 2)) if plan["shorts_semana"] else 0
+    n_rostro = round(semanas) if plan.get("rostro_semana", 1) else 0
+    print(f"=== Plan {a.perfil} [{plan['modo']}] {desde} → {hasta}: {n_largos} largos en {n_series} series, {n_shorts} shorts ({n_conv} de conversión), {n_rostro} piezas con rostro, {len(top)} referencias del radar")
+    diseno = disenar(p, plan, n_series, n_shorts_radar, top, n_conv, n_rostro)
     piezas = calendario(p, plan, diseno, desde, hasta)
     out = {"perfil": a.perfil, "canal": p["canal"], "plan": plan, "desde": desde.isoformat(), "hasta": hasta.isoformat(), "generado": dt.datetime.now().isoformat(timespec="seconds"),
-           "series": diseno["series"], "vivos": diseno.get("vivos", []), "comunidad": diseno.get("comunidad", []), "piezas": piezas, "proyeccion": proyeccion(plan, piezas, desde, hasta)}
+           "series": diseno["series"], "vivos": diseno.get("vivos", []), "comunidad": diseno.get("comunidad", []), "conversion": diseno.get("conversion", []), "rostro": diseno.get("rostro", []),
+           "mezcla": {t: sum(1 for x in piezas if x.get("tipo_contenido") == t) for t in ("atraccion", "nutricion", "conversion")},
+           "piezas": piezas, "proyeccion": proyeccion(plan, piezas, desde, hasta)}
     PLANES.mkdir(exist_ok=True)
     guardar_json(PLANES / f"{a.perfil}.json", out)
     idx = {"planes": [json.loads(f.read_text()) | {"piezas": None, "series": None} for f in sorted(PLANES.glob("*.json")) if f.name != "index.json"]}

@@ -11,7 +11,8 @@ El MP4 largo NO se guarda en el repositorio (tamaño); queda como artefacto del 
 import argparse, base64, datetime as dt, json, os, re, shutil, subprocess, sys, time
 import requests
 from PIL import Image, ImageStat
-from .comun import cargar_env, OUT, ROOT, PAGES_BASE, slug, perfil as cargar_perfil, canal_de, guardar_json, claude, ESTILO_GERMANCHO, MOCK, CANAL_COLOR, POSES
+from .comun import cargar_env, OUT, ROOT, PAGES_BASE, slug, perfil as cargar_perfil, canal_de, guardar_json, claude, estilo, oferta, nivel_para, MOCK, CANAL_COLOR, POSES
+from .produce import cta_para, comentario_fijado
 from . import adn, voz, imagenes, render
 from .indice import main as reconstruir_indice
 
@@ -27,15 +28,19 @@ def ambientes_de(canal):
 # ----------------------------------------------------------------------------
 # 1. Guion largo en dos pasos: estructura de capítulos → escenas por capítulo
 # ----------------------------------------------------------------------------
-def estructura(ficha, p, minutos, ambientes):
+def estructura(ficha, p, minutos, ambientes, tipo_contenido="atraccion", nivel=""):
     canal = canal_de(p["id"])
     palabras = minutos * PALABRAS_POR_MIN
+    nivel = nivel or nivel_para(canal, tipo_contenido)
+    of = oferta(nivel); cierre = of.get("linea_hablada", "") if (of.get("enlace_resuelto") or MOCK) else ""
+    instr_cta = (f"En el cierre, después del Reto, UNA frase de invitación suave (no venta): «{cierre}»." if tipo_contenido == "conversion" and cierre
+                 else "En el cierre no menciones productos ni mentorías: Reto de hoy y suscripción con una razón.")
     user = f"""Canal: {p['canal']} · Idioma: {p['idioma']} · Video LARGO de {minutos} minutos (~{palabras} palabras habladas).
 FICHA DE ADN del video de referencia (replica estructura y gancho, no el contenido):
 {json.dumps(ficha['adn'], ensure_ascii=False)}
 
 Diseña la estructura: gancho de 25–35 s que promete algo concreto y abre un bucle, 4–6 capítulos con mini-gancho al inicio de cada uno
-(para que el espectador no se vaya), y un cierre de 40–60 s con resumen, Reto de hoy y CTA. Cada capítulo ocurre en UN ambiente de esta lista: {list(ambientes)}.
+(para que el espectador no se vaya), y un cierre de 40–60 s con resumen, Reto de hoy y CTA. {instr_cta} Cada capítulo ocurre en UN ambiente de esta lista: {list(ambientes)}.
 Responde SOLO JSON:
 {{"titulo": "sin hashtags, máx 70 caracteres", "titulos_alternativos": ["..",".."], "promesa": "qué se lleva el espectador",
  "descripcion": "4–6 líneas con palabras clave, sin enlaces",
@@ -51,7 +56,8 @@ Responde SOLO JSON:
                           {"n": 2, "titulo": "Días 4–7", "ambiente": "consultorio", "palabras": 90, "objetivo": "energía", "idea_clave": "La energía se estabiliza"},
                           {"n": 3, "titulo": "Cierre", "ambiente": "cafeteria", "palabras": 60, "objetivo": "reto", "idea_clave": "Reto de hoy"}],
             "reto_de_hoy": "Lee la etiqueta de lo primero que comas mañana."}
-    e = claude(ESTILO_GERMANCHO, user, mock=mock, max_tokens=4000)
+    e = claude(estilo(canal), user, mock=mock, max_tokens=4000)
+    e["tipo_contenido"] = tipo_contenido; e["nivel"] = nivel
     for c in e["capitulos"]:
         if c.get("ambiente") not in ambientes:
             c["ambiente"] = next(iter(ambientes))
@@ -70,7 +76,7 @@ y la invitación a comentar. Dentro de los textos no uses comillas dobles. Respo
     mock = {"escenas": [{"texto": f"Texto de prueba del capítulo {cap['n']} escena uno con suficientes palabras para medir el tiempo de la voz y el ritmo general del video largo de prueba.", "emocion": "sereno", "objeto": "taza", "pose": "butaco_tazas", "prompt_visual": "holding a mug", "texto_en_pantalla": cap["idea_clave"]},
                         {"texto": f"Texto de prueba del capítulo {cap['n']} escena dos que continúa la idea anterior y añade un ejemplo cotidiano para sostener la atención del espectador.", "emocion": "alegria", "objeto": "cuaderno", "pose": "senalando", "prompt_visual": "pointing", "texto_en_pantalla": ""}],
             "resumen": "Se explicó la idea del capítulo."}
-    r = claude(ESTILO_GERMANCHO, user, mock=mock, max_tokens=4000)
+    r = claude(estilo(canal_de(p["id"])), user, mock=mock, max_tokens=4000)
     for e in r["escenas"]:
         if e.get("pose") not in POSES:
             e["pose"] = "saludando"
@@ -216,6 +222,7 @@ def main():
     ap.add_argument("--perfil", required=True); ap.add_argument("--video_id", default=""); ap.add_argument("--tema", default="")
     ap.add_argument("--minutos", type=int, default=15)
     ap.add_argument("--economico", action="store_true", help="una imagen por capítulo (≈ 1/5 del costo); variedad por cámara y texto en pantalla")
+    ap.add_argument("--tipo", default="atraccion", choices=["atraccion", "nutricion", "conversion"]); ap.add_argument("--nivel", default="")
     a = ap.parse_args()
     if not a.video_id and not a.tema:
         sys.exit("Indica --video_id o --tema")
@@ -224,7 +231,7 @@ def main():
     print(f"=== Largo · {p['canal']} · {a.minutos} min · {'video ' + a.video_id if a.video_id else 'tema: ' + a.tema}{' · ECONÓMICO' if a.economico else ''}{' · MOCK' if MOCK else ''}")
 
     f = adn.ficha(a.video_id or None, a.tema or None, p["idioma"])
-    est = estructura(f, p, a.minutos, ambientes)
+    est = estructura(f, p, a.minutos, ambientes, a.tipo, a.nivel)
     nombre = f"{dt.date.today():%Y%m%d}-{p['id']}-largo-{slug(est['titulo'], 40)}"
     d = OUT / nombre; (d / "escenas").mkdir(parents=True, exist_ok=True)
     guardar_json(d / "ficha.json", f)
@@ -278,17 +285,14 @@ def main():
     tam = os.path.getsize(mp4) / 1e6
 
     capitulos_txt = "\n".join(f"{fmt_ts(c['inicio_s'])} {c['titulo']}" for c in est["capitulos"])
-    cfg = json.loads((ROOT / "config/perfiles.json").read_text()); enlaces = cfg.get("_enlaces", {})
-    cta = "\n".join(l for l in (p.get("cta") or "").split("\n") if l.strip() and all(("{" + k + "}") not in l or v for k, v in enlaces.items()))
-    for k_, v_ in enlaces.items():
-        cta = cta.replace("{" + k_ + "}", v_)
-    cta = "\n".join(l for l in cta.split("\n") if "{ENLACE_" not in l)
+    cta, of, enlaces = cta_para(p, canal, est)
     meta = {"id": nombre, "perfil": p["id"], "canal": p["canal"], "formato": "largo", "modo": "economico" if a.economico else "completo", "fecha": dt.datetime.now().isoformat(timespec="seconds"),
             "titulo": est["titulo"], "titulos_alternativos": est.get("titulos_alternativos", []),
             "descripcion": est["descripcion"] + "\n\nCapítulos:\n" + capitulos_txt + ("\n\n" + cta if cta else "") + "\n\n" + " ".join(est["hashtags"]),
             "hashtags": est["hashtags"], "reto_de_hoy": est.get("reto_de_hoy", ""), "duracion_s": round(dur, 1), "tamano_mb": round(tam, 1),
             "capitulos": [{"n": c["n"], "titulo": c["titulo"], "inicio_s": c["inicio_s"], "ambiente": c["ambiente"]} for c in est["capitulos"]],
-            "fuente": f["fuente"], "estado": "pendiente_aprobacion",
+            "fuente": f["fuente"], "estado": "pendiente_aprobacion", "tipo_contenido": est.get("tipo_contenido", "atraccion"), "nivel": of.get("nivel", ""), "cta": cta,
+            "comentario_fijado": comentario_fijado(canal, est, of),
             "archivos": {"video": f"{nombre}/largo.mp4", "miniatura": f"{nombre}/miniatura.jpg", "miniatura_16x9": f"{nombre}/miniatura_16x9.jpg", "guion": f"{nombre}/guion.json", "ficha": f"{nombre}/ficha.json",
                          "miniaturas": [f"{nombre}/{x}" for x in sorted(os.listdir(d)) if x.startswith("miniatura") and x.endswith(".jpg")]},
             "video_en_repositorio": tam < 90, "nota": "" if tam < 90 else "El MP4 supera el límite de GitHub: descárgalo desde el artefacto del workflow (Actions → esta corrida → Artifacts).",

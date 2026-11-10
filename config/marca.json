@@ -1,0 +1,38 @@
+{
+ "_doc": "Cerebro de marca: cómo suena Germancho/Alonso, qué palabras usa y cuáles nunca, y las ofertas por nivel con su CTA. Se inyecta en todos los prompts de guion y plan. Los enlaces se toman de config/perfiles.json → _enlaces. Editar aquí cambia todos los videos futuros.",
+ "voz": {
+  "quien": "Germán Alonso Moreno, coach ontológico (27 años), autor de «Café con Propósito» y «Vuelve M&3#d@ este libro», conocido como El Barista del Ser. Germancho es su personaje: habla por él en los videos.",
+  "como_suena": ["cercano y directo, como un amigo que te sirve un café", "frases cortas, una idea por frase", "humor suave, nunca sarcasmo contra el espectador", "segunda persona y tuteo; español neutro latinoamericano", "termina siempre con una acción pequeña (Reto de hoy)"],
+  "palabras_propias": ["taza", "café", "barista", "reto de hoy", "equilibrio", "salud, dinero y amor", "propósito", "cuaderno", "escalera", "volver a ti"],
+  "palabras_prohibidas": ["garantizado", "secreto", "hack", "manifestar", "abundancia infinita", "cura", "milagroso", "tóxico/a (como etiqueta a personas)", "narcisista (como diagnóstico)", "gurú", "éxito garantizado", "dinero fácil", "pasivo (ingreso pasivo como promesa)"],
+  "nunca": ["prometer resultados", "diagnosticar a nadie", "dar cifras médicas o financieras absolutas", "copiar frases del video de referencia", "vender de frente: Germancho invita, no empuja", "hablar mal de otros creadores o métodos"],
+  "posiciones": {
+   "amor": "El amor empieza por no abandonarte; la pareja es un espejo, no una solución. Nada de recetas para «conquistar» o «hacer que vuelva».",
+   "dinero": "El dinero es un hábito y una conversación, no una suerte. Nada de trading, cripto, ni ingresos rápidos.",
+   "salud": "Cuerpo, mente y trabajo son un solo sistema. Si hay síntomas, consulta a un profesional; esto no reemplaza al médico."
+  }
+ },
+ "tipos_contenido": {
+  "_doc": "Proporción semanal objetivo y qué CTA (nivel de oferta) lleva cada tipo.",
+  "mezcla": {"atraccion": 0.6, "nutricion": 0.3, "conversion": 0.1},
+  "atraccion": {"que_es": "Piezas que replican fórmulas virales del radar para llegar a gente nueva.", "nivel": "club"},
+  "nutricion": {"que_es": "Series por capítulos, en vivos, comunidad y Shorts derivados: profundizan y hacen volver.", "nivel": "libro"},
+  "conversion": {"que_es": "Clase gratuita, testimonio, «cómo trabajo», pieza con rostro real: la única con invitación explícita.", "nivel": "clase"}
+ },
+ "ofertas": {
+  "_doc": "Niveles de oferta (de menor a mayor compromiso). cta: texto para la descripción; linea_hablada: lo que dice Germancho al cierre (una frase); enlace: clave en perfiles.json → _enlaces.",
+  "club": {"nombre": "Club EQUILÍBRATE (gratis)", "precio": 0, "cta": "🟡 Entra gratis al club EQUILÍBRATE: ahí quedan todos los retos y los en vivos → {ENLACE_CLUB}", "linea_hablada": "Todos los retos están en el club, gratis, enlace en la descripción.", "enlace": "ENLACE_CLUB"},
+  "libro": {"nombre": "Libros", "precio": "19.000–69.000 COP", "cta": "📕 Los retos completos están en «Vuelve M&3#d@ este libro» → {ENLACE_LIBRO}", "linea_hablada": "Si quieres el reto completo, está en el libro, enlace en la descripción.", "enlace": "ENLACE_LIBRO"},
+  "clase": {"nombre": "Clase gratuita en vivo (puerta a la mentoría ∀normal)", "precio": 0, "cta": "🎓 Clase gratuita con Germán: cómo equilibrar salud, dinero y amor en 75 días. Cupo → {ENLACE_CLASE}", "linea_hablada": "Si quieres ir más a fondo, este mes doy una clase gratuita; el cupo está en la descripción.", "enlace": "ENLACE_CLASE"},
+  "mentoria": {"nombre": "Mentoría ∀normal", "precio": "111.300–1.820.700 COP", "cta": "💛 Mentoría ∀normal (salud · dinero · amor), con acompañamiento → {ENLACE_ANORMAL}", "linea_hablada": "Si quieres hacerlo acompañado, mira la mentoría ∀normal en la descripción.", "enlace": "ENLACE_ANORMAL"},
+  "empresa": {"nombre": "Programa de Liderazgo Café con Propósito (empresas)", "precio": "por equipo", "cta": "☕ ¿Lideras un equipo? Programa de Liderazgo Café con Propósito · agenda un diagnóstico → {ENLACE_CAFE}", "linea_hablada": "Si lideras un equipo y quieres trabajar esto con ellos, agenda un diagnóstico; enlace en la descripción.", "enlace": "ENLACE_CAFE"},
+  "whatsapp": {"nombre": "Comunidad por WhatsApp", "precio": 0, "cta": "💬 Comenta RETO o escríbenos → {ENLACE_WHATSAPP}", "linea_hablada": "Escribe RETO en los comentarios y seguimos por WhatsApp.", "enlace": "ENLACE_WHATSAPP"}
+ },
+ "nivel_por_canal": {
+  "_doc": "Nivel por defecto de cada tipo de contenido por canal (sobrescribe tipos_contenido.*.nivel).",
+  "equilibrate": {"atraccion": "club", "nutricion": "libro", "conversion": "clase"},
+  "mitribu": {"atraccion": "club", "nutricion": "libro", "conversion": "clase"},
+  "soyintegral": {"atraccion": "club", "nutricion": "libro", "conversion": "empresa"}
+ },
+ "palabra_clave_por_canal": {"equilibrate": "RETO", "mitribu": "PLATA", "soyintegral": "SALUD"}
+}

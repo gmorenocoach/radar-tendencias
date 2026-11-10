@@ -104,6 +104,62 @@ def parsear_json(texto):
         raise RuntimeError(f"JSON inválido de Claude: {e}\n{bruto[:500]}")
 
 
+# ----------------------------------------------------------------------------
+# Cerebro de marca (config/marca.json)
+# ----------------------------------------------------------------------------
+def marca():
+    p = ROOT / "config/marca.json"
+    return json.loads(p.read_text()) if p.exists() else {}
+
+
+def enlaces():
+    try:
+        return json.loads((ROOT / "config/perfiles.json").read_text()).get("_enlaces", {})
+    except Exception:
+        return {}
+
+
+def nivel_para(canal, tipo_contenido):
+    m = marca()
+    return m.get("nivel_por_canal", {}).get(canal, {}).get(tipo_contenido) or m.get("tipos_contenido", {}).get(tipo_contenido, {}).get("nivel", "club")
+
+
+def oferta(nivel):
+    """Oferta del nivel con su CTA resuelto. Devuelve {} si el nivel no existe; cta vacío si falta el enlace."""
+    o = dict(marca().get("ofertas", {}).get(nivel) or {})
+    if not o:
+        return {}
+    en = enlaces()
+    cta = o.get("cta", "")
+    for k, v in en.items():
+        cta = cta.replace("{" + k + "}", v or "")
+    o["enlace_resuelto"] = en.get(o.get("enlace", ""), "")
+    o["cta_resuelto"] = "" if ("{ENLACE_" in cta or not o["enlace_resuelto"]) else cta
+    o["nivel"] = nivel
+    return o
+
+
+def estilo(canal=None):
+    """ESTILO_GERMANCHO + cerebro de marca (voz, palabras, posiciones del canal)."""
+    m = marca().get("voz", {})
+    if not m:
+        return ESTILO_GERMANCHO
+    partes = [ESTILO_GERMANCHO, "\nCEREBRO DE MARCA:", m.get("quien", "")]
+    if m.get("como_suena"):
+        partes.append("Cómo suena: " + "; ".join(m["como_suena"]) + ".")
+    if m.get("palabras_propias"):
+        partes.append("Palabras propias (úsalas con naturalidad, no todas a la vez): " + ", ".join(m["palabras_propias"]) + ".")
+    if m.get("palabras_prohibidas"):
+        partes.append("Palabras y promesas PROHIBIDAS: " + ", ".join(m["palabras_prohibidas"]) + ".")
+    if m.get("nunca"):
+        partes.append("Nunca: " + "; ".join(m["nunca"]) + ".")
+    pos = m.get("posiciones", {})
+    eje = {"equilibrate": "amor", "mitribu": "dinero", "soyintegral": "salud"}.get(canal or "", "")
+    if eje and pos.get(eje):
+        partes.append(f"Posición del canal ({eje}): {pos[eje]}")
+    return "\n".join(partes)
+
+
 ESTILO_GERMANCHO = """Eres el guionista de "Germancho", el personaje de los libros de Germán Alonso Moreno (coach ontológico, "El Barista del Ser",
 autor de "Café con Propósito" y "Vuelve M&3#d@ este libro"). Germancho habla en segunda persona, cercano, directo, con humor suave y
 sin moralizar. Usa frases cortas, imágenes cotidianas (café, cuaderno, escalera, taza) y siempre termina con un "Reto de hoy":

@@ -26,12 +26,17 @@ def producir(pieza, plan):
             cmd.append("--economico")
     else:
         cmd = [sys.executable, "-m", "fabrica.produce", "--perfil", perfil]
+    if pieza.get("tipo_contenido"):
+        cmd += ["--tipo", pieza["tipo_contenido"]]
+    if pieza.get("nivel"):
+        cmd += ["--nivel", pieza["nivel"]]
     vid = (pieza.get("referencia_video_id") or "").strip()
     if len(vid) == 11:
         cmd += [f"--video_id={vid}"]          # con '=' porque algunos IDs de YouTube empiezan por '-'
     
     else:
-        tema = pieza["titulo"] + (f". Gancho: {pieza['gancho']}" if pieza.get("gancho") else "") + (f". Serie: {pieza['serie']}, capítulo {pieza['capitulo']}" if pieza.get("serie") else "")
+        tema = pieza["titulo"] + (f". Gancho: {pieza['gancho']}" if pieza.get("gancho") else "") + (f". Serie: {pieza['serie']}, capítulo {pieza['capitulo']}" if pieza.get("serie") else "") \
+            + (f". Formato de conversión: {pieza['formato_conv']}" if pieza.get("formato_conv") else "")
         cmd += [f"--tema={tema}"]
     print(f"\n>>> {pieza['id']} · {pieza['tipo']} · {pieza['titulo'][:60]}")
     t0 = time.time()

@@ -1,14 +1,20 @@
 """Guion de Short (45–60 s) en escenas, con la voz de Germancho, a partir de la ficha de ADN y el perfil del canal."""
 import json, re
-from .comun import claude, ESTILO_GERMANCHO, POSES, CANAL_COLOR, canal_de
+from .comun import claude, estilo, oferta, nivel_para, POSES, CANAL_COLOR, canal_de, MOCK
 
 EJES = {"equilibrate": "Amor (pareja, amor propio, familia, vínculos)", "mitribu": "Dinero (mentalidad financiera, ingresos, hábitos con el dinero)",
         "soyintegral": "Salud (hábitos, cuerpo, sueño, estrés, bienestar laboral)"}
 
 
-def guion(ficha, perfil, formato="shorts"):
+def guion(ficha, perfil, formato="shorts", tipo_contenido="atraccion", nivel=""):
     canal = canal_de(perfil["id"])
     adn = ficha["adn"]
+    nivel = nivel or nivel_para(canal, tipo_contenido)
+    of = oferta(nivel)
+    cierre = of.get("linea_hablada", "") if (of.get("enlace_resuelto") or MOCK) else ""
+    instr_cta = (f"TIPO DE CONTENIDO: {tipo_contenido}. " +
+                 (f"Después del Reto, UNA frase de invitación suave (no venta): «{cierre}»." if tipo_contenido == "conversion" and cierre
+                  else "No menciones productos ni mentorías; solo el reto y la suscripción."))
     largo = "45–58 segundos (120–150 palabras habladas)" if formato == "shorts" else "8–10 minutos (1.200–1.500 palabras)"
     n_escenas = "6 a 8" if formato == "shorts" else "20 a 30"
     user = f"""Canal: {perfil['canal']} · Eje: {EJES[canal]} · Idioma: {perfil['idioma']} · Formato: {formato} ({largo}).
@@ -20,7 +26,9 @@ Escribe el guion de Germancho en {n_escenas} escenas. Cada escena: una o dos fra
 (se dibuja en el color del canal), una pose del libro entre {list(POSES)} y un prompt visual corto en inglés para ilustrar la escena.
 El gancho va en la escena 1 y debe funcionar en los primeros 2 segundos. La última escena es el "Reto de hoy" y termina con UNA frase corta
 que pida la suscripción con una razón (ej.: «Suscríbete: mañana hay otro reto»). Si el tema viene de un capítulo de una serie, menciona «el video completo está en el canal».
-IMPORTANTE: el total hablado debe sumar {largo}; cuenta las palabras. El título va SIN hashtags ni emojis.
+{instr_cta}
+Además entrega "ganchos_alternativos": 3 versiones DISTINTAS de la escena 1 (misma duración, otro ángulo: pregunta / dato o contradicción / historia en primera persona),
+para probar cuál retiene mejor. IMPORTANTE: el total hablado debe sumar {largo}; cuenta las palabras. El título va SIN hashtags ni emojis.
 Dentro de los textos usa comillas angulares «» o ninguna; NUNCA comillas dobles " (rompen el JSON). Devuelve JSON válido y completo.
 
 Responde SOLO con JSON:
@@ -30,6 +38,7 @@ Responde SOLO con JSON:
  "miniatura": {{"texto": "2–4 palabras", "emocion": "alegria|miedo|ira|tristeza|asco|sorpresa", "objeto": "...", "pose": "una de la lista"}},
  "escenas": [{{"n": 1, "texto": "lo que dice Germancho", "emocion": "...", "objeto": "...", "pose": "...", "prompt_visual": "english, short", "segundos": 0}}],
  "reto_de_hoy": "una acción concreta de < 5 minutos",
+ "ganchos_alternativos": ["texto completo alternativo de la escena 1", "...", "..."],
  "palabras": 0}}"""
     mock = {"titulo": "La gente sigue sin plata por ESTO", "titulos_alternativos": ["3 hábitos que te mantienen sin dinero", "No es falta de plata"],
             "descripcion": "No es falta de dinero: son tres hábitos. Germancho te muestra cuáles y te deja un reto de 5 minutos. #dinero #habitos",
@@ -42,14 +51,15 @@ Responde SOLO con JSON:
                 {"n": 4, "texto": "Hábito tres: pospones la decisión importante para el lunes. Y el lunes nunca llega.", "emocion": "miedo", "objeto": "calendario", "pose": "escalera", "prompt_visual": "climbing a ladder made of calendar pages", "segundos": 10},
                 {"n": 5, "texto": "La buena noticia: los hábitos se cambian uno a la vez.", "emocion": "alegria", "objeto": "taza roja", "pose": "butaco_tazas", "prompt_visual": "sitting on a stool holding a red mug", "segundos": 7},
                 {"n": 6, "texto": "Reto de hoy: anota en un papel el último gasto que no necesitabas. Solo eso. Y cuéntame en comentarios.", "emocion": "alegria", "objeto": "tarjeta Reto", "pose": "letrero", "prompt_visual": "holding a sign that reads RETO", "segundos": 10}],
-            "reto_de_hoy": "Anota el último gasto que no necesitabas.", "palabras": 130}
-    g = claude(ESTILO_GERMANCHO, user, mock=mock, max_tokens=6000)
+            "reto_de_hoy": "Anota el último gasto que no necesitabas.", "palabras": 130,
+            "ganchos_alternativos": ["¿Y si el problema nunca fue la plata? Mira esto.", "El 70 % de la gente repite estos tres hábitos sin notarlo.", "Yo gasté mi primer sueldo en dos días. Así aprendí esto."]}
+    g = claude(estilo(canal), user, mock=mock, max_tokens=6000)
     palabras = sum(len(e.get("texto", "").split()) for e in g.get("escenas", []))
     minimo = 100 if formato == "shorts" else 900
     if len(g.get("escenas", [])) < 5 or palabras < minimo:
         print(f"  ! guion incompleto ({len(g.get('escenas', []))} escenas, {palabras} palabras); regenerando")
         user2 = user + f"\n\nTu intento anterior quedó incompleto ({len(g.get('escenas', []))} escenas, {palabras} palabras). Entrega las {n_escenas} escenas completas y el JSON cerrado."
-        g = claude(ESTILO_GERMANCHO, user2, mock=mock, max_tokens=6000)
+        g = claude(estilo(canal), user2, mock=mock, max_tokens=6000)
     ultima = g["escenas"][-1]["texto"].lower() if g.get("escenas") else ""
     if "reto" not in ultima and g.get("reto_de_hoy"):
         g["escenas"].append({"n": len(g["escenas"]) + 1, "texto": f"Reto de hoy: {g['reto_de_hoy'].rstrip('.')}. Cuéntame en comentarios cómo te fue.",
@@ -58,6 +68,9 @@ Responde SOLO con JSON:
     g["titulo"] = re.sub(r"\s*#\S+", "", g.get("titulo", "")).strip() or g.get("titulo", "")
     g["canal"] = canal
     g["color"] = CANAL_COLOR[canal][1]
+    g["tipo_contenido"] = tipo_contenido
+    g["nivel"] = nivel
+    g["ganchos_alternativos"] = [x for x in (g.get("ganchos_alternativos") or []) if isinstance(x, str) and len(x.split()) >= 4][:3]
     for e in g["escenas"]:
         if e.get("pose") not in POSES:
             e["pose"] = "saludando"
