@@ -94,12 +94,16 @@ def informe(perfil_id, n=5):
 
 Entrega un análisis comparativo accionable: (1) fórmulas de título que repiten (con 3 ejemplos reales y la plantilla), (2) qué formato y cadencia les funciona,
 (3) qué venden y cómo cierran, (4) qué NO está haciendo nadie (hueco), (5) plan de réplica para nosotros en 5 acciones concretas para las próximas 2 semanas,
-(6) 6 títulos nuevos para nosotros con esas plantillas (sin copiar). Responde SOLO JSON:
+(6) 6 títulos nuevos para nosotros con esas plantillas (sin copiar).
+REGLAS DE FORMATO: dentro de los textos usa comillas angulares «» o ninguna, NUNCA comillas dobles " (rompen el JSON). Textos cortos: cita ≤ 15 palabras, gancho ≤ 20 palabras, plantilla ≤ 12 palabras. Devuelve el JSON completo con TODAS las claves pedidas. Responde SOLO JSON:
 {{"formulas_titulo": [{{"plantilla": "..", "ejemplos": ["..", "..", ".."]}}], "formato_y_cadencia": "..", "como_venden": "..", "hueco": "..",
  "plan_replica": ["..", "..", "..", "..", ".."], "titulos_propuestos": [{{"titulo": "..", "formato": "short|largo"}}]}}"""
     mock = {"formulas_titulo": [{"plantilla": "N señales de que X", "ejemplos": ["5 señales de que 1"]}], "formato_y_cadencia": "largos de 15 min, 3/sem", "como_venden": "WhatsApp",
             "hueco": "nadie usa personaje", "plan_replica": ["a", "b", "c", "d", "e"], "titulos_propuestos": [{"titulo": "3 señales de que te quedas por costumbre", "formato": "short"}]}
-    an = claude(estilo(canal), user, mock=mock, max_tokens=4000)
+    an = claude(estilo(canal), user, mock=mock, max_tokens=6000)
+    if not all(k in an for k in ("formulas_titulo", "plan_replica", "titulos_propuestos")):
+        print(f"  ! análisis incompleto ({list(an)}); reintentando")
+        an = claude(estilo(canal), user + "\n\nTu intento anterior quedó incompleto o con JSON roto. Textos cortos, sin comillas dobles dentro de los textos, y TODAS las claves.", mock=mock, max_tokens=6000)
     out = {"perfil": perfil_id, "canal": p["canal"], "generado": dt.datetime.now().isoformat(timespec="seconds"), "canales": fichas, "analisis": an}
     for f in fichas:
         f.pop("titulos", None)

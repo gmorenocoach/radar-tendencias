@@ -78,11 +78,15 @@ def analizar(perfil_id, n_virales=20, n_propios=15):
 Tarea: encuentra lo que la gente PREGUNTA o PIDE (dudas, objeciones, situaciones concretas), no los elogios. Agrupa en 8–12 temas.
 Para cada tema: cuántos comentarios lo tocan (aprox.), una cita textual corta, y una propuesta de Short de Germancho (título ≤ 60 caracteres con fórmula probada, gancho de 1 frase, reto de hoy).
 Marca "formato": "short" o "largo" según lo que amerite, y "urgencia": alta si se repite mucho o viene de nuestro propio canal.
+REGLAS DE FORMATO: dentro de los textos usa comillas angulares «» o ninguna, NUNCA comillas dobles " (rompen el JSON). Textos cortos: cita ≤ 15 palabras, gancho ≤ 20 palabras, plantilla ≤ 12 palabras. Devuelve el JSON completo con TODAS las claves pedidas.
 Responde SOLO JSON: {{"temas": [{{"tema": "..", "menciones": 0, "cita": "..", "origen": "viral|propio|ambos", "titulo": "..", "gancho": "..", "reto": "..", "formato": "short|largo", "urgencia": "alta|media|baja"}}],
  "objeciones_a_la_oferta": ["lo que la gente dice que le impide actuar"], "respuestas_sugeridas": [{{"a": "tipo de comentario frecuente", "respuesta": "respuesta corta de Germancho (≤ 40 palabras)"}}]}}"""
     mock = {"temas": [{"tema": "amor o costumbre", "menciones": 14, "cita": "¿Cómo sé si es amor o costumbre?", "origen": "ambos", "titulo": "3 señales de que es costumbre, no amor", "gancho": "Si no sabes si es amor o costumbre, mira esto.", "reto": "Escribe qué extrañarías.", "formato": "short", "urgencia": "alta"}],
             "objeciones_a_la_oferta": ["no tengo tiempo"], "respuestas_sugeridas": [{"a": "¿Y si mi pareja no quiere?", "respuesta": "Empieza por ti: el reto es tuyo, no de los dos."}]}
-    res = claude(estilo(canal), user, mock=mock, max_tokens=5000)
+    res = claude(estilo(canal), user, mock=mock, max_tokens=8000)
+    if len(res.get("temas", [])) < 4 or "respuestas_sugeridas" not in res:
+        print(f"  ! respuesta incompleta ({len(res.get('temas', []))} temas); reintentando con textos más cortos")
+        res = claude(estilo(canal), user + "\n\nTu intento anterior quedó incompleto o con JSON roto. Entrega los 8–12 temas con textos MUY cortos y sin comillas dobles dentro de los textos.", mock=mock, max_tokens=8000)
     out = {"perfil": perfil_id, "canal": p["canal"], "generado": dt.datetime.now().isoformat(timespec="seconds"), "videos_leidos": len(fuentes), "comentarios_leidos": total,
            "temas": res.get("temas", []), "objeciones_a_la_oferta": res.get("objeciones_a_la_oferta", []), "respuestas_sugeridas": res.get("respuestas_sugeridas", []),
            "fuentes": [{k: f[k] for k in ("origen", "video_id", "titulo", "n")} for f in fuentes]}
