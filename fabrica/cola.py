@@ -58,19 +58,23 @@ def main():
     perfiles = [a.perfil] if a.perfil else ([p.stem for p in PLANES.glob("*.json") if p.name != "index.json"] if (a.todos or a.pieza) else [])
     if not perfiles:
         sys.exit("Indica --perfil, --todos o --pieza")
-    hechas = 0
+    # candidatas por perfil, luego se intercalan (round-robin) para que ningún canal acapare la cola
+    colas = {}
     for pid in perfiles:
         plan, path = cargar(pid)
-        if not plan:
+        if not plan or (plan["plan"].get("modo") == "pausa" and not a.pieza):
             continue
-        if plan["plan"].get("modo") == "pausa" and not a.pieza:
-            continue
-        candidatas = [x for x in plan["piezas"] if x["tipo"] in ("largo", "short") and x.get("estado") in ("planificado", "error")
-                      and (x["id"] == a.pieza if a.pieza else dt.date.fromisoformat(x["fecha"]) <= hoy + dt.timedelta(days=a.dias))]
-        candidatas.sort(key=lambda x: (x["fecha"], 0 if x["tipo"] == "largo" else 1))
-        for pieza in candidatas:
-            if hechas >= a.max:
-                break
+        cands = [x for x in plan["piezas"] if x["tipo"] in ("largo", "short") and x.get("estado") in ("planificado", "error")
+                 and (x["id"] == a.pieza if a.pieza else dt.date.fromisoformat(x["fecha"]) <= hoy + dt.timedelta(days=a.dias))]
+        cands.sort(key=lambda x: (x["fecha"], 0 if x["tipo"] == "largo" else 1))
+        if cands:
+            colas[pid] = (plan, path, cands)
+    hechas = 0
+    while hechas < a.max and any(c[2] for c in colas.values()):
+        for pid, (plan, path, cands) in list(colas.items()):
+            if not cands or hechas >= a.max:
+                continue
+            pieza = cands.pop(0)
             pieza["estado"] = "produciendo"; guardar_json(path, plan)
             prod_id, msg = producir(pieza, plan)
             pieza["estado"] = "producido" if prod_id else "error"

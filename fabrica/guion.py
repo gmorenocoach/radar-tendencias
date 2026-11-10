@@ -18,7 +18,8 @@ FICHA DE ADN DEL VIDEO DE REFERENCIA (replica estructura y gancho, NO el conteni
 
 Escribe el guion de Germancho en {n_escenas} escenas. Cada escena: una o dos frases habladas, una emoción del personaje, un objeto de apoyo
 (se dibuja en el color del canal), una pose del libro entre {list(POSES)} y un prompt visual corto en inglés para ilustrar la escena.
-El gancho va en la escena 1 y debe funcionar en los primeros 2 segundos. La última escena es el "Reto de hoy".
+El gancho va en la escena 1 y debe funcionar en los primeros 2 segundos. La última escena es el "Reto de hoy" y termina con UNA frase corta
+que pida la suscripción con una razón (ej.: «Suscríbete: mañana hay otro reto»). Si el tema viene de un capítulo de una serie, menciona «el video completo está en el canal».
 IMPORTANTE: el total hablado debe sumar {largo}; cuenta las palabras. El título va SIN hashtags ni emojis.
 Dentro de los textos usa comillas angulares «» o ninguna; NUNCA comillas dobles " (rompen el JSON). Devuelve JSON válido y completo.
 

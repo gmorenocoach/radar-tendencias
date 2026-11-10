@@ -50,7 +50,7 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           FAL_KEY: ${{ secrets.FAL_KEY }}
         run: |
-          ARGS="--dias ${{ github.event.inputs.dias || 2 }} --max ${{ github.event.inputs.max || 4 }}"
+          ARGS="--dias ${{ github.event.inputs.dias || 2 }} --max ${{ github.event.inputs.max || 6 }}"
           if [ -n "${{ github.event.inputs.pieza }}" ]; then ARGS="$ARGS --pieza ${{ github.event.inputs.pieza }}";
           elif [ -n "${{ github.event.inputs.perfil }}" ]; then ARGS="$ARGS --perfil ${{ github.event.inputs.perfil }}";
           else ARGS="$ARGS --todos"; fi

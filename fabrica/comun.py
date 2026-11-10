@@ -77,10 +77,10 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0):
             try:
                 return parsear_json(texto)
             except RuntimeError as e:
-                if _intento == 0:
-                    print(f"  ! respuesta no JSON ({texto[:120]!r}); reintentando")
-                    return claude(system, user + "\n\nRESPONDE ÚNICAMENTE con el objeto JSON pedido, sin texto antes ni después, sin bloques de código.",
-                                  max_tokens, json_out, mock, _intento=1)
+                if _intento < 2:
+                    print(f"  ! respuesta no JSON ({texto[:120]!r}); reintentando ({_intento + 1})")
+                    return claude(system, user + "\n\nRESPONDE ÚNICAMENTE con el objeto JSON pedido, sin texto antes ni después, sin bloques de código. Escapa las comillas dentro de los textos.",
+                                  max_tokens, json_out, mock, _intento=_intento + 1)
                 raise
         if r.status_code in (429, 500, 529):
             time.sleep(5 * (intento + 1))

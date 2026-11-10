@@ -248,6 +248,7 @@ async function renderProducciones(){
         ${(p.archivos.miniaturas&&p.archivos.miniaturas.length?p.archivos.miniaturas:[p.archivos.miniatura,p.archivos.miniatura_16x9]).map(m=>`<a href="producciones/${m}" download title="${m.split('/').pop()}">🖼 ${m.split('/').pop().replace('miniatura','mini').replace('.jpg','')}</a>`).join('')}
         <button data-copy="${esc(p.titulo)}">Copiar título</button>
         <button data-copy="${esc(p.descripcion)}">Copiar descripción</button>
+        ${p.comentario_fijado?`<button data-copy="${esc(p.comentario_fijado)}">Copiar comentario fijado</button>`:''}
         <a href="producciones/${p.archivos.guion}" target="_blank">Guion</a>
         ${p.youtube_url?`<a href="${p.youtube_url}" target="_blank" rel="noopener">▶ Ver en YouTube</a>`:`<button data-pub="${p.id}" title="Copia el ID y abre el paso Marcar publicado">✓ Marcar publicado</button>`}
       </div>
