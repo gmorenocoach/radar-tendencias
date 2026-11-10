@@ -46,6 +46,20 @@ on:
         description: "Nombre de la voz de ElevenLabs (vacío = la del perfil)"
         required: false
         default: ""
+      tipo:
+        description: "Tipo de contenido (define el CTA)"
+        required: false
+        type: choice
+        options: [atraccion, nutricion, conversion]
+        default: atraccion
+      nivel:
+        description: "Nivel de oferta del CTA (vacío = según tipo y canal): club, libro, clase, mentoria, empresa"
+        required: false
+        default: ""
+      gancho:
+        description: "Con 'continuar': variante de gancho 1–3 (solo voz nueva; reutiliza escenas). 0 = no"
+        required: false
+        default: "0"
 
 permissions:
   contents: write
@@ -101,6 +115,9 @@ jobs:
           ARGS="--perfil ${{ github.event.inputs.perfil }}"
           if [ -n "${{ github.event.inputs.continuar }}" ]; then ARGS="$ARGS --continuar ${{ github.event.inputs.continuar }}"; fi
           if [ "${{ github.event.inputs.etapa }}" = "propuesta" ]; then ARGS="$ARGS --etapa propuesta"; fi
+          if [ -n "${{ github.event.inputs.tipo }}" ]; then ARGS="$ARGS --tipo ${{ github.event.inputs.tipo }}"; fi
+          if [ -n "${{ github.event.inputs.nivel }}" ]; then ARGS="$ARGS --nivel ${{ github.event.inputs.nivel }}"; fi
+          if [ "${{ github.event.inputs.gancho }}" != "0" ] && [ -n "${{ github.event.inputs.gancho }}" ]; then ARGS="$ARGS --gancho ${{ github.event.inputs.gancho }}"; fi
           if [ -n "${{ github.event.inputs.video_id }}" ]; then ARGS="$ARGS --video_id=${{ github.event.inputs.video_id }}"; fi
           if [ -n "${{ github.event.inputs.tema }}" ]; then ARGS="$ARGS --tema=\"${{ github.event.inputs.tema }}\""; fi
           if [ "${{ github.event.inputs.formato }}" = "largo" ]; then
@@ -114,7 +131,7 @@ jobs:
         with:
           name: short-${{ github.run_id }}
           path: |
-            producciones/*/short.mp4
+            producciones/*/short*.mp4
             producciones/*/largo.mp4
             producciones/*/miniatura*.jpg
             producciones/*/metadata.json

@@ -26,7 +26,8 @@
    "min_engagement": 0.015,
    "max_busquedas": 10,
    "voz_id": "W1hAcdh0RNsPYUA7fkJh",
-   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro»."
+   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».",
+   "handle": "@equilibrateGM"
   },
   {
    "id": "mitribu_es",
@@ -54,7 +55,8 @@
    "min_engagement": 0.04,
    "max_busquedas": 16,
    "voz_id": "W1hAcdh0RNsPYUA7fkJh",
-   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n☕ Para equipos y empresas: Programa de Liderazgo Café con Propósito: {ENLACE_CAFE}"
+   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n☕ Para equipos y empresas: Programa de Liderazgo Café con Propósito: {ENLACE_CAFE}",
+   "handle": ""
   },
   {
    "id": "soyintegral_es",
@@ -82,7 +84,8 @@
    "min_engagement": 0.015,
    "max_busquedas": 10,
    "voz_id": "W1hAcdh0RNsPYUA7fkJh",
-   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n☕ Bienestar y liderazgo para tu equipo: Programa Café con Propósito: {ENLACE_CAFE}"
+   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n☕ Bienestar y liderazgo para tu equipo: Programa Café con Propósito: {ENLACE_CAFE}",
+   "handle": ""
   },
   {
    "id": "equilibrate_en",
@@ -107,7 +110,8 @@
    "min_engagement": 0.015,
    "max_busquedas": 5,
    "voz_id": "W1hAcdh0RNsPYUA7fkJh",
-   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro»."
+   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».",
+   "handle": ""
   },
   {
    "id": "mitribu_en",
@@ -132,7 +136,8 @@
    "min_engagement": 0.04,
    "max_busquedas": 5,
    "voz_id": "W1hAcdh0RNsPYUA7fkJh",
-   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n☕ Para equipos y empresas: Programa de Liderazgo Café con Propósito: {ENLACE_CAFE}"
+   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n☕ Para equipos y empresas: Programa de Liderazgo Café con Propósito: {ENLACE_CAFE}",
+   "handle": ""
   },
   {
    "id": "soyintegral_en",
@@ -156,7 +161,8 @@
    "min_engagement": 0.015,
    "max_busquedas": 5,
    "voz_id": "W1hAcdh0RNsPYUA7fkJh",
-   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n☕ Bienestar y liderazgo para tu equipo: Programa Café con Propósito: {ENLACE_CAFE}"
+   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n☕ Bienestar y liderazgo para tu equipo: Programa Café con Propósito: {ENLACE_CAFE}",
+   "handle": ""
   },
   {
    "id": "mercado_coaching_es",
@@ -182,14 +188,18 @@
    "ratio_viral": 2,
    "min_engagement": 0.015,
    "max_busquedas": 14,
-   "voz_id": "W1hAcdh0RNsPYUA7fkJh"
+   "voz_id": "W1hAcdh0RNsPYUA7fkJh",
+   "handle": ""
   }
  ],
  "_doc": "Perfiles de canal: tres líneas (amor/dinero/salud) alineadas con ∀normal. min_engagement = (likes+comentarios)/vistas mínimo para considerar fuerte un video.",
  "_enlaces": {
   "ENLACE_ANORMAL": "",
   "ENLACE_CAFE": "",
-  "ENLACE_WHATSAPP": ""
+  "ENLACE_WHATSAPP": "",
+  "ENLACE_CLUB": "",
+  "ENLACE_LIBRO": "",
+  "ENLACE_CLASE": ""
  },
  "_doc_cta": "cta: texto que se añade al final de cada descripción. Los marcadores {ENLACE_*} se sustituyen por _enlaces; si un enlace está vacío, esa línea se omite."
 }

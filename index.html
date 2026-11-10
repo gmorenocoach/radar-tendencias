@@ -69,7 +69,7 @@
   .sem{margin:18px 0 6px;font-weight:700;color:var(--muted);font-size:13px;text-transform:uppercase;letter-spacing:.04em}
   .pieza{display:grid;grid-template-columns:110px 70px 1fr auto;gap:10px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:8px 12px;margin-bottom:6px;font-size:14px}
   .pieza .t{font-size:11px;text-transform:uppercase;letter-spacing:.04em;padding:2px 8px;border-radius:999px;text-align:center}
-  .t.largo{background:color-mix(in srgb,var(--accent) 18%,transparent);color:var(--accent)}.t.short{background:var(--chip);color:var(--muted)}.t.vivo{background:color-mix(in srgb,var(--ok) 18%,transparent);color:var(--ok)}.t.comunidad{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+  .t.largo{background:color-mix(in srgb,var(--accent) 18%,transparent);color:var(--accent)}.t.short{background:var(--chip);color:var(--muted)}.t.vivo{background:color-mix(in srgb,var(--ok) 18%,transparent);color:var(--ok)}.t.comunidad{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}.t.rostro{background:color-mix(in srgb,#c0392b 18%,transparent);color:#c0392b}
   @media (max-width:640px){.pieza{grid-template-columns:1fr;gap:4px}}
   .tag.promo{background:color-mix(in srgb,var(--accent) 16%,transparent);color:var(--accent)}
   .tag.ok{background:color-mix(in srgb,var(--ok) 18%,transparent);color:var(--ok)}
@@ -122,8 +122,8 @@
 <div class="stats" id="stats"></div>
 
 <main>
-  <section id="videos"><div class="grid" id="grid"></div></section>
-  <section id="canales" class="hidden"><div id="tabla"></div></section>
+  <section id="videos"><div id="oportunidades"></div><div class="grid" id="grid"></div></section>
+  <section id="canales" class="hidden"><div id="competencia"></div><div id="tabla"></div></section>
   <section id="producciones" class="hidden"><div id="prods"></div></section>
   <section id="plan" class="hidden"><div id="plancont"></div></section>
 </main>
@@ -155,6 +155,8 @@ async function cargarPerfil(){
   try{ localStorage.setItem('radar.perfil', id); }catch(e){}
   datos = await fetch(`data/${id}.json`).then(r=>r.json());
   try{ datos._mini = await fetch(`data/miniaturas_${id}.json`,{cache:'no-store'}).then(r=>r.ok?r.json():null); }catch(e){ datos._mini=null; }
+  try{ datos._opor = await fetch(`data/oportunidades_${id}.json`,{cache:'no-store'}).then(r=>r.ok?r.json():null); }catch(e){ datos._opor=null; }
+  try{ datos._comp = await fetch(`data/competencia_${id}.json`,{cache:'no-store'}).then(r=>r.ok?r.json():null); }catch(e){ datos._comp=null; }
   const nicho = nichos.nichos[datos.perfil.nicho];
   const sub = $('#subnicho');
   sub.innerHTML = '<option value="">Todos los sub-nichos</option>' +
@@ -183,6 +185,7 @@ function render(){
     <span><b>${r.con_promocion||0}</b> promocionan curso/mentoría</span><span><b>${r.fuertes||0}</b> con interacción fuerte (≥ 1,5 % largos / ≥ 4 % Shorts)</span>
     <span>${r.candidatos} candidatos → ${r.validos} relevantes → ${r.canales_en_rango} canales en rango</span><span>cuota usada: ${datos.cuota_usada}</span>
     ${datos._mini?`<span style="flex-basis:100%">🖼 Miniaturas virales (${datos._mini.n}): <b>${datos._mini.lectura.pct_miniaturas_oscuras}%</b> fondo oscuro · <b>${datos._mini.lectura.pct_con_rostro_probable}%</b> con rostro · <b>${datos._mini.lectura.pct_con_amarillo}%</b> con amarillo → ${esc(datos._mini.recomendacion)}</span>`:''}`;
+  renderOportunidades();
   if (!v.length){ $('#grid').innerHTML = '<div class="empty">Ningún video cumple los filtros.</div>'; }
   else $('#grid').innerHTML = v.map((x,i)=>`
     <article class="card ${x.duracion_s<=60?'short':''}">
@@ -226,20 +229,20 @@ async function renderProducciones(){
   el.innerHTML = idx.producciones.map(p=> p.estado==='propuesta' ? `<article class="prod" id="p-${esc(p.id)}" style="grid-template-columns:1fr">
     <div>
       <h3>📝 Propuesta · ${esc(p.titulo)}</h3>
-      <div class="meta"><span>${esc(p.canal)} · ${new Date(p.fecha).toLocaleString('es-CO',{dateStyle:'medium',timeStyle:'short'})}</span><span>Alternativos: ${(p.titulos_alternativos||[]).map(esc).join(' · ')}</span></div>
+      <div class="meta"><span>${esc(p.canal)} · ${new Date(p.fecha).toLocaleString('es-CO',{dateStyle:'medium',timeStyle:'short'})}${p.tipo_contenido?` · <span class="tag">${esc(p.tipo_contenido)}${p.nivel?' → '+esc(p.nivel):''}</span>`:''}</span><span>Alternativos: ${(p.titulos_alternativos||[]).map(esc).join(' · ')}</span></div>
       ${p.fuente&&p.fuente.url?`<div class="meta" style="margin:6px 0"><span>Referencia: <a href="${p.fuente.url}" target="_blank" rel="noopener">${esc(p.fuente.titulo||'')}</a> · ${(p.fuente.vistas||0).toLocaleString('es-CO')} vistas</span></div>`:''}
       <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:flex-start;margin:8px 0">
         ${p.fuente&&p.fuente.miniatura?`<figure style="margin:0;text-align:center"><img src="${p.fuente.miniatura}" style="width:220px;border-radius:8px" alt=""><figcaption style="font-size:11px;color:var(--muted)">miniatura del original</figcaption></figure>`:''}
         ${(p.archivos.miniaturas||[]).filter(m=>m.includes('16x9')).map(m=>`<figure style="margin:0;text-align:center"><a href="producciones/${m}" target="_blank"><img src="producciones/${m}" style="width:220px;border-radius:8px" alt=""></a><figcaption style="font-size:11px;color:var(--muted)">${m.split('/').pop().replace('miniatura_16x9','').replace('.jpg','')||'clara'}</figcaption></figure>`).join('')}
       </div>
       ${p.adn_resumen?`<pre><b>ADN:</b> ${esc(p.adn_resumen.tema_central||'')} · gancho (${esc(p.adn_resumen.tipo_de_gancho||'')}): ${esc(p.adn_resumen.gancho_primeros_segundos||'')}\nFórmula título: ${esc(p.adn_resumen.formula_del_titulo||'')} · emoción: ${esc(p.adn_resumen.emocion_dominante||'')}\nMiniatura original: ${esc(JSON.stringify(p.adn_resumen.formula_miniatura||{}))}\nPor qué funciona: ${esc(p.adn_resumen.por_que_funciona||'')}</pre>`:''}
-      <pre><b>Guion:</b>\n${(p.guion_texto||[]).map((t,i)=>(i+1)+'. '+esc(t)).join('\n')}\n\n<b>Reto:</b> ${esc(p.reto_de_hoy||'')}</pre>
+      <pre><b>Guion:</b>\n${(p.guion_texto||[]).map((t,i)=>(i+1)+'. '+esc(t)).join('\n')}\n\n<b>Reto:</b> ${esc(p.reto_de_hoy||'')}${(p.ganchos_alternativos||[]).length?`\n\n<b>Ganchos alternativos (escena 1):</b>\n${p.ganchos_alternativos.map((g,i)=>'  G'+(i+1)+'. '+esc(g)).join('\n')}`:''}</pre>
       <div class="acts"><button class="tag btn" data-continuar="${esc(p.id)}" data-perfil="${esc(p.perfil)}" style="font-size:14px;padding:8px 14px">✓ Aprobar y producir</button><a href="producciones/${p.archivos.guion}" target="_blank">Guion JSON</a></div>
     </div></article>` : `<article class="prod" id="p-${esc(p.id)}">
     ${p.video_en_repositorio===false?`<a class="thumb" href="https://github.com/gmorenocoach/radar-tendencias/actions/workflows/fabrica.yml" target="_blank" rel="noopener" title="Descargar desde el artefacto de la corrida"><img src="producciones/${p.archivos.miniatura_16x9}" alt="" style="width:200px;border-radius:8px"></a>`:`<video controls preload="metadata" poster="producciones/${p.archivos.miniatura}" src="producciones/${p.archivos.video}" ${p.formato==='largo'?'style="aspect-ratio:16/9;width:320px"':''}></video>`}
     <div>
       <h3>${esc(p.titulo)}</h3>
-      <div class="meta"><span>${esc(p.canal)} · ${p.formato==='largo'?'LARGO · '+Math.round(p.duracion_s/60)+' min':'Short · '+p.duracion_s+'s'} · ${p.tamano_mb} MB${p.nota?' · ⚠ '+esc(p.nota):''}</span><span>${new Date(p.fecha).toLocaleString('es-CO',{dateStyle:'medium',timeStyle:'short'})} · <b>${esc(p.estado)}</b></span></div>
+      <div class="meta"><span>${esc(p.canal)} · ${p.formato==='largo'?'LARGO · '+Math.round(p.duracion_s/60)+' min':'Short · '+p.duracion_s+'s'} · ${p.tamano_mb} MB${p.nota?' · ⚠ '+esc(p.nota):''}${p.tipo_contenido?` · <span class="tag">${esc(p.tipo_contenido)}${p.nivel?' → '+esc(p.nivel):''}</span>`:''}</span><span>${new Date(p.fecha).toLocaleString('es-CO',{dateStyle:'medium',timeStyle:'short'})} · <b>${esc(p.estado)}</b></span></div>
       <pre>${esc(p.descripcion)}</pre>
       <div class="meta"><span>Reto: ${esc(p.reto_de_hoy||'')}</span></div>
       ${p.fuente&&p.fuente.url?`<div class="meta"><span>Referencia: <a href="${p.fuente.url}" target="_blank" rel="noopener">${esc(p.fuente.titulo||p.fuente.url)}</a></span></div>`:''}
@@ -252,6 +255,7 @@ async function renderProducciones(){
         <a href="producciones/${p.archivos.guion}" target="_blank">Guion</a>
         ${p.youtube_url?`<a href="${p.youtube_url}" target="_blank" rel="noopener">▶ Ver en YouTube</a>`:`<button data-pub="${p.id}" title="Copia el ID y abre el paso Marcar publicado">✓ Marcar publicado</button>`}
       </div>
+      ${p.formato!=='largo'&&(p.ganchos_alternativos||[]).length?`<div class="acts" style="margin-top:6px"><span class="tag">Variantes de gancho (Trial Reels / prueba A-B, ≈ USD 0,10 c/u):</span>${p.ganchos_alternativos.map((g,i)=>{const v=(p.archivos.variantes||[]).find(x=>x.gancho===i+1); return v?`<a href="producciones/${v.video}" download title="${esc(g)}">⬇ G${i+1} (${v.duracion_s}s)</a>`:`<button class="tag btn" data-gancho="${i+1}" data-id="${esc(p.id)}" data-perfil="${esc(p.perfil)}" title="${esc(g)}">⚙ G${i+1}: ${esc(g.slice(0,50))}…</button>`;}).join('')}</div>`:''}
       <div class="meta" style="margin-top:6px"><span>⚠ ${esc(p.divulgacion_ia||'')}</span></div>
     </div></article>`).join('');
   el.querySelectorAll('button[data-copy]').forEach(b=>b.onclick=()=>{navigator.clipboard.writeText(b.dataset.copy); b.textContent='Copiado ✓';});
@@ -263,9 +267,57 @@ async function renderProducciones(){
     b.textContent = r.status===204 ? '⏳ produciendo (3–4 min)' : '✗ no se pudo ('+r.status+')'; b.disabled = r.status===204;
   });
   el.querySelectorAll('button[data-pub]').forEach(b=>b.onclick=async()=>{ try{await navigator.clipboard.writeText(b.dataset.pub);}catch(e){} window.open('https://github.com/gmorenocoach/radar-tendencias/actions/workflows/publicado.yml','_blank'); });
+  el.querySelectorAll('button[data-gancho]').forEach(b=>b.onclick=()=>lanzarFabrica({perfil:b.dataset.perfil,continuar:b.dataset.id,gancho:b.dataset.gancho,formato:'shorts'},b,'⏳ variante en 2 min'));
+}
+
+async function lanzarFabrica(inputs, b, okTxt){
+  let tok=null; try{tok=localStorage.getItem('radar.ghtoken');}catch(e){}
+  if(!tok){ alert('Configura el token de GitHub en la pestaña Plan.'); return false; }
+  b.textContent='lanzando…';
+  const r=await fetch('https://api.github.com/repos/gmorenocoach/radar-tendencias/actions/workflows/fabrica.yml/dispatches',{method:'POST',headers:{'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json','Content-Type':'application/json'},body:JSON.stringify({ref:'main',inputs})});
+  b.textContent = r.status===204 ? okTxt : '✗ no se pudo ('+r.status+')'; b.disabled = r.status===204; return r.status===204;
+}
+
+function renderOportunidades(){
+  const o=datos._opor, el=$('#oportunidades');
+  if(!o||!o.temas||!o.temas.length){ el.innerHTML=''; return; }
+  const urg={alta:'promo',media:'num',baja:''};
+  el.innerHTML=`<details class="serie" open style="margin-bottom:14px"><summary style="cursor:pointer;font-weight:600">💬 Lo que pregunta la gente (${o.comentarios_leidos} comentarios de ${o.videos_leidos} videos · ${new Date(o.generado).toLocaleDateString('es-CO')}) — ${o.temas.length} temas para producir</summary>
+    <div class="grid" style="margin-top:10px">${o.temas.map(t=>`<article class="card"><div class="body">
+      <div class="tags"><span class="tag ${urg[t.urgencia]||''}">urgencia ${esc(t.urgencia||'')}</span><span class="tag">${t.menciones||0} menciones</span><span class="tag">${esc(t.origen||'')}</span><span class="tag">${esc(t.formato||'short')}</span></div>
+      <b style="display:block;margin:6px 0">${esc(t.titulo||t.tema)}</b>
+      <div class="meta"><span>Tema: ${esc(t.tema)}</span></div>
+      <div style="color:var(--muted);font-size:12px;margin:4px 0">«${esc(t.cita||'')}»</div>
+      <div style="font-size:13px">Gancho: ${esc(t.gancho||'')}<br>Reto: ${esc(t.reto||'')}</div>
+      <div class="tags" style="margin-top:6px"><button class="tag btn" data-tema="${esc((t.titulo||t.tema)+'. Gancho: '+(t.gancho||''))}" data-formato="${t.formato==='largo'?'largo':'shorts'}">⚙ proponer ${t.formato==='largo'?'largo':'Short'}</button></div>
+    </div></article>`).join('')}</div>
+    ${o.objeciones_a_la_oferta&&o.objeciones_a_la_oferta.length?`<div class="meta" style="margin-top:10px"><span><b>Objeciones que aparecen:</b> ${o.objeciones_a_la_oferta.map(esc).join(' · ')}</span></div>`:''}
+    ${o.respuestas_sugeridas&&o.respuestas_sugeridas.length?`<details style="margin-top:8px"><summary style="cursor:pointer">Respuestas sugeridas para comentarios frecuentes</summary><ul>${o.respuestas_sugeridas.map(r=>`<li><b>${esc(r.a)}</b> → ${esc(r.respuesta)} <button class="tag btn" data-copy="${esc(r.respuesta)}">copiar</button></li>`).join('')}</ul></details>`:''}
+  </details>`;
+  el.querySelectorAll('button[data-tema]').forEach(b=>b.onclick=()=>lanzarFabrica({perfil:$('#perfil').value,tema:b.dataset.tema,formato:b.dataset.formato,etapa:b.dataset.formato==='shorts'?'propuesta':'completa',tipo:'atraccion'},b,'⏳ en 1–2 min en Producciones'));
+  el.querySelectorAll('button[data-copy]').forEach(b=>b.onclick=()=>{navigator.clipboard.writeText(b.dataset.copy); b.textContent='copiado ✓';});
+}
+
+function renderCompetencia(){
+  const c=datos._comp, el=$('#competencia');
+  if(!c||!c.canales||!c.canales.length){ el.innerHTML=''; return; }
+  const a=c.analisis||{};
+  el.innerHTML=`<div class="serie" style="margin-bottom:14px"><h3>🔎 Informe de competencia · ${c.canales.length} canales · ${new Date(c.generado).toLocaleDateString('es-CO')}</h3>
+    <table><thead><tr><th>Canal</th><th class="num">Subs</th><th class="num">Videos/sem</th><th class="num">% Shorts</th><th class="num">Largo medio</th><th class="num">Mediana vistas</th><th class="num">Top ÷ mediana</th><th class="num">Interacción</th><th>Publica</th><th class="num">Títulos con nº</th><th class="num">Con oferta</th><th>Vende</th></tr></thead>
+    <tbody>${c.canales.map(x=>`<tr><td><a href="${x.url}" target="_blank" rel="noopener">${esc(x.canal)}</a></td><td class="num">${fmt(x.suscriptores||0)}</td><td class="num">${x.videos_por_semana??'—'}</td><td class="num">${x.pct_shorts??'—'}%</td><td class="num">${x.duracion_media_largos_min||0} min</td><td class="num">${fmt(x.mediana_vistas||0)}</td><td class="num">${x.outlier_top||'—'}×</td><td class="num">${((x.engagement_medio||0)*100).toFixed(1)}%</td><td>${(x.dias_publicacion||[]).join(' ')} ${(x.horas_publicacion||[]).join(' ')}</td><td class="num">${x.pct_titulos_con_numero??'—'}%</td><td class="num">${x.pct_videos_con_oferta??'—'}%</td><td>${(x.ofertas||[]).join(', ')}${(x.plataformas||[]).length?' · '+x.plataformas.join(', '):''}</td></tr>`).join('')}</tbody></table>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;margin-top:12px;font-size:13px">
+      <div><b>Fórmulas de título</b><ul>${(a.formulas_titulo||[]).map(f=>`<li><b>${esc(f.plantilla)}</b><br><span style="color:var(--muted)">${(f.ejemplos||[]).map(esc).join(' · ')}</span></li>`).join('')}</ul></div>
+      <div><b>Formato y cadencia</b><p>${esc(a.formato_y_cadencia||'')}</p><b>Cómo venden</b><p>${esc(a.como_venden||'')}</p><b>Hueco</b><p>${esc(a.hueco||'')}</p></div>
+      <div><b>Plan de réplica (2 semanas)</b><ol>${(a.plan_replica||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ol></div>
+      <div><b>Títulos propuestos</b><ul>${(a.titulos_propuestos||[]).map(t=>`<li>${esc(t.titulo)} <span class="tag">${esc(t.formato||'')}</span> <button class="tag btn" data-tema="${esc(t.titulo)}" data-formato="${t.formato==='largo'?'largo':'shorts'}">⚙ proponer</button></li>`).join('')}</ul></div>
+    </div>
+    <details style="margin-top:8px"><summary style="cursor:pointer">Top 5 de cada canal</summary>${c.canales.map(x=>`<div class="meta" style="margin:6px 0"><span><b>${esc(x.canal)}</b></span></div><div style="display:flex;gap:8px;flex-wrap:wrap">${(x.top5||[]).map(v=>`<a href="${v.url}" target="_blank" rel="noopener" style="width:160px;font-size:11px">${v.miniatura?`<img src="${v.miniatura}" style="width:160px;border-radius:6px" alt="">`:''}<br>${esc(v.titulo)}<br><span style="color:var(--muted)">${fmt(v.vistas)} vistas · ${dur(v.duracion_s)}</span></a>`).join('')}</div>`).join('')}</details>
+  </div>`;
+  el.querySelectorAll('button[data-tema]').forEach(b=>b.onclick=()=>lanzarFabrica({perfil:$('#perfil').value,tema:b.dataset.tema,formato:b.dataset.formato,etapa:b.dataset.formato==='shorts'?'propuesta':'completa',tipo:'atraccion'},b,'⏳ en Producciones'));
 }
 
 function renderCanales(){
+  renderCompetencia();
   const c = [...datos.canales].sort((a,b)=> ordenCanales==='canal' ? a.canal.localeCompare(b.canal) : b[ordenCanales]-a[ordenCanales]);
   const th = (k,l,num)=>`<th class="${num?'num':''}" data-k="${k}">${l}${ordenCanales===k?' ▾':''}</th>`;
   $('#tabla').innerHTML = c.length ? `<table><thead><tr>
@@ -289,14 +341,15 @@ async function renderPlan(){
     <div class="plan-kpis">
       <div class="kpi"><b>${pr.largos}</b><span>largos</span></div><div class="kpi"><b>${pr.shorts}</b><span>shorts</span></div><div class="kpi"><b>${pr.vivos}</b><span>en vivos</span></div>
       <div class="kpi"><b>${pr.horas_estimadas.toLocaleString('es-CO')}</b><span>horas estimadas al cierre</span></div><div class="kpi"><b>${pr.subs_estimados.toLocaleString('es-CO')}</b><span>subs estimados</span></div>
+      ${pl.mezcla?`<div class="kpi"><b>${pl.mezcla.atraccion}/${pl.mezcla.nutricion}/${pl.mezcla.conversion}</b><span>atracción / nutrición / conversión</span></div>`:''}
     </div>
     <div class="meta" style="margin-bottom:14px"><span>Supuestos: ${pr.supuestos.vistas_largo_promedio} vistas/largo al ${Math.round(pr.supuestos.retencion_largo*100)} % · ${pr.supuestos.espectadores_vivo_promedio} personas/en vivo · ${pr.supuestos.vistas_short_promedio} vistas/short. ${esc(pr.nota)}</span></div>
     <h3 style="font-size:15px;margin:8px 0">Series</h3>
     ${pl.series.map(s=>`<div class="serie"><h3>${esc(s.nombre)}</h3><div class="meta"><span>${esc(s.tema_madre)} — ${esc(s.promesa||'')}</span></div><ol>${s.capitulos.map(c=>`<li>${esc(c.titulo)} <span class="tag">${c.shorts.length} shorts</span></li>`).join('')}</ol></div>`).join('')}
     <h3 style="font-size:15px;margin:16px 0 4px">Calendario</h3>
     ${Object.keys(semanas).sort().map(k=>`<div class="sem">Semana del ${fmt(k)}</div>`+semanas[k].map(x=>`<div class="pieza"><span>${fmt(x.fecha)} · ${x.hora}</span><span class="t ${x.tipo}">${x.tipo}</span>
-      <span><b>${esc(x.titulo)}</b>${x.serie?` <span class="tag">${esc(x.serie)}${x.capitulo?' · cap. '+x.capitulo:''}</span>`:''}${x.origen==='radar'?' <span class="tag">radar</span>':''}${x.gancho?`<br><span style="color:var(--muted)">${esc(x.gancho)}</span>`:''}${x.pregunta_abierta?`<br><span style="color:var(--muted)">${esc(x.pregunta_abierta)} · Reto: ${esc(x.reto_colectivo||'')}</span>`:''}</span>
-      <span>${(x.tipo==='largo'||x.tipo==='short')?(x.estado==='producido'?`<a class="tag ok" href="#" data-ver="${esc(x.produccion_id||'')}">✓ producido · ver</a>`:x.estado==='produciendo'?`<span class="tag">⏳ produciendo</span>`:x.estado==='error'?`<span class="tag promo" title="${esc(x.resultado||'')}">✗ error · reintentar</span> <button class="tag btn" data-pieza="${x.id}">⚙ reintentar</button>`:`<button class="tag btn" data-pieza="${x.id}">⚙ producir ahora</button>`):`<span class="tag ${x.tipo==='vivo'?'ok':''}">${x.tipo==='vivo'?'manual · '+x.minutos+' min':'manual'}</span>`}</span></div>`).join('')).join('')}
+      <span><b>${esc(x.titulo)}</b>${x.serie?` <span class="tag">${esc(x.serie)}${x.capitulo?' · cap. '+x.capitulo:''}</span>`:''}${x.origen==='radar'?' <span class="tag">radar</span>':''}${x.tipo_contenido?` <span class="tag ${x.tipo_contenido==='conversion'?'promo':''}">${esc(x.tipo_contenido)}${x.nivel?' → '+esc(x.nivel):''}</span>`:''}${x.tipo==='rostro'?`<br><span style="color:var(--muted)">🎥 ${esc(x.nota||'')}<br>Ideas: ${(x.ideas||[]).map(esc).join(' · ')}<br>Cierre: ${esc(x.cierre||'')}</span>`:''}${x.gancho?`<br><span style="color:var(--muted)">${esc(x.gancho)}</span>`:''}${x.pregunta_abierta?`<br><span style="color:var(--muted)">${esc(x.pregunta_abierta)} · Reto: ${esc(x.reto_colectivo||'')}</span>`:''}</span>
+      <span>${(x.tipo==='largo'||x.tipo==='short')?(x.estado==='producido'?`<a class="tag ok" href="#" data-ver="${esc(x.produccion_id||'')}">✓ producido · ver</a>`:x.estado==='produciendo'?`<span class="tag">⏳ produciendo</span>`:x.estado==='error'?`<span class="tag promo" title="${esc(x.resultado||'')}">✗ error · reintentar</span> <button class="tag btn" data-pieza="${x.id}">⚙ reintentar</button>`:`<button class="tag btn" data-pieza="${x.id}">⚙ producir ahora</button>`):`<span class="tag ${x.tipo==='vivo'?'ok':x.tipo==='rostro'?'promo':''}">${x.tipo==='vivo'?'manual · '+x.minutos+' min':x.tipo==='rostro'?'Germán graba · 60–90 s':'manual'}</span>`}</span></div>`).join('')).join('')}
     <div class="meta" style="margin-top:18px"><span>La cola automática produce cada madrugada lo que se publica en las próximas 48 h. "Producir ahora" lanza la fábrica de inmediato (requiere un token de GitHub guardado en este navegador: <button class="tag btn" id="settoken">configurar token</button>).</span></div>`;
   el.querySelectorAll('a[data-ver]').forEach(a_=>a_.onclick=e=>{e.preventDefault(); document.querySelector('.tabs button[data-tab=producciones]').click(); setTimeout(()=>{const t=document.getElementById('p-'+a_.dataset.ver); if(t) t.scrollIntoView({behavior:'smooth'});},600);});
   $('#settoken').onclick=()=>{const t=prompt('Pega un token de GitHub (fine-grained, repo radar-tendencias, permiso Actions: Read and write). Se guarda solo en este navegador.'); if(t){try{localStorage.setItem('radar.ghtoken',t.trim());}catch(e){} alert('Token guardado.');}};

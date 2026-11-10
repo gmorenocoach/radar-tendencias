@@ -39,6 +39,22 @@ jobs:
       - name: Analizar miniaturas virales
         run: python -m fabrica.miniaturas_analisis || true
 
+      - name: Oportunidades (lo que pregunta la gente en comentarios) — lunes y jueves
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          d=$(TZ=America/Bogota date +%u)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$d" = "1" ] || [ "$d" = "4" ]; then python -m fabrica.oportunidades --todos || true; else echo "hoy no toca"; fi
+
+      - name: Informe de competencia por canal — domingos
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          d=$(TZ=America/Bogota date +%u)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$d" = "7" ]; then python -m fabrica.competencia --todos || true; else echo "hoy no toca"; fi
+
       - name: Guardar resultados
         run: |
           git config user.name "radar-bot"
