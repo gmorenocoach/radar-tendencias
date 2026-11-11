@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T20:37:26Z",
+ "actualizado": "2026-11-11T16:13:37Z",
  "perfiles": [
   {
    "id": "equilibrate_en",
@@ -7,9 +7,9 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "en",
    "formato": "largo",
-   "generado": "2026-11-10T16:27:07Z",
+   "generado": "2026-11-11T16:13:37Z",
    "videos": 5,
-   "canales": 5
+   "canales": 4
   },
   {
    "id": "equilibrate_es",
@@ -17,9 +17,9 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-10T20:37:26Z",
-   "videos": 27,
-   "canales": 8
+   "generado": "2026-11-11T16:13:37Z",
+   "videos": 23,
+   "canales": 7
   },
   {
    "id": "mercado_coaching_es",
@@ -27,9 +27,9 @@
    "nicho": "Mercado coaching y cursos",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-10T16:27:07Z",
-   "videos": 63,
-   "canales": 59
+   "generado": "2026-11-11T16:13:37Z",
+   "videos": 89,
+   "canales": 77
   },
   {
    "id": "mitribu_en",
@@ -37,9 +37,9 @@
    "nicho": "Dinero (Mi Tribu)",
    "idioma": "en",
    "formato": "shorts",
-   "generado": "2026-11-10T16:27:07Z",
-   "videos": 4,
-   "canales": 5
+   "generado": "2026-11-11T16:13:37Z",
+   "videos": 8,
+   "canales": 8
   },
   {
    "id": "mitribu_es",
@@ -47,9 +47,9 @@
    "nicho": "Dinero (Mi Tribu)",
    "idioma": "es",
    "formato": "shorts",
-   "generado": "2026-11-10T16:27:07Z",
-   "videos": 11,
-   "canales": 10
+   "generado": "2026-11-11T16:13:37Z",
+   "videos": 9,
+   "canales": 7
   },
   {
    "id": "soyintegral_en",
@@ -57,8 +57,8 @@
    "nicho": "Salud (Soy Integral)",
    "idioma": "en",
    "formato": "largo",
-   "generado": "2026-11-10T16:27:07Z",
-   "videos": 9,
+   "generado": "2026-11-11T16:13:37Z",
+   "videos": 8,
    "canales": 5
   },
   {
@@ -67,10 +67,10 @@
    "nicho": "Salud (Soy Integral)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-10T16:27:07Z",
-   "videos": 80,
-   "canales": 27
+   "generado": "2026-11-11T16:13:37Z",
+   "videos": 75,
+   "canales": 25
   }
  ],
- "cuota_usada_hoy": 1014
+ "cuota_usada_hoy": 6732
 }
