@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.96,Sub,,0,0,0,,{\k52}AMAR {\k28}NO {\k16}ES
+Dialogue: 0,0:00:00.96,0:00:01.89,Sub,,0,0,0,,{\k43}VACIAR {\k15}TU {\k35}TAZA
+Dialogue: 0,0:00:01.89,0:00:02.61,Sub,,0,0,0,,{\k20}PARA {\k41}LLENAR {\k12}LA
+Dialogue: 0,0:00:02.61,0:00:03.70,Sub,,0,0,0,,{\k14}DE {\k58}OTRO. {\k37}MUCHA
+Dialogue: 0,0:00:03.70,0:00:04.46,Sub,,0,0,0,,{\k31}GENTE {\k29}CREE {\k15}QUE
+Dialogue: 0,0:00:04.46,0:00:05.51,Sub,,0,0,0,,{\k31}QUERER {\k13}ES {\k62}ENTREGARLO
+Dialogue: 0,0:00:05.51,0:00:06.65,Sub,,0,0,0,,{\k53}TODO, {\k37}HASTA {\k23}QUE
+Dialogue: 0,0:00:06.65,0:00:07.49,Sub,,0,0,0,,{\k21}YA {\k16}NO {\k46}QUEDA
+Dialogue: 0,0:00:07.49,0:00:09.00,Sub,,0,0,0,,{\k42}NADA {\k14}DE {\k95}TI.
+Dialogue: 0,0:00:09.00,0:00:09.64,Sub,,0,0,0,,{\k19}Y {\k33}LUEGO {\k13}SE
+Dialogue: 0,0:00:09.64,0:00:10.74,Sub,,0,0,0,,{\k56}PREGUNTA {\k31}POR {\k23}QUÉ
+Dialogue: 0,0:00:10.74,0:00:12.69,Sub,,0,0,0,,{\k28}ESTÁ {\k115}CANSADA. {\k52}IMAGINA
+Dialogue: 0,0:00:12.69,0:00:13.46,Sub,,0,0,0,,{\k13}QUE {\k16}TU {\k48}TAZA
+Dialogue: 0,0:00:13.46,0:00:14.62,Sub,,0,0,0,,{\k21}ES {\k19}TU {\k77}VIDA:
+Dialogue: 0,0:00:14.62,0:00:15.96,Sub,,0,0,0,,{\k29}TUS {\k79}METAS, {\k27}TUS
+Dialogue: 0,0:00:15.96,0:00:18.14,Sub,,0,0,0,,{\k90}AMIGOS, {\k22}TU {\k105}TIEMPO.
+Dialogue: 0,0:00:18.14,0:00:19.50,Sub,,0,0,0,,{\k74}COMPARTIR {\k20}ES {\k43}SERVIR
+Dialogue: 0,0:00:19.50,0:00:20.10,Sub,,0,0,0,,{\k14}UN {\k35}POCO {\k11}DE
+Dialogue: 0,0:00:20.10,0:00:21.15,Sub,,0,0,0,,{\k13}TU {\k71}CAFÉ. {\k22}LA
+Dialogue: 0,0:00:21.15,0:00:22.11,Sub,,0,0,0,,{\k48}TAZA {\k37}SIGUE {\k10}EN
+Dialogue: 0,0:00:22.11,0:00:23.43,Sub,,0,0,0,,{\k23}TUS {\k92}MANOS. {\k17}Y
+Dialogue: 0,0:00:23.43,0:00:24.54,Sub,,0,0,0,,{\k63}OJO: {\k34}TENER {\k15}TU
+Dialogue: 0,0:00:24.54,0:00:25.45,Sub,,0,0,0,,{\k50}TAZA {\k30}NO {\k11}ES
+Dialogue: 0,0:00:25.45,0:00:26.75,Sub,,0,0,0,,{\k59}CERRARTE {\k13}NI {\k58}MANTENER
+Dialogue: 0,0:00:26.75,0:00:28.55,Sub,,0,0,0,,{\k109}DISTANCIA. {\k27}ES {\k44}PODER
+Dialogue: 0,0:00:28.55,0:00:29.86,Sub,,0,0,0,,{\k50}VOLVER {\k5}A {\k77}LLENARLA,
+Dialogue: 0,0:00:29.86,0:00:30.51,Sub,,0,0,0,,{\k24}PARA {\k14}QUE {\k27}HAYA
+Dialogue: 0,0:00:30.51,0:00:31.39,Sub,,0,0,0,,{\k46}CAFÉ {\k22}PARA {\k20}LOS
+Dialogue: 0,0:00:31.39,0:00:32.91,Sub,,0,0,0,,{\k88}DOS. {\k24}EL {\k40}AMOR
+Dialogue: 0,0:00:32.91,0:00:34.16,Sub,,0,0,0,,{\k72}EMPIEZA {\k29}POR {\k23}NO
+Dialogue: 0,0:00:34.16,0:00:36.19,Sub,,0,0,0,,{\k136}ABANDONARTE. {\k19}TU {\k49}PAREJA
+Dialogue: 0,0:00:36.19,0:00:37.29,Sub,,0,0,0,,{\k19}ES {\k12}UN {\k80}ESPEJO,
+Dialogue: 0,0:00:37.29,0:00:38.85,Sub,,0,0,0,,{\k27}NO {\k20}UNA {\k109}SOLUCIÓN.
+Dialogue: 0,0:00:38.85,0:00:39.53,Sub,,0,0,0,,{\k44}ESTO {\k14}ES {\k10}EL
+Dialogue: 0,0:00:39.53,0:00:40.46,Sub,,0,0,0,,{\k58}CAPÍTULO {\k20}2 {\k15}DE
+Dialogue: 0,0:00:40.46,0:00:41.83,Sub,,0,0,0,,{\k70}6: {\k23}EL {\k44}VIDEO
+Dialogue: 0,0:00:41.83,0:00:43.02,Sub,,0,0,0,,{\k60}COMPLETO {\k45}ESTÁ {\k13}EN
+Dialogue: 0,0:00:43.02,0:00:43.93,Sub,,0,0,0,,{\k12}EL {\k80}CANAL.

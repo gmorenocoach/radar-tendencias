@@ -841,7 +841,10 @@
    "subtema": "El conflicto que se vuelve familiar: roles heredados, discusiones en bucle y qué necesidad hay debajo de la pelea. Cierre: si ya sabes por qué peleas, ¿por qué sigues ahí?",
    "referencia_video_id": "C2xJX-QIY28",
    "minutos": 15,
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261111-equilibrate_es-largo-te-suena-familiar-esta-pelea-en-tu-parej",
+   "resultado": "ok 1185s",
+   "producido_en": "2026-11-11T17:49:33"
   },
   {
    "id": "equilibrate_es-20261113-S",
@@ -854,7 +857,10 @@
    "titulo": "Una taza compartida no es una taza ajena",
    "gancho": "Compartir la vida no es dejar de tener la tuya. Esta imagen del café te lo explica en 30 segundos.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261111-equilibrate_es-amar-sin-perderte-la-taza-que-no-se-entrega-cap-2-",
+   "resultado": "ok 228s",
+   "producido_en": "2026-11-11T17:53:21"
   },
   {
    "id": "equilibrate_es-20261114-S",

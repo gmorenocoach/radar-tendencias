@@ -1,0 +1,91 @@
+{
+ "fuente": {
+  "video_id": "C2xJX-QIY28",
+  "url": "https://www.youtube.com/watch?v=C2xJX-QIY28",
+  "titulo": "¿SE TE HACE FAMILIAR EL CONFLICTO EN LA PAREJA?",
+  "descripcion": "El ser humano aprende por imitación ¿Qué tipo de patrón de pareja estas imitando? El hacer consciente esto puede sanar o salvar tu relación de pareja.",
+  "canal": "Terapias con Luz",
+  "vistas": 20295,
+  "likes": 17,
+  "comentarios": 2,
+  "publicado": "2026-08-29",
+  "miniatura": "https://i.ytimg.com/vi/C2xJX-QIY28/maxresdefault.jpg",
+  "duracion": "PT11M2S",
+  "tags": [],
+  "transcripcion_chars": 0
+ },
+ "adn": {
+  "tema_central": "Los patrones de conflicto en la pareja se aprenden por imitación, normalmente de la relación de los padres o cuidadores. Hacerlos conscientes permite sanar o salvar la relación.",
+  "promesa_del_titulo": "Reconocerás en tu propia relación una dinámica de conflicto que te resulta conocida. Descubrirás de dónde viene y por qué se repite.",
+  "gancho_primeros_segundos": "Una pregunta directa al espectador que lo invita a recordar cómo discutían sus padres y a compararlo con sus peleas actuales. Después afirma que el ser humano aprende por imitación y deja abierta la duda de qué patrón está copiando él.",
+  "tipo_de_gancho": "pregunta",
+  "estructura": [
+   {
+    "bloque": "gancho",
+    "segundos_aprox": 40,
+    "funcion": "Plantear la pregunta de identificación ('¿te suena familiar?'), generar reconocimiento inmediato y abrir el bucle de curiosidad sobre qué patrón se imita."
+   },
+   {
+    "bloque": "contexto",
+    "segundos_aprox": 90,
+    "funcion": "Explicar que aprendemos por imitación y que el primer modelo de pareja es el hogar de origen. Presentar al terapeuta y su enfoque."
+   },
+   {
+    "bloque": "punto 1",
+    "segundos_aprox": 120,
+    "funcion": "Primer patrón de conflicto, por ejemplo el evitativo o de silencio, con una escena cotidiana reconocible."
+   },
+   {
+    "bloque": "punto 2",
+    "segundos_aprox": 120,
+    "funcion": "Segundo patrón, por ejemplo el explosivo o de gritos y reproches, con ejemplo y cómo se manifiesta en la pareja adulta."
+   },
+   {
+    "bloque": "punto 3",
+    "segundos_aprox": 120,
+    "funcion": "Tercer patrón, por ejemplo el de roles de dominio y sumisión o de victimización, con ejemplo y su efecto emocional."
+   },
+   {
+    "bloque": "puente de consciencia",
+    "segundos_aprox": 90,
+    "funcion": "Mostrar cómo hacer consciente el patrón: preguntas de autoobservación y cómo detectar el momento en que se activa."
+   },
+   {
+    "bloque": "cierre",
+    "segundos_aprox": 82,
+    "funcion": "Resumir el mensaje (ver el patrón permite elegir otro), ofrecer esperanza y dar el CTA."
+   }
+  ],
+  "ritmo": "Frases medias, de 2 a 3 por idea. Ritmo pausado y reflexivo de tipo terapéutico, con pausas tras las preguntas para que el espectador se identifique. Alterna explicación con ejemplos cotidianos y hace preguntas retóricas cada 1-2 minutos para mantener la atención.",
+  "tono": "Empático, calmado y cercano, con autoridad profesional y sin juzgar. Habla en segunda persona y deja un espacio seguro para la introspección.",
+  "cta_final": "Invitar a reflexionar sobre qué patrón se repite en la propia relación. Pedir que comenten su caso, se suscriban y compartan el video con su pareja, y ofrecer una sesión o terapia con el canal.",
+  "formula_del_titulo": "¿SE TE HACE FAMILIAR [situación dolorosa cotidiana] EN [contexto relacional]? Pregunta de identificación en mayúsculas, sin número, que apela a lo ya vivido.",
+  "titulo_con_numero": false,
+  "palabras_clave": [
+   "conflicto en la pareja",
+   "patrón de pareja",
+   "relación de pareja",
+   "aprendizaje por imitación",
+   "familiar",
+   "sanar la relación",
+   "terapia de pareja",
+   "psicología"
+  ],
+  "emocion_dominante": "miedo",
+  "formula_miniatura": {
+   "rostro": "Probablemente sí: una persona o pareja con expresión de preocupación, tristeza o tensión, o una pareja discutiendo de espaldas.",
+   "texto": "3 a 5 palabras en mayúsculas y letra grande, por ejemplo la pregunta 'FAMILIAR?' o 'TU PATRÓN DE PAREJA'.",
+   "objeto": "Silueta de una pareja enfrentada, o de padres discutiendo con un niño observando al fondo, para evocar la imitación generacional.",
+   "color_dominante": "Tonos contrastados cálidos (rojo o naranja) sobre fondo oscuro, o azul/morado para un ambiente emocional."
+  },
+  "por_que_funciona": "La pregunta de identificación activa recuerdos personales y obliga al espectador a quedarse para ver si se reconoce. La promesa de 'sanar o salvar tu relación' ataca un miedo muy fuerte con una solución accesible, la consciencia.",
+  "riesgos_a_evitar": [
+   "Copiar frases o ejemplos textuales del video original",
+   "Prometer curar o salvar la relación como garantía",
+   "Generalizar que todos los patrones vienen de los padres sin matices",
+   "Usar diagnósticos clínicos sin respaldo profesional",
+   "Alargar el contexto teórico antes del primer ejemplo concreto",
+   "Culpar a uno de los miembros de la pareja"
+  ]
+ }
+}
