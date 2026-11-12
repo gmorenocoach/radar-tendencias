@@ -49,6 +49,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           FAL_KEY: ${{ secrets.FAL_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
           ARGS="--dias ${{ github.event.inputs.dias || 2 }} --max ${{ github.event.inputs.max || 6 }}"
           if [ -n "${{ github.event.inputs.pieza }}" ]; then ARGS="$ARGS --pieza ${{ github.event.inputs.pieza }}";
@@ -72,7 +73,7 @@ jobs:
         run: |
           git config user.name "fabrica-bot"; git config user.email "fabrica-bot@users.noreply.github.com"
           find producciones -name "*.mp4" -size +90M -exec sh -c 'echo "$1" >> .git/info/exclude' _ {} \; || true
-          git add producciones/*/ planes/ 2>/dev/null; git reset -q producciones/index.json 2>/dev/null || true
+          git add producciones/*/ planes/ config/historias.json 2>/dev/null; git reset -q producciones/index.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "cola: $(date -u +%F)"
           git checkout -- producciones/index.json 2>/dev/null || true
           git pull --rebase --autostash origin main

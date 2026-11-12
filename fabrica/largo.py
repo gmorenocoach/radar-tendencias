@@ -13,6 +13,7 @@ import requests
 from PIL import Image, ImageStat
 from .comun import cargar_env, OUT, ROOT, PAGES_BASE, slug, perfil as cargar_perfil, canal_de, guardar_json, claude, estilo, oferta, nivel_para, MOCK, CANAL_COLOR, POSES
 from .produce import cta_para, comentario_fijado
+from . import broll
 from . import adn, voz, imagenes, render
 from .indice import main as reconstruir_indice
 
@@ -223,12 +224,13 @@ def main():
     ap.add_argument("--minutos", type=int, default=15)
     ap.add_argument("--economico", action="store_true", help="una imagen por capítulo (≈ 1/5 del costo); variedad por cámara y texto en pantalla")
     ap.add_argument("--tipo", default="atraccion", choices=["atraccion", "nutricion", "conversion"]); ap.add_argument("--nivel", default="")
+    ap.add_argument("--visual", default="ilustracion", choices=["ilustracion", "broll"], help="broll = metraje de archivo (Pexels) + Germancho en esquina; costo solo de voz")
     a = ap.parse_args()
     if not a.video_id and not a.tema:
         sys.exit("Indica --video_id o --tema")
     p = cargar_perfil(a.perfil); canal = canal_de(p["id"]); ambientes = ambientes_de(canal)
     t0 = time.time()
-    print(f"=== Largo · {p['canal']} · {a.minutos} min · {'video ' + a.video_id if a.video_id else 'tema: ' + a.tema}{' · ECONÓMICO' if a.economico else ''}{' · MOCK' if MOCK else ''}")
+    print(f"=== Largo · {p['canal']} · {a.minutos} min · {'video ' + a.video_id if a.video_id else 'tema: ' + a.tema}{' · ECONÓMICO' if a.economico else ''}{' · B-ROLL' if a.visual == 'broll' else ''}{' · MOCK' if MOCK else ''}")
 
     f = adn.ficha(a.video_id or None, a.tema or None, p["idioma"])
     est = estructura(f, p, a.minutos, ambientes, a.tipo, a.nivel)
@@ -248,15 +250,19 @@ def main():
     mp3, palabras, limites, dur = voz_capitulos(est["capitulos"], str(d), p)
     print(f"  Voz: {dur / 60:.1f} min · {len(palabras)} palabras")
 
-    pngs, textos = [], []
+    pngs, textos, escenas_planas = [], [], []
     k = 0
     for cap in est["capitulos"]:
         base = str(d / "escenas" / f"cap{cap['n']:02d}_base.png")
-        imagen_base_capitulo(cap, canal, ambientes, base)
-        base_url = subir_temporal(base) if not a.economico else ""
+        if a.visual != "broll":
+            imagen_base_capitulo(cap, canal, ambientes, base)
+        base_url = subir_temporal(base) if (not a.economico and a.visual != "broll") else ""
         for j, esc in enumerate(cap["escenas"]):
             png = str(d / "escenas" / f"cap{cap['n']:02d}_e{j + 1:02d}.png")
-            if j == 0 or a.economico:
+            if a.visual == "broll":
+                esc.setdefault("broll", esc.get("prompt_visual", cap.get("ambiente", "coffee")))
+                escenas_planas.append(esc)
+            elif j == 0 or a.economico:
                 shutil.copy(base, png)
             else:
                 imagen_escena_largo(esc, canal, base_url, png)
@@ -277,16 +283,21 @@ def main():
         imagenes.miniatura_rostro(canal, m.get("emocion", "sorpresa"), textos_mini, str(d / "miniatura_16x9"), "16:9")
     except Exception as e:
         print(f"  ! miniatura pro falló ({e}); usando versión básica")
-        imagenes.miniatura(pngs[0], m["texto"], canal, m.get("emocion", "sorpresa"), str(d / "miniatura.jpg"))
-    musica = next((str(x) for x in (ROOT / "assets/musica").glob("*.mp3")), None) if (ROOT / "assets/musica").exists() else None
+        if os.path.exists(pngs[0]):
+            imagenes.miniatura(pngs[0], m["texto"], canal, m.get("emocion", "sorpresa"), str(d / "miniatura.jpg"))
+    musica = broll.musica_de(canal)
     ass = ass_largo(palabras, textos, canal, str(d / "subtitulos.ass"))
-    mp4 = ensamblar_largo(pngs, limites[: len(pngs)], mp3, ass, str(d / "largo.mp4"), str(d / "_tmp"), musica)
+    if a.visual == "broll":
+        mp4 = broll.ensamblar(escenas_planas, limites[: len(escenas_planas)], mp3, ass, str(d / "largo.mp4"), str(d / "_tmp"), canal, 1920, 1080, musica=musica)
+        guardar_json(d / "guion.json", est)
+    else:
+        mp4 = ensamblar_largo(pngs, limites[: len(pngs)], mp3, ass, str(d / "largo.mp4"), str(d / "_tmp"), musica)
     shutil.rmtree(d / "_tmp", ignore_errors=True)
     tam = os.path.getsize(mp4) / 1e6
 
     capitulos_txt = "\n".join(f"{fmt_ts(c['inicio_s'])} {c['titulo']}" for c in est["capitulos"])
     cta, of, enlaces = cta_para(p, canal, est)
-    meta = {"id": nombre, "perfil": p["id"], "canal": p["canal"], "formato": "largo", "modo": "economico" if a.economico else "completo", "fecha": dt.datetime.now().isoformat(timespec="seconds"),
+    meta = {"id": nombre, "perfil": p["id"], "canal": p["canal"], "formato": "largo", "modo": "broll" if a.visual == "broll" else ("economico" if a.economico else "completo"), "visual": a.visual, "fecha": dt.datetime.now().isoformat(timespec="seconds"),
             "titulo": est["titulo"], "titulos_alternativos": est.get("titulos_alternativos", []),
             "descripcion": est["descripcion"] + "\n\nCapítulos:\n" + capitulos_txt + ("\n\n" + cta if cta else "") + "\n\n" + " ".join(est["hashtags"]),
             "hashtags": est["hashtags"], "reto_de_hoy": est.get("reto_de_hoy", ""), "duracion_s": round(dur, 1), "tamano_mb": round(tam, 1),

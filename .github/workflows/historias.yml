@@ -1,0 +1,37 @@
+name: Banco de historias reales
+
+on:
+  workflow_dispatch:
+    inputs:
+      eje:
+        description: "Eje (amor, dinero, salud o todos)"
+        required: true
+        type: choice
+        options: [todos, amor, dinero, salud]
+        default: todos
+      n:
+        description: "Historias por eje"
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+jobs:
+  historias:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - name: Generar
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ "${{ github.event.inputs.eje }}" = "todos" ]; then python -m fabrica.historias --todos --n ${{ github.event.inputs.n }}; else python -m fabrica.historias --eje ${{ github.event.inputs.eje }} --n ${{ github.event.inputs.n }}; fi
+          python -m fabrica.historias --listar
+      - name: Guardar
+        run: |
+          git config user.name "fabrica-bot"; git config user.email "fabrica-bot@users.noreply.github.com"
+          git add config/historias.json && (git diff --cached --quiet || git commit -m "banco de historias") && git pull --rebase origin main && git push

@@ -21,7 +21,7 @@ on:
         description: "Formato"
         required: true
         type: choice
-        options: [shorts, largo]
+        options: [shorts, historia, largo]
         default: shorts
       minutos:
         description: "Duración objetivo del video largo (minutos)"
@@ -60,6 +60,16 @@ on:
         description: "Con 'continuar': variante de gancho 1–3 (solo voz nueva; reutiliza escenas). 0 = no"
         required: false
         default: "0"
+      visual:
+        description: "Visual: ilustración IA o b-roll (metraje de archivo + Germancho; solo cuesta la voz). Vacío = b-roll para historia, ilustración para el resto"
+        required: false
+        type: choice
+        options: ["", ilustracion, broll]
+        default: ""
+      historia:
+        description: "ID de una historia del banco (config/historias.json). Implica formato historia"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -91,6 +101,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           FAL_KEY: ${{ secrets.FAL_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
           ok=1
           for k in YOUTUBE_API_KEY ANTHROPIC_API_KEY ELEVENLABS_API_KEY FAL_KEY; do
@@ -110,6 +121,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           FAL_KEY: ${{ secrets.FAL_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           ELEVEN_VOICE_NAME: ${{ github.event.inputs.voz }}
         run: |
           ARGS="--perfil ${{ github.event.inputs.perfil }}"
@@ -118,6 +130,9 @@ jobs:
           if [ -n "${{ github.event.inputs.tipo }}" ]; then ARGS="$ARGS --tipo ${{ github.event.inputs.tipo }}"; fi
           if [ -n "${{ github.event.inputs.nivel }}" ]; then ARGS="$ARGS --nivel ${{ github.event.inputs.nivel }}"; fi
           if [ "${{ github.event.inputs.gancho }}" != "0" ] && [ -n "${{ github.event.inputs.gancho }}" ]; then ARGS="$ARGS --gancho ${{ github.event.inputs.gancho }}"; fi
+          if [ -n "${{ github.event.inputs.visual }}" ]; then ARGS="$ARGS --visual ${{ github.event.inputs.visual }}"; fi
+          if [ -n "${{ github.event.inputs.historia }}" ]; then ARGS="$ARGS --historia ${{ github.event.inputs.historia }}"; fi
+          if [ "${{ github.event.inputs.formato }}" = "historia" ]; then ARGS="$ARGS --formato historia"; fi
           if [ -n "${{ github.event.inputs.video_id }}" ]; then ARGS="$ARGS --video_id=${{ github.event.inputs.video_id }}"; fi
           if [ -n "${{ github.event.inputs.tema }}" ]; then ARGS="$ARGS --tema=\"${{ github.event.inputs.tema }}\""; fi
           if [ "${{ github.event.inputs.formato }}" = "largo" ]; then
@@ -145,7 +160,7 @@ jobs:
           # 1) subir solo la carpeta nueva (sin el índice, que es lo que choca entre corridas)
           # no subir MP4 de más de 90 MB (límite de GitHub); quedan en el artefacto
           find producciones -name "*.mp4" -size +90M -print -exec sh -c 'echo "$1" >> .git/info/exclude' _ {} \; || true
-          git add producciones/*/ && git reset -q producciones/index.json || true
+          git add producciones/*/ config/historias.json 2>/dev/null; git reset -q producciones/index.json || true
           git diff --cached --quiet && echo "sin cambios" || git commit -m "fábrica: $(ls -t producciones | grep -v index.json | head -1)"
           git checkout -- producciones/index.json || true
           git pull --rebase origin main

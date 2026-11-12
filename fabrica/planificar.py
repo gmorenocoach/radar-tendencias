@@ -9,6 +9,7 @@ la cola de producción toma las piezas aprobadas.
 """
 import argparse, datetime as dt, json, math
 from .comun import cargar_env, ROOT, claude, estilo, marca, nivel_para, oferta, canal_de, perfil as cargar_perfil, guardar_json, MOCK
+from . import historias as mod_historias
 
 PLANES = ROOT / "planes"
 EJES = {"equilibrate": "Amor (pareja, amor propio, familia, vínculos, emociones)", "mitribu": "Dinero", "soyintegral": "Salud"}
@@ -87,6 +88,10 @@ def calendario(perfil, plan, diseno, desde, hasta):
     quincenal = plan["shorts_semana"] < 5          # con pocos shorts, la conversión va cada dos semanas para no comerse la atracción
     dia_conv = sorted(plan["dias_shorts"])[-conv_semana:] if plan["dias_shorts"] else []   # últimos días de shorts de la semana → conversión
     dia_rostro = sorted(plan["dias_shorts"])[len(plan["dias_shorts"]) // 2] if (rostro and plan["dias_shorts"]) else None
+    hist_semana = plan.get("historias_semana", 2 if plan["shorts_semana"] >= 7 else 1)
+    banco = mod_historias.disponibles(canal, 999)
+    dias_hist = sorted(plan["dias_shorts"])[:hist_semana] if (banco and plan["dias_shorts"]) else []   # primeros días de shorts → historia
+    hi = 0
     piezas, k = [], 0
     li = si_der = si_rad = vi = ci = co = ro = 0
     for d in dias:
@@ -97,7 +102,12 @@ def calendario(perfil, plan, diseno, desde, hasta):
             piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-L", "fecha": d.isoformat(), "hora": plan["hora_largos"], "tipo": "largo", "serie": c["serie"], "capitulo": c["n"],
                            "titulo": c["titulo"], "subtema": c.get("subtema", ""), "referencia_video_id": c.get("referencia_video_id", ""), "minutos": plan["minutos_largo"],
                            "tipo_contenido": tc, "nivel": nivel_para(canal, tc), "estado": "planificado"})
-        if wd in dia_conv and co < len(conversion) and not (quincenal and ((d - desde).days // 7) % 2):
+        if wd in dias_hist and hi < len(banco):
+            h = banco[hi]; hi += 1
+            piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-S", "fecha": d.isoformat(), "hora": plan["hora_shorts"], "tipo": "short", "origen": "historia", "historia_id": h["id"],
+                           "titulo": h["titulo"], "gancho": h.get("gancho", ""), "fuente_historia": h.get("fuente", ""), "referencia_video_id": "",
+                           "tipo_contenido": "atraccion", "nivel": nivel_para(canal, "atraccion"), "visual": "broll", "estado": "planificado"})
+        elif wd in dia_conv and co < len(conversion) and not (quincenal and ((d - desde).days // 7) % 2):
             c = conversion[co]; co += 1
             piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-S", "fecha": d.isoformat(), "hora": plan["hora_shorts"], "tipo": "short", "origen": "conversion",
                            "titulo": c["titulo"], "gancho": c.get("gancho", ""), "formato_conv": c.get("formato", ""), "referencia_video_id": "",

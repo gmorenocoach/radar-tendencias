@@ -15,6 +15,8 @@ def guion(ficha, perfil, formato="shorts", tipo_contenido="atraccion", nivel="")
     instr_cta = (f"TIPO DE CONTENIDO: {tipo_contenido}. " +
                  (f"Después del Reto, UNA frase de invitación suave (no venta): «{cierre}»." if tipo_contenido == "conversion" and cierre
                   else "No menciones productos ni mentorías; solo el reto y la suscripción."))
+    if formato == "historia":
+        return guion_historia(ficha, perfil, tipo_contenido, nivel)
     largo = "45–58 segundos (120–150 palabras habladas)" if formato == "shorts" else "8–10 minutos (1.200–1.500 palabras)"
     n_escenas = "6 a 8" if formato == "shorts" else "20 a 30"
     user = f"""Canal: {perfil['canal']} · Eje: {EJES[canal]} · Idioma: {perfil['idioma']} · Formato: {formato} ({largo}).
@@ -23,7 +25,8 @@ FICHA DE ADN DEL VIDEO DE REFERENCIA (replica estructura y gancho, NO el conteni
 {json.dumps(adn, ensure_ascii=False)}
 
 Escribe el guion de Germancho en {n_escenas} escenas. Cada escena: una o dos frases habladas, una emoción del personaje, un objeto de apoyo
-(se dibuja en el color del canal), una pose del libro entre {list(POSES)} y un prompt visual corto en inglés para ilustrar la escena.
+(se dibuja en el color del canal), una pose del libro entre {list(POSES)}, un prompt visual corto en inglés para ilustrar la escena
+y "broll": 2–4 palabras en inglés para buscar metraje de archivo real de esa escena (sin personajes animados).
 El gancho va en la escena 1 y debe funcionar en los primeros 2 segundos. La última escena es el "Reto de hoy" y termina con UNA frase corta
 que pida la suscripción con una razón (ej.: «Suscríbete: mañana hay otro reto»). Si el tema viene de un capítulo de una serie, menciona «el video completo está en el canal».
 {instr_cta}
@@ -36,7 +39,7 @@ Responde SOLO con JSON:
  "descripcion": "3–4 líneas con palabras clave, sin enlaces, termina invitando al reto",
  "hashtags": ["#...", 5 a 8],
  "miniatura": {{"texto": "2–4 palabras", "emocion": "alegria|miedo|ira|tristeza|asco|sorpresa", "objeto": "...", "pose": "una de la lista"}},
- "escenas": [{{"n": 1, "texto": "lo que dice Germancho", "emocion": "...", "objeto": "...", "pose": "...", "prompt_visual": "english, short", "segundos": 0}}],
+ "escenas": [{{"n": 1, "texto": "lo que dice Germancho", "emocion": "...", "objeto": "...", "pose": "...", "prompt_visual": "english, short", "broll": "english keywords", "segundos": 0}}],
  "reto_de_hoy": "una acción concreta de < 5 minutos",
  "ganchos_alternativos": ["texto completo alternativo de la escena 1", "...", "..."],
  "palabras": 0}}"""
@@ -76,4 +79,54 @@ Responde SOLO con JSON:
             e["pose"] = "saludando"
     if g["miniatura"].get("pose") not in POSES:
         g["miniatura"]["pose"] = "salto_sorpresa"
+    return g
+
+
+def guion_historia(ficha, perfil, tipo_contenido="atraccion", nivel=""):
+    """Short narrativo con giro (formato «historia»): premisa absurda → contexto → desarrollo → tensión → giro → pregunta binaria."""
+    canal = canal_de(perfil["id"])
+    adn = ficha["adn"]; h = ficha.get("historia") or {}
+    nivel = nivel or nivel_para(canal, tipo_contenido)
+    of = oferta(nivel); cierre = of.get("linea_hablada", "") if (of.get("enlace_resuelto") or MOCK) else ""
+    base = (f"HISTORIA REAL (no cambies hechos, nombres ni fechas; si algo no está aquí, no lo inventes):\n{json.dumps(h, ensure_ascii=False)}" if h
+            else f"FICHA DE ADN DEL VIDEO DE REFERENCIA (replica la estructura narrativa, NO el contenido):\n{json.dumps(adn, ensure_ascii=False)}")
+    user = f"""Canal: {perfil['canal']} · Idioma: {perfil['idioma']} · Formato: HISTORIA (Short narrativo de 45–60 s, 130–160 palabras).
+{base}
+
+Escribe la narración de Germancho en 6 a 8 escenas con esta estructura y tiempos: 1) gancho: premisa absurda o paradójica en una frase (≤ 3 s);
+2) contexto: época, lugar, personaje (≈ 10 s); 3) desarrollo (≈ 15 s); 4) tensión: algo se alarga o se complica (≈ 10 s); 5) giro que invierte la expectativa (≈ 8 s);
+6) cierre: una frase que conecta con {EJES[canal]} sin moralizar + la PREGUNTA BINARIA («¿A o B? Te leo») + «Suscríbete: mañana hay otra historia».
+Tono: «cuentan que…», pausado, cálido, ligeramente irónico; una idea por frase; sin comillas dobles dentro de los textos.
+Cada escena: texto hablado, emoción del personaje, pose entre {list(POSES)}, prompt visual corto en inglés y "broll": 2–4 palabras en inglés para metraje de archivo real de la época o del objeto.
+{('Después de la pregunta, UNA frase de invitación suave: «' + cierre + '».') if tipo_contenido == 'conversion' and cierre else ''}
+Responde SOLO con JSON:
+{{"titulo": "≤ 60 caracteres, fórmula [figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro insinuado, sin hashtags ni emojis",
+ "titulos_alternativos": ["...", "..."], "descripcion": "3–4 líneas: resume la historia sin revelar el giro, cita la fuente en una línea y termina con la pregunta",
+ "hashtags": ["#historia", "#curiosidades", 4 a 6 más del eje],
+ "miniatura": {{"texto": "2–4 palabras gruesas (ej. CAFÉ HASTA MORIR)", "emocion": "sorpresa|miedo|tristeza|alegria", "objeto": "...", "pose": "una de la lista"}},
+ "escenas": [{{"n": 1, "texto": "...", "emocion": "...", "objeto": "...", "pose": "...", "prompt_visual": "english", "broll": "english keywords", "segundos": 0}}],
+ "pregunta_final": "¿A o B?", "reto_de_hoy": "la misma pregunta binaria",
+ "ganchos_alternativos": ["3 versiones distintas de la escena 1"], "palabras": 0}}"""
+    mock = {"titulo": "Un rey condenó a un hombre a tomar café… hasta morir", "titulos_alternativos": ["El experimento del café que duró más que el rey"], "descripcion": "Cuentan que un rey… Fuente: Wikipedia. ¿Café o té?",
+            "hashtags": ["#historia", "#curiosidades", "#café"], "miniatura": {"texto": "CAFÉ HASTA MORIR", "emocion": "sorpresa", "objeto": "taza", "pose": "salto_sorpresa"},
+            "escenas": [{"n": i + 1, "texto": t, "emocion": "sorpresa", "objeto": "taza", "pose": "saludando", "prompt_visual": "old coffee cup", "broll": q, "segundos": 8} for i, (t, q) in enumerate([
+                ("Un rey condenó a un hombre a tomar café… hasta morir.", "royal castle"), ("Siglo dieciocho, Suecia. Gustavo tercero estaba seguro de que el café era veneno.", "old sweden painting"),
+                ("Tomó a dos gemelos condenados a muerte: uno bebería café todos los días; el otro, té.", "twin brothers vintage"), ("Los médicos llevaban la cuenta. Pasaron los años. Los médicos murieron. El rey también.", "antique clock"),
+                ("Y el primero en cerrar los ojos… fue el del té.", "tea cup vintage"), ("A veces lo que creemos veneno es compañía. ¿Tú qué habrías apostado: café o té? Te leo. Suscríbete: mañana hay otra historia.", "coffee cup steam")])],
+            "pregunta_final": "¿Café o té?", "reto_de_hoy": "¿Café o té?", "ganchos_alternativos": ["¿Y si el café fuera una pena de muerte?", "Dos gemelos, dos tazas, una sentencia.", "El experimento duró más que el rey que lo ordenó."], "palabras": 120}
+    g = claude(estilo(canal), user, mock=mock, max_tokens=6000)
+    palabras = sum(len(e.get("texto", "").split()) for e in g.get("escenas", []))
+    if len(g.get("escenas", [])) < 5 or palabras < 90:
+        print(f"  ! historia incompleta ({len(g.get('escenas', []))} escenas, {palabras} palabras); regenerando")
+        g = claude(estilo(canal), user + f"\n\nTu intento anterior quedó incompleto ({palabras} palabras). Entrega las 6–8 escenas completas y el JSON cerrado.", mock=mock, max_tokens=6000)
+    g["palabras"] = sum(len(e.get("texto", "").split()) for e in g.get("escenas", []))
+    g["titulo"] = re.sub(r"\s*#\S+", "", g.get("titulo", "")).strip() or g.get("titulo", "")
+    g["reto_de_hoy"] = g.get("pregunta_final") or g.get("reto_de_hoy", "")
+    g.update({"canal": canal, "color": CANAL_COLOR[canal][1], "tipo_contenido": tipo_contenido, "nivel": nivel, "formato": "historia", "historia_id": h.get("id", "")})
+    g["ganchos_alternativos"] = [x for x in (g.get("ganchos_alternativos") or []) if isinstance(x, str) and len(x.split()) >= 4][:3]
+    for e in g["escenas"]:
+        if e.get("pose") not in POSES:
+            e["pose"] = "saludando"
+    if g.get("miniatura", {}).get("pose") not in POSES:
+        g.setdefault("miniatura", {})["pose"] = "salto_sorpresa"
     return g

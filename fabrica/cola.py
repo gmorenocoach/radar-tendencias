@@ -24,16 +24,21 @@ def producir(pieza, plan):
         cmd = [sys.executable, "-m", "fabrica.largo", "--perfil", perfil, "--minutos", str(pieza.get("minutos") or plan["plan"].get("minutos_largo", 15))]
         if plan["plan"].get("modo_largo") == "economico":
             cmd.append("--economico")
+        if plan["plan"].get("modo_largo") == "broll" or pieza.get("visual") == "broll":
+            cmd += ["--visual", "broll"]
     else:
         cmd = [sys.executable, "-m", "fabrica.produce", "--perfil", perfil]
+        if pieza.get("visual"):
+            cmd += ["--visual", pieza["visual"]]
     if pieza.get("tipo_contenido"):
         cmd += ["--tipo", pieza["tipo_contenido"]]
     if pieza.get("nivel"):
         cmd += ["--nivel", pieza["nivel"]]
     vid = (pieza.get("referencia_video_id") or "").strip()
-    if len(vid) == 11:
+    if pieza.get("historia_id"):
+        cmd += ["--historia", pieza["historia_id"]]
+    elif len(vid) == 11:
         cmd += [f"--video_id={vid}"]          # con '=' porque algunos IDs de YouTube empiezan por '-'
-    
     else:
         tema = pieza["titulo"] + (f". Gancho: {pieza['gancho']}" if pieza.get("gancho") else "") + (f". Serie: {pieza['serie']}, capítulo {pieza['capitulo']}" if pieza.get("serie") else "") \
             + (f". Formato de conversión: {pieza['formato_conv']}" if pieza.get("formato_conv") else "")
