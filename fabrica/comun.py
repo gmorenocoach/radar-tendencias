@@ -67,8 +67,10 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0, 
         raise SystemExit("Falta ANTHROPIC_API_KEY")
     body = {"model": os.environ.get("CLAUDE_MODEL", "claude-sonnet-5-5"), "max_tokens": max_tokens,
             "system": system, "messages": [{"role": "user", "content": user}]}
-    if pensar:   # razonamiento acotado: el modelo puede pensar, pero siempre queda espacio para la respuesta
-        body["thinking"] = {"type": "enabled", "budget_tokens": int(pensar)}; body["max_tokens"] = max(max_tokens, int(pensar) + 6000)
+    if pensar:   # razonamiento adaptativo con espacio garantizado para la respuesta
+        body["thinking"] = {"type": "adaptive"}; body["max_tokens"] = max(max_tokens, int(pensar) + 8000)
+    else:        # sin razonamiento: toda la salida es la respuesta (evita respuestas vacías por max_tokens)
+        body["thinking"] = {"type": "disabled"}
     for intento in range(3):
         r = requests.post("https://api.anthropic.com/v1/messages", json=body, timeout=180,
                           headers={"x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
@@ -93,6 +95,9 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0, 
         if r.status_code in (429, 500, 529):
             time.sleep(5 * (intento + 1))
             continue
+        if r.status_code == 400 and "thinking" in r.text and "thinking" in body:
+            print(f"  ! el modelo no acepta thinking={body['thinking']}; reintentando sin ese campo ({r.text[:160]})")
+            body.pop("thinking", None); continue
         raise RuntimeError(f"Claude {r.status_code}: {r.text[:300]}")
     raise RuntimeError("Claude: sin respuesta tras reintentos")
 
