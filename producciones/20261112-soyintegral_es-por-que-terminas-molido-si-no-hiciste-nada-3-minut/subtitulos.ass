@@ -1,0 +1,59 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00578B2E,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.17,Sub,,0,0,0,,{\k36}CERO {\k70}ESFUERZO {\k12}Y
+Dialogue: 0,0:00:01.17,0:00:02.73,Sub,,0,0,0,,{\k16}EL {\k44}CUERPO {\k95}MOLIDO.
+Dialogue: 0,0:00:02.73,0:00:04.08,Sub,,0,0,0,,{\k19}TU {\k58}CABEZA {\k58}CARGÓ
+Dialogue: 0,0:00:04.08,0:00:05.86,Sub,,0,0,0,,{\k33}UNA {\k113}MUDANZA. {\k34}CADA
+Dialogue: 0,0:00:05.86,0:00:07.16,Sub,,0,0,0,,{\k41}TAREA {\k63}ABIERTA {\k27}ES
+Dialogue: 0,0:00:07.16,0:00:08.71,Sub,,0,0,0,,{\k20}UNA {\k58}PESTAÑA {\k77}ENCENDIDA
+Dialogue: 0,0:00:08.71,0:00:10.05,Sub,,0,0,0,,{\k13}EN {\k14}TU {\k108}CABEZA.
+Dialogue: 0,0:00:10.05,0:00:10.58,Sub,,0,0,0,,{\k30}AUNQUE {\k11}NO {\k12}LA
+Dialogue: 0,0:00:10.58,0:00:11.91,Sub,,0,0,0,,{\k57}TOQUES, {\k36}PUEDE {\k41}SEGUIR
+Dialogue: 0,0:00:11.91,0:00:13.99,Sub,,0,0,0,,{\k61}GASTANDO {\k117}BATERÍA. {\k29}NO
+Dialogue: 0,0:00:13.99,0:00:15.37,Sub,,0,0,0,,{\k14}ES {\k98}PEREZA. {\k27}ES
+Dialogue: 0,0:00:15.37,0:00:16.72,Sub,,0,0,0,,{\k23}UNA {\k43}TAZA {\k68}DEMASIADO
+Dialogue: 0,0:00:16.72,0:00:17.96,Sub,,0,0,0,,{\k57}LLENA, {\k26}Y {\k42}NADIE
+Dialogue: 0,0:00:17.96,0:00:18.83,Sub,,0,0,0,,{\k9}TE {\k71}ENSEÑÓ {\k7}A
+Dialogue: 0,0:00:18.83,0:00:20.36,Sub,,0,0,0,,{\k120}VACIARLA. {\k24}HOY {\k9}LA
+Dialogue: 0,0:00:20.36,0:00:21.41,Sub,,0,0,0,,{\k60}VACIAMOS {\k15}EN {\k29}TRES
+Dialogue: 0,0:00:21.41,0:00:22.85,Sub,,0,0,0,,{\k81}MINUTOS. {\k51}AGARRA {\k12}TU
+Dialogue: 0,0:00:22.85,0:00:24.00,Sub,,0,0,0,,{\k64}CUADERNO {\k17}Y {\k34}PON
+Dialogue: 0,0:00:24.00,0:00:26.04,Sub,,0,0,0,,{\k17}UN {\k144}TEMPORIZADOR. {\k43}PASO
+Dialogue: 0,0:00:26.04,0:00:28.25,Sub,,0,0,0,,{\k80}UNO: {\k52}RESPIRA {\k88}LENTO.
+Dialogue: 0,0:00:28.25,0:00:29.04,Sub,,0,0,0,,{\k50}INHALA {\k19}POR {\k10}LA
+Dialogue: 0,0:00:29.04,0:00:31.09,Sub,,0,0,0,,{\k71}NARIZ, {\k37}CUATRO {\k98}TIEMPOS.
+Dialogue: 0,0:00:31.09,0:00:32.41,Sub,,0,0,0,,{\k49}SUELTA {\k66}DESPACIO {\k17}POR
+Dialogue: 0,0:00:32.41,0:00:33.74,Sub,,0,0,0,,{\k10}LA {\k76}BOCA. {\k46}HAZLO
+Dialogue: 0,0:00:33.74,0:00:35.27,Sub,,0,0,0,,{\k33}TRES {\k85}VECES. {\k36}PASO
+Dialogue: 0,0:00:35.27,0:00:36.61,Sub,,0,0,0,,{\k67}DOS: {\k48}ESCRIBE {\k19}LOS
+Dialogue: 0,0:00:36.61,0:00:37.62,Sub,,0,0,0,,{\k22}TRES {\k60}PENDIENTES {\k19}QUE
+Dialogue: 0,0:00:37.62,0:00:39.05,Sub,,0,0,0,,{\k33}MÁS {\k33}RUIDO {\k78}HACEN.
+Dialogue: 0,0:00:39.05,0:00:40.45,Sub,,0,0,0,,{\k43}SOLO {\k66}TRES. {\k31}SIN
+Dialogue: 0,0:00:40.45,0:00:42.41,Sub,,0,0,0,,{\k116}RESOLVERLOS. {\k71}SACARLOS {\k9}DE
+Dialogue: 0,0:00:42.41,0:00:43.64,Sub,,0,0,0,,{\k12}LA {\k65}CABEZA {\k46}SUELE
+Dialogue: 0,0:00:43.64,0:00:45.83,Sub,,0,0,0,,{\k113}ALIVIAR. {\k35}PASO {\k71}TRES:
+Dialogue: 0,0:00:45.83,0:00:46.74,Sub,,0,0,0,,{\k35}MIRA {\k13}LA {\k44}LISTA
+Dialogue: 0,0:00:46.74,0:00:47.50,Sub,,0,0,0,,{\k13}Y {\k42}ELIGE {\k21}UNO
+Dialogue: 0,0:00:47.50,0:00:48.22,Sub,,0,0,0,,{\k20}PARA {\k45}MAÑANA {\k7}A
+Dialogue: 0,0:00:48.22,0:00:49.68,Sub,,0,0,0,,{\k38}PRIMERA {\k81}HORA. {\k27}LOS
+Dialogue: 0,0:00:49.68,0:00:50.74,Sub,,0,0,0,,{\k29}OTROS {\k46}DOS, {\k30}HOY
+Dialogue: 0,0:00:50.74,0:00:52.44,Sub,,0,0,0,,{\k125}DESCANSAN. {\k34}RETO {\k12}DE
+Dialogue: 0,0:00:52.44,0:00:54.77,Sub,,0,0,0,,{\k65}HOY: {\k128}TEMPORIZADOR, {\k40}TRES
+Dialogue: 0,0:00:54.77,0:00:57.13,Sub,,0,0,0,,{\k103}RESPIRACIONES, {\k31}TRES {\k102}PENDIENTES.
+Dialogue: 0,0:00:57.13,0:00:58.57,Sub,,0,0,0,,{\k51}CUÉNTAME {\k13}EN {\k80}COMENTARIOS
+Dialogue: 0,0:00:58.57,0:00:59.94,Sub,,0,0,0,,{\k30}CUÁL {\k29}PESA {\k78}MÁS.
+Dialogue: 0,0:00:59.94,0:01:00.98,Sub,,0,0,0,,{\k19}SI {\k13}EL {\k72}CANSANCIO
+Dialogue: 0,0:01:00.98,0:01:01.65,Sub,,0,0,0,,{\k16}NO {\k14}SE {\k37}VA,
+Dialogue: 0,0:01:01.65,0:01:02.45,Sub,,0,0,0,,{\k56}CONSULTA {\k12}A {\k13}UN
+Dialogue: 0,0:01:02.45,0:01:05.49,Sub,,0,0,0,,{\k121}PROFESIONAL. {\k117}SUSCRÍBETE: {\k66}MAÑANA
+Dialogue: 0,0:01:05.49,0:01:07.11,Sub,,0,0,0,,{\k42}HAY {\k44}OTRO {\k75}RETO.

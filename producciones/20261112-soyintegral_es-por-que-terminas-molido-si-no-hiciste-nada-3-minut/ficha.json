@@ -1,0 +1,50 @@
+{
+ "fuente": {
+  "tema": "¿Por qué te cansas si hoy no hiciste nada?. Gancho: Tu cuerpo quieto no siempre descansa. Tu cabeza lleva toda la mañana subiendo escaleras. Hay un cansancio que no viene de moverte, sino de cargar pendientes. Hoy lo vamos a bajar un escalón. Reto de hoy: pon un temporizador de 3 minutos, respira lento y escribe en una nota tus tres pendientes más ruidosos. Cuéntame en comentarios cuál pesa más."
+ },
+ "adn": {
+  "tema_central": "Fatiga mental por carga de pendientes: por qué te sientes agotado aunque tu cuerpo no haya hecho esfuerzo físico, y una micro-práctica de 3 minutos para descargar la cabeza.",
+  "promesa_del_titulo": "Entender por qué estás cansado sin haber hecho nada y aprender un ejercicio de 3 minutos para bajar esa carga mental hoy mismo.",
+  "gancho_primeros_segundos": "Tu cuerpo quieto no siempre descansa. Tu cabeza lleva toda la mañana subiendo escaleras.",
+  "tipo_de_gancho": "Contradicción con metáfora visual: 'no hiciste nada' vs. 'estás agotado', reforzada con la imagen de la cabeza subiendo escaleras. Abre un bucle de curiosidad (¿por qué?) y se resuelve con un reto concreto.",
+  "estructura": [
+   "0-3s: Gancho de contradicción: 'Tu cuerpo quieto no siempre descansa. Tu cabeza lleva toda la mañana subiendo escaleras.'",
+   "3-12s: Explicación breve: hay un cansancio que no viene de moverte, sino de cargar pendientes (cada tarea abierta consume energía mental).",
+   "12-18s: Puente a la solución: 'Hoy lo vamos a bajar un escalón.'",
+   "18-40s: Reto guiado en 3 pasos: 1) temporizador de 3 minutos, 2) respiración lenta, 3) escribir en una nota los tres pendientes más ruidosos.",
+   "40-50s: Cierre con interacción: 'Cuéntame en comentarios cuál pesa más.'",
+   "Opcional: loop final que enlaza con el gancho (la escalera baja un escalón) para favorecer la repetición."
+  ],
+  "ritmo": "Rápido y limpio: frases cortas de 3 a 6 segundos, corte o cambio visual cada 2-3 segundos, subtítulos grandes con palabras clave resaltadas, pausa breve de respiración en el paso 2 para modelar el ejercicio. Duración ideal: 35-50 segundos.",
+  "tono": "Cercano, calmado y empático, como un amigo que te entiende sin juzgar. Voz suave pero segura, con metáforas simples y lenguaje cotidiano en tuteo.",
+  "cta_final": "Pon el temporizador ahora y cuéntame en comentarios cuál de tus tres pendientes pesa más.",
+  "formula_del_titulo": "Pregunta de contradicción + validación emocional: '¿Por qué te cansas si [no hiciste nada]?' + solución rápida con tiempo definido.",
+  "titulo_con_numero": "¿Por qué te cansas si no hiciste nada? 3 pendientes, 3 minutos",
+  "palabras_clave": [
+   "cansancio mental",
+   "fatiga mental",
+   "cansado sin hacer nada",
+   "pendientes",
+   "carga mental",
+   "estrés",
+   "respiración lenta",
+   "reto de 3 minutos",
+   "productividad sin culpa",
+   "bienestar",
+   "Shorts"
+  ],
+  "emocion_dominante": "Alivio y validación (identificación con el agotamiento invisible), con un toque de curiosidad inicial.",
+  "formula_miniatura": "Primer plano de una persona sentada y quieta con expresión cansada, y sobre su cabeza una pequeña escalera o pila de notas adhesivas. Texto grande de 3-4 palabras: 'CANSADO SIN HACER NADA?'. Alto contraste, fondo limpio, un solo punto focal.",
+  "por_que_funciona": "Parte de una experiencia universal que casi nadie sabe explicar, y la contradicción rompe el patrón de scroll. La metáfora de las escaleras vuelve concreto algo abstracto. El reto es pequeño (3 minutos, 3 pendientes), accionable al instante y genera sensación de logro. La pregunta final invita a comentar, lo que aumenta la interacción, y la estructura corta favorece el porcentaje de visualización completa y las repeticiones.",
+  "riesgos_a_evitar": [
+   "Sonar a diagnóstico médico o prometer curar el cansancio: aclarar que es una práctica de alivio, no un tratamiento.",
+   "Alargar la explicación antes del reto y perder retención.",
+   "Usar jerga psicológica o tecnicismos innecesarios.",
+   "Tono culpabilizador o de productividad tóxica ('deberías hacer más').",
+   "Pedir demasiado en el reto (más de 3 pendientes o más de 3 minutos).",
+   "Subtítulos pequeños o poco contrastados, y fondos recargados que distraen.",
+   "CTA genérico tipo 'suscríbete' en lugar de una pregunta concreta y fácil de responder.",
+   "Omitir una nota de que, si el cansancio es persistente, conviene consultar a un profesional de salud."
+  ]
+ }
+}

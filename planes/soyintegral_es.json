@@ -386,7 +386,10 @@
    "titulo": "¿Por qué te cansas si hoy no hiciste nada?",
    "gancho": "Tu cuerpo quieto no siempre descansa. Tu cabeza lleva toda la mañana subiendo escaleras. Hay un cansancio que no viene de moverte, sino de cargar pendientes. Hoy lo vamos a bajar un escalón. Reto de hoy: pon un temporizador de 3 minutos, respira lento y escribe en una nota tus tres pendientes más ruidosos. Cuéntame en comentarios cuál pesa más.",
    "referencia_video_id": "sin_referencia (lista vacía)",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261112-soyintegral_es-por-que-terminas-molido-si-no-hiciste-nada-3-minut",
+   "resultado": "ok 249s",
+   "producido_en": "2026-11-12T17:49:16"
   },
   {
    "id": "soyintegral_es-20261116-C",

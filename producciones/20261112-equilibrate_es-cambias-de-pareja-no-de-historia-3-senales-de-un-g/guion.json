@@ -1,0 +1,107 @@
+{
+ "titulo": "Cambias de pareja, no de historia: 3 señales de un guion",
+ "titulos_alternativos": [
+  "Nombre distinto, mismo final: no es mala suerte",
+  "3 señales de que repites la misma historia en el amor"
+ ],
+ "descripcion": "¿Cambias de pareja y la historia termina igual? Hoy, en el capítulo 3 de La Taza Derramada, veo contigo 3 señales de un guion inconsciente en tus relaciones, sin culpas ni etiquetas. Es un tema de patrones, amor propio y de amar sin perderte. Haz el reto de hoy y cuéntame tu patrón en una palabra en los comentarios.",
+ "hashtags": [
+  "#amorpropio",
+  "#patronesenrelaciones",
+  "#relacionesdepareja",
+  "#amarsinperderte",
+  "#LaTazaDerramada",
+  "#Germancho",
+  "#ElBaristaDelSer",
+  "#Equilibrate"
+ ],
+ "miniatura": {
+  "texto": "MISMO FINAL",
+  "emocion": "sorpresa",
+  "objeto": "libreta con tres nombres tachados",
+  "pose": "letrero"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Nombre distinto. Mismo final. Si te pasó dos veces, no es mala suerte. Es un guion.",
+   "emocion": "sorpresa",
+   "objeto": "libreta con tres nombres tachados",
+   "pose": "letrero",
+   "prompt_visual": "character holding a sign, notebook with three crossed-out names, bold dark background, high contrast",
+   "segundos": 6,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: surprised, round eyes and open mouth; holding up a blank sign board; character holding a sign, notebook with three crossed-out names, bold dark background, high contrast; the libreta con tres nombres tachados is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Guion es lo que tu cuerpo reconoce como amor, aunque duela.",
+   "emocion": "tristeza",
+   "objeto": "taza de café derramada",
+   "pose": "senalando",
+   "prompt_visual": "character pointing at a spilled coffee cup, soft sad mood, minimal background",
+   "segundos": 4,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: sad, drooping eyes; pointing forward with one long finger; character pointing at a spilled coffee cup, soft sad mood, minimal background; the taza de café derramada is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Uno: te atraen las mismas dinámicas, con otra cara. El que no se compromete, el que te necesita, el que controla.",
+   "emocion": "curiosidad",
+   "objeto": "tres tazas con caras distintas",
+   "pose": "butaco_tazas",
+   "prompt_visual": "character sitting on a stool with three cups, each cup with a different face, simple line art",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: calm; sitting on a wooden stool; character sitting on a stool with three cups, each cup with a different face, simple line art; the tres tazas con caras distintas is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Dos: cedes y callas en los mismos momentos. Tres: la pelea final es casi idéntica, con otras palabras.",
+   "emocion": "reconocimiento",
+   "objeto": "dos globos de diálogo casi iguales",
+   "pose": "cambio",
+   "prompt_visual": "character between two nearly identical speech bubbles, repeating pattern, minimal line art",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: calm; arms stretched sideways; character between two nearly identical speech bubbles, repeating pattern, minimal line art; the dos globos de diálogo casi iguales is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Elegimos lo familiar, no lo sano. Si aprendiste que amar es esperar, quien te hace esperar te sabrá a hogar.",
+   "emocion": "ternura",
+   "objeto": "reloj junto a una taza vacía",
+   "pose": "agachado",
+   "prompt_visual": "character crouching beside an empty cup and a clock, warm and gentle mood, minimal background",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: calm; bent over looking down; character crouching beside an empty cup and a clock, warm and gentle mood, minimal background; the reloj junto a una taza vacía is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "Tú no eres el error. El patrón sí se puede reescribir. Si hay violencia, no es tu culpa: busca ayuda profesional.",
+   "emocion": "esperanza",
+   "objeto": "cuaderno abierto con página en blanco",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "character with open arms next to an open notebook with a blank page, hopeful warm light",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: calm; arms wide open; character with open arms next to an open notebook with a blank page, hopeful warm light; the cuaderno abierto con página en blanco is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: escribe en una línea cómo terminaron tus últimas tres relaciones. Si se parecen, ahí está tu guion. El video completo está en el canal. Suscríbete: mañana hay otro reto.",
+   "emocion": "alegria",
+   "objeto": "cuaderno y lápiz",
+   "pose": "senalando",
+   "prompt_visual": "character pointing at a notebook with three short lines and a pencil, friendly mood, steaming coffee cup",
+   "segundos": 12,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; pointing forward with one long finger; character pointing at a notebook with three short lines and a pencil, friendly mood, steaming coffee cup; the cuaderno y lápiz is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "Escribe en tu cuaderno, en una línea cada una, cómo terminaron tus últimas tres relaciones. Si se parecen, ya encontraste tu guion. Cuéntame tu patrón en una palabra en los comentarios.",
+ "ganchos_alternativos": [
+  "¿Cuántas veces has dicho: esta vez es diferente? Y terminó igual. Tranquila, tranquilo: no es mala suerte.",
+  "Cambias de pareja, pero no de historia. Tres relaciones, un mismo final. Eso no es suerte: es un guion.",
+  "Tuve tres parejas y tres finales iguales. Creí que era mala suerte. Era un guion."
+ ],
+ "palabras": 139,
+ "canal": "equilibrate",
+ "color": "#E8705F",
+ "tipo_contenido": "atraccion",
+ "nivel": "club"
+}

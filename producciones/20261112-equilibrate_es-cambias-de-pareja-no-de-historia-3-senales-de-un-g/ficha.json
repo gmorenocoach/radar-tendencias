@@ -1,0 +1,48 @@
+{
+ "fuente": {
+  "tema": "Cambias de pareja, pero no de historia. Gancho: Nombre distinto, mismo final. Si te pasa, el problema no es la mala suerte. Es un guion.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 3"
+ },
+ "adn": {
+  "tema_central": "Repetir el mismo patrón en relaciones distintas: cambian los nombres, pero la historia termina igual porque hay un guion inconsciente (apego, creencias, elecciones automáticas) y no mala suerte. Capítulo 3 de la serie 'La Taza Derramada: 6 capítulos para amar sin perderte'.",
+  "promesa_del_titulo": "Descubrirás por qué repites la misma historia con parejas distintas y cómo empezar a reescribir tu guion en lugar de culpar a la suerte.",
+  "gancho_primeros_segundos": "(0-3s) Texto en pantalla + voz directa a cámara: 'Nombre distinto. Mismo final.' Corte seco. (3-6s) 'Si ya te pasó dos veces, no es mala suerte. Es un guion.' Visual: tres nombres tachados en una libreta o chat que termina siempre con el mismo mensaje ('Necesito espacio').",
+  "tipo_de_gancho": "Contradicción + identificación directa: desmonta la excusa más común ('mala suerte') y la sustituye por una explicación nueva ('guion'), generando curiosidad y ligera incomodidad.",
+  "estructura": [
+   "0-3s Gancho: 'Nombre distinto, mismo final.'",
+   "3-8s Giro: 'No es mala suerte. Es un guion.' Definir guion en una frase: lo que tu cuerpo reconoce como 'amor' aunque duela.",
+   "8-30s Lista corta de 3 señales de que sigues un guion: 1) Te atraen las mismas dinámicas (el que no se compromete, el que te necesita, el que te controla) aunque con otra cara. 2) Cedes en las mismas cosas y callas en los mismos momentos. 3) La pelea final es casi idéntica, con otras palabras.",
+   "30-45s Causa: elegimos lo familiar, no lo sano. Tu sistema confunde 'conocido' con 'seguro'. Mini ejemplo en una línea.",
+   "45-52s Reencuadre esperanzador: un guion se puede reescribir cuando lo ves; tú no eres el error, el patrón sí es modificable.",
+   "52-58s Reto + CTA: 'Escribe el final de tus últimas 3 relaciones en una línea cada una. Si se parecen, ya encontraste tu guion.' Anuncio del capítulo 4."
+  ],
+  "ritmo": "Rápido y limpio: frases de 5-9 palabras, cortes cada 2-3 segundos, subtítulos grandes con palabra clave resaltada, pausas de medio segundo antes de las frases de giro. Duración ideal 40-58s. Cierre con loop: la última frase conecta con 'Nombre distinto, mismo final.'",
+  "tono": "Empático pero firme; directo, sin dramatismo ni culpabilización. Cercano, como una amiga lúcida que dice la verdad con cariño. Lenguaje cotidiano, poco tecnicismo psicológico.",
+  "cta_final": "Reto: 'Escribe en una línea cómo terminaron tus últimas tres relaciones y mira qué se repite. Cuéntame en comentarios cuál es tu patrón en una palabra. Mañana, capítulo 4 de La Taza Derramada.' Invitar a seguir la serie y guardar el video.",
+  "formula_del_titulo": "[Contradicción: cambias X pero no Y] + [Reencuadre: no es suerte, es Z] + [Número o serie]",
+  "titulo_con_numero": "Cambias de pareja, pero no de historia: 3 señales de que sigues un guion (no es mala suerte)",
+  "palabras_clave": [
+   "patrones en relaciones",
+   "repetir la misma historia",
+   "mismo tipo de pareja",
+   "guion inconsciente",
+   "apego",
+   "mala suerte en el amor",
+   "ciclos amorosos",
+   "amar sin perderte",
+   "La Taza Derramada",
+   "psicología de pareja"
+  ],
+  "emocion_dominante": "Reconocimiento incómodo seguido de alivio y esperanza (me veo reflejada/o, y además tiene solución).",
+  "formula_miniatura": "Fondo oscuro o neutro, tres nombres tachados en tipografía manuscrita y debajo en grande 'MISMO FINAL'. Rostro (o silueta) con expresión de 'ya lo entendí' a un lado. Máximo 4-5 palabras, contraste alto (blanco y un color acento como rojo o amarillo). Pequeña etiqueta 'Cap. 3' con icono de taza derramada.",
+  "por_que_funciona": "Toca una experiencia muy común y dolorosa, ofrece una explicación nueva que quita la culpa sin quitar la responsabilidad, usa un gancho de contradicción que frena el scroll, incluye una lista corta fácil de recordar y compartir, y termina con un reto concreto que genera comentarios. La serie numerada crea expectativa y retorno de audiencia, y el cierre en loop aumenta el tiempo de reproducción.",
+  "riesgos_a_evitar": [
+   "Culpabilizar a la persona espectadora o presentar a las parejas anteriores como villanas.",
+   "Diagnosticar o usar términos clínicos sin matiz (apego evitativo, narcisista) como etiquetas absolutas.",
+   "Prometer soluciones rápidas o 'curar' patrones en un video.",
+   "Empezar con saludo o presentación de la serie antes del gancho.",
+   "Exceso de teoría: más de 3 puntos o explicaciones largas que rompen el ritmo.",
+   "Ignorar situaciones de abuso: aclarar brevemente que si hay violencia, el patrón no es responsabilidad de quien la sufre y conviene buscar ayuda profesional.",
+   "Título o miniatura con demasiado texto o sin conexión con el gancho hablado."
+  ]
+ }
+}
