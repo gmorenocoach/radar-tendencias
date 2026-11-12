@@ -1,6 +1,63 @@
 {
- "actualizado": "2026-11-12T22:08:27",
+ "actualizado": "2026-11-12T23:38:38",
  "producciones": [
+  {
+   "id": "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra",
+   "perfil": "equilibrate_es",
+   "canal": "Equilíbrate · Amor",
+   "fecha": "2026-11-12T23:38:38",
+   "titulo": "Un psicólogo ofreció leche a un mono… y eligió otra mamá",
+   "titulos_alternativos": [
+    "Un científico dio biberón a un bebé mono… y lo ignoró",
+    "Un experimento puso leche a un mono… y ganó la tela"
+   ],
+   "descripcion": "En los años cincuenta, un psicólogo armó dos mamás artificiales para unos monitos rhesus: una daba leche y la otra no. La lógica de la época decía que ganaría la de la comida, pero el bebé tenía otros planes.\nFuente: Harry Harlow, «The Nature of Love», American Psychologist, 1958.\n¿Qué pesa más al querer: lo que das o cómo abrazas?\n\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».\n\n#historia #curiosidades #amor #apego #amorpropio #vinculos #equilibrate",
+   "hashtags": [
+    "#historia",
+    "#curiosidades",
+    "#amor",
+    "#apego",
+    "#amorpropio",
+    "#vinculos",
+    "#equilibrate"
+   ],
+   "reto_de_hoy": "¿Qué pesa más al querer: lo que das o cómo abrazas?",
+   "duracion_s": 66.4,
+   "tamano_mb": 29.8,
+   "fuente": {
+    "tema": "Le ofreció leche a un mono… y eligió a la mamá sin leche",
+    "historia_id": "amor-leofreciolecheaunmonoyel",
+    "fuente_historia": "Harry Harlow, «The Nature of Love», American Psychologist, 1958; Wikipedia: Harry Harlow"
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "historia",
+   "visual": "broll",
+   "archivos": {
+    "video": "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/short.mp4",
+    "miniatura": "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/miniatura.jpg",
+    "miniatura_16x9": "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/miniatura_16x9.jpg",
+    "guion": "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/guion.json",
+    "ficha": "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/ficha.json",
+    "miniaturas": [
+     "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/miniatura.jpg",
+     "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/miniatura_16x9.jpg",
+     "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/miniatura_16x9_oscura.jpg",
+     "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/miniatura_16x9_rostro.jpg",
+     "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/miniatura_oscura_9x16.jpg",
+     "20261112-equilibrate_es-un-psicologo-ofrecio-leche-a-un-mono-y-eligio-otra/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».",
+   "ganchos_alternativos": [
+    "Le dieron al mono una mamá con leche y una sin leche… y escogió la que no tenía nada que darle.",
+    "Cuentan que un bebé mono tenía hambre, y aun así prefirió a la mamá que no le daba de comer.",
+    "¿Qué pasa cuando comida y ternura compiten? Un experimento de los años cincuenta lo mostró."
+   ],
+   "comentario_fijado": "¿Qué pesa más al querer: lo que das o cómo abrazas? Te leo 👇 Escribe RETO y te mando la fuente y la historia completa.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
   {
    "id": "20261112-soyintegral_es-descansar-no-es-flojera-3-pausas-que-llenan-tu-taz",
    "perfil": "soyintegral_es",
