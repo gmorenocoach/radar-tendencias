@@ -27,6 +27,14 @@ def _clave(t):
 
 
 def generar(eje, n=20):
+    """Genera en lotes de 5 (respuestas más cortas y JSON más fiable)."""
+    total = 0
+    while total < n:
+        total += _generar_lote(eje, min(5, n - total))
+    return total
+
+
+def _generar_lote(eje, n=5):
     banco = cargar()
     existentes = [h["titulo"] for h in banco["historias"] if h["eje"] == eje]
     user = f"""Necesito {n} HISTORIAS REALES Y DOCUMENTADAS para Shorts narrativos de 45–60 segundos del eje «{EJES[eje]}».
@@ -47,7 +55,10 @@ Dentro de los textos usa comillas angulares «» o ninguna, NUNCA comillas doble
   "pregunta_binaria": "¿A o B?", "broll": ["3 consultas en inglés de 2–4 palabras para metraje de archivo"]}}]}}"""
     mock = {"historias": [{"titulo": "El rey que condenó a un hombre a tomar café… hasta morir", "hecho": "Gustavo III de Suecia…", "giro": "no murió primero el del café", "fuente": "Wikipedia: Gustav III of Sweden coffee experiment",
                            "certeza": "alta", "conexion_eje": "lo que creemos veneno a veces es compañía", "gancho": "Un rey condenó a un hombre a tomar café hasta morir.", "pregunta_binaria": "¿Café o té?", "broll": ["old castle hall", "coffee cup steam", "antique book"]}]}
-    r = claude(estilo(None), user, mock=mock, max_tokens=8000)
+    try:
+        r = claude(estilo(None), user, mock=mock, max_tokens=6000)
+    except RuntimeError as e:
+        print(f"  ! lote fallido: {str(e)[:120]}"); return n
     nuevas = 0
     claves = {_clave(h["titulo"]) for h in banco["historias"]}
     for h in r.get("historias", []):
@@ -57,6 +68,7 @@ Dentro de los textos usa comillas angulares «» o ninguna, NUNCA comillas doble
         banco["historias"].append(h); claves.add(_clave(h["titulo"])); nuevas += 1
     guardar_json(BANCO, banco)
     print(f"  {eje}: {nuevas} historias nuevas (total {sum(1 for h in banco['historias'] if h['eje'] == eje)}) → config/historias.json")
+    return max(nuevas, 1)
 
 
 def disponibles(canal, n=1):

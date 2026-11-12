@@ -71,7 +71,10 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0):
         r = requests.post("https://api.anthropic.com/v1/messages", json=body, timeout=180,
                           headers={"x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
         if r.status_code == 200:
-            texto = "".join(b.get("text", "") for b in r.json()["content"])
+            rj = r.json()
+            texto = "".join(b.get("text", "") for b in rj.get("content", []))
+            if not texto.strip():
+                print(f"  ! Claude devolvió texto vacío (stop_reason={rj.get('stop_reason')}, content={str(rj.get('content'))[:200]})")
             if not json_out:
                 return texto
             try:
