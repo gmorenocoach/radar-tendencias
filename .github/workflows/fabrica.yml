@@ -162,7 +162,7 @@ jobs:
           # 1) subir solo la carpeta nueva (sin el índice, que es lo que choca entre corridas)
           # no subir MP4 de más de 90 MB (límite de GitHub); quedan en el artefacto
           find producciones -name "*.mp4" -size +90M -print -exec sh -c 'echo "$1" >> .git/info/exclude' _ {} \; || true
-          git add producciones/*/ config/historias.json 2>/dev/null; git reset -q producciones/index.json || true
+          git add producciones/*/ || true; git add config/historias.json 2>/dev/null || true; git reset -q producciones/index.json || true
           git diff --cached --quiet && echo "sin cambios" || git commit -m "fábrica: $(ls -t producciones | grep -v index.json | head -1)"
           git checkout -- producciones/index.json || true
           git pull --rebase origin main

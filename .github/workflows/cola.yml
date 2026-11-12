@@ -74,7 +74,7 @@ jobs:
         run: |
           git config user.name "fabrica-bot"; git config user.email "fabrica-bot@users.noreply.github.com"
           find producciones -name "*.mp4" -size +90M -exec sh -c 'echo "$1" >> .git/info/exclude' _ {} \; || true
-          git add producciones/*/ planes/ config/historias.json 2>/dev/null; git reset -q producciones/index.json 2>/dev/null || true
+          git add producciones/*/ planes/ 2>/dev/null || true; git add config/historias.json 2>/dev/null || true; git reset -q producciones/index.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "cola: $(date -u +%F)"
           git checkout -- producciones/index.json 2>/dev/null || true
           git pull --rebase --autostash origin main
