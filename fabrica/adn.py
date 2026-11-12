@@ -64,6 +64,7 @@ Responde SOLO con JSON con estas claves:
         fuente = {"tema": tema}
         user = f"""No hay video de referencia. Construye la ficha de ADN ideal para un Short viral sobre el tema: "{tema}" en {idioma}.
 Usa las fórmulas que mejor funcionan en YouTube para ese tipo de tema (gancho de contradicción o pregunta, lista corta, cierre con reto).
+RESPETA EL TEMA PEDIDO: el tema_central debe ser ese mismo tema (puedes afinar el ángulo, no cambiarlo por otro).
 Responde SOLO con el mismo JSON de claves: tema_central, promesa_del_titulo, gancho_primeros_segundos, tipo_de_gancho, estructura, ritmo, tono,
 cta_final, formula_del_titulo, titulo_con_numero, palabras_clave, emocion_dominante, formula_miniatura, por_que_funciona, riesgos_a_evitar."""
     mock = {"tema_central": "hábitos que mantienen a la gente pobre", "promesa_del_titulo": "descubrir la causa oculta", "gancho_primeros_segundos": "No es falta de dinero.",

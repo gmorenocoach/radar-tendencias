@@ -14,6 +14,7 @@ from .comun import ROOT, CANAL_COLOR, MOCK
 from .render import FPS
 
 CACHE = ROOT / ".cache_broll"
+ANIMALES = {"lion", "dog", "cat", "animal", "animals", "wildlife", "bird", "horse", "elephant", "tiger", "fish", "monkey", "cow", "deer", "wolf", "bear", "insect"}
 PALABRAS_RUIDO = {"germancho", "character", "cartoon", "triangle", "head", "hoodie", "sneakers", "mascot", "illustration"}
 
 
@@ -41,9 +42,13 @@ def _pixabay(q, orientacion, dur_min):
     if r.status_code != 200:
         print(f"  ! pixabay {r.status_code}: {r.text[:120]}"); return None
     hits = r.json().get("hits", [])
+    pide_animal = any(t in ANIMALES for t in q.lower().split())
     def ok(h):
         v = h.get("videos", {}).get("medium") or h.get("videos", {}).get("small") or {}
         w, hh = v.get("width") or 0, v.get("height") or 0
+        tags = {t.strip() for t in (h.get("tags") or "").lower().split(",")}
+        if not pide_animal and tags & ANIMALES:
+            return False
         return w and hh and ((hh > w) == (orientacion == "portrait"))
     cand = [h for h in hits if ok(h) and h.get("duration", 0) >= dur_min] or [h for h in hits if ok(h)] or hits
     if not cand:
@@ -149,7 +154,7 @@ def ensamblar(escenas, limites, mp3, ass, out_mp4, work, canal, w=1080, h=1920, 
     video = os.path.join(work, "video.mp4")
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lista, "-c", "copy", video], check=True)
     ass_esc = os.path.abspath(ass).replace("\\", "/").replace(":", "\\:")
-    g = germancho_png(canal, work, int(h * (0.20 if orient == "portrait" else 0.40))) if con_germancho else None
+    g = germancho_png(canal, work, int(h * (0.30 if orient == "portrait" else 0.42))) if con_germancho else None
     cmd = ["ffmpeg", "-y", "-v", "error", "-i", video, "-i", mp3]
     fc = []
     vin = "[0:v]"
@@ -164,7 +169,7 @@ def ensamblar(escenas, limites, mp3, ass, out_mp4, work, canal, w=1080, h=1920, 
         amap = "[a]"
     else:
         amap = "1:a"
-    cmd += ["-filter_complex", ";".join(fc), "-map", "[v]", "-map", amap, "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+    cmd += ["-filter_complex", ";".join(fc), "-map", "[v]", "-map", amap, "-c:v", "libx264", "-preset", "medium", "-crf", "23", "-maxrate", "6M", "-bufsize", "12M",
             "-c:a", "aac", "-b:a", "160k", "-shortest", "-movflags", "+faststart", out_mp4]
     subprocess.run(cmd, check=True)
     return out_mp4
