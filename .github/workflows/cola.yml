@@ -50,6 +50,7 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           FAL_KEY: ${{ secrets.FAL_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
         run: |
           ARGS="--dias ${{ github.event.inputs.dias || 2 }} --max ${{ github.event.inputs.max || 6 }}"
           if [ -n "${{ github.event.inputs.pieza }}" ]; then ARGS="$ARGS --pieza ${{ github.event.inputs.pieza }}";

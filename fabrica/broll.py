@@ -2,7 +2,8 @@
 Modo B-roll: metraje de archivo gratuito (Pexels) por escena + Germancho narrando en una esquina + subtítulos.
 Sin imágenes generadas: el costo del video es solo la voz.
 
-Requiere PEXELS_API_KEY (gratis en https://www.pexels.com/api/). Sin clave, cada escena usa un fondo del color del canal
+Proveedores: PEXELS_API_KEY (pexels.com/api) y/o PIXABAY_API_KEY (pixabay.com/api/docs, la clave aparece al iniciar sesión).
+Se prueba Pexels y luego Pixabay. Sin claves, cada escena usa un fondo del color del canal
 con Germancho al centro (el video se produce igual, más sobrio).
 Música opcional: deja MP3 en assets/musica/<canal>/ (biblioteca de audio de YouTube) y se mezcla al 10 %.
 """
@@ -22,13 +23,54 @@ def _limpiar_query(q):
     return " ".join(toks[:6]) or "coffee cup table"
 
 
+def _descargar(url, dest):
+    if not dest.exists():
+        with requests.get(url, stream=True, timeout=120) as d:
+            d.raise_for_status()
+            with open(dest, "wb") as fh:
+                for ch in d.iter_content(1 << 16):
+                    fh.write(ch)
+    return str(dest)
+
+
+def _pixabay(q, orientacion, dur_min):
+    key = os.environ.get("PIXABAY_API_KEY")
+    if not key:
+        return None
+    r = requests.get("https://pixabay.com/api/videos/", params={"key": key, "q": q, "per_page": 20, "safesearch": "true", "video_type": "film"}, timeout=30)
+    if r.status_code != 200:
+        print(f"  ! pixabay {r.status_code}: {r.text[:120]}"); return None
+    hits = r.json().get("hits", [])
+    def ok(h):
+        v = h.get("videos", {}).get("medium") or h.get("videos", {}).get("small") or {}
+        w, hh = v.get("width") or 0, v.get("height") or 0
+        return w and hh and ((hh > w) == (orientacion == "portrait"))
+    cand = [h for h in hits if ok(h) and h.get("duration", 0) >= dur_min] or [h for h in hits if ok(h)] or hits
+    if not cand:
+        return None
+    h = random.choice(cand[:5]); v = h["videos"].get("medium") or h["videos"].get("small") or h["videos"].get("large")
+    return _descargar(v["url"], CACHE / (hashlib.md5(v["url"].encode()).hexdigest()[:16] + ".mp4"))
+
+
 def buscar_clip(query, orientacion="portrait", dur_min=3.0):
-    """Devuelve la ruta local de un clip de Pexels para la consulta, o None."""
-    key = os.environ.get("PEXELS_API_KEY")
-    if MOCK or not key:
+    """Devuelve la ruta local de un clip de archivo (Pexels o Pixabay) para la consulta, o None."""
+    if MOCK or not (os.environ.get("PEXELS_API_KEY") or os.environ.get("PIXABAY_API_KEY")):
         return None
     CACHE.mkdir(exist_ok=True)
     q = _limpiar_query(query)
+    try:
+        c = _pexels(q, orientacion, dur_min)
+        if c:
+            return c
+        return _pixabay(q, orientacion, dur_min)
+    except Exception as e:
+        print(f"  ! b-roll ({q}): {e}"); return None
+
+
+def _pexels(q, orientacion, dur_min):
+    key = os.environ.get("PEXELS_API_KEY")
+    if not key:
+        return None
     try:
         r = requests.get("https://api.pexels.com/videos/search", params={"query": q, "orientation": orientacion, "per_page": 8, "size": "medium"},
                          headers={"Authorization": key}, timeout=30)
@@ -43,14 +85,7 @@ def buscar_clip(query, orientacion="portrait", dur_min=3.0):
         files = sorted(v["video_files"], key=lambda f: (f.get("width") or 0) * (f.get("height") or 0))
         ok = [f for f in files if (f.get("width") or 0) >= objetivo * 0.9 and f.get("file_type", "").endswith("mp4")] or [f for f in files if f.get("file_type", "").endswith("mp4")]
         f = ok[0] if ok else files[-1]
-        dest = CACHE / (hashlib.md5(f["link"].encode()).hexdigest()[:16] + ".mp4")
-        if not dest.exists():
-            with requests.get(f["link"], stream=True, timeout=120) as d:
-                d.raise_for_status()
-                with open(dest, "wb") as fh:
-                    for ch in d.iter_content(1 << 16):
-                        fh.write(ch)
-        return str(dest)
+        return _descargar(f["link"], CACHE / (hashlib.md5(f["link"].encode()).hexdigest()[:16] + ".mp4"))
     except Exception as e:
         print(f"  ! pexels ({q}): {e}"); return None
 

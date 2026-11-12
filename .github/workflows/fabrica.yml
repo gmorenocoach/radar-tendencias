@@ -102,6 +102,7 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           FAL_KEY: ${{ secrets.FAL_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
         run: |
           ok=1
           for k in YOUTUBE_API_KEY ANTHROPIC_API_KEY ELEVENLABS_API_KEY FAL_KEY; do
@@ -122,6 +123,7 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           FAL_KEY: ${{ secrets.FAL_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           ELEVEN_VOICE_NAME: ${{ github.event.inputs.voz }}
         run: |
           ARGS="--perfil ${{ github.event.inputs.perfil }}"
