@@ -1,0 +1,49 @@
+{
+ "fuente": {
+  "tema": "Prepararte no es tener miedo: es cuidarte con calma. Gancho: Guardar comida no es paranoia, es cariño con tu yo del futuro."
+ },
+ "adn": {
+  "tema_central": "Prepararse (guardar comida, tener un kit básico) como un acto de autocuidado y calma, no de miedo ni paranoia. Reencuadre emocional: la despensa como un gesto de cariño hacia tu yo del futuro.",
+  "promesa_del_titulo": "Descubrirás cómo prepararte para imprevistos sin ansiedad, con 3 hábitos simples que te dan tranquilidad hoy y seguridad mañana.",
+  "gancho_primeros_segundos": "\"Guardar comida no es paranoia... es cariño con tu yo del futuro.\" (0-3 s: plano cercano a una despensa ordenada, texto grande en pantalla con la frase y una mirada directa a cámara).",
+  "tipo_de_gancho": "Contradicción / reencuadre de creencia: desmonta la idea de que prepararse es tener miedo y la convierte en un acto de amor propio. Refuerzo con pregunta abierta: \"¿Te han dicho exagerado por tener comida de reserva?\"",
+  "estructura": [
+   "0-3 s: Gancho de contradicción con la frase central y texto en pantalla.",
+   "3-8 s: Validación del juicio ajeno: \"Te dijeron exagerado/a, pero prepararte no es miedo.\"",
+   "8-15 s: Idea 1 – Compra 1 de más: cada vez que vayas al súper, suma un producto no perecedero (arroz, legumbres, latas).",
+   "15-22 s: Idea 2 – Agua y luz: 1 garrafa de agua y una linterna con pilas a mano.",
+   "22-29 s: Idea 3 – Lo que te calma: incluye algo reconfortante (té, galletas, chocolate) y tus medicinas básicas.",
+   "29-36 s: Reencuadre emocional: \"Tu yo del futuro te lo va a agradecer.\"",
+   "36-45 s: Cierre con reto y CTA."
+  ],
+  "ritmo": "Rápido y ligero: cortes cada 2-3 segundos, planos de detalle de la despensa, texto en pantalla sincronizado con la voz, números grandes por cada idea, música suave y cálida de fondo. Voz pausada pero con energía para transmitir calma, no urgencia.",
+  "tono": "Cálido, cercano, tranquilizador y con un toque de humor amable. Cero alarmismo; habla como una amiga que te cuida, no como un experto en catástrofes.",
+  "cta_final": "Reto: \"Esta semana compra solo UNA cosa extra para tu despensa y cuéntame en comentarios qué elegiste. Guarda este video y suscríbete para más hábitos de calma práctica.\"",
+  "formula_del_titulo": "[Creencia negativa] + no es + [miedo] + es + [beneficio emocional] + número de pasos. Ej.: \"Prepararte no es paranoia: 3 gestos de cariño para tu yo del futuro\".",
+  "titulo_con_numero": "3 cosas que guardar en casa (y por qué no es paranoia, es cariño)",
+  "palabras_clave": [
+   "prepararse sin miedo",
+   "guardar comida",
+   "despensa de emergencia",
+   "autocuidado",
+   "yo del futuro",
+   "calma",
+   "hábitos simples",
+   "kit básico en casa",
+   "no es paranoia",
+   "tranquilidad"
+  ],
+  "emocion_dominante": "Calma y alivio, con ternura (autocuidado) y una pizca de validación frente al juicio ajeno.",
+  "formula_miniatura": "Primer plano de una despensa ordenada con luz cálida; persona sonriendo tranquila a un lado. Texto grande de 3-4 palabras: \"NO ES PARANOIA\" con \"PARANOIA\" tachada y reemplazada por \"CARIÑO\". Colores cálidos (amarillo/naranja) sobre fondo limpio, alto contraste.",
+  "por_que_funciona": "Rompe una creencia común y cargada de estigma (prepararse = miedo) y la reemplaza por una imagen emocional positiva y compartible. La lista corta de 3 acciones es fácil de recordar y aplicar. La validación de quien ha sido juzgado genera identificación y guardados/compartidos. El reto final de una sola acción pequeña impulsa comentarios y retención.",
+  "riesgos_a_evitar": [
+   "Tono alarmista o catastrofista que contradiga la promesa de calma.",
+   "Mencionar crisis o noticias concretas que puedan activar ansiedad o infringir políticas de desinformación.",
+   "Afirmaciones médicas o de seguridad absolutas sin matices.",
+   "Listas largas o demasiado técnicas que diluyan el mensaje emocional.",
+   "Gancho tardío: la frase central debe aparecer en los primeros 3 segundos.",
+   "Hacer sentir culpable a quien no tiene recursos: enfatizar pasos pequeños y accesibles.",
+   "Promover acaparamiento: hablar de cantidades razonables, no de acumular en exceso."
+  ]
+ }
+}

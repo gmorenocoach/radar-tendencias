@@ -1,0 +1,115 @@
+{
+ "titulo": "Descansar no es flojera: 3 pausas que llenan tu taza",
+ "titulos_alternativos": [
+  "Parar no es rendirse: 3 gestos de cariño para tu cuerpo",
+  "3 pausas pequeñas (y por qué descansar no es pereza)"
+ ],
+ "descripcion": "Descansar no es flojera, es mantenimiento. Te cuento 3 hábitos simples para cuidar tu cuerpo, tu sueño y tu estrés en el trabajo: una pausa de dos minutos, un vaso de agua a tu lado y menos pantallas antes de dormir. Esto no reemplaza al médico: si el cansancio no se va, consulta a un profesional. Haz el reto de hoy y cuéntame en comentarios qué pausa elegiste.",
+ "hashtags": [
+  "#descansar",
+  "#autocuidado",
+  "#habitossaludables",
+  "#bienestarlaboral",
+  "#sueño",
+  "#estres",
+  "#calma",
+  "#SoyIntegral"
+ ],
+ "miniatura": {
+  "texto": "NO ES FLOJERA",
+  "emocion": "alegria",
+  "objeto": "taza humeante",
+  "pose": "letrero"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Descansar no es flojera... es llenar tu taza.",
+   "emocion": "alegria",
+   "objeto": "taza",
+   "pose": "letrero",
+   "prompt_visual": "Cheerful barista character holding a sign, big steaming cup beside him, warm light",
+   "broll": "steaming coffee cup",
+   "segundos": 3,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "¿Alguien te ha hecho sentir culpa por parar un rato? Aquí no se juzga. Parar no es rendirse, es mantenimiento.",
+   "emocion": "ternura",
+   "objeto": "cuaderno",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "Friendly character with open arms, notebook floating beside, soft reassuring mood",
+   "broll": "person resting desk",
+   "segundos": 7,
+   "broll_fuente": "9cc8ae4f072b2013.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Uno: una pausa de dos minutos por cada hora de trabajo. Te levantas, estiras los hombros, miras lejos. Tu cuerpo no es una máquina.",
+   "emocion": "calma",
+   "objeto": "reloj",
+   "pose": "senalando",
+   "prompt_visual": "Character pointing at a big number one and a clock, stretching shoulders, office desk",
+   "broll": "stretching at office",
+   "segundos": 9,
+   "broll_fuente": "06d311e4d3e857b5.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Dos: un vaso de agua al lado de tu cuaderno. Tómalo despacio, sin pantalla. Es un abrazo pequeño para tu cuerpo.",
+   "emocion": "ternura",
+   "objeto": "vaso de agua",
+   "pose": "butaco_tazas",
+   "prompt_visual": "Character sitting on a stool with cups, glass of water next to a notebook, number two",
+   "broll": "drinking water glass",
+   "segundos": 8,
+   "broll_fuente": "eb3f0c84f8626571.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Tres: una luz baja y cero pantallas antes de dormir, aunque sea diez minutos. Tu sueño lo va a agradecer.",
+   "emocion": "calma",
+   "objeto": "lámpara",
+   "pose": "cambio",
+   "prompt_visual": "Character switching off phone, dim bedside lamp, number three, cozy bedroom",
+   "broll": "bedside lamp night",
+   "segundos": 8,
+   "broll_fuente": "2aa65fda481fbe78.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Tu cuerpo de mañana lo va a notar. Y si el cansancio no se va, consulta a un profesional; esto no reemplaza al médico.",
+   "emocion": "ternura",
+   "objeto": "escalera",
+   "pose": "escalera",
+   "prompt_visual": "Character climbing a small staircase toward a sunrise, gentle and hopeful",
+   "broll": "sunrise morning stretch",
+   "segundos": 9,
+   "broll_fuente": "f2bf36b6ac5ea972.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: ahora mismo, párate, toma un vaso de agua despacio y cuéntame en comentarios qué pausa elegirás. Suscríbete: mañana hay otro reto.",
+   "emocion": "alegria",
+   "objeto": "vaso de agua",
+   "pose": "saludando",
+   "prompt_visual": "Character waving with a glass of water, comment bubble icon, friendly smile",
+   "broll": "person drinking water",
+   "segundos": 9,
+   "broll_fuente": "1009e4f879c63f7e.mp4"
+  }
+ ],
+ "reto_de_hoy": "Ahora mismo, párate, toma un vaso de agua despacio, sin pantalla, y escribe en comentarios qué pausa elegirás hoy.",
+ "ganchos_alternativos": [
+  "¿Cuándo fue la última vez que paraste sin culpa?",
+  "Tu cuerpo no necesita más café: necesita una pausa.",
+  "Yo creía que descansar era perder tiempo. Me equivoqué."
+ ],
+ "palabras": 141,
+ "canal": "soyintegral",
+ "color": "#2E8B57",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "visual": "broll"
+}
