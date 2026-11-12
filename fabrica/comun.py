@@ -58,7 +58,7 @@ def guardar_json(path, data):
 # ----------------------------------------------------------------------------
 # Claude
 # ----------------------------------------------------------------------------
-def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0):
+def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0, pensar=0):
     """Llama a Claude y devuelve texto o JSON. En modo simulado devuelve `mock`. Si el JSON no es válido, reintenta una vez."""
     if MOCK:
         return mock
@@ -67,6 +67,8 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0):
         raise SystemExit("Falta ANTHROPIC_API_KEY")
     body = {"model": os.environ.get("CLAUDE_MODEL", "claude-sonnet-5-5"), "max_tokens": max_tokens,
             "system": system, "messages": [{"role": "user", "content": user}]}
+    if pensar:   # razonamiento acotado: el modelo puede pensar, pero siempre queda espacio para la respuesta
+        body["thinking"] = {"type": "enabled", "budget_tokens": int(pensar)}; body["max_tokens"] = max(max_tokens, int(pensar) + 6000)
     for intento in range(3):
         r = requests.post("https://api.anthropic.com/v1/messages", json=body, timeout=180,
                           headers={"x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
@@ -74,7 +76,10 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0):
             rj = r.json()
             texto = "".join(b.get("text", "") for b in rj.get("content", []))
             if not texto.strip():
-                print(f"  ! Claude devolvió texto vacío (stop_reason={rj.get('stop_reason')}, content={str(rj.get('content'))[:200]})")
+                print(f"  ! Claude devolvió texto vacío (stop_reason={rj.get('stop_reason')}); reintentando con más espacio")
+                if _intento < 2:
+                    return claude(system, user, max_tokens * 2, json_out, mock, _intento=_intento + 1, pensar=(pensar or 4000))
+                raise RuntimeError("Claude: respuesta vacía tras reintentos")
             if not json_out:
                 return texto
             try:
@@ -83,7 +88,7 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0):
                 if _intento < 2:
                     print(f"  ! respuesta no JSON ({texto[:120]!r}); reintentando ({_intento + 1})")
                     return claude(system, user + "\n\nRESPONDE ÚNICAMENTE con el objeto JSON pedido, sin texto antes ni después, sin bloques de código. Escapa las comillas dentro de los textos.",
-                                  max_tokens, json_out, mock, _intento=_intento + 1)
+                                  max_tokens, json_out, mock, _intento=_intento + 1, pensar=pensar)
                 raise
         if r.status_code in (429, 500, 529):
             time.sleep(5 * (intento + 1))

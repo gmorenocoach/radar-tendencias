@@ -56,7 +56,7 @@ Dentro de los textos usa comillas angulares «» o ninguna, NUNCA comillas doble
     mock = {"historias": [{"titulo": "El rey que condenó a un hombre a tomar café… hasta morir", "hecho": "Gustavo III de Suecia…", "giro": "no murió primero el del café", "fuente": "Wikipedia: Gustav III of Sweden coffee experiment",
                            "certeza": "alta", "conexion_eje": "lo que creemos veneno a veces es compañía", "gancho": "Un rey condenó a un hombre a tomar café hasta morir.", "pregunta_binaria": "¿Café o té?", "broll": ["old castle hall", "coffee cup steam", "antique book"]}]}
     try:
-        r = claude(estilo(None), user, mock=mock, max_tokens=6000)
+        r = claude(estilo(None), user, mock=mock, max_tokens=8000, pensar=6000)
     except RuntimeError as e:
         print(f"  ! lote fallido: {str(e)[:120]}"); return n
     nuevas = 0
