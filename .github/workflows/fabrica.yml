@@ -143,16 +143,18 @@ jobs:
             eval python -m fabrica.produce $ARGS
           fi
 
+      - name: Carpeta producida
+        id: carpeta
+        run: echo "dir=$(ls -td producciones/*/ | head -1)" >> $GITHUB_OUTPUT
+
       - name: Artefacto descargable (por si falla el guardado)
         uses: actions/upload-artifact@v4
         with:
           name: short-${{ github.run_id }}
           path: |
-            producciones/*/short*.mp4
-            producciones/*/largo.mp4
-            producciones/*/miniatura*.jpg
-            producciones/*/metadata.json
-            producciones/*/guion.json
+            ${{ steps.carpeta.outputs.dir }}*.mp4
+            ${{ steps.carpeta.outputs.dir }}*.jpg
+            ${{ steps.carpeta.outputs.dir }}*.json
           retention-days: 14
 
       - name: Guardar producción
