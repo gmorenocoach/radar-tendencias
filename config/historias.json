@@ -94,6 +94,861 @@
    "eje": "amor",
    "usada": false,
    "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Frida se divorció de Diego… y volvió con condiciones",
+   "hecho": "En la cocina de la Casa Azul, en Coyoacán (Ciudad de México), los nombres Frida y Diego están formados con jarritos de barro sobre la pared. Frida Kahlo y Diego Rivera se casaron en 1929 y su relación fue célebre por intensa y turbulenta, con infidelidades de ambos lados. En 1939 se divorciaron. Menos de dos años después, en diciembre de 1940, volvieron a casarse en San Francisco. Según su biógrafa Hayden Herrera, Frida aceptó con condiciones propias, entre ellas costear sus propios gastos.",
+   "giro": "Ella no regresó rendida: regresó poniendo sus reglas y su independencia por delante.",
+   "fuente": "Hayden Herrera, «Frida: A Biography of Frida Kahlo» (1983); Museo Frida Kahlo (Casa Azul)",
+   "certeza": "media",
+   "conexion_eje": "Volver a alguien no tiene por qué significar dejar de volver a ti.",
+   "gancho": "En esta cocina hay dos nombres en la pared… y un divorcio de por medio.",
+   "pregunta_binaria": "Si vuelves con alguien, ¿lo haces con tus condiciones o sin ninguna?",
+   "broll": [
+    "Mexican kitchen tiles",
+    "Frida Kahlo portrait",
+    "Mexico City street"
+   ],
+   "id": "amor-fridasedivorciodediegoyv",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Dibujó cada olla en la pared… y acabó en un museo",
+   "hecho": "En una cocina de Cambridge, Massachusetts, cada olla y cada sartén tiene su silueta dibujada en un tablero de pared. Quien las dibujó fue Paul Child, pintor y fotógrafo, esposo de Julia Child. Julia, según ella misma contó en sus memorias, casi no cocinaba antes de mudarse a París en 1948. Allí estudió en Le Cordon Bleu y, a los 49 años, en 1961, publicó junto a dos coautoras «Mastering the Art of French Cooking». Esa cocina, con las siluetas de Paul, está hoy en el Museo Nacional de Historia Americana del Smithsonian.",
+   "giro": "La cocina que cambió la cocina de un país la ordenó un esposo con un marcador, y el museo guarda ambas cosas.",
+   "fuente": "Julia Child, «My Life in France» (2006); Smithsonian National Museum of American History",
+   "certeza": "alta",
+   "conexion_eje": "A veces amar es dibujar el contorno para que el sueño del otro tenga dónde colgarse.",
+   "gancho": "En esta cocina, cada olla tiene su silueta dibujada en la pared.",
+   "pregunta_binaria": "Si tu pareja empieza un sueño a los 40, ¿le dices vamos o seguro?",
+   "broll": [
+    "vintage kitchen utensils",
+    "pegboard pots pans",
+    "Paris cooking school"
+   ],
+   "id": "amor-dibujocadaollaenlaparedy",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Escribían alrededor de una mesa… y vendieron dos copias",
+   "hecho": "En la casa parroquial de Haworth, en Yorkshire, las hermanas Charlotte, Emily y Anne Brontë solían caminar por las noches alrededor de la mesa del comedor mientras conversaban sobre sus historias. Así lo cuenta Elizabeth Gaskell en su biografía de Charlotte. En 1846 pagaron de su bolsillo un libro de poemas firmado como Currer, Ellis y Acton Bell, seudónimos de sonido masculino. Años después Charlotte recordó que el libro vendió solo dos ejemplares. Al año siguiente, en 1847, salieron «Jane Eyre», «Cumbres borrascosas» y «Agnes Grey».",
+   "giro": "El libro que vendió dos copias fue el paso previo a tres novelas que siguen leyéndose casi dos siglos después.",
+   "fuente": "Elizabeth Gaskell, «The Life of Charlotte Brontë» (1857); Charlotte Brontë, «Biographical Notice» (1850); Brontë Parsonage Museum",
+   "certeza": "alta",
+   "conexion_eje": "Los vínculos que te acompañan cuando nadie aplaude sostienen más de lo que parece.",
+   "gancho": "Tres hermanas daban vueltas a una mesa cada noche, hablando de sus historias.",
+   "pregunta_binaria": "¿Seguirías creando con dos lectores o esperarías a tener aplausos?",
+   "broll": [
+    "old wooden dining table",
+    "Yorkshire moors",
+    "candlelit writing desk"
+   ],
+   "id": "amor-escribianalrededordeunam",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Darwin hizo una lista para casarse… y un perro opinó",
+   "hecho": "En 1838, Charles Darwin, soltero y de unos 29 años, escribió en una hoja dos columnas: casarse y no casarse. En los pros anotó tener una compañera constante y, entre bromas, que eso era mejor que tener un perro. En los contras puso la pérdida de tiempo y tener menos dinero para libros. Al final escribió tres veces la palabra casarse y cerró con la abreviatura latina Q.E.D., o sea, lo que había que demostrar. En enero de 1839 se casó con su prima Emma Wedgwood, con quien tuvo diez hijos.",
+   "giro": "El hombre que pesó el matrimonio como un experimento terminó dejando que ganara la compañía, no la lógica de los contras.",
+   "fuente": "Darwin Correspondence Project (Universidad de Cambridge), notas sobre el matrimonio de 1838",
+   "certeza": "alta",
+   "conexion_eje": "Puedes hacer la lista completa y aun así descubrir que lo que decide es con quién quieres compartir la mesa.",
+   "gancho": "Un científico hizo una lista de pros y contras para casarse… y mencionó a su perro.",
+   "pregunta_binaria": "Para decidir en el amor, ¿lista de pros y contras o corazón?",
+   "broll": [
+    "Victorian handwritten letter",
+    "old notebook pen",
+    "English countryside house"
+   ],
+   "id": "amor-darwinhizounalistaparaca",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Observó parejas en un apartamento… y no eran las peleas",
+   "hecho": "Desde los años ochenta, el psicólogo John Gottman y su equipo, en la Universidad de Washington en Seattle, montaron un laboratorio con forma de apartamento, con cocina y sala, apodado Love Lab. Las parejas pasaban una jornada allí como en casa mientras cámaras y sensores registraban su conversación. Luego el equipo les siguió la pista durante años para ver quiénes seguían juntos. Se esperaba que las grandes discusiones lo explicaran todo. Pero lo que más separaba a unas de otras eran gestos pequeños: cuando uno decía algo mínimo, como mira ese pájaro por la ventana, ¿el otro se giraba a mirar o seguía en lo suyo?",
+   "giro": "Lo que mejor distinguía a las parejas que seguían juntas no eran las peleas, sino cuántas veces el otro respondía a lo pequeño.",
+   "fuente": "John Gottman, «The Relationship Cure» (2001); The Gottman Institute; Universidad de Washington",
+   "certeza": "media",
+   "conexion_eje": "El vínculo se cuida en las migajas del día, no solo en las grandes conversaciones.",
+   "gancho": "Montaron un apartamento falso para espiar cómo se tratan las parejas… y los gritos no eran la clave.",
+   "pregunta_binaria": "Cuando tu pareja te señala algo pequeño, ¿lo miras o sigues con el celular?",
+   "broll": [
+    "couple apartment kitchen",
+    "laboratory cameras observing",
+    "couple looking window"
+   ],
+   "id": "amor-observoparejasenunaparta",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Café, cartas y casi 20 años de espera… y cinco meses",
+   "hecho": "París, siglo XIX. El novelista Honoré de Balzac escribía de noche con café muy fuerte, y hasta dedicó un ensayo a los estimulantes modernos (1839). En 1832 recibió una carta de una admiradora desconocida, que firmaba como «L'Étrangère»: era Ewelina Hańska, noble de la actual Ucrania y casada. Se conocieron en persona en 1833, en Suiza, y durante años su relación vivió sobre todo en cartas. Ella enviudó en 1841, pero aun así esperaron hasta 1850 para casarse. Balzac, con la salud muy deteriorada, murió en agosto de ese mismo año, unos cinco meses después de la boda.",
+   "giro": "Tras casi veinte años de cartas y espera, tuvieron solo cinco meses de casados.",
+   "fuente": "Wikipedia: «Honoré de Balzac» y «Ewelina Hańska»; biografías de Balzac",
+   "certeza": "alta",
+   "conexion_eje": "A veces dejamos el amor para cuando todo esté listo, y la taza se enfría esperando.",
+   "gancho": "Esta taza de café sostuvo una espera de casi veinte años.",
+   "pregunta_binaria": "¿Tú esperarías el momento perfecto o dirías te quiero hoy?",
+   "broll": [
+    "writing desk candle",
+    "vintage love letters",
+    "coffee cup pouring"
+   ],
+   "id": "amor-cafecartasycasi20anosdee",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Pactaron un amor por 2 años… y duró medio siglo",
+   "hecho": "París, 1929. Jean-Paul Sartre y Simone de Beauvoir, estudiantes de filosofía, empiezan una relación y la planean como un pacto poco común. Según cuenta ella en sus memorias, acordaron un vínculo «necesario» entre los dos, con libertad para otros amores «contingentes», y un plazo inicial de dos años. Pasaron décadas escribiendo y conversando en cafés parisinos como el Café de Flore. Nunca se casaron. Sartre murió en 1980, unos 51 años después de aquel pacto, y cuando Beauvoir murió, en 1986, la enterraron en la misma tumba, en el cementerio de Montparnasse.",
+   "giro": "El pacto pensado para dos años terminó compartiendo tumba.",
+   "fuente": "Wikipedia: «Simone de Beauvoir» y «Jean-Paul Sartre»; memorias de Beauvoir",
+   "certeza": "alta",
+   "conexion_eje": "Los vínculos que duran no siempre se parecen a los que imaginamos, pero sí se alimentan de conversación diaria.",
+   "gancho": "En una mesa de café de París pactaron un amor con fecha de vencimiento.",
+   "pregunta_binaria": "¿Prefieres un amor con libertad o un amor con promesa?",
+   "broll": [
+    "Paris cafe table",
+    "vintage Paris street",
+    "old couple walking"
+   ],
+   "id": "amor-pactaronunamorpor2anosyd",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Copió a mano Guerra y paz… y él terminó huyendo de casa",
+   "hecho": "Rusia, 1862. Lev Tolstói, de 34 años, se casa con Sofía Behrs, de 18, y antes de la boda le da sus diarios para que lea su pasado sin filtros. Años después, sentada a una mesa, Sofía copia a mano los manuscritos de Guerra y paz mientras él los corrige una y otra vez. Con el tiempo, la pareja acumula tensiones por las ideas de él y por los derechos de sus obras. En noviembre de 1910, a los 82 años, Tolstói se marcha de madrugada de su casa, Yásnaia Poliana, y deja una carta. Enferma durante el viaje y muere en la estación de Astápovo. Sofía llega hasta allí, pero solo la dejan entrar cuando él ya estaba inconsciente.",
+   "giro": "La mujer que copió su obra entera lo vio por última vez cuando él ya no podía mirarla.",
+   "fuente": "Wikipedia: «Leo Tolstoy» y «Sophia Tolstaya»; biografías de Tolstói",
+   "certeza": "alta",
+   "conexion_eje": "Acompañar a alguien no tiene por qué significar perderte tú, y cuidar el vínculo también es hablar a tiempo.",
+   "gancho": "Una mesa, una pluma y una joven copiando una novela entera, otra vez.",
+   "pregunta_binaria": "¿Tolstói debió quedarse a resolverlo o irse para encontrarse?",
+   "broll": [
+    "old manuscript writing",
+    "Russian countryside house",
+    "antique train station"
+   ],
+   "id": "amor-copioamanoguerraypazyelt",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Un perro esperó casi 10 años en una estación… y fue estatua",
+   "hecho": "Tokio, 1924. Hidesaburō Ueno, profesor universitario, lleva a casa a un perro akita llamado Hachikō. Cada mañana el perro lo acompaña a la estación de Shibuya y por la tarde vuelve a recibirlo. En mayo de 1925 Ueno muere de repente en la universidad y no regresa. Hachikō siguió yendo a la estación casi todos los días durante cerca de diez años, hasta su muerte en marzo de 1935. Hacia 1932 un artículo de prensa lo volvió famoso en Japón, y en 1934 se inauguró una estatua suya en la estación.",
+   "giro": "La estatua se inauguró en 1934 con Hachikō presente, es decir, en vida.",
+   "fuente": "Wikipedia: «Hachikō»; Universidad de Tokio y Museo Nacional de Naturaleza y Ciencia de Japón",
+   "certeza": "alta",
+   "conexion_eje": "El amor también se queda en las rutinas pequeñas, y esas rutinas a veces son la forma de despedirnos.",
+   "gancho": "Todas las tardes iba a la misma estación a esperar a alguien que no volvía.",
+   "pregunta_binaria": "¿Lo de Hachikō fue lealtad o fue duelo?",
+   "broll": [
+    "Shibuya station crowd",
+    "Akita dog portrait",
+    "bronze dog statue"
+   ],
+   "id": "amor-unperroesperocasi10anose",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Una madre se quedó inmóvil unos minutos… y su bebé lo notó",
+   "hecho": "Estados Unidos, década de 1970. El psicólogo Edward Tronick y su equipo observan a madres jugando cara a cara con sus bebés pequeños. Luego les piden algo raro: mantener el rostro neutro, sin sonreír ni responder, durante unos minutos. Los bebés intentan recuperar la atención con sonrisas, gestos y sonidos. Al no lograrlo, se muestran inquietos, desvían la mirada y se angustian. Cuando la madre vuelve a interactuar, muchos bebés recuperan poco a poco la conexión.",
+   "giro": "No hubo gritos ni castigo, solo silencio, y fue lo que más inquietó al bebé.",
+   "fuente": "Tronick et al., 1978, Journal of the American Academy of Child Psychiatry; Wikipedia: «Still face experiment»",
+   "certeza": "alta",
+   "conexion_eje": "En los vínculos pesa más la respuesta pequeña de cada día que el gesto grande de vez en cuando, y reconectar también cuenta.",
+   "gancho": "Una mamá puso cara de nada frente a su bebé. Eso fue todo el experimento.",
+   "pregunta_binaria": "¿Te duele más una discusión o un silencio?",
+   "broll": [
+    "mother baby playing",
+    "baby looking away",
+    "family hug home"
+   ],
+   "id": "amor-unamadresequedoinmovilun",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Empeñaron la licuadora por una novela… y ella dudó al final",
+   "hecho": "En 1965, Gabriel García Márquez dejó sus trabajos en Ciudad de México para escribir una novela que llevaba años en su cabeza. Se encerró unos 18 meses y su esposa, Mercedes Barcha, se encargó de que la casa siguiera en pie, con deudas y con electrodomésticos empeñados. Según el relato más difundido, al terminar no les alcanzaba para enviar el manuscrito completo por correo, y empeñaron aún más cosas de la cocina para poder mandarlo. Mercedes, según contó él mismo, soltó entonces que ya solo faltaba que la novela fuera mala. La novela se llamó «Cien años de soledad», salió en Buenos Aires en 1967 y se convirtió en una de las obras más leídas en español.",
+   "giro": "El gran miedo de ella no era la deuda sino que el libro fuera malo, y aun así apostó por él hasta el final.",
+   "fuente": "Gerald Martin, «Gabriel García Márquez: una vida» (2008); artículo «Cien años de soledad» en Wikipedia",
+   "certeza": "media",
+   "conexion_eje": "Amar a alguien a veces es sostener su sueño con lo que tienes en la cocina, incluso cuando tú también dudas.",
+   "gancho": "Su esposa empeñó la licuadora para que él pudiera terminar un libro.",
+   "pregunta_binaria": "¿Tú apostarías por el sueño de alguien que amas aunque cueste, o solo si hay red de seguridad?",
+   "broll": [
+    "old typewriter keys",
+    "pawn shop window",
+    "vintage kitchen blender"
+   ],
+   "id": "amor-empenaronlalicuadoraporu",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Era jueza suprema… y en casa él mandaba en la cocina",
+   "hecho": "Ruth Bader Ginsburg se casó con Martin Ginsburg en 1954, cuando casi nadie esperaba que una mujer llegara muy lejos en el derecho. Ella bromeaba con que cocinaba poco y mal, y él, abogado tributario, se volvió el cocinero de la casa, con fama de gourmet. Cuando ella fue nombrada jueza federal en Washington en 1980, él dejó su bufete en Nueva York para dar clases en Georgetown y acompañarla. En 1993, cuando se hablaba de ella para la Corte Suprema, según sus biógrafos, él movió cartas de apoyo con discreción. Estuvieron casados 56 años, hasta la muerte de Martin en junio de 2010.",
+   "giro": "En una época que esperaba lo contrario, el que se quedó con la cocina y con la carrera de ella como proyecto fue él.",
+   "fuente": "Wikipedia: «Ruth Bader Ginsburg» y «Martin D. Ginsburg»; Jeffrey Toobin, «The Nine» (2007)",
+   "certeza": "alta",
+   "conexion_eje": "Una pareja sólida no reparte roles por costumbre: reparte talentos y celebra los del otro.",
+   "gancho": "Llegó a la Corte Suprema… y su esposo era quien cocinaba.",
+   "pregunta_binaria": "¿En tu casa los roles se heredan o se negocian?",
+   "broll": [
+    "kitchen cooking couple",
+    "supreme court building",
+    "vintage wedding photograph"
+   ],
+   "id": "amor-erajuezasupremayencasael",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Contaba 60 granos por taza… y su carta nunca llegó",
+   "hecho": "Según su secretario Anton Schindler, Ludwig van Beethoven preparaba su café contando exactamente 60 granos por taza. Era un hombre obsesivo con el detalle, también al escribir. En julio de 1812 redactó en Teplitz una carta apasionada dirigida a su «amada inmortal», sin nombre ni dirección. Tras su muerte en 1827 la encontraron entre sus pertenencias, y al parecer nunca la envió. Dos siglos después los historiadores siguen sin ponerse de acuerdo sobre quién era ella: se barajan nombres como Antonie Brentano o Josephine Brunsvik.",
+   "giro": "El hombre que medía cada grano de café dejó la carta de amor más famosa de la música sin destinatario confirmado.",
+   "fuente": "Wikipedia: «Amada inmortal»; Anton Schindler, biografía de Beethoven (1840)",
+   "certeza": "media",
+   "conexion_eje": "Lo que no dices a tiempo puede quedar en un cajón, aunque lo sientas con toda la fuerza.",
+   "gancho": "Beethoven contaba sesenta granos de café para cada taza.",
+   "pregunta_binaria": "¿Dices hoy lo que sientes aunque te tiemble la voz, o lo guardas en un cajón?",
+   "broll": [
+    "coffee beans cup",
+    "handwritten love letter",
+    "classical piano sheet music"
+   ],
+   "id": "amor-contaba60granosportazays",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Pidió su mano en pleno concierto… y el final fue otro",
+   "hecho": "Johnny Cash y June Carter se conocían desde mediados de los años cincuenta y compartían giras. Según sus biografías, él le pidió matrimonio muchas veces y ella lo dudó, entre otras razones por sus matrimonios previos y por la vida difícil de él en aquellos años. En febrero de 1968, en pleno concierto en London, Ontario, él se lo propuso desde el escenario y ella dijo que sí. Se casaron el 1 de marzo de 1968 en Kentucky. Estuvieron juntos 35 años, hasta que June murió en mayo de 2003. Johnny murió en septiembre de ese mismo año, menos de cuatro meses después.",
+   "giro": "La propuesta pública fue lo más fácil: lo difícil y lo valioso fueron los 35 años de días normales, y él no duró ni cuatro meses sin ella.",
+   "fuente": "Wikipedia: «June Carter Cash» y «Johnny Cash»; Hall of Fame del Country (Country Music Hall of Fame)",
+   "certeza": "alta",
+   "conexion_eje": "El gesto grande abre la puerta, pero lo que sostiene un vínculo son las mañanas sin público.",
+   "gancho": "Le pidió matrimonio frente a todo el público… y ella ya había dudado antes.",
+   "pregunta_binaria": "¿Prefieres un gran gesto de amor o mil pequeños detalles diarios?",
+   "broll": [
+    "country concert stage",
+    "vintage guitar spotlight",
+    "old couple dancing"
+   ],
+   "id": "amor-pidiosumanoenplenoconcie",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Vivió de su hermano… y la fama la trajo su cuñada",
+   "hecho": "Vincent van Gogh pintó casi toda su obra con el apoyo económico y emocional de su hermano menor, Theo, marchante de arte en París. Theo le enviaba dinero con regularidad y recibía sus cartas, que hoy son un tesoro literario. Vincent murió en julio de 1890 en Auvers-sur-Oise, y Theo murió seis meses después, en enero de 1891, dejando viuda a Johanna van Gogh-Bonger con un bebé. Ella heredó cientos de cuadros y dibujos que casi nadie quería. Durante años los expuso, los prestó y en 1914 publicó la correspondencia de los hermanos, lo que ayudó a que el mundo conociera a Vincent.",
+   "giro": "No fue el hermano que lo sostuvo en vida quien lo hizo famoso, sino la cuñada que cuidó su legado cuando ya no quedaba nadie.",
+   "fuente": "Museo Van Gogh de Ámsterdam; Wikipedia: «Johanna van Gogh-Bonger» y «Theo van Gogh (marchante)»",
+   "certeza": "alta",
+   "conexion_eje": "Hay vínculos que sostienen en silencio, y otros que continúan el trabajo cuando alguien ya no está.",
+   "gancho": "Vincent van Gogh vivió años con el dinero de su hermano Theo.",
+   "pregunta_binaria": "¿Tú eres más de crear o de sostener a quien crea?",
+   "broll": [
+    "van gogh sunflowers",
+    "old Paris street",
+    "handwritten letters desk"
+   ],
+   "id": "amor-viviodesuhermanoylafamal",
+   "eje": "amor",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Un cafetero dio nombre a Lloyd's sin vender un seguro",
+   "hecho": "Hacia 1688, en Londres, un hombre llamado Edward Lloyd abre un café en Tower Street, cerca del Támesis. Lo frecuentan marineros, comerciantes y dueños de barcos, y entre taza y taza se intercambian noticias de rutas y naufragios. Con los años, quienes financian las cargas se reúnen allí para acordar quién asume el riesgo de cada viaje. Lloyd no era asegurador: ponía las mesas, el café y las noticias. Tras su muerte, hacia 1713, el lugar siguió siendo punto de encuentro, y más adelante nació la institución que lleva su nombre: Lloyd's of London.",
+   "giro": "Uno de los mercados de seguros más famosos del mundo lleva el nombre de un hombre que solo servía café y noticias.",
+   "fuente": "Historia oficial de Lloyd's of London (lloyds.com) y artículo «Lloyd's of London» en Wikipedia",
+   "certeza": "alta",
+   "conexion_eje": "A veces el mejor negocio no es vender el producto, sino ser el lugar donde todos se juntan.",
+   "gancho": "Sirvió café a marineros y su apellido acabó en los seguros de medio mundo.",
+   "pregunta_binaria": "¿Prefieres ser quien vende el producto (A) o quien crea el lugar donde todos se juntan (B)?",
+   "broll": [
+    "old London coffeehouse",
+    "sailing ship harbor",
+    "vintage ledger writing"
+   ],
+   "id": "dinero-uncafeterodionombrealloy",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Newton vendió con ganancia, volvió a comprar… y perdió",
+   "hecho": "En 1720, Isaac Newton, ya famoso y encargado de la Casa de la Moneda de Inglaterra, invierte en la South Sea Company. Sus acciones se negociaban incluso en los cafés de Exchange Alley, en Londres. Vende en primavera con buena ganancia. Pero el precio sigue subiendo y ve cómo conocidos se hacen ricos. Entonces vuelve a comprar, ya cerca del máximo. La burbuja estalla ese mismo año y, según estimaciones de historiadores, pierde unas 20.000 libras. Según la leyenda, habría dicho que podía calcular el movimiento de los astros, pero no la locura de la gente.",
+   "giro": "No perdió por ignorancia: ya había ganado y salido a tiempo, y volvió a entrar al ver a otros enriquecerse.",
+   "fuente": "Andrew Odlyzko, «Newton's financial misadventures in the South Sea Bubble» (Notes and Records of the Royal Society, 2018) y artículo «South Sea Bubble» en Wikipedia",
+   "certeza": "media",
+   "conexion_eje": "Muchas malas decisiones de dinero no nacen de no saber, sino de mirar lo que hacen los demás.",
+   "gancho": "El hombre que explicó la gravedad no vio venir esta caída.",
+   "pregunta_binaria": "¿Habrías vuelto a entrar (A) o te quedabas con la ganancia (B)?",
+   "broll": [
+    "stock market crowd",
+    "old coffeehouse interior",
+    "falling stock chart"
+   ],
+   "id": "dinero-newtonvendiocongananciav",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Dejó un malvavisco frente a niños… y la regla tenía trampa",
+   "hecho": "A finales de los años 60 y comienzos de los 70, el psicólogo Walter Mischel, en la Universidad de Stanford, sienta a niños de unos 4 años frente a un dulce, a menudo un malvavisco. Les dice que si esperan unos 15 minutos sin comérselo, recibirán dos. Algunos se lo comen enseguida; otros se tapan los ojos, cantan o se dan la vuelta. Estudios de seguimiento sugirieron que quienes esperaron más tuvieron después mejores resultados en ciertas medidas. Durante décadas se contó como prueba de que la fuerza de voluntad predice el destino. En 2018, una réplica con una muestra más grande y diversa halló una relación bastante menor, que se reducía mucho al tener en cuenta el entorno familiar y económico de los niños.",
+   "giro": "La prueba famosa de la paciencia dependía en buena parte del entorno del niño, no solo de su fuerza de voluntad.",
+   "fuente": "Mischel, Ebbesen y Raskoff Zeiss (1972), Journal of Personality and Social Psychology; Watts, Duncan y Quan (2018), Psychological Science",
+   "certeza": "alta",
+   "conexion_eje": "Ahorrar no es solo cuestión de aguantar: también cuenta qué tan seguro sientes que mañana habrá más.",
+   "gancho": "Pon un malvavisco frente a un niño de cuatro años. Ahora, espera quince minutos.",
+   "pregunta_binaria": "¿Esperarías por los dos malvaviscos (A) o te comerías uno ya (B)?",
+   "broll": [
+    "child marshmallow test",
+    "kids classroom table",
+    "hand reaching candy"
+   ],
+   "id": "dinero-dejounmalvaviscofrentean",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Ford pagó mucho más a sus obreros… y su empresa ganó más",
+   "hecho": "El 5 de enero de 1914, Henry Ford anuncia que su fábrica de Highland Park, en Míchigan, pagará cinco dólares diarios a muchos de sus obreros, muy por encima de lo habitual en la industria. También reduce la jornada a ocho horas. Para muchos, pagar así parecía una locura. Pero había un motivo práctico: la rotación de personal era enorme y formar obreros nuevos costaba tiempo y dinero. Tras el anuncio, la rotación bajó de forma notable y la empresa siguió creciendo. Los historiadores discuten cuánto fue estrategia y cuánto generosidad, y el plan tenía condiciones para acceder a él.",
+   "giro": "Lo que parecía un gasto absurdo resultó ser una forma de reducir el costo de perder y reentrenar gente.",
+   "fuente": "Raff y Summers (1987), «Did Henry Ford Pay Efficiency Wages?», Journal of Labor Economics; archivo de The Henry Ford (museo) y artículo «Henry Ford» en Wikipedia",
+   "certeza": "media",
+   "conexion_eje": "Lo barato no siempre sale barato, ni en un sueldo ni en una decisión de dinero.",
+   "gancho": "Pagarle de más a tus empleados suena a mal negocio. Ford lo hizo en 1914.",
+   "pregunta_binaria": "¿Qué te retiene más en un trabajo: el sueldo (A) o el trato (B)?",
+   "broll": [
+    "early car assembly line",
+    "factory workers 1910s",
+    "vintage paycheck envelope"
+   ],
+   "id": "dinero-fordpagomuchomasasusobre",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Una lavandera donó 150.000 dólares a una universidad",
+   "hecho": "Oseola McCarty nace en 1908 en Misisipi y deja la escuela en sexto grado para cuidar de una tía enferma. Pasa décadas lavando y planchando ropa ajena en Hattiesburg, cobrando poco por cada prenda. Vive de forma sencilla y deposita en el banco lo que puede. En 1995, a los 87 años, dona unos 150.000 dólares a la Universidad del Sur de Misisipi para becas de estudiantes que las necesitaran. Ella nunca fue a la universidad. En 1996 recibe la Medalla Presidencial de los Ciudadanos de Estados Unidos.",
+   "giro": "La mujer que no pasó de sexto grado terminó pagando los estudios universitarios de otros.",
+   "fuente": "Universidad del Sur de Misisipi (archivos sobre la beca McCarty) y artículo «Oseola McCarty» en Wikipedia",
+   "certeza": "alta",
+   "conexion_eje": "Un hábito pequeño y constante puede tener un destino más grande que el sueldo que lo alimenta.",
+   "gancho": "Lavó ropa ajena casi toda su vida y ahorró para una universidad.",
+   "pregunta_binaria": "¿Ahorrarías para ti (A) o para alguien que aún no conoces (B)?",
+   "broll": [
+    "laundry ironing vintage",
+    "coins jar savings",
+    "university graduation ceremony"
+   ],
+   "id": "dinero-unalavanderadono150000do",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Les dieron una taza… y de pronto valía el doble",
+   "hecho": "En un experimento publicado en 1990 por los economistas Daniel Kahneman, Jack Knetsch y Richard Thaler, se repartieron tazas con el logo de una universidad a la mitad de un grupo de estudiantes, elegidos al azar. A quienes recibieron la taza se les preguntó por cuánto la venderían. A quienes no la recibieron, cuánto pagarían por ella. Como el reparto fue puro azar, la teoría decía que cerca de la mitad de las tazas debería cambiar de manos. Cambiaron muchas menos. Los dueños pedían, en promedio, más del doble de lo que los compradores estaban dispuestos a pagar.",
+   "giro": "La taza era idéntica para todos: lo único que cambió fue quién la tenía en la mano.",
+   "fuente": "Kahneman, Knetsch y Thaler, «Experimental Tests of the Endowment Effect and the Coase Theorem», Journal of Political Economy, 1990; Wikipedia: «Endowment effect»",
+   "certeza": "alta",
+   "conexion_eje": "A veces no valoras algo por lo que es, sino por el simple hecho de que ya es tuyo, y eso también pesa cuando vendes, compras o decides.",
+   "gancho": "Pon una taza sobre tu mesa. Ahora imagina que te tocó por puro azar.",
+   "pregunta_binaria": "Si te regalan una taza al azar, ¿la venderías barato o la defenderías como si fuera tuya de siempre?",
+   "broll": [
+    "coffee mug table",
+    "students classroom experiment",
+    "hand holding cup"
+   ],
+   "id": "dinero-lesdieronunatazaydepront",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Subastó un billete de un dólar… y pagaron más de un dólar",
+   "hecho": "En 1971, el economista Martin Shubik, de la Universidad de Yale, propuso un juego muy simple: subastar un billete de un dólar. La regla tenía una trampa. El mejor postor se lleva el billete y paga lo que ofreció, pero el segundo mejor también paga su oferta y no se lleva nada. Las ofertas empiezan en centavos y parece un negocio redondo. Pero cuando alguien llega a 99 centavos y otro va en 98, quien va segundo prefiere subir a un dólar antes que perder lo que ya puso, y así se sigue escalando. En las repeticiones del juego, las ofertas pasaron con frecuencia de un dólar.",
+   "giro": "Nadie quería ganar un dólar: querían dejar de perder lo que ya habían puesto, y por eso pagaron más de un dólar por un billete de un dólar.",
+   "fuente": "Martin Shubik, «The Dollar Auction Game: A Paradox in Noncooperative Behavior and Escalation», Journal of Conflict Resolution, 1971; Wikipedia: «Dollar auction»",
+   "certeza": "alta",
+   "conexion_eje": "Lo que ya gastaste en algo no debería decidir cuánto más vas a gastar, aunque a todos nos cueste soltarlo.",
+   "gancho": "Pon un billete de un dólar sobre la mesa. Vamos a subastarlo.",
+   "pregunta_binaria": "En una subasta así, ¿te retirarías temprano o seguirías subiendo para no perder lo que ya pusiste?",
+   "broll": [
+    "dollar bill table",
+    "auction hammer",
+    "hands holding cash"
+   ],
+   "id": "dinero-subastounbilletedeundola",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Puso 24 mermeladas en una mesa… y vendió menos",
+   "hecho": "En 2000, las psicólogas y científicas del comportamiento Sheena Iyengar y Mark Lepper montaron una mesa de degustación de mermeladas en Draeger's, un supermercado de Menlo Park, California. Por momentos la mesa mostraba 24 sabores y por momentos solo 6. La mesa de 24 atrajo más curiosos: cerca del 60 % de los que pasaban se detuvo, frente a cerca del 40 % en la de 6. Pero a la hora de comprar, solo alrededor del 3 % de quienes probaron en la mesa grande se llevó un frasco. En la mesa pequeña compró cerca del 30 %. Estudios posteriores han dado resultados mixtos, así que es una pista, no una ley.",
+   "giro": "La mesa con más opciones atrajo más gente, pero vendió muchísimo menos.",
+   "fuente": "Iyengar y Lepper, «When Choice is Demotivating», Journal of Personality and Social Psychology, 2000; Wikipedia: «Overchoice»",
+   "certeza": "alta",
+   "conexion_eje": "Cuando tienes demasiadas opciones para gastar o invertir, a veces el problema no es decidir bien, sino poder decidir.",
+   "gancho": "Dos mesas de mermelada en un supermercado, y una venta que no cuadraba.",
+   "pregunta_binaria": "Para decidir una compra, ¿prefieres tener 6 opciones claras o 24 para explorar?",
+   "broll": [
+    "supermarket jam jars",
+    "grocery store shelves",
+    "shopper choosing product"
+   ],
+   "id": "dinero-puso24mermeladasenunames",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Un rey prohibió el café para ahorrar… y puso espías",
+   "hecho": "Hacia 1777, el rey Federico II de Prusia, conocido como Federico el Grande, lanzó un edicto contra el café. Su razonamiento era económico: el grano se importaba, así que cada taza hacía salir dinero del reino, y prefería que sus súbditos bebieran cerveza local. En 1781 impuso un monopolio estatal del tostado, y para vigilarlo se contrató a inspectores a los que el pueblo apodó «olfateadores de café», que recorrían las calles buscando el aroma de grano recién tostado. La medida fue muy impopular. Según las fuentes, nobles, clérigos y altos funcionarios podían obtener permisos para seguir tostando en casa.",
+   "giro": "La prohibición pesaba sobre el pueblo, pero los permisos permitían a la élite seguir con su taza.",
+   "fuente": "Wikipedia (de): «Kaffeeschnüffler»; historia del café en Prusia y el edicto de Federico II",
+   "certeza": "media",
+   "conexion_eje": "Una regla pensada para ahorrar dinero del reino puede terminar costando más en vigilancia, y casi nadie cambia un hábito por decreto.",
+   "gancho": "Un rey prohibió el café en su reino. Pero no para todos.",
+   "pregunta_binaria": "Si te prohibieran tu café para ahorrar, ¿lo dejarías o lo tostarías a escondidas?",
+   "broll": [
+    "coffee beans roasting",
+    "old Prussian castle",
+    "historical street Europe"
+   ],
+   "id": "dinero-unreyprohibioelcafeparaa",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Un filósofo ganó la lotería leyendo la letra pequeña",
+   "hecho": "Hacia 1729, el gobierno francés organizó una lotería para ayudar a pagar deuda pública vinculada a bonos municipales de París. El diseño tenía un fallo: el premio total superaba lo que costaban todos los billetes juntos. El matemático Charles Marie de La Condamine lo notó y formó un grupo para comprar billetes en cantidad. Según los biógrafos, Voltaire se unió al grupo. Fueron ganando repetidamente y esas ganancias le dieron una buena base de independencia económica. La lotería terminó suspendida.",
+   "giro": "No fue suerte: fue aritmética, y el Estado perdió dinero con su propia lotería.",
+   "fuente": "Wikipedia: «Voltaire» y «Charles Marie de La Condamine»; biografías de Voltaire (episodio de la lotería de 1729-1730)",
+   "certeza": "media",
+   "conexion_eje": "Antes de apostar a la suerte, vale la pena leer las reglas con calma: a veces la ventaja o el riesgo está en el diseño, no en el azar.",
+   "gancho": "Un filósofo y un matemático encontraron un error en la lotería del rey.",
+   "pregunta_binaria": "Si descubres un error así en las reglas, ¿lo aprovecharías o lo avisarías?",
+   "broll": [
+    "18th century Paris",
+    "old lottery tickets",
+    "writing quill manuscript"
+   ],
+   "id": "dinero-unfilosofoganolaloterial",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Los echaron de la Bolsa… y abrieron otra en un café",
+   "hecho": "Hacia 1697, los corredores de bolsa de Londres fueron expulsados del Royal Exchange; según los relatos, por su mal comportamiento. Se mudaron a los cafés de Change Alley, entre ellos el Jonathan's Coffee-House. En 1698, John Castaing empezó a publicar allí los precios de acciones y mercancías en una hoja que circulaba entre los clientes. Durante décadas los tratos se cerraron entre tazas de café, sin edificio propio. En 1773, los socios del local lo rebautizaron como Stock Exchange. De esa mesa de café viene la actual Bolsa de Valores de Londres.",
+   "giro": "Una de las bolsas más antiguas del mundo nació en un café porque no querían a sus fundadores en el edificio oficial.",
+   "fuente": "Wikipedia: «London Stock Exchange» y «Jonathan's Coffee-House»; London Stock Exchange Group, historia institucional",
+   "certeza": "media",
+   "conexion_eje": "A veces el lugar donde te dejan fuera termina siendo el lugar donde empieza lo tuyo.",
+   "gancho": "Los echaron de la Bolsa por malos modales. Y montaron otra en una cafetería.",
+   "pregunta_binaria": "¿Tu mejor idea nace en una oficina formal o en la mesa de un café?",
+   "broll": [
+    "17th century coffeehouse",
+    "London stock exchange",
+    "old merchants trading"
+   ],
+   "id": "dinero-losecharondelabolsayabri",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Con 65 años y un cheque de 105 dólares… empezó de nuevo",
+   "hecho": "Hacia 1930, Harland Sanders servía comidas en la mesa de su propia vivienda, detrás de una gasolinera en Corbin, Kentucky. Su pollo frito ganó fama y acabó teniendo un restaurante propio. Más tarde, una nueva autopista interestatal desvió el tráfico y hacia 1956 tuvo que vender el negocio, según se cuenta con pérdidas. A sus 65 años, según su biografía, su primer cheque de la seguridad social fue de unos 105 dólares. En lugar de quedarse esperando, viajó ofreciendo su receta a otros restaurantes a cambio de unos centavos por pollo vendido. En 1964 vendió la compañía por unos 2 millones de dólares.",
+   "giro": "El cheque que parecía el final de su vida laboral fue el punto de partida de su negocio más grande.",
+   "fuente": "Wikipedia: «Harland Sanders»; Kentucky Historical Society; biografía oficial de Colonel Sanders (KFC Corporation)",
+   "certeza": "alta",
+   "conexion_eje": "Una mala noticia económica cambia el plan, pero no siempre cierra el camino.",
+   "gancho": "Una mesa de cocina, una gasolinera y un cheque de 105 dólares a los 65.",
+   "pregunta_binaria": "Si tu negocio se quedara sin clientes mañana, ¿lo reinventarías o buscarías otro rumbo?",
+   "broll": [
+    "roadside diner 1950s",
+    "fried chicken kitchen",
+    "old highway construction"
+   ],
+   "id": "dinero-con65anosyunchequede105d",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Les ofrecieron dinero gratis… y lo rechazaron",
+   "hecho": "En 1982, el economista Werner Güth y sus colegas Schmittberger y Schwarze publicaron un experimento en la Universidad de Colonia, Alemania. Dos personas se sentaban frente a una suma de dinero: una proponía cómo repartirla y la otra decidía si aceptaba. Si la segunda rechazaba, ninguna de las dos se llevaba nada. La teoría económica clásica decía que cualquier oferta mayor a cero debía aceptarse, porque algo es más que nada. Pero las ofertas muy bajas se rechazaban a menudo, aun a costa de quedarse sin un centavo. El experimento se llama el juego del ultimátum y se ha repetido en muchos países.",
+   "giro": "Muchas personas prefirieron cero a recibir un reparto que sentían injusto, y eso contradecía lo que predecía la teoría.",
+   "fuente": "Güth, Schmittberger y Schwarze (1982), «An experimental analysis of ultimatum bargaining», Journal of Economic Behavior & Organization; Wikipedia: «Ultimatum game»",
+   "certeza": "alta",
+   "conexion_eje": "Nuestras decisiones con el dinero rara vez son solo matemáticas: también pesan el orgullo y la justicia.",
+   "gancho": "Te regalan dinero sin esfuerzo. Y muchísima gente dice que no.",
+   "pregunta_binaria": "Si te ofrecen 2 de cada 10 euros que otro decidió repartir, ¿aceptas o rechazas?",
+   "broll": [
+    "two people at table",
+    "money on table",
+    "economics lab experiment"
+   ],
+   "id": "dinero-lesofrecierondinerograti",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Encendían la estufa con billetes… porque salía más barato",
+   "hecho": "En 1923, Alemania vivía una hiperinflación brutal. Los precios subían tan rápido que el sueldo se gastaba el mismo día que se cobraba. Según relatos y fotografías de la época, en algunas cocinas se usaban billetes para alimentar la estufa. Se cuenta que salía más a cuenta quemar el papel que comprar leña. En noviembre de 1923, un dólar llegó a equivaler a más de cuatro billones de marcos. Ese mismo mes se introdujo una nueva moneda, el Rentenmark, para frenar la crisis.",
+   "giro": "El dinero llegó a valer más como combustible que como dinero.",
+   "fuente": "Wikipedia: «Hyperinflation in the Weimar Republic»; Adam Fergusson, «When Money Dies»; Bundesarchiv (fotografías de la época)",
+   "certeza": "media",
+   "conexion_eje": "El dinero es una promesa de valor, y conviene mirar con calma cómo cuidas lo que ahorras.",
+   "gancho": "En 1923, en una cocina alemana, un puñado de billetes servía de leña.",
+   "pregunta_binaria": "Si todo subiera de precio cada día, ¿guardarías los billetes o comprarías algo útil hoy?",
+   "broll": [
+    "Weimar hyperinflation banknotes",
+    "burning paper money",
+    "1920s German kitchen stove"
+   ],
+   "id": "dinero-encendianlaestufaconbill",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Giró una ruleta trucada… y cambió lo que la gente sabía",
+   "hecho": "En 1974, los psicólogos Amos Tversky y Daniel Kahneman publicaron un experimento famoso en la revista Science. Frente a los participantes giraron una ruleta marcada del 0 al 100, trucada para detenerse solo en el 10 o en el 65. Luego les preguntaron si el porcentaje de países africanos en la ONU era mayor o menor que ese número, y les pidieron su cálculo. Quienes vieron el 10 estimaron en promedio, según la mediana, un 25 por ciento. Quienes vieron el 65 estimaron un 45 por ciento. Todos habían visto que la ruleta era puro azar.",
+   "giro": "Un número elegido al azar movió las respuestas de la gente, aunque supieran que no significaba nada.",
+   "fuente": "Tversky y Kahneman (1974), «Judgment under Uncertainty: Heuristics and Biases», Science; Wikipedia: «Anchoring (cognitive bias)»",
+   "certeza": "alta",
+   "conexion_eje": "El primer precio que ves no es el precio justo, es solo el primero que viste.",
+   "gancho": "Giraron una ruleta que todos sabían que era azar. Aun así, cambió sus respuestas.",
+   "pregunta_binaria": "Ante un precio, ¿confías en el primer número que ves o esperas a comparar?",
+   "broll": [
+    "spinning roulette wheel",
+    "price tag shopping",
+    "psychology experiment participants"
+   ],
+   "id": "dinero-girounaruletatrucadaycam",
+   "eje": "dinero",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Bebió un vaso de bacterias… y el estrés no era el culpable",
+   "hecho": "En 1984, en Perth (Australia), el médico Barry Marshall estaba convencido de que muchas úlceras y gastritis las causaba una bacteria, Helicobacter pylori. En ese momento casi todos creían que eran culpa del estrés y la comida picante. Nadie le hacía caso y sus pruebas con animales no habían convencido a nadie. Así que, tras comprobar con una endoscopia que su estómago estaba sano, se bebió un cultivo de esa bacteria. A los pocos días tuvo náuseas, vómitos y mal aliento, y una nueva endoscopia mostró gastritis con la bacteria presente. Tomó antibióticos y se recuperó. En 2005 recibió el Nobel de Medicina junto a su colega Robin Warren.",
+   "giro": "El supuesto culpable de las úlceras, el estrés, no era la causa principal: era una bacteria tratable.",
+   "fuente": "Nobel Prize (Medicina 2005, nobelprize.org); Marshall et al., Medical Journal of Australia, 1985; Wikipedia: Barry Marshall",
+   "certeza": "alta",
+   "conexion_eje": "A veces le echamos la culpa al estrés de todo lo que duele, y conviene preguntar al médico qué más puede estar pasando.",
+   "gancho": "Este médico se bebió un vaso de bacterias a propósito. Tenía un motivo.",
+   "pregunta_binaria": "¿Genio valiente o imprudente con suerte?",
+   "broll": [
+    "stomach endoscopy",
+    "laboratory petri dish",
+    "vintage hospital corridor"
+   ],
+   "id": "salud-bebiounvasodebacteriasye",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Comió, durmió y trabajó sobre una báscula… 30 años",
+   "hecho": "Hacia 1600, en Padua (Italia), el médico Santorio Santorio mandó construir una especie de silla colgada de una balanza gigante. Se sentaba en ella para comer, trabajar y dormir. Se pesaba a sí mismo y pesaba su comida y sus excreciones, y según la tradición lo hizo durante unos treinta años. Publicó sus resultados en 1614, en De Statica Medicina. Esperaba que el peso que perdía coincidiera con lo que veía salir del cuerpo. Pero la cuenta no cerraba: faltaba peso.",
+   "giro": "El cuerpo perdía mucho más peso del que se veía: lo llamó perspiración insensible.",
+   "fuente": "Santorio Santorio, De Statica Medicina (1614); Wikipedia: Santorio Santorio; Encyclopaedia Britannica",
+   "certeza": "alta",
+   "conexion_eje": "Tu cuerpo hace cosas todo el día sin avisarte, y medir un poco ayuda a notarlas.",
+   "gancho": "Este médico comía, trabajaba y dormía sentado en una báscula gigante.",
+   "pregunta_binaria": "¿Obsesión absurda o ciencia visionaria?",
+   "broll": [
+    "antique weighing scale",
+    "renaissance library",
+    "old medical manuscript"
+   ],
+   "id": "salud-comiodurmioytrabajosobre",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Un soldado con un hueco en el estómago… vivió más que su médico",
+   "hecho": "El 6 de junio de 1822, en Fort Mackinac (Míchigan), a Alexis St. Martin, un joven comerciante de pieles, se le disparó una escopeta por accidente muy cerca del abdomen. El cirujano militar William Beaumont lo atendió y nadie esperaba que sobreviviera. Sobrevivió, pero la herida cerró dejando una abertura permanente al estómago. Beaumont vio la oportunidad: durante años ató trozos de comida a un hilo, los introdujo por ese orificio y observó cómo se digerían. También anotó que el enojo de St. Martin parecía alterar lo que pasaba en su estómago. Publicó sus observaciones en 1833.",
+   "giro": "El paciente que parecía condenado murió en 1880, casi 30 años después que su médico, fallecido en 1853.",
+   "fuente": "William Beaumont, Experiments and Observations on the Gastric Juice and the Physiology of Digestion (1833); Wikipedia: William Beaumont, Alexis St. Martin",
+   "certeza": "alta",
+   "conexion_eje": "Ya en 1833 alguien anotó que lo que sientes y lo que digieres van de la mano.",
+   "gancho": "Un hombre comió durante años con un hilo atado a la comida. Por dentro.",
+   "pregunta_binaria": "¿Ciencia necesaria o abuso de un paciente?",
+   "broll": [
+    "19th century surgeon",
+    "old kitchen table",
+    "antique medical instruments"
+   ],
+   "id": "salud-unsoldadoconunhuecoenele",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Se metió un tubo por el brazo hasta el corazón… y lo despidieron",
+   "hecho": "En 1929, en un hospital de Eberswalde (Alemania), un joven médico de 25 años, Werner Forssmann, creía que se podía llegar al corazón con un catéter fino a través de una vena. Sus superiores no lo permitieron. Entonces lo hizo con su propio brazo, con anestesia local. Caminó hasta la sala de rayos X y se tomó una radiografía que mostraba el tubo dentro de su corazón. Publicó el caso ese mismo año. La comunidad médica lo criticó, y su carrera quedó frenada durante años. En 1956 compartió el Nobel de Medicina con André Cournand y Dickinson Richards.",
+   "giro": "Lo que lo hizo perder oportunidades terminó siendo la base del cateterismo cardíaco y le dio un Nobel.",
+   "fuente": "Nobel Prize (Medicina 1956, nobelprize.org); Wikipedia: Werner Forssmann",
+   "certeza": "alta",
+   "conexion_eje": "Muchas ideas que hoy cuidan corazones fueron al principio una locura mal vista.",
+   "gancho": "Este médico se metió un tubo por el brazo hasta su propio corazón.",
+   "pregunta_binaria": "¿Valentía admirable o imprudencia que nadie debería imitar?",
+   "broll": [
+    "vintage x-ray room",
+    "human heart anatomy",
+    "1920s hospital"
+   ],
+   "id": "salud-semetiountuboporelbrazoh",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Un estudiante pasó 11 días sin dormir… y no se volvió loco",
+   "hecho": "Entre diciembre de 1963 y enero de 1964, en San Diego (California), Randy Gardner, de 17 años, decidió pasar un proyecto de feria de ciencias sin dormir. Sus amigos Bruce McAllister y Joe Marciano lo ayudaron a mantenerse despierto. El investigador del sueño William Dement, de Stanford, se sumó para observarlo. Gardner aguantó 264 horas, unos once días, y tuvo problemas de memoria, concentración y humor. Muchos esperaban que sufriera un colapso mental grave. Al terminar durmió unas 14 horas y 40 minutos, y después volvió a un ritmo normal.",
+   "giro": "No tuvo que devolver las horas una por una: durmió unas 14 y se recuperó, pero Dement desaconsejó repetirlo.",
+   "fuente": "William Dement, The Promise of Sleep (1999); Wikipedia: Randy Gardner (record holder); Stanford Medicine",
+   "certeza": "alta",
+   "conexion_eje": "El sueño no es una deuda que se paga hora por hora, pero tampoco es algo para ponerse a prueba: si duermes mal seguido, habla con un profesional.",
+   "gancho": "Un chico de 17 años pasó once días sin dormir. Los científicos miraban.",
+   "pregunta_binaria": "¿Dormir es una necesidad o un hábito que se puede entrenar?",
+   "broll": [
+    "sleepless night bed",
+    "1960s sleep laboratory",
+    "alarm clock night"
+   ],
+   "id": "salud-unestudiantepaso11diassi",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "6 remedios, 12 marineros… y la Armada tardó casi 50 años",
+   "hecho": "En 1747, a bordo del barco británico HMS Salisbury, el cirujano escocés James Lind tenía a bordo marineros con escorbuto, una enfermedad que mataba a miles en alta mar. En vez de adivinar, eligió a doce hombres con síntomas parecidos y los repartió en seis parejas. Cada pareja recibió algo distinto: sidra, vinagre, agua de mar, un elixir ácido, una pasta de especias y, la última, dos naranjas y un limón al día. En pocos días, los dos marineros que comieron cítricos mejoraron de forma notable, y uno de ellos pudo volver al servicio. Lind publicó el resultado en 1753, pero la Armada británica no incluyó el jugo de limón en las raciones hasta 1795.",
+   "giro": "La respuesta estaba clara en un solo experimento de doce hombres, y aun así tardaron casi medio siglo en aplicarla.",
+   "fuente": "James Lind, A Treatise of the Scurvy (1753); Wikipedia: «James Lind»; Royal College of Physicians of Edinburgh",
+   "certeza": "alta",
+   "conexion_eje": "A veces lo que tu cuerpo necesita está en la mesa de siempre, y lo difícil es creerle a lo sencillo.",
+   "gancho": "Doce marineros enfermos, una mesa de barco y seis remedios distintos.",
+   "pregunta_binaria": "¿Tú habrías probado la naranja o te habrías quedado con la sidra?",
+   "broll": [
+    "old sailing ship deck",
+    "oranges and lemons",
+    "ship galley kitchen"
+   ],
+   "id": "salud-6remedios12marinerosylaa",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Se tragó heces de enfermos… y el culpable era el plato",
+   "hecho": "En el sur de Estados Unidos, a comienzos del siglo XX, la pelagra enfermaba a miles de personas y la mayoría de los médicos creía que era contagiosa. En 1914 el médico Joseph Goldberger, del Servicio de Salud Pública, visitó orfanatos y manicomios y notó algo raro: enfermaban los internos, pero no el personal que convivía con ellos. Todos los internos comían una dieta pobre, a base de maíz, melaza y grasa. Al mejorar la comida con leche, huevos y carne, la pelagra desapareció en esos lugares. Para probar que no se contagiaba, en 1916 él, otros voluntarios y su esposa tragaron cápsulas con costras, orina y heces de pacientes, y nadie enfermó.",
+   "giro": "El microbio que todos buscaban no existía: lo que causaba la enfermedad era algo que faltaba en el plato, identificado años después como la niacina (vitamina B3).",
+   "fuente": "Wikipedia: «Joseph Goldberger» y «Pelagra»; CDC, historia de la pelagra en Estados Unidos",
+   "certeza": "alta",
+   "conexion_eje": "Lo que falta en tu plato también habla de tu salud, no solo lo que se ve.",
+   "gancho": "En esa mesa solo había maíz, melaza y grasa. Y nadie sospechaba.",
+   "pregunta_binaria": "¿Tú le crees más a la costumbre o a la evidencia?",
+   "broll": [
+    "vintage hospital ward",
+    "cornbread on table",
+    "old medical laboratory"
+   ],
+   "id": "salud-setragohecesdeenfermosye",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Una taza de agua mató a cientos… los cerveceros, no",
+   "hecho": "Imagina una taza de agua en el barrio de Soho, Londres, en agosto de 1854. En pocos días, un brote de cólera mató a cientos de vecinos cerca de la calle Broad. En esa época casi todos creían que la enfermedad viajaba en el aire malo, llamado miasma. El médico John Snow dibujó en un mapa dónde vivían los fallecidos y vio que se agrupaban alrededor de una bomba de agua. También registró el caso de una viuda que vivía lejos, pero que mandaba traer agua de esa bomba porque le gustaba su sabor, y murió. Según su relato, entre los trabajadores de una cervecería cercana, que tenía su propio pozo, no hubo muertes. A inicios de septiembre, las autoridades retiraron la manija de la bomba.",
+   "giro": "El aire que todos acusaban era inocente: el peligro estaba en el agua que parecía más normal.",
+   "fuente": "John Snow, On the Mode of Communication of Cholera (1855); Wikipedia: «1854 Broad Street cholera outbreak»",
+   "certeza": "media",
+   "conexion_eje": "Antes de culpar a lo que todos culpan, mira dónde está realmente el patrón.",
+   "gancho": "Una taza de agua en Londres, 1854. Nadie sospechaba de ella.",
+   "pregunta_binaria": "¿Creerías primero lo que muestra el mapa o lo que todos repiten?",
+   "broll": [
+    "Victorian London street",
+    "old water pump",
+    "vintage city map"
+   ],
+   "id": "salud-unatazadeaguamatoaciento",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Dos hombres, 32 días en una cueva… y el reloj no cedió",
+   "hecho": "En junio de 1938, el fisiólogo Nathaniel Kleitman, pionero en la investigación del sueño, bajó a la cueva Mammoth, en Kentucky, con su ayudante Bruce Richardson. Allí no había sol, y la temperatura y la oscuridad eran casi constantes. Vivieron 32 días con un horario de 28 horas por día en lugar de 24, para ver si el cuerpo se adaptaba. Medían, entre otras cosas, su temperatura corporal varias veces al día. Según se relata, Richardson sí logró ajustar su ritmo al día largo, pero Kleitman no: su cuerpo siguió con su ciclo de unas 24 horas.",
+   "giro": "Dos personas en la misma cueva, con el mismo horario, y solo una logró engañar a su reloj interno.",
+   "fuente": "Wikipedia: «Nathaniel Kleitman»; Kleitman, Sleep and Wakefulness (1939)",
+   "certeza": "media",
+   "conexion_eje": "Tu cuerpo tiene un ritmo propio, y escucharlo puede ayudarte más que pelearte con él.",
+   "gancho": "Dos hombres bajaron a una cueva sin sol… para engañar a su reloj.",
+   "pregunta_binaria": "¿Ajustas tu agenda a tu cuerpo o esperas que tu cuerpo se ajuste a tu agenda?",
+   "broll": [
+    "cave entrance darkness",
+    "vintage alarm clock",
+    "person sleeping bed"
+   ],
+   "id": "salud-doshombres32diasenunacue",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Un médico torpe con sus ratas popularizó el estrés",
+   "hecho": "En los años treinta, el joven endocrinólogo Hans Selye trabajaba en la Universidad McGill, en Montreal, y buscaba una hormona nueva. Inyectaba extractos de ovario a ratas y esperaba ver un efecto específico. Lo que vio fue siempre igual: glándulas suprarrenales agrandadas, úlceras en el estómago y el timo encogido. Después comprobó que otras sustancias dañinas producían el mismo cuadro, e incluso inyecciones sin el extracto; según su propio relato, parte de esto se debía a su torpeza al manejar a los animales. En 1936 publicó en la revista Nature el hallazgo y, más tarde, tomó prestada de la física la palabra estrés para describirlo.",
+   "giro": "Su intento de descubrir una hormona fracasó, y de ese fracaso salió la idea de que el cuerpo responde de forma parecida a muchos tipos de desgaste.",
+   "fuente": "Hans Selye, «A Syndrome Produced by Diverse Nocuous Agents», Nature (1936); Wikipedia: «Hans Selye»",
+   "certeza": "media",
+   "conexion_eje": "El estrés no es un villano de película: es una respuesta del cuerpo que conviene escuchar y, si pesa demasiado, consultar con un profesional.",
+   "gancho": "Buscaba una hormona nueva y encontró una palabra que hoy usas a diario.",
+   "pregunta_binaria": "¿Tu estrés es tu enemigo o tu alarma?",
+   "broll": [
+    "laboratory mice cage",
+    "vintage scientist microscope",
+    "stressed person desk"
+   ],
+   "id": "salud-unmedicotorpeconsusratas",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Unas gallinas enfermaron con arroz… y un cocinero acertó",
+   "hecho": "En 1890, el médico holandés Christiaan Eijkman llegó a Batavia, en las Indias Orientales Holandesas, a investigar el beriberi. En su laboratorio, unas gallinas desarrollaron de repente una parálisis parecida a la de los pacientes. Eijkman sospechaba de un germen y no encontraba nada. Meses después las gallinas se recuperaron solas. Al revisar la cocina descubrió que el primer cocinero les daba arroz blanco pulido, sobrante del hospital militar. Su sucesor se negó a gastar arroz de los soldados en gallinas y les dio arroz integral, más barato. Eijkman comprobó que el cambio coincidía con la mejoría, y años después compartió el Nobel de Medicina de 1929.",
+   "giro": "No era un germen que faltaba combatir, sino algo que el arroz pulido había perdido por el camino.",
+   "fuente": "Wikipedia: Christiaan Eijkman; Nobel Prize (nobelprize.org), Medicina 1929",
+   "certeza": "alta",
+   "conexion_eje": "A veces la respuesta a un problema de salud no está en lo que añades, sino en lo que le quitaste a tu plato.",
+   "gancho": "Unas gallinas enfermaron en un laboratorio, y la solución estaba en la cocina.",
+   "pregunta_binaria": "¿Tú habrías seguido buscando el germen (A) o habrías mirado la cocina (B)?",
+   "broll": [
+    "white rice bowl",
+    "chickens in coop",
+    "old laboratory microscope"
+   ],
+   "id": "salud-unasgallinasenfermaronco",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Un pueblo comía grasa y fumaba… sin infartos. ¿Por qué?",
+   "hecho": "En los años cincuenta, un médico local le comentó al doctor Stewart Wolf que en Roseto, Pensilvania, casi no veía infartos. Roseto era un pueblo fundado por inmigrantes italianos. Allí se comía salchicha y albóndigas fritas en grasa, se fumaba y se tomaba vino. Wolf y su equipo estudiaron el caso en los años sesenta. Encontraron que las muertes por enfermedad cardíaca eran aproximadamente la mitad que en los pueblos vecinos. Ni la dieta ni la genética lo explicaban del todo. Lo que sí tenían era familias de varias generaciones bajo el mismo techo, mesas compartidas y una comunidad muy unida. Décadas después, cuando esos lazos se debilitaron, las cifras se parecieron más a las de los vecinos.",
+   "giro": "Lo que parecía protegerlos no estaba en el plato, sino en quién se sentaba a la mesa.",
+   "fuente": "Wikipedia: Roseto effect; Wolf y Bruhn, The Roseto Story (1993)",
+   "certeza": "media",
+   "conexion_eje": "Cuidar la salud también es cuidar con quién compartes la mesa, no solo qué pones en ella.",
+   "gancho": "Fumaban, comían grasa y bebían vino. Y aun así casi nadie sufría del corazón.",
+   "pregunta_binaria": "¿Pesa más lo que comes (A) o con quién comes (B)?",
+   "broll": [
+    "italian family dinner",
+    "small town street vintage",
+    "sausages frying pan"
+   ],
+   "id": "salud-unpueblocomiagrasayfumab",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "La NASA le dio café a unas arañas… y tejieron peor",
+   "hecho": "En 1995, investigadores del Centro Marshall de la NASA, entre ellos David Noever, hicieron un experimento curioso con arañas. La idea era usar la telaraña como una medida de cómo afectan distintas sustancias a un organismo. Una araña sana teje una red geométrica y ordenada. Les dieron cafeína, marihuana, benzedrina y cloral hidrato, y compararon las telarañas resultantes. Las de cafeína quedaron entre las más desordenadas, con hilos sueltos y una red a medio hacer. Con otras sustancias el resultado fue más ordenado. Eso no dice nada sobre tu taza: una araña no es una persona, y la dosis importa.",
+   "giro": "El café, la sustancia más aceptada de la lista, dejó la telaraña más desordenada que otras mucho menos aceptadas.",
+   "fuente": "Noever, Cronise y Relwani, NASA Tech Briefs (1995); Wikipedia: Peter N. Witt",
+   "certeza": "media",
+   "conexion_eje": "Lo cotidiano también tiene efectos; conocer tu dosis y tu cuerpo vale más que el miedo o la costumbre. Si tienes dudas, consulta a un profesional.",
+   "gancho": "La NASA le dio café a unas arañas, y el resultado fue un desastre.",
+   "pregunta_binaria": "¿Tu café de la tarde te ayuda (A) o te desordena (B)?",
+   "broll": [
+    "spider web closeup",
+    "coffee cup steam",
+    "NASA laboratory archive"
+   ],
+   "id": "salud-lanasalediocafeaunasaran",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Las parteras salvaban más que los médicos… por un detalle",
+   "hecho": "En 1847, el Hospital General de Viena tenía dos salas de maternidad. Una la atendían médicos y estudiantes, y la otra, parteras. En la primera morían muchas más madres de fiebre puerperal, y se cuenta que algunas mujeres suplicaban que las ingresaran en la otra. El médico húngaro Ignaz Semmelweis se obsesionó con entender por qué. Su colega Jakob Kolletschka murió tras cortarse con un bisturí durante una autopsia, con síntomas muy parecidos a los de las madres. Semmelweis notó que médicos y estudiantes iban de las autopsias directo a las salas de parto. Ordenó lavarse las manos con una solución de cal clorurada, y las muertes bajaron de forma notable. Aun así, muchos colegas rechazaron su idea, y murió en 1865 en un asilo.",
+   "giro": "La sala con más estudios tenía más muertes: el riesgo venía en las manos de los propios médicos.",
+   "fuente": "Wikipedia: Ignaz Semmelweis; Semmelweis, Etiología, concepto y profilaxis de la fiebre puerperal (1861)",
+   "certeza": "alta",
+   "conexion_eje": "A veces lo que nos enferma es un hábito que nadie cuestiona porque lo practica gente respetada.",
+   "gancho": "Las madres rogaban no ser atendidas por los médicos. Tenían razón.",
+   "pregunta_binaria": "¿Le habrías creído a Semmelweis (A) o a la mayoría de los médicos (B)?",
+   "broll": [
+    "old hospital ward",
+    "washing hands vintage",
+    "Vienna 19th century"
+   ],
+   "id": "salud-lasparterassalvabanmasqu",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
+  },
+  {
+   "titulo": "Conectó a su hijo dormido… y el cerebro seguía despierto",
+   "hecho": "A comienzos de los años cincuenta, Eugene Aserinsky era estudiante de posgrado en la Universidad de Chicago, bajo la dirección de Nathaniel Kleitman. Estudiaba el sueño con un electroencefalógrafo, una máquina muy tosca para la época. Se creía que dormir era básicamente apagar el cerebro. Aserinsky observó movimientos oculares rápidos bajo los párpados y probó con varios voluntarios, entre ellos su hijo de ocho años. Notó que, durante esos movimientos, los trazos del cerebro se parecían a los de una persona despierta. Al despertar a los voluntarios en esos momentos, muchos decían que estaban soñando. En 1953 publicó con Kleitman el hallazgo en la revista Science, y así nació el estudio del sueño REM.",
+   "giro": "Dormir no era apagar el cerebro: en ciertas fases trabaja casi como si estuviera despierto.",
+   "fuente": "Wikipedia: Eugene Aserinsky; Aserinsky y Kleitman, Science (1953)",
+   "certeza": "alta",
+   "conexion_eje": "Dormir no es tiempo perdido: es otro turno de trabajo para el cuerpo y la mente.",
+   "gancho": "Durante siglos creímos que dormir era apagarse. Un padre con su hijo lo desmintió.",
+   "pregunta_binaria": "¿Dormir es apagarse (A) o es trabajar en silencio (B)?",
+   "broll": [
+    "child sleeping bed",
+    "vintage EEG machine",
+    "brain waves graph"
+   ],
+   "id": "salud-conectoasuhijodormidoyel",
+   "eje": "salud",
+   "usada": false,
+   "creada": "2026-11-12"
   }
  ]
 }
