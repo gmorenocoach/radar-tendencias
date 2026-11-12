@@ -154,7 +154,7 @@ def ensamblar(escenas, limites, mp3, ass, out_mp4, work, canal, w=1080, h=1920, 
     video = os.path.join(work, "video.mp4")
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lista, "-c", "copy", video], check=True)
     ass_esc = os.path.abspath(ass).replace("\\", "/").replace(":", "\\:")
-    g = germancho_png(canal, work, int(h * (0.30 if orient == "portrait" else 0.42))) if con_germancho else None
+    g = germancho_png(canal, work, int(h * (0.23 if orient == "portrait" else 0.42))) if con_germancho else None
     cmd = ["ffmpeg", "-y", "-v", "error", "-i", video, "-i", mp3]
     fc = []
     vin = "[0:v]"
