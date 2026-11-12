@@ -64,6 +64,7 @@ Dentro de los textos usa comillas angulares «» o ninguna, NUNCA comillas doble
     for h in r.get("historias", []):
         if not h.get("titulo") or _clave(h["titulo"]) in claves:
             continue
+        h.setdefault("certeza", "media"); h.setdefault("fuente", ""); h.setdefault("giro", ""); h.setdefault("broll", [])
         h.update({"id": f"{eje}-{_clave(h['titulo'])[:24]}", "eje": eje, "usada": False, "creada": dt.date.today().isoformat()})
         banco["historias"].append(h); claves.add(_clave(h["titulo"])); nuevas += 1
     guardar_json(BANCO, banco)
@@ -92,7 +93,7 @@ def main():
     if a.listar:
         for h in cargar()["historias"]:
             if not a.eje or h["eje"] == a.eje:
-                print(f"[{h['eje']}] {'✓' if h.get('usada') else ' '} {h['certeza']:5} {h['titulo']}  ({h['fuente']})")
+                print(f"[{h['eje']}] {'✓' if h.get('usada') else ' '} {h.get('certeza', '?'):5} {h['titulo']}  ({h.get('fuente', '')})")
         return
     ejes = list(EJES) if a.todos else ([a.eje] if a.eje in EJES else [])
     if not ejes:

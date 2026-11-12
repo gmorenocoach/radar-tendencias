@@ -30,8 +30,9 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           if [ "${{ github.event.inputs.eje }}" = "todos" ]; then python -m fabrica.historias --todos --n ${{ github.event.inputs.n }}; else python -m fabrica.historias --eje ${{ github.event.inputs.eje }} --n ${{ github.event.inputs.n }}; fi
-          python -m fabrica.historias --listar
+          python -m fabrica.historias --listar || true
       - name: Guardar
+        if: always()
         run: |
           git config user.name "fabrica-bot"; git config user.email "fabrica-bot@users.noreply.github.com"
           git add config/historias.json && (git diff --cached --quiet || git commit -m "banco de historias") && git pull --rebase origin main && git push
