@@ -1,0 +1,64 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.26,Sub,,0,0,0,,{\k17}UN {\k72}CIENTÍFICO {\k37}PUSO
+Dialogue: 0,0:00:01.26,0:00:02.23,Sub,,0,0,0,,{\k54}COMIDA {\k17}EN {\k26}UNA
+Dialogue: 0,0:00:02.23,0:00:03.52,Sub,,0,0,0,,{\k32}MAMÁ {\k84}FALSA… {\k13}Y
+Dialogue: 0,0:00:03.52,0:00:04.25,Sub,,0,0,0,,{\k10}EL {\k50}BEBÉ {\k13}LA
+Dialogue: 0,0:00:04.25,0:00:06.26,Sub,,0,0,0,,{\k120}IGNORÓ. {\k51}CUENTAN {\k30}QUE,
+Dialogue: 0,0:00:06.26,0:00:06.88,Sub,,0,0,0,,{\k16}EN {\k19}LOS {\k28}AÑOS
+Dialogue: 0,0:00:06.88,0:00:08.46,Sub,,0,0,0,,{\k70}CINCUENTA, {\k15}EL {\k73}PSICÓLOGO
+Dialogue: 0,0:00:08.46,0:00:09.98,Sub,,0,0,0,,{\k42}HARRY {\k48}HARLOW {\k63}ESTUDIABA
+Dialogue: 0,0:00:09.98,0:00:10.77,Sub,,0,0,0,,{\k15}EL {\k43}APEGO {\k21}CON
+Dialogue: 0,0:00:10.77,0:00:12.05,Sub,,0,0,0,,{\k65}MONITOS {\k49}RHESUS {\k14}EN
+Dialogue: 0,0:00:12.05,0:00:13.02,Sub,,0,0,0,,{\k11}LA {\k72}UNIVERSIDAD {\k14}DE
+Dialogue: 0,0:00:13.02,0:00:15.15,Sub,,0,0,0,,{\k129}WISCONSIN. {\k55}ARMÓ {\k30}DOS
+Dialogue: 0,0:00:15.15,0:00:17.22,Sub,,0,0,0,,{\k45}MAMÁS {\k130}ARTIFICIALES. {\k31}UNA
+Dialogue: 0,0:00:17.22,0:00:18.16,Sub,,0,0,0,,{\k14}DE {\k62}ALAMBRE, {\k19}CON
+Dialogue: 0,0:00:18.16,0:00:20.20,Sub,,0,0,0,,{\k109}BIBERÓN. {\k37}OTRA {\k58}CUBIERTA
+Dialogue: 0,0:00:20.20,0:00:21.32,Sub,,0,0,0,,{\k13}DE {\k32}TELA {\k66}SUAVE,
+Dialogue: 0,0:00:21.32,0:00:23.01,Sub,,0,0,0,,{\k33}SIN {\k116}COMIDA. {\k21}LA
+Dialogue: 0,0:00:23.01,0:00:24.29,Sub,,0,0,0,,{\k44}ÉPOCA {\k63}APOSTABA {\k21}POR
+Dialogue: 0,0:00:24.29,0:00:24.62,Sub,,0,0,0,,{\k10}LA {\k11}DE {\k13}LA
+Dialogue: 0,0:00:24.62,0:00:25.90,Sub,,0,0,0,,{\k89}LECHE. {\k24}PERO {\k14}LAS
+Dialogue: 0,0:00:25.90,0:00:26.81,Sub,,0,0,0,,{\k48}CRÍAS {\k31}IBAN {\k12}AL
+Dialogue: 0,0:00:26.81,0:00:27.93,Sub,,0,0,0,,{\k49}ALAMBRE {\k45}SOLO {\k19}LO
+Dialogue: 0,0:00:27.93,0:00:29.54,Sub,,0,0,0,,{\k45}JUSTO {\k22}PARA {\k93}COMER.
+Dialogue: 0,0:00:29.54,0:00:30.42,Sub,,0,0,0,,{\k15}Y {\k65}VOLVÍAN {\k8}A
+Dialogue: 0,0:00:30.42,0:00:31.40,Sub,,0,0,0,,{\k79}ABRAZARSE {\k7}A {\k13}LA
+Dialogue: 0,0:00:31.40,0:00:32.91,Sub,,0,0,0,,{\k14}DE {\k89}TELA. {\k48}CUANDO
+Dialogue: 0,0:00:32.91,0:00:34.34,Sub,,0,0,0,,{\k32}ALGO {\k20}LAS {\k91}ASUSTABA,
+Dialogue: 0,0:00:34.34,0:00:36.28,Sub,,0,0,0,,{\k22}NI {\k103}DUDABAN. {\k69}CORRÍAN
+Dialogue: 0,0:00:36.28,0:00:37.38,Sub,,0,0,0,,{\k26}HACIA {\k14}LA {\k71}SUAVE,
+Dialogue: 0,0:00:37.38,0:00:38.09,Sub,,0,0,0,,{\k29}NO {\k30}HACIA {\k12}LA
+Dialogue: 0,0:00:38.09,0:00:39.25,Sub,,0,0,0,,{\k10}DE {\k12}LA {\k94}LECHE.
+Dialogue: 0,0:00:39.25,0:00:40.13,Sub,,0,0,0,,{\k21}EL {\k44}BEBÉ {\k23}NO
+Dialogue: 0,0:00:40.13,0:00:40.92,Sub,,0,0,0,,{\k51}ELIGIÓ {\k7}A {\k21}QUIEN
+Dialogue: 0,0:00:40.92,0:00:41.46,Sub,,0,0,0,,{\k13}LE {\k29}DABA {\k12}DE
+Dialogue: 0,0:00:41.46,0:00:43.10,Sub,,0,0,0,,{\k88}COMER. {\k69}ELIGIÓ {\k7}A
+Dialogue: 0,0:00:43.10,0:00:43.80,Sub,,0,0,0,,{\k21}QUIEN {\k14}LE {\k36}DABA
+Dialogue: 0,0:00:43.80,0:00:45.98,Sub,,0,0,0,,{\k89}CONTACTO {\k15}Y {\k113}CALIDEZ.
+Dialogue: 0,0:00:45.98,0:00:47.10,Sub,,0,0,0,,{\k37}HOY {\k15}EL {\k60}EXPERIMENTO
+Dialogue: 0,0:00:47.10,0:00:48.01,Sub,,0,0,0,,{\k12}SE {\k59}CUESTIONA {\k20}POR
+Dialogue: 0,0:00:48.01,0:00:49.28,Sub,,0,0,0,,{\k14}SU {\k88}CRUELDAD, {\k25}PERO
+Dialogue: 0,0:00:49.28,0:00:51.00,Sub,,0,0,0,,{\k62}CAMBIÓ {\k30}CÓMO {\k80}ENTENDEMOS
+Dialogue: 0,0:00:51.00,0:00:52.64,Sub,,0,0,0,,{\k14}EL {\k109}APEGO. {\k41}ANTES
+Dialogue: 0,0:00:52.64,0:00:53.34,Sub,,0,0,0,,{\k9}DE {\k14}LA {\k46}TAZA,
+Dialogue: 0,0:00:53.34,0:00:54.79,Sub,,0,0,0,,{\k49}CASI {\k41}TODOS {\k56}BUSCAMOS
+Dialogue: 0,0:00:54.79,0:00:55.61,Sub,,0,0,0,,{\k13}UN {\k42}ABRAZO {\k28}DONDE
+Dialogue: 0,0:00:55.61,0:00:57.33,Sub,,0,0,0,,{\k69}SENTIRNOS {\k7}A {\k96}SALVO.
+Dialogue: 0,0:00:57.33,0:00:58.27,Sub,,0,0,0,,{\k36}¿QUÉ {\k36}PESA {\k22}MÁS
+Dialogue: 0,0:00:58.27,0:00:59.38,Sub,,0,0,0,,{\k12}AL {\k84}QUERER: {\k16}LO
+Dialogue: 0,0:00:59.38,0:01:00.34,Sub,,0,0,0,,{\k16}QUE {\k50}DAS {\k29}O
+Dialogue: 0,0:01:00.34,0:01:02.15,Sub,,0,0,0,,{\k36}CÓMO {\k124}ABRAZAS? {\k21}TE
+Dialogue: 0,0:01:02.15,0:01:04.82,Sub,,0,0,0,,{\k94}LEO. {\k108}SUSCRÍBETE: {\k65}MAÑANA
+Dialogue: 0,0:01:04.82,0:01:06.41,Sub,,0,0,0,,{\k35}HAY {\k24}OTRA {\k100}HISTORIA.

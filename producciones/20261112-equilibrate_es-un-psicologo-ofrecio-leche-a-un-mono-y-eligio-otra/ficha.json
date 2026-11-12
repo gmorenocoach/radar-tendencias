@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Le ofreció leche a un mono… y eligió a la mamá sin leche",
+  "historia_id": "amor-leofreciolecheaunmonoyel",
+  "fuente_historia": "Harry Harlow, «The Nature of Love», American Psychologist, 1958; Wikipedia: Harry Harlow"
+ },
+ "historia": {
+  "titulo": "Le ofreció leche a un mono… y eligió a la mamá sin leche",
+  "hecho": "En los años cincuenta, el psicólogo Harry Harlow, de la Universidad de Wisconsin, estudiaba el apego con crías de mono rhesus. Armó dos «mamás» artificiales: una de alambre con un biberón y otra cubierta de tela suave, sin comida. La lógica de la época decía que el bebé querría a quien lo alimentaba. Las crías iban al alambre solo lo justo para comer y volvían a abrazarse a la mamá de tela. Cuando algo las asustaba, corrían hacia la suave, no hacia la que daba leche. El experimento hoy es muy cuestionado por su crueldad, pero cambió la forma de entender el apego.",
+  "giro": "El bebé no eligió a quien le daba de comer, sino a quien le daba contacto y calidez.",
+  "fuente": "Harry Harlow, «The Nature of Love», American Psychologist, 1958; Wikipedia: Harry Harlow",
+  "certeza": "alta",
+  "conexion_eje": "Antes que la comida, el techo o los regalos, casi todos buscamos primero un abrazo donde sentirnos a salvo.",
+  "gancho": "Un científico puso comida en una mamá falsa… y el bebé la ignoró.",
+  "pregunta_binaria": "¿Qué pesa más al querer: lo que das o cómo abrazas?",
+  "broll": [
+   "baby monkey close up",
+   "vintage laboratory 1950s",
+   "mother hugging child"
+  ],
+  "id": "amor-leofreciolecheaunmonoyel",
+  "eje": "amor",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "En los años cincuenta, el psicólogo Harry Harlow, de la Universidad de Wisconsin, estudiaba el apego con crías de mono rhesus. Armó dos «mamás» artificiales: una de alambre con un biberón y otra cubierta de tela suave, sin comida. La lógica de la época decía que el bebé querría a quien lo alimentaba. Las crías iban al alambre solo lo justo para comer y volvían a abrazarse a la mamá de tela. Cuando algo las asustaba, corrían hacia la suave, no hacia la que daba leche. El experimento hoy es muy cuestionado por su crueldad, pero cambió la forma de entender el apego.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Un científico puso comida en una mamá falsa… y el bebé la ignoró.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

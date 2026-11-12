@@ -1,0 +1,128 @@
+{
+ "titulo": "Un psicólogo ofreció leche a un mono… y eligió otra mamá",
+ "titulos_alternativos": [
+  "Un científico dio biberón a un bebé mono… y lo ignoró",
+  "Un experimento puso leche a un mono… y ganó la tela"
+ ],
+ "descripcion": "En los años cincuenta, un psicólogo armó dos mamás artificiales para unos monitos rhesus: una daba leche y la otra no. La lógica de la época decía que ganaría la de la comida, pero el bebé tenía otros planes.\nFuente: Harry Harlow, «The Nature of Love», American Psychologist, 1958.\n¿Qué pesa más al querer: lo que das o cómo abrazas?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#amor",
+  "#apego",
+  "#amorpropio",
+  "#vinculos",
+  "#equilibrate"
+ ],
+ "miniatura": {
+  "texto": "LECHE VS ABRAZO",
+  "emocion": "sorpresa",
+  "objeto": "taza de café humeante junto a un mono de peluche abrazado a una tela suave",
+  "pose": "brazos_abiertos"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Un científico puso comida en una mamá falsa… y el bebé la ignoró.",
+   "emocion": "asombro",
+   "objeto": "biberón colgado de una figura de alambre",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista character jumping in surprise next to a wire mother figure with a baby bottle, warm cafe colors",
+   "broll": "baby monkey close up",
+   "segundos": 3,
+   "broll_fuente": "11df64f9a518a81b.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que, en los años cincuenta, el psicólogo Harry Harlow estudiaba el apego con monitos rhesus en la Universidad de Wisconsin.",
+   "emocion": "curiosidad",
+   "objeto": "cuaderno de notas vintage",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista sitting on a stool with coffee cups, vintage 1950s laboratory background, sepia tones",
+   "broll": "vintage laboratory 1950s",
+   "segundos": 9,
+   "broll_fuente": "eb3be09c76ad6137.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Armó dos mamás artificiales. Una de alambre, con biberón. Otra cubierta de tela suave, sin comida. La época apostaba por la de la leche.",
+   "emocion": "intriga",
+   "objeto": "dos figuras: una de alambre y otra de tela",
+   "pose": "senalando",
+   "prompt_visual": "cartoon barista pointing at two artificial mother figures, one wire with a bottle, one covered in soft cloth, simple lab setting",
+   "broll": "rhesus monkey cloth mother",
+   "segundos": 12,
+   "broll_fuente": "71b492102c2ef0a6.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Pero las crías iban al alambre solo lo justo para comer. Y volvían a abrazarse a la de tela.",
+   "emocion": "extrañeza",
+   "objeto": "cría de mono abrazada a la tela",
+   "pose": "agachado",
+   "prompt_visual": "cartoon barista crouching to watch a baby monkey cuddling a soft cloth figure, warm light, gentle mood",
+   "broll": "baby monkey hugging",
+   "segundos": 7,
+   "broll_fuente": "c090e433181f1271.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Cuando algo las asustaba, ni dudaban. Corrían hacia la suave, no hacia la de la leche.",
+   "emocion": "tensión",
+   "objeto": "cría corriendo hacia la figura de tela",
+   "pose": "escalera",
+   "prompt_visual": "cartoon barista on a small staircase looking down at a baby monkey running toward a soft cloth figure, dramatic soft light",
+   "broll": "monkey running scared",
+   "segundos": 6,
+   "broll_fuente": "eecfe87f19c4da13.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "El bebé no eligió a quien le daba de comer. Eligió a quien le daba contacto y calidez.",
+   "emocion": "ternura",
+   "objeto": "taza tibia entre las manos",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista with open arms holding a warm cup of coffee, glowing warm tones, tender atmosphere",
+   "broll": "mother hugging child",
+   "segundos": 7,
+   "broll_fuente": "5ad901a121578586.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "Hoy el experimento se cuestiona por su crueldad, pero cambió cómo entendemos el apego. Antes de la taza, casi todos buscamos un abrazo donde sentirnos a salvo.",
+   "emocion": "calidez reflexiva",
+   "objeto": "cuaderno y taza sobre la mesa",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista sitting quietly with a notebook and a steaming cup, soft warm cafe light, reflective mood",
+   "broll": "hands holding coffee cup",
+   "segundos": 9,
+   "broll_fuente": "20358d390ae29d3c.mp4"
+  },
+  {
+   "n": 8,
+   "texto": "¿Qué pesa más al querer: lo que das o cómo abrazas? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "complicidad",
+   "objeto": "letrero con la pregunta",
+   "pose": "letrero",
+   "prompt_visual": "cartoon barista holding a sign with a question mark, friendly smile, warm cafe background",
+   "broll": "couple hugging sunset",
+   "segundos": 7,
+   "broll_fuente": "78f97df9d3f426a8.mp4"
+  }
+ ],
+ "pregunta_final": "¿Qué pesa más al querer: lo que das o cómo abrazas?",
+ "reto_de_hoy": "¿Qué pesa más al querer: lo que das o cómo abrazas?",
+ "ganchos_alternativos": [
+  "Le dieron al mono una mamá con leche y una sin leche… y escogió la que no tenía nada que darle.",
+  "Cuentan que un bebé mono tenía hambre, y aun así prefirió a la mamá que no le daba de comer.",
+  "¿Qué pasa cuando comida y ternura compiten? Un experimento de los años cincuenta lo mostró."
+ ],
+ "palabras": 156,
+ "canal": "equilibrate",
+ "color": "#E8705F",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "amor-leofreciolecheaunmonoyel",
+ "visual": "broll"
+}
