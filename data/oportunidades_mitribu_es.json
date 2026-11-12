@@ -1,168 +1,150 @@
 {
  "perfil": "mitribu_es",
  "canal": "Mi Tribu · Dinero",
- "generado": "2026-11-10T20:39:24",
- "videos_leidos": 12,
- "comentarios_leidos": 383,
+ "generado": "2026-11-12T16:54:28",
+ "videos_leidos": 10,
+ "comentarios_leidos": 322,
  "temas": [
   {
-   "tema": "Fe y suerte: esperar a ser millonario «si Dios quiere»",
-   "menciones": 60,
-   "cita": "Con la ayuda de Dios seré millonaria",
+   "tema": "¿La oferta es real o el precio está inflado?",
+   "menciones": 12,
+   "cita": "Inflan los precios y después te dicen que están en ofertas cuando el precio es el real",
    "origen": "viral",
-   "titulo": "Tu dinero no es suerte: es una conversación",
-   "gancho": "Puedes confiar en que todo saldrá bien y aun así abrir tu cuaderno de cuentas. Van juntos.",
-   "reto": "Anota en tu cuaderno una acción pequeña con tu dinero para hoy.",
+   "titulo": "3 preguntas antes de creerle a un descuento",
+   "gancho": "Si el precio de antes era inventado, el descuento es solo maquillaje. Mira cómo revisarlo con tu taza en la mano.",
+   "reto": "Abre tu cuaderno y anota el precio real de algo que quieres comprar. Compáralo en dos tiendas y espera 24 horas.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Pedirle al universo que muestre dónde está tu dinero",
-   "menciones": 45,
-   "cita": "Universo muéstrame dónde está mi dinero ahora",
+   "tema": "Desconfianza: ¿esto es publicidad disfrazada?",
+   "menciones": 9,
+   "cita": "PUBLICIDAD ENCUBIERTA DE AMAZON PARA QUE COMPRES EN AMAZON",
    "origen": "viral",
-   "titulo": "¿Dónde está tu dinero? Empieza por tu taza",
-   "gancho": "Antes de preguntarle al universo, pregúntate a ti: ¿dónde se fueron tus últimos cinco gastos?",
-   "reto": "Apunta tus últimos 5 gastos y comenta cuál te sorprendió.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Gastar en apariencia, ropa y marcas: ¿es de verdad el problema?",
-   "menciones": 25,
-   "cita": "La ropa nunca deja de ser un mal gasto",
-   "origen": "viral",
-   "titulo": "3 gastos que sí valen tu café (y 1 que no)",
-   "gancho": "No todo gasto es enemigo. La pregunta es si lo eliges tú o lo elige la prisa.",
-   "reto": "Mira tu último gasto no esencial y pregúntate: ¿lo volvería a elegir?",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Juicio y orgullo: «soy feliz siendo pobre» y críticas al mensaje",
-   "menciones": 10,
-   "cita": "Soy feliz siendo pobre y qué",
-   "origen": "viral",
-   "titulo": "Dinero sin culpa: no hace falta juzgar a nadie",
-   "gancho": "Hablar de dinero no es señalar a nadie. Es mirar tu propia taza con honestidad y sin vergüenza.",
-   "reto": "Escribe una frase amable sobre tu relación con el dinero hoy.",
+   "titulo": "¿Consejo de ahorro o anuncio disfrazado? Cómo notarlo",
+   "gancho": "Si un video te dice que ahorres justo comprando, hazte una pregunta. Aquí va, sin drama.",
+   "reto": "Mira el último video de ahorro que viste y anota quién gana si tú compras.",
    "formato": "short",
    "urgencia": "media"
   },
   {
-   "tema": "Ahorrar cuando no sobra nada, con inflación y devaluación",
-   "menciones": 8,
+   "tema": "Dudas de legalidad, calidad y si aplica en mi país",
+   "menciones": 7,
+   "cita": "El precio es muy bajo pero no es el mismo material",
+   "origen": "viral",
+   "titulo": "Antes de usar un truco de ahorro, revisa esto",
+   "gancho": "Barato no siempre es ahorro. Un truco que no sirve en tu país o te llega distinto te cuesta doble.",
+   "reto": "Elige una compra pendiente y escribe tres cosas: envío total, calidad y reseñas reales.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Ahorrar sin comprar lo que no necesitas (cupones en cosas inútiles)",
+   "menciones": 5,
+   "cita": "Si no compras lo que no necesitas ahorras más",
+   "origen": "viral",
+   "titulo": "El mejor descuento es no comprarlo",
+   "gancho": "Los cupones suelen estar en lo que no usas. Tu cuenta mejora más con una pausa que con un código.",
+   "reto": "Guarda en el cuaderno un antojo de hoy y decide en 48 horas si sigue en pie.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Ahorrar cuando no alcanza y desconfianza en bancos y apps",
+   "menciones": 5,
    "cita": "Ya no podemos separar ni un peso, cuanta fantasía",
    "origen": "viral",
-   "titulo": "Ahorrar cuando no sobra: empieza con una moneda",
-   "gancho": "Si no sobra, el ahorro no es una cifra: es un hábito pequeño. Para dudas de tu caso, consulta a un profesional.",
-   "reto": "Aparta hoy la moneda más pequeña que tengas en un frasco.",
+   "titulo": "¿No te alcanza para ahorrar? Empieza por aquí",
+   "gancho": "Ahorrar no es una cifra grande. Es una conversación pequeña contigo, repetida cada semana.",
+   "reto": "Aparta hoy la moneda o el monto más pequeño que puedas en un sobre o una taza.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Quiero aprender a hacer jabones (emprender con las manos)",
+   "menciones": 60,
+   "cita": "Yo quiero aprender a hacer jabones artesanales",
+   "origen": "viral",
+   "titulo": "Quieres emprender con tus manos: haz esto antes del molde",
+   "gancho": "Muchos quieren aprender el oficio. Pocos se preguntan primero cuánto cuesta hacerlo y a quién se lo van a vender.",
+   "reto": "Anota en el cuaderno tres personas que podrían ser tu primer cliente y qué les ofrecerías.",
    "formato": "largo",
    "urgencia": "alta"
   },
   {
-   "tema": "Lotería y boletos: ¿ganar por suerte es posible?",
-   "menciones": 12,
-   "cita": "Hay sujetos que han ganado la lotería más de 2 veces",
+   "tema": "Necesito trabajar o un ingreso extra: ¿por dónde empiezo?",
+   "menciones": 4,
+   "cita": "Jabones hermosos, necesito trabajar",
    "origen": "viral",
-   "titulo": "Lotería: ilusión sí, plan no",
-   "gancho": "Soñar con el boleto ganador es humano. Pero tu plan de dinero no puede depender de la suerte.",
-   "reto": "Escribe qué haría hoy tu yo del futuro por tu dinero, sin boleto.",
+   "titulo": "¿Necesitas ingreso extra? Tu primer paso cabe en una taza",
+   "gancho": "No necesitas una gran idea. Necesitas una pequeña habilidad y una conversación honesta con tu dinero.",
+   "reto": "Escribe tres cosas que sabes hacer y que alguien de tu barrio podría pagarte.",
    "formato": "short",
-   "urgencia": "media"
+   "urgencia": "alta"
   },
   {
-   "tema": "Dinero y amistad: cuánto tienen otros y cómo se comparte",
-   "menciones": 6,
-   "cita": "Al final los amigos, el dinero es bobería",
-   "origen": "viral",
-   "titulo": "Hablar de dinero con amigos sin que se ponga raro",
-   "gancho": "Comparar cuentas ajenas es fácil. Hablar claro con quien quieres es lo que de verdad pesa.",
-   "reto": "Escribe una frase honesta sobre dinero para decirle a alguien cercano.",
-   "formato": "short",
-   "urgencia": "baja"
-  },
-  {
-   "tema": "Deudas, hipoteca y familia en apuros",
+   "tema": "Lotería y boletos: ¿suerte o plan? Hipotecar la casa",
    "menciones": 5,
    "cita": "Cómo es que seguían viviendo en su casa si la hipotecaron",
    "origen": "viral",
-   "titulo": "Deudas en casa: la conversación que nadie quiere",
-   "gancho": "Una deuda callada pesa el doble. Ponerla sobre la mesa, con calma, ya es avanzar.",
-   "reto": "Haz en tu cuaderno una lista de lo que debes, sin juzgarte.",
-   "formato": "largo",
+   "titulo": "La suerte no es un plan de ahorro",
+   "gancho": "Un boleto ganador sale bien en la tele. Tu hábito con el dinero sale mejor en la vida real.",
+   "reto": "Suma lo que gastaste este mes en azar o antojos de suerte y anótalo sin juzgarte.",
+   "formato": "short",
    "urgencia": "media"
   },
   {
-   "tema": "Sin trabajo y sin ingresos: ¿por dónde empiezo?",
-   "menciones": 5,
-   "cita": "Ojalá sea millonaria, porque no tengo trabajo",
+   "tema": "¿Dejarías a tu pareja por un millón? Dinero vs amor",
+   "menciones": 20,
+   "cita": "¿Dejar a una persona por dinero es peor que estar con ella solo por dinero?",
    "origen": "viral",
-   "titulo": "Sin trabajo hoy: tu primer escalón de dinero",
-   "gancho": "Cuando falta el ingreso, el primer escalón no es ganar más: es ordenar lo que ya entra y sale.",
-   "reto": "Anota tus 3 gastos fijos y tu primera acción de hoy para generar ingreso.",
+   "titulo": "¿Un millón por tu pareja? La pregunta que incomoda",
+   "gancho": "El dinero y el amor se sientan en la misma mesa. La pregunta es quién manda en tus decisiones.",
+   "reto": "Escribe qué valoras más que cualquier cifra y compártelo en comentarios en una frase.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Para qué quieres el dinero: familia, comunidad, propósito",
-   "menciones": 10,
-   "cita": "Voy a ser millonario y voy a ayudar a la comunidad",
+   "tema": "Hábitos de personas exitosas: me cuesta levantarme y rodearme de mejores",
+   "menciones": 12,
+   "cita": "Me cuesta levantarme a la mañana y arreglarme para lucir mejor",
    "origen": "viral",
-   "titulo": "Antes del millón, responde: ¿para qué?",
-   "gancho": "Mucha gente suma ceros sin saber para qué. Tu propósito es la brújula del dinero.",
-   "reto": "Completa en tu cuaderno: quiero dinero para...",
+   "titulo": "Te cuesta levantarte? Empieza con un solo hábito",
+   "gancho": "No necesitas diez reglas de ricos. Necesitas una escalera: un escalón pequeño que sí cumplas mañana.",
+   "reto": "Elige un solo escalón para mañana, anótalo en el cuaderno y ponlo junto a tu taza.",
    "formato": "short",
    "urgencia": "media"
-  },
-  {
-   "tema": "Rituales y vibras para atraer dinero (humor)",
-   "menciones": 6,
-   "cita": "Ritual para el dinero ❌ FARMEANDO AURA ✅",
-   "origen": "viral",
-   "titulo": "Mi ritual para el dinero: cuaderno y café",
-   "gancho": "El único ritual que te propongo cabe en una taza: mirar tus números cada semana, con calma.",
-   "reto": "Haz tu ritual de 3 minutos: café, cuaderno y un número de hoy.",
-   "formato": "short",
-   "urgencia": "baja"
-  },
-  {
-   "tema": "Entorno y vecinos: ¿afecta a tu paz y a tu dinero?",
-   "menciones": 7,
-   "cita": "Estoy de acuerdo. Tenía un ruidoso al lado",
-   "origen": "viral",
-   "titulo": "Tu entorno también habla de tu dinero",
-   "gancho": "El ruido, el gasto por compromiso, la presión del entorno: ¿cuánto te cuesta realmente?",
-   "reto": "Anota un hábito de tu entorno que te cuesta dinero o paz.",
-   "formato": "short",
-   "urgencia": "baja"
   }
  ],
  "objeciones_a_la_oferta": [
-  "Ya no me sobra nada para ahorrar",
-  "El ahorro se devalúa con la inflación y los bancos",
-  "Todo depende de Dios o de la suerte, no de mis hábitos",
-  "Me juzgan por gastar en ropa o gustos",
-  "No tengo trabajo ni ingresos fijos",
-  "Esos consejos de mentalidad suenan a regaño",
-  "Soy feliz como estoy, no quiero ser millonario"
+  "Ya no alcanza ni para separar un peso, ahorrar suena a fantasía",
+  "Desconfío de bancos, apps y de cualquier consejo que parezca publicidad",
+  "Los cupones y descuentos están en cosas que no uso y el envío sube el precio",
+  "No sé si el truco es legal o si sirve en mi país",
+  "Me cuesta la disciplina y levantarme para cambiar mis hábitos",
+  "Un millón es un millón: el dinero pesa más que el discurso",
+  "Quiero aprender un oficio para generar ingresos pero no sé cómo vender"
  ],
  "respuestas_sugeridas": [
   {
-   "a": "Amén, si Dios quiere, seré millonario",
-   "respuesta": "Qué bonito confiar. Y mientras tanto, tu taza también necesita un cuaderno. Fe y hábito caminan juntos. Reto de hoy: anota una acción pequeña con tu dinero. Cuéntame cuál."
+   "a": "Precios inflados y ofertas que no son reales",
+   "respuesta": "Tienes razón en dudar. Anota el precio de lo que quieres hoy y vuelve en una semana. Si cambia mucho, ya sabes cómo se mueve ese precio. Tu cuaderno es tu mejor filtro."
   },
   {
-   "a": "Universo, muéstrame dónde está mi dinero",
-   "respuesta": "Buena pregunta. Pero empecemos por casa: ¿dónde se fueron tus últimos cinco gastos? Anótalos hoy y comenta cuál te sorprendió. Ahí suele empezar la conversación."
+   "a": "Yo quiero aprender (jabones, oficios)",
+   "respuesta": "Qué bueno que te nace aprender. Antes del molde, anota cuánto te costaría cada jabón y quién te lo compraría. Empezar con cuentas claras es un buen primer paso. Reto de hoy: escribe tu primer cliente."
   },
   {
-   "a": "Ya no puedo ahorrar ni un peso",
-   "respuesta": "Te entiendo, hay meses así. Empieza con una moneda en un frasco, sin meta. Es un hábito, no una cifra. Para tu caso concreto, consulta a un profesional."
+   "a": "Ya no alcanza para ahorrar",
+   "respuesta": "Te leo. Ahorrar no tiene que ser grande para contar. Aparta hoy lo más pequeño que puedas, aunque sea una moneda. Lo que repites pesa más que lo que prometes. Si hay deudas, consulta a un profesional."
   },
   {
-   "a": "¿Qué episodio y temporada es?",
-   "respuesta": "Esa pregunta es de otro canal, amigo. Aquí servimos café y dinero con calma. Reto de hoy: anota tu último gasto en el cuaderno y cuéntame."
+   "a": "Un millón por dejar a la pareja",
+   "respuesta": "Buena pregunta para tomar con café. Escribe qué valoras que no tiene precio, y luego qué decisiones de dinero van contra eso. Ahí está la conversación. Cuéntame tu frase en comentarios."
+  },
+  {
+   "a": "Me cuesta levantarme o cumplir hábitos",
+   "respuesta": "Todos tenemos mañanas pesadas. No cambies diez cosas. Elige un solo escalón de mañana y déjalo escrito junto a tu taza. Cuando ese se vuelva fácil, subes al siguiente."
   }
  ],
  "fuentes": [
@@ -174,9 +156,15 @@
   },
   {
    "origen": "viral",
-   "video_id": "CJXMOjGMyCM",
-   "titulo": "la gente sigue pobre por esto 🧏‍♂️ #mentalidad #hábitos #pobreza",
-   "n": 36
+   "video_id": "LZdStuNPJHY",
+   "titulo": "Formas de ahorrar en Amazon #amazoncoupon",
+   "n": 99
+  },
+  {
+   "origen": "viral",
+   "video_id": "ncxgJnYUDKQ",
+   "titulo": "💰 Le ofrecieron un millón para dejar a su pareja y esto respondió | VISTO ASÍ",
+   "n": 17
   },
   {
    "origen": "viral",
@@ -186,51 +174,33 @@
   },
   {
    "origen": "viral",
-   "video_id": "c3jFlER8E4o",
-   "titulo": "Para Auron 320.000€ es poco ☠️",
-   "n": 6
-  },
-  {
-   "origen": "viral",
-   "video_id": "_kZZ-EIlcvA",
-   "titulo": "Solo Futuros MILLONARIOS Verán Esto.. 🍀",
-   "n": 70
-  },
-  {
-   "origen": "viral",
    "video_id": "hyMPY8BJMjQ",
    "titulo": "🤯 Brian encuentra el boleto ganador entre 200 mil boletos",
    "n": 11
   },
   {
    "origen": "viral",
-   "video_id": "V3vtKyf47n4",
-   "titulo": "No Lo Ignores, Si Lo Ves Te Toca Ser MILLONARIO 💰✈️",
-   "n": 90
+   "video_id": "MQP17FvMjZc",
+   "titulo": "Trucos del repartidor de Amazon para ahorrar #amazoncoupon",
+   "n": 8
   },
   {
    "origen": "viral",
-   "video_id": "89t8iAHGEPo",
-   "titulo": "💰 Desafío de 24 Horas para Manifestar Dinero | ¿Funciona la Ley de la Atracción?",
-   "n": 93
+   "video_id": "N5Sl6Nh3aII",
+   "titulo": "🤫 Lo que los ricos no te dicen sobre el éxito #éxito #disciplina #mente",
+   "n": 16
   },
   {
    "origen": "viral",
-   "video_id": "RTWD9aEu3DQ",
-   "titulo": "3 vecinos que debe alejar de su vida 🧏‍♂️❌️ #mentalidad #habitos #pobreza",
-   "n": 23
+   "video_id": "qVhcWh_sL2Q",
+   "titulo": "Aprende hacer jabones de glicerina desde cero#jabonesartesanales #jabonesdeglicerina #emprendimiento",
+   "n": 92
   },
   {
    "origen": "viral",
-   "video_id": "WjUYVoxPdTA",
-   "titulo": "Cuando eres millonario... pero no tonto",
-   "n": 2
-  },
-  {
-   "origen": "viral",
-   "video_id": "ynSnJTEJxy8",
-   "titulo": "Cuando mi novia y yo hacemos un ritual para atraer dinero💸💸",
-   "n": 7
+   "video_id": "oL3AYbzrXZs",
+   "titulo": "Aprende hacer jabones naturales #jabonesartesanales #emprendimiento #jabonesdeglicerina #soap",
+   "n": 34
   },
   {
    "origen": "propio",

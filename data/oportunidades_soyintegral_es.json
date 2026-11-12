@@ -1,290 +1,295 @@
 {
  "perfil": "soyintegral_es",
  "canal": "Soy Integral · Salud",
- "generado": "2026-11-10T20:40:06",
+ "generado": "2026-11-12T16:55:20",
  "videos_leidos": 21,
- "comentarios_leidos": 1196,
+ "comentarios_leidos": 1235,
  "temas": [
   {
-   "tema": "Confusión: ¿esto es bueno o malo? Mensajes contradictorios sobre comida",
-   "menciones": 16,
-   "cita": "Entonces es bueno ó malo! Asustan con este tipo de información.",
+   "tema": "Cada cuánto bañarse: diario, dos veces al día o dos por semana",
+   "menciones": 45,
+   "cita": "Yo tengo 80 años y me baño 2 veces por semana",
    "origen": "viral",
-   "titulo": "Todo hace daño, todo es bueno: ¿a quién le creo?",
-   "gancho": "Si cada video te dice algo distinto, el problema no eres tú: te falta un filtro sencillo.",
-   "reto": "Anota en tu cuaderno una duda de comida y llévasela a tu médico o nutricionista.",
+   "titulo": "¿Cada cuánto bañarte? Tu taza no se lava igual que la mía",
+   "gancho": "Unos se bañan dos veces al día y otros dos por semana. Los dos dicen sentirse bien. ¿Quién tiene razón?",
+   "reto": "Anota en tu cuaderno cómo te sientes la piel hoy y cuándo fue tu último baño.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Despensa de emergencia sin cocción ni gas: qué guardar y cuánto dura",
-   "menciones": 32,
-   "cita": "Yo agregaría atún en latas, frijoles y sopas enlatadas que se pueden comer en frío.",
+   "tema": "Fatiga, miedo a caerse y pena al bañarse siendo mayor",
+   "menciones": 5,
+   "cita": "Compré una silla para la ducha, tengo 83 años y me baño tranquila",
    "origen": "viral",
-   "titulo": "Tu despensa en 5 minutos: 5 cosas que sí vas a usar",
-   "gancho": "No necesitas una bodega: con cinco cosas que ya comes, tu casa respira tranquila.",
-   "reto": "Revisa tu alacena y escribe cinco alimentos que no necesitan cocción.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Miedo y fe ante la escasez: cómo prepararse sin vivir en alarma",
-   "menciones": 28,
-   "cita": "En la mano de Dios ponemos las preocupaciones y Dios lo resolverá.",
-   "origen": "viral",
-   "titulo": "Prepararte no es tener miedo: es cuidarte con calma",
-   "gancho": "Puedes confiar y también dejar la despensa lista. Las dos cosas caben en la misma taza.",
-   "reto": "Haz una lista de 3 cosas que sí controlas hoy y marca una.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Ayuno intermitente y no cenar: horarios, ejercicio, edad y proteína",
-   "menciones": 16,
-   "cita": "Quienes tengan más de 50 o 60 años deben tener en cuenta la sarcopenia.",
-   "origen": "viral",
-   "titulo": "Ayuno: ¿sirve para todos? Lo que te conviene preguntar",
-   "gancho": "Al vecino le funciona su horario. A ti te toca preguntar qué le conviene a tu cuerpo.",
-   "reto": "Anota hoy a qué hora cenaste, cómo dormiste y cómo amaneciste.",
-   "formato": "largo",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Alimentos caducados: qué se puede comer y cuánto dura cada uno",
-   "menciones": 11,
-   "cita": "Cuánto dura la carne cocida y empacada en plástico grueso al vacío?",
-   "origen": "viral",
-   "titulo": "Fecha vencida: ¿tirar o no tirar? Mira esto antes",
-   "gancho": "Caducidad y consumo preferente no son lo mismo, y tu nariz no es un laboratorio.",
-   "reto": "Busca en tu alacena un producto con fecha y lee qué dice exactamente.",
+   "titulo": "Si el baño te cansa, esto no es pereza",
+   "gancho": "Bañarte no debería agotarte. Una silla, agua tibia y pausas pueden cambiarte el momento más pesado del día.",
+   "reto": "Revisa tu baño: ¿hay un sitio firme para sentarte y un tapete que no resbale?",
    "formato": "short",
    "urgencia": "media"
   },
   {
-   "tema": "Alcohol y azúcar: las sustancias que la gente siente que se ignoran",
-   "menciones": 12,
-   "cita": "Te faltó el alcohol.",
-   "origen": "viral",
-   "titulo": "La taza que nadie cuenta: alcohol y azúcar también pesan",
-   "gancho": "Lo legal y cotidiano también entra en tu equilibrio. Vamos a mirarlo sin culpa.",
-   "reto": "Anota cuánto azúcar o alcohol consumiste hoy, sin juzgarte. Solo anótalo.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Dejar sustancias y buscar alegría sin ellas: relatos y petición de apoyo",
-   "menciones": 14,
-   "cita": "Buscas alegría? Descansa, ten amigos, levanta mancuernas, ayuda a alguien, sal a trotar.",
-   "origen": "viral",
-   "titulo": "Buscas alegría? Tu cuaderno tiene 3 caminos pequeños",
-   "gancho": "La alegría también se construye en pasos chiquitos. Hoy te propongo uno que no cuesta nada.",
-   "reto": "Escribe tres cosas que te dan alegría sin sustancias y haz una hoy.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Síntomas en el pecho y miedo o presión familiar para ir al médico",
-   "menciones": 10,
-   "cita": "Mi mujer y mi hija me dijeron que estaba loco; al final anulé la cita.",
-   "origen": "viral",
-   "titulo": "Si tu cuerpo avisa, no canceles la cita",
-   "gancho": "Que te digan que es la edad no reemplaza una revisión. Pedir cita también es quererte.",
-   "reto": "Agenda hoy esa cita médica pendiente, o escribe la fecha en que la harás.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Medicamentos de uso diario y automedicación: dudas sobre analgésicos y tadalafilo",
-   "menciones": 24,
-   "cita": "Me terminé automedicando y terminé con gastritis.",
-   "origen": "viral",
-   "titulo": "Antes de tomarlo a diario, hazte esta pregunta",
-   "gancho": "Lo que a otro le funciona no es una receta para ti. Tu médico sí te conoce.",
-   "reto": "Haz una lista de lo que tomas y llévala a tu próxima consulta.",
-   "formato": "largo",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Agua, limón y ciruelas: hidratación y digestión simple",
-   "menciones": 24,
-   "cita": "El agua se toma cuando tienes sed.",
-   "origen": "viral",
-   "titulo": "¿Cuánta agua es suficiente? Empieza por tu taza",
-   "gancho": "No hay una cifra mágica para todos. Hay hábitos pequeños que sí puedes empezar hoy.",
-   "reto": "Toma un vaso de agua ahora y anota cómo te sientes esta tarde.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Bajar de peso con constancia: dejar pan, azúcar o gaseosas sin ver resultados",
-   "menciones": 7,
-   "cita": "Hace 3 meses dejé las gaseosas y no bajé nada.",
-   "origen": "viral",
-   "titulo": "Dejaste el azúcar y nada cambia? Mira tu escalera",
-   "gancho": "Si no ves resultados, no fallaste: quizás estás mirando un solo escalón.",
-   "reto": "Mide hoy cómo duermes, caminas y comes, no solo el peso.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Dolores de cabeza con causas inesperadas: dientes, digestión, comidas",
+   "tema": "Piel seca, picazón, jabón y forma de secarse",
    "menciones": 6,
-   "cita": "Se me quitó el dolor de cabeza cuando se estabilizó el colon.",
+   "cita": "Ya no me baño con jabón tradicional sino jabón neutro",
    "origen": "viral",
-   "titulo": "Tu cabeza duele, pero la causa puede estar en otro lado",
-   "gancho": "Cuerpo, mente y trabajo son un solo sistema, y a veces el aviso llega desde otra parte.",
-   "reto": "Anota cuándo te duele la cabeza y qué hiciste o comiste antes.",
+   "titulo": "3 errores al secarte que tu piel nota (y tú no)",
+   "gancho": "No todo es cuántas veces te bañas. También cuenta el jabón, el agua y cómo te secas.",
+   "reto": "Hoy sécate con toques suaves, sin frotar, y ponte crema si tu piel la pide.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Señales tempranas del páncreas y miedo a que el médico no las tome en serio",
+   "menciones": 14,
+   "cita": "Fue al médico y le dieron tratamiento para la gastritis",
+   "origen": "viral",
+   "titulo": "Tu cuerpo avisa: así lo anotas antes de ir al médico",
+   "gancho": "Muchas personas cuentan que sus avisos se tomaron tarde. Un registro claro ayuda a que te escuchen mejor.",
+   "reto": "Escribe tres cambios que notes en tu cuerpo, con fecha. Si persisten, consulta a un profesional.",
+   "formato": "largo",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Cómo pedirle estudios al médico sin sentirse ignorado",
+   "menciones": 10,
+   "cita": "El problema es cómo sugerirle al médico que pueda ser el páncreas",
+   "origen": "viral",
+   "titulo": "Cómo hablar con tu médico para que te escuche",
+   "gancho": "No se trata de discutir con tu doctor. Se trata de llegar con tu cuaderno y tres preguntas claras.",
+   "reto": "Escribe tres preguntas para tu próxima consulta y guárdalas en el celular.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Romero: cómo prepararlo, cuánto tomar y cuándo",
+   "menciones": 10,
+   "cita": "Cómo se utiliza, y dosificación por favor",
+   "origen": "viral",
+   "titulo": "Romero en taza: cómo prepararlo sin complicarte",
+   "gancho": "Hay quien lo toma en infusión después de comer. Te cuento cómo lo preparan y qué precauciones tener.",
+   "reto": "Pon el romero en una taza con agua caliente, tapa y espera 10 minutos. Si tomas medicamentos, pregunta antes.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Bicarbonato y limón en ayunas: ¿bueno o malo? Piden una respuesta clara",
+   "menciones": 30,
+   "cita": "En resumen ¿Es bueno o perjudicial tomar agua con limón en ayunas?",
+   "origen": "viral",
+   "titulo": "Agua con limón en ayunas: ¿sí o no? Depende de ti",
+   "gancho": "Te piden blanco o negro. La respuesta tiene matices, y estos tres puntos te ayudan a decidir.",
+   "reto": "Hoy prueba tu agua sin prisa y anota cómo te cae. Si tienes dudas con tus riñones, consulta.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Cerveza y riñones: casos personales que contradicen el video",
+   "menciones": 14,
+   "cita": "Mi hermano siempre ha tomado cervezas y nunca se ha enfermado de los riñones",
+   "origen": "viral",
+   "titulo": "A tu amigo no le pasa nada. ¿Y a ti?",
+   "gancho": "El tío que toma todos los días y se ve bien existe. Pero tu cuerpo no es el suyo.",
+   "reto": "Cuenta cuántas bebidas alcohólicas tomaste esta semana y apúntalo, sin juzgarte.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Piernas débiles, falta de equilibrio y dolor al caminar",
+   "menciones": 12,
+   "cita": "Pierdo mucho el equilibrio, tengo 58 años",
+   "origen": "viral",
+   "titulo": "¿Te cuesta caminar? Empieza por una silla",
+   "gancho": "Antes de cambiar tu plato, mira cómo te levantas de la silla. Ahí empieza la escalera.",
+   "reto": "Levántate de una silla con las manos cruzadas, hasta donde te sientas seguro. Si hay dolor, consulta.",
+   "formato": "largo",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Qué tomar o comer de noche para dormir, y a qué hora",
+   "menciones": 9,
+   "cita": "El agua de coco me la tomo a qué hora",
+   "origen": "viral",
+   "titulo": "Tu taza de la noche: qué tomar y a qué hora",
+   "gancho": "Te dan una lista de bebidas, pero nadie te dice cuándo tomarlas. Aquí va un horario sencillo.",
+   "reto": "Elige una sola bebida tibia, sin cafeína, y tómala una hora antes de dormir.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Rutina de la mañana: qué hacer en los primeros minutos",
+   "menciones": 6,
+   "cita": "Mi cardiólogo nunca ha hablado de mi rutina al levantarme",
+   "origen": "viral",
+   "titulo": "Tus primeros 5 minutos del día cambian la taza",
+   "gancho": "Antes de abrir el celular, tu mañana ya empezó. Esto puedes hacer en cinco minutos.",
+   "reto": "Mañana, antes de mirar la pantalla, toma un vaso de agua y respira tres veces.",
    "formato": "short",
    "urgencia": "baja"
+  },
+  {
+   "tema": "Sensaciones raras al dormir y dolores de cabeza: ¿es normal o es grave?",
+   "menciones": 4,
+   "cita": "Me estaba durmiendo y sentí una explosión horrible. Pensé que era grave",
+   "origen": "viral",
+   "titulo": "Sentiste algo raro al dormirte: te explico",
+   "gancho": "Hay ruidos y sensaciones nocturnas que asustan. Saber qué son te ayuda a distinguir cuándo consultar.",
+   "reto": "Anota en tu cuaderno qué sentiste, a qué hora y cuántas veces. Si se repite, consulta.",
+   "formato": "short",
+   "urgencia": "media"
   }
  ],
  "objeciones_a_la_oferta": [
-  "Ya no sé a quién creerle: todo hace daño según cada video",
-  "Parece que cuidarse cuesta mucho: como lo que me alcanza",
-  "Prepararme me da miedo o siento que es exagerar",
-  "Mi familia dice que mis síntomas son la edad y no voy al médico",
-  "Prefiero evitar medicamentos pero no sé qué hacer cuando duele",
-  "Probé dejar el azúcar o las gaseosas y no vi resultados",
-  "A mí el ayuno me va bien, pero no sé si es para todos"
+  "Los médicos no me escuchan o no tienen tiempo, así que ya no quiero ir",
+  "Desconfío de lo que dicen los videos y de las farmacéuticas; creo más en lo casero",
+  "A mí me funciona distinto, mi familiar hace lo contrario y está bien",
+  "Los videos son largos y dan muchas vueltas antes de llegar al punto",
+  "Quiero saber cómo, cuánto y a qué hora, no solo qué",
+  "Mi edad o mi dolor me impiden hacer los ejercicios o el cambio",
+  "Me da pena decir que me cuesta algo tan básico como bañarme",
+  "No sé cuál producto es verdadero ni dónde comprarlo"
  ],
  "respuestas_sugeridas": [
   {
-   "a": "Todo hace daño, mejor como sin pensar",
-   "respuesta": "Te entiendo, tanta info marea. Mejor que comer sin pensar es comer con un filtro simple: dosis, tu cuerpo y tu médico. Hoy, un solo cambio pequeño. Reto de hoy: elige uno."
+   "a": "Yo me baño a diario y me siento bien, o solo dos veces por semana",
+   "respuesta": "Gracias por contarlo. No hay una sola taza para todos: clima, piel y energía cambian el cuadro. Lo importante es que te sientas cómodo y limpio. Si notas picazón o fatiga, consúltalo."
   },
   {
-   "a": "Me funciona el ayuno o la dieta, a otros también",
-   "respuesta": "Qué bueno que te sientas bien. Cada cuerpo es distinto, y la edad y la salud cuentan. Si tienes dudas, coméntalas con tu médico. Reto de hoy: anota cómo amaneces."
+   "a": "Los médicos no te escuchan o no piden estudios",
+   "respuesta": "Te entiendo. Prueba esto: lleva tu cuaderno con fechas, qué sientes y desde cuándo, y haz tres preguntas claras. Y si algo persiste, insiste con respeto o busca otra opinión profesional."
   },
   {
-   "a": "Tengo síntomas pero me dicen que es la edad",
-   "respuesta": "Lo que sientes merece ser escuchado. Esto no reemplaza al médico: pide la cita y llévala por escrito. Que alguien te acompañe si puedes. Reto de hoy: agenda la consulta."
+   "a": "Pidiendo dosis o preparación del romero u otra planta",
+   "respuesta": "Una forma común: infusión suave, tapada unos diez minutos, después de comer. Cada cuerpo es distinto. Si tomas medicamentos, estás embarazada o tienes una condición, pregunta antes a tu profesional de salud."
   },
   {
-   "a": "Comentarios religiosos: Dios proveerá",
-   "respuesta": "Qué bonito sostener la fe. Y también puedes dejar tu alacena lista con calma, sin miedo. Confiar y prepararse caben en la misma taza. Reto de hoy: lista de tres cosas."
+   "a": "A mí o a mi familiar no nos pasó nada con eso",
+   "respuesta": "Qué bueno que te sientas bien. Cada cuerpo responde distinto y un caso no dice todo. Escúchate, cuida tus chequeos y, si tienes dudas, pregúntale a un profesional."
+  },
+  {
+   "a": "Me duelen las piernas o pierdo el equilibrio, ¿qué hago?",
+   "respuesta": "Gracias por contarlo. Con dolor o pérdida de equilibrio lo primero es consultar a un profesional. Mientras tanto, hazlo con apoyo firme y sin prisa. Tu reto de hoy: levántate de una silla con calma."
   }
  ],
  "fuentes": [
   {
    "origen": "viral",
-   "video_id": "2MS5JFqOaaE",
-   "titulo": "CACAHUATES: Esto Le Pasa a Tus RIÑONES Cuando Los Comes",
-   "n": 93
+   "video_id": "aXaxysfs9b0",
+   "titulo": "MANÍ: Lo que pasa en tu AZÚCAR Cuando lo consumes",
+   "n": 77
   },
   {
    "origen": "viral",
-   "video_id": "zC-7_ccwBeo",
-   "titulo": "6 Bebidas para tener RIÑONES Sanos y Fuertes",
-   "n": 78
+   "video_id": "ENJ22iVNs74",
+   "titulo": "Romero Durante 30 Días: Lo Que Puede Pasarle a Tu Cuerpo Realmente Te Impactará",
+   "n": 87
   },
   {
    "origen": "viral",
-   "video_id": "Y21yxp3qs9M",
-   "titulo": "INFARTO | ¿Tu cuerpo te está avisando? Estas 5 SEÑALES lo dicen",
-   "n": 46
+   "video_id": "YMPN0kk1nlA",
+   "titulo": "Tu cuerpo te avisa MESES antes de que aparezca un cáncer de páncreas.",
+   "n": 100
   },
   {
    "origen": "viral",
-   "video_id": "AHE7I0hNt-4",
-   "titulo": "12 Alimentos que DEBES Comprar Antes de que Acabe Octubre (y se Vacíe el Súper)",
-   "n": 99
+   "video_id": "if4E9gYd8aI",
+   "titulo": "¿Te cuesta caminar? 5 alimentos que pueden fortalecer tus piernas | Salud",
+   "n": 34
   },
   {
    "origen": "viral",
-   "video_id": "AWKfW9IroZs",
-   "titulo": "Qué Le Hace Cada Bebida a Tu Cuerpo (de la Más Sana a la Más Peligrosa)",
-   "n": 95
-  },
-  {
-   "origen": "viral",
-   "video_id": "haSDtRxOxuI",
-   "titulo": "¿Qué le pasa a tu cuerpo si dejas el pan y el azúcar durante 14 días?",
-   "n": 21
-  },
-  {
-   "origen": "viral",
-   "video_id": "rUV41H2s6n4",
-   "titulo": "20 Alimentos “Caducados” Que Puedes Comer Sin Miedo (Y 7 Que Debes Tirar HOY)",
-   "n": 49
-  },
-  {
-   "origen": "viral",
-   "video_id": "LQrtMZdmCck",
-   "titulo": "Cada Tipo de Analgésico y Sus Efectos en Tu Cuerpo, Explicado",
-   "n": 49
-  },
-  {
-   "origen": "viral",
-   "video_id": "6ZhYAYANt1Y",
-   "titulo": "MANÍ: Lo que pasa en tus RIÑONES cuando lo consumes",
-   "n": 50
-  },
-  {
-   "origen": "viral",
-   "video_id": "VrWuwu-Huzk",
-   "titulo": "¿Qué les pasa a tus órganos si no cenas durante 14 días?",
-   "n": 25
-  },
-  {
-   "origen": "viral",
-   "video_id": "uZL9dR9KLcg",
-   "titulo": "NUECES: Lo que pasa en tus RIÑONES cuando las consumes",
-   "n": 17
-  },
-  {
-   "origen": "viral",
-   "video_id": "8FT5rfUb4D8",
-   "titulo": "El secreto para ir al baño a diario: 5 alimentos que matan el estreñimiento",
-   "n": 76
-  },
-  {
-   "origen": "viral",
-   "video_id": "GDKj1e_mj_0",
-   "titulo": "12 Alimentos Sin Cocción Que Necesitarás Cuando Llegue la Guerra (Come Frío, Mantente Vivo)",
-   "n": 99
-  },
-  {
-   "origen": "viral",
-   "video_id": "ZxScpWviwvo",
-   "titulo": "Cada Droga de la Calle y Sus Efectos, Explicada",
-   "n": 91
-  },
-  {
-   "origen": "viral",
-   "video_id": "HhL9dDRGNBA",
-   "titulo": "9 Alimentos que Están Desapareciendo del Súper en México (la Gente ya los Está Acaparando)",
-   "n": 35
-  },
-  {
-   "origen": "viral",
-   "video_id": "g3PCX_J71Mw",
-   "titulo": "Qué Le Pasa a Tu Cuerpo si Tomas Tadalafilo Todos los Días Durante 6 Meses",
-   "n": 98
+   "video_id": "-44wqUXMIgw",
+   "titulo": "5 Alimentos para Fortalecer las Piernas Después de los 50 | Verduras Saludables",
+   "n": 52
   },
   {
    "origen": "viral",
    "video_id": "jjYtqNQq82A",
    "titulo": "Cada Dolor de Cabeza Explicado en 15 Minutos: Dónde Nace Cada Uno y Qué lo Dispara",
-   "n": 34
+   "n": 33
   },
   {
    "origen": "viral",
-   "video_id": "8I0kJonw7Lg",
-   "titulo": "¿Qué le pasa a tu cuerpo cuando ayunas hasta las 12 todos los días?",
-   "n": 68
+   "video_id": "YF9VE8goedw",
+   "titulo": "¿TE CUESTA CAMINAR? COME ESTAS 5 RAÍCES PARA FORTALECER TUS PIERNAS | Salud",
+   "n": 24
   },
   {
    "origen": "viral",
-   "video_id": "q5g3wy6-mZM",
-   "titulo": "Hígado Graso: 7 Alimentos que lo Desinflaman y 5 que lo Empeoran (Después de los 60)",
-   "n": 20
+   "video_id": "WdFUlEoQy0U",
+   "titulo": "12 Bebidas Ricas en Magnesio Que Te Devuelven el Sueño",
+   "n": 93
   },
   {
    "origen": "viral",
-   "video_id": "PNM_hfsyn3g",
-   "titulo": "Qué le Hace Cada Droga a Tu Cerebro (de Menos a Más Peligrosa)",
-   "n": 53
+   "video_id": "iEBdZqdiTZg",
+   "titulo": "Esto le hace la CERVEZA a tus riñones si la tomas todos los días",
+   "n": 31
+  },
+  {
+   "origen": "viral",
+   "video_id": "qng-3WyQc7s",
+   "titulo": "20 Alimentos que les Daban Huesos de Acero a los Aztecas Sin Tomar Leche",
+   "n": 98
+  },
+  {
+   "origen": "viral",
+   "video_id": "Uj9wNxNY2A0",
+   "titulo": "Cada Cosa que Hace Tu Cuerpo Mientras Duermes, Explicada en 20 Minutos: del Primer Tirón a la Alarma",
+   "n": 38
+  },
+  {
+   "origen": "viral",
+   "video_id": "p-FSyXvG1Qs",
+   "titulo": "Lo que OCURRE DENTRO de tus RIÑONES Cuando Tomas BICARBONATO TODOS LOS DÍAS ",
+   "n": 69
+  },
+  {
+   "origen": "viral",
+   "video_id": "lNAlIex14w8",
+   "titulo": "¿Cada cuánto deben bañarse los adultos mayores después de los 60? ¡7 datos impactantes!",
+   "n": 100
+  },
+  {
+   "origen": "viral",
+   "video_id": "xQNt8eJmyOQ",
+   "titulo": "7 COSAS que debes hacer en los primeros 10 MINUTOS DEL DÍA | Nazareth Castellanos",
+   "n": 27
+  },
+  {
+   "origen": "viral",
+   "video_id": "iVrVSuAH1VY",
+   "titulo": "Cada Filtro de Tu Cuerpo Explicado en 20 Minutos: Los 8 que Te Limpian por Dentro",
+   "n": 88
+  },
+  {
+   "origen": "viral",
+   "video_id": "ZYkVEGtidv0",
+   "titulo": "Lo que OCURRE DENTRO de tus RIÑONES Cuando TOMAS LIMÓN EN AYUNAS",
+   "n": 63
+  },
+  {
+   "origen": "viral",
+   "video_id": "_DB1IK5s_1s",
+   "titulo": "Cardiólogo advierte: ¡Millones hacen ESTO cada mañana sin conocer el riesgo!",
+   "n": 98
+  },
+  {
+   "origen": "viral",
+   "video_id": "drchkAXAy-4",
+   "titulo": "¿Piernas Cansadas Después de los 60? 5 Vitaminas que Debes Conocer (No Es Magnesio)",
+   "n": 23
+  },
+  {
+   "origen": "viral",
+   "video_id": "iXtwpmWk9Cs",
+   "titulo": "la fruta que muchos médicos recomiendan antes de dormir: beneficios para tu salud integral",
+   "n": 100
+  },
+  {
+   "origen": "viral",
+   "video_id": "lY4ONqpT9x8",
+   "titulo": "¿Qué Pasa si Colocas un Clavo de Olor Bajo la Lengua por 10 Minutos?",
+   "n": 0
   },
   {
    "origen": "propio",

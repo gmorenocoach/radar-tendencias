@@ -1,295 +1,312 @@
 {
  "perfil": "equilibrate_es",
  "canal": "Equilíbrate · Amor",
- "generado": "2026-11-10T20:38:47",
+ "generado": "2026-11-12T16:53:45",
  "videos_leidos": 35,
- "comentarios_leidos": 872,
+ "comentarios_leidos": 1347,
  "temas": [
   {
-   "tema": "Contacto cero y silencio tras una ruptura: ¿qué significa?",
+   "tema": "Amor propio: elegirme primero y dejar de mendigar amor",
+   "menciones": 30,
+   "cita": "No mendigo amor, me lo doy yo primero",
+   "origen": "viral",
+   "titulo": "No mendigo amor: el primer sorbo es tuyo",
+   "gancho": "Dejaste de pedir migajas, pero ¿qué haces cada mañana para darte tu propia taza?",
+   "reto": "Escribe en tu cuaderno una frase que empiece con «Hoy me elijo a mí…» y léela en voz alta.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Cómo reaccionar ante quien provoca: silencio, firmeza o alejarse",
+   "menciones": 28,
+   "cita": "Si te callas te tratan de débil, si gritas alimentas su ego",
+   "origen": "viral",
+   "titulo": "Te provocan: ¿callas o respondes? Prueba esto",
+   "gancho": "Ni gritar ni tragarte todo. Hay una tercera opción, y cabe en una frase corta.",
+   "reto": "Escribe una frase firme y tranquila para la próxima vez. Ejemplo: «Hablamos cuando haya respeto».",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Relaciones que drenan: manipulación, love bombing y sentir que enloqueces",
    "menciones": 22,
-   "cita": "El silencio también tiene algo que decir",
+   "cita": "Me sentía cada vez más drenada, cansada y confundida",
    "origen": "viral",
-   "titulo": "Contacto cero: lo que el silencio te dice de ti",
-   "gancho": "Todos preguntan qué significa su silencio. Hoy te pregunto otra cosa: ¿qué te dice a ti?",
-   "reto": "Escribe en tu cuaderno qué sientes cuando no te escribe. Una sola frase, sin juzgarte.",
+   "titulo": "3 señales de que esta relación te drena",
+   "gancho": "Si después de verle terminas más cansada que antes, tu cuerpo ya te está avisando algo.",
+   "reto": "Anota cómo te sientes antes y después de hablar con esa persona. Compara las dos listas.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Soltar a quien no te conviene: retirar la inversión emocional",
-   "menciones": 35,
-   "cita": "Hoy retiro mi inversión y me quedo con mi oro",
+   "tema": "Poner límites a hijos y familia: no darlo todo y aprender a decir NO",
+   "menciones": 22,
+   "cita": "Me cuesta mucho decir NO cuando no quiero cuidar de mis nietos",
    "origen": "viral",
-   "titulo": "Retira tu inversión: 3 preguntas antes de soltar",
-   "gancho": "Muchos repiten esta frase como mantra. Pero soltar también se hace con preguntas, no solo con frases.",
-   "reto": "Anota tres cosas que dejaste de hacer por estar con esa persona. Elige una y retómala hoy.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Patrones repetidos de traición e infidelidad y su origen",
-   "menciones": 6,
-   "cita": "En cada relacion qué he tenido me han sido infiel",
-   "origen": "viral",
-   "titulo": "¿Por qué repites el mismo tipo de pareja?",
-   "gancho": "Si la historia se repite con distinta cara, quizá la taza que hay que mirar sea otra.",
-   "reto": "Dibuja en tu cuaderno tres rasgos que se repiten en tus parejas. Solo obsérvalos, no los juzgues.",
+   "titulo": "Decir NO a tu familia sin sentir culpa",
+   "gancho": "Amar a los tuyos no significa regalarles tu tiempo, tu casa y tus decisiones.",
+   "reto": "Escribe una petición que hoy no quieres cumplir y redacta tu NO amable en una sola línea.",
    "formato": "largo",
-   "urgencia": "media"
+   "urgencia": "alta"
   },
   {
-   "tema": "Duelo largo y sentirse la única persona que sigue sintiendo",
-   "menciones": 9,
-   "cita": "me deja pensando... que soy la unica pensando y sintiendo",
+   "tema": "Soledad y familia elegida frente a familia de sangre",
+   "menciones": 20,
+   "cita": "La familia de sangre no se elige, pero la que uno elige con el corazón nos llena",
    "origen": "viral",
-   "titulo": "Si eres la única que sigue sintiendo, mira esto",
-   "gancho": "Que el otro siga adelante no significa que tu duelo esté mal. Va a su propio ritmo.",
-   "reto": "Ponle fecha a una pequeña cita contigo: un café, una caminata. Agéndala ahora y cúmplela.",
+   "titulo": "¿Familia de sangre o familia elegida?",
+   "gancho": "A veces la mesa más cálida no tiene tu apellido. Y está bien.",
+   "reto": "Escribe tres nombres que te hacen sentir en casa y mándale un mensaje a uno hoy.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Hombres que quedaron tras una separación y dudan si escribir de nuevo",
-   "menciones": 6,
-   "cita": "Debo volver a enviar algún mensaje para ver qué le pasa?",
-   "origen": "viral",
-   "titulo": "Te dejaron y no entiendes: lo que sí es tuyo",
-   "gancho": "Antes de escribir otro mensaje, pregúntate: ¿lo envío por ella o por mi miedo a la ausencia?",
-   "reto": "Antes de mandar un mensaje, escríbelo en tu cuaderno. Léelo mañana con calma.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Vivir en la madurez sin pareja: propósito, cuidar a la familia, soledad",
-   "menciones": 8,
-   "cita": "no siento necesidad de relación. Cuido de mi madre enferma",
-   "origen": "viral",
-   "titulo": "Sin pareja a los 60: ¿vida a medias o a tu ritmo?",
-   "gancho": "Tener un motivo para levantarte también es amor. A veces el primero es el propio.",
-   "reto": "Nombra en voz alta un motivo por el que te levantas mañana. Anótalo en una frase.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Sentir algo por otra persona estando en pareja o recién separado",
-   "menciones": 4,
-   "cita": "soy casado y ella hace poco se separó",
-   "origen": "viral",
-   "titulo": "Sientes algo por alguien más y tienes pareja",
-   "gancho": "Esa emoción no es una orden ni un delito. Es un espejo que pide que le prestes atención.",
-   "reto": "Escribe qué te falta que crees que esa persona te da. Hoy solo responde, no decidas.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Reciprocidad y hablar a tiempo en lugar de callar",
-   "menciones": 8,
-   "cita": "Más honesto es hablar",
-   "origen": "viral",
-   "titulo": "Callar o hablar: la taza que se enfría sola",
-   "gancho": "Hay silencios que protegen y silencios que huyen. Aprende a distinguirlos antes de que se enfríe todo.",
-   "reto": "Escribe una frase honesta que no has dicho. No la envíes: solo léela en voz alta.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Intimidad y dudas concretas sobre la vida sexual en pareja",
-   "menciones": 5,
-   "cita": "no entedi como es la postura",
-   "origen": "viral",
-   "titulo": "Intimidad: antes de la postura, la conversación",
-   "gancho": "Mucha gente pregunta por técnicas. Casi nadie pregunta cuándo fue la última vez que hablaron de lo que sienten.",
-   "reto": "Pregunta a tu pareja algo suave: ¿qué te hace sentir cerca de mí? Escucha sin responder.",
-   "formato": "short",
-   "urgencia": "baja"
-  },
-  {
-   "tema": "Hijos que responden mal: límites sin gritos ni castigos físicos",
+   "tema": "Silencio y contacto cero tras una ruptura: qué pasa y cómo sostenerse",
    "menciones": 14,
-   "cita": "Mi hija tiene 7 años. Ay que vergüenza por todo es un conflicto",
+   "cita": "Creí que nos dábamos tiempo para pensar, pero él ya está con otra",
    "origen": "viral",
-   "titulo": "Tu hijo te responde mal: respira primero",
-   "gancho": "Antes de corregirlo, corrígete la respiración. La calma contagia más rápido que el regaño.",
-   "reto": "La próxima vez que te hable feo, respira tres veces antes de contestar. Cuenta cómo te fue.",
-   "formato": "largo",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Ruptura familiar: hijo adulto que dejó de hablar, nietos, suegras",
-   "menciones": 6,
-   "cita": "me dejó de hablar hacé 10 meces y no me permite ver a mis nietos",
-   "origen": "viral",
-   "titulo": "Tu hijo adulto dejó de hablarte: qué sí puedes hacer",
-   "gancho": "No controlas su silencio, pero sí lo que le escribes y cómo te cuidas mientras tanto.",
-   "reto": "Escribe un mensaje breve de cariño sin reproches. Si hoy no lo envías, guárdalo para mañana.",
-   "formato": "largo",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Frases de seres queridos que ya no están: memoria afectiva",
-   "menciones": 1,
-   "cita": "Cuando me vas a volver a recitar el masquisella",
-   "origen": "propio",
-   "titulo": "La frase que extrañas de alguien que ya no está",
-   "gancho": "Hay frases que no son palabras: son abrazos que se quedaron a vivir en tu memoria.",
-   "reto": "Escribe esa frase en tu cuaderno y cuéntanos en comentarios quién te la decía.",
+   "titulo": "Silencio tras la ruptura: qué mirar de ti",
+   "gancho": "El silencio no es un truco para que vuelva. Es un espacio para que vuelvas a ti.",
+   "reto": "Escribe qué extrañas de esa persona y qué extrañas de ti. Lee las dos listas.",
    "formato": "short",
    "urgencia": "alta"
+  },
+  {
+   "tema": "Gente cercana que hiere: madre, hermanos o hijos que abusan o exigen",
+   "menciones": 12,
+   "cita": "Mis hermanos creen que por estar jubilada tengo tiempo para todos",
+   "origen": "viral",
+   "titulo": "Cuando tu familia te cobra de más",
+   "gancho": "Que seas quien siempre puede no significa que siempre tengas que poder.",
+   "reto": "Haz una lista de lo que das sin que nadie te lo pida. Tacha una cosa.",
+   "formato": "largo",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Soltar y cerrar ciclos: dependencia emocional y volver a mí",
+   "menciones": 10,
+   "cita": "Hoy suelto lo que no me sostiene y regreso a mí",
+   "origen": "viral",
+   "titulo": "Cierra la puerta por dentro, sin portazos",
+   "gancho": "Soltar no es olvidar. Es dejar de sostener con tus manos lo que ya no te sostiene.",
+   "reto": "Escribe en un papel lo que hoy sueltas. Dóblalo y guárdalo bajo tu taza.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Vivir sin pareja y estar en paz: felicidad en solitario",
+   "menciones": 9,
+   "cita": "Podemos ser felices estando solas y tranquilas",
+   "origen": "viral",
+   "titulo": "Sola y tranquila no es sola y triste",
+   "gancho": "La pareja es un espejo, no una solución. Tu paz no depende de que alguien llegue.",
+   "reto": "Haz hoy un plan de cinco minutos contigo: tu canción, tu café, tu silla favorita.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Rutina diaria de cuidado y gratitud que sostiene el amor propio",
+   "menciones": 8,
+   "cita": "Me levanto, me baño, me arreglo como una reina",
+   "origen": "viral",
+   "titulo": "Tu taza de la mañana: ritual de 5 minutos",
+   "gancho": "El amor propio no empieza con un gran cambio. Empieza con cómo te saludas al despertar.",
+   "reto": "Mañana, antes del celular, dite una frase amable frente al espejo mientras se enfría tu café.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Reconstruirse tras años entregándose a hijos y pareja",
+   "menciones": 6,
+   "cita": "Me doy cuenta de que me dejé a mí siempre, mendigando amor",
+   "origen": "viral",
+   "titulo": "Pasaste media vida cuidando a todos menos a ti",
+   "gancho": "Nunca es tarde para sentarte a tu propia mesa. Hoy hay silla libre.",
+   "reto": "Escribe una cosa que dejaste de hacer por ti y agéndala esta semana.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Querer dejar un hábito que daña a la familia y miedo a repetir la historia",
+   "menciones": 2,
+   "cita": "Quiero dejar de tomar alcohol, está acabando con mi vida y mi familia",
+   "origen": "viral",
+   "titulo": "Quiero cambiar un hábito y me da miedo",
+   "gancho": "Querer cambiar ya es un primer paso. Pedir compañía es el segundo.",
+   "reto": "Escribe qué hábito quieres cambiar y a quién le pedirás apoyo. Si es serio, consulta a un profesional.",
+   "formato": "largo",
+   "urgencia": "baja"
   }
  ],
  "objeciones_a_la_oferta": [
-  "No sé si lo que siento es amor o apego, y me da miedo soltar",
-  "Ya lo intenté y la otra persona no responde",
-  "En mis tiempos la mano dura funcionaba mejor que hablar",
-  "El video da muchos rodeos; quiero algo más corto y directo",
-  "Parece contenido hecho con IA o historias inventadas; prefiero personas reales",
-  "Mi duelo es largo y no se resuelve con un video",
-  "Ya estoy mayor y ya no hay tiempo ni ganas de cambiar",
-  "Me da vergüenza o miedo decir lo que siento sin pelear"
+  "Siento culpa al poner límites a mis hijos o familiares",
+  "Me da miedo la soledad, aunque diga que estoy bien sola",
+  "Si me callo me ven débil, y si respondo les doy lo que buscan",
+  "Cuando puse límites me convirtieron en la conflictiva de todos",
+  "Creo que todo el mundo es así y no confío en nadie",
+  "Soy la única que siente y piensa en la relación; la otra persona ya siguió",
+  "No sé si lo que viví fue manipulación o si exagero",
+  "Me quedé años dependiendo de alguien y siento que perdí el tiempo",
+  "Tengo miedo de quedarme sin apoyo económico o familiar si digo que no"
  ],
  "respuestas_sugeridas": [
   {
-   "a": "Frases tipo: Hoy retiro mi inversión y me quedo con mi oro",
-   "respuesta": "Qué bonito verte volver a ti. Que esa frase no se quede en el comentario: escribe hoy una sola acción para cuidar tu oro, en tu cuaderno."
+   "a": "No mendigo amor, me lo doy yo primero",
+   "respuesta": "Esa frase ya es una taza servida para ti. Hoy escríbela en tu cuaderno y añade una acción pequeña que la haga real. ¿Cuál será la tuya? 💛"
   },
   {
-   "a": "¿Debo escribirle para ver qué le pasa?",
-   "respuesta": "No hay una receta. Pregúntate si el mensaje nace de querer cuidarte o de querer calmar la ausencia. Escríbelo en tu cuaderno y léelo mañana."
+   "a": "Si me callo me ven débil y si grito les doy su alimento",
+   "respuesta": "Ni callar por miedo ni gritar por rabia. Prueba una frase corta, calmada y firme, y date permiso de irte. Tu paz también es una respuesta."
   },
   {
-   "a": "El silencio es la respuesta / el silencio es el inicio del fin",
-   "respuesta": "El silencio a veces dice mucho y a veces solo calla. Lo que sí puedes escuchar es qué te dice a ti. Hoy, ponle una palabra."
+   "a": "Estuve años con alguien que me drenaba y no lo veía",
+   "respuesta": "Verlo hoy ya es un paso enorme. Sin ponerle etiquetas a nadie, mira cómo te sientes tú después de estar con esa persona. Si pesa mucho, busca apoyo profesional."
   },
   {
-   "a": "La chancla y el cinto funcionaron bien",
-   "respuesta": "Entiendo de dónde vienes, y muchos crecimos así. Hoy hay otras formas de poner límites. Prueba una: respira tres veces antes de responder."
+   "a": "Mi pareja se alejó y yo sigo sufriendo sola",
+   "respuesta": "Duele sostener sola un vínculo. Este café no es para que vuelva, es para que vuelvas tú. Escribe qué necesitas hoy y dátelo. Si pesa mucho, un profesional puede acompañarte."
   },
   {
-   "a": "Mi duelo es muy largo, no se acaba con un video",
-   "respuesta": "Tienes razón. El duelo no se apura. Un video no sana nada, pero puede acompañarte. Si pesa demasiado, considera hablar con un profesional."
+   "a": "Me cuesta decir NO a mis hijos o nietos",
+   "respuesta": "Decir NO no te hace mala madre ni abuela. Es cuidar tu tiempo para amar mejor. Ensaya hoy una frase amable y firme, una sola. Empieza por la más pequeña."
+  },
+  {
+   "a": "Familia de sangre o la que uno elige",
+   "respuesta": "Las dos pueden ser hogar, y a veces solo una lo es. Escribe tres personas que te hacen sentir en casa. Cuéntame qué país me ves desde ahí 👇"
   }
  ],
  "fuentes": [
   {
    "origen": "viral",
-   "video_id": "dnuqLcWxKQg",
-   "titulo": "Una Madre Escapó Con Su Hijo En Plena Tormenta; Un Desconocido Les Abrió La Única Puerta",
-   "n": 34
-  },
-  {
-   "origen": "viral",
    "video_id": "JJ4VYVYzxHw",
    "titulo": "SI AMBOS DEJAN DE CONTACTARSE, ESTO TERMINARÁ PASANDO | Gabriel Rolon",
-   "n": 75
+   "n": 79
   },
   {
    "origen": "viral",
-   "video_id": "IC94e1U6-mg",
-   "titulo": "9 Hábitos Que Hacen Irresistible a un Hombre Mayor Psicología Femenina",
-   "n": 22
+   "video_id": "KP6bAN7Nio4",
+   "titulo": "7 cosas que nunca debes darles a tus hijos en vida — Schopenhauer (Lee Nikita)",
+   "n": 56
   },
   {
    "origen": "viral",
-   "video_id": "PsGbfVAs0k8",
-   "titulo": "Lo que los Amigos de mi Marido Hicieron Me Dejó en Shock ｜ historias de infidelidad",
-   "n": 27
+   "video_id": "ZKGzy0SIZ-g",
+   "titulo": "LA FORMA MÁS SABIA DE LIDIAR CON PERSONAS TÓXICAS | Robert Greene",
+   "n": 88
   },
   {
    "origen": "viral",
-   "video_id": "zidYkJXKsBk",
-   "titulo": "SOLO LOS HOMBRES CON EXPERIENCIA SABEN ESTO SOBRE LAS MENTE FEMENINA",
-   "n": 37
+   "video_id": "TXUsVf7FdVc",
+   "titulo": "Cómo la Fe en Dios Puede Hacerte Más Fuerte Mentalmente - Reflexión Cristiana",
+   "n": 72
   },
   {
    "origen": "viral",
-   "video_id": "XmOPZ-XXrug",
-   "titulo": "Triangulación Familiar Cuando el Deseo de Ayudar Destruye Límites",
-   "n": 20
-  },
-  {
-   "origen": "viral",
-   "video_id": "jRx9aJ-bpK8",
-   "titulo": "ORACIÓN DE LAS 3 AVE MARÍAS | MADRE, DALES SALUD, FE Y PROTECCIÓN A MIS HIJOS 🙏✨",
+   "video_id": "wha1gcd7lls",
+   "titulo": "\"No quiero morir sola... le dejo todo\", dijo la anciana a la joven madre que buscaba trabajo",
    "n": 100
+  },
+  {
+   "origen": "viral",
+   "video_id": "qmGwq01XOVo",
+   "titulo": "No Pienses Tanto, Solo Confía en Dios - Reflexión Cristiana",
+   "n": 100
+  },
+  {
+   "origen": "viral",
+   "video_id": "ZZeSRCKMtT0",
+   "titulo": "Aprende a pensar en frecuencias y la realidad será tuya (explicación completa) | Robert Greene",
+   "n": 100
+  },
+  {
+   "origen": "viral",
+   "video_id": "PkQ5wFdWqQc",
+   "titulo": "Cómo Reconocer a las Personas Sin Alma – Robert Greene Explica los 5 Rasgos a los que Debes Pres...",
+   "n": 99
+  },
+  {
+   "origen": "viral",
+   "video_id": "w0PmV0piXxI",
+   "titulo": "24 HORAS DE RETOS DUMPLINGS SQUISHIES JUGUETES EN LA PISCINA | MORENO FAMILY",
+   "n": 3
+  },
+  {
+   "origen": "viral",
+   "video_id": "UKV5-h3DsDw",
+   "titulo": "La FILOSOFÍA del AMOR PROPIO que TRANSFORMA la VIDA de una MUJER 🧠 | Brian Tracy",
+   "n": 100
+  },
+  {
+   "origen": "viral",
+   "video_id": "DZ-AjMnbIHQ",
+   "titulo": "7 COSAS QUE NUNCA DEBES DAR A TUS HIJOS MIENTRAS ESTÉS VIVO — OMAR KHAYYAM",
+   "n": 53
   },
   {
    "origen": "viral",
    "video_id": "M792ZNlLS2A",
    "titulo": "Esa Persona Hará El Próximo Movimiento, No Quiere Dejarte Ir | Gabriel Rolón",
-   "n": 39
+   "n": 40
   },
   {
    "origen": "viral",
-   "video_id": "PidfYb2KciY",
-   "titulo": "CÓMO DEJAR DE AMAR A ALGUIEN QUE NO TE CONVIENE | Psicología del Desapego",
+   "video_id": "hLuMuCYGbGA",
+   "titulo": "Tu Corazón Cambia Cuando Aprendes a Agradecer a Dios Aun Cuando NADA Va Bien - Reflexión Cristiana",
+   "n": 65
+  },
+  {
+   "origen": "viral",
+   "video_id": "F54TF2JNMLg",
+   "titulo": "Cambié mi dirección antes de mudarme con mi hijo… y el banquero descubrió algo increíble",
+   "n": 97
+  },
+  {
+   "origen": "viral",
+   "video_id": "XzgBDHqii34",
+   "titulo": "Cómo Soltar a Alguien que No Puedes Olvidar y Cerrar Ese Ciclo Emocional | Gabriel Rolón",
+   "n": 48
+  },
+  {
+   "origen": "viral",
+   "video_id": "SvCD-wo5xbc",
+   "titulo": "Los Únicos 20 Minutos Que Necesitas Para Aprender A Quererte | Walter Riso",
+   "n": 9
+  },
+  {
+   "origen": "viral",
+   "video_id": "wlcH8jCnOoo",
+   "titulo": "🔴 EN VIVO: El Secreto de Jesús para ser verdaderamente Feliz | Misa 1 de Noviembre 🙏",
+   "n": 2
+  },
+  {
+   "origen": "viral",
+   "video_id": "3s2MCa8-h4Y",
+   "titulo": "Cómo Dejar de Depender Emocionalmente de Alguien y Recuperar tu Paz Interior | Gabriel Rolón",
+   "n": 38
+  },
+  {
+   "origen": "viral",
+   "video_id": "P2t3cKSV7uc",
+   "titulo": "Mi hijo me echó de su casa cuando perdí la vista: No aguantarás ni veinticuatro horas ahí fuera...",
    "n": 99
   },
   {
    "origen": "viral",
-   "video_id": "QVQ5L2BCDEI",
-   "titulo": "La Respuesta de 3 Segundos que Detiene las Malas Contestaciones",
-   "n": 50
+   "video_id": "LrxxHb6UsQI",
+   "titulo": "HAZ ESTO Y TODO TE SERÁ AÑADIDO - Mateo 6:33 - Reflexión Cristiana",
+   "n": 94
   },
   {
-   "origen": "viral",
-   "video_id": "OYOZT8PNNpw",
-   "titulo": "6 Señales Ocultas de que una Mujer Quiere Entregarse a Ti | Psicología Femenina",
-   "n": 14
+   "origen": "propio",
+   "video_id": "NaP9YeiIl8c",
+   "titulo": "Lo que sientes y NO dices | En vivo con Germán Moreno",
+   "n": 0
   },
   {
-   "origen": "viral",
-   "video_id": "imMvAaagJV0",
-   "titulo": "10 Frases que los Padres Dicen y que Destruyen la Confianza de sus Hijos",
-   "n": 46
-  },
-  {
-   "origen": "viral",
-   "video_id": "XU_HOfzNvqM",
-   "titulo": "7 Toques Que Harán Que Una Mujer Madura Se Enamore Profundamente de Ti   Psicología Femenina",
-   "n": 6
-  },
-  {
-   "origen": "viral",
-   "video_id": "jevFglqnmg8",
-   "titulo": "ORACIÓN DE LAS 3 AVE MARÍAS | MADRE, GUÍA LOS ESTUDIOS Y EL FUTURO DE MIS HIJOS",
-   "n": 99
-  },
-  {
-   "origen": "viral",
-   "video_id": "uyCczgfcYy0",
-   "titulo": "Así puede reaccionar una mujer cuando se da cuenta de que ya no la persigues | Psicología femenina",
-   "n": 19
-  },
-  {
-   "origen": "viral",
-   "video_id": "pUdwCRJKv30",
-   "titulo": "La Importancia de los Abuelos en la Crianza y el Desarrollo del Bebé",
-   "n": 24
-  },
-  {
-   "origen": "viral",
-   "video_id": "S2k1Squz4TM",
-   "titulo": "ORACIÓN DE LAS 3 AVE MARÍAS | CALMA MI ANSIEDAD Y ACOMPAÑA A LOS QUE ESTÁN SOLOS 🙏🕊️",
-   "n": 99
-  },
-  {
-   "origen": "viral",
-   "video_id": "zpjD_XNwSlo",
-   "titulo": "7  Hábitos de Padres que Crían Hijos que Piensan por Sí Mismos",
-   "n": 25
-  },
-  {
-   "origen": "viral",
-   "video_id": "VaEtQ9UIGqU",
-   "titulo": "EL AMOR QUE ATRAES REFLEJA QUIÉN ERES | Carl Jung y las Heridas Emocionales",
-   "n": 10
-  },
-  {
-   "origen": "viral",
-   "video_id": "kxKbw68ADIo",
-   "titulo": "5 Rutinas Simples Que Hacen Más Inteligente y Seguro a Tu Bebé",
-   "n": 22
+   "origen": "propio",
+   "video_id": "i2kdzP3Wlag",
+   "titulo": "¿Cuándo pediste algo por última vez? #amor #shorts",
+   "n": 0
   },
   {
    "origen": "propio",
@@ -368,18 +385,6 @@
    "video_id": "eg8rqbaKma8",
    "titulo": "La taza rota que valía más que una nueva 🏺 #kintsugi",
    "n": 1
-  },
-  {
-   "origen": "propio",
-   "video_id": "AKjJwI_MhzQ",
-   "titulo": "¿Con quién te tomarías tu último café? ☕#shorts #cafe #amistad",
-   "n": 0
-  },
-  {
-   "origen": "propio",
-   "video_id": "6QOJtEGWMck",
-   "titulo": "El poder del 6: el número del equilibrio | En vivo con Germán Moreno",
-   "n": 0
   }
  ]
 }
