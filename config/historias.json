@@ -701,8 +701,9 @@
    ],
    "id": "salud-comiodurmioytrabajosobre",
    "eje": "salud",
-   "usada": false,
-   "creada": "2026-11-12"
+   "usada": true,
+   "creada": "2026-11-12",
+   "produccion": "20261113-soyintegral_en-he-ate-and-slept-on-a-scale-for-30-years-weight-va"
   },
   {
    "titulo": "Un soldado con un hueco en el estómago… vivió más que su médico",

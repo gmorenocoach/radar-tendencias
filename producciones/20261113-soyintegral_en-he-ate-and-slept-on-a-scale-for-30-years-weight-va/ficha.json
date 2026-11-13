@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Comió, durmió y trabajó sobre una báscula… 30 años",
+  "historia_id": "salud-comiodurmioytrabajosobre",
+  "fuente_historia": "Santorio Santorio, De Statica Medicina (1614); Wikipedia: Santorio Santorio; Encyclopaedia Britannica"
+ },
+ "historia": {
+  "titulo": "Comió, durmió y trabajó sobre una báscula… 30 años",
+  "hecho": "Hacia 1600, en Padua (Italia), el médico Santorio Santorio mandó construir una especie de silla colgada de una balanza gigante. Se sentaba en ella para comer, trabajar y dormir. Se pesaba a sí mismo y pesaba su comida y sus excreciones, y según la tradición lo hizo durante unos treinta años. Publicó sus resultados en 1614, en De Statica Medicina. Esperaba que el peso que perdía coincidiera con lo que veía salir del cuerpo. Pero la cuenta no cerraba: faltaba peso.",
+  "giro": "El cuerpo perdía mucho más peso del que se veía: lo llamó perspiración insensible.",
+  "fuente": "Santorio Santorio, De Statica Medicina (1614); Wikipedia: Santorio Santorio; Encyclopaedia Britannica",
+  "certeza": "alta",
+  "conexion_eje": "Tu cuerpo hace cosas todo el día sin avisarte, y medir un poco ayuda a notarlas.",
+  "gancho": "Este médico comía, trabajaba y dormía sentado en una báscula gigante.",
+  "pregunta_binaria": "¿Obsesión absurda o ciencia visionaria?",
+  "broll": [
+   "antique weighing scale",
+   "renaissance library",
+   "old medical manuscript"
+  ],
+  "id": "salud-comiodurmioytrabajosobre",
+  "eje": "salud",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "Hacia 1600, en Padua (Italia), el médico Santorio Santorio mandó construir una especie de silla colgada de una balanza gigante. Se sentaba en ella para comer, trabajar y dormir. Se pesaba a sí mismo y pesaba su comida y sus excreciones, y según la tradición lo hizo durante unos treinta años. Publicó sus resultados en 1614, en De Statica Medicina. Esperaba que el peso que perdía coincidiera con lo que veía salir del cuerpo. Pero la cuenta no cerraba: faltaba peso.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Este médico comía, trabajaba y dormía sentado en una báscula gigante.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

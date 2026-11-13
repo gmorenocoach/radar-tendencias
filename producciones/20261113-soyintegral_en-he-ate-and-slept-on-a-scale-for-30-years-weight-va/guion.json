@@ -1,0 +1,117 @@
+{
+ "titulo": "He Ate and Slept on a Scale for 30 Years… Weight Vanished",
+ "titulos_alternativos": [
+  "A Doctor Worked on a Giant Scale for 30 Years… and Found a Gap",
+  "He Weighed Every Meal for 30 Years to Chase Missing Weight"
+ ],
+ "descripcion": "Around 1600, in Padua, a physician had a chair built that hung from a giant balance. They say he ate, worked and slept on it for about thirty years, weighing everything. Then his numbers refused to add up.\nSource: Santorio Santorio, De Statica Medicina (1614); Encyclopaedia Britannica.\nAbsurd obsession or visionary science? Tell me in the comments.",
+ "hashtags": [
+  "#history",
+  "#curiosities",
+  "#health",
+  "#bodyawareness",
+  "#sleep",
+  "#wellbeing",
+  "#habits"
+ ],
+ "miniatura": {
+  "texto": "SCALE FOR 30 YEARS",
+  "emocion": "sorpresa",
+  "objeto": "giant antique weighing scale with a chair hanging from it",
+  "pose": "salto_sorpresa"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "This doctor ate, worked and slept sitting on a giant scale.",
+   "emocion": "sorpresa",
+   "objeto": "giant antique scale",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista character jumping in surprise next to a giant antique balance scale, warm café colors",
+   "broll": "antique weighing scale",
+   "segundos": 3,
+   "broll_fuente": "8fd519e19962a181.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Padua, Italy, around 1600. A physician named Santorio Santorio had a strange idea. He had a chair built, hanging from a giant balance.",
+   "emocion": "curiosidad",
+   "objeto": "chair hanging from a balance",
+   "pose": "butaco_tazas",
+   "prompt_visual": "barista character on a stool with coffee cups, behind him a renaissance study with a chair hanging from a giant balance",
+   "broll": "renaissance library",
+   "segundos": 9,
+   "broll_fuente": "481bf0bddfb295e8.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "They say he sat there to eat, to work, even to sleep. He weighed himself. He weighed his food. He weighed what his body let go. For about thirty years.",
+   "emocion": "incredulidad",
+   "objeto": "notebook and plate on the scale",
+   "pose": "senalando",
+   "prompt_visual": "barista character pointing at a plate of food and a notebook placed on a large old scale, soft warm light",
+   "broll": "old medical manuscript",
+   "segundos": 13,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "He expected a simple sum: the weight he lost should match what he saw leave. In 1614 he published his results in De Statica Medicina. But the math did not close. Weight was missing.",
+   "emocion": "tension",
+   "objeto": "open book with numbers",
+   "pose": "agachado",
+   "prompt_visual": "barista character crouching over an open old book full of numbers, puzzled face, candlelight",
+   "broll": "old book pages numbers",
+   "segundos": 12,
+   "broll_fuente": "3225804f3c7a4086.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "The body was losing far more weight than anyone could see. He called it insensible perspiration. Your body works all day, quietly.",
+   "emocion": "asombro",
+   "objeto": "body silhouette with faint vapor",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "barista character with open arms, faint steam rising from a human silhouette like coffee vapor, wonder",
+   "broll": "steam rising slow motion",
+   "segundos": 8,
+   "broll_fuente": "42c30800e574cea7.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Your body does things all day without telling you. Noticing a little can help. If something worries you, talk to a professional.",
+   "emocion": "calidez",
+   "objeto": "coffee cup and notebook",
+   "pose": "butaco_tazas",
+   "prompt_visual": "barista character on a stool with a steaming cup and a small notebook, calm warm kitchen, friendly smile",
+   "broll": "coffee cup notebook morning",
+   "segundos": 8,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "Absurd obsession or visionary science? Tell me in the comments. Subscribe: tomorrow, another story.",
+   "emocion": "alegria",
+   "objeto": "sign with two options",
+   "pose": "letrero",
+   "prompt_visual": "barista character holding a sign with two options, A and B, cheerful, coffee-colored background",
+   "broll": "antique scale balancing",
+   "segundos": 6,
+   "broll_fuente": "a89b9936de26dfe1.mp4"
+  }
+ ],
+ "pregunta_final": "¿Obsesión absurda o ciencia visionaria?",
+ "reto_de_hoy": "¿Obsesión absurda o ciencia visionaria?",
+ "ganchos_alternativos": [
+  "For thirty years, this doctor never left his scale, not even to sleep.",
+  "He weighed his meals, his body and his sleep. Then the numbers refused to add up.",
+  "Imagine eating dinner on a giant scale. He did it for about thirty years."
+ ],
+ "palabras": 156,
+ "canal": "soyintegral",
+ "color": "#2E8B57",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "salud-comiodurmioytrabajosobre",
+ "visual": "broll"
+}
