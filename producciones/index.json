@@ -1,6 +1,63 @@
 {
- "actualizado": "2026-11-13T02:43:20",
+ "actualizado": "2026-11-13T02:47:45",
  "producciones": [
+  {
+   "id": "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-",
+   "perfil": "soyintegral_en",
+   "canal": "Soy Integral · Salud (EN)",
+   "fecha": "2026-11-13T02:47:45",
+   "titulo": "A teen skipped sleep for 11 days while scientists watched…",
+   "titulos_alternativos": [
+    "Stanford's sleep expert watched a teen stay up 11 days…",
+    "11 days without sleep, and no breakdown. Then he slept"
+   ],
+   "descripcion": "In 1963, a 17-year-old in San Diego decided to skip sleep for a science fair, and a Stanford sleep researcher came to watch.\nWhat happened when he finally lay down is not what most people expected.\nSource: William Dement, The Promise of Sleep (1999); Stanford Medicine. This is not medical advice: if you sleep badly often, talk to a professional.\nIs sleep a need, or a habit you can train? A or B? I'm reading you.\n\n#historia #curiosidades #sleep #sleepscience #health #wellness #habits",
+   "hashtags": [
+    "#historia",
+    "#curiosidades",
+    "#sleep",
+    "#sleepscience",
+    "#health",
+    "#wellness",
+    "#habits"
+   ],
+   "reto_de_hoy": "Is sleep a need, or a habit you can train? A or B?",
+   "duracion_s": 60.8,
+   "tamano_mb": 30.4,
+   "fuente": {
+    "tema": "Un estudiante pasó 11 días sin dormir… y no se volvió loco",
+    "historia_id": "salud-unestudiantepaso11diassi",
+    "fuente_historia": "William Dement, The Promise of Sleep (1999); Wikipedia: Randy Gardner (record holder); Stanford Medicine"
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "historia",
+   "visual": "broll",
+   "archivos": {
+    "video": "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/short.mp4",
+    "miniatura": "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/miniatura.jpg",
+    "miniatura_16x9": "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/miniatura_16x9.jpg",
+    "guion": "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/guion.json",
+    "ficha": "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/ficha.json",
+    "miniaturas": [
+     "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/miniatura.jpg",
+     "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/miniatura_16x9.jpg",
+     "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/miniatura_16x9_oscura.jpg",
+     "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/miniatura_16x9_rostro.jpg",
+     "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/miniatura_oscura_9x16.jpg",
+     "20261113-soyintegral_en-a-teen-skipped-sleep-for-11-days-while-scientists-/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "",
+   "ganchos_alternativos": [
+    "A 17-year-old refused to sleep for science. It lasted eleven days.",
+    "Eleven days, no sleep, one teenager. Everyone waited for a breakdown.",
+    "He skipped sleep for a school project. Stanford showed up to watch."
+   ],
+   "comentario_fijado": "Is sleep a need, or a habit you can train? A or B? Te leo 👇 Escribe SALUD y te mando la fuente y la historia completa.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
   {
    "id": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-",
    "perfil": "soyintegral_en",
