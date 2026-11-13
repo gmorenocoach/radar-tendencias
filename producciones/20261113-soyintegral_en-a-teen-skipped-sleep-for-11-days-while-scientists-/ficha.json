@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Un estudiante pasó 11 días sin dormir… y no se volvió loco",
+  "historia_id": "salud-unestudiantepaso11diassi",
+  "fuente_historia": "William Dement, The Promise of Sleep (1999); Wikipedia: Randy Gardner (record holder); Stanford Medicine"
+ },
+ "historia": {
+  "titulo": "Un estudiante pasó 11 días sin dormir… y no se volvió loco",
+  "hecho": "Entre diciembre de 1963 y enero de 1964, en San Diego (California), Randy Gardner, de 17 años, decidió pasar un proyecto de feria de ciencias sin dormir. Sus amigos Bruce McAllister y Joe Marciano lo ayudaron a mantenerse despierto. El investigador del sueño William Dement, de Stanford, se sumó para observarlo. Gardner aguantó 264 horas, unos once días, y tuvo problemas de memoria, concentración y humor. Muchos esperaban que sufriera un colapso mental grave. Al terminar durmió unas 14 horas y 40 minutos, y después volvió a un ritmo normal.",
+  "giro": "No tuvo que devolver las horas una por una: durmió unas 14 y se recuperó, pero Dement desaconsejó repetirlo.",
+  "fuente": "William Dement, The Promise of Sleep (1999); Wikipedia: Randy Gardner (record holder); Stanford Medicine",
+  "certeza": "alta",
+  "conexion_eje": "El sueño no es una deuda que se paga hora por hora, pero tampoco es algo para ponerse a prueba: si duermes mal seguido, habla con un profesional.",
+  "gancho": "Un chico de 17 años pasó once días sin dormir. Los científicos miraban.",
+  "pregunta_binaria": "¿Dormir es una necesidad o un hábito que se puede entrenar?",
+  "broll": [
+   "sleepless night bed",
+   "1960s sleep laboratory",
+   "alarm clock night"
+  ],
+  "id": "salud-unestudiantepaso11diassi",
+  "eje": "salud",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "Entre diciembre de 1963 y enero de 1964, en San Diego (California), Randy Gardner, de 17 años, decidió pasar un proyecto de feria de ciencias sin dormir. Sus amigos Bruce McAllister y Joe Marciano lo ayudaron a mantenerse despierto. El investigador del sueño William Dement, de Stanford, se sumó para observarlo. Gardner aguantó 264 horas, unos once días, y tuvo problemas de memoria, concentración y humor. Muchos esperaban que sufriera un colapso mental grave. Al terminar durmió unas 14 horas y 40 minutos, y después volvió a un ritmo normal.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Un chico de 17 años pasó once días sin dormir. Los científicos miraban.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

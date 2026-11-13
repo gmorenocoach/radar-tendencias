@@ -1,0 +1,59 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00578B2E,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.80,Sub,,0,0,0,,{\k65}ELEVEN {\k37}DAYS {\k78}AWAKE.
+Dialogue: 0,0:00:01.80,0:00:03.54,Sub,,0,0,0,,{\k74}SCIENTISTS {\k80}WATCHED. {\k20}THEY
+Dialogue: 0,0:00:03.54,0:00:04.24,Sub,,0,0,0,,{\k19}SAY {\k10}IT {\k41}BEGAN
+Dialogue: 0,0:00:04.24,0:00:05.13,Sub,,0,0,0,,{\k14}IN {\k25}SAN {\k50}DIEGO,
+Dialogue: 0,0:00:05.13,0:00:08.03,Sub,,0,0,0,,{\k52}DECEMBER {\k188}1963. {\k50}RANDY
+Dialogue: 0,0:00:08.03,0:00:09.69,Sub,,0,0,0,,{\k58}GARDNER, {\k77}SEVENTEEN, {\k31}NEEDED
+Dialogue: 0,0:00:09.69,0:00:10.59,Sub,,0,0,0,,{\k9}A {\k51}SCIENCE {\k29}FAIR
+Dialogue: 0,0:00:10.59,0:00:12.32,Sub,,0,0,0,,{\k81}PROJECT. {\k26}HIS {\k66}PLAN:
+Dialogue: 0,0:00:12.32,0:00:13.72,Sub,,0,0,0,,{\k39}SKIP {\k79}SLEEP. {\k22}HIS
+Dialogue: 0,0:00:13.72,0:00:15.06,Sub,,0,0,0,,{\k35}FRIENDS {\k31}BRUCE {\k67}MCALLISTER
+Dialogue: 0,0:00:15.06,0:00:16.30,Sub,,0,0,0,,{\k20}AND {\k27}JOE {\k78}MARCIANO
+Dialogue: 0,0:00:16.30,0:00:17.03,Sub,,0,0,0,,{\k27}HELPED {\k15}HIM {\k31}STAY
+Dialogue: 0,0:00:17.03,0:00:18.75,Sub,,0,0,0,,{\k73}UP. {\k38}SLEEP {\k60}RESEARCHER
+Dialogue: 0,0:00:18.75,0:00:19.80,Sub,,0,0,0,,{\k41}WILLIAM {\k43}DEMENT, {\k21}FROM
+Dialogue: 0,0:00:19.80,0:00:20.68,Sub,,0,0,0,,{\k52}STANFORD, {\k22}CAME {\k14}TO
+Dialogue: 0,0:00:20.68,0:00:22.33,Sub,,0,0,0,,{\k99}OBSERVE. {\k15}THE {\k51}CLOCK
+Dialogue: 0,0:00:22.33,0:00:23.82,Sub,,0,0,0,,{\k42}KEPT {\k91}TICKING. {\k17}HE
+Dialogue: 0,0:00:23.82,0:00:26.59,Sub,,0,0,0,,{\k49}LASTED {\k147}264 {\k80}HOURS.
+Dialogue: 0,0:00:26.59,0:00:28.45,Sub,,0,0,0,,{\k51}MEMORY {\k80}SLIPPED. {\k55}FOCUS
+Dialogue: 0,0:00:28.45,0:00:29.83,Sub,,0,0,0,,{\k72}FADED. {\k28}HIS {\k38}MOOD
+Dialogue: 0,0:00:29.83,0:00:31.63,Sub,,0,0,0,,{\k94}WOBBLED. {\k34}MANY {\k52}EXPECTED
+Dialogue: 0,0:00:31.63,0:00:32.75,Sub,,0,0,0,,{\k14}A {\k60}SERIOUS {\k38}MENTAL
+Dialogue: 0,0:00:32.75,0:00:34.11,Sub,,0,0,0,,{\k101}COLLAPSE. {\k23}THEN {\k12}HE
+Dialogue: 0,0:00:34.11,0:00:35.31,Sub,,0,0,0,,{\k35}SLEPT {\k31}ABOUT {\k53}FOURTEEN
+Dialogue: 0,0:00:35.31,0:00:36.19,Sub,,0,0,0,,{\k38}HOURS {\k16}AND {\k34}FORTY
+Dialogue: 0,0:00:36.19,0:00:37.66,Sub,,0,0,0,,{\k80}MINUTES. {\k25}NOT {\k42}ELEVEN
+Dialogue: 0,0:00:37.66,0:00:38.59,Sub,,0,0,0,,{\k42}DAYS {\k12}OF {\k39}CATCHING
+Dialogue: 0,0:00:38.59,0:00:40.11,Sub,,0,0,0,,{\k82}UP. {\k34}AFTER {\k36}THAT,
+Dialogue: 0,0:00:40.11,0:00:41.06,Sub,,0,0,0,,{\k23}HIS {\k35}RHYTHM {\k37}RETURNED
+Dialogue: 0,0:00:41.06,0:00:42.56,Sub,,0,0,0,,{\k13}TO {\k84}NORMAL. {\k53}DEMENT
+Dialogue: 0,0:00:42.56,0:00:43.68,Sub,,0,0,0,,{\k29}STILL {\k51}ADVISED {\k31}AGAINST
+Dialogue: 0,0:00:43.68,0:00:45.22,Sub,,0,0,0,,{\k45}REPEATING {\k55}IT. {\k54}SLEEP
+Dialogue: 0,0:00:45.22,0:00:45.93,Sub,,0,0,0,,{\k34}ISN'T {\k8}A {\k29}DEBT
+Dialogue: 0,0:00:45.93,0:00:46.70,Sub,,0,0,0,,{\k19}YOU {\k26}PAY {\k32}BACK
+Dialogue: 0,0:00:46.70,0:00:47.77,Sub,,0,0,0,,{\k33}HOUR {\k20}BY {\k56}HOUR.
+Dialogue: 0,0:00:47.77,0:00:48.34,Sub,,0,0,0,,{\k19}BUT {\k17}IT'S {\k21}NO
+Dialogue: 0,0:00:48.34,0:00:49.75,Sub,,0,0,0,,{\k42}TEST {\k83}EITHER. {\k16}IF
+Dialogue: 0,0:00:49.75,0:00:50.63,Sub,,0,0,0,,{\k13}YOU {\k31}SLEEP {\k44}BADLY
+Dialogue: 0,0:00:50.63,0:00:51.59,Sub,,0,0,0,,{\k51}OFTEN, {\k31}TALK {\k14}TO
+Dialogue: 0,0:00:51.59,0:00:52.79,Sub,,0,0,0,,{\k7}A {\k92}PROFESSIONAL. {\k21}IS
+Dialogue: 0,0:00:52.79,0:00:53.67,Sub,,0,0,0,,{\k34}SLEEP {\k14}A {\k41}NEED,
+Dialogue: 0,0:00:53.67,0:00:54.22,Sub,,0,0,0,,{\k15}OR {\k9}A {\k30}HABIT
+Dialogue: 0,0:00:54.22,0:00:55.17,Sub,,0,0,0,,{\k12}YOU {\k15}CAN {\k69}TRAIN?
+Dialogue: 0,0:00:55.17,0:00:56.55,Sub,,0,0,0,,{\k30}A {\k20}OR {\k88}B?
+Dialogue: 0,0:00:56.55,0:00:57.80,Sub,,0,0,0,,{\k20}I'M {\k31}READING {\k73}YOU.
+Dialogue: 0,0:00:57.80,0:00:59.67,Sub,,0,0,0,,{\k118}SUBSCRIBE: {\k46}TOMORROW {\k23}THERE'S
+Dialogue: 0,0:00:59.67,0:01:00.84,Sub,,0,0,0,,{\k35}ANOTHER {\k81}STORY.

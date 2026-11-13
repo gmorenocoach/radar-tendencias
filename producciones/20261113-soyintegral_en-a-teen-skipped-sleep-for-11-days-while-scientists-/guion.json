@@ -1,0 +1,117 @@
+{
+ "titulo": "A teen skipped sleep for 11 days while scientists watched…",
+ "titulos_alternativos": [
+  "Stanford's sleep expert watched a teen stay up 11 days…",
+  "11 days without sleep, and no breakdown. Then he slept"
+ ],
+ "descripcion": "In 1963, a 17-year-old in San Diego decided to skip sleep for a science fair, and a Stanford sleep researcher came to watch.\nWhat happened when he finally lay down is not what most people expected.\nSource: William Dement, The Promise of Sleep (1999); Stanford Medicine. This is not medical advice: if you sleep badly often, talk to a professional.\nIs sleep a need, or a habit you can train? A or B? I'm reading you.",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#sleep",
+  "#sleepscience",
+  "#health",
+  "#wellness",
+  "#habits"
+ ],
+ "miniatura": {
+  "texto": "11 DAYS AWAKE",
+  "emocion": "sorpresa",
+  "objeto": "alarm clock and coffee cup",
+  "pose": "salto_sorpresa"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Eleven days awake. Scientists watched.",
+   "emocion": "asombro",
+   "objeto": "alarm clock",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "wide-eyed cartoon barista holding a giant alarm clock at night, bold colors",
+   "broll": "alarm clock night",
+   "segundos": 3,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "They say it began in San Diego, December 1963. Randy Gardner, seventeen, needed a science fair project. His plan: skip sleep.",
+   "emocion": "curiosidad",
+   "objeto": "science fair board",
+   "pose": "senalando",
+   "prompt_visual": "1960s California teen pointing at a science fair poster, warm retro tones",
+   "broll": "1960s science fair",
+   "segundos": 9,
+   "broll_fuente": "60b7a1015b440781.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "His friends Bruce McAllister and Joe Marciano helped him stay up. Sleep researcher William Dement, from Stanford, came to observe. The clock kept ticking.",
+   "emocion": "expectación",
+   "objeto": "cups of coffee",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista on a stool with many coffee cups, two friends and a researcher with a notebook in the background",
+   "broll": "1960s sleep laboratory",
+   "segundos": 12,
+   "broll_fuente": "26748cf683e4ace5.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "He lasted 264 hours. Memory slipped. Focus faded. His mood wobbled. Many expected a serious mental collapse.",
+   "emocion": "tensión",
+   "objeto": "notebook with blurry notes",
+   "pose": "triste_acostado",
+   "prompt_visual": "tired cartoon barista lying down with heavy eyelids, scribbled notebook and clock spinning",
+   "broll": "sleepless night bed",
+   "segundos": 9,
+   "broll_fuente": "2aa65fda481fbe78.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Then he slept about fourteen hours and forty minutes. Not eleven days of catching up. After that, his rhythm returned to normal. Dement still advised against repeating it.",
+   "emocion": "sorpresa",
+   "objeto": "bed and clock",
+   "pose": "cambio",
+   "prompt_visual": "cartoon barista flipping a sign from awake to asleep, cozy bed with a moon, calm blue palette",
+   "broll": "person sleeping peacefully",
+   "segundos": 10,
+   "broll_fuente": "b90f31c16881cd26.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Sleep isn't a debt you pay back hour by hour. But it's no test either. If you sleep badly often, talk to a professional.",
+   "emocion": "calidez",
+   "objeto": "coffee cup and pillow",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "warm cartoon barista with open arms next to a steaming cup and a soft pillow",
+   "broll": "bedroom morning light",
+   "segundos": 8,
+   "broll_fuente": "f2bf36b6ac5ea972.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "Is sleep a need, or a habit you can train? A or B? I'm reading you. Subscribe: tomorrow there's another story.",
+   "emocion": "complicidad",
+   "objeto": "sign with A or B",
+   "pose": "letrero",
+   "prompt_visual": "cartoon barista holding a sign with A and B options, coffee cup beside, friendly smile",
+   "broll": "coffee cup morning",
+   "segundos": 8,
+   "broll_fuente": "b6b2f8ce7abd660b.mp4"
+  }
+ ],
+ "pregunta_final": "Is sleep a need, or a habit you can train? A or B?",
+ "reto_de_hoy": "Is sleep a need, or a habit you can train? A or B?",
+ "ganchos_alternativos": [
+  "A 17-year-old refused to sleep for science. It lasted eleven days.",
+  "Eleven days, no sleep, one teenager. Everyone waited for a breakdown.",
+  "He skipped sleep for a school project. Stanford showed up to watch."
+ ],
+ "palabras": 140,
+ "canal": "soyintegral",
+ "color": "#2E8B57",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "salud-unestudiantepaso11diassi",
+ "visual": "broll"
+}
