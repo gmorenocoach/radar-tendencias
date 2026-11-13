@@ -70,7 +70,7 @@ def claude(system, user, max_tokens=4000, json_out=True, mock=None, _intento=0, 
     if pensar:   # razonamiento adaptativo con espacio garantizado para la respuesta
         body["thinking"] = {"type": "adaptive"}; body["max_tokens"] = max(max_tokens, int(pensar) + 8000)
     else:        # sin razonamiento: toda la salida es la respuesta (evita respuestas vacías por max_tokens)
-        body["thinking"] = {"type": "disabled"}
+        body["thinking"] = {"type": "between_tools"}
     for intento in range(3):
         r = requests.post("https://api.anthropic.com/v1/messages", json=body, timeout=180,
                           headers={"x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})

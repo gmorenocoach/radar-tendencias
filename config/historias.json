@@ -682,9 +682,9 @@
    ],
    "id": "salud-bebiounvasodebacteriasye",
    "eje": "salud",
-   "usada": true,
+   "usada": false,
    "creada": "2026-11-12",
-   "produccion": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-"
+   "produccion_en": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-"
   },
   {
    "titulo": "Comió, durmió y trabajó sobre una báscula… 30 años",
