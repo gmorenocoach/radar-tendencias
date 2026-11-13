@@ -1,6 +1,63 @@
 {
- "actualizado": "2026-11-13T02:38:07",
+ "actualizado": "2026-11-13T02:43:20",
  "producciones": [
+  {
+   "id": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-",
+   "perfil": "soyintegral_en",
+   "canal": "Soy Integral · Salud (EN)",
+   "fecha": "2026-11-13T02:43:20",
+   "titulo": "Bebió bacterias a propósito… y el estrés no era el culpable",
+   "titulos_alternativos": [
+    "Un médico bebió bacterias a propósito y ganó un Nobel",
+    "Todos culpaban al estrés; él se bebió la prueba"
+   ],
+   "descripcion": "Perth, 1984. Un médico sospecha de una bacteria, nadie le cree y decide probarlo con su propio cuerpo. Cuentan que lo que pasó después cambió lo que se creía sobre el estómago.\nFuente: Nobel Prize (Medicina 2005); Marshall et al., Medical Journal of Australia, 1985.\n¿Genio valiente o imprudente con suerte? Te leo.\n\n#historia #curiosidades #salud #estres #bienestar #medicina #nobel",
+   "hashtags": [
+    "#historia",
+    "#curiosidades",
+    "#salud",
+    "#estres",
+    "#bienestar",
+    "#medicina",
+    "#nobel"
+   ],
+   "reto_de_hoy": "¿Genio valiente o imprudente con suerte?",
+   "duracion_s": 67.9,
+   "tamano_mb": 24.5,
+   "fuente": {
+    "tema": "Bebió un vaso de bacterias… y el estrés no era el culpable",
+    "historia_id": "salud-bebiounvasodebacteriasye",
+    "fuente_historia": "Nobel Prize (Medicina 2005, nobelprize.org); Marshall et al., Medical Journal of Australia, 1985; Wikipedia: Barry Marshall"
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "historia",
+   "visual": "broll",
+   "archivos": {
+    "video": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/short.mp4",
+    "miniatura": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/miniatura.jpg",
+    "miniatura_16x9": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/miniatura_16x9.jpg",
+    "guion": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/guion.json",
+    "ficha": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/ficha.json",
+    "miniaturas": [
+     "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/miniatura.jpg",
+     "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/miniatura_16x9.jpg",
+     "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/miniatura_16x9_oscura.jpg",
+     "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/miniatura_16x9_rostro.jpg",
+     "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/miniatura_oscura_9x16.jpg",
+     "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "",
+   "ganchos_alternativos": [
+    "Un médico se tomó un vaso de bacterias y después lo celebró.",
+    "Todos culpaban al estrés, hasta que alguien se bebió la prueba.",
+    "Para que le creyeran, tuvo que enfermarse a propósito."
+   ],
+   "comentario_fijado": "¿Genio valiente o imprudente con suerte? Te leo 👇 Escribe SALUD y te mando la fuente y la historia completa.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
   {
    "id": "20261113-soyintegral_en-he-ate-and-slept-on-a-scale-for-30-years-weight-va",
    "perfil": "soyintegral_en",
