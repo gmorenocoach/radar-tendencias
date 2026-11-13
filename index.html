@@ -276,11 +276,12 @@ async function renderHistorias(perfilId){
   const eje={equilibrate:'amor',mitribu:'dinero',soyintegral:'salud'}[perfilId.split('_')[0]];
   const hs=((h&&h.historias)||[]).filter(x=>x.eje===eje);
   if(!hs.length){ el.innerHTML=`<div class="serie"><h3>📖 Banco de historias reales</h3><div class="empty">Sin historias para este eje. Genera el banco con Actions → «Banco de historias reales».</div></div>`; return; }
-  el.innerHTML=`<details class="serie"><summary style="cursor:pointer;font-weight:600">📖 Banco de historias reales · ${hs.filter(x=>!x.usada).length} disponibles de ${hs.length}</summary>
+  const enIngles=perfilId.endsWith('_en');
+  el.innerHTML=`<details class="serie"><summary style="cursor:pointer;font-weight:600">📖 Banco de historias reales · ${hs.filter(x=>!x.usada).length} disponibles de ${hs.length} · se producirán para <b>${esc(perfilId)}</b>${enIngles?' ⚠ EN INGLÉS (cambia el perfil arriba si quieres español)':''}</summary>
     <table style="margin-top:8px"><thead><tr><th></th><th>Historia</th><th>Giro</th><th>Fuente</th><th>Certeza</th><th></th></tr></thead><tbody>
     ${hs.map(x=>`<tr style="${x.usada?'opacity:.55':''}"><td>${x.usada?'✓':''}</td><td><b>${esc(x.titulo)}</b><br><span style="color:var(--muted);font-size:12px">${esc(x.gancho||'')}</span></td><td style="font-size:12px">${esc(x.giro||'')}</td><td style="font-size:12px">${esc(x.fuente||'')}</td><td><span class="tag ${x.certeza==='alta'?'ok':''}">${esc(x.certeza||'')}</span></td>
       <td>${x.usada?`<span class="tag">${esc(x.produccion||'usada')}</span>`:`<button class="tag btn" data-historia="${esc(x.id)}">⚙ producir</button>`}</td></tr>`).join('')}</tbody></table></details>`;
-  el.querySelectorAll('button[data-historia]').forEach(b=>b.onclick=()=>lanzarFabrica({perfil:perfilId,historia:b.dataset.historia,formato:'historia',visual:'broll',tipo:'atraccion'},b,'⏳ en 3–4 min en Producciones'));
+  el.querySelectorAll('button[data-historia]').forEach(b=>b.onclick=()=>{ if(enIngles&&!confirm('El perfil seleccionado es en INGLÉS ('+perfilId+'). ¿Producir la historia en inglés?')) return; lanzarFabrica({perfil:perfilId,historia:b.dataset.historia,formato:'historia',visual:'broll',tipo:'atraccion'},b,'⏳ en 3–4 min en Producciones'); });
 }
 
 async function lanzarFabrica(inputs, b, okTxt){
