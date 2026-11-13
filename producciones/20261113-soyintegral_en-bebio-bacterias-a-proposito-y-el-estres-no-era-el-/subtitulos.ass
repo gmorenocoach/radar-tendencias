@@ -1,0 +1,65 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00578B2E,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.79,Sub,,0,0,0,,{\k21}SE {\k43}BEBIÓ {\k15}UN
+Dialogue: 0,0:00:00.79,0:00:02.55,Sub,,0,0,0,,{\k35}VASO {\k10}DE {\k131}BACTERIAS.
+Dialogue: 0,0:00:02.55,0:00:04.16,Sub,,0,0,0,,{\k14}A {\k100}PROPÓSITO. {\k46}CUENTAN
+Dialogue: 0,0:00:04.16,0:00:06.48,Sub,,0,0,0,,{\k15}QUE {\k17}EN {\k200}1984,
+Dialogue: 0,0:00:06.48,0:00:08.12,Sub,,0,0,0,,{\k23}EN {\k60}PERTH, {\k80}AUSTRALIA,
+Dialogue: 0,0:00:08.12,0:00:09.16,Sub,,0,0,0,,{\k17}EL {\k45}MÉDICO {\k42}BARRY
+Dialogue: 0,0:00:09.16,0:00:10.59,Sub,,0,0,0,,{\k55}MARSHALL {\k72}SOSPECHABA {\k16}DE
+Dialogue: 0,0:00:10.59,0:00:12.65,Sub,,0,0,0,,{\k26}UNA {\k91}BACTERIA: {\k91}HELICOBACTER
+Dialogue: 0,0:00:12.65,0:00:14.55,Sub,,0,0,0,,{\k121}PYLORI. {\k36}CASI {\k33}TODOS
+Dialogue: 0,0:00:14.55,0:00:15.71,Sub,,0,0,0,,{\k55}CULPABAN {\k13}AL {\k49}ESTRÉS
+Dialogue: 0,0:00:15.71,0:00:16.48,Sub,,0,0,0,,{\k11}Y {\k14}AL {\k52}PICANTE
+Dialogue: 0,0:00:16.48,0:00:17.55,Sub,,0,0,0,,{\k10}DE {\k20}LAS {\k78}ÚLCERAS.
+Dialogue: 0,0:00:17.55,0:00:18.54,Sub,,0,0,0,,{\k44}NADIE {\k13}LE {\k42}HACÍA
+Dialogue: 0,0:00:18.54,0:00:20.04,Sub,,0,0,0,,{\k94}CASO. {\k23}SUS {\k33}PRUEBAS
+Dialogue: 0,0:00:20.04,0:00:21.19,Sub,,0,0,0,,{\k15}CON {\k74}ANIMALES {\k25}NO
+Dialogue: 0,0:00:21.19,0:00:22.61,Sub,,0,0,0,,{\k103}CONVENCÍAN. {\k25}ASÍ {\k13}QUE
+Dialogue: 0,0:00:22.61,0:00:23.41,Sub,,0,0,0,,{\k50}COMPROBÓ {\k19}CON {\k12}UNA
+Dialogue: 0,0:00:23.41,0:00:24.34,Sub,,0,0,0,,{\k69}ENDOSCOPIA {\k12}QUE {\k13}SU
+Dialogue: 0,0:00:24.34,0:00:25.77,Sub,,0,0,0,,{\k48}ESTÓMAGO {\k43}ESTABA {\k53}SANO
+Dialogue: 0,0:00:25.77,0:00:26.40,Sub,,0,0,0,,{\k15}Y {\k12}SE {\k36}BEBIÓ
+Dialogue: 0,0:00:26.40,0:00:27.34,Sub,,0,0,0,,{\k12}UN {\k64}CULTIVO {\k19}DE
+Dialogue: 0,0:00:27.34,0:00:28.87,Sub,,0,0,0,,{\k27}ESA {\k113}BACTERIA. {\k14}A
+Dialogue: 0,0:00:28.87,0:00:30.26,Sub,,0,0,0,,{\k26}LOS {\k42}POCOS {\k71}DÍAS,
+Dialogue: 0,0:00:30.26,0:00:32.15,Sub,,0,0,0,,{\k95}NÁUSEAS, {\k77}VÓMITOS {\k17}Y
+Dialogue: 0,0:00:32.15,0:00:33.88,Sub,,0,0,0,,{\k26}MAL {\k115}ALIENTO. {\k33}OTRA
+Dialogue: 0,0:00:33.88,0:00:35.96,Sub,,0,0,0,,{\k62}ENDOSCOPIA {\k44}MOSTRÓ {\k102}GASTRITIS,
+Dialogue: 0,0:00:35.96,0:00:36.75,Sub,,0,0,0,,{\k17}CON {\k10}LA {\k51}BACTERIA
+Dialogue: 0,0:00:36.75,0:00:38.73,Sub,,0,0,0,,{\k110}PRESENTE. {\k21}SU {\k67}ESTÓMAGO
+Dialogue: 0,0:00:38.73,0:00:39.31,Sub,,0,0,0,,{\k15}LE {\k30}DABA {\k13}LA
+Dialogue: 0,0:00:39.31,0:00:40.41,Sub,,0,0,0,,{\k73}RAZÓN, {\k21}A {\k16}SU
+Dialogue: 0,0:00:40.41,0:00:42.53,Sub,,0,0,0,,{\k85}MANERA. {\k34}TOMÓ {\k93}ANTIBIÓTICOS
+Dialogue: 0,0:00:42.53,0:00:43.83,Sub,,0,0,0,,{\k12}Y {\k14}SE {\k105}RECUPERÓ.
+Dialogue: 0,0:00:43.83,0:00:44.86,Sub,,0,0,0,,{\k19}EL {\k58}ESTRÉS {\k27}NO
+Dialogue: 0,0:00:44.86,0:00:45.56,Sub,,0,0,0,,{\k20}ERA {\k13}LA {\k37}CAUSA
+Dialogue: 0,0:00:45.56,0:00:47.11,Sub,,0,0,0,,{\k100}PRINCIPAL: {\k31}ERA {\k24}UNA
+Dialogue: 0,0:00:47.11,0:00:48.99,Sub,,0,0,0,,{\k58}BACTERIA {\k109}TRATABLE. {\k21}EN
+Dialogue: 0,0:00:48.99,0:00:50.37,Sub,,0,0,0,,{\k81}2005 {\k38}GANÓ {\k18}EL
+Dialogue: 0,0:00:50.37,0:00:51.40,Sub,,0,0,0,,{\k36}NOBEL {\k9}DE {\k58}MEDICINA
+Dialogue: 0,0:00:51.40,0:00:52.91,Sub,,0,0,0,,{\k27}CON {\k37}ROBIN {\k87}WARREN.
+Dialogue: 0,0:00:52.91,0:00:53.57,Sub,,0,0,0,,{\k13}A {\k40}VECES {\k14}LE
+Dialogue: 0,0:00:53.57,0:00:54.52,Sub,,0,0,0,,{\k46}ECHAMOS {\k12}AL {\k37}ESTRÉS
+Dialogue: 0,0:00:54.52,0:00:55.18,Sub,,0,0,0,,{\k12}LA {\k37}CULPA {\k17}DE
+Dialogue: 0,0:00:55.18,0:00:55.79,Sub,,0,0,0,,{\k35}TODO {\k13}LO {\k13}QUE
+Dialogue: 0,0:00:55.79,0:00:56.84,Sub,,0,0,0,,{\k58}DUELE. {\k23}SI {\k24}ALGO
+Dialogue: 0,0:00:56.84,0:00:57.87,Sub,,0,0,0,,{\k12}TE {\k48}MOLESTA, {\k43}PREGUNTA
+Dialogue: 0,0:00:57.87,0:00:58.54,Sub,,0,0,0,,{\k7}A {\k15}TU {\k45}MÉDICO
+Dialogue: 0,0:00:58.54,0:00:59.26,Sub,,0,0,0,,{\k20}QUÉ {\k23}MÁS {\k29}PUEDE
+Dialogue: 0,0:00:59.26,0:01:00.62,Sub,,0,0,0,,{\k60}SER. {\k57}ESTO {\k19}NO
+Dialogue: 0,0:01:00.62,0:01:02.14,Sub,,0,0,0,,{\k13}LO {\k98}IMITES. {\k42}¿GENIO
+Dialogue: 0,0:01:02.14,0:01:03.48,Sub,,0,0,0,,{\k65}VALIENTE {\k15}O {\k55}IMPRUDENTE
+Dialogue: 0,0:01:03.48,0:01:04.38,Sub,,0,0,0,,{\k16}CON {\k56}SUERTE? {\k17}TE
+Dialogue: 0,0:01:04.38,0:01:06.82,Sub,,0,0,0,,{\k73}LEO. {\k106}SUSCRÍBETE: {\k65}MAÑANA
+Dialogue: 0,0:01:06.82,0:01:07.94,Sub,,0,0,0,,{\k21}HAY {\k21}OTRA {\k71}HISTORIA.

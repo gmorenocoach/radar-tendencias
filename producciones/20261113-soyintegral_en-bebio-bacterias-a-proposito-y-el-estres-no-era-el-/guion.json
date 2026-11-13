@@ -1,0 +1,117 @@
+{
+ "titulo": "Bebió bacterias a propósito… y el estrés no era el culpable",
+ "titulos_alternativos": [
+  "Un médico bebió bacterias a propósito y ganó un Nobel",
+  "Todos culpaban al estrés; él se bebió la prueba"
+ ],
+ "descripcion": "Perth, 1984. Un médico sospecha de una bacteria, nadie le cree y decide probarlo con su propio cuerpo. Cuentan que lo que pasó después cambió lo que se creía sobre el estómago.\nFuente: Nobel Prize (Medicina 2005); Marshall et al., Medical Journal of Australia, 1985.\n¿Genio valiente o imprudente con suerte? Te leo.",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#salud",
+  "#estres",
+  "#bienestar",
+  "#medicina",
+  "#nobel"
+ ],
+ "miniatura": {
+  "texto": "VASO DE BACTERIAS",
+  "emocion": "sorpresa",
+  "objeto": "taza con líquido turbio",
+  "pose": "salto_sorpresa"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Se bebió un vaso de bacterias. A propósito.",
+   "emocion": "sorpresa",
+   "objeto": "taza con líquido turbio",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista character jumping in surprise holding a cup of cloudy liquid, warm cafe background",
+   "broll": "petri dish bacteria",
+   "segundos": 3,
+   "broll_fuente": "46da8357e4b29d1e.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que en 1984, en Perth, Australia, el médico Barry Marshall sospechaba de una bacteria: Helicobacter pylori. Casi todos culpaban al estrés y al picante de las úlceras.",
+   "emocion": "curiosidad",
+   "objeto": "cuaderno con apuntes",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista sitting on a stool with coffee cups, notebook with stomach sketches, 1980s Australian city mood",
+   "broll": "vintage hospital corridor",
+   "segundos": 9,
+   "broll_fuente": "481bf0bddfb295e8.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Nadie le hacía caso. Sus pruebas con animales no convencían. Así que comprobó con una endoscopia que su estómago estaba sano y se bebió un cultivo de esa bacteria.",
+   "emocion": "determinación",
+   "objeto": "vaso con cultivo",
+   "pose": "agachado",
+   "prompt_visual": "cartoon character crouching over a lab table looking at a glass with cloudy culture, determined face, retro laboratory",
+   "broll": "laboratory petri dish",
+   "segundos": 11,
+   "broll_fuente": "46da8357e4b29d1e.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "A los pocos días, náuseas, vómitos y mal aliento. Otra endoscopia mostró gastritis, con la bacteria presente. Su estómago le daba la razón, a su manera.",
+   "emocion": "malestar",
+   "objeto": "almohada y bolsa de hielo",
+   "pose": "triste_acostado",
+   "prompt_visual": "cartoon character lying down holding stomach with a queasy face, soft dim room, cup on nightstand",
+   "broll": "stomach endoscopy",
+   "segundos": 9,
+   "broll_fuente": "f184d4f9ccd79f4c.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Tomó antibióticos y se recuperó. El estrés no era la causa principal: era una bacteria tratable. En 2005 ganó el Nobel de Medicina con Robin Warren.",
+   "emocion": "alivio",
+   "objeto": "medalla Nobel",
+   "pose": "cambio",
+   "prompt_visual": "cartoon barista character transforming from tired to proud, golden medal glowing, warm light",
+   "broll": "Nobel Prize medal",
+   "segundos": 8,
+   "broll_fuente": "7ba6ed4c8c34d09a.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "A veces le echamos al estrés la culpa de todo lo que duele. Si algo te molesta, pregunta a tu médico qué más puede ser. Esto no lo imites.",
+   "emocion": "calidez",
+   "objeto": "taza de café humeante",
+   "pose": "senalando",
+   "prompt_visual": "cartoon barista pointing gently at the viewer holding a steaming coffee cup, friendly expression, cozy cafe",
+   "broll": "doctor consultation",
+   "segundos": 8,
+   "broll_fuente": "00dce36411a1278a.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "¿Genio valiente o imprudente con suerte? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "complicidad",
+   "objeto": "dos tazas en la barra",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista with open arms next to two coffee cups labeled brave and reckless, warm cafe, inviting smile",
+   "broll": "coffee cup steam",
+   "segundos": 6,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  }
+ ],
+ "pregunta_final": "¿Genio valiente o imprudente con suerte?",
+ "reto_de_hoy": "¿Genio valiente o imprudente con suerte?",
+ "ganchos_alternativos": [
+  "Un médico se tomó un vaso de bacterias y después lo celebró.",
+  "Todos culpaban al estrés, hasta que alguien se bebió la prueba.",
+  "Para que le creyeran, tuvo que enfermarse a propósito."
+ ],
+ "palabras": 159,
+ "canal": "soyintegral",
+ "color": "#2E8B57",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "salud-bebiounvasodebacteriasye",
+ "visual": "broll"
+}

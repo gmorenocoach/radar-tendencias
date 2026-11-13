@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Bebió un vaso de bacterias… y el estrés no era el culpable",
+  "historia_id": "salud-bebiounvasodebacteriasye",
+  "fuente_historia": "Nobel Prize (Medicina 2005, nobelprize.org); Marshall et al., Medical Journal of Australia, 1985; Wikipedia: Barry Marshall"
+ },
+ "historia": {
+  "titulo": "Bebió un vaso de bacterias… y el estrés no era el culpable",
+  "hecho": "En 1984, en Perth (Australia), el médico Barry Marshall estaba convencido de que muchas úlceras y gastritis las causaba una bacteria, Helicobacter pylori. En ese momento casi todos creían que eran culpa del estrés y la comida picante. Nadie le hacía caso y sus pruebas con animales no habían convencido a nadie. Así que, tras comprobar con una endoscopia que su estómago estaba sano, se bebió un cultivo de esa bacteria. A los pocos días tuvo náuseas, vómitos y mal aliento, y una nueva endoscopia mostró gastritis con la bacteria presente. Tomó antibióticos y se recuperó. En 2005 recibió el Nobel de Medicina junto a su colega Robin Warren.",
+  "giro": "El supuesto culpable de las úlceras, el estrés, no era la causa principal: era una bacteria tratable.",
+  "fuente": "Nobel Prize (Medicina 2005, nobelprize.org); Marshall et al., Medical Journal of Australia, 1985; Wikipedia: Barry Marshall",
+  "certeza": "alta",
+  "conexion_eje": "A veces le echamos la culpa al estrés de todo lo que duele, y conviene preguntar al médico qué más puede estar pasando.",
+  "gancho": "Este médico se bebió un vaso de bacterias a propósito. Tenía un motivo.",
+  "pregunta_binaria": "¿Genio valiente o imprudente con suerte?",
+  "broll": [
+   "stomach endoscopy",
+   "laboratory petri dish",
+   "vintage hospital corridor"
+  ],
+  "id": "salud-bebiounvasodebacteriasye",
+  "eje": "salud",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "En 1984, en Perth (Australia), el médico Barry Marshall estaba convencido de que muchas úlceras y gastritis las causaba una bacteria, Helicobacter pylori. En ese momento casi todos creían que eran culpa del estrés y la comida picante. Nadie le hacía caso y sus pruebas con animales no habían convencido a nadie. Así que, tras comprobar con una endoscopia que su estómago estaba sano, se bebió un cultivo de esa bacteria. A los pocos días tuvo náuseas, vómitos y mal aliento, y una nueva endoscopia mostró gastritis con la bacteria presente. Tomó antibióticos y se recuperó. En 2005 recibió el Nobel de Medicina junto a su colega Robin Warren.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Este médico se bebió un vaso de bacterias a propósito. Tenía un motivo.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}
