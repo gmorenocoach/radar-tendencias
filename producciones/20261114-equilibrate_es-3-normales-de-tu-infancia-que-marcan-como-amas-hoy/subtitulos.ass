@@ -1,0 +1,56 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.63,Sub,,0,0,0,,{\k19}LO {\k12}QUE {\k32}VISTE
+Dialogue: 0,0:00:00.63,0:00:01.42,Sub,,0,0,0,,{\k12}DE {\k45}NIÑO {\k22}ES
+Dialogue: 0,0:00:01.42,0:00:02.42,Sub,,0,0,0,,{\k14}EL {\k45}PRIMER {\k41}MANUAL
+Dialogue: 0,0:00:02.42,0:00:02.95,Sub,,0,0,0,,{\k12}DE {\k29}AMOR {\k13}QUE
+Dialogue: 0,0:00:02.95,0:00:04.62,Sub,,0,0,0,,{\k96}LEÍSTE... {\k15}Y {\k56}QUIZÁ
+Dialogue: 0,0:00:04.62,0:00:06.37,Sub,,0,0,0,,{\k50}NADIE {\k16}LO {\k109}REVISÓ.
+Dialogue: 0,0:00:06.37,0:00:07.75,Sub,,0,0,0,,{\k55}NADIE {\k12}TE {\k72}ENSEÑÓ
+Dialogue: 0,0:00:07.75,0:00:09.22,Sub,,0,0,0,,{\k5}A {\k104}AMAR. {\k37}SOLO
+Dialogue: 0,0:00:09.22,0:00:10.28,Sub,,0,0,0,,{\k79}MIRABAS. {\k15}Y {\k12}LO
+Dialogue: 0,0:00:10.28,0:00:11.03,Sub,,0,0,0,,{\k12}QUE {\k52}PASABA {\k12}EN
+Dialogue: 0,0:00:11.03,0:00:11.77,Sub,,0,0,0,,{\k14}TU {\k43}CASA {\k17}SE
+Dialogue: 0,0:00:11.77,0:00:13.82,Sub,,0,0,0,,{\k53}VOLVIÓ {\k30}«LO {\k121}NORMAL».
+Dialogue: 0,0:00:13.82,0:00:15.50,Sub,,0,0,0,,{\k50}PRIMER {\k97}NORMAL: {\k21}LOS
+Dialogue: 0,0:00:15.50,0:00:16.61,Sub,,0,0,0,,{\k72}PROBLEMAS {\k27}NO {\k13}SE
+Dialogue: 0,0:00:16.61,0:00:18.73,Sub,,0,0,0,,{\k75}HABLABAN, {\k20}SE {\k116}AGUANTABAN.
+Dialogue: 0,0:00:18.73,0:00:19.82,Sub,,0,0,0,,{\k15}Y {\k78}APRENDISTE {\k16}QUE
+Dialogue: 0,0:00:19.82,0:00:21.40,Sub,,0,0,0,,{\k44}AMAR {\k29}ES {\k85}CALLAR.
+Dialogue: 0,0:00:21.40,0:00:23.14,Sub,,0,0,0,,{\k46}SEGUNDO {\k77}NORMAL: {\k51}QUERER
+Dialogue: 0,0:00:23.14,0:00:24.54,Sub,,0,0,0,,{\k27}ERA {\k86}SACRIFICARSE {\k28}HASTA
+Dialogue: 0,0:00:24.54,0:00:26.60,Sub,,0,0,0,,{\k114}DESAPARECER. {\k15}Y {\k77}APRENDISTE
+Dialogue: 0,0:00:26.60,0:00:27.47,Sub,,0,0,0,,{\k17}QUE {\k44}AMAR {\k26}ES
+Dialogue: 0,0:00:27.47,0:00:30.02,Sub,,0,0,0,,{\k104}PERDERTE. {\k63}TERCER {\k88}NORMAL:
+Dialogue: 0,0:00:30.02,0:00:31.22,Sub,,0,0,0,,{\k21}EL {\k50}CARIÑO {\k49}LLEGABA
+Dialogue: 0,0:00:31.22,0:00:32.61,Sub,,0,0,0,,{\k50}DESPUÉS {\k16}DEL {\k73}ENOJO,
+Dialogue: 0,0:00:32.61,0:00:34.13,Sub,,0,0,0,,{\k24}O {\k19}CON {\k109}CONDICIONES.
+Dialogue: 0,0:00:34.13,0:00:35.25,Sub,,0,0,0,,{\k19}Y {\k78}APRENDISTE {\k15}QUE
+Dialogue: 0,0:00:35.25,0:00:35.94,Sub,,0,0,0,,{\k16}EL {\k36}AMOR {\k17}SE
+Dialogue: 0,0:00:35.94,0:00:37.94,Sub,,0,0,0,,{\k77}GANA. {\k77}OJO: {\k46}ESTO
+Dialogue: 0,0:00:37.94,0:00:38.67,Sub,,0,0,0,,{\k22}NO {\k12}ES {\k40}CULPAR
+Dialogue: 0,0:00:38.67,0:00:39.75,Sub,,0,0,0,,{\k6}A {\k21}TUS {\k81}PAPÁS.
+Dialogue: 0,0:00:39.75,0:00:40.87,Sub,,0,0,0,,{\k30}ES {\k67}REVISAR {\k14}LO
+Dialogue: 0,0:00:40.87,0:00:42.17,Sub,,0,0,0,,{\k13}QUE {\k98}HEREDASTE. {\k20}Y
+Dialogue: 0,0:00:42.17,0:00:43.20,Sub,,0,0,0,,{\k17}NO {\k37}TODOS {\k49}VIVIMOS
+Dialogue: 0,0:00:43.20,0:00:44.58,Sub,,0,0,0,,{\k13}LO {\k91}MISMO. {\k35}RETO
+Dialogue: 0,0:00:44.58,0:00:45.95,Sub,,0,0,0,,{\k12}DE {\k77}HOY: {\k49}ESCRIBE
+Dialogue: 0,0:00:45.95,0:00:46.97,Sub,,0,0,0,,{\k8}EN {\k75}COMENTARIOS {\k19}EL
+Dialogue: 0,0:00:46.97,0:00:48.12,Sub,,0,0,0,,{\k86}«NORMAL» {\k13}DE {\k16}TU
+Dialogue: 0,0:00:48.12,0:00:49.02,Sub,,0,0,0,,{\k45}CASA {\k23}QUE {\k21}YA
+Dialogue: 0,0:00:49.02,0:00:50.70,Sub,,0,0,0,,{\k15}NO {\k35}QUIERES {\k118}REPETIR.
+Dialogue: 0,0:00:50.70,0:00:51.80,Sub,,0,0,0,,{\k19}EL {\k35}VIDEO {\k57}COMPLETO
+Dialogue: 0,0:00:51.80,0:00:52.47,Sub,,0,0,0,,{\k43}ESTÁ {\k12}EN {\k12}EL
+Dialogue: 0,0:00:52.47,0:00:55.20,Sub,,0,0,0,,{\k78}CANAL. {\k120}SUSCRÍBETE: {\k77}MAÑANA,
+Dialogue: 0,0:00:55.20,0:00:57.02,Sub,,0,0,0,,{\k80}CAPÍTULO {\k71}4 {\k30}PARA
+Dialogue: 0,0:00:57.02,0:00:58.84,Sub,,0,0,0,,{\k43}AMAR {\k30}SIN {\k109}PERDERTE.

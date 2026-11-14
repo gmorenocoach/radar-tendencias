@@ -925,7 +925,10 @@
    "subtema": "Desapego sin rencor: duelo, límites y soltar la versión idealizada de la persona. Cierre: cuando sueltas, ¿qué hay en tus manos vacías?",
    "referencia_video_id": "PidfYb2KciY",
    "minutos": 15,
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261114-equilibrate_es-largo-como-soltar-a-alguien-que-te-hace-dano-a",
+   "resultado": "ok 2051s",
+   "producido_en": "2026-11-14T16:42:09"
   },
   {
    "id": "equilibrate_es-20261116-S",
@@ -938,7 +941,10 @@
    "titulo": "Lo que creías normal en casa",
    "gancho": "Lo que viste de niño es el primer manual de amor que leíste. Y quizá nadie lo revisó.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261114-equilibrate_es-3-normales-de-tu-infancia-que-marcan-como-amas-hoy",
+   "resultado": "ok 220s",
+   "producido_en": "2026-11-14T16:45:50"
   },
   {
    "id": "equilibrate_es-20261116-C",

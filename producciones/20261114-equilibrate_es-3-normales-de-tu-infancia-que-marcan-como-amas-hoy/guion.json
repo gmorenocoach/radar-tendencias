@@ -1,0 +1,115 @@
+{
+ "titulo": "3 «normales» de tu infancia que marcan cómo amas hoy",
+ "titulos_alternativos": [
+  "Lo que creías normal en casa sigue dictando tu amor",
+  "El primer manual de amor que nadie te pidió revisar"
+ ],
+ "descripcion": "Tres cosas «normales» de tu infancia pueden estar marcando cómo amas hoy en pareja. Un vistazo corto a los patrones que heredaste, sin culpar a nadie, y cómo empezar a revisarlos desde el amor propio. Capítulo 3 de La Taza Derramada: amar sin perderte. Haz tu reto de hoy y cuéntamelo en comentarios.",
+ "hashtags": [
+  "#amorpropio",
+  "#infancia",
+  "#relacionesdepareja",
+  "#patrones",
+  "#amarsinperderte",
+  "#LaTazaDerramada",
+  "#EquilibrateConGermancho",
+  "#crecimientopersonal"
+ ],
+ "miniatura": {
+  "texto": "LO QUE CREÍAS NORMAL",
+  "emocion": "sorpresa",
+  "objeto": "taza derramándose sobre una mesa",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Lo que viste de niño es el primer manual de amor que leíste... y quizá nadie lo revisó.",
+   "emocion": "sorpresa",
+   "objeto": "taza derramándose",
+   "pose": "senalando",
+   "prompt_visual": "cup slowly spilling coffee on a kitchen table, warm light, hand-drawn style",
+   "broll": "coffee spilling table",
+   "segundos": 6,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: surprised, round eyes and open mouth; pointing forward with one long finger; cup slowly spilling coffee on a kitchen table, warm light, hand-drawn style; the taza derramándose is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Nadie te enseñó a amar. Solo mirabas. Y lo que pasaba en tu casa se volvió «lo normal».",
+   "emocion": "tristeza",
+   "objeto": "cuaderno cerrado",
+   "pose": "butaco_tazas",
+   "prompt_visual": "child watching adults at a kitchen table, nostalgic, warm tones",
+   "broll": "child watching parents",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: sad, drooping eyes; sitting on a wooden stool; child watching adults at a kitchen table, nostalgic, warm tones; the cuaderno cerrado is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Primer normal: los problemas no se hablaban, se aguantaban. Y aprendiste que amar es callar.",
+   "emocion": "tristeza",
+   "objeto": "taza tapada con un plato",
+   "pose": "triste_acostado",
+   "prompt_visual": "silent family dinner, tense quiet atmosphere, soft light",
+   "broll": "silent family dinner",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: sad, drooping eyes; lying on the floor, sad; silent family dinner, tense quiet atmosphere, soft light; the taza tapada con un plato is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Segundo normal: querer era sacrificarse hasta desaparecer. Y aprendiste que amar es perderte.",
+   "emocion": "miedo",
+   "objeto": "taza casi vacía",
+   "pose": "agachado",
+   "prompt_visual": "tired person giving everything to others, fading silhouette, muted colors",
+   "broll": "tired mother cooking",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: scared, wide eyes, raised brows; bent over looking down; tired person giving everything to others, fading silhouette, muted colors; the taza casi vacía is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Tercer normal: el cariño llegaba después del enojo, o con condiciones. Y aprendiste que el amor se gana.",
+   "emocion": "asco",
+   "objeto": "escalera con un solo peldaño",
+   "pose": "escalera",
+   "prompt_visual": "child climbing a tall staircase to reach a hug, symbolic, soft colors",
+   "broll": "child climbing stairs",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: disgusted, tongue out; climbing a tall ladder; child climbing a tall staircase to reach a hug, symbolic, soft colors; the escalera con un solo peldaño is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "Ojo: esto no es culpar a tus papás. Es revisar lo que heredaste. Y no todos vivimos lo mismo.",
+   "emocion": "alegria",
+   "objeto": "cuaderno abierto",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "open notebook with a pen on a cafe table, hopeful morning light",
+   "broll": "writing notebook coffee",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; arms wide open; open notebook with a pen on a cafe table, hopeful morning light; the cuaderno abierto is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: escribe en comentarios el «normal» de tu casa que ya no quieres repetir. El video completo está en el canal. Suscríbete: mañana, capítulo 4 para amar sin perderte.",
+   "emocion": "alegria",
+   "objeto": "taza derramada junto a un cuaderno",
+   "pose": "letrero",
+   "prompt_visual": "spilled cup next to a notebook with handwritten list, closing shot echoing the first scene",
+   "broll": "writing in notebook",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; holding up a blank sign board; spilled cup next to a notebook with handwritten list, closing shot echoing the first scene; the taza derramada junto a un cuaderno is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "Escribe en comentarios el «normal» de tu casa que hoy ya no quieres repetir en tus vínculos (te toma menos de 3 minutos).",
+ "ganchos_alternativos": [
+  "¿Y si la forma en que amas hoy no la elegiste tú, sino que la aprendiste mirando la cocina de tu casa, hace veinte años?",
+  "Dato incómodo: casi nadie revisa el primer manual de amor que leyó, el que escribieron sin querer en tu infancia. Y aun así lo seguimos al pie de la letra.",
+  "A mí me tomó años notar que no aguantaba por amor, sino porque en mi casa aguantar era lo normal. ¿Y en la tuya, qué era «normal»?"
+ ],
+ "palabras": 132,
+ "canal": "equilibrate",
+ "color": "#E8705F",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "visual": "ilustracion"
+}

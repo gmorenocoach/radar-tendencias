@@ -1,0 +1,44 @@
+{
+ "fuente": {
+  "tema": "Lo que creías normal en casa. Gancho: Lo que viste de niño es el primer manual de amor que leíste. Y quizá nadie lo revisó.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 3"
+ },
+ "adn": {
+  "tema_central": "Lo que creías normal en casa: los patrones de amor que aprendiste de niño funcionan como un 'primer manual' que casi nadie revisa de adulto, y condicionan cómo amas hoy (La Taza Derramada, capítulo 3 de 6: amar sin perderte)",
+  "promesa_del_titulo": "Descubrirás en menos de 60 segundos qué 'normales' de tu infancia siguen dictando cómo amas, y cómo empezar a revisarlos sin culpar a nadie.",
+  "gancho_primeros_segundos": "0-3s, texto en pantalla + voz directa a cámara: 'Lo que viste de niño es el primer manual de amor que leíste... y quizá nadie lo revisó.' Corte seco a imagen de una taza que se derrama lentamente sobre una mesa de cocina.",
+  "tipo_de_gancho": "Contradicción + revelación personal (reencuadre de algo cotidiano como causa oculta). Abre un bucle de curiosidad: '¿cuál fue el mío?'",
+  "estructura": "1) Gancho (0-3s): la frase del manual de amor. 2) Reencuadre (3-10s): nadie te enseñó a amar, solo observaste; lo que pasaba en casa se volvió 'lo normal'. 3) Lista corta de 3 'normales' en pantalla, 4-5s cada una: a) 'En mi casa los problemas no se hablaban, se aguantaban' (aprendes que amar es callar), b) 'Querer era sacrificarse hasta desaparecer' (aprendes que amar es perderte), c) 'El cariño llegaba después del enojo o la condición' (aprendes que el amor se gana). 4) Giro (45-52s): 'Esto no es culpar a tus papás, es revisar lo que heredaste.' 5) Cierre con reto + enganche de serie (52-60s).",
+  "ritmo": "Rápido y limpio: cortes cada 2-4 segundos, subtítulos grandes sincronizados, una idea por plano. Pausa breve de 0.5s antes de cada punto de la lista para dar peso. Loop final: la última imagen (la taza ya derramada) conecta visualmente con el primer plano.",
+  "tono": "Cercano, íntimo y sereno; voz de amiga/psicólogo que te habla sin juzgar. Sin dramatismo ni tecnicismos. Honesto, con ligera vulnerabilidad ('a mí también me costó verlo').",
+  "cta_final": "Reto: 'Escribe en comentarios el 'normal' de tu casa que hoy ya no quieres repetir. Y mañana, capítulo 4 de La Taza Derramada. Sigue la serie para amar sin perderte.'",
+  "formula_del_titulo": "Contradicción + número + promesa de revelación: [Número] cosas 'normales' de tu infancia + que explican cómo amas hoy (+ pregunta o intriga implícita).",
+  "titulo_con_numero": "3 cosas 'normales' de tu infancia que sabotean cómo amas hoy",
+  "palabras_clave": [
+   "infancia",
+   "cómo amas",
+   "patrones de pareja",
+   "heridas de la infancia",
+   "apego",
+   "amor propio",
+   "relaciones sanas",
+   "crianza",
+   "sanar",
+   "psicología",
+   "amar sin perderte",
+   "La Taza Derramada"
+  ],
+  "emocion_dominante": "Reconocimiento nostálgico con un toque de incomodidad (el 'ah, eso me pasó a mí'), que deriva en alivio y esperanza.",
+  "formula_miniatura": "Fondo cálido y sobrio, primer plano de una taza derramándose; texto grande de 3-4 palabras: 'LO QUE CREÍAS NORMAL'; opcional rostro con expresión de duda o reconocimiento; contraste alto, un solo foco visual, etiqueta pequeña 'Cap. 3' para la serie.",
+  "por_que_funciona": "Combina un gancho de contradicción (lo 'normal' era el problema) con identificación inmediata: todos tuvimos infancia, así que todos se sienten aludidos. La lista de 3 da estructura escaneable y fácil de recordar. El reencuadre sin culpa reduce la resistencia y aumenta el compartir. El reto de comentarios dispara interacción y el formato serie (capítulo 3 de 6) genera retención y suscripción. La metáfora visual de la taza hace la marca recordable.",
+  "riesgos_a_evitar": [
+   "Culpar o demonizar a los padres: genera rechazo y reportes",
+   "Diagnosticar o prometer 'sanar' en 60 segundos (suena a clickbait terapéutico)",
+   "Usar jerga clínica (apego evitativo, trauma) sin explicarla",
+   "Generalizar como verdad absoluta: aclarar que no todos vivieron lo mismo",
+   "Gancho lento o con presentación ('hola, hoy vamos a hablar de...')",
+   "Listas largas o demasiado texto en pantalla",
+   "Olvidar contextualizar la serie para quien llega en el capítulo 3",
+   "Tono sermoneador o de gurú; mantener cercanía y humildad"
+  ]
+ }
+}
