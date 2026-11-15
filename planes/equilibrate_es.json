@@ -966,7 +966,10 @@
    "titulo": "Anota 3 cosas que se repiten",
    "gancho": "Cuaderno y 2 minutos: tres cosas que se repiten en todas tus relaciones. Ya tienes tu mapa.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261115-equilibrate_es-anota-3-cosas-que-se-repiten-en-tus-relaciones",
+   "resultado": "ok 205s",
+   "producido_en": "2026-11-15T16:42:55"
   },
   {
    "id": "equilibrate_es-20261117-V",

@@ -411,7 +411,10 @@
    "titulo": "5 minutos de caminata que cambian tu tarde",
    "gancho": "No necesitas gimnasio ni ropa deportiva. Necesitas la puerta de tu casa y cinco minutos. Sales, caminas sin celular y vuelves. Tu tarde se siente distinta, como una taza recién servida. Reto de hoy: sal ahora mismo a caminar 5 minutos, sin audífonos, y comenta qué notaste.",
    "referencia_video_id": "sin_referencia (lista vacía)",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261115-soyintegral_es-5-minutos-que-cambian-tu-tarde-sin-gimnasio",
+   "resultado": "ok 171s",
+   "producido_en": "2026-11-15T16:39:29"
   },
   {
    "id": "soyintegral_es-20261119-L",

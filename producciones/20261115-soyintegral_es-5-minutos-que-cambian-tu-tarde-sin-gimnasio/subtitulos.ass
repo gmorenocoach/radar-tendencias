@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00578B2E,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.60,Sub,,0,0,0,,{\k26}NO {\k57}NECESITAS {\k78}GIMNASIO.
+Dialogue: 0,0:00:01.60,0:00:02.89,Sub,,0,0,0,,{\k23}NO {\k73}NECESITAS {\k33}ROPA
+Dialogue: 0,0:00:02.89,0:00:04.90,Sub,,0,0,0,,{\k99}DEPORTIVA. {\k43}SOLO {\k59}NECESITAS
+Dialogue: 0,0:00:04.90,0:00:05.50,Sub,,0,0,0,,{\k13}LA {\k37}PUERTA {\k10}DE
+Dialogue: 0,0:00:05.50,0:00:06.32,Sub,,0,0,0,,{\k15}TU {\k45}CASA {\k21}Y
+Dialogue: 0,0:00:06.32,0:00:07.99,Sub,,0,0,0,,{\k48}CINCO {\k88}MINUTOS. {\k31}MIRA
+Dialogue: 0,0:00:07.99,0:00:09.33,Sub,,0,0,0,,{\k14}QUÉ {\k71}SIMPLE. {\k50}UNO:
+Dialogue: 0,0:00:09.33,0:00:11.37,Sub,,0,0,0,,{\k80}SALES. {\k50}DOS: {\k73}CAMINAS,
+Dialogue: 0,0:00:11.37,0:00:12.28,Sub,,0,0,0,,{\k22}SIN {\k54}CELULAR {\k15}Y
+Dialogue: 0,0:00:12.28,0:00:14.20,Sub,,0,0,0,,{\k21}SIN {\k98}AUDÍFONOS. {\k73}TRES:
+Dialogue: 0,0:00:14.20,0:00:15.67,Sub,,0,0,0,,{\k103}VUELVES. {\k31}ESO {\k13}ES
+Dialogue: 0,0:00:15.67,0:00:16.71,Sub,,0,0,0,,{\k62}TODO, {\k22}NO {\k20}HAY
+Dialogue: 0,0:00:16.71,0:00:18.00,Sub,,0,0,0,,{\k12}UN {\k37}PASO {\k80}CUATRO.
+Dialogue: 0,0:00:18.00,0:00:19.13,Sub,,0,0,0,,{\k37}DURANTE {\k11}LA {\k66}CAMINATA,
+Dialogue: 0,0:00:19.13,0:00:20.11,Sub,,0,0,0,,{\k24}NO {\k39}HAGAS {\k34}NADA
+Dialogue: 0,0:00:20.11,0:00:22.41,Sub,,0,0,0,,{\k89}ESPECIAL. {\k49}SOLO {\k92}ESCUCHA.
+Dialogue: 0,0:00:22.41,0:00:23.05,Sub,,0,0,0,,{\k24}HAY {\k12}UN {\k28}RUIDO
+Dialogue: 0,0:00:23.05,0:00:23.65,Sub,,0,0,0,,{\k13}DE {\k37}FONDO {\k10}QUE
+Dialogue: 0,0:00:23.65,0:00:24.65,Sub,,0,0,0,,{\k43}LLEVAS {\k35}HORAS {\k22}SIN
+Dialogue: 0,0:00:24.65,0:00:27.16,Sub,,0,0,0,,{\k74}OÍR: {\k95}PÁJAROS, {\k81}MOTOS,
+Dialogue: 0,0:00:27.16,0:00:28.86,Sub,,0,0,0,,{\k22}EL {\k93}VIENTO. {\k56}LEVANTA
+Dialogue: 0,0:00:28.86,0:00:30.74,Sub,,0,0,0,,{\k13}LA {\k82}VISTA. {\k93}CIELO,
+Dialogue: 0,0:00:30.74,0:00:33.31,Sub,,0,0,0,,{\k96}ÁRBOLES, {\k55}GENTE {\k106}PASANDO.
+Dialogue: 0,0:00:33.31,0:00:34.44,Sub,,0,0,0,,{\k20}TU {\k46}CABEZA {\k47}LLEVABA
+Dialogue: 0,0:00:34.44,0:00:35.36,Sub,,0,0,0,,{\k36}TODA {\k13}LA {\k44}MAÑANA
+Dialogue: 0,0:00:35.36,0:00:36.72,Sub,,0,0,0,,{\k52}MIRANDO {\k21}UNA {\k63}PANTALLA
+Dialogue: 0,0:00:36.72,0:00:38.42,Sub,,0,0,0,,{\k9}A {\k45}TREINTA {\k115}CENTÍMETROS.
+Dialogue: 0,0:00:38.42,0:00:40.30,Sub,,0,0,0,,{\k56}AQUÍ {\k27}HAY {\k106}HORIZONTE.
+Dialogue: 0,0:00:40.30,0:00:41.27,Sub,,0,0,0,,{\k15}Y {\k30}CUANDO {\k52}VUELVES,
+Dialogue: 0,0:00:41.27,0:00:42.03,Sub,,0,0,0,,{\k16}LA {\k43}TARDE {\k16}SE
+Dialogue: 0,0:00:42.03,0:00:43.69,Sub,,0,0,0,,{\k37}SIENTE {\k101}DISTINTA. {\k28}COMO
+Dialogue: 0,0:00:43.69,0:00:44.83,Sub,,0,0,0,,{\k23}UNA {\k45}TAZA {\k45}RECIÉN
+Dialogue: 0,0:00:44.83,0:00:46.42,Sub,,0,0,0,,{\k96}SERVIDA: {\k22}NO {\k41}CAMBIÓ
+Dialogue: 0,0:00:46.42,0:00:47.48,Sub,,0,0,0,,{\k13}EL {\k67}MUNDO, {\k27}PERO
+Dialogue: 0,0:00:47.48,0:00:48.51,Sub,,0,0,0,,{\k43}AHORA {\k27}SÍ {\k32}TIENES
+Dialogue: 0,0:00:48.51,0:00:49.99,Sub,,0,0,0,,{\k31}GANAS {\k10}DE {\k107}TOMÁRTELA.
+Dialogue: 0,0:00:49.99,0:00:51.27,Sub,,0,0,0,,{\k38}ESO {\k71}SÍ: {\k19}SI
+Dialogue: 0,0:00:51.27,0:00:52.04,Sub,,0,0,0,,{\k13}TE {\k43}SIENTES {\k21}MAL
+Dialogue: 0,0:00:52.04,0:00:53.44,Sub,,0,0,0,,{\k10}DE {\k59}VERDAD, {\k71}CONSULTA
+Dialogue: 0,0:00:53.44,0:00:54.86,Sub,,0,0,0,,{\k14}A {\k12}UN {\k116}PROFESIONAL.
+Dialogue: 0,0:00:54.86,0:00:55.73,Sub,,0,0,0,,{\k45}ESTO {\k20}ES {\k22}UNA
+Dialogue: 0,0:00:55.73,0:00:57.34,Sub,,0,0,0,,{\k42}PAUSA {\k93}PEQUEÑA, {\k27}NO
+Dialogue: 0,0:00:57.34,0:00:59.14,Sub,,0,0,0,,{\k23}UNA {\k117}RECETA. {\k40}RETO
+Dialogue: 0,0:00:59.14,0:01:00.36,Sub,,0,0,0,,{\k14}DE {\k66}HOY: {\k42}SAL
+Dialogue: 0,0:01:00.36,0:01:01.91,Sub,,0,0,0,,{\k31}AHORA {\k69}MISMO, {\k55}CAMINA
+Dialogue: 0,0:01:01.91,0:01:03.00,Sub,,0,0,0,,{\k45}CINCO {\k44}MINUTOS {\k20}SIN
+Dialogue: 0,0:01:03.00,0:01:04.42,Sub,,0,0,0,,{\k84}AUDÍFONOS {\k15}Y {\k44}CUÉNTAME
+Dialogue: 0,0:01:04.42,0:01:05.56,Sub,,0,0,0,,{\k10}EN {\k84}COMENTARIOS {\k20}QUÉ
+Dialogue: 0,0:01:05.56,0:01:07.08,Sub,,0,0,0,,{\k58}NOTASTE {\k12}AL {\k82}VOLVER.
+Dialogue: 0,0:01:07.08,0:01:09.44,Sub,,0,0,0,,{\k122}SUSCRÍBETE: {\k73}MAÑANA {\k41}HAY
+Dialogue: 0,0:01:09.44,0:01:10.50,Sub,,0,0,0,,{\k34}OTRO {\k72}RETO.

@@ -1,0 +1,47 @@
+{
+ "fuente": {
+  "tema": "5 minutos de caminata que cambian tu tarde. Gancho: No necesitas gimnasio ni ropa deportiva. Necesitas la puerta de tu casa y cinco minutos. Sales, caminas sin celular y vuelves. Tu tarde se siente distinta, como una taza recién servida. Reto de hoy: sal ahora mismo a caminar 5 minutos, sin audífonos, y comenta qué notaste."
+ },
+ "adn": {
+  "tema_central": "Una caminata de 5 minutos sin celular ni audífonos, saliendo desde la puerta de casa, puede transformar cómo se siente tu tarde, sin necesidad de gimnasio ni ropa deportiva.",
+  "promesa_del_titulo": "Con solo 5 minutos caminando afuera, sin gimnasio, sin ropa deportiva y sin celular, tu tarde se siente completamente distinta.",
+  "gancho_primeros_segundos": "\"No necesitas gimnasio. No necesitas ropa deportiva. Solo necesitas la puerta de tu casa y 5 minutos.\" (Plano inicial: mano abriendo la puerta de casa y salida inmediata a la calle, sin introducción ni saludo.)",
+  "tipo_de_gancho": "Contradicción / eliminación de excusas: niega los requisitos que la audiencia asume necesarios (gimnasio, ropa, tiempo) y los reemplaza por algo mínimo y ya disponible (la puerta y 5 minutos).",
+  "estructura": [
+   "0-3s: Gancho de contradicción: 'No necesitas gimnasio ni ropa deportiva' con la puerta de casa abriéndose.",
+   "3-8s: Regla simple en 3 pasos visibles: sales, caminas sin celular, vuelves (texto en pantalla 1-2-3).",
+   "8-20s: Montaje de la caminata (pasos, cielo, árboles, sonidos ambiente) con voz en off breve describiendo lo que se nota: aire, ruido, calma.",
+   "20-27s: Resultado emocional: regreso a casa y la tarde se siente distinta, como una taza recién servida (plano de taza humeante como metáfora visual).",
+   "27-35s: Reto final con pregunta directa a comentarios."
+  ],
+  "ritmo": "Rápido y limpio: cortes cada 1-2 segundos, frases cortas, texto grande en pantalla, sin pausas muertas. Termina con un ritmo más lento y calmado en la imagen de la taza para reforzar la sensación de alivio. Duración ideal: 25-35 segundos.",
+  "tono": "Cercano, amable y directo; como un amigo que te da un empujón sin sermonear. Sin tecnicismos ni promesas médicas, con lenguaje cotidiano y metáforas sencillas.",
+  "cta_final": "Reto de hoy: sal ahora mismo a caminar 5 minutos, sin audífonos, y comenta qué notaste cuando vuelvas.",
+  "formula_del_titulo": "[Número de minutos] + [acción mínima] + [resultado emocional inmediato] + [eliminación de excusa] (ej.: 5 minutos + caminar + cambia tu tarde + sin gimnasio).",
+  "titulo_con_numero": "5 minutos de caminata que cambian tu tarde (sin gimnasio ni celular)",
+  "palabras_clave": [
+   "caminata de 5 minutos",
+   "caminar sin celular",
+   "sin gimnasio",
+   "hábito fácil",
+   "bienestar diario",
+   "reto de hoy",
+   "cambia tu tarde",
+   "pausa activa",
+   "rutina sencilla",
+   "caminar sin audífonos"
+  ],
+  "emocion_dominante": "Alivio y ganas de actuar ya: la sensación de que algo pequeño y fácil puede mejorar el día, mezclada con curiosidad por comprobarlo.",
+  "formula_miniatura": "Primer plano de una puerta de casa entreabierta con luz cálida de tarde y una persona de espaldas a punto de salir; texto grande de 2-3 palabras: '5 MINUTOS' y debajo 'SIN CELULAR'. Fondo limpio, colores cálidos, sin elementos de gimnasio tachados con X pequeña opcional para reforzar el mensaje.",
+  "por_que_funciona": "Elimina las barreras de entrada (equipo, ropa, tiempo) y vuelve la acción inmediata y gratuita. El número concreto (5 minutos) la hace creíble y fácil de aceptar. La metáfora de la taza recién servida da una imagen sensorial memorable. El reto final convierte al espectador en participante, impulsa los comentarios y refuerza la retención para ver el resultado. El formato corto y visual encaja con el consumo rápido de Shorts.",
+  "riesgos_a_evitar": [
+   "Prometer beneficios médicos o resultados garantizados (adelgazar, curar ansiedad) que no puedas sustentar.",
+   "Empezar con saludo o presentación larga: se pierde el gancho en los primeros 3 segundos.",
+   "Sobrecargar con consejos extra (hidratación, calzado, música) que diluyen el mensaje de 'solo 5 minutos'.",
+   "Tono moralista o culpabilizador hacia quien no hace ejercicio.",
+   "Usar el celular o audífonos en pantalla durante la caminata, lo que contradice el mensaje.",
+   "Texto en pantalla pequeño o ilegible en móvil.",
+   "Cerrar sin una pregunta clara: un reto ambiguo reduce los comentarios."
+  ]
+ }
+}
