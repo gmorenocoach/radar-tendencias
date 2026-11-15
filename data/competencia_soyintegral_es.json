@@ -1,360 +1,348 @@
 {
  "perfil": "soyintegral_es",
  "canal": "Soy Integral · Salud",
- "generado": "2026-11-10T20:42:54",
+ "generado": "2026-11-15T15:45:27",
  "canales": [
   {
-   "canal_id": "UCh0CBgDE49V88YG61HcTlBg",
-   "canal": "Pecas Explica",
-   "url": "https://www.youtube.com/channel/UCh0CBgDE49V88YG61HcTlBg",
-   "suscriptores": 32200,
-   "pais": "PE",
-   "n_virales_radar": 8,
-   "videos_analizados": 26,
-   "videos_por_semana": 1.5,
-   "pct_shorts": 0,
-   "duracion_media_largos_min": 14.9,
-   "duracion_media_shorts_s": 0,
-   "mediana_vistas": 106954.0,
-   "vistas_top": 1683239,
-   "outlier_top": 15.7,
-   "engagement_medio": 0.0152,
+   "canal_id": "UCL_WHaLzV1IC410fmHuKcGA",
+   "canal": "Kika Silva",
+   "url": "https://www.youtube.com/channel/UCL_WHaLzV1IC410fmHuKcGA",
+   "suscriptores": 6880,
+   "pais": "CL",
+   "n_virales_radar": 10,
+   "videos_analizados": 30,
+   "videos_por_semana": 2.1,
+   "pct_shorts": 63,
+   "duracion_media_largos_min": 36.3,
+   "duracion_media_shorts_s": 59,
+   "mediana_vistas": 1334.5,
+   "vistas_top": 88662,
+   "outlier_top": 66.4,
+   "engagement_medio": 0.0147,
    "horas_publicacion": [
-    "12:00",
-    "10:00",
-    "17:00"
+    "18:00",
+    "19:00",
+    "23:00"
    ],
    "dias_publicacion": [
     "mar",
-    "sáb",
-    "lun"
+    "mié",
+    "jue"
    ],
-   "pct_titulos_con_numero": 15,
-   "pct_videos_con_oferta": 12,
+   "pct_titulos_con_numero": 0,
+   "pct_videos_con_oferta": 3,
    "ofertas": [
     "curso"
    ],
-   "plataformas": [
-    "gumroad"
-   ],
+   "plataformas": [],
    "top5": [
     {
-     "titulo": "Cada Paradoja Famosa Explicada en 15 Minutos",
-     "vistas": 1683239,
-     "duracion_s": 906,
-     "url": "https://www.youtube.com/watch?v=PanXWSE7EYg",
-     "miniatura": "https://i.ytimg.com/vi/PanXWSE7EYg/maxresdefault.jpg"
+     "titulo": "DESAYUNOS ANTIINFLAMATORIOS",
+     "vistas": 88662,
+     "duracion_s": 2927,
+     "url": "https://www.youtube.com/watch?v=hewNxr2Teic",
+     "miniatura": "https://i.ytimg.com/vi/hewNxr2Teic/maxresdefault.jpg"
     },
     {
-     "titulo": "Fallos del Sueño que TU Cerebro Comete Sin que lo Sepas",
-     "vistas": 1177999,
-     "duracion_s": 1145,
-     "url": "https://www.youtube.com/watch?v=c_DjkDNnMIw",
-     "miniatura": "https://i.ytimg.com/vi/c_DjkDNnMIw/maxresdefault.jpg"
+     "titulo": "EL IMPACTO DE TU CLÓSET",
+     "vistas": 87119,
+     "duracion_s": 2189,
+     "url": "https://www.youtube.com/watch?v=jHgKgD7QeB0",
+     "miniatura": "https://i.ytimg.com/vi/jHgKgD7QeB0/maxresdefault.jpg"
     },
     {
-     "titulo": "Deformidades Comunes que TIENES Sin Saberlo",
-     "vistas": 1144486,
-     "duracion_s": 762,
-     "url": "https://www.youtube.com/watch?v=SOV_8Bc-uog",
-     "miniatura": "https://i.ytimg.com/vi/SOV_8Bc-uog/maxresdefault.jpg"
+     "titulo": "SALUD FINANCIERA",
+     "vistas": 85302,
+     "duracion_s": 2112,
+     "url": "https://www.youtube.com/watch?v=bKdGxJ-fo_Y",
+     "miniatura": "https://i.ytimg.com/vi/bKdGxJ-fo_Y/maxresdefault.jpg"
     },
     {
-     "titulo": "Cada Desastre que Cambió la Historia, Explicado",
-     "vistas": 799088,
-     "duracion_s": 1055,
-     "url": "https://www.youtube.com/watch?v=0xXKClVWODk",
-     "miniatura": "https://i.ytimg.com/vi/0xXKClVWODk/maxresdefault.jpg"
+     "titulo": "EL AMOR PROPIO COMO MOTOR",
+     "vistas": 75577,
+     "duracion_s": 1993,
+     "url": "https://www.youtube.com/watch?v=BG2-rhnbpKk",
+     "miniatura": "https://i.ytimg.com/vi/BG2-rhnbpKk/maxresdefault.jpg"
     },
     {
-     "titulo": "Cada País que Pasó de RICO a POBRE, Explicado",
-     "vistas": 455725,
-     "duracion_s": 1117,
-     "url": "https://www.youtube.com/watch?v=KlVnz4TnH1U",
-     "miniatura": "https://i.ytimg.com/vi/KlVnz4TnH1U/maxresdefault.jpg"
+     "titulo": "SANA TU COLON",
+     "vistas": 74877,
+     "duracion_s": 2253,
+     "url": "https://www.youtube.com/watch?v=Dp9YQH7H2To",
+     "miniatura": "https://i.ytimg.com/vi/Dp9YQH7H2To/maxresdefault.jpg"
     }
    ]
   },
   {
-   "canal_id": "UCBXYEjjHVPRXjksjUD5vYRA",
-   "canal": "BioCuerpo",
-   "url": "https://www.youtube.com/channel/UCBXYEjjHVPRXjksjUD5vYRA",
-   "suscriptores": 3730,
+   "canal_id": "UCwZZJ6wUa1TLK1YlGwDIinQ",
+   "canal": "SALUD MAYOR",
+   "url": "https://www.youtube.com/channel/UCwZZJ6wUa1TLK1YlGwDIinQ",
+   "suscriptores": 2050,
    "pais": "ES",
-   "n_virales_radar": 7,
-   "videos_analizados": 29,
-   "videos_por_semana": 3.3,
+   "n_virales_radar": 9,
+   "videos_analizados": 28,
+   "videos_por_semana": 5.3,
    "pct_shorts": 0,
-   "duracion_media_largos_min": 12.9,
+   "duracion_media_largos_min": 30.1,
    "duracion_media_shorts_s": 0,
-   "mediana_vistas": 1273,
-   "vistas_top": 835655,
-   "outlier_top": 656.4,
-   "engagement_medio": 0.3325,
+   "mediana_vistas": 4363.5,
+   "vistas_top": 177316,
+   "outlier_top": 40.6,
+   "engagement_medio": 0.0101,
    "horas_publicacion": [
-    "10:00",
-    "20:00",
+    "05:00",
+    "04:00"
+   ],
+   "dias_publicacion": [
+    "sáb",
+    "vie",
+    "jue"
+   ],
+   "pct_titulos_con_numero": 82,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "¿Te cuesta caminar? 5 alimentos que pueden fortalecer tus piernas | Salud",
+     "vistas": 177316,
+     "duracion_s": 1972,
+     "url": "https://www.youtube.com/watch?v=if4E9gYd8aI",
+     "miniatura": "https://i.ytimg.com/vi/if4E9gYd8aI/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¿TE CUESTA CAMINAR? COME ESTAS 5 RAÍCES PARA FORTALECER TUS PIERNAS | Salud",
+     "vistas": 148773,
+     "duracion_s": 1728,
+     "url": "https://www.youtube.com/watch?v=YF9VE8goedw",
+     "miniatura": "https://i.ytimg.com/vi/YF9VE8goedw/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¿Sin fuerza después de los 60? El garbanzo puede ayudar a recuperar músculo | Salud",
+     "vistas": 47753,
+     "duracion_s": 1706,
+     "url": "https://www.youtube.com/watch?v=DLOUI8V9f14",
+     "miniatura": "https://i.ytimg.com/vi/DLOUI8V9f14/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¿Qué le pasa a tu cuerpo al comer garbanzos? La sorprendente verdad para tus músculos | Salud",
+     "vistas": 46315,
+     "duracion_s": 1796,
+     "url": "https://www.youtube.com/watch?v=YpL1tZXccPg",
+     "miniatura": "https://i.ytimg.com/vi/YpL1tZXccPg/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Antes de Dormir: 1 Cucharada de Aceite de Oliva | El Ritual de Salud que Sorprende",
+     "vistas": 46235,
+     "duracion_s": 1988,
+     "url": "https://www.youtube.com/watch?v=vGLAw2dM6hM",
+     "miniatura": "https://i.ytimg.com/vi/vGLAw2dM6hM/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UC_CxwBaV5129plEujXtcNWg",
+   "canal": "Central Aztecas",
+   "url": "https://www.youtube.com/channel/UC_CxwBaV5129plEujXtcNWg",
+   "suscriptores": 5070,
+   "pais": "BR",
+   "n_virales_radar": 8,
+   "videos_analizados": 30,
+   "videos_por_semana": 3.2,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 45.6,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 4301.5,
+   "vistas_top": 318408,
+   "outlier_top": 74.0,
+   "engagement_medio": 0.0238,
+   "horas_publicacion": [
+    "11:00",
+    "16:00",
     "14:00"
    ],
    "dias_publicacion": [
     "mié",
-    "vie",
-    "dom"
+    "jue",
+    "mar"
    ],
-   "pct_titulos_con_numero": 59,
-   "pct_videos_con_oferta": 3,
-   "ofertas": [
-    "curso"
-   ],
+   "pct_titulos_con_numero": 80,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
    "plataformas": [],
    "top5": [
     {
-     "titulo": "¿Qué le pasa a tu cuerpo si dejas el pan y el azúcar durante 14 días?",
-     "vistas": 835655,
-     "duracion_s": 723,
-     "url": "https://www.youtube.com/watch?v=haSDtRxOxuI",
-     "miniatura": "https://i.ytimg.com/vi/haSDtRxOxuI/maxresdefault.jpg"
+     "titulo": "20 Alimentos que les Daban Huesos de Acero a los Aztecas Sin Tomar Leche",
+     "vistas": 318408,
+     "duracion_s": 2678,
+     "url": "https://www.youtube.com/watch?v=qng-3WyQc7s",
+     "miniatura": "https://i.ytimg.com/vi/qng-3WyQc7s/maxresdefault.jpg"
     },
     {
-     "titulo": "¿Qué les pasa a tus órganos si no cenas durante 14 días?",
-     "vistas": 541823,
-     "duracion_s": 777,
-     "url": "https://www.youtube.com/watch?v=VrWuwu-Huzk",
-     "miniatura": "https://i.ytimg.com/vi/VrWuwu-Huzk/maxresdefault.jpg"
+     "titulo": "15 Comidas Aztecas del Día de Muertos que los Españoles Borraron de la Ofrenda",
+     "vistas": 118764,
+     "duracion_s": 2747,
+     "url": "https://www.youtube.com/watch?v=ua-RTflsJ0Q",
+     "miniatura": "https://i.ytimg.com/vi/ua-RTflsJ0Q/maxresdefault.jpg"
     },
     {
-     "titulo": "¿Qué le pasa a tu cuerpo cuando ayunas hasta las 12 todos los días?",
-     "vistas": 299453,
-     "duracion_s": 855,
-     "url": "https://www.youtube.com/watch?v=8I0kJonw7Lg",
-     "miniatura": "https://i.ytimg.com/vi/8I0kJonw7Lg/maxresdefault.jpg"
+     "titulo": "Cómo los Aztecas Hacían la Ofrenda de Muertos (y Por Qué los Españoles la Cambiaron)",
+     "vistas": 71866,
+     "duracion_s": 3250,
+     "url": "https://www.youtube.com/watch?v=68dQVfsH7Sc",
+     "miniatura": "https://i.ytimg.com/vi/68dQVfsH7Sc/maxresdefault.jpg"
     },
     {
-     "titulo": "¿Qué le PASA a tu CUERPO Si Bebes AGUA en AYUNAS TODOS LOS DÍAS?",
-     "vistas": 65863,
-     "duracion_s": 851,
-     "url": "https://www.youtube.com/watch?v=mNzwFATPyvQ",
-     "miniatura": "https://i.ytimg.com/vi/mNzwFATPyvQ/maxresdefault.jpg"
+     "titulo": "15 Comidas Aztecas de Tenochtitlán que Borraron los Españoles",
+     "vistas": 48981,
+     "duracion_s": 3109,
+     "url": "https://www.youtube.com/watch?v=72OEI7Upxeo",
+     "miniatura": "https://i.ytimg.com/vi/72OEI7Upxeo/maxresdefault.jpg"
     },
     {
-     "titulo": "¿Qué le pasa a tu hígado cuando haces ayuno intermitente? (Beneficios del ayuno)",
-     "vistas": 46802,
-     "duracion_s": 855,
-     "url": "https://www.youtube.com/watch?v=O9JauhnlvR8",
-     "miniatura": "https://i.ytimg.com/vi/O9JauhnlvR8/maxresdefault.jpg"
+     "titulo": "16 Caldos Aztecas que Borraron los Españoles",
+     "vistas": 48229,
+     "duracion_s": 2576,
+     "url": "https://www.youtube.com/watch?v=LUkGUxjx2IM",
+     "miniatura": "https://i.ytimg.com/vi/LUkGUxjx2IM/maxresdefault.jpg"
     }
    ]
   },
   {
-   "canal_id": "UCg7SdPRs4dyy0trvwy-g_5w",
-   "canal": "Cápsula Mental",
-   "url": "https://www.youtube.com/channel/UCg7SdPRs4dyy0trvwy-g_5w",
-   "suscriptores": 67400,
+   "canal_id": "UCqvHefJwCSfomEe8L3W1C2g",
+   "canal": "Cuerpo Sabio",
+   "url": "https://www.youtube.com/channel/UCqvHefJwCSfomEe8L3W1C2g",
+   "suscriptores": 31000,
    "pais": "",
-   "n_virales_radar": 6,
+   "n_virales_radar": 4,
    "videos_analizados": 30,
    "videos_por_semana": 1.3,
-   "pct_shorts": 3,
-   "duracion_media_largos_min": 17.5,
-   "duracion_media_shorts_s": 73,
-   "mediana_vistas": 120781.0,
-   "vistas_top": 2110736,
-   "outlier_top": 17.5,
-   "engagement_medio": 0.0156,
-   "horas_publicacion": [
-    "20:00",
-    "21:00",
-    "22:00"
-   ],
-   "dias_publicacion": [
-    "jue",
-    "vie",
-    "lun"
-   ],
-   "pct_titulos_con_numero": 20,
-   "pct_videos_con_oferta": 40,
-   "ofertas": [
-    "comunidad",
-    "curso"
-   ],
-   "plataformas": [],
-   "top5": [
-    {
-     "titulo": "Cada Pandemia que Casi Acabó con la Humanidad",
-     "vistas": 2110736,
-     "duracion_s": 1047,
-     "url": "https://www.youtube.com/watch?v=urB_dOqmdJc",
-     "miniatura": "https://i.ytimg.com/vi/urB_dOqmdJc/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Explicación de todos los trastornos mentales y sus efectos en 18 minutos",
-     "vistas": 1456299,
-     "duracion_s": 1128,
-     "url": "https://www.youtube.com/watch?v=CX71c-So9IA",
-     "miniatura": "https://i.ytimg.com/vi/CX71c-So9IA/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Cada Bebida Alcohólica Explicada: Qué Es, De Dónde Viene y Qué Le Hace a Tu Cuerpo",
-     "vistas": 1052727,
-     "duracion_s": 1105,
-     "url": "https://www.youtube.com/watch?v=iGBRUtnxzvM",
-     "miniatura": "https://i.ytimg.com/vi/iGBRUtnxzvM/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Cada Parte del Cerebro: Qué Hace y Qué Pasa Cuando FALLA",
-     "vistas": 670604,
-     "duracion_s": 1141,
-     "url": "https://www.youtube.com/watch?v=ySskn5mPB9U",
-     "miniatura": "https://i.ytimg.com/vi/ySskn5mPB9U/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Explicación de todas las técnicas de manipulación y cómo combatirlas",
-     "vistas": 620557,
-     "duracion_s": 921,
-     "url": "https://www.youtube.com/watch?v=95Zo8Cun4yc",
-     "miniatura": "https://i.ytimg.com/vi/95Zo8Cun4yc/maxresdefault.jpg"
-    }
-   ]
-  },
-  {
-   "canal_id": "UCWRRmqv_U-GYQ7b6D2-zwIg",
-   "canal": "Crianza Consciente",
-   "url": "https://www.youtube.com/channel/UCWRRmqv_U-GYQ7b6D2-zwIg",
-   "suscriptores": 12900,
-   "pais": "CO",
-   "n_virales_radar": 6,
-   "videos_analizados": 30,
-   "videos_por_semana": 1.9,
-   "pct_shorts": 3,
-   "duracion_media_largos_min": 11.3,
-   "duracion_media_shorts_s": 73,
-   "mediana_vistas": 11950.0,
-   "vistas_top": 237767,
-   "outlier_top": 19.9,
-   "engagement_medio": 0.038,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 15.6,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 37034.5,
+   "vistas_top": 843245,
+   "outlier_top": 22.8,
+   "engagement_medio": 0.0283,
    "horas_publicacion": [
     "17:00",
-    "14:00",
-    "16:00"
+    "12:00",
+    "19:00"
    ],
    "dias_publicacion": [
-    "jue",
     "mié",
-    "dom"
+    "sáb",
+    "jue"
    ],
-   "pct_titulos_con_numero": 67,
-   "pct_videos_con_oferta": 3,
-   "ofertas": [
-    "mentoria"
-   ],
+   "pct_titulos_con_numero": 73,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
    "plataformas": [],
    "top5": [
     {
-     "titulo": "La Respuesta de 3 Segundos que Detiene las Malas Contestaciones",
-     "vistas": 237767,
-     "duracion_s": 1156,
-     "url": "https://www.youtube.com/watch?v=QVQ5L2BCDEI",
-     "miniatura": "https://i.ytimg.com/vi/QVQ5L2BCDEI/maxresdefault.jpg"
+     "titulo": "Cada Vitamina y Lo Que Hace en Tu Cuerpo, en 20 Min",
+     "vistas": 843245,
+     "duracion_s": 1171,
+     "url": "https://www.youtube.com/watch?v=G2aRjGzHl3c",
+     "miniatura": "https://i.ytimg.com/vi/G2aRjGzHl3c/maxresdefault.jpg"
     },
     {
-     "titulo": "10 Frases que los Padres Dicen y que Destruyen la Confianza de sus Hijos",
-     "vistas": 188305,
-     "duracion_s": 546,
-     "url": "https://www.youtube.com/watch?v=imMvAaagJV0",
-     "miniatura": "https://i.ytimg.com/vi/imMvAaagJV0/maxresdefault.jpg"
+     "titulo": "¿Por qué no descansas? Las fases del sueño explicadas",
+     "vistas": 307433,
+     "duracion_s": 726,
+     "url": "https://www.youtube.com/watch?v=ITS2sMBANac",
+     "miniatura": "https://i.ytimg.com/vi/ITS2sMBANac/maxresdefault.jpg"
     },
     {
-     "titulo": "La Importancia de los Abuelos en la Crianza y el Desarrollo del Bebé",
-     "vistas": 119826,
-     "duracion_s": 946,
-     "url": "https://www.youtube.com/watch?v=pUdwCRJKv30",
-     "miniatura": "https://i.ytimg.com/vi/pUdwCRJKv30/maxresdefault.jpg"
+     "titulo": "Los 12 Pares Craneales: Qué Hacen y Por Qué Importan (Explicado Fácil)",
+     "vistas": 302951,
+     "duracion_s": 1075,
+     "url": "https://www.youtube.com/watch?v=OUPuK8kAI0M",
+     "miniatura": "https://i.ytimg.com/vi/OUPuK8kAI0M/maxresdefault.jpg"
     },
     {
-     "titulo": "7  Hábitos de Padres que Crían Hijos que Piensan por Sí Mismos",
-     "vistas": 115846,
-     "duracion_s": 529,
-     "url": "https://www.youtube.com/watch?v=zpjD_XNwSlo",
-     "miniatura": "https://i.ytimg.com/vi/zpjD_XNwSlo/maxresdefault.jpg"
+     "titulo": "Las HORMONAS explicadas en 10 minutos",
+     "vistas": 272979,
+     "duracion_s": 606,
+     "url": "https://www.youtube.com/watch?v=RL0WWuuZUAk",
+     "miniatura": "https://i.ytimg.com/vi/RL0WWuuZUAk/maxresdefault.jpg"
     },
     {
-     "titulo": "7 Conductas que Parecen Rebeldía... Pero Revelan un Niño Superdotado",
-     "vistas": 89340,
-     "duracion_s": 559,
-     "url": "https://www.youtube.com/watch?v=qpUeB8D7_74",
-     "miniatura": "https://i.ytimg.com/vi/qpUeB8D7_74/maxresdefault.jpg"
+     "titulo": "Todos los NUTRIENTES que tu cuerpo necesita (y por qué uno solo no te sirve)",
+     "vistas": 250902,
+     "duracion_s": 1292,
+     "url": "https://www.youtube.com/watch?v=pRsJoIlrROY",
+     "miniatura": "https://i.ytimg.com/vi/pRsJoIlrROY/maxresdefault.jpg"
     }
    ]
   },
   {
-   "canal_id": "UC37LiqekZ3ZksjTW1zbo-dA",
-   "canal": "    Biotopía",
-   "url": "https://www.youtube.com/channel/UC37LiqekZ3ZksjTW1zbo-dA",
-   "suscriptores": 22900,
+   "canal_id": "UCtYguH6XbSaRy1X4CCOKLug",
+   "canal": "Edad de Oro Saludable",
+   "url": "https://www.youtube.com/channel/UCtYguH6XbSaRy1X4CCOKLug",
+   "suscriptores": 16300,
    "pais": "ES",
-   "n_virales_radar": 6,
+   "n_virales_radar": 4,
    "videos_analizados": 30,
-   "videos_por_semana": 2.3,
+   "videos_por_semana": 7.0,
    "pct_shorts": 0,
-   "duracion_media_largos_min": 8.9,
+   "duracion_media_largos_min": 35.6,
    "duracion_media_shorts_s": 0,
-   "mediana_vistas": 4607.0,
-   "vistas_top": 752236,
-   "outlier_top": 163.3,
-   "engagement_medio": 0.0312,
+   "mediana_vistas": 21460.5,
+   "vistas_top": 685145,
+   "outlier_top": 31.9,
+   "engagement_medio": 0.0234,
    "horas_publicacion": [
-    "13:00",
-    "14:00",
-    "12:00"
+    "06:00",
+    "07:00",
+    "05:00"
    ],
    "dias_publicacion": [
-    "jue",
-    "mar",
+    "sáb",
+    "dom",
     "lun"
    ],
-   "pct_titulos_con_numero": 37,
-   "pct_videos_con_oferta": 17,
+   "pct_titulos_con_numero": 67,
+   "pct_videos_con_oferta": 100,
    "ofertas": [
-    "curso"
+    "comunidad"
    ],
-   "plataformas": [
-    "hotmart"
-   ],
+   "plataformas": [],
    "top5": [
     {
-     "titulo": "La Grasa Visceral Odia Este Hábito Matutino (Empieza Mañana Mismo)",
-     "vistas": 752236,
-     "duracion_s": 799,
-     "url": "https://www.youtube.com/watch?v=hPBrwFn5-fU",
-     "miniatura": "https://i.ytimg.com/vi/hPBrwFn5-fU/maxresdefault.jpg"
+     "titulo": "🥑 5 frutas para proteger tu vista por la noche | salud integral",
+     "vistas": 685145,
+     "duracion_s": 2380,
+     "url": "https://www.youtube.com/watch?v=CnNVAfi_4jc",
+     "miniatura": "https://i.ytimg.com/vi/CnNVAfi_4jc/maxresdefault.jpg"
     },
     {
-     "titulo": "La Grasa Visceral Odia Esto: Hazlo Todos los Días (Sin Dieta)",
-     "vistas": 514737,
-     "duracion_s": 632,
-     "url": "https://www.youtube.com/watch?v=Y8L1wMDhKB0",
-     "miniatura": "https://i.ytimg.com/vi/Y8L1wMDhKB0/maxresdefault.jpg"
+     "titulo": "la fruta que muchos médicos recomiendan antes de dormir: beneficios para tu salud integral",
+     "vistas": 515179,
+     "duracion_s": 2513,
+     "url": "https://www.youtube.com/watch?v=iXtwpmWk9Cs",
+     "miniatura": "https://i.ytimg.com/vi/iXtwpmWk9Cs/maxresdefault.jpg"
     },
     {
-     "titulo": "La Grasa Visceral Odia Este Hábito Nocturno (Empieza Hoy Mismo)",
-     "vistas": 420586,
-     "duracion_s": 500,
-     "url": "https://www.youtube.com/watch?v=x2QtgaqNu48",
-     "miniatura": "https://i.ytimg.com/vi/x2QtgaqNu48/maxresdefault.jpg"
+     "titulo": "👁️ protege tu salud integral con estas señales que pueden salvar tu visión",
+     "vistas": 320532,
+     "duracion_s": 2343,
+     "url": "https://www.youtube.com/watch?v=4MGqRJJAtZY",
+     "miniatura": "https://i.ytimg.com/vi/4MGqRJJAtZY/maxresdefault.jpg"
     },
     {
-     "titulo": "6 Alimentos Que Debes Dejar de Comer Hoy Mismo (Causan Grasa Visceral)",
-     "vistas": 164285,
-     "duracion_s": 533,
-     "url": "https://www.youtube.com/watch?v=OO0AAB8bVpQ",
-     "miniatura": "https://i.ytimg.com/vi/OO0AAB8bVpQ/maxresdefault.jpg"
+     "titulo": "👁️ salud integral después de los 55: 5 alimentos y hábitos para proteger la visión",
+     "vistas": 275564,
+     "duracion_s": 1987,
+     "url": "https://www.youtube.com/watch?v=CkdldPB0nbI",
+     "miniatura": "https://i.ytimg.com/vi/CkdldPB0nbI/maxresdefault.jpg"
     },
     {
-     "titulo": "La Grasa Visceral Odia Esta Bebida: Tómala Desde Hoy Mismo",
-     "vistas": 143963,
-     "duracion_s": 496,
-     "url": "https://www.youtube.com/watch?v=frb6WWLqJ64",
-     "miniatura": "https://i.ytimg.com/vi/frb6WWLqJ64/maxresdefault.jpg"
+     "titulo": "🥬 7 alimentos que cuidan tu vista y fortalecen tu salud integral de forma natural",
+     "vistas": 208191,
+     "duracion_s": 2155,
+     "url": "https://www.youtube.com/watch?v=wi6Qk-dBDRU",
+     "miniatura": "https://i.ytimg.com/vi/wi6Qk-dBDRU/maxresdefault.jpg"
     }
    ]
   }
@@ -362,71 +350,79 @@
  "analisis": {
   "formulas_titulo": [
    {
-    "plantilla": "Cada [tema del cuerpo]: qué hace y para qué sirve, explicado",
+    "plantilla": "¿Sientes X? Y cosas que tu cuerpo te está avisando",
     "ejemplos": [
-     "Cada Mito sobre Perder Grasa, Explicado",
-     "Cada Tipo de Sueño y Para Qué Sirve, Explicado",
-     "Cada Órgano del Cuerpo Humano: Qué Hace y Qué Pasa Cuando Falla"
+     "Si te despiertas a las 3 A.M., tu cuerpo te está avisando esto",
+     "Ansiedad: 7 síntomas físicos que puedes confundir con otra enfermedad",
+     "¿Sientes esto? 20 síntomas de deficiencia mineral que NO debes ignorar"
     ]
    },
    {
-    "plantilla": "¿Qué le pasa a tu [órgano] si [hábito] [tiempo o edad]?",
+    "plantilla": "¿Te cuesta X después de los 60? Come estos N alimentos | Salud",
     "ejemplos": [
-     "¿Qué le pasa a tu cuerpo si tomas mate todos los días?",
-     "¿Qué le pasa a tu glucosa si haces 20 sentadillas después de cada comida?",
-     "¿Qué le pasa a tu cuerpo si haces el ayuno 5:2?"
+     "¿Te cuesta caminar? 5 alimentos que pueden fortalecer tus piernas | Salud",
+     "¿Sin fuerza después de los 60? El garbanzo puede ayudar a recuperar músculo | Salud",
+     "¿Le Cuesta Caminar Después de los 70? ¡5 Raíces para Fortalecer sus Piernas! | Salud"
     ]
    },
    {
-    "plantilla": "La [problema] odia [hábito concreto] (Empieza hoy)",
+    "plantilla": "N alimentos o hábitos de antes que hoy borramos",
     "ejemplos": [
-     "La Grasa Visceral Odia Este Hábito Matutino (Empieza Mañana Mismo)",
-     "La Grasa Visceral Odia Este Orden Al Comer (Empieza Hoy)",
-     "La Grasa Visceral Odia Este Hábito Aburrido (Y Casi Nadie Lo Hace)"
+     "15 Hábitos de Cocina de tu Abuela que Venían de los Aztecas",
+     "14 Alimentos que Daban Energía a los Aztecas Sin Tomar Café",
+     "16 Desayunos Aztecas que Borraron los Españoles"
     ]
    },
    {
-    "plantilla": "[Número] [hábitos o frases] de [tipo de persona] que [efecto]",
+    "plantilla": "Todo sobre X explicado en N minutos (guía completa)",
     "ejemplos": [
-     "7 Hábitos Diarios De Padres Emocionalmente Fuertes",
-     "10 Frases que los Padres Dicen y que Destruyen la Confianza de sus Hijos",
-     "11 Lecciones de Crianza Que Todo Padre Descubre Demasiado Tarde"
+     "Cada vitamina del complejo B, explicada",
+     "Toda Tu Microbiota Explicada en 15 Minutos (Y CÓMO REPARARLA)",
+     "Los 22 Aminoácidos Explicados en 20 Minutos"
     ]
    },
    {
-    "plantilla": "Cosas que [tu cuerpo hace o tienes] y nadie te explicó",
+    "plantilla": "Pregunta filosófica corta en mayúsculas sobre vivir mejor",
     "ejemplos": [
-     "Cada Condición Común que Probablemente TIENES Sin Saberlo",
-     "Cosas que Tu Cuerpo Hace y Nadie te Explicó",
-     "Condiciones Físicas que Probablemente Tienes y NO Sabes"
+     "¿SE PUEDE TENER PAZ PERMANENTE?",
+     "EL AMOR PROPIO COMO MOTOR",
+     "LA MUERTE DE TU ANTIGUA VIDA"
     ]
    }
   ],
-  "formato_y_cadencia": "Los dos canales grandes, Pecas Explica y Cápsula Mental, publican poco (1,3 a 1,5 videos por semana). Hacen videos largos de 15 a 17 minutos, casi sin shorts (0 a 3 por ciento), y tienen medianas de 107 mil y 121 mil vistas. Ganan por temas enciclopédicos con la palabra «Cada». Los pequeños publican más (BioCuerpo 3,3 por semana, Biotopía 2,3, Crianza Consciente 1,9) con videos de 9 a 13 minutos. Su mediana es mucho menor (1,3 mil a 12 mil vistas), pero tienen más engagement (3 a 4 por ciento) y picos virales: Biotopía llega a 163 veces su mediana y BioCuerpo a 656. El 33 por ciento de engagement de BioCuerpo sale de una base de vistas muy baja, así que tómalo con pinzas. Los números en título van de 15 por ciento (Pecas) a 67 por ciento (Crianza Consciente). Las horas más repetidas son del mediodía a la tarde (12:00 a 17:00), y Cápsula Mental publica de noche (20:00 a 22:00). Los días se concentran entre lunes y jueves. Conclusión: para canal pequeño sirven 2 videos por semana de 9 a 12 minutos, publicados entre semana a mediodía.",
-  "como_venden": "Todos venden poco y casi siempre cursos. Cápsula Mental tiene oferta en 40 por ciento de sus videos (comunidad y curso). Biotopía pone oferta en 17 por ciento, con curso en Hotmart. Pecas Explica la pone en 12 por ciento, con curso en Gumroad. BioCuerpo (curso) y Crianza Consciente (mentoría) la ponen solo en 3 por ciento. Los datos no muestran cómo cierran dentro del video, pero los títulos hacen de llamado a la acción con frases como «Empieza hoy» o «Hazlo hoy mismo». Entre los pequeños, el contenido va primero y la oferta aparece en pocos videos. Para nosotros: invitar sin empujar, con el reto de hoy como cierre y el libro o la comunidad como puerta suave en la descripción.",
-  "hueco": "Nadie usa shorts (0 a 3 por ciento), así que ese carril está libre. Los títulos juegan al miedo o al dato frío: «te está matando», «odia», «destruyen», «explicado». Nadie habla con voz cálida y cercana, ni conecta cuerpo, mente y trabajo como un solo sistema. Tampoco nadie cierra con una acción de menos de 5 minutos que invite a comentar. El canal de salud que le habla al espectador como un amigo con una taza de café, sin alarmismo, con una acción pequeña al final y con la sugerencia de consultar a un profesional, no existe en este grupo.",
+  "formato_y_cadencia": "Dos modelos. (a) Cuerpo Sabio: 1,3 videos por semana, videos largos de unos 15 minutos y la mediana de vistas más alta del grupo (37 mil), con solo 31 mil suscriptores: el canal que más rinde por video. Publica mié a sáb entre 12:00 y 19:00. (b) Edad de Oro Saludable y Salud Mayor: volumen alto (5 a 7 videos por semana), largos de 30 minutos, publicados de madrugada (04:00 a 07:00), con mucho SEO y título repetido. Edad de Oro tiene 21 mil de mediana, Salud Mayor 4 mil. Kika Silva es el único con 63 % de shorts y le va peor (mediana de 1.300 vistas con 6.880 suscriptores), y Central Aztecas funciona con series de títulos clonados (80 % con número). Lectura: lo que mueve vistas son los largos con lista numerada y promesa concreta, no los shorts ni el volumen por sí solo. El engagement es parecido en todos (1 a 3 %), así que lo decide el título.",
+  "como_venden": "Casi nadie vende de frente. Cuatro de los cinco canales tienen 0 % de videos con oferta. Edad de Oro Saludable cierra con una invitación a su comunidad en el 100 % de sus videos (cierre blando, sin precio). Kika Silva menciona un curso en solo el 3 % de sus videos, así que su audiencia es de contenido y la venta es casi inexistente. Nadie usa plataformas de pago visibles ni ofertas con urgencia. Aprendizaje para Germancho: el cierre que repite y funciona es el de comunidad (invitar a quedarse y comentar), que encaja con el Reto de hoy. Primero se construye hábito y conversación, y la oferta va después y en voz baja.",
+  "hueco": "Nadie conecta el cuerpo con la vida diaria y con quien la vive. Cuerpo Sabio explica el sistema; Salud Mayor y Edad de Oro dan listas de alimentos para mayores de 60; Central Aztecas es nostalgia cultural. Ninguno ofrece una acción pequeña y concreta de menos de 5 minutos, ni mezcla cuerpo, mente y trabajo como un solo sistema (el estrés y el sueño ligados a la rutina, la silla y el dinero). Tampoco hay una voz cercana y con humor: todos suenan a ficha técnica o a promesa milagrosa («secreto de los 100 años», «sorprendente verdad»). Y casi nadie habla a adultos de 30 a 50 años, que no son el público de los que dicen «después de los 60». El hueco es salud integral para el adulto activo, dicha como un amigo barista, con reto del día.",
   "plan_replica": [
-   "Días 1 a 3: graba y publica un video largo de 10 a 12 minutos con la plantilla Cada [tema] explicado, en versión Germancho (por ejemplo, los tipos de cansancio). Publícalo un jueves a las 13:00 y cierra con el Reto de hoy.",
-   "Días 2 a 14: saca 6 shorts de 30 a 45 segundos (3 por semana), cada uno con una sola idea y un reto de menos de 5 minutos. Es el carril que nadie usa. Reutiliza los cortes del video largo.",
-   "Semana 2: publica un segundo largo con la plantilla ¿Qué le pasa a tu... si...? o con número, en versión suave y sin cifras médicas absolutas. Añade una frase de consultar a un profesional si hay síntomas.",
-   "Prueba de títulos: publica un video con número y otro sin número. Fija un comentario con el Reto de hoy en cada uno y responde los primeros 20 comentarios en las primeras 2 horas.",
-   "Día 14: compara mediana de vistas, engagement y comentarios con el reto. Pon el libro Café con Propósito en la descripción solo en 1 de cada 3 videos, como invitación y no como venta. Repite lo que funcionó."
+   "Días 1 a 3: graba 2 videos largos de 12 a 15 minutos con la fórmula de síntomas o señales (ej. cuerpo, mente, trabajo) y un reto de 5 minutos al final. Publícalos mié y sáb entre 12:00 y 19:00.",
+   "Días 4 a 7: haz una serie de 3 títulos con la plantilla lista numerada más promesa concreta (7 a 12 ítems), siempre con número en el título, porque 67 a 82 % de los que funcionan lo traen.",
+   "Semana 2: lanza el hueco como marca de serie, «Reto de hoy de Germancho», un video corto de 60 segundos por día con una acción de menos de 5 minutos, y úsalo para ver qué tema pide la gente en comentarios.",
+   "Todos los videos: cierra siempre con una invitación a comentar cómo te fue con el reto y a sumarse a la comunidad (modelo Edad de Oro). Sin oferta ni precio aún.",
+   "Final de la semana 2: revisa la mediana de vistas por título y por formato; duplica la plantilla que más rinda y baja el resto. Pon el nombre de Germancho en la miniatura para que se reconozca la voz."
   ],
   "titulos_propuestos": [
    {
-    "titulo": "Cada Tipo de Cansancio Explicado: Qué Te Está Pidiendo Tu Cuerpo",
+    "titulo": "Si te cuesta levantarte por la mañana, tu cuerpo te está pidiendo esto",
     "formato": "largo"
    },
    {
-    "titulo": "¿Qué le pasa a tu día si empiezas con 5 minutos de cuaderno?",
+    "titulo": "7 señales de que tu trabajo te está pasando factura en el cuerpo",
+    "formato": "largo"
+   },
+   {
+    "titulo": "¿Sin energía a las 4 de la tarde? 5 hábitos de tu taza de café que ayudan",
+    "formato": "largo"
+   },
+   {
+    "titulo": "Tu cuerpo, tu mente y tu trabajo explicados en 12 minutos",
+    "formato": "largo"
+   },
+   {
+    "titulo": "Reto de hoy: 3 minutos para soltar la espalda sin salir de tu escritorio",
     "formato": "short"
    },
    {
-    "titulo": "5 Hábitos Diarios de Quienes Cuidan Cuerpo, Mente y Trabajo a la Vez",
-    "formato": "largo"
-   },
-   {
-    "titulo": "Cosas que Tu Cuerpo Te Dice Cuando Trabajas Sin Parar y Nadie Escucha",
+    "titulo": "¿Puedes vivir sin estrés permanente? Lo que de verdad cambia tu día",
     "formato": "short"
    }
   ]
