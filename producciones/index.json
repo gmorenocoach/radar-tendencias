@@ -1,6 +1,61 @@
 {
- "actualizado": "2026-11-15T16:42:55",
+ "actualizado": "2026-11-16T19:58:14",
  "producciones": [
+  {
+   "id": "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso",
+   "perfil": "equilibrate_es",
+   "canal": "Equilíbrate · Amor",
+   "fecha": "2026-11-16T19:58:14",
+   "titulo": "Si te sabes la pelea de memoria, no es por eso",
+   "titulos_alternativos": [
+    "La pelea de siempre: 3 necesidades escondidas",
+    "No pelean por los platos: 3 cosas que sí piden"
+   ],
+   "descripcion": "¿Siempre discuten por lo mismo? Capítulo 4 de La Taza Derramada: 3 necesidades que se esconden detrás de la misma pelea en pareja y una pregunta para cambiarla.\nPalabras clave: discusiones de pareja, la misma pelea, comunicación en pareja, necesidades emocionales, amar sin perderte.\nSi hay violencia en tu relación, busca ayuda profesional.\nHaz tu reto de hoy y cuéntame en comentarios qué frase cambiaste.\n\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».\n\n#discusionesdepareja #amarsinperderte #lataza derramada #comunicacionenpareja #relacionesdepareja #amorpropio #germancho",
+   "hashtags": [
+    "#discusionesdepareja",
+    "#amarsinperderte",
+    "#lataza derramada",
+    "#comunicacionenpareja",
+    "#relacionesdepareja",
+    "#amorpropio",
+    "#germancho"
+   ],
+   "reto_de_hoy": "Cuando empiece la discusión de siempre, cambia una sola frase por: «Lo que necesito ahora es...» y anota en tu cuaderno qué pasó.",
+   "duracion_s": 68.8,
+   "tamano_mb": 12.9,
+   "fuente": {
+    "tema": "La pelea que ya te sabes de memoria. Gancho: Si puedes adivinar cada frase de la discusión antes de que empiece, no están peleando por eso.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 4"
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "short",
+   "visual": "ilustracion",
+   "archivos": {
+    "video": "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/short.mp4",
+    "miniatura": "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/miniatura.jpg",
+    "miniatura_16x9": "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/miniatura_16x9.jpg",
+    "guion": "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/guion.json",
+    "ficha": "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/ficha.json",
+    "miniaturas": [
+     "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/miniatura.jpg",
+     "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/miniatura_16x9.jpg",
+     "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/miniatura_16x9_oscura.jpg",
+     "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/miniatura_16x9_rostro.jpg",
+     "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/miniatura_oscura_9x16.jpg",
+     "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».",
+   "ganchos_alternativos": [
+    "¿Cuántas veces has tenido la misma pelea con tu pareja? ¿Diez? ¿Cien? Si ya te sabes el guion completo, hay algo que ninguno de los dos está diciendo.",
+    "Si te sabes la pelea de memoria, no es por los platos ni por el celular. La discusión de siempre es un disfraz, y hoy te cuento qué hay debajo.",
+    "Yo estuve años discutiendo por lo mismo con alguien que quería. Hasta que entendí que no peleábamos por eso, y ahí cambió todo. Te cuento qué vi."
+   ],
+   "comentario_fijado": "Reto de hoy: Cuando empiece la discusión de siempre, cambia una sola frase por: «Lo que necesito ahora es...» y anota en tu cuaderno qué pasó. Cuéntame cómo te fue 👇 Escribe RETO y te mando el reto completo.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
   {
    "id": "20261115-equilibrate_es-anota-3-cosas-que-se-repiten-en-tus-relaciones",
    "perfil": "equilibrate_es",
