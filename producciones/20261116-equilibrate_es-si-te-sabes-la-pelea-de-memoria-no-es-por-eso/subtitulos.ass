@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.00,Sub,,0,0,0,,{\k21}SI {\k30}PUEDES {\k49}ADIVINAR
+Dialogue: 0,0:00:01.00,0:00:01.81,Sub,,0,0,0,,{\k36}CADA {\k36}FRASE {\k9}DE
+Dialogue: 0,0:00:01.81,0:00:03.08,Sub,,0,0,0,,{\k10}LA {\k71}DISCUSIÓN {\k45}ANTES
+Dialogue: 0,0:00:03.08,0:00:04.25,Sub,,0,0,0,,{\k10}DE {\k10}QUE {\k96}EMPIECE...
+Dialogue: 0,0:00:04.25,0:00:05.26,Sub,,0,0,0,,{\k19}NO {\k33}ESTÁN {\k50}PELEANDO
+Dialogue: 0,0:00:05.26,0:00:06.35,Sub,,0,0,0,,{\k20}POR {\k75}ESO. {\k14}Y
+Dialogue: 0,0:00:06.35,0:00:07.62,Sub,,0,0,0,,{\k36}LLEVAS {\k38}MESES {\k52}PELEANDO
+Dialogue: 0,0:00:07.62,0:00:09.17,Sub,,0,0,0,,{\k19}POR {\k10}LO {\k127}EQUIVOCADO.
+Dialogue: 0,0:00:09.17,0:00:10.91,Sub,,0,0,0,,{\k21}TÚ {\k63}DICES {\k91}«SIEMPRE
+Dialogue: 0,0:00:10.91,0:00:12.33,Sub,,0,0,0,,{\k37}HACES {\k15}LO {\k89}MISMO».
+Dialogue: 0,0:00:12.33,0:00:13.23,Sub,,0,0,0,,{\k44}ÉL {\k17}O {\k29}ELLA
+Dialogue: 0,0:00:13.23,0:00:14.71,Sub,,0,0,0,,{\k83}CONTESTA {\k53}«NO {\k12}ES
+Dialogue: 0,0:00:14.71,0:00:16.05,Sub,,0,0,0,,{\k23}PARA {\k94}TANTO». {\k16}Y
+Dialogue: 0,0:00:16.05,0:00:16.86,Sub,,0,0,0,,{\k17}AHÍ {\k39}VIENE {\k24}EL
+Dialogue: 0,0:00:16.86,0:00:18.81,Sub,,0,0,0,,{\k59}«TÚ {\k36}NUNCA {\k100}ESCUCHAS».
+Dialogue: 0,0:00:18.81,0:00:20.12,Sub,,0,0,0,,{\k29}¿TE {\k80}SUENA? {\k22}LOS
+Dialogue: 0,0:00:20.12,0:00:21.80,Sub,,0,0,0,,{\k71}PLATOS, {\k17}EL {\k80}CELULAR,
+Dialogue: 0,0:00:21.80,0:00:22.93,Sub,,0,0,0,,{\k20}EL {\k67}DINERO, {\k25}EL
+Dialogue: 0,0:00:22.93,0:00:24.50,Sub,,0,0,0,,{\k92}TIEMPO... {\k46}ESO {\k19}ES
+Dialogue: 0,0:00:24.50,0:00:26.02,Sub,,0,0,0,,{\k34}SOLO {\k11}EL {\k108}DISFRAZ.
+Dialogue: 0,0:00:26.02,0:00:27.06,Sub,,0,0,0,,{\k54}DEBAJO {\k23}HAY {\k27}ALGO
+Dialogue: 0,0:00:27.06,0:00:27.76,Sub,,0,0,0,,{\k21}QUE {\k35}NADIE {\k14}HA
+Dialogue: 0,0:00:27.76,0:00:29.28,Sub,,0,0,0,,{\k36}PUESTO {\k9}EN {\k107}PALABRAS.
+Dialogue: 0,0:00:29.28,0:00:31.50,Sub,,0,0,0,,{\k46}PRIMERA {\k108}NECESIDAD: {\k67}NECESITO
+Dialogue: 0,0:00:31.50,0:00:32.72,Sub,,0,0,0,,{\k62}SENTIRME {\k50}VISTO {\k10}O
+Dialogue: 0,0:00:32.72,0:00:34.08,Sub,,0,0,0,,{\k101}VISTA. {\k23}NO {\k12}QUE
+Dialogue: 0,0:00:34.08,0:00:35.31,Sub,,0,0,0,,{\k12}ME {\k96}CONTESTES, {\k15}QUE
+Dialogue: 0,0:00:35.31,0:00:37.37,Sub,,0,0,0,,{\k12}ME {\k91}VEAS. {\k104}SEGUNDA:
+Dialogue: 0,0:00:37.37,0:00:39.62,Sub,,0,0,0,,{\k67}NECESITO {\k59}SENTIRME {\k99}PRIORIDAD.
+Dialogue: 0,0:00:39.62,0:00:41.19,Sub,,0,0,0,,{\k16}Y {\k77}TERCERA: {\k64}NECESITO
+Dialogue: 0,0:00:41.19,0:00:42.25,Sub,,0,0,0,,{\k56}SENTIRME {\k10}A {\k40}SALVO
+Dialogue: 0,0:00:42.25,0:00:43.91,Sub,,0,0,0,,{\k18}PARA {\k110}EQUIVOCARME. {\k37}ANTES
+Dialogue: 0,0:00:43.91,0:00:44.54,Sub,,0,0,0,,{\k9}DE {\k42}SOLTAR {\k12}LA
+Dialogue: 0,0:00:44.54,0:00:45.47,Sub,,0,0,0,,{\k34}FRASE {\k12}DE {\k48}SIEMPRE,
+Dialogue: 0,0:00:45.47,0:00:47.21,Sub,,0,0,0,,{\k100}PREGÚNTATE: {\k32}¿QUÉ {\k42}ESTOY
+Dialogue: 0,0:00:47.21,0:00:48.69,Sub,,0,0,0,,{\k79}NECESITANDO {\k13}EN {\k57}REALIDAD
+Dialogue: 0,0:00:48.69,0:00:50.10,Sub,,0,0,0,,{\k35}AHORA {\k88}MISMO? {\k17}Y
+Dialogue: 0,0:00:50.10,0:00:51.01,Sub,,0,0,0,,{\k44}DILO {\k22}EN {\k26}UNA
+Dialogue: 0,0:00:51.01,0:00:52.77,Sub,,0,0,0,,{\k34}SOLA {\k103}FRASE. {\k38}RETO
+Dialogue: 0,0:00:52.77,0:00:53.67,Sub,,0,0,0,,{\k12}DE {\k60}HOY: {\k18}LA
+Dialogue: 0,0:00:53.67,0:00:54.51,Sub,,0,0,0,,{\k52}PRÓXIMA {\k21}VEZ {\k10}QUE
+Dialogue: 0,0:00:54.51,0:00:55.48,Sub,,0,0,0,,{\k48}EMPIECE {\k13}LA {\k37}PELEA
+Dialogue: 0,0:00:55.48,0:00:56.73,Sub,,0,0,0,,{\k13}DE {\k63}SIEMPRE, {\k49}CAMBIA
+Dialogue: 0,0:00:56.73,0:00:57.99,Sub,,0,0,0,,{\k38}SOLO {\k20}UNA {\k69}FRASE.
+Dialogue: 0,0:00:57.99,0:00:59.56,Sub,,0,0,0,,{\k53}CUÉNTAME {\k14}EN {\k89}COMENTARIOS
+Dialogue: 0,0:00:59.56,0:01:01.97,Sub,,0,0,0,,{\k30}CUÁL {\k146}FUE. {\k65}MAÑANA,
+Dialogue: 0,0:01:01.97,0:01:03.56,Sub,,0,0,0,,{\k67}CAPÍTULO {\k74}5: {\k17}EL
+Dialogue: 0,0:01:03.56,0:01:04.84,Sub,,0,0,0,,{\k34}VIDEO {\k57}COMPLETO {\k37}ESTÁ
+Dialogue: 0,0:01:04.84,0:01:05.84,Sub,,0,0,0,,{\k12}EN {\k12}EL {\k77}CANAL.
+Dialogue: 0,0:01:05.84,0:01:07.81,Sub,,0,0,0,,{\k107}SUSCRÍBETE: {\k66}MAÑANA {\k24}HAY
+Dialogue: 0,0:01:07.81,0:01:08.82,Sub,,0,0,0,,{\k30}OTRO {\k71}RETO.

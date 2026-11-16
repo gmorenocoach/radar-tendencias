@@ -993,7 +993,10 @@
    "subtema": "Amor propio sin egoísmo ni muros: límites, tiempo propio, pedir y recibir. Cierre de la serie: te quedas con tu taza llena y la decisión de con quién compartirla.",
    "referencia_video_id": "xt6CGKDkLpM",
    "minutos": 15,
-   "estado": "planificado"
+   "estado": "error",
+   "produccion_id": "",
+   "resultado": "error: TypeError: list indices must be integers or slices, not str",
+   "producido_en": "2026-11-16T19:54:22"
   },
   {
    "id": "equilibrate_es-20261118-S",
@@ -1006,7 +1009,10 @@
    "titulo": "La pelea que ya te sabes de memoria",
    "gancho": "Si puedes adivinar cada frase de la discusión antes de que empiece, no están peleando por eso.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261116-equilibrate_es-si-te-sabes-la-pelea-de-memoria-no-es-por-eso",
+   "resultado": "ok 232s",
+   "producido_en": "2026-11-16T19:58:14"
   },
   {
    "id": "equilibrate_es-20261119-S",

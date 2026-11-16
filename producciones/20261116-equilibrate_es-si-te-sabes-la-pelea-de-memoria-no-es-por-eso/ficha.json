@@ -1,0 +1,48 @@
+{
+ "fuente": {
+  "tema": "La pelea que ya te sabes de memoria. Gancho: Si puedes adivinar cada frase de la discusión antes de que empiece, no están peleando por eso.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 4"
+ },
+ "adn": {
+  "tema_central": "La pelea que ya te sabes de memoria en la pareja: cuando puedes adivinar cada frase de la discusión antes de que empiece, el verdadero conflicto no es el tema que discuten sino una necesidad emocional no dicha (Serie 'La Taza Derramada: 6 capítulos para amar sin perderte', capítulo 4)",
+  "promesa_del_titulo": "Descubrirás por qué repiten siempre la misma discusión y cuál es la necesidad real escondida debajo, más un movimiento concreto para romper el guion esta semana.",
+  "gancho_primeros_segundos": "Texto en pantalla y voz directa a cámara: 'Si puedes adivinar cada frase de la discusión antes de que empiece... no están peleando por eso.' Pausa de medio segundo y corte rápido a la segunda frase: 'Y llevas meses peleando por lo equivocado.'",
+  "tipo_de_gancho": "Contradicción + reconocimiento inmediato (el espectador se identifica en 2 segundos y se activa la curiosidad por la 'verdadera' causa)",
+  "estructura": [
+   "0-3s: Gancho de contradicción: 'Si te sabes la pelea de memoria, no están peleando por eso'",
+   "3-10s: Espejo: 2-3 frases típicas que todos reconocen ('Siempre haces lo mismo', 'Tú nunca escuchas', 'No es para tanto')",
+   "10-20s: Giro: el tema (platos, mensajes, tiempo, dinero) es solo el disfraz; debajo hay una necesidad sin nombre",
+   "20-40s: Lista corta de 3 necesidades que se esconden detrás de la pelea repetida: 1) 'Necesito sentirme visto/a', 2) 'Necesito sentirme prioridad', 3) 'Necesito sentirme a salvo para equivocarme'",
+   "40-52s: Micro-herramienta: antes de contestar con la frase de siempre, preguntar '¿qué estoy necesitando en realidad ahora mismo?' y decirlo en una sola frase",
+   "52-58s: Cierre con reto + enganche de serie: 'Esta semana, cuando empiece la pelea de siempre, cambia solo una frase. Cuéntame cuál en comentarios. Capítulo 5 de La Taza Derramada: lo que pasa cuando nadie quiere ser el primero en ceder'"
+  ],
+  "ritmo": "Rápido y limpio: cortes cada 2-3 segundos, texto en pantalla sincronizado con la voz, una sola idea por plano, pausa breve antes del giro del segundo 10 y antes del reto final. Duración objetivo 45-58 segundos.",
+  "tono": "Cercano, directo y cálido, como una amiga o amigo que dice una verdad incómoda con cariño. Sin diagnóstico clínico ni culpar a nadie; segunda persona ('tú') con lenguaje cotidiano.",
+  "cta_final": "Reto concreto: 'Esta semana, la próxima vez que empiece la pelea de siempre, cambia una sola frase y cuéntame en comentarios cuál fue. Sigue la serie La Taza Derramada: mañana, capítulo 5.'",
+  "formula_del_titulo": "Contradicción/identificación + número: 'Si te sabes la pelea de memoria, [no es por eso] + [número de razones/claves]'",
+  "titulo_con_numero": "Si te sabes la pelea de memoria, no es por eso: 3 necesidades que se esconden detrás",
+  "palabras_clave": [
+   "la misma pelea",
+   "discusiones de pareja",
+   "pelear siempre por lo mismo",
+   "comunicación en pareja",
+   "necesidades emocionales",
+   "relaciones de pareja",
+   "amar sin perderte",
+   "La Taza Derramada",
+   "conflictos repetitivos",
+   "cómo dejar de discutir"
+  ],
+  "emocion_dominante": "Reconocimiento incómodo seguido de alivio y esperanza (sentirse visto/a y recibir una salida simple)",
+  "formula_miniatura": "Primer plano de una persona con expresión de cansancio/ironía; texto grande de 3-4 palabras: 'LA PELEA DE SIEMPRE'; elemento visual de una taza volcada con líquido derramándose (identidad de la serie); numeral '4' pequeño en una esquina para el capítulo; alto contraste, fondo oscuro con acento cálido (naranja o amarillo).",
+  "por_que_funciona": "El gancho describe una experiencia universal en pareja y la reencuadra con una contradicción que genera curiosidad inmediata ('no están peleando por eso'). La lista corta de 3 es fácil de retener y compartir; la micro-herramienta da valor accionable en segundos; el reto de comentarios dispara interacción y el enganche al capítulo 5 impulsa visualización en serie y retención del canal. Es compartible porque el espectador lo manda a su pareja ('esto somos nosotros').",
+  "riesgos_a_evitar": [
+   "Diagnosticar o etiquetar a la pareja (narcisista, tóxico) o presentar el contenido como terapia profesional",
+   "Culpar a un género o a una de las partes; mantener el mensaje bilateral",
+   "Prometer que un truco 'arregla' la relación; hablar de 'reducir la repetición', no de curas",
+   "Ignorar situaciones de violencia o abuso: no aplicar este consejo a ellas y, si procede, añadir una nota breve de ayuda profesional",
+   "Alargar la introducción: si el gancho no llega en los primeros 3 segundos, se pierde la retención",
+   "Cerrar sin reto concreto ni conexión con el siguiente capítulo de la serie",
+   "Texto en pantalla demasiado pequeño o con cortes lentos que rompan el ritmo"
+  ]
+ }
+}
