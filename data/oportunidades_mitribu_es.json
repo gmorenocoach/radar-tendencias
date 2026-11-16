@@ -1,170 +1,187 @@
 {
  "perfil": "mitribu_es",
  "canal": "Mi Tribu · Dinero",
- "generado": "2026-11-12T16:54:28",
- "videos_leidos": 10,
- "comentarios_leidos": 322,
+ "generado": "2026-11-16T18:40:53",
+ "videos_leidos": 16,
+ "comentarios_leidos": 413,
  "temas": [
   {
-   "tema": "¿La oferta es real o el precio está inflado?",
-   "menciones": 12,
-   "cita": "Inflan los precios y después te dicen que están en ofertas cuando el precio es el real",
+   "tema": "¿Es seguro y legal usar cupones y trucos de descuento online?",
+   "menciones": 14,
+   "cita": "Por qué aparece ilegal si hay un cupón de descuento",
    "origen": "viral",
-   "titulo": "3 preguntas antes de creerle a un descuento",
-   "gancho": "Si el precio de antes era inventado, el descuento es solo maquillaje. Mira cómo revisarlo con tu taza en la mano.",
-   "reto": "Abre tu cuaderno y anota el precio real de algo que quieres comprar. Compáralo en dos tiendas y espera 24 horas.",
+   "titulo": "¿Ahorrar con cupones es legal? Mira esto antes",
+   "gancho": "Si un truco de ahorro te da miedo, no es el truco: es que nadie te enseñó a revisar.",
+   "reto": "Hoy abre una compra que tengas pendiente y escribe en tu cuaderno 3 datos: precio normal, precio con cupón y quién lo vende.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Desconfianza: ¿esto es publicidad disfrazada?",
+   "tema": "Precios inflados antes de las ofertas (Cyber Day, rebajas falsas)",
    "menciones": 9,
-   "cita": "PUBLICIDAD ENCUBIERTA DE AMAZON PARA QUE COMPRES EN AMAZON",
+   "cita": "Inflan los precios y después te dicen que están en ofertas",
    "origen": "viral",
-   "titulo": "¿Consejo de ahorro o anuncio disfrazado? Cómo notarlo",
-   "gancho": "Si un video te dice que ahorres justo comprando, hazte una pregunta. Aquí va, sin drama.",
-   "reto": "Mira el último video de ahorro que viste y anota quién gana si tú compras.",
+   "titulo": "Ofertas que no lo son: cómo ver el precio real",
+   "gancho": "Una oferta no es barata por llamarse oferta. Es barata si el número final es menor que el que tú ya pagarías.",
+   "reto": "Hoy antes de comprar algo, déjalo una hora en el carrito y pregúntate: ¿lo compraría sin el cartel de oferta?",
    "formato": "short",
-   "urgencia": "media"
+   "urgencia": "alta"
   },
   {
-   "tema": "Dudas de legalidad, calidad y si aplica en mi país",
-   "menciones": 7,
-   "cita": "El precio es muy bajo pero no es el mismo material",
-   "origen": "viral",
-   "titulo": "Antes de usar un truco de ahorro, revisa esto",
-   "gancho": "Barato no siempre es ahorro. Un truco que no sirve en tu país o te llega distinto te cuesta doble.",
-   "reto": "Elige una compra pendiente y escribe tres cosas: envío total, calidad y reseñas reales.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Ahorrar sin comprar lo que no necesitas (cupones en cosas inútiles)",
-   "menciones": 5,
+   "tema": "Comprar por impulso: ahorrar es no comprar lo que no necesitas",
+   "menciones": 6,
    "cita": "Si no compras lo que no necesitas ahorras más",
    "origen": "viral",
-   "titulo": "El mejor descuento es no comprarlo",
-   "gancho": "Los cupones suelen estar en lo que no usas. Tu cuenta mejora más con una pausa que con un código.",
-   "reto": "Guarda en el cuaderno un antojo de hoy y decide en 48 horas si sigue en pie.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Ahorrar cuando no alcanza y desconfianza en bancos y apps",
-   "menciones": 5,
-   "cita": "Ya no podemos separar ni un peso, cuanta fantasía",
-   "origen": "viral",
-   "titulo": "¿No te alcanza para ahorrar? Empieza por aquí",
-   "gancho": "Ahorrar no es una cifra grande. Es una conversación pequeña contigo, repetida cada semana.",
-   "reto": "Aparta hoy la moneda o el monto más pequeño que puedas en un sobre o una taza.",
+   "titulo": "El mejor descuento es no comprar",
+   "gancho": "Un 50% de descuento en algo que no necesitas sigue siendo gastar el otro 50%.",
+   "reto": "Hoy anota en tu cuaderno tu última compra impulsiva y su precio. Solo anótala, sin juzgarte.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Quiero aprender a hacer jabones (emprender con las manos)",
-   "menciones": 60,
-   "cita": "Yo quiero aprender a hacer jabones artesanales",
+   "tema": "Comparar precios en tiendas físicas vs. online y desconfianza de comprar por internet",
+   "menciones": 7,
+   "cita": "Comprar por internet no es seguro ni práctico",
    "origen": "viral",
-   "titulo": "Quieres emprender con tus manos: haz esto antes del molde",
-   "gancho": "Muchos quieren aprender el oficio. Pocos se preguntan primero cuánto cuesta hacerlo y a quién se lo van a vender.",
-   "reto": "Anota en el cuaderno tres personas que podrían ser tu primer cliente y qué les ofrecerías.",
+   "titulo": "¿Online o tienda? Compara en 5 minutos",
+   "gancho": "No hay canal bueno ni malo: hay precio comparado o precio por fe.",
+   "reto": "Hoy elige un producto, busca su precio en 2 sitios distintos y anota cuál gana y por cuánto.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Calidad dudosa en precios muy bajos (¿te mandan lo mismo?)",
+   "menciones": 5,
+   "cita": "El precio es muy bajo pero no es el mismo material",
+   "origen": "viral",
+   "titulo": "Barato o engañado: 3 señales antes de pagar",
+   "gancho": "Cuando algo cuesta la mitad, la pregunta no es cuánto ahorras sino qué te quitaron.",
+   "reto": "Hoy lee las 3 reseñas peores de un producto que quieras comprar y decide si te cambian la decisión.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Aprender un oficio para generar ingresos (jabones artesanales, emprender)",
+   "menciones": 30,
+   "cita": "Yo quiero aprender gracias",
+   "origen": "viral",
+   "titulo": "¿Quieres ingresos extra? Empieza por un oficio",
+   "gancho": "Antes de soñar con un negocio, toca una pregunta pequeña: ¿qué sé hacer que alguien pagaría?",
+   "reto": "Hoy escribe 3 cosas que sabes hacer y a quién le servirían. Tres líneas, nada más.",
    "formato": "largo",
    "urgencia": "alta"
   },
   {
-   "tema": "Necesito trabajar o un ingreso extra: ¿por dónde empiezo?",
-   "menciones": 4,
-   "cita": "Jabones hermosos, necesito trabajar",
+   "tema": "Cómo hablarle al dinero y a la mentalidad (bendecir el dinero, abundancia)",
+   "menciones": 3,
+   "cita": "Este dinero es mi amigo, gracias",
    "origen": "viral",
-   "titulo": "¿Necesitas ingreso extra? Tu primer paso cabe en una taza",
-   "gancho": "No necesitas una gran idea. Necesitas una pequeña habilidad y una conversación honesta con tu dinero.",
-   "reto": "Escribe tres cosas que sabes hacer y que alguien de tu barrio podría pagarte.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Lotería y boletos: ¿suerte o plan? Hipotecar la casa",
-   "menciones": 5,
-   "cita": "Cómo es que seguían viviendo en su casa si la hipotecaron",
-   "origen": "viral",
-   "titulo": "La suerte no es un plan de ahorro",
-   "gancho": "Un boleto ganador sale bien en la tele. Tu hábito con el dinero sale mejor en la vida real.",
-   "reto": "Suma lo que gastaste este mes en azar o antojos de suerte y anótalo sin juzgarte.",
+   "titulo": "Tu relación con el dinero se nota en cómo lo gastas",
+   "gancho": "Más que hablarle al dinero, mira cómo lo tratas cuando sale de tu bolsillo.",
+   "reto": "Hoy al pagar algo, pregúntate en voz baja: ¿esto me acerca a lo que quiero?",
    "formato": "short",
    "urgencia": "media"
   },
   {
-   "tema": "¿Dejarías a tu pareja por un millón? Dinero vs amor",
-   "menciones": 20,
-   "cita": "¿Dejar a una persona por dinero es peor que estar con ella solo por dinero?",
+   "tema": "Dinero y familia: límites cuando hijos o nuera quieren tus ahorros",
+   "menciones": 14,
+   "cita": "Sacalos de la casa esos abusadores, que trabajen",
    "origen": "viral",
-   "titulo": "¿Un millón por tu pareja? La pregunta que incomoda",
-   "gancho": "El dinero y el amor se sientan en la misma mesa. La pregunta es quién manda en tus decisiones.",
-   "reto": "Escribe qué valoras más que cualquier cifra y compártelo en comentarios en una frase.",
-   "formato": "short",
+   "titulo": "Cuando la familia pide tu dinero: cómo decir no",
+   "gancho": "Decir no a un gasto ajeno no es egoísmo: es cuidar lo que te costó años ahorrar.",
+   "reto": "Hoy escribe una frase corta y amable para decir no la próxima vez que te pidan dinero.",
+   "formato": "largo",
    "urgencia": "alta"
   },
   {
-   "tema": "Hábitos de personas exitosas: me cuesta levantarme y rodearme de mejores",
+   "tema": "Dinero y pareja: deudas, amor e interés (sugar daddy, deudas compartidas)",
+   "menciones": 7,
+   "cita": "Si ella tiene deudas son responsabilidad de él también",
+   "origen": "viral",
+   "titulo": "Dinero y pareja: la charla que nadie quiere tener",
+   "gancho": "Muchas parejas hablan de todo menos de plata, hasta que la plata habla sola.",
+   "reto": "Hoy propón a tu pareja (o a ti mismo) una pregunta: ¿cuánto debemos y cuánto queremos ahorrar?",
+   "formato": "largo",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Hábitos de éxito financiero: disciplina, rodearse de mejores personas, cuidar la salud",
    "menciones": 12,
    "cita": "Me cuesta levantarme a la mañana y arreglarme para lucir mejor",
    "origen": "viral",
-   "titulo": "Te cuesta levantarte? Empieza con un solo hábito",
-   "gancho": "No necesitas diez reglas de ricos. Necesitas una escalera: un escalón pequeño que sí cumplas mañana.",
-   "reto": "Elige un solo escalón para mañana, anótalo en el cuaderno y ponlo junto a tu taza.",
+   "titulo": "No es talento: es un hábito pequeño de 5 minutos",
+   "gancho": "Los hábitos de éxito suenan enormes hasta que los achicas a lo que cabe en una taza de café.",
+   "reto": "Hoy elige un solo hábito de la lista y hazlo 5 minutos. Mañana decides si sigue.",
    "formato": "short",
    "urgencia": "media"
+  },
+  {
+   "tema": "Sospecha de trucos de marketing y estafas ocultas en las ofertas",
+   "menciones": 8,
+   "cita": "Esa estrategia de marketing se hacía hace 30 años",
+   "origen": "viral",
+   "titulo": "¿Truco o trampa? Cómo detectar una oferta cuestionable",
+   "gancho": "Si una oferta te apura, desconfía: la prisa es la herramienta favorita de quien vende.",
+   "reto": "Hoy ante la próxima oferta con cuenta regresiva, espera 24 horas y mira si sigue ahí.",
+   "formato": "short",
+   "urgencia": "alta"
   }
  ],
  "objeciones_a_la_oferta": [
-  "Ya no alcanza ni para separar un peso, ahorrar suena a fantasía",
-  "Desconfío de bancos, apps y de cualquier consejo que parezca publicidad",
-  "Los cupones y descuentos están en cosas que no uso y el envío sube el precio",
-  "No sé si el truco es legal o si sirve en mi país",
-  "Me cuesta la disciplina y levantarme para cambiar mis hábitos",
-  "Un millón es un millón: el dinero pesa más que el discurso",
-  "Quiero aprender un oficio para generar ingresos pero no sé cómo vender"
+  "Desconfianza: creen que los trucos de ahorro son trampa, ilegales o estafas disfrazadas",
+  "Escepticismo hacia quien habla de dinero: sospechan que no practica lo que predica",
+  "Falta de ganas o energía para empezar hábitos básicos (levantarse, arreglarse, ordenarse)",
+  "Sensación de no tener a nadie mejor con quien rodearse o aprender",
+  "Quieren aprender un oficio o ingreso extra pero no saben por dónde empezar ni cuánto cuesta",
+  "Miedo a comprar online por seguridad, calidad dudosa o productos distintos al anunciado",
+  "Dificultad para poner límites a la familia cuando se trata de dinero compartido"
  ],
  "respuestas_sugeridas": [
   {
-   "a": "Precios inflados y ofertas que no son reales",
-   "respuesta": "Tienes razón en dudar. Anota el precio de lo que quieres hoy y vuelve en una semana. Si cambia mucho, ya sabes cómo se mueve ese precio. Tu cuaderno es tu mejor filtro."
+   "a": "«Yo quiero aprender» (jabones, oficios, emprender)",
+   "respuesta": "Qué bueno que quieras. Empieza hoy con una pregunta: ¿qué sabes hacer que alguien pagaría? Escríbela en tu cuaderno y la armamos juntos."
   },
   {
-   "a": "Yo quiero aprender (jabones, oficios)",
-   "respuesta": "Qué bueno que te nace aprender. Antes del molde, anota cuánto te costaría cada jabón y quién te lo compraría. Empezar con cuentas claras es un buen primer paso. Reto de hoy: escribe tu primer cliente."
+   "a": "«¿Eso es legal? ¿No será trampa?» (cupones, trucos de ahorro)",
+   "respuesta": "Un cupón público es legal. Lo que importa: compara el precio final y no compres por prisa. Si algo huele raro, mejor pregunta antes de pagar."
   },
   {
-   "a": "Ya no alcanza para ahorrar",
-   "respuesta": "Te leo. Ahorrar no tiene que ser grande para contar. Aparta hoy lo más pequeño que puedas, aunque sea una moneda. Lo que repites pesa más que lo que prometes. Si hay deudas, consulta a un profesional."
+   "a": "«Todos los precios ya vienen inflados» (ofertas falsas)",
+   "respuesta": "A veces sí. Por eso tu mejor defensa es mirar el precio normal, no el tachado. Compara en dos sitios y decide con calma, sin que el cartel decida por ti."
   },
   {
-   "a": "Un millón por dejar a la pareja",
-   "respuesta": "Buena pregunta para tomar con café. Escribe qué valoras que no tiene precio, y luego qué decisiones de dinero van contra eso. Ahí está la conversación. Cuéntame tu frase en comentarios."
+   "a": "«Que trabajen, sáquenlos de la casa» (conflicto familiar por dinero)",
+   "respuesta": "Poner límites no es dureza, es cuidarte. Prueba una frase corta y amable para decir no. Si la situación pesa mucho, hablarlo con alguien de confianza ayuda."
   },
   {
-   "a": "Me cuesta levantarme o cumplir hábitos",
-   "respuesta": "Todos tenemos mañanas pesadas. No cambies diez cosas. Elige un solo escalón de mañana y déjalo escrito junto a tu taza. Cuando ese se vuelva fácil, subes al siguiente."
+   "a": "«No sé cómo encontrar mejores personas / me cuesta empezar» (hábitos)",
+   "respuesta": "No hace falta salir a buscar a nadie hoy. Elige un hábito de 5 minutos y hazlo. Lo grande se arma desde lo pequeño, taza a taza."
   }
  ],
  "fuentes": [
   {
    "origen": "viral",
-   "video_id": "I6WOUQstEmg",
-   "titulo": "¿Se acuerdan del sobrecito para ahorrar? ✉️ Hacela fácil con los Frascos Fijos de Naranja X📱",
-   "n": 6
-  },
-  {
-   "origen": "viral",
    "video_id": "LZdStuNPJHY",
    "titulo": "Formas de ahorrar en Amazon #amazoncoupon",
-   "n": 99
+   "n": 96
   },
   {
    "origen": "viral",
-   "video_id": "ncxgJnYUDKQ",
-   "titulo": "💰 Le ofrecieron un millón para dejar a su pareja y esto respondió | VISTO ASÍ",
-   "n": 17
+   "video_id": "5NMCMYjXENg",
+   "titulo": "\"Dios, bendice las manos que me dan este dinero y las manos que lo reciben. Que se multiplique seten",
+   "n": 95
+  },
+  {
+   "origen": "viral",
+   "video_id": "qmEP_0xRgDA",
+   "titulo": "Conecta tu negocio con 910 Mb por $73.490 al mes durante los primeros 6 meses",
+   "n": 0
+  },
+  {
+   "origen": "viral",
+   "video_id": "5_YUEhu797E",
+   "titulo": "Su hijo quería quedarse con sus ahorros, pero mamá dijo ¡BASTA! 😱 #Shorts",
+   "n": 11
   },
   {
    "origen": "viral",
@@ -174,9 +191,21 @@
   },
   {
    "origen": "viral",
+   "video_id": "nLLj7Rkupb4",
+   "titulo": "¡Así Fabrican Enormes Vasijas de Barro en Francia! 😱🏺",
+   "n": 0
+  },
+  {
+   "origen": "viral",
    "video_id": "hyMPY8BJMjQ",
    "titulo": "🤯 Brian encuentra el boleto ganador entre 200 mil boletos",
    "n": 11
+  },
+  {
+   "origen": "viral",
+   "video_id": "o57CdWUf4oQ",
+   "titulo": "Interet dedicado ETB. Tu negocio sigue avanzando",
+   "n": 0
   },
   {
    "origen": "viral",
@@ -194,13 +223,31 @@
    "origen": "viral",
    "video_id": "qVhcWh_sL2Q",
    "titulo": "Aprende hacer jabones de glicerina desde cero#jabonesartesanales #jabonesdeglicerina #emprendimiento",
-   "n": 92
+   "n": 82
+  },
+  {
+   "origen": "viral",
+   "video_id": "qFg5TZ5bew4",
+   "titulo": "Cuenta principal: @CarlosEsparragaGarcia #españa #llados #millonario #lamborghini",
+   "n": 7
   },
   {
    "origen": "viral",
    "video_id": "oL3AYbzrXZs",
    "titulo": "Aprende hacer jabones naturales #jabonesartesanales #emprendimiento #jabonesdeglicerina #soap",
    "n": 34
+  },
+  {
+   "origen": "viral",
+   "video_id": "IyTC2l0tQgk",
+   "titulo": "cuenta principal: @CarlosEsparragaGarcia #millonario #dinero #lamborghini",
+   "n": 10
+  },
+  {
+   "origen": "viral",
+   "video_id": "-UxWCSa33Ik",
+   "titulo": "Su nuera la mandó a trabajar, pero olvidó que la casa era de ella 😱 | Parte 1 #shorts",
+   "n": 4
   },
   {
    "origen": "propio",
