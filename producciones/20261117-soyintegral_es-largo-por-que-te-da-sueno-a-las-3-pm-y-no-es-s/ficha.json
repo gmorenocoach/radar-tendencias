@@ -1,0 +1,48 @@
+{
+ "fuente": {
+  "tema": "¿Por qué te da sueño a las 3 pm? No es solo el almuerzo. Serie: Las 6 cartas que tu cuerpo lleva meses mandándote, capítulo 2"
+ },
+ "adn": {
+  "tema_central": "Por qué te da sueño a las 3 pm y por qué no es solo culpa del almuerzo: la bajada de energía como mensaje del cuerpo (Capítulo 2 de la serie 'Las 6 cartas que tu cuerpo lleva meses mandándote')",
+  "promesa_del_titulo": "Descubrir en menos de 60 segundos las verdaderas causas del sueño de las 3 pm (más allá de la comida) y qué hacer hoy mismo para dejar de arrastrarte por las tardes.",
+  "gancho_primeros_segundos": "\"Si te da sueño a las 3 de la tarde, lo más probable es que te hayan mentido: no es el almuerzo.\" (texto en pantalla grande: '3 PM ≠ culpa del almuerzo'). Corte rápido a la carta número 2 abriéndose: 'Carta 2: Tu cuerpo te está pidiendo algo y llevas meses ignorándolo'.",
+  "tipo_de_gancho": "Contradicción + pregunta abierta (rompe una creencia popular y genera curiosidad inmediata)",
+  "estructura": [
+   "0-3 s: Gancho de contradicción ('No es el almuerzo') + visual de la carta número 2 de la serie.",
+   "3-8 s: Pregunta de identificación: '¿Te pasa que a las 3 pm sientes que te apagan la luz?' + mini contexto de la serie ('Carta 2 de 6').",
+   "8-40 s: Lista corta de 3 causas rápidas, cada una con texto en pantalla y una frase: 1) Ritmo circadiano: tu cuerpo tiene una bajada natural a esa hora, 2) Sueño insuficiente o mal dormido: deuda acumulada de semanas, 3) Picos y caídas de glucosa/hidratación/sedentarismo: cómo desayunas, cuánta agua tomas y cuántas horas llevas sentado.",
+   "40-50 s: Solución exprés en una línea por causa (luz natural y caminar 5 min, horario de sueño fijo, proteína + agua + moverte cada hora).",
+   "50-58 s: Cierre con reto + enganche a la serie."
+  ],
+  "ritmo": "Rápido y dinámico: cortes cada 2-3 segundos, texto en pantalla sincronizado con la voz, zooms suaves y efectos de sonido sutiles en cada número de la lista. Sin pausas muertas; la información llega en frases de máximo 8-10 palabras. Loop natural: la última frase conecta con la primera.",
+  "tono": "Cercano, directo y ligeramente cómplice, como un amigo que sabe de salud y te cuenta algo que nadie te dijo. Autoridad sin tecnicismos ni sermón; leve misterio por el formato de 'cartas'.",
+  "cta_final": "Reto: \"Esta semana, a las 3 pm, levántate y camina 5 minutos al sol y cuéntame en comentarios cómo te sientes a las 4. Y sigue la serie: la carta 3 llega pronto y es la que casi todos ignoran.\"",
+  "formula_del_titulo": "[Pregunta de dolor cotidiano] + [Contradicción: 'No es solo X'] + [Identificador de serie / número]",
+  "titulo_con_numero": "¿Sueño a las 3 pm? No es el almuerzo: 3 causas reales 😴 (Carta 2/6)",
+  "palabras_clave": [
+   "sueño a las 3 pm",
+   "por qué me da sueño en la tarde",
+   "cansancio después de comer",
+   "bajón de energía",
+   "ritmo circadiano",
+   "somnolencia por la tarde",
+   "cómo tener más energía",
+   "las 6 cartas de tu cuerpo",
+   "señales del cuerpo",
+   "salud y hábitos",
+   "#shorts"
+  ],
+  "emocion_dominante": "Curiosidad con alivio por identificación (\"por fin entiendo por qué me pasa esto\")",
+  "formula_miniatura": "Primer plano de una persona con cara de agotamiento y ojos pesados sobre fondo de reloj marcando las 3:00. Texto grande de 2-3 palabras: 'NO ES EL ALMUERZO' (con 'NO' en rojo). Esquina superior con sello de carta/sobre abierto y el número '2/6' para reforzar la serie. Alto contraste, paleta cálida (amarillo/rojo sobre fondo oscuro).",
+  "por_que_funciona": "Combina cuatro palancas probadas en Shorts: (1) un problema universal y diario que casi todo el mundo siente, lo que garantiza identificación inmediata; (2) un gancho de contradicción que desmonta una creencia aceptada (culpar al almuerzo) y obliga a quedarse para conocer la verdad; (3) una lista corta de 3 puntos fácil de procesar, recordar y compartir, con retención alta por el 'cierre de bucle' de cada número; (4) formato de serie ('carta 2 de 6') que crea expectativa, incentiva seguir el canal y aumenta las vistas recurrentes. El reto final genera comentarios, y el cierre conectado con el inicio favorece el rewatch.",
+  "riesgos_a_evitar": [
+   "Prometer diagnósticos médicos o curas: aclarar que es información general y que, si el sueño es excesivo o constante, conviene consultar a un profesional.",
+   "Abrir con presentación o logo en vez de entrar directo al gancho; se pierde el 30-40 % de la audiencia en los primeros 3 segundos.",
+   "Saturar con demasiadas causas o jerga científica (cortisol, adenosina, etc.) sin traducir; mantener solo 3 causas claras.",
+   "Culpar al espectador o sonar alarmista ('tu cuerpo está fallando'); el tono debe ser empático y de descubrimiento.",
+   "Olvidar contextualizar la serie para quien llega al capítulo 2 sin haber visto el 1; la carta debe entenderse sola.",
+   "Cerrar sin reto ni enganche a la siguiente carta, desperdiciando comentarios y seguimiento.",
+   "Miniatura o título clickbait que no se cumpla en el contenido (por ejemplo, prometer una 'causa secreta' y no entregarla)."
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00578B2E,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.15,Sub,,0,0,0,,{\k63}COMPRASTE {\k12}UN {\k41}COLCHÓN
+Dialogue: 0,0:00:01.15,0:00:02.06,Sub,,0,0,0,,{\k38}NUEVO {\k14}Y {\k38}SIGUES
+Dialogue: 0,0:00:02.06,0:00:03.82,Sub,,0,0,0,,{\k68}DESPERTANDO {\k89}CANSADO. {\k19}EL
+Dialogue: 0,0:00:03.82,0:00:04.97,Sub,,0,0,0,,{\k59}PROBLEMA {\k25}NO {\k30}ESTÁ
+Dialogue: 0,0:00:04.97,0:00:06.21,Sub,,0,0,0,,{\k45}DEBAJO {\k14}DE {\k65}TI:
+Dialogue: 0,0:00:06.21,0:00:06.84,Sub,,0,0,0,,{\k34}ESTÁ {\k12}EN {\k17}LOS
+Dialogue: 0,0:00:06.84,0:00:08.43,Sub,,0,0,0,,{\k57}60 {\k60}MINUTOS {\k42}ANTES
+Dialogue: 0,0:00:08.43,0:00:09.97,Sub,,0,0,0,,{\k10}DE {\k102}DORMIR. {\k42}ESTA
+Dialogue: 0,0:00:09.97,0:00:10.66,Sub,,0,0,0,,{\k15}ES {\k14}LA {\k39}CARTA
+Dialogue: 0,0:00:10.66,0:00:11.41,Sub,,0,0,0,,{\k27}1 {\k16}DE {\k33}6
+Dialogue: 0,0:00:11.41,0:00:12.10,Sub,,0,0,0,,{\k14}QUE {\k15}TU {\k40}CUERPO
+Dialogue: 0,0:00:12.10,0:00:14.29,Sub,,0,0,0,,{\k42}LLEVA {\k46}MESES {\k131}MANDÁNDOTE.
+Dialogue: 0,0:00:14.29,0:00:15.20,Sub,,0,0,0,,{\k42}VALE {\k15}LA {\k34}PENA
+Dialogue: 0,0:00:15.20,0:00:17.09,Sub,,0,0,0,,{\k84}ABRIRLA. {\k50}ERROR {\k56}UNO:
+Dialogue: 0,0:00:17.09,0:00:18.02,Sub,,0,0,0,,{\k16}LA {\k64}PANTALLA {\k13}EN
+Dialogue: 0,0:00:18.02,0:00:19.19,Sub,,0,0,0,,{\k13}LA {\k67}CAMA. {\k37}LUZ
+Dialogue: 0,0:00:19.19,0:00:20.24,Sub,,0,0,0,,{\k44}AZUL {\k22}Y {\k38}SCROLL
+Dialogue: 0,0:00:20.24,0:00:21.39,Sub,,0,0,0,,{\k26}SIN {\k71}FIN. {\k19}TU
+Dialogue: 0,0:00:21.39,0:00:22.33,Sub,,0,0,0,,{\k45}CEREBRO {\k33}CREE {\k16}QUE
+Dialogue: 0,0:00:22.33,0:00:22.88,Sub,,0,0,0,,{\k31}AÚN {\k12}ES {\k13}DE
+Dialogue: 0,0:00:22.88,0:00:23.79,Sub,,0,0,0,,{\k62}DÍA, {\k15}Y {\k14}TU
+Dialogue: 0,0:00:23.79,0:00:24.75,Sub,,0,0,0,,{\k45}CUERPO {\k14}TE {\k37}AVISA
+Dialogue: 0,0:00:24.75,0:00:25.51,Sub,,0,0,0,,{\k20}CON {\k15}UN {\k41}SUEÑO
+Dialogue: 0,0:00:25.51,0:00:27.78,Sub,,0,0,0,,{\k103}LIGERO. {\k54}ERROR {\k71}DOS:
+Dialogue: 0,0:00:27.78,0:00:28.79,Sub,,0,0,0,,{\k16}LA {\k27}CENA {\k58}PESADA
+Dialogue: 0,0:00:28.79,0:00:29.34,Sub,,0,0,0,,{\k13}O {\k12}EL {\k30}CAFÉ
+Dialogue: 0,0:00:29.34,0:00:30.87,Sub,,0,0,0,,{\k96}TARDÍO. {\k19}TU {\k38}CUERPO
+Dialogue: 0,0:00:30.87,0:00:32.20,Sub,,0,0,0,,{\k50}DIGIERE {\k30}CUANDO {\k52}DEBERÍA
+Dialogue: 0,0:00:32.20,0:00:33.36,Sub,,0,0,0,,{\k89}APAGARSE, {\k15}Y {\k12}LA
+Dialogue: 0,0:00:33.36,0:00:34.67,Sub,,0,0,0,,{\k48}SEÑAL {\k19}ES {\k65}DESPERTAR
+Dialogue: 0,0:00:34.67,0:00:35.19,Sub,,0,0,0,,{\k7}A {\k19}LAS {\k27}TRES
+Dialogue: 0,0:00:35.19,0:00:36.37,Sub,,0,0,0,,{\k9}DE {\k12}LA {\k98}MAÑANA.
+Dialogue: 0,0:00:36.37,0:00:37.71,Sub,,0,0,0,,{\k45}ERROR {\k76}TRES: {\k13}LA
+Dialogue: 0,0:00:37.71,0:00:38.71,Sub,,0,0,0,,{\k51}CABEZA {\k37}LLENA {\k12}DE
+Dialogue: 0,0:00:38.71,0:00:40.46,Sub,,0,0,0,,{\k108}PENDIENTES. {\k56}APAGAS {\k12}LA
+Dialogue: 0,0:00:40.46,0:00:41.34,Sub,,0,0,0,,{\k51}LUZ, {\k24}PERO {\k13}TU
+Dialogue: 0,0:00:41.34,0:00:42.30,Sub,,0,0,0,,{\k44}MENTE {\k38}SIGUE {\k13}EN
+Dialogue: 0,0:00:42.30,0:00:43.82,Sub,,0,0,0,,{\k81}REUNIÓN, {\k13}Y {\k58}AMANECES
+Dialogue: 0,0:00:43.82,0:00:44.76,Sub,,0,0,0,,{\k16}CON {\k12}EL {\k66}CANSANCIO
+Dialogue: 0,0:00:44.76,0:00:45.96,Sub,,0,0,0,,{\k13}DE {\k92}AYER. {\k16}LA
+Dialogue: 0,0:00:45.96,0:00:47.02,Sub,,0,0,0,,{\k60}SOLUCIÓN {\k30}CABE {\k15}EN
+Dialogue: 0,0:00:47.02,0:00:48.27,Sub,,0,0,0,,{\k19}UNA {\k84}FRASE: {\k23}UN
+Dialogue: 0,0:00:48.27,0:00:49.58,Sub,,0,0,0,,{\k46}RITUAL {\k15}DE {\k69}60
+Dialogue: 0,0:00:49.58,0:00:51.95,Sub,,0,0,0,,{\k122}MINUTOS. {\k37}LUZ {\k79}TENUE,
+Dialogue: 0,0:00:51.95,0:00:52.87,Sub,,0,0,0,,{\k20}EL {\k36}MÓVIL {\k36}LEJOS
+Dialogue: 0,0:00:52.87,0:00:53.60,Sub,,0,0,0,,{\k9}DE {\k12}LA {\k52}CAMA
+Dialogue: 0,0:00:53.60,0:00:54.58,Sub,,0,0,0,,{\k16}Y {\k20}TUS {\k62}PENDIENTES
+Dialogue: 0,0:00:54.58,0:00:56.25,Sub,,0,0,0,,{\k60}ANOTADOS {\k9}EN {\k97}PAPEL.
+Dialogue: 0,0:00:56.25,0:00:57.52,Sub,,0,0,0,,{\k40}RETO {\k13}DE {\k74}HOY:
+Dialogue: 0,0:00:57.52,0:00:59.12,Sub,,0,0,0,,{\k40}ESTA {\k64}NOCHE, {\k57}60
+Dialogue: 0,0:00:59.12,0:01:00.17,Sub,,0,0,0,,{\k59}MINUTOS {\k37}ANTES {\k9}DE
+Dialogue: 0,0:01:00.17,0:01:01.59,Sub,,0,0,0,,{\k64}DORMIR, {\k44}MÓVIL {\k34}LEJOS
+Dialogue: 0,0:01:01.59,0:01:02.24,Sub,,0,0,0,,{\k9}DE {\k13}LA {\k43}CAMA
+Dialogue: 0,0:01:02.24,0:01:03.73,Sub,,0,0,0,,{\k22}Y {\k29}LUZ {\k98}TENUE.
+Dialogue: 0,0:01:03.73,0:01:05.04,Sub,,0,0,0,,{\k51}PRUÉBALO {\k27}TRES {\k53}NOCHES
+Dialogue: 0,0:01:05.04,0:01:05.92,Sub,,0,0,0,,{\k27}Y {\k50}CUÉNTAME {\k12}EN
+Dialogue: 0,0:01:05.92,0:01:07.36,Sub,,0,0,0,,{\k78}COMENTARIOS {\k22}QUÉ {\k44}CARTA
+Dialogue: 0,0:01:07.36,0:01:09.25,Sub,,0,0,0,,{\k62}RECIBISTE {\k105}TÚ. {\k23}SI
+Dialogue: 0,0:01:09.25,0:01:10.28,Sub,,0,0,0,,{\k30}TIENES {\k59}SÍNTOMAS {\k13}QUE
+Dialogue: 0,0:01:10.28,0:01:11.29,Sub,,0,0,0,,{\k13}NO {\k14}SE {\k74}VAN,
+Dialogue: 0,0:01:11.29,0:01:12.26,Sub,,0,0,0,,{\k70}CONSULTA {\k14}A {\k14}UN
+Dialogue: 0,0:01:12.26,0:01:15.72,Sub,,0,0,0,,{\k128}PROFESIONAL. {\k132}SUSCRÍBETE: {\k86}MAÑANA
+Dialogue: 0,0:01:15.72,0:01:16.87,Sub,,0,0,0,,{\k55}LLEGA {\k17}LA {\k43}CARTA
+Dialogue: 0,0:01:16.87,0:01:17.51,Sub,,0,0,0,,{\k64}2.

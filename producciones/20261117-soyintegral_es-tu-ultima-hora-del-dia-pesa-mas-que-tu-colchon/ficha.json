@@ -1,0 +1,42 @@
+{
+ "fuente": {
+  "tema": "El error de la última hora del día. Gancho: Lo que haces 60 minutos antes de dormir pesa más que el colchón que compraste.. Serie: Las 6 cartas que tu cuerpo lleva meses mandándote, capítulo 1"
+ },
+ "adn": {
+  "tema_central": "El error de la última hora del día: lo que haces 60 minutos antes de dormir (pantallas, cenas pesadas, luz fuerte, estrés mental) condiciona tu descanso más que el colchón que compraste. Capítulo 1 de la serie 'Las 6 cartas que tu cuerpo lleva meses mandándote'.",
+  "promesa_del_titulo": "Descubrirás el error exacto que cometes en tu última hora del día y que sabotea tu sueño, más que cualquier colchón, junto con un cambio simple para corregirlo esta misma noche.",
+  "gancho_primeros_segundos": "\"Gastaste 800 euros en un colchón nuevo... y sigues despertándote cansado. El problema no está debajo de ti: está en los 60 minutos antes de dormir.\" (texto en pantalla: 'CARTA 1/6'; corte seco a primer plano de alguien con el móvil en la cama a oscuras).",
+  "tipo_de_gancho": "Contradicción + pérdida: desmonta una creencia (el colchón es lo que importa) y señala un coste oculto (estás gastando dinero en lo equivocado), con micro-apertura de curiosidad sobre el error concreto.",
+  "estructura": "0-3s Gancho de contradicción con el colchón | 3-8s Presentación de la serie: 'Carta 1 de 6 que tu cuerpo te manda' (genera expectativa y retorno) | 8-35s Lista corta de 3 errores de la última hora: 1) pantalla con luz azul y scroll, 2) cena o café tardío, 3) cerebro en modo pendientes; cada uno con una señal que el cuerpo te manda (despertares a las 3 am, sueño ligero, cansancio al despertar) | 35-48s La solución en 1 frase: 'ritual de 60 minutos': luz tenue, móvil fuera de la cama, anotar pendientes en papel | 48-58s Cierre con reto + puente al capítulo 2.",
+  "ritmo": "Muy rápido: cortes cada 2-3 segundos, subtítulos grandes sincronizados, zooms ligeros y sonido de transición en cada punto de la lista. Sin silencios. El primer cambio visual ocurre antes del segundo 2 y hay un 'reinicio de atención' (cambio de plano o dato sorprendente) cada 10 segundos.",
+  "tono": "Cercano, directo y ligeramente alarmista pero empático: como un amigo que sabe de salud del sueño y te dice la verdad sin sermonear. Lenguaje cotidiano, frases cortas, segunda persona (tú), cero tecnicismos innecesarios.",
+  "cta_final": "Reto de 3 noches: \"Esta noche, 60 minutos antes de dormir: móvil lejos de la cama y luz tenue. Pruébalo 3 noches y cuéntame en comentarios qué carta recibiste tú. Sigue la serie: mañana llega la Carta 2.\"",
+  "formula_del_titulo": "Contradicción + cifra de tiempo + comparación con algo caro/conocido (+ marca de serie). Estructura: [Lo que haces X minutos antes de dormir] + [pesa más que] + [objeto que ya compraste].",
+  "titulo_con_numero": "Tu última hora del día pesa más que tu colchón (3 errores que sabotean tu sueño) | Carta 1/6",
+  "palabras_clave": [
+   "sueño",
+   "dormir mejor",
+   "última hora del día",
+   "rutina nocturna",
+   "colchón",
+   "insomnio",
+   "descanso",
+   "luz azul",
+   "hábitos antes de dormir",
+   "señales del cuerpo",
+   "las 6 cartas"
+  ],
+  "emocion_dominante": "Curiosidad con una punta de culpa/alarma ('¿lo estoy haciendo mal?') que se resuelve en alivio y sensación de control al ofrecer una solución sencilla.",
+  "formula_miniatura": "Fondo oscuro azulado de dormitorio, primer plano de una cara cansada con ojeras iluminada por la luz del móvil; a un lado un colchón con una X roja o tachado; texto enorme de máximo 3-4 palabras: '60 MIN ANTES'; sello visible de serie 'CARTA 1/6' con icono de sobre. Máximo 3 elementos, alto contraste (azul frío vs. rojo/amarillo).",
+  "por_que_funciona": "Ataca una creencia muy extendida (el colchón es la clave) y la invierte, lo que dispara curiosidad inmediata. El tema es universal: casi todos duermen mal o mal descansados. La lista corta es fácil de consumir y de retener hasta el final, y el reto de 3 noches impulsa comentarios y participación. El formato de serie ('carta 1 de 6') crea una razón para suscribirse y volver, y el 'sobre' como metáfora hace el contenido memorable y fácil de seguir en bucle.",
+  "riesgos_a_evitar": [
+   "Prometer curas médicas o diagnosticar insomnio: mantén el tono de hábitos, no de tratamiento, y evita afirmaciones sin respaldo.",
+   "Empezar con saludo, presentación del canal o contexto largo: pierdes al espectador en los primeros 2 segundos.",
+   "Saturar la lista con más de 3 errores: diluye el mensaje y reduce la retención.",
+   "Tono culpabilizador o moralista que haga sentir mal al espectador en lugar de motivarlo.",
+   "Miniatura o título engañosos que no cumplan el gancho del colchón en los primeros segundos.",
+   "No dejar claro que es una serie: se pierde el motivo de volver al capítulo 2.",
+   "Cierre débil sin reto concreto ni puente al siguiente capítulo."
+  ]
+ }
+}

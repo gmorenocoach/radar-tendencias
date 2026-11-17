@@ -1,0 +1,437 @@
+{
+ "titulo": "Por qué te da sueño a las 3 pm (y no es solo el almuerzo)",
+ "titulos_alternativos": [
+  "Sueño a las 3 pm: lo que tu cuerpo lleva meses diciéndote",
+  "¿Te apagan la luz a las 3 de la tarde? 5 causas reales"
+ ],
+ "promesa": "Entender las causas reales del bajón de las 3 pm (más allá de la comida) y llevarte un plan simple de 5 minutos para probar hoy mismo y notar la diferencia por la tarde.",
+ "descripcion": "¿Te da sueño a las 3 pm aunque almuerces liviano? En este video Germancho te sirve el café con calma y te cuenta por qué el bajón de energía de la tarde no es solo culpa del almuerzo: ritmo circadiano, deuda de sueño, cómo desayunas, cuánta agua tomas y cuántas horas llevas sentado.\nVes causas claras, sin tecnicismos, y un Reto de hoy de menos de 5 minutos. Información general sobre hábitos y salud; si tu cansancio es excesivo o constante, consulta a un profesional.\nSi te sirvió, suscríbete: cada semana hay una carta nueva de tu cuerpo.",
+ "hashtags": [
+  "#sueñoalas3pm",
+  "#bajondeenergia",
+  "#ritmocircadiano",
+  "#cansancio",
+  "#saludyhabitos",
+  "#energiadiaria",
+  "#soyintegral",
+  "#cafeconproposito"
+ ],
+ "miniatura": {
+  "texto": "NO ES EL ALMUERZO",
+  "emocion": "sorpresa",
+  "objeto": "reloj marcando las 3:00 junto a una taza de café",
+  "pose": "senalando"
+ },
+ "capitulos": [
+  {
+   "n": 0,
+   "titulo": "Gancho",
+   "ambiente": "cafeteria",
+   "palabras": 70,
+   "objetivo": "Romper la creencia de que el sueño de las 3 pm es culpa del almuerzo, prometer las causas reales más un plan de 5 minutos, y abrir el bucle: la última causa es la que casi nadie revisa.",
+   "idea_clave": "3 pm ≠ culpa del almuerzo",
+   "escenas": [
+    {
+     "texto": "Te lo dijeron toda la vida: te da sueño a las 3 pm por el almuerzo. Pues te cuento algo: la comida es solo una parte, y casi nunca la más grande. Hoy te sirvo las causas reales del bajón de la tarde, y un plan de 5 minutos para probar hoy mismo.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café humeante",
+     "pose": "senalando",
+     "prompt_visual": "Germancho behind a cafe counter, raising one eyebrow and pointing at the viewer with a steaming coffee cup beside him",
+     "texto_en_pantalla": "¿Es culpa del almuerzo?"
+    },
+    {
+     "texto": "Vamos por partes. Te traigo varias causas, y todas se pueden revisar sin gastar un peso. Pero ojo con la última: es la que casi nadie revisa, y a lo mejor es justo la tuya. Agarra tu taza, que empezamos.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y taza",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho smiling with open arms in a cozy cafe, a notebook and a mug on the table in front of him",
+     "texto_en_pantalla": "La última casi nadie la revisa"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "titulo": "Tu reloj interno: la bajada natural de la tarde",
+   "ambiente": "oficina",
+   "palabras": 330,
+   "objetivo": "Explicar sin tecnicismos que el cuerpo tiene una bajada natural de alerta a media tarde, que no es una falla sino un ritmo, y que entenderlo quita culpa. Mini-gancho: lo que pasa a las 3 pm pasa aunque no almuerces.",
+   "idea_clave": "Tu cuerpo tiene un ritmo",
+   "escenas": [
+    {
+     "texto": "Vamos con la primera causa. Y te aviso: no tiene nada que ver con lo que comiste. Sé que ya estás pensando en el almuerzo, pero espera. A las 3 pm te da sueño aunque hayas almorzado ensalada, aunque no hayas almorzado, aunque hayas pasado el día con puro café.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho jumps back in surprise holding a coffee cup in a bright office, clock on the wall showing 3 pm",
+     "texto_en_pantalla": "No es solo el almuerzo"
+    },
+    {
+     "texto": "Tu cuerpo tiene un reloj interno. Piensa en una marea: sube y baja todo el día, sin que tú hagas nada. Por la mañana sube, se siente la energía. Y a media tarde, la marea baja un poquito. No es pereza, no es falta de carácter. Es un ritmo.",
+     "emocion": "sereno",
+     "objeto": "reloj de pared",
+     "pose": "senalando",
+     "prompt_visual": "Germancho calmly points at a wall clock in an office, a soft wave graphic rising and falling behind him",
+     "texto_en_pantalla": "Tu reloj interno"
+    },
+    {
+     "texto": "Los que estudian esto lo llaman la bajada de la tarde. Casi todas las personas la sienten, entre las 2 y las 4 más o menos. Tu atención se afloja, los párpados pesan y la pantalla se pone borrosa. Tranquilo: tu cuerpo no se dañó. Está haciendo lo que hace.",
+     "emocion": "alegria",
+     "objeto": "pantalla de computador",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms smiling next to a laptop in an office, a gentle dip curve drawn on a whiteboard",
+     "texto_en_pantalla": "Bajada natural de la tarde"
+    },
+    {
+     "texto": "Mira lo que esto cambia. Cuando crees que el sueño de las 3 es una falla tuya, te culpas. Te dices: soy un flojo, no rindo, qué me pasa. Pero no hay nada que arreglar en ti. Hay algo que entender. Y entender quita un peso enorme de encima.",
+     "emocion": "tristeza",
+     "objeto": "cuaderno",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho slumped at an office desk with a closed notebook, then lifting his head with relief, warm light",
+     "texto_en_pantalla": "Entender quita la culpa"
+    },
+    {
+     "texto": "Piénsalo como el pico del cafetal. Hay horas de cosecha y horas de descanso, y nadie le grita a la mata por descansar. Tu energía también tiene horas altas y horas bajas. La clave no es pelear contra la bajada. Es saber que llega y prepararte para ella.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a sign next to a coffee cup in an office, a small coffee plant on the desk behind him",
+     "texto_en_pantalla": "Prepárate, no pelees"
+    },
+    {
+     "texto": "Y aquí viene lo que sorprende. Esa bajada aparece aunque no almuerces. Haz la prueba un día: salta la comida y fíjate en la hora. Hacia las 3, ahí está de nuevo. Eso te dice algo importante: el almuerzo puede empeorarla, pero no es quien la inventa.",
+     "emocion": "sorpresa",
+     "objeto": "plato vacío",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points at an empty lunch plate on an office desk while the wall clock shows 3 pm",
+     "texto_en_pantalla": "Pasa aunque no almuerces"
+    },
+    {
+     "texto": "Entonces, si la bajada es normal, la pregunta cambia. Ya no es por qué me pasa a mí. Ahora es qué hago con esta hora del día. Y ahí entran las otras causas, las que sí puedes mover. Quédate, porque la última es la que casi nadie revisa.",
+     "emocion": "alegria",
+     "objeto": "cuaderno",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waves with a friendly grin holding a notebook in an office, three numbered cards peeking behind him",
+     "texto_en_pantalla": "La última causa, al final"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "La deuda de sueño que arrastras desde hace semanas",
+   "ambiente": "dormitorio",
+   "palabras": 330,
+   "objetivo": "Mostrar que dormir poco o mal se acumula como una deuda y la tarde es donde se cobra. Mini-gancho: dormir 8 horas no siempre significa descansar. Cubrir horarios fijos y sueño interrumpido, con una frase sugiriendo consultar a un profesional si el sueño es persistentemente malo.",
+   "idea_clave": "El sueño se acumula como deuda",
+   "escenas": [
+    {
+     "texto": "Dormiste ocho horas y aun así te arrastras a media tarde. Lo sé, suena injusto. Pero dormir ocho horas no siempre significa descansar. El cuerpo no cuenta solo cuántas horas estuviste acostado, cuenta qué tan bien las dormiste. Y ahí empieza la parte que casi nadie mira.",
+     "emocion": "sorpresa",
+     "objeto": "almohada y reloj despertador",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho in a cozy bedroom jumps back in surprise next to a bed with a wide-eyed look, alarm clock showing 8 hours",
+     "texto_en_pantalla": "8 horas no es descansar"
+    },
+    {
+     "texto": "Piensa en el sueño como una cuenta de ahorros al revés. Cada noche que duermes poco o mal, le debes un poquito al cuerpo. No lo notas el lunes ni el martes. Pero esa deuda se acumula, semana tras semana, aunque tú no estés mirando el saldo.",
+     "emocion": "sereno",
+     "objeto": "cuaderno de cuentas sobre la cama",
+     "pose": "senalando",
+     "prompt_visual": "Germancho sits on the edge of a bed pointing at an open notebook full of small tally marks, calm expression",
+     "texto_en_pantalla": "El sueño se acumula como deuda"
+    },
+    {
+     "texto": "Y tu cuerpo es un buen cobrador, pero con horario. No te cobra en la mañana, cuando el café y las ganas te sostienen. Te cobra por la tarde, cuando baja el ritmo natural del reloj interno y ya no hay con qué disimular. A las tres de la tarde llega la factura.",
+     "emocion": "tristeza",
+     "objeto": "taza de café vacía sobre la mesita de noche",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho lying tired on a bed in the afternoon light, empty coffee cup on the nightstand, soft bedroom background",
+     "texto_en_pantalla": "La tarde es donde se cobra"
+    },
+    {
+     "texto": "Primera forma de deuda: los horarios que cambian. Entre semana te acuestas a las diez, el fin de semana a las dos de la madrugada y te levantas a las once. Para tu reloj interno eso es como viajar de país cada viernes. Se desorienta, y tú lo pagas al día siguiente.",
+     "emocion": "asco",
+     "objeto": "reloj despertador con horas distintas",
+     "pose": "cambio",
+     "prompt_visual": "Germancho holds two alarm clocks showing very different times, one in each hand, confused face, bedroom setting",
+     "texto_en_pantalla": "Horarios que cambian = jet lag social"
+    },
+    {
+     "texto": "Segunda forma: el sueño interrumpido. Te despiertas a las tres de la mañana, miras el celular, revisas un mensaje, das vueltas. Cuentas las horas en la cama, pero el sueño profundo quedó cortado en pedazos. Eso se parece a llenar un balde con huecos: echas agua toda la noche y amaneces con el balde medio vacío.",
+     "emocion": "miedo",
+     "objeto": "celular iluminado en la oscuridad",
+     "pose": "acostado_ira",
+     "prompt_visual": "Germancho awake in a dim bedroom at night, glowing phone screen lighting his face, tossing in bed, restless expression",
+     "texto_en_pantalla": "Sueño cortado, balde con huecos"
+    },
+    {
+     "texto": "La buena noticia es que una deuda también se paga, de a poquitos. Acostarte y levantarte más o menos a la misma hora, incluso el fin de semana, ya baja el saldo. Y deja el celular lejos de la almohada. Nada de esto te cuesta dinero, solo una decisión pequeña por noche.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y lapicero junto a la cama",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho smiling with open arms in a tidy bedroom, phone charging far away on a desk, morning light",
+     "texto_en_pantalla": "Misma hora, celular lejos"
+    },
+    {
+     "texto": "Ahora, ojo con esto. Si llevas semanas o meses durmiendo mal de forma constante, o te despiertas agotado aunque pases la noche entera en la cama, no lo resuelvas solo con trucos. Consulta a un profesional de la salud. Esto no reemplaza al médico, y tu sueño merece una mirada seria.",
+     "emocion": "sereno",
+     "objeto": "cuaderno con una nota que dice consultar al médico",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds up a small sign that reads a gentle reminder to see a doctor, calm caring expression, bedroom background",
+     "texto_en_pantalla": "Si es constante, consulta a un profesional"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Cómo desayunas y cuánta agua tomas",
+   "ambiente": "cocina",
+   "palabras": 330,
+   "objetivo": "Conectar desayuno, proteína, hidratación y picos y caídas de energía con el bajón de la tarde, sin dietas ni promesas, con ejemplos cotidianos. Mini-gancho: el almuerzo llega tarde a una historia que empezó en la mañana.",
+   "idea_clave": "La tarde empieza en el desayuno",
+   "escenas": [
+    {
+     "texto": "Antes de culpar al almuerzo, hablemos del desayuno. Porque el sueño de las 3 pm no empieza a las 3. Empieza a las 8 de la mañana, cuando sales corriendo con un café y nada más. El almuerzo llega tarde a una historia que ya venía escrita.",
+     "emocion": "sereno",
+     "objeto": "taza de café vacía y plato sin tocar",
+     "pose": "senalando",
+     "prompt_visual": "Germancho in a home kitchen at morning light, pointing at an empty coffee cup next to an untouched plate",
+     "texto_en_pantalla": "La historia empieza en la mañana"
+    },
+    {
+     "texto": "Piensa en tu mañana típica. Un café, quizás una galleta, y a trabajar. Tu cuerpo gasta energía desde temprano, y si el tanque arranca casi vacío, el día se maneja a punta de picos y caídas. Sube rápido, se cae rápido, y la caída suele llegar justo en la tarde.",
+     "emocion": "sorpresa",
+     "objeto": "galleta y tanque de energía dibujado",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho in kitchen with arms open, a simple drawn energy bar rising and falling on the wall behind him",
+     "texto_en_pantalla": "Picos y caídas de energía"
+    },
+    {
+     "texto": "Aquí entra la proteína, y no te hablo de dietas. Hablo de un huevo, un yogur, un pedazo de queso, un puñado de maní. Cosas que ya tienes en la cocina. Suelen dar una energía más pareja que un desayuno solo de dulce o de harina, y eso se puede notar hacia la tarde.",
+     "emocion": "alegria",
+     "objeto": "huevos, yogur y maní sobre la mesa",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a small sign next to a kitchen counter with eggs, yogurt and a bowl of peanuts",
+     "texto_en_pantalla": "Proteína sencilla, sin dietas"
+    },
+    {
+     "texto": "Ahora, la otra pieza que casi nadie mira: el agua. Te despiertas después de horas sin tomar nada y arrancas el día con café y más café. Una hidratación baja puede hacerte sentir pesado, con la cabeza nublada y con ganas de echarte una siesta a las 3.",
+     "emocion": "sereno",
+     "objeto": "vaso de agua",
+     "pose": "saludando",
+     "prompt_visual": "Germancho in kitchen lifting a glass of water toward the camera with a calm smile",
+     "texto_en_pantalla": "Tu cuerpo también tiene sed"
+    },
+    {
+     "texto": "No es que el café sea el villano. Es que el café no es agua. Una idea simple: pon un vaso de agua junto a tu taza y tómalo primero. Y deja una botella a la vista en tu escritorio. Lo que se ve, se toma. Lo que se guarda, se olvida.",
+     "emocion": "alegria",
+     "objeto": "botella y taza de café",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sitting on a stool with a water glass and a coffee cup side by side on a kitchen counter",
+     "texto_en_pantalla": "Primero el agua, luego el café"
+    },
+    {
+     "texto": "Si tienes condiciones de salud, como diabetes o algo parecido, o si el cansancio es constante, esto no reemplaza al médico. Consulta. Pero para el bajón normal de la tarde, empezar con algo de proteína y agua es un experimento pequeño que puedes probar mañana mismo.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto",
+     "pose": "senalando",
+     "prompt_visual": "Germancho in kitchen pointing gently at an open notebook on the counter with a reassuring expression",
+     "texto_en_pantalla": "Esto no reemplaza al médico"
+    },
+    {
+     "texto": "Hasta aquí van tres pistas: el reloj interno, el sueño acumulado y ahora el desayuno y el agua. Pero falta la última causa, la que casi nadie revisa, y es la que más se esconde en tu rutina. Quédate, porque en el próximo capítulo te la muestro.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café humeante",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho in kitchen leaning toward the camera with raised eyebrows, holding a steaming coffee cup like sharing a secret",
+     "texto_en_pantalla": "Falta la última causa"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Llevas horas sentado y tu cuerpo lo nota",
+   "ambiente": "gimnasio",
+   "palabras": 330,
+   "objetivo": "Explicar cómo el sedentarismo prolongado apaga la energía y cómo moverse unos minutos cada hora y buscar luz natural la reactiva. Mini-gancho: la solución más barata cabe en 5 minutos y no requiere gimnasio.",
+   "idea_clave": "Moverte también es energía",
+   "escenas": [
+    {
+     "texto": "Aquí viene la causa que casi nadie revisa, y no está en tu plato ni en tu almohada: está en tu silla. Llevas horas sentado, pegado a la pantalla, y tu cuerpo lo nota. Mientras tú ves correos, él va bajando la energía poquito a poquito.",
+     "emocion": "sorpresa",
+     "objeto": "silla de oficina",
+     "pose": "senalando",
+     "prompt_visual": "Germancho in a gym points at an office chair placed between the weights, amused and surprised look",
+     "texto_en_pantalla": "La causa está en tu silla"
+    },
+    {
+     "texto": "Piénsalo así: el cuerpo es una máquina hecha para moverse. Cuando pasas horas sin cambiar de postura, la circulación se vuelve perezosa y el cerebro recibe menos impulso. Es como una taza de café que se queda sobre la mesa: se enfría. Tú también te enfrías por dentro.",
+     "emocion": "tristeza",
+     "objeto": "taza de café frío",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho slumped on a gym bench staring at a cold cup of coffee, tired expression",
+     "texto_en_pantalla": "Quieto mucho tiempo, energía a la baja"
+    },
+    {
+     "texto": "Y aquí viene lo bueno: no necesitas gimnasio, aunque hoy me veas en uno. La solución más barata cabe en cinco minutos. Cada hora, levántate un par de minutos. Estírate, camina hasta la cocina, sube un piso de escaleras. Ese pequeño movimiento le dice a tu cuerpo: seguimos aquí.",
+     "emocion": "alegria",
+     "objeto": "escalera del gimnasio",
+     "pose": "escalera",
+     "prompt_visual": "Germancho climbing a short staircase inside a gym with a cheerful, energetic look",
+     "texto_en_pantalla": "Cada hora, muévete 2 minutos"
+    },
+    {
+     "texto": "Hazlo fácil. Pon una alarma suave cada hora, o aprovecha una llamada para hablar de pie. Nada de rutinas heroicas. Piensa en un barista: no se queda quieto detrás de la barra, siempre está en movimiento. Esos pasos pequeños son la gota de café que te despierta el cuerpo.",
+     "emocion": "sereno",
+     "objeto": "reloj con alarma",
+     "pose": "senalando",
+     "prompt_visual": "Germancho near a gym mirror points at a wall clock, calm and friendly expression",
+     "texto_en_pantalla": "Alarma cada hora"
+    },
+    {
+     "texto": "Y suma un ingrediente gratis: luz natural. Sal a la puerta, a la ventana abierta o al patio unos minutos. La luz del día le avisa a tu reloj interno que es hora de estar despierto. Mover el cuerpo y mirar la luz juntos es una de las mejores combinaciones para la tarde.",
+     "emocion": "alegria",
+     "objeto": "ventana con luz de sol",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho in a gym with arms open facing a large window full of warm sunlight, smiling",
+     "texto_en_pantalla": "Movimiento + luz natural"
+    },
+    {
+     "texto": "Una aclaración honesta: esto ayuda a la energía de la tarde, pero no es un tratamiento. Si el cansancio te acompaña todo el día, todos los días, vale la pena consultarlo con un profesional de salud. Mientras tanto, prueba esto, que es pequeño, barato y no te cuesta nada.",
+     "emocion": "sereno",
+     "objeto": "cuaderno y lápiz",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a small sign with a calm friendly look in a gym, notebook and pencil on a bench nearby",
+     "texto_en_pantalla": "Si es constante, consulta a un profesional"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Lo que tu cuerpo te pide y llevas meses ignorando",
+   "ambiente": "sala",
+   "palabras": 330,
+   "objetivo": "Cerrar el bucle del gancho: el sueño de la tarde como mensaje del cuerpo (estrés sostenido, pausas que nunca tomas, ritmo de vida que no respeta ningún límite). Tono empático, sin alarmismo ni diagnóstico; cuerpo, mente y trabajo son un solo sistema, y si hay síntomas fuertes o constantes, consultar a un profesional.",
+   "idea_clave": "Es un mensaje, no una falla",
+   "escenas": [
+    {
+     "texto": "Y aquí viene la parte que casi nadie revisa. Ese sueño de las 3 pm no es pereza ni mala voluntad. Muchas veces es tu cuerpo levantando la mano para decirte algo. Algo que llevas meses escuchando de lejitos, con el celular en la mano y el café ya frío.",
+     "emocion": "sereno",
+     "objeto": "taza de café frío sobre una mesa de sala",
+     "pose": "senalando",
+     "prompt_visual": "Germancho sitting in a cozy living room, gently pointing at a cold coffee cup on the table, warm afternoon light, knowing smile",
+     "texto_en_pantalla": "Tu cuerpo te está hablando"
+    },
+    {
+     "texto": "Piénsalo así: tu cuerpo es una sala con una ventana. Si vives con estrés sostenido, es como tener el ruido de la calle entrando todo el día. No te das cuenta, hasta que a las 3 de la tarde ya no queda nada de energía para seguir aguantando.",
+     "emocion": "tristeza",
+     "objeto": "ventana de la sala con ruido de ciudad",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho slumped on a sofa in a living room, tired expression, city noise visible outside the window, soft muted colors",
+     "texto_en_pantalla": "Estrés que no se apaga"
+    },
+    {
+     "texto": "Segundo mensaje: las pausas que nunca tomas. Almuerzas frente a la pantalla, contestas mensajes en el baño, dices que paras cuando termines. Y terminar nunca llega. Tu cuerpo no te está pidiendo vacaciones; te está pidiendo cinco minutos de verdad, sin nada en las manos.",
+     "emocion": "sorpresa",
+     "objeto": "cuaderno cerrado y celular en la mesa",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms in a living room, phone and closed notebook on a coffee table, lightly surprised friendly expression",
+     "texto_en_pantalla": "Pausas que nunca tomas"
+    },
+    {
+     "texto": "Tercer mensaje: un ritmo de vida que no respeta ningún límite. Trabajo que se mete en la cena, cenas que se meten en la noche, noches que se meten en la mañana. Cuerpo, mente y trabajo son un solo sistema. Si uno se desordena, los otros dos lo sienten.",
+     "emocion": "sereno",
+     "objeto": "reloj de pared de la sala",
+     "pose": "senalando",
+     "prompt_visual": "Germancho pointing at a wall clock in a calm living room, thoughtful expression, soft warm lighting",
+     "texto_en_pantalla": "Un solo sistema"
+    },
+    {
+     "texto": "Ojo, esto no es un diagnóstico, y tampoco quiero asustarte. Es una invitación a escucharte. Si el cansancio es muy fuerte o constante, o te acompaña con otros síntomas, lo más sensato es consultar a un profesional. Ese café no reemplaza al médico.",
+     "emocion": "sereno",
+     "objeto": "taza humeante en las manos",
+     "pose": "saludando",
+     "prompt_visual": "Germancho holding a steaming mug with both hands, kind reassuring expression, cozy living room background",
+     "texto_en_pantalla": "Si es constante, consulta"
+    },
+    {
+     "texto": "Entonces, ¿qué hacemos con todo esto? Tres ideas para llevarte. Uno: el bajón de las 3 es un mensaje, no una falla. Dos: duerme, desayuna y mueve el cuerpo con un poquito más de cariño. Tres: las pausas pequeñas también cuentan.",
+     "emocion": "alegria",
+     "objeto": "cuaderno abierto con tres puntos anotados",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding up a small sign with three bullet points, open notebook nearby, bright friendly living room, encouraging smile",
+     "texto_en_pantalla": "Tres ideas para llevarte"
+    },
+    {
+     "texto": "Reto de hoy, menos de cinco minutos. Hoy a las 3 pm, levántate y camina cinco minutos al aire libre, con luz natural. Sin celular si puedes. Y anota en tu cuaderno cómo te sientes a las 4. Solo eso, sin exigirte nada más.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y lápiz junto a la puerta",
+     "pose": "escalera",
+     "prompt_visual": "Germancho stepping toward the front door of a living room with a notebook in hand, sunlight coming in, energetic upbeat mood",
+     "texto_en_pantalla": "Reto de hoy: caminar 5 minutos"
+    },
+    {
+     "texto": "Cuéntame en los comentarios cómo te sentiste a las 4. Si te sirvió, comparte este video con alguien que bosteza todos los días a esta hora. Gracias por estar aquí, tómate el café con calma. Nos vemos en el próximo video.",
+     "emocion": "alegria",
+     "objeto": "taza de café levantada como brindis",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waving goodbye with a raised coffee mug as a toast, warm smile, cozy living room with soft afternoon light",
+     "texto_en_pantalla": "Cuéntame en comentarios"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Cierre: el plan de las 3 pm y tu Reto de hoy",
+   "ambiente": "parque",
+   "palabras": 190,
+   "objetivo": "Resumir las causas en una frase cada una, dar el Reto de hoy (caminar 5 minutos al sol a las 3 pm), invitar a contar en comentarios cómo se siente a las 4 y suscribirse con una razón: cada semana llega una carta nueva de lo que el cuerpo lleva meses diciendo. Sin productos ni mentorías.",
+   "idea_clave": "Reto de hoy: 5 minutos al sol",
+   "escenas": [
+    {
+     "texto": "Entonces, llévate esto. Tres causas, una frase cada una. Una: dormir poco o mal se acumula y la tarde lo cobra. Dos: un desayuno escaso o solo dulce, y poco agua, te suben y te tiran la energía. Tres: horas sentado apagan el cuerpo.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "senalando",
+     "prompt_visual": "Germancho standing in a sunny park holding a coffee cup, counting three points on his fingers, calm friendly expression",
+     "texto_en_pantalla": "Tres causas, tres frases"
+    },
+    {
+     "texto": "Y detrás de las tres hay un mismo mensaje: tu cuerpo te está hablando. No es flojera ni falta de carácter. Es una señal. Si el cansancio no se va nunca, cuéntaselo a un profesional. Pero si es el bajón de las 3, hoy tienes un plan sencillo.",
+     "emocion": "sereno",
+     "objeto": "banca del parque",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho sitting on a park bench with open arms, warm smile, soft afternoon light through trees",
+     "texto_en_pantalla": "Es una señal, no flojera"
+    },
+    {
+     "texto": "Este es tu Reto de hoy. A las 3 pm, levántate y camina 5 minutos al aire libre, con luz natural. Sin celular en la mano, si puedes. Y anota en tu cuaderno cómo te sientes a las 4. Eso es todo. Cinco minutos.",
+     "emocion": "alegria",
+     "objeto": "cuaderno",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a sign that reads Reto de hoy in a sunny park, with a small notebook in his other hand, cheerful look",
+     "texto_en_pantalla": "Reto de hoy: 5 min al sol"
+    },
+    {
+     "texto": "Ahora me cuentas. Escríbeme en los comentarios cómo te sentiste a las 4: más despierto, igual, o con ganas de otro café. Me interesa de verdad lo que notaste. Tu respuesta le sirve a otra persona que hoy se está durmiendo en su escritorio.",
+     "emocion": "alegria",
+     "objeto": "cuaderno",
+     "pose": "senalando",
+     "prompt_visual": "Germancho pointing toward the camera with a friendly grin, walking on a park path in golden light",
+     "texto_en_pantalla": "¿Cómo te sentiste a las 4?"
+    },
+    {
+     "texto": "Y si quieres seguir esta conversación, suscríbete. Cada semana llega una carta nueva con lo que tu cuerpo lleva meses diciéndote y que nadie te ha traducido. Una taza, una idea, un reto pequeño. Nos vemos en el próximo video. Hasta pronto.",
+     "emocion": "alegria",
+     "objeto": "taza de café",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waving goodbye in a sunny park, holding a coffee cup, warm and relaxed smile",
+     "texto_en_pantalla": "Una carta nueva cada semana"
+    }
+   ]
+  }
+ ],
+ "reto_de_hoy": "Hoy a las 3 pm, levántate y camina 5 minutos al aire libre con luz natural, y anota en tu cuaderno cómo te sientes a las 4.",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "palabras": 2013
+}

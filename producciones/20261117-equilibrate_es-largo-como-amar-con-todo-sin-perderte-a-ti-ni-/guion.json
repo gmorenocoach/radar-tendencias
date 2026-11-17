@@ -1,0 +1,567 @@
+{
+ "titulo": "Cómo amar con todo sin perderte a ti ni tu libertad",
+ "titulos_alternativos": [
+  "Amar sin disolverte: tu identidad dentro de la pareja",
+  "No tienes que perderte para amar de verdad"
+ ],
+ "promesa": "Entender de dónde nace la dependencia emocional y llevarte cinco ideas y un ejercicio concreto para amar con entrega sin dejar de ser tú, porque se puede tener ambas cosas.",
+ "descripcion": "¿Amar de verdad significa entregarlo todo y perderte en el proceso? En este video, Germancho te sirve un café y conversa sobre amor, dependencia emocional e identidad propia. Vemos de dónde nace el miedo a perderte y a perder al otro, cómo conservar tu esencia dentro de la pareja, cómo cuidar tu libertad y construir un vínculo equilibrado. Con señales de alerta, preguntas para explorarte y un Reto de hoy de menos de 5 minutos. Contenido de reflexión que no sustituye la terapia profesional. Un espacio del canal Equilíbrate para volver a ti.",
+ "hashtags": [
+  "#AmorPropio",
+  "#DependenciaEmocional",
+  "#AmorSano",
+  "#RelacionesDePareja",
+  "#CrecimientoPersonal",
+  "#Equilibrate",
+  "#CoachingOntologico"
+ ],
+ "miniatura": {
+  "texto": "AMAR SIN PERDERTE",
+  "emocion": "tristeza",
+  "objeto": "taza de café con un corazón dibujado en la espuma",
+  "pose": "triste_acostado"
+ },
+ "capitulos": [
+  {
+   "n": 0,
+   "titulo": "Gancho",
+   "ambiente": "cafeteria",
+   "palabras": 70,
+   "objetivo": "Cuestionar la creencia de que amar es entregarlo todo, aunque cueste perderte. Prometer cinco ideas y un reto, y abrir el bucle: al final, la pregunta que revela si estás amando desde la plenitud o desde la carencia.",
+   "idea_clave": "Amar no es desaparecer",
+   "escenas": [
+    {
+     "texto": "Te lo dijeron mil veces: amar es darlo todo. Entregarte hasta el fondo, aunque te quedes sin ti. Pues hoy te hago una pregunta incómoda: ¿y si esa idea no es amor, sino miedo con buen disfraz? Siéntate, que el café está recién servido y esto va a cambiar tu forma de querer.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café humeante sobre la barra",
+     "pose": "senalando",
+     "prompt_visual": "Germancho leans over a cafe counter, pointing straight at the viewer with a raised eyebrow, steaming coffee cup beside him",
+     "texto_en_pantalla": "¿Amar es entregarlo todo?"
+    },
+    {
+     "texto": "Hoy vas a llevarte cinco ideas y un reto de tres minutos para amar con entrega sin dejar de ser tú. Sí, se puede tener las dos cosas. Pero antes, guarda esta pregunta: al final te voy a dar la que revela si estás amando desde la plenitud o desde la carencia.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto junto a la taza",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho opens his arms warmly in a cozy cafe, notebook and coffee cup on the table, inviting smile",
+     "texto_en_pantalla": "5 ideas + 1 reto"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "titulo": "Por qué sentimos que amar es perderse",
+   "ambiente": "sala",
+   "palabras": 400,
+   "objetivo": "Presentar la diferencia entre amar desde la plenitud y desde la carencia, y situar al espectador en el doble miedo: perderse a sí mismo y perder al otro. Mini-gancho: una escena cotidiana que casi todos hemos vivido y que delata cuándo el amor empezó a costarnos quiénes éramos.",
+   "idea_clave": "Dos miedos en una taza",
+   "escenas": [
+    {
+     "texto": "Imagina esto. Llevas meses con alguien. Un sábado te escribe un amigo: ¿vamos por un café? Y tu primer pensamiento no es si quieres ir. Es: ¿le va a molestar a mi pareja? Ahí, justo ahí, algo cambió y casi nadie lo notó.",
+     "emocion": "sorpresa",
+     "objeto": "celular sobre la mesa",
+     "pose": "senalando",
+     "prompt_visual": "Germancho sitting on a living room sofa, looking at a phone with a puzzled raised eyebrow, pointing at the screen",
+     "texto_en_pantalla": "Un sábado cualquiera"
+    },
+    {
+     "texto": "Otra escena. Antes escuchabas música a todo volumen mientras cocinabas. Ahora bajas el volumen por si acaso. Antes tenías planes tuyos, un gusto tuyo, un domingo tuyo. Hoy tu agenda gira alrededor de otra persona, y lo llamas amor.",
+     "emocion": "tristeza",
+     "objeto": "parlante pequeño con el volumen bajo",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho slouched on a sofa next to a small speaker, turning the volume knob down with a sad, resigned look",
+     "texto_en_pantalla": ""
+    },
+    {
+     "texto": "Hola, soy Germancho, el barista del ser. Hoy te sirvo una pregunta: ¿se puede amar con todo sin dejar de ser tú? Sí se puede. Y en este video te llevas cinco ideas y un ejercicio concreto para lograrlo. Pero antes, entendamos por qué duele tanto.",
+     "emocion": "alegria",
+     "objeto": "taza humeante",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waving warmly at the camera in a cozy living room, holding a steaming coffee cup, friendly smile",
+     "texto_en_pantalla": "Amar sin perderte"
+    },
+    {
+     "texto": "Mira, casi nadie nos enseñó a amar. Aprendimos mirando: películas, canciones, familia. Y la mayoría decía lo mismo: amar es entregarlo todo, sacrificarse, aguantar. Así que cuando amamos, creemos que desaparecer un poquito es parte del trato.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms in a living room, calm expression, a notebook open on the coffee table beside him",
+     "texto_en_pantalla": "Amar = ¿desaparecer?"
+    },
+    {
+     "texto": "Aquí va la diferencia que lo cambia todo. Puedes amar desde la plenitud o desde la carencia. Desde la plenitud, tu taza ya está llena y compartes lo que rebosa. Desde la carencia, buscas que el otro te llene. Y esa taza ajena nunca alcanza.",
+     "emocion": "sereno",
+     "objeto": "dos tazas, una llena y una vacía",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho on a stool holding two cups, one full and steaming, one empty, comparing them with a thoughtful look",
+     "texto_en_pantalla": "Plenitud vs. carencia"
+    },
+    {
+     "texto": "Desde la carencia, el amor se vuelve un examen. ¿Me quiere? ¿Me va a dejar? ¿Hice algo mal? Vives pendiente de su cara, de su tono, de su silencio. Y sin darte cuenta, tu bienestar queda en manos de alguien que no pidió esa responsabilidad.",
+     "emocion": "miedo",
+     "objeto": "celular con mensaje sin responder",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouched on the floor of a living room, anxiously staring at a phone with an unanswered message, worried face",
+     "texto_en_pantalla": "Pendiente de su silencio"
+    },
+    {
+     "texto": "Y ahí aparece el doble miedo. El primero: perderte a ti. Ceder tanto que un día no sabes qué te gusta ni qué quieres. El segundo: perder al otro. Y el segundo miedo es tan fuerte que silencia al primero. Por eso seguimos cediendo, aunque algo por dentro proteste.",
+     "emocion": "miedo",
+     "objeto": "dos siluetas en la pared",
+     "pose": "cambio",
+     "prompt_visual": "Germancho standing between two shadows on a living room wall, one shadow shrinking, looking torn and anxious",
+     "texto_en_pantalla": "El doble miedo"
+    },
+    {
+     "texto": "Ojo, esto no te hace débil ni defectuoso. Es una herida muy humana: aprendimos que el amor había que ganárselo. Pero lo que se aprende se puede reaprender. Y no empieza soltando a nadie. Empieza volviendo a ti, con calma, taza en mano.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho smiling gently with open arms in a warm living room, holding a coffee cup, reassuring and calm",
+     "texto_en_pantalla": "Se puede reaprender"
+    },
+    {
+     "texto": "Entonces, la pregunta de fondo no es cómo amar menos para no perderte. Es cómo amar entero sin abandonarte. Porque entrega y libertad no son enemigas. Son las dos manos de un mismo abrazo. En el siguiente capítulo, empezamos por la primera idea. Quédate.",
+     "emocion": "alegria",
+     "objeto": "taza humeante",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding up a sign reading Entrega + Libertad, cheerful and confident smile, cozy living room background",
+     "texto_en_pantalla": "Entrega + libertad"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "De dónde nace la dependencia emocional",
+   "ambiente": "biblioteca",
+   "palabras": 450,
+   "objetivo": "Diagnóstico sin drama: mitos del amor romántico (la media naranja, el 'sin ti no soy nada'), huellas de la infancia y miedo al abandono. Validar sin etiquetar ni diagnosticar. Mini-gancho: la frase de película que nos enseñó a amar mal.",
+   "idea_clave": "Lo aprendido se puede revisar",
+   "escenas": [
+    {
+     "texto": "Hay una frase de película que nos enseñó a amar mal. Seguro la conoces: Sin ti no soy nada. Suena hermosa, ¿verdad? Pero mírala de cerca: si sin el otro no eres nada, ¿quién se queda en la relación? Una taza vacía no puede servirle café a nadie.",
+     "emocion": "sorpresa",
+     "objeto": "libro viejo de cine",
+     "pose": "senalando",
+     "prompt_visual": "Germancho in a cozy library holds up a vintage romance movie poster and points at it with a raised eyebrow",
+     "texto_en_pantalla": "Sin ti no soy nada"
+    },
+    {
+     "texto": "Vamos a hacer un diagnóstico, pero sin drama. Aquí no hay etiquetas ni enfermos. Solo preguntas curiosas. Porque cuando entiendes de dónde viene algo, deja de parecer un defecto tuyo y empieza a parecer lo que es: una historia aprendida. Y lo aprendido se puede revisar.",
+     "emocion": "sereno",
+     "objeto": "lupa",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho between tall library shelves, arms open in a welcoming gesture, holding a small magnifying glass, calm smile",
+     "texto_en_pantalla": "Sin drama, con curiosidad"
+    },
+    {
+     "texto": "Primer mito: la media naranja. Nos contaron que nacemos incompletos y que alguien llegará a completarnos. Ojo con eso. Si llegas a una relación a medias, vas a pasar años cuidando que la otra mitad no se vaya, en vez de disfrutar a la persona que tienes enfrente.",
+     "emocion": "asco",
+     "objeto": "media naranja",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a sign showing half an orange with a crossed-out mark, puzzled and amused expression, library background",
+     "texto_en_pantalla": "Mito 1: la media naranja"
+    },
+    {
+     "texto": "Segundo mito: amar es sacrificarlo todo. Dejar tus planes, tus amigos, tu café de los sábados, y llamarlo entrega. Pero entregarse no es desaparecer. Se puede dar mucho sin vaciarte. La diferencia está en que la entrega se elige, y la desaparición se aguanta.",
+     "emocion": "tristeza",
+     "objeto": "cuaderno con hojas tachadas",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches beside a stack of books on the library floor, looking at a notebook with crossed-out pages, thoughtful and a bit sad",
+     "texto_en_pantalla": "Entrega se elige, no se aguanta"
+    },
+    {
+     "texto": "Ahora, las huellas de la infancia. De niños aprendemos cómo se ve el cariño mirando a los de casa. Si el afecto llegaba a veces, o había que ganárselo, o alguien se iba de repente, el cuerpo guarda una idea: si me quieren, no puedo soltar. Eso no es culpa de nadie.",
+     "emocion": "tristeza",
+     "objeto": "cuaderno antiguo",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a stool among old books, holding a worn notebook, gentle nostalgic expression, warm library light",
+     "texto_en_pantalla": "Huellas de infancia"
+    },
+    {
+     "texto": "De ahí nace el miedo al abandono, que se disfraza de muchas cosas: revisar el celular, necesitar que te respondan ya, ceder para que nadie se enoje. Si te suena, respira. No es que estés mal. Es que una parte tuya aprendió a protegerse así, y lo hizo lo mejor que pudo.",
+     "emocion": "miedo",
+     "objeto": "teléfono",
+     "pose": "saludando",
+     "prompt_visual": "Germancho in the library glances nervously at a phone in one hand, then softens his face and lifts the other hand in a calm reassuring wave",
+     "texto_en_pantalla": "Miedo al abandono"
+    },
+    {
+     "texto": "Fíjate en lo que acabamos de armar: mitos que nos vendieron, huellas que nos dejaron y un miedo que hizo lo posible por cuidarte. Ninguna de las tres cosas es una condena. Son piezas de un rompecabezas, y cuando las ves, ya no mandan solas.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho sets three small puzzle pieces on a library table next to a steaming coffee cup, smiling with relief",
+     "texto_en_pantalla": "Mitos, huellas, miedo"
+    },
+    {
+     "texto": "Y aquí viene lo bueno: si algo se aprendió, se puede reaprender. Amar con todo sin perderte no es una cualidad de gente especial, es una práctica. En el siguiente capítulo empiezo a entregarte las cinco ideas. Sírvete otro café, que esto apenas arranca.",
+     "emocion": "alegria",
+     "objeto": "taza de café",
+     "pose": "cambio",
+     "prompt_visual": "Germancho raises a coffee cup toward the camera with a bright smile, library shelves glowing warmly behind him",
+     "texto_en_pantalla": "Lo aprendido se reaprende"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Tu identidad es la base del vínculo",
+   "ambiente": "espejo",
+   "palabras": 450,
+   "objetivo": "Mostrar por qué intereses, valores y vida propia son lo que sostiene a la pareja, no lo que la amenaza. Ejemplo de la persona que dejó su cuaderno, su música y sus amigos 'por amor'. Mini-gancho: la pregunta del espejo, ¿qué fue lo último que hiciste solo por ti?",
+   "idea_clave": "Primero, no abandonarte",
+   "escenas": [
+    {
+     "texto": "Mírate un segundo en el espejo. No para juzgarte, solo para preguntarte algo que a veces duele: ¿qué fue lo último que hiciste solo por ti? No por tu pareja, no por tu familia, no por tu trabajo. Solo por ti. Piénsalo. Yo espero.",
+     "emocion": "sereno",
+     "objeto": "espejo de pared con marco de madera",
+     "pose": "senalando",
+     "prompt_visual": "Germancho stands beside a wall mirror, pointing gently at the viewer with a curious, warm expression, a coffee mug in the other hand",
+     "texto_en_pantalla": "¿Qué hiciste solo por ti?"
+    },
+    {
+     "texto": "Te cuento la historia de alguien que podría ser cualquiera. Tenía un cuaderno donde escribía cada noche, una música que lo ponía a bailar en la cocina y un grupo de amigos de toda la vida. Un día conoció a alguien y todo cambió.",
+     "emocion": "alegria",
+     "objeto": "cuaderno, audífonos y tazas de café",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho tells a story with open arms next to a table with a notebook, headphones and cups of coffee, cheerful storytelling mood",
+     "texto_en_pantalla": "Cuaderno, música y amigos"
+    },
+    {
+     "texto": "Al principio no fue una decisión grande. Fue un plan que se canceló, luego otro. Después, la música sonaba menos. El cuaderno quedó en un cajón. Y los amigos preguntaban poco a poco menos, porque ya nadie contestaba. Todo por amor, decía.",
+     "emocion": "tristeza",
+     "objeto": "cuaderno cerrado dentro de un cajón",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches sadly looking into an open drawer where a closed notebook and headphones lie forgotten, soft melancholic light",
+     "texto_en_pantalla": "Todo por amor… decía"
+    },
+    {
+     "texto": "Fíjate en lo sutil de esto. Nadie le pidió que se apagara. Muchas veces lo hacemos solos, creyendo que dar más es desaparecer más. Como si el amor fuera una taza que solo se llena vaciando la tuya. Pero así no funciona.",
+     "emocion": "sorpresa",
+     "objeto": "taza de café vacía",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points at an empty coffee cup with a surprised, thoughtful look, as if revealing something hidden",
+     "texto_en_pantalla": "Nadie le pidió apagarse"
+    },
+    {
+     "texto": "Esto es lo que casi nadie te dice: tus intereses, tus valores y tu vida propia no son lo que amenaza a la pareja. Son lo que la sostiene. Dos personas completas se eligen. Dos personas a medias solo se necesitan, y eso pesa.",
+     "emocion": "sereno",
+     "objeto": "escalera de dos peldaños firme",
+     "pose": "escalera",
+     "prompt_visual": "Germancho stands confidently on a sturdy small ladder, calm and certain expression, warm light, symbolizing a solid base",
+     "texto_en_pantalla": "Tu identidad sostiene el vínculo"
+    },
+    {
+     "texto": "Piénsalo así: ¿de qué se enamoró tu pareja? De la persona que escribía, que bailaba, que reía con sus amigos. Si te desvaneces por amor, poco a poco le quitas justo aquello que fue a buscar. El vínculo se queda sin su mejor parte: tú.",
+     "emocion": "sorpresa",
+     "objeto": "foto polaroid desvaneciéndose",
+     "pose": "senalando",
+     "prompt_visual": "Germancho holds up a polaroid photo that is slowly fading, looking at the camera with a gentle, surprised expression",
+     "texto_en_pantalla": "Te enamoraron de ti"
+    },
+    {
+     "texto": "Entonces, ¿cómo se ve amar con entrega sin perderte? Se ve en cosas pequeñas. Mantener tu hora de cuaderno. Salir con tus amigos sin pedir permiso con culpa. Escuchar tu música aunque no sea la de los dos. Eso no es egoísmo. Es cuidar la base.",
+     "emocion": "alegria",
+     "objeto": "cuaderno abierto, audífonos y taza",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho smiles with open arms behind a table with an open notebook, headphones and a steaming cup, bright and optimistic mood",
+     "texto_en_pantalla": "Cuidar tu base no es egoísmo"
+    },
+    {
+     "texto": "Y ojo, que esto va en los dos sentidos. Tu pareja también necesita su cuaderno, su música, sus amigos. Cuando cada uno cuida su vida, el amor deja de ser una jaula y se vuelve una mesa compartida, con dos tazas bien servidas.",
+     "emocion": "alegria",
+     "objeto": "mesa con dos tazas de café",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a stool at a table with two full coffee cups, smiling warmly, cozy cafe atmosphere",
+     "texto_en_pantalla": "Una mesa, dos tazas llenas"
+    },
+    {
+     "texto": "Volvamos al espejo. Quizás hoy no encontraste una respuesta a la pregunta de lo último que hiciste por ti, y está bien. No es una condena, es un punto de partida. Lo que dejaste en el cajón no se perdió: te está esperando.",
+     "emocion": "sereno",
+     "objeto": "espejo de pared con marco de madera",
+     "pose": "senalando",
+     "prompt_visual": "Germancho stands again by the wall mirror, looking at his reflection with a calm, kind smile, soft warm light",
+     "texto_en_pantalla": "Lo que dejaste te espera"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Libertad: espacios, límites y vacíos propios",
+   "ambiente": "parque",
+   "palabras": 430,
+   "objetivo": "Explicar la independencia emocional: poner límites con cariño, tener espacios propios y dejar de usar al otro para llenar vacíos. Mini-gancho: la diferencia entre 'te necesito' y 'te elijo'. Aclarar que la pareja es un espejo, no una solución.",
+   "idea_clave": "Te elijo, no te necesito",
+   "escenas": [
+    {
+     "texto": "Ya hablamos de dónde nace esto. Ahora toca la parte que más cuesta: la libertad. Y empiezo con dos frases que suenan parecidas y no lo son. Te necesito. Te elijo. Una nace del vacío. La otra, de la plenitud. Quédate, que en este parque te cuento la diferencia.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "saludando",
+     "prompt_visual": "cartoon barista character waving hello in a sunny park, holding a coffee cup, relaxed smile",
+     "texto_en_pantalla": "Te necesito vs. Te elijo"
+    },
+    {
+     "texto": "Te necesito suena romántico, pero mira lo que esconde. Si te necesito, tú eres mi salvavidas. Cualquier distancia me parece una amenaza y cualquier espacio tuyo, un abandono. Te elijo dice otra cosa: podría estar solo, y aun así prefiero caminar contigo. Ahí no hay cadena. Hay decisión.",
+     "emocion": "sereno",
+     "objeto": "letrero con dos frases",
+     "pose": "letrero",
+     "prompt_visual": "character holding a sign with two phrases side by side, standing next to a park bench",
+     "texto_en_pantalla": "Necesidad o elección"
+    },
+    {
+     "texto": "Y aquí va algo que quizá incomoda: tu pareja no es la solución a tus vacíos. Es un espejo. Te muestra dónde te sientes completo y dónde estás esperando que alguien más te rellene. El espejo no tiene la culpa de lo que refleja. Úsalo para mirarte, no para exigirle que cambie.",
+     "emocion": "sorpresa",
+     "objeto": "espejo de mano",
+     "pose": "senalando",
+     "prompt_visual": "character pointing at a small hand mirror resting on a park bench, curious expression",
+     "texto_en_pantalla": "La pareja es un espejo"
+    },
+    {
+     "texto": "Veamos cómo se ve usar al otro para llenar un vacío. Le pides que te escriba cada hora para sentirte querido. Esperas que su plan favorito sea siempre contigo. Le cargas tu ánimo entero. Nadie puede sostener eso. Y no porque no te quiera, sino porque ese hueco solo lo puedes atender tú.",
+     "emocion": "tristeza",
+     "objeto": "taza vacía",
+     "pose": "triste_acostado",
+     "prompt_visual": "character lying sadly on the grass in a park next to an empty coffee cup, gloomy mood",
+     "texto_en_pantalla": "Ese hueco es tuyo"
+    },
+    {
+     "texto": "Primera herramienta: los espacios propios. Un rato con tus amigos, tu música, tu caminata, tu silencio. Eso no le quita nada a la relación; la oxigena. Cuando vuelves de un espacio tuyo, vuelves con algo que contar. Una pareja sin aire se vuelve rutina. Una con aire sigue siendo encuentro.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y audífonos",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "character with arms wide open breathing fresh air in a green park, notebook and headphones on the bench",
+     "texto_en_pantalla": "Espacio propio = aire"
+    },
+    {
+     "texto": "Segunda herramienta: los límites con cariño. Decir no, hoy no puedo, necesito un rato para mí, no es rechazar a nadie. Es cuidar lo que sí das. Prueba con esta frase: te quiero y necesito esta tarde para mí. Cabe el cariño y cabe el límite. Y si cuesta decirla, es normal. Se aprende.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "senalando",
+     "prompt_visual": "character gently gesturing a stop-and-heart sign with one hand, warm calm expression in a park",
+     "texto_en_pantalla": "Te quiero y necesito mi espacio"
+    },
+    {
+     "texto": "Tercera herramienta: llenar tus propios vacíos. Pregúntate qué le estás pidiendo a tu pareja que solo tú puedes darte. Calma, valor, compañía contigo mismo, un propósito. Empieza por una cosa pequeña y constante. Y si el vacío es muy pesado, pedir ayuda a un profesional también es amarte.",
+     "emocion": "sereno",
+     "objeto": "cuaderno",
+     "pose": "agachado",
+     "prompt_visual": "character crouching and writing in a notebook on the park grass, thoughtful and peaceful",
+     "texto_en_pantalla": "Llena tu propia taza"
+    },
+    {
+     "texto": "Piensa en la mejor versión de este amor: dos personas completas que caminan juntas porque quieren, no porque temen quedarse solas. Eso no es amar menos. Es amar más limpio. Entrega y libertad no se pelean. Se necesitan. Y en el siguiente capítulo lo bajamos a la práctica.",
+     "emocion": "alegria",
+     "objeto": "dos tazas de café",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "character smiling with arms open beside two coffee cups on a park table, golden afternoon light",
+     "texto_en_pantalla": "Amar con entrega y libertad"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Un vínculo equilibrado: de la fusión a la interdependencia",
+   "ambiente": "restaurante",
+   "palabras": 420,
+   "objetivo": "Comunicación honesta, reciprocidad y diferencia entre fusión e interdependencia sana. Mini-gancho: la escena de la mesa para dos donde uno cede siempre. Sin recetas para conquistar ni para que alguien vuelva.",
+   "idea_clave": "Dos enteros, no dos mitades",
+   "escenas": [
+    {
+     "texto": "Mesa para dos, un restaurante lleno de gente. Él pide el plato que a ella le gusta. Otra vez. Ella elige la película, el plan, el lugar. Otra vez. Nadie discute. Todo parece tranquilo. Pero hace meses que uno de los dos no recuerda qué quería pedir.",
+     "emocion": "tristeza",
+     "objeto": "mesa para dos con un solo plato servido",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho sits alone at a restaurant table set for two, staring at a menu he has not touched, melancholic but warm lighting",
+     "texto_en_pantalla": "La mesa para dos"
+    },
+    {
+     "texto": "Eso no es amor profundo. Eso se llama fusión: cuando dos personas se vuelven una sola, y esa sola siempre es la misma. Suena romántico, pero la fusión no cuida a nadie. Un vínculo donde uno se borra tarde o temprano pesa, aunque nadie lo diga en voz alta.",
+     "emocion": "sereno",
+     "objeto": "dos tazas de café pegadas, una vacía",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points at two coffee cups glued together on the table, one of them empty, restaurant background",
+     "texto_en_pantalla": "Fusión no es amor"
+    },
+    {
+     "texto": "Del otro lado está la interdependencia. Dos personas completas que se eligen, se apoyan y se necesitan sin desaparecer. Piensa en dos plantas sembradas en la misma maceta, cada una con su raíz. Se acompañan, comparten luz, y ninguna se come a la otra.",
+     "emocion": "alegria",
+     "objeto": "maceta con dos plantas",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho opens his arms next to a planter with two healthy plants growing side by side, cheerful restaurant terrace",
+     "texto_en_pantalla": "Interdependencia sana"
+    },
+    {
+     "texto": "¿Cómo se ve la diferencia en la vida real? En la fusión dices: lo que tú quieras está bien, aunque por dentro no sea cierto. En la interdependencia dices: esto prefiero yo, ¿y tú? Pequeño cambio de frase. Enorme cambio de vínculo.",
+     "emocion": "sorpresa",
+     "objeto": "letrero con dos frases",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds a small sign comparing two sentences, one crossed out and one highlighted, restaurant booth behind him",
+     "texto_en_pantalla": "Lo que quieras vs. yo prefiero"
+    },
+    {
+     "texto": "Primera pieza: la honestidad. Decir lo que sientes, con cariño, antes de que se convierta en silencio o en resentimiento. No hace falta un discurso. A veces basta con una frase sencilla: hoy me gustaría otra cosa. Callar siempre también es una forma de irse.",
+     "emocion": "sereno",
+     "objeto": "cuaderno y lapicero sobre la mesa",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a stool with cups on the table, speaking calmly and gesturing gently with one hand, cozy restaurant",
+     "texto_en_pantalla": "Decir con cariño"
+    },
+    {
+     "texto": "Segunda pieza: la reciprocidad. Una relación sana se parece a una conversación, no a una cuenta de cobro. A veces cedes tú, a veces cede el otro. Si la balanza siempre cae del mismo lado, no es generosidad, es desgaste. Y los dos merecen que haya turnos.",
+     "emocion": "sereno",
+     "objeto": "balanza pequeña con dos tazas",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points to a small scale balancing two coffee cups on a restaurant table, thoughtful expression",
+     "texto_en_pantalla": "Turnos, no cuentas"
+    },
+    {
+     "texto": "Ojo con esto: pedir equilibrio no te convierte en egoísta. Ceder por amor es bonito. Ceder siempre por miedo a que el otro se vaya es otra cosa. La diferencia está en la intención. Pregúntate: ¿cedo porque quiero, o porque me da pánico decir no?",
+     "emocion": "miedo",
+     "objeto": "taza temblorosa",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches near the table looking at a trembling coffee cup, uneasy but gentle expression, restaurant dim light",
+     "texto_en_pantalla": "¿Cedo por amor o por miedo?"
+    },
+    {
+     "texto": "Y si no sabes por dónde empezar, prueba esto: en tu próxima comida, elige algo tú primero. Un plato, un lugar, una opinión. Pequeño, pero tuyo. No es para ganar nada ni cambiar a nadie, es para practicar existir al lado de alguien sin desaparecer.",
+     "emocion": "alegria",
+     "objeto": "menú abierto con un plato marcado",
+     "pose": "saludando",
+     "prompt_visual": "Germancho smiles holding a restaurant menu open, circling a dish with a pen, bright welcoming mood",
+     "texto_en_pantalla": "Elige tú primero"
+    },
+    {
+     "texto": "Amar con todo y seguir siendo tú no es una contradicción, es el punto. Quien te quiere de verdad no necesita que te encojas para caber. En el próximo capítulo lo llevamos a la práctica, con un ejercicio sencillo que puedes hacer hoy mismo con tu cuaderno.",
+     "emocion": "sereno",
+     "objeto": "cuaderno cerrado junto a una taza",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho stands relaxed with a closed notebook and a coffee cup on the table, warm restaurant glow, calm confident smile",
+     "texto_en_pantalla": "Amar sin encogerte"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Señales de alerta y preguntas para explorarte",
+   "ambiente": "cocina",
+   "palabras": 400,
+   "objetivo": "Herramientas prácticas: señales de alerta, preguntas de autoexploración y un ejercicio breve de atención plena. Aclarar en una frase que esto no sustituye a un profesional si el malestar es intenso. Mini-gancho: la pregunta que cierra el bucle abierto en el gancho.",
+   "idea_clave": "Pregúntate antes de entregarte",
+   "escenas": [
+    {
+     "texto": "Antes de seguir, quiero cerrar algo que dejé abierto al principio. Te prometí una pregunta, una sola, que cambia cómo miras cualquier vínculo. Pero primero toca revisar el terreno. Nada de dramas: solo mirar con calma, como quien revisa la despensa antes de cocinar.",
+     "emocion": "sereno",
+     "objeto": "taza de café en la encimera",
+     "pose": "saludando",
+     "prompt_visual": "Germancho in a warm kitchen greeting the viewer, steaming coffee mug on the counter",
+     "texto_en_pantalla": "Capítulo 6: Herramientas"
+    },
+    {
+     "texto": "Primera señal de alerta: sientes que dejaste de ser tú. Tus gustos, tus planes, tus amigos se fueron quedando atrás sin que lo decidieras. Segunda: pides perdón por pedir lo que necesitas, como si tener necesidades fuera pedir demasiado. No es drama, es información que tu cuerpo te da.",
+     "emocion": "tristeza",
+     "objeto": "cuaderno cerrado sobre la mesa",
+     "pose": "senalando",
+     "prompt_visual": "Germancho pointing at a closed notebook on the kitchen table with a thoughtful expression",
+     "texto_en_pantalla": "Señal 1 y 2"
+    },
+    {
+     "texto": "Tercera señal: sientes pánico cuando el otro se aleja un rato, aunque no haya pasado nada grave. Cuarta: tu estado de ánimo depende por completo de cómo te responde. Si su mensaje decide tu día, vale la pena preguntarte quién está sosteniendo tu equilibrio.",
+     "emocion": "miedo",
+     "objeto": "celular apoyado junto a la taza",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching beside a kitchen counter looking worried at a phone next to a mug",
+     "texto_en_pantalla": "Señal 3 y 4"
+    },
+    {
+     "texto": "Y la quinta: sientes culpa cada vez que haces algo solo para ti. Un café con una amiga, una tarde en silencio, una caminata sin avisar. Si disfrutar tu propio espacio te llena de culpa, ahí hay algo que merece cariño y atención, no un castigo.",
+     "emocion": "tristeza",
+     "objeto": "silla vacía junto a la ventana",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho lying down sadly on the kitchen floor near an empty chair by the window",
+     "texto_en_pantalla": "Señal 5: la culpa"
+    },
+    {
+     "texto": "Ahora, las preguntas para explorarte. Agarra tu cuaderno si quieres. Primera: ¿qué hacía yo antes de esta relación que ya no hago? Segunda: ¿cuándo fue la última vez que dije que no sin sentirme mal? Tercera: ¿qué estoy esperando que el otro llene en mí?",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto y lápiz",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a small sign with a question mark, open notebook and pencil on the kitchen table",
+     "texto_en_pantalla": "Tres preguntas para ti"
+    },
+    {
+     "texto": "Sigamos con dos más. Cuarta: ¿esto que siento es amor o es miedo a quedarme solo? Quinta: si mañana este vínculo cambiara, ¿tendría yo dónde pararme? No busques la respuesta perfecta. Escribe lo primero que llegue. La honestidad llega antes que la elegancia.",
+     "emocion": "sorpresa",
+     "objeto": "lápiz sobre el cuaderno",
+     "pose": "senalando",
+     "prompt_visual": "Germancho pointing toward the viewer with a gentle surprised look, pencil resting on a notebook",
+     "texto_en_pantalla": "Pregunta 4 y 5"
+    },
+    {
+     "texto": "Ahora un ejercicio breve de atención plena. Cuesta dos minutos. Siéntate, apoya los pies en el piso, pon una mano en el pecho y respira lento. Pregúntate: ¿qué siento ahora mismo, sin que nadie me lo diga? Solo observa. Sin juzgar, sin arreglar. Como quien mira el vapor subir de la taza.",
+     "emocion": "sereno",
+     "objeto": "taza humeante entre las manos",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sitting calmly on a stool in the kitchen, hand on chest, eyes closed, steaming cup nearby",
+     "texto_en_pantalla": "2 minutos: respira y siente"
+    },
+    {
+     "texto": "Una aclaración honesta: esto no sustituye a un profesional. Si lo que sientes es muy intenso, si te cuesta dormir, comer o funcionar, busca a alguien que te acompañe. Pedir ayuda no es debilidad. Es de las formas más valientes de cuidarte.",
+     "emocion": "sereno",
+     "objeto": "taza sobre la mesa",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms in a warm kitchen, kind and reassuring expression",
+     "texto_en_pantalla": "Esto no sustituye a un profesional"
+    },
+    {
+     "texto": "Y ahora sí, la pregunta que te dejé pendiente. La que cierra todo. ¿Quién eres cuando nadie te está mirando, nadie te está eligiendo y nadie te está necesitando? Ahí vive tu base. Y desde ahí, amar con todo deja de ser un riesgo y se vuelve una elección.",
+     "emocion": "sorpresa",
+     "objeto": "taza humeante al centro de la mesa",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho leaning toward the camera with wide eyes and a smile, steaming mug in the center of the table",
+     "texto_en_pantalla": "¿Quién eres sin que te miren?"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Cierre",
+   "ambiente": "cafeteria",
+   "palabras": 125,
+   "objetivo": "Resumir las cinco ideas, dejar la frase memorable sobre amar desde la plenitud y no desde la carencia, proponer el Reto de hoy e invitar a suscribirse con una razón: seguir recibiendo conversaciones como esta sobre amor y volver a ti. Sin mencionar productos ni mentorías.",
+   "idea_clave": "Ama desde la plenitud",
+   "escenas": [
+    {
+     "texto": "Vamos cerrando la taza. Cinco ideas para llevarte. Uno: te necesito no es lo mismo que te elijo. Dos: la pareja es un espejo, no una solución a tus vacíos. Tres: amar sano se parece a dos plantas en una maceta, no a dos tazas pegadas. Cuatro: espacios propios y límites con cariño. Cinco: honestidad y reciprocidad.",
+     "emocion": "sereno",
+     "objeto": "taza de café humeante sobre la mesa",
+     "pose": "senalando",
+     "prompt_visual": "Germancho counts on his fingers with a calm smile, steaming coffee cup on a cafe table beside him",
+     "texto_en_pantalla": "5 ideas para llevarte"
+    },
+    {
+     "texto": "Y si te quedas con una sola frase, que sea esta: ama desde la plenitud, no desde la carencia. Quien llega vacío busca que el otro lo llene. Quien llega lleno puede darse entero, porque sabe quién es. Amar con todo no exige perderte. Se puede tener ambas cosas.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto y lápiz",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds up a small sign reading Reto de hoy, open notebook and pencil on the cafe table",
+     "texto_en_pantalla": "Reto de hoy: 3 cosas tuyas",
+     "},{\"texto": "Ahora, tu Reto de hoy. Toma tu cuaderno y escribe, en tres minutos, tres cosas que eran tuyas antes de amar a alguien: un gusto, un hábito, un sueño. Elige una y retómala hoy mismo. Cuéntanos en los comentarios cuál elegiste."
+    },
+    {
+     "texto": "Y si esta conversación te sirvió, suscríbete. Aquí seguimos hablando de amor, de ti y de cómo volver a ti, una taza a la vez. Ya sabes dónde encontrarme. Nos vemos en el próximo café. Hasta la próxima, y cuídate mucho.",
+     "emocion": "alegria",
+     "objeto": "taza de café levantada como brindis",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waves goodbye with a warm smile, raising a coffee cup like a toast, cozy cafe behind him",
+     "texto_en_pantalla": "Suscríbete y vuelve a ti"
+    }
+   ]
+  }
+ ],
+ "reto_de_hoy": "Toma tu cuaderno y escribe, en 3 minutos, tres cosas que eran tuyas antes de amar a alguien (un gusto, un hábito, un sueño) y elige una para retomar hoy mismo. Cuéntanos en los comentarios cuál elegiste.",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "palabras": 2642
+}

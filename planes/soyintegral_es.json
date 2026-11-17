@@ -427,7 +427,10 @@
    "subtema": "Carta 2, la energía. El bajón de la tarde como mensaje: ritmo del día, hidratación, pausas, qué comes y cuándo, y cómo gastas la atención. Se usa la imagen del café que ya no despierta, sino que tapa. Pista final: a veces lo que parece hambre es otra cosa. Reto de hoy: toma un vaso de agua, estírate 2 minutos y anota tu nivel de energía de 1 a 10 antes y después.",
    "referencia_video_id": "",
    "minutos": 12,
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s",
+   "resultado": "ok 671s",
+   "producido_en": "2026-11-17T18:57:28"
   },
   {
    "id": "soyintegral_es-20261119-S",
@@ -440,7 +443,10 @@
    "titulo": "El error de la última hora del día",
    "gancho": "Lo que haces 60 minutos antes de dormir pesa más que el colchón que compraste.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261117-soyintegral_es-tu-ultima-hora-del-dia-pesa-mas-que-tu-colchon",
+   "resultado": "ok 202s",
+   "producido_en": "2026-11-17T19:25:39"
   },
   {
    "id": "soyintegral_es-20261121-S",

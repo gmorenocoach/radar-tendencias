@@ -1,0 +1,96 @@
+{
+ "id": "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s",
+ "perfil": "soyintegral_es",
+ "canal": "Soy Integral · Salud",
+ "formato": "largo",
+ "modo": "economico",
+ "visual": "ilustracion",
+ "fecha": "2026-11-17T18:57:28",
+ "titulo": "Por qué te da sueño a las 3 pm (y no es solo el almuerzo)",
+ "titulos_alternativos": [
+  "Sueño a las 3 pm: lo que tu cuerpo lleva meses diciéndote",
+  "¿Te apagan la luz a las 3 de la tarde? 5 causas reales"
+ ],
+ "descripcion": "¿Te da sueño a las 3 pm aunque almuerces liviano? En este video Germancho te sirve el café con calma y te cuenta por qué el bajón de energía de la tarde no es solo culpa del almuerzo: ritmo circadiano, deuda de sueño, cómo desayunas, cuánta agua tomas y cuántas horas llevas sentado.\nVes causas claras, sin tecnicismos, y un Reto de hoy de menos de 5 minutos. Información general sobre hábitos y salud; si tu cansancio es excesivo o constante, consulta a un profesional.\nSi te sirvió, suscríbete: cada semana hay una carta nueva de tu cuerpo.\n\nCapítulos:\n0:00 Gancho\n0:35 Tu reloj interno: la bajada natural de la tarde\n2:42 La deuda de sueño que arrastras desde hace semanas\n4:54 Cómo desayunas y cuánta agua tomas\n6:58 Llevas horas sentado y tu cuerpo lo nota\n8:52 Lo que tu cuerpo te pide y llevas meses ignorando\n11:14 Cierre: el plan de las 3 pm y tu Reto de hoy\n\n#sueñoalas3pm #bajondeenergia #ritmocircadiano #cansancio #saludyhabitos #energiadiaria #soyintegral #cafeconproposito",
+ "hashtags": [
+  "#sueñoalas3pm",
+  "#bajondeenergia",
+  "#ritmocircadiano",
+  "#cansancio",
+  "#saludyhabitos",
+  "#energiadiaria",
+  "#soyintegral",
+  "#cafeconproposito"
+ ],
+ "reto_de_hoy": "Hoy a las 3 pm, levántate y camina 5 minutos al aire libre con luz natural, y anota en tu cuaderno cómo te sientes a las 4.",
+ "duracion_s": 761.7,
+ "tamano_mb": 91.6,
+ "capitulos": [
+  {
+   "n": 0,
+   "titulo": "Gancho",
+   "inicio_s": 0.0,
+   "ambiente": "cafeteria"
+  },
+  {
+   "n": 1,
+   "titulo": "Tu reloj interno: la bajada natural de la tarde",
+   "inicio_s": 35.6,
+   "ambiente": "oficina"
+  },
+  {
+   "n": 2,
+   "titulo": "La deuda de sueño que arrastras desde hace semanas",
+   "inicio_s": 162.8,
+   "ambiente": "dormitorio"
+  },
+  {
+   "n": 3,
+   "titulo": "Cómo desayunas y cuánta agua tomas",
+   "inicio_s": 294.5,
+   "ambiente": "cocina"
+  },
+  {
+   "n": 4,
+   "titulo": "Llevas horas sentado y tu cuerpo lo nota",
+   "inicio_s": 418.8,
+   "ambiente": "gimnasio"
+  },
+  {
+   "n": 5,
+   "titulo": "Lo que tu cuerpo te pide y llevas meses ignorando",
+   "inicio_s": 532.4,
+   "ambiente": "sala"
+  },
+  {
+   "n": 6,
+   "titulo": "Cierre: el plan de las 3 pm y tu Reto de hoy",
+   "inicio_s": 674.7,
+   "ambiente": "parque"
+  }
+ ],
+ "fuente": {
+  "tema": "¿Por qué te da sueño a las 3 pm? No es solo el almuerzo. Serie: Las 6 cartas que tu cuerpo lleva meses mandándote, capítulo 2"
+ },
+ "estado": "pendiente_aprobacion",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "cta": "",
+ "comentario_fijado": "Reto de hoy: Hoy a las 3 pm, levántate y camina 5 minutos al aire libre con luz natural, y anota en tu cuaderno cómo te sientes a las 4. Cuéntame cómo te fue 👇 Escribe SALUD y te mando el reto completo.",
+ "archivos": {
+  "video": "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s/largo.mp4",
+  "miniatura": "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s/miniatura.jpg",
+  "miniatura_16x9": "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s/miniatura_16x9.jpg",
+  "guion": "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s/guion.json",
+  "ficha": "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s/ficha.json",
+  "miniaturas": [
+   "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s/miniatura.jpg",
+   "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s/miniatura_16x9.jpg",
+   "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s/miniatura_16x9_oscura.jpg",
+   "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s/miniatura_16x9_rostro.jpg"
+  ]
+ },
+ "video_en_repositorio": false,
+ "nota": "El MP4 supera el límite de GitHub: descárgalo desde el artefacto del workflow (Actions → esta corrida → Artifacts).",
+ "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+}

@@ -993,10 +993,10 @@
    "subtema": "Amor propio sin egoísmo ni muros: límites, tiempo propio, pedir y recibir. Cierre de la serie: te quedas con tu taza llena y la decisión de con quién compartirla.",
    "referencia_video_id": "xt6CGKDkLpM",
    "minutos": 15,
-   "estado": "error",
-   "produccion_id": "",
-   "resultado": "error: TypeError: list indices must be integers or slices, not str",
-   "producido_en": "2026-11-16T19:54:22"
+   "estado": "producido",
+   "produccion_id": "20261117-equilibrate_es-largo-como-amar-con-todo-sin-perderte-a-ti-ni-",
+   "resultado": "ok 1488s",
+   "producido_en": "2026-11-17T19:22:16"
   },
   {
    "id": "equilibrate_es-20261118-S",
@@ -1025,7 +1025,10 @@
    "titulo": "Debajo de cada pelea hay una petición",
    "gancho": "Detrás del siempre llegas tarde suele esconderse un necesito sentirte cerca. Aprende a traducir.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261117-equilibrate_es-lo-que-tu-pareja-dice-vs-lo-que-quiere-decir",
+   "resultado": "ok 201s",
+   "producido_en": "2026-11-17T19:29:00"
   },
   {
    "id": "equilibrate_es-20261119-V",

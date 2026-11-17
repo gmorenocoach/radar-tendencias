@@ -1,0 +1,43 @@
+{
+ "fuente": {
+  "tema": "Debajo de cada pelea hay una petición. Gancho: Detrás del siempre llegas tarde suele esconderse un necesito sentirte cerca. Aprende a traducir.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 4"
+ },
+ "adn": {
+  "tema_central": "Debajo de cada pelea hay una petición: detrás del 'siempre llegas tarde' suele esconderse un 'necesito sentirte cerca'. Cómo traducir el reproche en la necesidad que lo sostiene (Capítulo 4 de La Taza Derramada: 6 capítulos para amar sin perderte).",
+  "promesa_del_titulo": "En 40 segundos aprenderás a descifrar la necesidad escondida detrás de los reproches de tu pareja (y de los tuyos) para dejar de pelear por lo de siempre y empezar a sentirte cerca.",
+  "gancho_primeros_segundos": "'Cuando te dice \"siempre llegas tarde\"… no está hablando del reloj.' (pausa de medio segundo, texto en pantalla: 'siempre llegas tarde' tachado y reemplazado por 'necesito sentirte cerca'). Segundo 3: 'Y si no aprendes a traducir eso, vas a ganar la discusión y perder la cercanía.'",
+  "tipo_de_gancho": "Contradicción + revelación: afirma que la queja literal no es la queja real, abre un bucle de curiosidad ('¿entonces de qué habla?') y lo cierra de forma parcial para obligar a ver el resto.",
+  "estructura": "0-3s: Gancho de contradicción con la frase-reproche en pantalla. 3-8s: Tesis: 'Debajo de cada pelea hay una petición'. 8-30s: Lista corta de 3 traducciones reproche → necesidad: 1) 'Siempre llegas tarde' = 'Necesito sentirte cerca / importante'. 2) 'Nunca me escuchas' = 'Necesito sentirme vista/o'. 3) 'Siempre estás en el celular' = 'Necesito que me elijas'. 30-38s: Cómo responder: en vez de defenderte, pregunta '¿Qué necesitas de mí ahora mismo?'. 38-45s: Cierre con reto + enganche de serie (capítulo 5).",
+  "ritmo": "Rápido y limpio: corte o cambio de texto en pantalla cada 2-3 segundos, frases cortas de máximo 8-10 palabras, micro-pausas antes de cada traducción para dar efecto de revelación. Cada traducción se muestra en pantalla como 'reproche → petición' con animación de tachado. Duración objetivo: 40-50 segundos.",
+  "tono": "Cálido, cercano y sereno, como una psicóloga o amiga sabia que habla a una sola persona; sin juicio ni dramatismo, con ligera autoridad emocional. Usa 'tú', segunda persona directa y lenguaje cotidiano, sin tecnicismos.",
+  "cta_final": "Reto: 'Esta semana, la próxima vez que escuches un reproche, no respondas todavía. Pregúntate: ¿qué petición hay debajo? Y cuéntame en comentarios qué reproche te gustaría que alguien tradujera. Mañana, capítulo 5 de La Taza Derramada.' Invitar a seguir la serie y guardar el video.",
+  "formula_del_titulo": "Contradicción/revelación + lista numerada + promesa de traducción: 'Lo que dice' ≠ 'lo que quiere decir' + número de ejemplos + beneficio emocional.",
+  "titulo_con_numero": "3 reproches que en realidad son un 'necesito sentirte cerca' (aprende a traducirlos)",
+  "palabras_clave": [
+   "pelea de pareja",
+   "siempre llegas tarde",
+   "necesito sentirte cerca",
+   "comunicación en pareja",
+   "necesidades emocionales",
+   "traducir reproches",
+   "amar sin perderte",
+   "La Taza Derramada",
+   "relaciones sanas",
+   "discusiones de pareja",
+   "psicología de pareja",
+   "Shorts"
+  ],
+  "emocion_dominante": "Reconocimiento emocional (el 'ahora lo entiendo') mezclado con ternura y alivio; secundaria: curiosidad por el giro de la revelación.",
+  "formula_miniatura": "Primer plano de una persona con expresión pensativa/vulnerable a un lado; al otro, texto grande en dos líneas: 'SIEMPRE LLEGAS TARDE' tachado en rojo y debajo 'NECESITO SENTIRTE CERCA' en blanco/amarillo. Fondo oscuro cálido, alto contraste, máximo 6-7 palabras, pequeño sello 'Cap. 4' de la serie para continuidad visual.",
+  "por_que_funciona": "Toca un dolor universal y reconocible (las peleas repetitivas) y ofrece una herramienta práctica inmediata en pocos segundos. La contradicción inicial genera curiosidad, la lista corta facilita el consumo rápido y el reencuadre emocional invita a compartir y guardar. El cierre con reto activa comentarios y el formato de serie numerada incentiva el seguimiento y la retención entre capítulos.",
+  "riesgos_a_evitar": [
+   "Sonar a sermón o a culpar a quien llega tarde o a quien reprocha: mantener neutralidad.",
+   "Generalizar que toda pelea esconde solo una necesidad sin matizar (evitar absolutos que suenen falsos).",
+   "Intro larga o presentación de la serie antes del gancho: la contradicción debe aparecer en el segundo 0.",
+   "Exceso de teoría psicológica o jerga que rompa el ritmo.",
+   "Dar la traducción completa en el gancho y perder el bucle de curiosidad.",
+   "Presentarlo como sustituto de terapia en casos de violencia o abuso: no aplicar este enfoque a relaciones con maltrato.",
+   "Miniatura con demasiado texto o sin contraste, ilegible en móvil."
+  ]
+ }
+}
