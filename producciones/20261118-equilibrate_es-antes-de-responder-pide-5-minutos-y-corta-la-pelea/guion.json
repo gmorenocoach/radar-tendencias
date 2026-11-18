@@ -1,0 +1,126 @@
+{
+ "titulo": "Antes de responder, pide 5 minutos y corta la pelea",
+ "titulos_alternativos": [
+  "No contestes ya: pide 5 minutos en tu próxima discusión",
+  "Responder rápido no es defenderte: haz esto en su lugar"
+ ],
+ "descripcion": "Responder rápido en una discusión de pareja casi nunca te defiende: la agranda. Aprende en menos de un minuto una pausa concreta de 5 minutos con respiración para cortar el bucle de la discusión y amar sin perderte. Es el capítulo 4 de «La Taza Derramada». Haz el reto de hoy y cuéntame en comentarios cómo te fue.",
+ "hashtags": [
+  "#discusiondepareja",
+  "#comunicacionenpareja",
+  "#pausa",
+  "#amarsinperderte",
+  "#LaTazaDerramada",
+  "#EquilibrateAmor",
+  "#respirar",
+  "#germancho"
+ ],
+ "miniatura": {
+  "texto": "PIDE 5 MINUTOS",
+  "emocion": "sorpresa",
+  "objeto": "taza de café a punto de derramarse",
+  "pose": "letrero"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Lo peor que puedes hacer en una discusión es responder rápido. Y casi todos lo hacemos.",
+   "emocion": "sorpresa",
+   "objeto": "taza de café humeante",
+   "pose": "senalando",
+   "prompt_visual": "close-up of a steaming coffee cup on a table, warm blurred background",
+   "broll": "steaming coffee cup",
+   "segundos": 5,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: surprised, round eyes and open mouth; pointing forward with one long finger; close-up of a steaming coffee cup on a table, warm blurred background; the taza de café humeante is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Te dicen algo, contestas con el pulso acelerado, y la pelea se agranda. Sientes que si no respondes ya, pierdes.",
+   "emocion": "ira",
+   "objeto": "reloj acelerado",
+   "pose": "acostado_ira",
+   "prompt_visual": "cartoon character with racing heart and clenched jaw, sparks around the head",
+   "broll": "couple arguing kitchen",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: angry, frowning brows; lying down, annoyed; cartoon character with racing heart and clenched jaw, sparks around the head; the reloj acelerado is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Pero responder rápido no es defenderte. Es echarle más café a una taza que ya está llena.",
+   "emocion": "alegria",
+   "objeto": "taza llena rebosando",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "overfull coffee cup spilling over, simple flat illustration",
+   "broll": "coffee spilling table",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; arms wide open; overfull coffee cup spilling over, simple flat illustration; the taza llena rebosando is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Haz esto. Uno: di «necesito 5 minutos». Dos: respira lento, inhala cuatro, exhala seis.",
+   "emocion": "alegria",
+   "objeto": "cuaderno con el número 5",
+   "pose": "letrero",
+   "prompt_visual": "character holding a sign that says 5 minutes, calm expression",
+   "broll": "woman deep breathing calm",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; holding up a blank sign board; character holding a sign that says 5 minutes, calm expression; the cuaderno con el número 5 is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Tres: vuelve y responde a lo que importa, no a lo que dolió.",
+   "emocion": "alegria",
+   "objeto": "escalera de tres peldaños",
+   "pose": "escalera",
+   "prompt_visual": "character climbing a three-step staircase, last step glowing",
+   "broll": "couple talking calmly sofa",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; climbing a tall ladder; character climbing a three-step staircase, last step glowing; the escalera de tres peldaños is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "Una taza que se mueve rápido se derrama. La pausa es dejarla quieta un momento. Capítulo cuatro de «La Taza Derramada».",
+   "emocion": "tristeza",
+   "objeto": "taza quieta sobre la mesa",
+   "pose": "butaco_tazas",
+   "prompt_visual": "character sitting on a stool beside a still coffee cup, soft light",
+   "broll": "still coffee cup table",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: sad, drooping eyes; sitting on a wooden stool; character sitting on a stool beside a still coffee cup, soft light; the taza quieta sobre la mesa is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Ojo: la pausa no es huir ni castigar con silencio. Se anuncia, tiene hora de vuelta y se regresa a la conversación.",
+   "emocion": "alegria",
+   "objeto": "reloj de arena",
+   "pose": "senalando",
+   "prompt_visual": "character pointing at an hourglass, friendly serious expression",
+   "broll": "hourglass sand time",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; pointing forward with one long finger; character pointing at an hourglass, friendly serious expression; the reloj de arena is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 8,
+   "texto": "Reto de hoy: en tu próxima discusión di «necesito 5 minutos» antes de contestar. Cuéntame cómo te fue. El video completo está en el canal. Suscríbete: mañana hay otro reto.",
+   "emocion": "alegria",
+   "objeto": "cuaderno y taza",
+   "pose": "saludando",
+   "prompt_visual": "character waving next to a notebook and a coffee cup, warm smile",
+   "broll": "writing notebook coffee morning",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; standing and waving; character waving next to a notebook and a coffee cup, warm smile; the cuaderno y taza is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "En tu próxima discusión, antes de contestar, di «necesito 5 minutos», respira (inhala 4, exhala 6) y vuelve a la conversación.",
+ "ganchos_alternativos": [
+  "¿Cuántas peleas habrías evitado si hubieras esperado solo cinco minutos antes de contestar? Piénsalo mientras se enfría tu café.",
+  "Responder rápido en una discusión no te hace ganar: te hace perder. Y hay un gesto de cinco minutos que lo cambia todo.",
+  "La última vez que discutí con mi pareja, contesté tan rápido que olvidé de qué estábamos hablando. Me dolió más lo que dije que lo que me dijeron."
+ ],
+ "palabras": 153,
+ "canal": "equilibrate",
+ "color": "#E8705F",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "visual": "ilustracion"
+}

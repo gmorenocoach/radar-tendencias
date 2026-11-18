@@ -1,0 +1,48 @@
+{
+ "fuente": {
+  "tema": "Pausa de un café. Gancho: Antes de responder en tu próxima discusión, pide 5 minutos y respira. Así se corta el bucle.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 4"
+ },
+ "adn": {
+  "tema_central": "Pausa de un café: antes de responder en tu próxima discusión, pide 5 minutos y respira para cortar el bucle de la pelea. Capítulo 4 de la serie 'La Taza Derramada: 6 capítulos para amar sin perderte'.",
+  "promesa_del_titulo": "En menos de un minuto aprendes un gesto concreto (pedir 5 minutos y respirar) que frena una discusión antes de que se convierta en una pelea que no querías tener.",
+  "gancho_primeros_segundos": "Plano cerrado de una taza de café humeante. Voz directa a cámara: 'Lo peor que puedes hacer en una discusión es responder rápido. Y casi todos lo hacemos.' Corte seco a texto en pantalla: 'Pide 5 minutos'.",
+  "tipo_de_gancho": "Contradicción + patrón conocido: desafía la creencia de que responder al instante es defenderse, y apunta a una conducta que el espectador reconoce en sí mismo.",
+  "estructura": [
+   "0-3s: Gancho de contradicción con la taza en pantalla ('Responder rápido es perder la discusión').",
+   "3-10s: Escena reconocible del bucle: él/ella dice algo, tú contestas con el pulso acelerado, la pelea se agranda. Una frase que nombre la sensación ('sientes que si no respondes ya, pierdes').",
+   "10-25s: Lista corta de 3 pasos: 1) Di 'necesito 5 minutos'. 2) Respira lento: inhala 4, exhala 6. 3) Vuelve y responde a lo que importa, no a lo que dolió.",
+   "25-40s: Metáfora de la taza: una taza llena que se mueve rápido se derrama; la pausa es dejarla quieta un momento. Vínculo con la serie (cap. 4 de 6).",
+   "40-50s: Aclaración breve para evitar malentendidos: la pausa no es huir ni castigar con silencio, se anuncia y se vuelve.",
+   "50-58s: Reto + CTA."
+  ],
+  "ritmo": "Rápido y limpio: cortes cada 2-3 segundos, subtítulos grandes sincronizados, un solo plano de apoyo (taza) que reaparece como ancla visual. Silencio de 1 segundo antes del paso 2 para simular la respiración. Duración total 45-58 segundos.",
+  "tono": "Cálido, cercano y firme; como un amigo que te habla con calma pero sin rodeos. Sin tecnicismos ni lenguaje de terapeuta, sin sermonear. Segunda persona (tú).",
+  "cta_final": "Reto: 'En tu próxima discusión, antes de contestar, di: necesito 5 minutos. Cuéntame en comentarios cómo te fue. Y si esto te sirvió, el capítulo 5 de La Taza Derramada llega pronto: sigue la serie.'",
+  "formula_del_titulo": "Contradicción/consejo contraintuitivo + beneficio concreto + etiqueta de serie. Ej.: [Acción que parece mala] + [resultado deseado] | [Serie, capítulo].",
+  "titulo_con_numero": "Antes de responder, pide 5 minutos: así cortas el bucle de la discusión | La Taza Derramada, cap. 4",
+  "palabras_clave": [
+   "discusión de pareja",
+   "cómo no pelear",
+   "pausa en una discusión",
+   "5 minutos",
+   "respirar",
+   "bucle de discusiones",
+   "comunicación en pareja",
+   "amar sin perderte",
+   "La Taza Derramada",
+   "pausa de un café"
+  ],
+  "emocion_dominante": "Alivio y reconocimiento (identificación con el bucle de discutir) con un toque de esperanza práctica.",
+  "formula_miniatura": "Primer plano de una taza de café con el líquido a punto de derramarse (o ya derramado sobre la mesa). Texto grande de 2-3 palabras: 'PIDE 5 MINUTOS'. Fondo cálido y desenfocado, alto contraste; opcional: rostro de la persona con los ojos cerrados respirando en un lado. Sello pequeño de la serie: 'Cap. 4'.",
+  "por_que_funciona": "Ofrece una acción concreta, simple y repetible (pedir 5 minutos y respirar) para un dolor muy común, en un formato corto que se ve completo. El gancho de contradicción rompe el instinto de responder rápido y genera curiosidad; la metáfora de la taza es memorable y visual; la serie numerada incentiva el seguimiento; el reto final empuja los comentarios y el compartir con la pareja.",
+  "riesgos_a_evitar": [
+   "Sonar a consejo terapéutico o diagnóstico: no prometer que esto 'arregla' la relación ni sustituye ayuda profesional si hay conflicto grave.",
+   "Que la pausa se confunda con ley del hielo o evasión: aclarar que se anuncia, tiene límite de tiempo y se vuelve a la conversación.",
+   "Excluir casos de violencia o abuso: la técnica no aplica a relaciones con maltrato; evitar generalizar.",
+   "Culpar a una de las partes o usar un tono de superioridad moral.",
+   "Alargar el intro o la metáfora y perder retención antes del paso 1.",
+   "Gancho vago sin la contradicción clara en los primeros 3 segundos.",
+   "Saturar de pasos: mantener la lista en 3 puntos máximo."
+  ]
+ }
+}

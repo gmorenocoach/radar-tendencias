@@ -1,0 +1,518 @@
+{
+ "titulo": "¿REPITES LA PELEA DE TUS PADRES EN TU PAREJA?",
+ "titulos_alternativos": [
+  "¿Te suena esta discusión? Quizá ya la viste de niño",
+  "El guion de pareja que aprendiste sin darte cuenta"
+ ],
+ "promesa": "Vas a reconocer si las discusiones de tu pareja repiten un guion que viste en casa, entender de dónde viene sin culpar a nadie, y llevarte una forma sencilla de empezar a elegir distinto.",
+ "descripcion": "¿Esa discusión que se repite en tu pareja te resulta familiar? Muchas veces los patrones de conflicto se aprenden por imitación: los primeros modelos de relación que vimos fueron nuestros padres o cuidadores.\nEn este video, Germancho te acompaña con un café a reconocer cuatro guiones comunes: el silencio, la explosión, el rol de víctima y perseguidor, y la dependencia emocional.\nNo es para buscar culpables, es para comprender de dónde viene cada patrón y empezar a elegir otra forma de relacionarte, empezando por no abandonarte a ti.\nPalabras clave: patrones de pareja, conflicto en la pareja, repetición de patrones, infancia y relaciones, autoconocimiento, relación de pareja, volver a ti.\nSi un tema es muy pesado para llevarlo solo, un profesional de la salud mental puede acompañarte.\nAl final te dejo un Reto de hoy de menos de 5 minutos.",
+ "hashtags": [
+  "#Equilibrate",
+  "#Amor",
+  "#RelacionesDePareja",
+  "#PatronesEmocionales",
+  "#CrecimientoPersonal",
+  "#CoachingOntologico",
+  "#CafeConProposito"
+ ],
+ "miniatura": {
+  "texto": "¿TE SUENA?",
+  "emocion": "tristeza",
+  "objeto": "dos tazas de café separadas por una mesa, con la silueta tenue de una pareja discutiendo detrás",
+  "pose": "triste_acostado"
+ },
+ "capitulos": [
+  {
+   "n": 0,
+   "titulo": "Gancho",
+   "ambiente": "cafeteria",
+   "palabras": 75,
+   "objetivo": "Pregunta de reconocimiento sobre una discusión típica de pareja, con una mini escena, y abrir el bucle: ¿dónde aprendiste a pelear así? Prometer que al final tendrá un paso concreto para elegir distinto.",
+   "idea_clave": "¿Esta pelea te suena?",
+   "escenas": [
+    {
+     "texto": "¿Te suena esto? Tu pareja dice una frase, tú subes el tono, ella o él se calla y se va. Y tú te quedas en la sala pensando: otra vez lo mismo. Ese guion, ¿de verdad es tuyo?",
+     "emocion": "sorpresa",
+     "objeto": "taza de café humeante",
+     "pose": "senalando",
+     "prompt_visual": "Germancho in a cozy cafe, pointing at the viewer with a raised eyebrow, steaming coffee cup on the counter, warm light",
+     "texto_en_pantalla": "¿Ese guion es tuyo?"
+    },
+    {
+     "texto": "Quizá esa pelea ya la viste antes. En otra cocina, con otras voces, cuando tú eras pequeño o pequeña y mirabas desde el pasillo. Yo me pregunto: ¿dónde aprendiste a pelear así? Quédate, porque hoy lo vamos a mirar sin culpar a nadie.",
+     "emocion": "sereno",
+     "objeto": "silla vacía junto a la mesa",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms and a calm, kind expression in a cafeteria, empty chair beside a small table, soft nostalgic glow",
+     "texto_en_pantalla": "¿Dónde aprendiste a pelear?"
+    },
+    {
+     "texto": "Y no me voy a ir sin dejarte algo útil: al final de este video te llevas un paso sencillo, de menos de cinco minutos, para empezar a elegir distinto. Sírvete un café, que empezamos.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y taza",
+     "pose": "letrero",
+     "prompt_visual": "Germancho smiling and holding up a small sign next to a notebook and coffee cup on a cafe counter, friendly inviting mood",
+     "texto_en_pantalla": "Un paso para elegir distinto"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "titulo": "Aprendimos mirando",
+   "ambiente": "cocina",
+   "palabras": 320,
+   "objetivo": "Presentar a Germancho y el principio base: aprendemos por imitación y los primeros modelos de pareja fueron nuestros cuidadores. Aclarar con matices que no todo conflicto viene de la infancia y que esto no busca culpables. Mini-gancho: el primer guion es el más silencioso de todos.",
+   "idea_clave": "Primer modelo: tu casa",
+   "escenas": [
+    {
+     "texto": "Aquí en la cocina, mientras se enfría el café, te cuento algo. Nadie nos sentó a estudiar cómo se discute en pareja. Y aun así, todos sabemos hacerlo. Subir la voz, callarnos tres días, dar el portazo. ¿De dónde salió ese manual que nunca leíste?",
+     "emocion": "sorpresa",
+     "objeto": "taza de café humeante",
+     "pose": "senalando",
+     "prompt_visual": "Germancho in a cozy kitchen pointing at the viewer with a raised eyebrow, steaming coffee cup on the counter",
+     "texto_en_pantalla": "¿Quién te enseñó a pelear?"
+    },
+    {
+     "texto": "Hola, soy Germancho, el barista del ser. Aquí no vengo a servirte juicios, vengo a servirte preguntas. Y hoy el café viene con una muy simple: ese guion con el que discutes con tu pareja, ¿es realmente tuyo, o lo heredaste sin darte cuenta?",
+     "emocion": "alegria",
+     "objeto": "cafetera y tazas",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waving warmly at the camera in a kitchen, holding a coffee pot, friendly smile",
+     "texto_en_pantalla": "Soy Germancho, el barista del ser"
+    },
+    {
+     "texto": "Piénsalo así. Cuando eras pequeño no tenías un curso de relaciones. Tenías ojos. Mirabas cómo se hablaban tus cuidadores, cómo se reconciliaban o no, cómo se quedaban en silencio. Y el cerebro de un niño hace lo que mejor sabe: copiar lo que ve.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms in a kitchen, calm expression, a small child silhouette drawn on a notebook beside him",
+     "texto_en_pantalla": "Aprendemos mirando"
+    },
+    {
+     "texto": "Los primeros modelos de pareja que tuviste no fueron películas ni canciones. Fueron las personas que te cuidaban. Si en tu casa se gritaba, aprendiste una cosa. Si se callaba todo, aprendiste otra. Nadie lo eligió. Simplemente se quedó guardado, como una receta de familia.",
+     "emocion": "tristeza",
+     "objeto": "libro de recetas viejo",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching at kid height in a kitchen, gentle thoughtful look, old recipe book open on a low shelf",
+     "texto_en_pantalla": "Una receta que nadie eligió"
+    },
+    {
+     "texto": "Y ojo, que aquí va el matiz importante. No todo conflicto de pareja viene de tu infancia. A veces discuten por el dinero, por el cansancio, por la suegra, o porque simplemente es martes. Esto no es para explicarlo todo. Es para mirar una parte del cuadro.",
+     "emocion": "sereno",
+     "objeto": "letrero con la palabra matiz",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a small sign reading matiz in a kitchen, relaxed and honest expression",
+     "texto_en_pantalla": "No todo viene de la infancia"
+    },
+    {
+     "texto": "Y tampoco vinimos a buscar culpables. Tus padres hicieron lo que pudieron con lo que aprendieron de los suyos. Es una cadena larga, y nadie la empezó con mala intención. Entender de dónde viene algo no es acusar a nadie. Es poder soltar el peso con cariño.",
+     "emocion": "sereno",
+     "objeto": "taza humeante entre las manos",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho holding a warm mug with both hands, soft compassionate expression, cozy kitchen light",
+     "texto_en_pantalla": "Entender no es culpar"
+    },
+    {
+     "texto": "Entonces, ¿por qué vale la pena mirar? Porque lo que no ves, lo repites en automático. Y lo que ves, por fin, lo puedes elegir. Por eso el primer guion es el más silencioso de todos: suena tan normal que ni notas que lo estás leyendo en voz alta.",
+     "emocion": "sorpresa",
+     "objeto": "cuaderno con una frase subrayada",
+     "pose": "senalando",
+     "prompt_visual": "Germancho leaning forward with a surprised look, pointing at a notebook with an underlined line, kitchen background",
+     "texto_en_pantalla": "El guion más silencioso"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Guion 1: el silencio que pesa",
+   "ambiente": "sala",
+   "palabras": 400,
+   "objetivo": "Patrón de evitar el conflicto: tragarse lo que duele, el silencio como castigo o como escape. Ejemplo cotidiano reconocible (la cena callada, el 'estoy bien' que no lo está) y cómo se hereda de casas donde 'de eso no se habla'.",
+   "idea_clave": "Callar no es paz",
+   "escenas": [
+    {
+     "texto": "Pasemos a la sala, que este primer guion se vive justo ahí. Lo llamo el silencio que pesa. Es la pelea donde nadie grita, nadie dice nada, y aun así todo el aire de la casa se pone espeso. Seguro ya lo reconociste.",
+     "emocion": "sereno",
+     "objeto": "sofa con cojines",
+     "pose": "senalando",
+     "prompt_visual": "Germancho walks into a cozy living room and gestures toward a sofa, calm and inviting",
+     "texto_en_pantalla": "Guion 1: el silencio"
+    },
+    {
+     "texto": "Mira esta escena. La cena callada. Los dos masticando, el tenedor que choca con el plato, el televisor de fondo. Uno quiere hablar, el otro espera que no haga falta. Y pasa otra noche donde lo que duele se queda sentado a la mesa.",
+     "emocion": "tristeza",
+     "objeto": "mesa con dos platos",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho sits at a quiet dinner table with two plates, staring at his food in heavy silence",
+     "texto_en_pantalla": "La cena callada"
+    },
+    {
+     "texto": "O la clásica: ¿qué te pasa? Nada. ¿Seguro? Estoy bien. Y ese estoy bien tiene el peso de una piedra. Lo dices con la boca, pero el cuerpo grita otra cosa. Es como servir un café y dejarlo enfriar sin probarlo.",
+     "emocion": "tristeza",
+     "objeto": "taza de café frío",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho slumped on the sofa next to a cup of untouched cold coffee, saying nothing",
+     "texto_en_pantalla": "Estoy bien (no lo estoy)"
+    },
+    {
+     "texto": "El silencio tiene dos caras. A veces es escape: si no hablo, no hay pelea, no hay riesgo. Otras veces es castigo: no te hablo para que sientas lo que me hiciste. Por fuera se parecen. Por dentro, una cuida el miedo y la otra cuida la herida.",
+     "emocion": "sereno",
+     "objeto": "dos tazas separadas",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho holds both arms out as if weighing two options, two cups placed apart on a table",
+     "texto_en_pantalla": "Escape o castigo"
+    },
+    {
+     "texto": "¿Y de dónde se aprende esto? Muchas veces de casas donde de eso no se habla. Donde el papá se encerraba en el garaje, la mamá subía el volumen del radio, y todos fingían que nada pasaba. Nadie te enseñó a hablar. Te enseñaron a aguantar.",
+     "emocion": "tristeza",
+     "objeto": "puerta cerrada",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches in a hallway beside a closed door, looking thoughtful and a bit sad",
+     "texto_en_pantalla": "De eso no se habla"
+    },
+    {
+     "texto": "Y ojo: tus padres no eran villanos. Hacían lo que sabían con lo que a ellos les tocó. Tragarse lo que duele fue su manera de sobrevivir. El tema es que hoy tú lo repites en otra cocina, con otra persona, sin haberlo elegido.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho in the living room with arms open and a gentle expression, a notebook resting on the sofa arm",
+     "texto_en_pantalla": "Sin culpables"
+    },
+    {
+     "texto": "Pregúntate con honestidad: ¿cuántas veces dijiste todo bien para evitar una conversación que necesitabas tener? Si la cuenta te incomodó un poco, tranquilo. Ver el guion es el primer paso. Ahora vamos con el segundo, que suena muy distinto: el que explota.",
+     "emocion": "sorpresa",
+     "objeto": "taza humeante",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points toward the camera with a raised eyebrow, holding a steaming cup in the other hand",
+     "texto_en_pantalla": "Ahora, el guion que explota"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Guion 2: la tormenta",
+   "ambiente": "calle",
+   "palabras": 400,
+   "objetivo": "Patrón explosivo: gritos, portazos o dinámica de dominación y sumisión. Mostrar cómo se repite en la adultez aunque juraste que nunca serías así, y qué hay debajo de la intensidad (miedo, necesidad de ser escuchado). Mini-gancho: lo que hay debajo del grito casi nunca es rabia.",
+   "idea_clave": "Debajo del grito, miedo",
+   "escenas": [
+    {
+     "texto": "Vamos con el Guion 2: la tormenta. Aquí hay gritos, portazos, o uno que manda y otro que se aguanta. Y es el que más asusta, porque a veces juraste que jamás ibas a ser así. Y mírate: ahí estás, con la voz arriba y el corazón a mil.",
+     "emocion": "ira",
+     "objeto": "taza humeante",
+     "pose": "senalando",
+     "prompt_visual": "Germancho walking on a city street, pointing at the camera, stormy gray sky behind him, holding a steaming cup",
+     "texto_en_pantalla": "Guion 2: la tormenta"
+    },
+    {
+     "texto": "Pasa más de lo que se cuenta. Creciste viendo cómo se alzaba la voz, cómo se cerraba una puerta de golpe, y te prometiste otra cosa. Pero el cuerpo aprende primero. Y cuando llega la presión, sale el guion que conoce, no el que elegiste.",
+     "emocion": "tristeza",
+     "objeto": "puerta cerrada",
+     "pose": "triste_acostado",
+     "prompt_visual": "Germancho sitting on a street curb at dusk, looking at a closed door across the road, thoughtful and quiet",
+     "texto_en_pantalla": "Juraste que no serías así"
+    },
+    {
+     "texto": "Y ojo con esto, que es lo importante: lo que hay debajo del grito casi nunca es rabia. Es miedo. Miedo a que no te escuchen, a que no importes, a perder a la otra persona. El grito es una alarma, no un enemigo.",
+     "emocion": "sorpresa",
+     "objeto": "alarma sonando",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho on a sidewalk, surprised expression, a small cartoon alarm bell ringing above his head",
+     "texto_en_pantalla": "Debajo del grito, hay miedo"
+    },
+    {
+     "texto": "Piénsalo así: el grito dice más fuerte lo que el silencio no se atreve a decir. Escúchame, mírame, no me dejes solo. Si lo traduces, casi nunca suena a pelea. Suena a una necesidad que aprendió que, para ser atendida, tenía que ir con volumen.",
+     "emocion": "sereno",
+     "objeto": "megáfono",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho standing in a calm street, arms open, a faded cartoon megaphone floating next to him",
+     "texto_en_pantalla": "El grito es una necesidad con volumen"
+    },
+    {
+     "texto": "Aquí cambia todo: si el grito es alarma, tú no tienes que ganar la discusión, tienes que entender qué la disparó. Eso no te vuelve débil. Te vuelve alguien que ya no pelea con el pasado en la cara de quien tienes enfrente.",
+     "emocion": "sereno",
+     "objeto": "taza de café",
+     "pose": "senalando",
+     "prompt_visual": "Germancho on a quiet street corner, pointing gently to his chest, warm light, cup of coffee in hand",
+     "texto_en_pantalla": "No ganar, entender"
+    },
+    {
+     "texto": "Y si te reconociste del otro lado, el que se achica, el que cede para que pare la tormenta, también es un guion. Callar para sobrevivir se aprende igual que gritar para ser escuchado. Dos caras de la misma tormenta, sin culpables.",
+     "emocion": "tristeza",
+     "objeto": "paraguas",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching on a rainy street, holding a small umbrella over himself, gentle sad expression",
+     "texto_en_pantalla": "Dos caras, misma tormenta"
+    },
+    {
+     "texto": "Entonces, antes de pasar al siguiente guion, quédate con esta pregunta: la última vez que subiste la voz, o te encogiste, ¿qué estabas intentando proteger? Anótala mentalmente. Esa respuesta vale más que cualquier discusión ganada. Sigamos, que aún falta el tercer guion.",
+     "emocion": "sereno",
+     "objeto": "cuaderno",
+     "pose": "letrero",
+     "prompt_visual": "Germancho on a city street holding up a small sign with a question mark, friendly smile, soft evening light",
+     "texto_en_pantalla": "¿Qué intentabas proteger?"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Guion 3: víctima y perseguidor",
+   "ambiente": "restaurante",
+   "palabras": 400,
+   "objetivo": "Patrón de roles fijos (quien reclama y quien huye, quien se sacrifica y quien se aleja) y la dependencia emocional, conectado con la herida de origen. Recordar que la pareja es un espejo, no una solución. Mini-gancho: ¿qué rol te tocó interpretar?",
+   "idea_clave": "Roles que no elegiste",
+   "escenas": [
+    {
+     "texto": "Llegamos al Guion 3, y este es de los que más se disfrazan de amor: víctima y perseguidor. Roles fijos. Uno reclama y el otro huye. Uno se sacrifica y el otro se aleja. Siempre los mismos papeles, solo cambia la discusión del día.",
+     "emocion": "sereno",
+     "objeto": "mesa de restaurante con dos tazas de café",
+     "pose": "senalando",
+     "prompt_visual": "Germancho sitting at a cozy restaurant table, pointing at two coffee cups placed far apart, warm light",
+     "texto_en_pantalla": "Guion 3: roles fijos"
+    },
+    {
+     "texto": "Mira cómo suena por dentro. El perseguidor dice: nunca estás, siempre tengo que pedirte todo. El que huye dice: es que contigo nada alcanza, mejor me voy. Y el que se sacrifica da y da, hasta que la factura llega en forma de resentimiento.",
+     "emocion": "tristeza",
+     "objeto": "dos sillas de restaurante, una de espaldas",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho gesturing with open arms between two restaurant chairs, one facing away, soft dramatic mood",
+     "texto_en_pantalla": "Reclamar, huir, sacrificarse"
+    },
+    {
+     "texto": "Y aquí viene lo que casi nadie dice: estos roles no se eligen un día, se aprenden. Quizás viste a alguien perseguir un cariño que se escapaba, o a alguien que daba todo para que no lo dejaran. Eso no es culpa de nadie. Es una herida de origen.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto sobre la mesa",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouching beside restaurant table looking at an open notebook with a small sketch of a house, gentle expression",
+     "texto_en_pantalla": "Una herida de origen"
+    },
+    {
+     "texto": "Con esa herida, uno se pega a la pareja como a una tabla en el mar. Si te deja, me hundo. Eso se llama dependencia emocional: sentir que tu paz depende de que el otro no se vaya, o de que el otro no te necesite tanto.",
+     "emocion": "miedo",
+     "objeto": "taza de café sosteniéndose al borde de la mesa",
+     "pose": "aburrido",
+     "prompt_visual": "Germancho looking worried at a coffee cup teetering on the edge of a restaurant table, tense atmosphere",
+     "texto_en_pantalla": "Si te vas, me hundo"
+    },
+    {
+     "texto": "Y ojo con esto: tu pareja no es una solución, es un espejo. Si te desespera que se aleje, o te agota que te persiga, el espejo te está mostrando un rol que ya conocías. No es para pelear con el reflejo. Es para mirarlo.",
+     "emocion": "sorpresa",
+     "objeto": "espejo pequeño apoyado en la mesa",
+     "pose": "salto_sorpresa",
+     "prompt_visual": "Germancho surprised, holding a small mirror at a restaurant table, seeing his own reflection, warm cafe background",
+     "texto_en_pantalla": "Tu pareja es un espejo"
+    },
+    {
+     "texto": "Entonces, la pregunta de este guion es sencilla y un poco incómoda: en tus peleas, ¿qué rol te tocó interpretar? ¿El que persigue, el que huye, el que se sacrifica? Quédate un momento con la respuesta. Ahí empieza el cambio.",
+     "emocion": "sereno",
+     "objeto": "taza de café humeante",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding a sign with a question mark at a restaurant table, steaming coffee cup beside him, calm expression",
+     "texto_en_pantalla": "¿Qué rol te tocó?"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Girar la página",
+   "ambiente": "escalera",
+   "palabras": 330,
+   "objetivo": "Pasar del diagnóstico a la esperanza: un patrón visible deja de ser destino. Hacerlo consciente es el primer escalón; elegir otra respuesta es el segundo. Sin prometer que se salva la relación: se recupera la capacidad de elegir y de no abandonarte. Sugerir apoyo profesional si el dolor es grande.",
+   "idea_clave": "Verlo ya es el primer escalón",
+   "escenas": [
+    {
+     "texto": "Ya viste los tres guiones: el silencio que pesa, la tormenta, y víctima y perseguidor. Quizás sientes un nudo en el pecho. Respira. Ver el patrón no es una condena. Es lo contrario: un patrón que se ve deja de ser destino. Aquí empieza lo bueno.",
+     "emocion": "sereno",
+     "objeto": "taza de café humeante",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho opens his arms warmly beside a steaming coffee cup, calm and reassuring expression",
+     "texto_en_pantalla": "Ver el patrón no es condena"
+    },
+    {
+     "texto": "Piensa en una escalera. Nadie sube diez pisos de un salto. El primer escalón es hacer consciente lo que antes era automático. Hoy lo estás pisando. Si te diste cuenta de tu guion, ya dejaste de repetirlo a ciegas. Eso cuenta, y mucho.",
+     "emocion": "alegria",
+     "objeto": "escalera de madera",
+     "pose": "escalera",
+     "prompt_visual": "Germancho stands on the first step of a wooden staircase, pointing up with a hopeful smile",
+     "texto_en_pantalla": "Primer escalón: hacerlo consciente"
+    },
+    {
+     "texto": "El segundo escalón es elegir. Justo cuando sientas el impulso de callar, gritar o hacerte la víctima, hay un instante diminuto, un espacio entre lo que sientes y lo que haces. Ahí vive tu libertad. Al principio es un segundo. Con práctica, se ensancha.",
+     "emocion": "sereno",
+     "objeto": "escalera de madera",
+     "pose": "senalando",
+     "prompt_visual": "Germancho on the second step pointing to a small glowing gap between two stairs, thoughtful look",
+     "texto_en_pantalla": "Segundo escalón: elegir otra respuesta"
+    },
+    {
+     "texto": "Elegir distinto puede ser muy pequeño. Cambiar el portazo por decir: necesito un momento y vuelvo. Cambiar el estoy bien por: me dolió eso. Cambiar el reclamo por: me gustaría que habláramos. Frases cortas, sin armas. No son mágicas, pero son un camino nuevo.",
+     "emocion": "alegria",
+     "objeto": "cuaderno abierto",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds up a handwritten sign with a short sentence, friendly smile, notebook on the table",
+     "texto_en_pantalla": "Frases cortas, sin armas"
+    },
+    {
+     "texto": "Ahora, ojo, y te lo digo como amigo: girar la página no garantiza que la relación se salve. No sé cómo terminará la tuya. Lo que sí recuperas es la capacidad de elegir y de no abandonarte en medio de la discusión. Eso nadie te lo quita.",
+     "emocion": "tristeza",
+     "objeto": "taza de café",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits on a stool with cups around him, gentle serious expression, soft warm light",
+     "texto_en_pantalla": "Volver a ti, pase lo que pase"
+    },
+    {
+     "texto": "Y si al mirar tu historia el dolor es muy grande, no lo cargues solo. Hablar con un psicólogo o un terapeuta no es debilidad, es pedir ayuda a quien sabe acompañar este camino. Así como no subes una montaña sin guía, no tienes que subir esta escalera a oscuras.",
+     "emocion": "sereno",
+     "objeto": "escalera de madera",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches kindly at the foot of the stairs, extending a hand as if helping someone up",
+     "texto_en_pantalla": "Pedir ayuda también es elegir"
+    },
+    {
+     "texto": "Te lo dejo en una frase: tu patrón es una página escrita, no el libro entero. Puedes leerla, entenderla y, cuando estés listo, girarla. Sin culpar a tus padres, sin culparte a ti. Solo con un poco más de conciencia que ayer. Eso ya es empezar.",
+     "emocion": "alegria",
+     "objeto": "libro abierto",
+     "pose": "cambio",
+     "prompt_visual": "Germancho turns a big book page with a smile, soft light behind him, hopeful mood",
+     "texto_en_pantalla": "Una página escrita, no el libro entero"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Cuaderno de autoobservación",
+   "ambiente": "biblioteca",
+   "palabras": 250,
+   "objetivo": "Guiar al espectador con 4 preguntas de autoobservación: cómo peleaban en casa, qué rol imitó, qué siente justo antes de discutir y qué haría distinto esta vez. Pausas reflexivas entre pregunta y pregunta.",
+   "idea_clave": "Cuatro preguntas para ti",
+   "escenas": [
+    {
+     "texto": "Ya viste los tres guiones. Ahora toca lo más valiente: mirarte a ti. Tranquilo, no hay examen ni respuestas buenas o malas. Aquí tienes cuatro preguntas, un cuaderno y tu propio ritmo. Toma una pluma, siéntate cómodo y escribe sin corregirte. Con calma.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto y pluma",
+     "pose": "saludando",
+     "prompt_visual": "Germancho greets the viewer warmly in a quiet library, holding an open notebook and a pen, soft lamp light",
+     "texto_en_pantalla": "Tu cuaderno de autoobservación"
+    },
+    {
+     "texto": "Pregunta uno: ¿cómo peleaban en casa? Cierra los ojos un momento y recuerda la escena. ¿Había gritos, silencio, puertas cerradas, risas nerviosas? ¿Quién hablaba primero? ¿Quién se iba? Escribe lo que viste, sin juzgar a nadie. Solo mira, como quien mira una película vieja.",
+     "emocion": "sereno",
+     "objeto": "cuaderno y taza de café",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points to a big number one written on a notebook page, library shelves behind him, steaming coffee cup nearby",
+     "texto_en_pantalla": "1. ¿Cómo peleaban en casa?"
+    },
+    {
+     "texto": "Pausa. Respira hondo y deja que la pluma descanse un segundo. Si te dio un nudo en el pecho, es normal: la memoria también tiene peso. No necesitas resolver nada ahora. Solo notar. Cuando estés listo, pasamos a la siguiente pregunta.",
+     "emocion": "tristeza",
+     "objeto": "taza de café humeante",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sits quietly on a stool in the library, hands around a warm coffee cup, eyes closed, taking a deep breath",
+     "texto_en_pantalla": "Respira. Sin prisa."
+    },
+    {
+     "texto": "Pregunta dos: ¿qué rol imitaste? Quizá eras el que alza la voz, el que se calla, el que apacigua o el que se va. Pon un nombre a ese papel. No es una etiqueta para castigarte: es un disfraz que aprendiste a ponerte muy temprano. Escríbelo.",
+     "emocion": "sorpresa",
+     "objeto": "máscaras de teatro sobre un estante",
+     "pose": "senalando",
+     "prompt_visual": "Germancho points at a number two on a notebook page while theater masks and a costume hang on a library shelf beside him",
+     "texto_en_pantalla": "2. ¿Qué rol imitaste?"
+    },
+    {
+     "texto": "Pausa otra vez. Mira lo que escribiste y pregúntate con ternura: ¿este papel todavía me sirve, o solo lo sigo por costumbre? No hace falta contestar en voz alta. A veces la respuesta llega sola, como el aroma del café recién hecho.",
+     "emocion": "sereno",
+     "objeto": "cuaderno abierto",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho looks thoughtfully at his notebook, a soft smile, steam rising from a cup, warm library light",
+     "texto_en_pantalla": "¿Todavía te sirve ese papel?"
+    },
+    {
+     "texto": "Pregunta tres: ¿qué sientes justo antes de discutir? Ese instante pequeño, antes de la primera palabra dura. ¿Es miedo, vergüenza, cansancio, ganas de que te escuchen? Ponle nombre a esa sensación en el cuerpo. Dónde vive: ¿en el pecho, el estómago, la garganta? Escríbelo.",
+     "emocion": "miedo",
+     "objeto": "reloj de arena",
+     "pose": "agachado",
+     "prompt_visual": "Germancho crouches beside a small hourglass on a library table, hand on his chest, looking attentive and curious",
+     "texto_en_pantalla": "3. ¿Qué sientes antes de discutir?"
+    },
+    {
+     "texto": "Ahí está la clave: ese segundo antes del portazo. Si aprendes a reconocerlo, ya tienes un espacio donde antes no había ninguno. Un respiro, un puedo pensarlo un momento. Es pequeño, sí, pero es tuyo. Ese es el primer escalón.",
+     "emocion": "alegria",
+     "objeto": "pequeña escalera de madera",
+     "pose": "escalera",
+     "prompt_visual": "Germancho climbs the first step of a small wooden library ladder, looking hopeful, golden light from a window",
+     "texto_en_pantalla": "Ese segundo es tuyo"
+    },
+    {
+     "texto": "Pregunta cuatro, la última: ¿qué harías distinto esta vez? No hablo de cambiar al otro ni de ganar la discusión. Hablo de tu parte. Una sola cosa pequeña: pedir un momento, bajar la voz, decir lo que sientes. Escríbela con letra clara.",
+     "emocion": "alegria",
+     "objeto": "cuaderno y pluma",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holds up a sign with the number four, smiling gently, notebook under his arm, library background",
+     "texto_en_pantalla": "4. ¿Qué harías distinto?"
+    },
+    {
+     "texto": "Listo. Acabas de hacer algo que muchos nunca hacen: mirar tu historia sin esconderte. Cierra el cuaderno con cariño y déjalo cerca. Cuando venga la próxima discusión, ábrelo en tu mente. Y si el peso es grande, buscar apoyo profesional también es valentía.",
+     "emocion": "sereno",
+     "objeto": "cuaderno cerrado y taza",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho closes the notebook with a warm smile and opens his arms in a welcoming gesture, cozy library, coffee cup on the table",
+     "texto_en_pantalla": "Mirarte también es valentía"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Cierre",
+   "ambiente": "puerta",
+   "palabras": 150,
+   "objetivo": "Resumen emocional de los tres guiones y el mensaje: no es tu culpa, pero sí puedes elegir. Dar el Reto de hoy y suscripción con una razón (cada semana una pregunta nueva para volver a ti). Sin mencionar productos ni mentorías.",
+   "idea_clave": "Elegir distinto empieza hoy",
+   "escenas": [
+    {
+     "texto": "Entonces, vamos a cerrar la taza. Viste tres guiones: el del grito que busca ser escuchado, el del silencio que huye para protegerse y el de los roles fijos, donde uno reclama y el otro se va. Tres formas distintas de aprender a pelear, todas nacidas en una casa.",
+     "emocion": "sereno",
+     "objeto": "taza de café humeante",
+     "pose": "butaco_tazas",
+     "prompt_visual": "Germancho sitting on a stool beside three small cups lined up on a wooden table, touching them one by one while he recaps",
+     "texto_en_pantalla": "Tres guiones, una casa"
+    },
+    {
+     "texto": "Y quiero que te quedes con esto: no es tu culpa. Tú no escogiste ese guion, lo heredaste, como se hereda una receta de cocina. Tampoco es culpa de tus padres: ellos también repitieron lo que alguien les enseñó. Aquí no buscamos culpables, buscamos entender.",
+     "emocion": "tristeza",
+     "objeto": "cuaderno cerrado",
+     "pose": "brazos_abiertos",
+     "prompt_visual": "Germancho with open arms and a gentle, compassionate expression, soft warm light, a closed notebook on the table beside him",
+     "texto_en_pantalla": "No es tu culpa"
+    },
+    {
+     "texto": "Pero sí puedes elegir. Ver el patrón es el primer escalón. Elegir otra respuesta es el segundo. A veces será solo pedir un momento en vez de dar un portazo. Pequeño, sí, pero ahí es donde empieza a cambiar la historia.",
+     "emocion": "alegria",
+     "objeto": "escalera pequeña",
+     "pose": "escalera",
+     "prompt_visual": "Germancho stepping onto the second step of a small wooden staircase, smiling, with a cup of coffee in hand",
+     "texto_en_pantalla": "Sí puedes elegir"
+    },
+    {
+     "texto": "Reto de hoy. Toma tu cuaderno y escribe en una frase cómo discutían tus padres y en otra cómo discutes tú. Subraya una palabra que se repita en ambas y compártela en los comentarios. Menos de cinco minutos, y puede que te sorprenda lo que veas.",
+     "emocion": "sorpresa",
+     "objeto": "cuaderno y lápiz",
+     "pose": "letrero",
+     "prompt_visual": "Germancho holding up a sign that reads Reto de hoy, with an open notebook and a pencil on the table in front of him",
+     "texto_en_pantalla": "Reto de hoy"
+    },
+    {
+     "texto": "Si este video te sirvió, suscríbete. Cada semana te traigo una pregunta nueva para volver a ti, sin recetas mágicas, solo una pregunta y un café. Cuéntame en los comentarios qué palabra subrayaste. Yo los leo. Nos vemos en la próxima taza.",
+     "emocion": "alegria",
+     "objeto": "puerta de entrada",
+     "pose": "saludando",
+     "prompt_visual": "Germancho waving goodbye from a doorway, warm light spilling in from the room behind him, friendly smile",
+     "texto_en_pantalla": "Una pregunta cada semana"
+    }
+   ]
+  }
+ ],
+ "reto_de_hoy": "Toma tu cuaderno y escribe en una frase cómo discutían tus padres y en otra cómo discutes tú. Subraya una palabra que se repita en ambas y compártela en los comentarios.",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "palabras": 2252
+}

@@ -1061,7 +1061,10 @@
    "subtema": "Diferencia entre un vínculo apagado por descuido y uno que ya terminó. Las tres tazas: tibia, fría y rota. Un mini diagnóstico honesto para empezar la serie.",
    "referencia_video_id": "C2xJX-QIY28",
    "minutos": 15,
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261118-equilibrate_es-largo-repites-la-pelea-de-tus-padres-en-tu-par",
+   "resultado": "ok 1400s",
+   "producido_en": "2026-11-18T18:48:21"
   },
   {
    "id": "equilibrate_es-20261120-S",
@@ -1074,7 +1077,10 @@
    "titulo": "Pausa de un café",
    "gancho": "Antes de responder en tu próxima discusión, pide 5 minutos y respira. Así se corta el bucle.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261118-equilibrate_es-antes-de-responder-pide-5-minutos-y-corta-la-pelea",
+   "resultado": "ok 186s",
+   "producido_en": "2026-11-18T18:51:28"
   },
   {
    "id": "equilibrate_es-20261121-S",

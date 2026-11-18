@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.71,Sub,,0,0,0,,{\k22}LO {\k36}PEOR {\k13}QUE
+Dialogue: 0,0:00:00.71,0:00:01.50,Sub,,0,0,0,,{\k35}PUEDES {\k30}HACER {\k14}EN
+Dialogue: 0,0:00:01.50,0:00:02.66,Sub,,0,0,0,,{\k17}UNA {\k72}DISCUSIÓN {\k27}ES
+Dialogue: 0,0:00:02.66,0:00:04.30,Sub,,0,0,0,,{\k68}RESPONDER {\k78}RÁPIDO. {\k17}Y
+Dialogue: 0,0:00:04.30,0:00:05.31,Sub,,0,0,0,,{\k44}CASI {\k46}TODOS {\k11}LO
+Dialogue: 0,0:00:05.31,0:00:06.76,Sub,,0,0,0,,{\k93}HACEMOS. {\k16}TE {\k36}DICEN
+Dialogue: 0,0:00:06.76,0:00:08.21,Sub,,0,0,0,,{\k56}ALGO, {\k72}CONTESTAS {\k17}CON
+Dialogue: 0,0:00:08.21,0:00:09.64,Sub,,0,0,0,,{\k15}EL {\k42}PULSO {\k86}ACELERADO,
+Dialogue: 0,0:00:09.64,0:00:10.58,Sub,,0,0,0,,{\k19}Y {\k15}LA {\k60}PELEA
+Dialogue: 0,0:00:10.58,0:00:12.31,Sub,,0,0,0,,{\k14}SE {\k101}AGRANDA. {\k58}SIENTES
+Dialogue: 0,0:00:12.31,0:00:12.82,Sub,,0,0,0,,{\k13}QUE {\k19}SI {\k20}NO
+Dialogue: 0,0:00:12.82,0:00:14.90,Sub,,0,0,0,,{\k55}RESPONDES {\k48}YA, {\k106}PIERDES.
+Dialogue: 0,0:00:14.90,0:00:16.42,Sub,,0,0,0,,{\k30}PERO {\k59}RESPONDER {\k63}RÁPIDO
+Dialogue: 0,0:00:16.42,0:00:18.02,Sub,,0,0,0,,{\k33}NO {\k15}ES {\k113}DEFENDERTE.
+Dialogue: 0,0:00:18.02,0:00:19.03,Sub,,0,0,0,,{\k24}ES {\k49}ECHARLE {\k28}MÁS
+Dialogue: 0,0:00:19.03,0:00:19.75,Sub,,0,0,0,,{\k41}CAFÉ {\k9}A {\k22}UNA
+Dialogue: 0,0:00:19.75,0:00:20.55,Sub,,0,0,0,,{\k36}TAZA {\k20}QUE {\k24}YA
+Dialogue: 0,0:00:20.55,0:00:21.79,Sub,,0,0,0,,{\k25}ESTÁ {\k67}LLENA. {\k31}HAZ
+Dialogue: 0,0:00:21.79,0:00:23.49,Sub,,0,0,0,,{\k65}ESTO. {\k67}UNO: {\k37}DI
+Dialogue: 0,0:00:23.49,0:00:25.88,Sub,,0,0,0,,{\k103}«NECESITO {\k39}5 {\k96}MINUTOS».
+Dialogue: 0,0:00:25.88,0:00:27.85,Sub,,0,0,0,,{\k77}DOS: {\k51}RESPIRA {\k70}LENTO,
+Dialogue: 0,0:00:27.85,0:00:29.56,Sub,,0,0,0,,{\k41}INHALA {\k71}CUATRO, {\k59}EXHALA
+Dialogue: 0,0:00:29.56,0:00:31.60,Sub,,0,0,0,,{\k78}SEIS. {\k71}TRES: {\k56}VUELVE
+Dialogue: 0,0:00:31.60,0:00:32.41,Sub,,0,0,0,,{\k19}Y {\k57}RESPONDE {\k6}A
+Dialogue: 0,0:00:32.41,0:00:33.54,Sub,,0,0,0,,{\k13}LO {\k10}QUE {\k89}IMPORTA,
+Dialogue: 0,0:00:33.54,0:00:34.11,Sub,,0,0,0,,{\k35}NO {\k7}A {\k15}LO
+Dialogue: 0,0:00:34.11,0:00:35.42,Sub,,0,0,0,,{\k14}QUE {\k86}DOLIÓ. {\k31}UNA
+Dialogue: 0,0:00:35.42,0:00:36.01,Sub,,0,0,0,,{\k34}TAZA {\k12}QUE {\k14}SE
+Dialogue: 0,0:00:36.01,0:00:36.99,Sub,,0,0,0,,{\k38}MUEVE {\k46}RÁPIDO {\k13}SE
+Dialogue: 0,0:00:36.99,0:00:38.50,Sub,,0,0,0,,{\k79}DERRAMA. {\k21}LA {\k51}PAUSA
+Dialogue: 0,0:00:38.50,0:00:39.66,Sub,,0,0,0,,{\k21}ES {\k50}DEJARLA {\k45}QUIETA
+Dialogue: 0,0:00:39.66,0:00:41.49,Sub,,0,0,0,,{\k13}UN {\k114}MOMENTO. {\k57}CAPÍTULO
+Dialogue: 0,0:00:41.49,0:00:42.46,Sub,,0,0,0,,{\k40}CUATRO {\k20}DE {\k37}«LA
+Dialogue: 0,0:00:42.46,0:00:44.86,Sub,,0,0,0,,{\k36}TAZA {\k125}DERRAMADA». {\k79}OJO:
+Dialogue: 0,0:00:44.86,0:00:45.91,Sub,,0,0,0,,{\k19}LA {\k58}PAUSA {\k28}NO
+Dialogue: 0,0:00:45.91,0:00:46.58,Sub,,0,0,0,,{\k15}ES {\k38}HUIR {\k14}NI
+Dialogue: 0,0:00:46.58,0:00:48.34,Sub,,0,0,0,,{\k56}CASTIGAR {\k16}CON {\k105}SILENCIO.
+Dialogue: 0,0:00:48.34,0:00:49.67,Sub,,0,0,0,,{\k20}SE {\k78}ANUNCIA, {\k35}TIENE
+Dialogue: 0,0:00:49.67,0:00:50.49,Sub,,0,0,0,,{\k23}HORA {\k11}DE {\k49}VUELTA
+Dialogue: 0,0:00:50.49,0:00:51.32,Sub,,0,0,0,,{\k13}Y {\k15}SE {\k55}REGRESA
+Dialogue: 0,0:00:51.32,0:00:52.88,Sub,,0,0,0,,{\k7}A {\k12}LA {\k138}CONVERSACIÓN.
+Dialogue: 0,0:00:52.88,0:00:54.15,Sub,,0,0,0,,{\k37}RETO {\k13}DE {\k77}HOY:
+Dialogue: 0,0:00:54.15,0:00:54.97,Sub,,0,0,0,,{\k19}EN {\k15}TU {\k49}PRÓXIMA
+Dialogue: 0,0:00:54.97,0:00:57.15,Sub,,0,0,0,,{\k67}DISCUSIÓN {\k35}DI {\k115}«NECESITO
+Dialogue: 0,0:00:57.15,0:00:58.56,Sub,,0,0,0,,{\k36}5 {\k63}MINUTOS» {\k43}ANTES
+Dialogue: 0,0:00:58.56,0:01:00.64,Sub,,0,0,0,,{\k12}DE {\k142}CONTESTAR. {\k55}CUÉNTAME
+Dialogue: 0,0:01:00.64,0:01:01.70,Sub,,0,0,0,,{\k24}CÓMO {\k13}TE {\k68}FUE.
+Dialogue: 0,0:01:01.70,0:01:02.93,Sub,,0,0,0,,{\k22}EL {\k38}VIDEO {\k63}COMPLETO
+Dialogue: 0,0:01:02.93,0:01:03.67,Sub,,0,0,0,,{\k49}ESTÁ {\k13}EN {\k13}EL
+Dialogue: 0,0:01:03.67,0:01:06.59,Sub,,0,0,0,,{\k102}CANAL. {\k123}SUSCRÍBETE: {\k67}MAÑANA
+Dialogue: 0,0:01:06.59,0:01:08.31,Sub,,0,0,0,,{\k37}HAY {\k42}OTRO {\k93}RETO.
