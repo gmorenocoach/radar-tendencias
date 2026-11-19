@@ -2,19 +2,15 @@
  "_doc": "Plan de canal: cadencia semanal y metas. El planificador genera el calendario con esto y con el radar. dias_publicacion: 0=lunes … 6=domingo. modo_largo: 'completo' (una imagen por escena, ≈ USD 4) o 'economico' (una por capítulo, ≈ USD 0,8).",
  "planes": {
   "equilibrate_es": {
-   "modo": "sprint",
-   "objetivo": "Solicitar YPP antes del 31 de diciembre de 2026 (1.000 subs + 4.000 h) para entrar con las reglas actuales",
-   "desde": "2026-11-06",
-   "hasta": "2026-12-31",
-   "largos_semana": 3,
+   "modo": "crecimiento",
+   "objetivo": "Shorts de amor + en vivos; largos IA en pausa hasta 1.000 subs (auditoría 2026-11-19)",
+   "desde": "2026-11-20",
+   "hasta": "2027-01-31",
+   "largos_semana": 0,
    "shorts_semana": 7,
    "vivos_semana": 3,
    "comunidad_semana": 3,
-   "dias_largos": [
-    0,
-    2,
-    4
-   ],
+   "dias_largos": [],
    "hora_largos": "18:00",
    "dias_shorts": [
     0,
@@ -35,27 +31,27 @@
    "duracion_vivo_min": 75,
    "minutos_largo": 15,
    "series_activas": 2,
-   "subs_actuales": 365,
+   "subs_actuales": 325,
    "horas_actuales": 0,
-   "modo_largo": "completo"
+   "modo_largo": "completo",
+   "historias_semana": 2
   },
   "soyintegral_es": {
-   "modo": "mantenimiento",
-   "objetivo": "Acumular horas y suscriptores con las reglas nuevas (8.000 h) sin frenar el sprint de Equilíbrate",
-   "desde": "2026-11-10",
-   "hasta": "2026-12-31",
-   "largos_semana": 1,
-   "shorts_semana": 3,
+   "modo": "crecimiento",
+   "objetivo": "4 Shorts/semana (2 radar, 2 historias de salud); sin largos (auditoría 2026-11-19)",
+   "desde": "2026-11-20",
+   "hasta": "2027-01-31",
+   "largos_semana": 0,
+   "shorts_semana": 4,
    "vivos_semana": 0,
    "comunidad_semana": 1,
-   "dias_largos": [
-    3
-   ],
+   "dias_largos": [],
    "hora_largos": "18:00",
    "dias_shorts": [
-    1,
-    3,
-    5
+    0,
+    2,
+    4,
+    6
    ],
    "hora_shorts": "12:00",
    "dias_vivos": [],
@@ -63,9 +59,10 @@
    "duracion_vivo_min": 60,
    "minutos_largo": 12,
    "series_activas": 1,
-   "subs_actuales": 0,
+   "subs_actuales": 11,
    "horas_actuales": 0,
-   "modo_largo": "economico"
+   "modo_largo": "economico",
+   "historias_semana": 2
   },
   "mitribu_es": {
    "modo": "pausa",
@@ -99,6 +96,40 @@
    "subs_actuales": 0,
    "horas_actuales": 0,
    "modo_largo": "economico"
+  },
+  "barista_es": {
+   "modo": "principal",
+   "objetivo": "Canal principal de crecimiento: 1 historia real diaria + 1 en vivo semanal «Café con historias». Meta 1.000 subs en marzo de 2027",
+   "desde": "2026-11-20",
+   "hasta": "2027-03-31",
+   "largos_semana": 0,
+   "shorts_semana": 7,
+   "vivos_semana": 1,
+   "comunidad_semana": 2,
+   "dias_largos": [],
+   "hora_largos": "18:00",
+   "dias_shorts": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "hora_shorts": "12:00",
+   "dias_vivos": [
+    4
+   ],
+   "hora_vivos": "19:00",
+   "duracion_vivo_min": 60,
+   "minutos_largo": 0,
+   "series_activas": 0,
+   "subs_actuales": 91,
+   "horas_actuales": 0,
+   "modo_largo": "broll",
+   "historias_semana": 7,
+   "rostro_semana": 1
   }
  }
 }

@@ -7,7 +7,7 @@ on:
         description: "Perfil"
         required: true
         type: choice
-        options: [equilibrate_es, soyintegral_es, mitribu_es]
+        options: [equilibrate_es, soyintegral_es, mitribu_es, barista_es]
       desde:
         description: "Desde (AAAA-MM-DD, vacío = del plan)"
         required: false

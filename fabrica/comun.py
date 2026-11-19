@@ -13,6 +13,7 @@ CANAL_COLOR = {  # color del buzo/tenis/objeto por canal (guía de Germancho)
     "equilibrate": ("coral", "#E8705F"),
     "mitribu": ("mustard yellow", "#D4A017"),
     "soyintegral": ("forest green", "#2E8B57"),
+    "barista": ("coffee brown", "#6F4E37"),
 }
 EMOCION_COLOR = {"alegria": "#F4E4A1", "miedo": "#B9A6C9", "ira": "#E9A08F", "tristeza": "#A9B9D6", "asco": "#B8CDB0", "sorpresa": "#F2C6C2", "sereno": "#E8E2D6"}
 POSES = {  # pose del libro → archivo de referencia
@@ -168,6 +169,8 @@ def estilo(canal=None):
         partes.append("Nunca: " + "; ".join(m["nunca"]) + ".")
     pos = m.get("posiciones", {})
     eje = {"equilibrate": "amor", "mitribu": "dinero", "soyintegral": "salud"}.get(canal or "", "")
+    if canal == "barista":
+        partes.append("Canal personal de Germán (El Barista del Ser): historias reales que empiezan con un café y terminan en salud, dinero o amor; el tono es el del narrador de sobremesa.")
     if eje and pos.get(eje):
         partes.append(f"Posición del canal ({eje}): {pos[eje]}")
     return "\n".join(partes)

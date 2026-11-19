@@ -68,3 +68,30 @@ def ensamblar(escenas_png, limites, mp3, ass, out_mp4, work):
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", video, "-i", mp3, "-vf", f"ass='{ass_esc}'",
                     "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-c:a", "aac", "-b:a", "160k", "-shortest", "-movflags", "+faststart", out_mp4], check=True)
     return out_mp4
+
+
+def cierre_suscripcion(mp4, canal, out_mp4, segundos=3.2, texto="SUSCRÍBETE", sub="mañana hay otro reto"):
+    """Sobrepone en los últimos segundos un botón «Suscríbete» con una razón (sube la conversión vista → suscriptor)."""
+    import json as _json
+    from PIL import Image, ImageDraw, ImageFont
+    from .comun import CANAL_COLOR
+    info = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration:stream=width,height", "-of", "json", mp4], capture_output=True, text=True)
+    j = _json.loads(info.stdout); dur = float(j["format"]["duration"]); st = [x for x in j["streams"] if x.get("width")][0]; W, H = st["width"], st["height"]
+    col = CANAL_COLOR.get(canal, ("", "#E8705F"))[1]
+    cw = int(W * 0.94); pw, ph = int(W * 0.64), int(H * 0.085 if H > W else H * 0.11); r = ph // 2; ox = (cw - pw) // 2
+    im = Image.new("RGBA", (cw, ph + int(ph * 0.8)), (0, 0, 0, 0)); dr = ImageDraw.Draw(im)
+    dr.rounded_rectangle([ox, 0, ox + pw, ph], radius=r, fill=col)
+    try:
+        f1 = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", int(ph * 0.46)); f2 = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", int(ph * 0.4))
+    except Exception:
+        f1 = f2 = ImageFont.load_default()
+    tw = dr.textlength("▶  " + texto, font=f1); dr.text(((cw - tw) / 2, ph * 0.22), "▶  " + texto, font=f1, fill="white")
+    tw2 = dr.textlength(sub, font=f2); dr.text(((cw - tw2) / 2, ph + ph * 0.15), sub, font=f2, fill="white", stroke_width=3, stroke_fill="black")
+    png = out_mp4 + ".sub.png"; im.save(png)
+    t0 = max(dur - segundos, 0)
+    x = (W - cw) // 2; y = int(H * (0.50 if H > W else 0.70))
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", mp4, "-loop", "1", "-framerate", str(FPS), "-i", png, "-filter_complex",
+                    f"[1:v]format=rgba,fade=t=in:st={t0:.2f}:d=0.4:alpha=1[s];[0:v][s]overlay={x}:{y}:enable='gte(t,{t0:.2f})':shortest=1[v]",
+                    "-map", "[v]", "-map", "0:a", "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-c:a", "copy", "-movflags", "+faststart", out_mp4], check=True)
+    os.remove(png)
+    return out_mp4

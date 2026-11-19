@@ -7,7 +7,7 @@ on:
         description: "Perfil de canal"
         required: true
         type: choice
-        options: [mitribu_es, equilibrate_es, soyintegral_es, mitribu_en, equilibrate_en, soyintegral_en]
+        options: [mitribu_es, equilibrate_es, soyintegral_es, barista_es, mitribu_en, equilibrate_en, soyintegral_en]
         default: mitribu_es
       video_id:
         description: "ID del video viral de referencia (11 caracteres). Vacío si usas tema."

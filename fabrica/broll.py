@@ -119,6 +119,8 @@ def germancho_png(canal, work, alto):
     from .imagenes import _recortar_personaje
     m = ROOT / "assets/germancho" / f"maestro_{canal}.png"
     if not m.exists():
+        m = ROOT / "assets/germancho" / "maestro_equilibrate.png"
+    if not m.exists():
         return None
     g = _recortar_personaje(Image.open(m).convert("RGB")); bb = g.getbbox()
     if not bb:

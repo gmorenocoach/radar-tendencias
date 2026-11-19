@@ -12,7 +12,7 @@ from .comun import cargar_env, ROOT, claude, estilo, marca, nivel_para, oferta, 
 from . import historias as mod_historias
 
 PLANES = ROOT / "planes"
-EJES = {"equilibrate": "Amor (pareja, amor propio, familia, vínculos, emociones)", "mitribu": "Dinero", "soyintegral": "Salud"}
+EJES = {"equilibrate": "Amor (pareja, amor propio, familia, vínculos, emociones)", "mitribu": "Dinero", "soyintegral": "Salud", "barista": "Salud, dinero y amor: historias reales alrededor de un café (canal personal de Germán)"}
 
 
 def radar_top(perfil_id, n=40):

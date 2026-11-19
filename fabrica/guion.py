@@ -3,7 +3,8 @@ import json, re
 from .comun import claude, estilo, oferta, nivel_para, POSES, CANAL_COLOR, canal_de, MOCK
 
 EJES = {"equilibrate": "Amor (pareja, amor propio, familia, vínculos)", "mitribu": "Dinero (mentalidad financiera, ingresos, hábitos con el dinero)",
-        "soyintegral": "Salud (hábitos, cuerpo, sueño, estrés, bienestar laboral)"}
+        "soyintegral": "Salud (hábitos, cuerpo, sueño, estrés, bienestar laboral)",
+        "barista": "Salud, dinero y amor: historias reales alrededor de un café (canal personal de Germán)"}
 
 
 def guion(ficha, perfil, formato="shorts", tipo_contenido="atraccion", nivel=""):

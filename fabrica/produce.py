@@ -194,6 +194,11 @@ def main():
         guardar_json(d / "guion.json", g)
     else:
         mp4 = render.ensamblar(pngs, limites[: len(pngs)], mp3, ass, str(d / "short.mp4"), str(d / "_tmp"))
+    try:   # cierre de suscripción en pantalla (últimos 3 s)
+        razon = "mañana hay otra historia" if g.get("formato") == "historia" else "mañana hay otro reto"
+        render.cierre_suscripcion(mp4, canal, str(d / "_tmp" / "con_cierre.mp4"), sub=razon); shutil.move(str(d / "_tmp" / "con_cierre.mp4"), mp4)
+    except Exception as e:
+        print(f"  ! cierre de suscripción falló ({e}); se deja sin él")
     shutil.rmtree(d / "_tmp", ignore_errors=True)
     tam = os.path.getsize(mp4) / 1e6
 

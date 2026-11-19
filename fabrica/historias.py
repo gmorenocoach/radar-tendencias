@@ -73,9 +73,17 @@ Dentro de los textos usa comillas angulares «» o ninguna, NUNCA comillas doble
 
 
 def disponibles(canal, n=1):
+    todas = [h for h in cargar()["historias"] if not h.get("usada") and h.get("certeza") == "alta"]
+    if canal == "barista":   # el canal personal alterna los tres ejes
+        por_eje = {e: [h for h in todas if h["eje"] == e] for e in EJES}
+        out = []
+        while len(out) < n and any(por_eje.values()):
+            for e in EJES:
+                if por_eje[e]:
+                    out.append(por_eje[e].pop(0))
+        return out[:n]
     eje = CANAL_EJE.get(canal, canal)
-    hs = [h for h in cargar()["historias"] if h["eje"] == eje and not h.get("usada") and h.get("certeza") == "alta"]
-    return hs[:n]
+    return [h for h in todas if h["eje"] == eje][:n]
 
 
 def marcar_usada(hid, produccion=""):

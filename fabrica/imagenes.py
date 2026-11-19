@@ -52,6 +52,8 @@ POSE_EN = {"saludando": "standing and waving", "brazos_abiertos": "arms wide ope
 def maestro(canal):
     """Imagen maestra del canal (Germancho con buzo del color). Si no existe, se usa la pose del libro."""
     p = ROOT / "assets/germancho" / f"maestro_{canal}.png"
+    if not p.exists() and canal == "barista":
+        canal = "equilibrate"; p = ROOT / "assets/germancho" / f"maestro_{canal}.png"
     return f"{PAGES_BASE}/assets/germancho/maestro_{canal}.png" if p.exists() else None
 
 
