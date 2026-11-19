@@ -630,190 +630,190 @@
    },
    "desde": "2026-11-20",
    "hasta": "2027-01-31",
-   "generado": "2026-11-19T19:57:42",
+   "generado": "2026-11-19T20:09:03",
    "series": null,
    "vivos": [
     {
-     "titulo": "Cuerpo, mente y trabajo: ¿qué señal estás ignorando?",
-     "pregunta_abierta": "¿Qué te está diciendo tu cuerpo últimamente que has decidido no escuchar?",
-     "reto_colectivo": "Durante el vivo, cada quien escribe en el chat una señal de su cuerpo y un gesto de 5 minutos para atenderla hoy. Al final, todos hacemos una pausa de respiración juntos."
+     "titulo": "Café con tu Cuerpo: ¿qué le debes hoy a tu salud?",
+     "pregunta_abierta": "¿Qué es lo primero que tu cuerpo te pide hace semanas y has dejado para después?",
+     "reto_colectivo": "Durante el vivo, cada uno escribe en el chat una acción de salud de menos de 5 minutos y la hace en cámara o en casa. Al final, compartimos cuántos lo lograron."
     },
     {
-     "titulo": "Tu despensa también es salud: armemos la lista juntos",
-     "pregunta_abierta": "¿Qué alimento sencillo no falta en tu casa y cuál te gustaría incorporar este mes?",
-     "reto_colectivo": "Entre todos armamos una lista de 10 alimentos básicos en el chat. Cada persona se compromete a revisar su despensa esta semana y a compartir una foto o un comentario el domingo."
+     "titulo": "La alacena que te cuida: armamos juntos tu lista de la semana",
+     "pregunta_abierta": "¿Qué alimento sano te cuesta más meter en tu rutina y por qué?",
+     "reto_colectivo": "Entre todos armamos una lista de 10 alimentos básicos y baratos. Cada persona se compromete a comprar o preparar uno esta semana y lo cuenta en comentarios."
     }
    ],
    "comunidad": [
     {
      "tipo": "encuesta",
-     "texto": "Personaliza tu Germancho: ¿qué tema de salud quieres ver más en los Shorts? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y mente D) Despensa y ahorro"
+     "texto": "Personaliza tu Germancho: ¿qué tema de salud quieres que aborde primero? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y estrés D) Alacena y ahorro"
     },
     {
      "tipo": "reto",
-     "texto": "Reto de la semana: durante 7 días, toma un vaso de agua antes de tu primer café. Cuéntame en comentarios cómo te fue el día 3."
+     "texto": "Reto de la semana: durante 7 días, cambia una bebida azucarada por agua. Cuéntame en comentarios cómo va tu taza el día 3."
     },
     {
      "tipo": "pregunta",
-     "texto": "Si tu cuerpo pudiera dejarte una nota en la nevera hoy, ¿qué crees que diría? Cuéntamelo abajo."
+     "texto": "Si tu cuerpo pudiera dejarte una nota en la nevera, ¿qué crees que diría hoy? Te leo en comentarios."
     },
     {
      "tipo": "encuesta",
-     "texto": "Personaliza tu Germancho: ¿a qué hora prefieres tu café con propósito? A) Mañana B) Mediodía C) Tarde D) Noche"
+     "texto": "Personaliza tu Germancho: ¿en qué formato prefieres mis Shorts? A) Con un solo consejo B) Con lista de 3 a 5 ítems C) Con una historia corta D) Con una pregunta que te haga pensar"
     },
     {
      "tipo": "reto",
-     "texto": "Reto de la semana: revisa una etiqueta de algo que comes a diario. Lee los tres primeros ingredientes y cuéntame qué descubriste."
+     "texto": "Reto de la semana: hoy revisa tu alacena y deja a la vista un alimento sano. Mañana comenta cuál elegiste y si lo usaste."
     },
     {
      "tipo": "pregunta",
-     "texto": "¿Qué hábito pequeño de salud sí te ha funcionado y quieres compartir con los demás? Sin juicios, solo ideas útiles."
+     "texto": "¿Cuál fue la última vez que le preguntaste a tu cuerpo cómo estaba, de verdad? Cuéntame sin juzgarte. Recuerda: esto no reemplaza a tu médico."
     }
    ],
    "conversion": [
     {
-     "titulo": "Qué pasa en la clase gratuita (no es lo que piensas)",
-     "gancho": "Tu cuerpo avisa antes de que tu agenda se dé cuenta. Te cuento qué pasa en una clase gratuita de Café con Propósito.",
-     "formato": "Short de Germancho, 45 s: escena de taza y cuaderno; lista rápida de 3 momentos de la clase (una pregunta, un ejercicio de 2 minutos, una conversación honesta); cierra con Reto de hoy y la invitación: si quieres vivirla con tu equipo, el enlace está en el comentario fijado."
+     "titulo": "Qué pasa en la clase gratuita de Café con Propósito",
+     "gancho": "Cuando alguien me pregunta qué pasa en esa clase, lo primero que digo es: nadie sale con una receta, todos salen con una pregunta mejor.",
+     "formato": "Short de Germancho, 45 s: tres imágenes de la clase (cuaderno, taza, conversación en grupo) + invitación final: Si quieres ver cómo se siente, el enlace de la clase gratuita está abajo. Sin compromiso, solo curiosidad."
     },
     {
-     "titulo": "Hizo el reto 7 días y dejó de vivir en piloto automático",
-     "gancho": "Ella llegaba a casa con la mente en la oficina y el cuerpo agotado. Una semana de retos pequeños movió algo.",
-     "formato": "Short de historia, 50 s: relato en tercera persona de alguien que hizo el reto de 7 días (nombre cambiado, sin prometer resultados); un día clave con una imagen cotidiana; cierre: Reto de hoy y la invitación a conocer el programa si quieres algo parecido para tu empresa."
+     "titulo": "Una persona de tu equipo hizo el reto 7 días",
+     "gancho": "Una líder de un equipo me escribió: Germán, llevo una semana tomando mi café sin celular y mi reunión de lunes ya no me da miedo.",
+     "formato": "Short de historia, 50 s: narrado por Germancho, sin cifras ni promesas de resultado. Muestra el reto (5 minutos al día con el cuaderno) y lo que esa persona contó con sus palabras. Cierre: Si quieres que tu equipo pruebe algo así, escríbeme."
     },
     {
-     "titulo": "Así trabajo con la gente: sin discursos, con preguntas",
-     "gancho": "Cuando alguien llega a mi mesa, no le doy una receta: le sirvo una pregunta.",
-     "formato": "Short de Germancho, 40 s: metáfora del barista; tres pasos del trabajo (escuchar, nombrar lo que pasa, elegir una acción pequeña); Reto de hoy; cierre con invitación abierta: si tu equipo quiere trabajar así, escríbeme y lo conversamos."
+     "titulo": "Así trabajo con los equipos, sin sermones",
+     "gancho": "No llego con diapositivas gigantes. Llego con una taza, un cuaderno y una pregunta que nadie en la sala se ha hecho todavía.",
+     "formato": "Short explicativo, 40 s: Germancho describe en tres pasos el programa (conversar, practicar un reto pequeño, volver a conversar). Cierre: Si lo quieres para tu empresa, la información está en el enlace. Tú decides."
     },
     {
      "titulo": "3 preguntas que me hacen siempre sobre el programa",
-     "gancho": "Siempre me preguntan lo mismo: si es para mí, cuánto tiempo toma y si funciona. Te respondo con honestidad.",
-     "formato": "Short de Germancho, 55 s: tres tarjetas con pregunta y respuesta corta; sin promesas de resultados (es un proceso, no una garantía); Reto de hoy; cierre: más preguntas en comentarios y el enlace a la clase gratuita."
+     "gancho": "Hay tres preguntas que me llegan cada semana. Te las respondo con cariño y sin vender nada.",
+     "formato": "Short de preguntas y respuestas, 55 s: Germancho responde ¿es para mi empresa?, ¿cuánto tiempo toma?, ¿y si mi equipo es escéptico?, con humor suave y sin prometer resultados. Cierre: Si te quedó otra duda, escríbela en comentarios o en el enlace."
     },
     {
-     "titulo": "Tu equipo no necesita más café: necesita esto",
-     "gancho": "Puedes tener reuniones perfectas y un equipo agotado. Cuerpo, mente y trabajo son un solo sistema.",
-     "formato": "Short de Germancho, 45 s: contraste entre agenda llena y equipo cansado; una idea sobre liderazgo cercano; recordatorio de que ante síntomas conviene consultar a un profesional; Reto de hoy; cierre: si lideras gente y quieres explorarlo, el Programa de Liderazgo Café con Propósito tiene una clase gratuita."
+     "titulo": "El reto de 5 minutos que damos en el programa",
+     "gancho": "Te regalo el mismo reto con el que arrancamos en las empresas. Dura menos que tu café.",
+     "formato": "Short de reto, 40 s: Germancho muestra el ejercicio del cuaderno (escribir una cosa que sí controlas hoy) y lo conecta con el trabajo en equipo. Cierre: Si quieres este tipo de práctica para toda tu empresa, te dejo el enlace al programa."
     }
    ],
    "rostro": [
     {
+     "titulo": "Por qué tu equipo no necesita más motivación",
+     "gancho": "Tu equipo no está desmotivado. Está cansado de que le pidan ganas sin darle sentido.",
+     "ideas": [
+      "La motivación sube y baja; el propósito sostiene cuando el día se pone pesado.",
+      "Un equipo con propósito pregunta para qué, no solo cuánto, y eso cambia las conversaciones.",
+      "Un cuaderno y cinco minutos al día pueden abrir esa conversación sin gastar un presupuesto."
+     ],
+     "cierre": "Si quieres explorar esto con tu empresa, te dejo el enlace al Programa de Liderazgo Café con Propósito. Mira si resuena contigo."
+    },
+    {
+     "titulo": "Lo que aprendí en 27 años de coaching",
+     "gancho": "Después de 27 años acompañando personas, lo que más se repite no es la falta de talento, es la falta de pausa.",
+     "ideas": [
+      "Casi todos saben qué quieren cambiar, pocos se dan espacio para sentirlo.",
+      "El cambio real empieza por una pregunta honesta, no por un plan perfecto.",
+      "Un líder que se pregunta bien hace que su equipo también aprenda a hacerlo."
+     ],
+     "cierre": "Si tu empresa quiere abrir ese espacio, el programa está en el enlace. Sin presión, a tu ritmo."
+    },
+    {
+     "titulo": "El error más común de un líder bien intencionado",
+     "gancho": "El error de muchos líderes buenos es creer que escuchar es esperar su turno para hablar.",
+     "ideas": [
+      "Escuchar de verdad es hacer una pregunta más antes de dar la solución.",
+      "Tu equipo nota cuando lo escuchas para entender y cuando lo escuchas para responder.",
+      "Prueba hoy: en tu próxima reunión, haz una sola pregunta y cállate diez segundos."
+     ],
+     "cierre": "En el programa trabajamos esto con ejemplos reales. Si te interesa, el enlace está abajo."
+    },
+    {
+     "titulo": "Cómo es una sesión del programa por dentro",
+     "gancho": "Te cuento cómo arranca una sesión: sin presentaciones eternas y con un café en la mano.",
+     "ideas": [
+      "Primero una pregunta simple que baja las defensas de todos.",
+      "Después una conversación guiada en pequeños grupos, sin juicios.",
+      "Al final un reto pequeño para llevarse a la oficina, de menos de cinco minutos."
+     ],
+     "cierre": "Si quieres ver cómo sería en tu empresa, escríbeme o entra al enlace. Con gusto te cuento."
+    },
+    {
+     "titulo": "Liderar no es tener respuestas",
+     "gancho": "Dejé de creer que un líder tiene que saberlo todo el día que empecé a preguntar más.",
+     "ideas": [
+      "El que lidera con respuestas cansa; el que lidera con preguntas inspira.",
+      "Admitir que no sabes algo suele darle permiso al equipo de ser honesto.",
+      "Hoy anota una pregunta que nunca le has hecho a tu equipo y hazla esta semana."
+     ],
+     "cierre": "En el Programa de Liderazgo Café con Propósito practicamos justo esto. Te dejo el enlace por si quieres conocerlo."
+    },
+    {
+     "titulo": "Lo que pasa cuando un equipo se escucha",
+     "gancho": "Hay reuniones que duran una hora y no dicen nada, y otras de veinte minutos que cambian el rumbo. La diferencia es la escucha.",
+     "ideas": [
+      "Un equipo que se escucha pierde menos tiempo en malentendidos.",
+      "La escucha se entrena como un músculo, con pequeños ejercicios repetidos.",
+      "Empieza con una regla simple: nadie interrumpe hasta que el otro termine."
+     ],
+     "cierre": "Si te gustaría entrenar esto en tu empresa, el enlace al programa está abajo. Tú eliges el momento."
+    },
+    {
+     "titulo": "Cuando el estrés del trabajo llega a tu cuerpo",
+     "gancho": "Tu cuerpo ya sabe que estás cansado mucho antes de que tu agenda lo admita.",
+     "ideas": [
+      "Mente, cuerpo y trabajo son un solo sistema, no tres cajones separados.",
+      "Una pausa consciente de cinco minutos también es productividad, no pérdida de tiempo.",
+      "Si hay síntomas que te preocupan, consulta a un profesional; esto no reemplaza al médico."
+     ],
+     "cierre": "En el programa abrimos esta conversación con equipos. Si te interesa, mira el enlace con calma."
+    },
+    {
+     "titulo": "Una pregunta para tu próxima reunión de lunes",
+     "gancho": "Antes de abrir tu agenda el lunes, prueba una sola pregunta distinta con tu equipo.",
+     "ideas": [
+      "En vez de qué falta, pregunta qué te gustaría que saliera bien esta semana.",
+      "Esa pregunta cambia el tono de la conversación en menos de un minuto.",
+      "Anota lo que escuches; es información valiosa que casi nunca aparece en un informe."
+     ],
+     "cierre": "Si quieres más herramientas así para tu empresa, te dejo el enlace al Programa de Liderazgo Café con Propósito."
+    },
+    {
      "titulo": "Por qué empecé a trabajar con empresas",
-     "gancho": "Llevo 27 años acompañando personas y vi que casi nadie se detiene a mirar cómo trabaja.",
+     "gancho": "Empecé con personas una a una y me di cuenta de algo: al volver a su trabajo, cambiaban poco porque su entorno seguía igual.",
      "ideas": [
-      "Lo que vi en consulta: el trabajo mueve la salud, el dinero y el amor.",
-      "Un equipo no cambia por charlas motivacionales; cambia con conversaciones y acciones pequeñas.",
-      "Por eso nació el Programa de Liderazgo Café con Propósito."
+      "Una persona puede cambiar, pero un equipo que cambia junto sostiene mejor el cambio.",
+      "Por eso llevé las conversaciones a las empresas, con el mismo espíritu de cafetería.",
+      "No vengo a arreglar a nadie; vengo a abrir un espacio donde cada quien se escuche."
      ],
-     "cierre": "Si quieres ver cómo es, hay una clase gratuita: el enlace está en la descripción."
+     "cierre": "Si quieres que tu empresa viva esto, el enlace del programa está abajo. Con calma y sin promesas grandilocuentes."
     },
     {
-     "titulo": "Lo que le pasa a un equipo cuando el líder se cuida",
-     "gancho": "Un líder cansado contagia cansancio, y no hace falta que lo diga.",
+     "titulo": "Tres señales de que tu equipo necesita una pausa",
+     "gancho": "Si tu equipo contesta rápido pero ya nadie propone nada, quizá no sea falta de ideas, sino falta de pausa.",
      "ideas": [
-      "El ejemplo se nota más que el discurso.",
-      "Cuidarte no es egoísmo: es tu primera herramienta de liderazgo.",
-      "Un hábito de 5 minutos al día puede cambiar el tono de una oficina."
+      "Primera señal: las reuniones se llenan de silencios incómodos o de acuerdos automáticos.",
+      "Segunda: se repiten los mismos conflictos con distintos nombres.",
+      "Tercera: la gente cumple, pero ya no pregunta ni sugiere."
      ],
-     "cierre": "Si lideras y quieres explorarlo con tu equipo, te invito a la clase gratuita; el enlace está abajo."
-    },
-    {
-     "titulo": "3 señales de que tu equipo vive en piloto automático",
-     "gancho": "Cuando todos responden bien pero nadie propone nada, algo se apagó.",
-     "ideas": [
-      "Reuniones largas sin decisiones claras.",
-      "Se cumple, pero nadie se emociona con lo que hace.",
-      "El cansancio se vuelve normal y nadie lo menciona."
-     ],
-     "cierre": "Si te reconociste, conversemos: la clase gratuita del programa es un buen primer paso."
-    },
-    {
-     "titulo": "Qué es un coach ontológico (sin tecnicismos)",
-     "gancho": "No te digo qué hacer: te ayudo a ver desde dónde estás decidiendo.",
-     "ideas": [
-      "Ontológico significa mirar quién eres al actuar, no solo qué haces.",
-      "Una pregunta bien hecha mueve más que un consejo.",
-      "El cambio empieza con una acción pequeña y sostenida."
-     ],
-     "cierre": "Si tienes curiosidad por cómo se aplica en una empresa, mira la clase gratuita del enlace."
-    },
-    {
-     "titulo": "El reto de 7 días que hacemos con los equipos",
-     "gancho": "Siete días, cinco minutos al día, cero discursos.",
-     "ideas": [
-      "Cada día una acción pequeña: pausa, pregunta, agradecimiento.",
-      "No se trata de hacerlo perfecto, sino de hacerlo.",
-      "Al final del reto, cada persona nombra lo que notó, sin presión ni garantías."
-     ],
-     "cierre": "Si quieres que tu equipo lo pruebe, escríbeme o entra a la clase gratuita desde el enlace."
-    },
-    {
-     "titulo": "Lo que nadie te dice de liderar con cansancio",
-     "gancho": "Liderar cansado no te hace más fuerte: te hace más reactivo.",
-     "ideas": [
-      "El cuerpo manda señales antes de que la mente las acepte.",
-      "Parar a tiempo es una decisión de liderazgo, no una debilidad.",
-      "Si hay síntomas persistentes, lo primero es consultar a un profesional de la salud."
-     ],
-     "cierre": "Si quieres trabajar el liderazgo desde el equilibrio, el programa tiene una clase gratuita; enlace abajo."
-    },
-    {
-     "titulo": "Una pregunta para empezar la reunión distinta",
-     "gancho": "Antes de abrir la agenda, prueba esta pregunta con tu equipo.",
-     "ideas": [
-      "La pregunta: ¿qué necesitas hoy para estar presente aquí?",
-      "Escuchar sin resolver crea más confianza que cualquier dinámica.",
-      "Dos minutos pueden cambiar el clima de toda la reunión."
-     ],
-     "cierre": "Si quieres más herramientas así, te espero en la clase gratuita del programa."
-    },
-    {
-     "titulo": "Café con Propósito: de un libro a un programa",
-     "gancho": "El libro nació en una mesa de café, y las mejores conversaciones siguen empezando ahí.",
-     "ideas": [
-      "Café con Propósito parte de una idea simple: volver a ti para decidir mejor.",
-      "El programa lleva esa idea al trabajo diario de un equipo.",
-      "Todo se traduce en retos pequeños, no en teoría."
-     ],
-     "cierre": "Si quieres ver cómo se vive, hay una clase gratuita; el enlace está en la descripción."
-    },
-    {
-     "titulo": "Cómo se ve un equipo con propósito (sin postureo)",
-     "gancho": "Un equipo con propósito no es el que sonríe en la foto: es el que sabe para qué hace lo que hace.",
-     "ideas": [
-      "Saben qué aportan y cómo se conecta con lo de los demás.",
-      "Se hablan claro y se cuidan sin dramatismo.",
-      "Cada quien tiene una acción pequeña para sostenerlo."
-     ],
-     "cierre": "Si quieres construir eso en tu empresa, empecemos por la clase gratuita; enlace abajo."
-    },
-    {
-     "titulo": "Preguntas honestas antes de contratar un programa de liderazgo",
-     "gancho": "Antes de invertir en cualquier programa, hazte estas tres preguntas, incluso si no es el mío.",
-     "ideas": [
-      "¿Qué quiero que cambie en la forma de trabajar, no solo en los resultados?",
-      "¿Habrá acciones concretas o solo teoría?",
-      "¿Quién acompaña y cómo se sostiene después?"
-     ],
-     "cierre": "Si quieres ver cómo respondo yo, entra a la clase gratuita del Programa de Liderazgo Café con Propósito."
+     "cierre": "Si te reconoces en alguna, quizá el programa te sirva. Te dejo el enlace para que lo mires sin compromiso."
     }
    ],
    "mezcla": {
-    "atraccion": 27,
-    "nutricion": 20,
+    "atraccion": 35,
+    "nutricion": 10,
     "conversion": 15
    },
    "piezas": null,
    "proyeccion": {
     "semanas": 10.3,
     "largos": 0,
-    "shorts": 42,
+    "shorts": 40,
     "vivos": 0,
     "horas_estimadas": 0,
     "horas_de_largos": 0,
     "horas_de_vivos": 0,
-    "subs_estimados": 893,
+    "subs_estimados": 851,
     "supuestos": {
      "vistas_largo_promedio": 700,
      "retencion_largo": 0.35,
