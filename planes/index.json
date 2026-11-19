@@ -35,335 +35,273 @@
     "horas_actuales": 0,
     "modo_largo": "broll",
     "historias_semana": 7,
-    "rostro_semana": 1
+    "rostro_semana": 1,
+    "solo_historias": true
    },
    "desde": "2026-11-20",
    "hasta": "2027-03-31",
-   "generado": "2026-11-19T14:53:02",
+   "generado": "2026-11-19T20:02:11",
    "vivos": [
     {
-     "titulo": "En vivo de prueba",
-     "pregunta_abierta": "..",
-     "reto_colectivo": ".."
+     "titulo": "Café con historias: la conversación que sigues aplazando",
+     "pregunta_abierta": "¿Qué conversación llevas semanas ensayando en tu cabeza y todavía no has tenido?",
+     "reto_colectivo": "Durante el vivo, cada uno escribe en el chat la primera frase que diría y se compromete a decirla (o escribirla) en las próximas 24 horas. Mañana volvemos a contar cómo nos fue en los comentarios."
     },
     {
-     "titulo": "En vivo de prueba",
-     "pregunta_abierta": "..",
-     "reto_colectivo": ".."
-    },
-    {
-     "titulo": "En vivo de prueba",
-     "pregunta_abierta": "..",
-     "reto_colectivo": ".."
+     "titulo": "Café con historias: salud, dinero y amor, ¿cuál descuidas hoy?",
+     "pregunta_abierta": "Si tu vida fuera una taza con tres sorbos, ¿cuál de los tres está más vacío ahora mismo?",
+     "reto_colectivo": "Cada persona elige uno de los tres y escribe una acción de menos de 5 minutos para esta semana. El que quiera la comparte en el chat y entre todos votamos la más simple de cumplir."
     }
    ],
    "comunidad": [
     {
      "tipo": "encuesta",
-     "texto": "¿Con qué cara amaneció tu Germancho?"
+     "texto": "Personaliza tu Germancho: ¿con qué taza lo quieres hoy? A) Espresso: directo y corto. B) Con leche: suave y cercano. C) Filtrado: lento y reflexivo. D) Frío: para días de mucho calor mental."
     },
     {
      "tipo": "encuesta",
-     "texto": "¿Con qué cara amaneció tu Germancho?"
+     "texto": "Personaliza tu Germancho: ¿de qué tema quieres la historia de mañana? A) Salud. B) Dinero. C) Amor. D) Algo que me pasó a mí y te cuento en comentarios."
     },
     {
-     "tipo": "encuesta",
-     "texto": "¿Con qué cara amaneció tu Germancho?"
+     "tipo": "reto",
+     "texto": "Reto de la semana: cada noche, antes de dormir, escribe en tu cuaderno una sola línea con lo que sí hiciste hoy. Siete noches, siete líneas. El domingo cuéntanos cuál fue la que más te sorprendió."
+    },
+    {
+     "tipo": "reto",
+     "texto": "Reto de la semana: tómate un café sin pantallas, una sola vez, con calma. Al terminar, comenta en una palabra cómo te sentiste."
+    },
+    {
+     "tipo": "pregunta",
+     "texto": "Cuéntame en comentarios: ¿cuál fue el café más importante de tu vida y por qué? Leo todos y elijo uno para convertirlo en historia."
+    },
+    {
+     "tipo": "pregunta",
+     "texto": "Pregunta de la semana: ¿qué decisión pequeña cambió algo grande en tu salud, tu dinero o tu amor? Te leo en los comentarios."
     }
    ],
    "conversion": [
     {
-     "titulo": "Conversión 0",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Qué pasa en la clase gratuita en vivo (sin pitch)",
+     "gancho": "Cuando oyes clase gratuita, esperas que te vendan algo. Aquí te cuento qué pasa de verdad.",
+     "formato": "Qué pasa en la clase gratuita"
     },
     {
-     "titulo": "Conversión 1",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Entras a la clase gratuita y esto es lo primero que hacemos",
+     "gancho": "Lo primero que hago no es hablar yo. Es preguntarte algo que casi nadie se pregunta.",
+     "formato": "Qué pasa en la clase gratuita"
     },
     {
-     "titulo": "Conversión 2",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "¿Necesitas cámara o experiencia para la clase gratuita?",
+     "gancho": "Tranquilo: no necesitas cámara, ni libreta perfecta, ni saber de coaching.",
+     "formato": "Qué pasa en la clase gratuita"
     },
     {
-     "titulo": "Conversión 3",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "3 cosas que te llevas de la clase gratuita, aunque no hagas nada más",
+     "gancho": "Si solo vienes una hora, esto es lo que te queda en las manos.",
+     "formato": "Qué pasa en la clase gratuita"
     },
     {
-     "titulo": "Conversión 4",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "La clase gratuita no es para todos, y está bien",
+     "gancho": "Te digo para quién sí es y para quién no. Con honestidad.",
+     "formato": "Qué pasa en la clase gratuita"
     },
     {
-     "titulo": "Conversión 5",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Hizo el reto 7 días y esto fue lo que cambió en su taza",
+     "gancho": "Ella dijo que no tenía tiempo. Hizo el reto de hoy durante siete días. Mira lo que pasó.",
+     "formato": "Historia de alguien que hizo el reto 7 días"
     },
     {
-     "titulo": "Conversión 6",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "7 días, 5 minutos al día: la historia de Camilo",
+     "gancho": "Camilo llevaba años postergando una conversación. El reto de hoy le dio cinco minutos para empezar.",
+     "formato": "Historia de alguien que hizo el reto 7 días"
     },
     {
-     "titulo": "Conversión 7",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Pensó que el reto de 7 días era una tontería. Hasta el día 4",
+     "gancho": "Al principio se rió. El día 4 dejó de reírse y me escribió.",
+     "formato": "Historia de alguien que hizo el reto 7 días"
     },
     {
-     "titulo": "Conversión 8",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Lo que descubrió una mamá en 7 días de cuaderno y café",
+     "gancho": "No buscaba cambiar su vida. Solo quería un rato para ella. Y el cuaderno hizo el resto.",
+     "formato": "Historia de alguien que hizo el reto 7 días"
     },
     {
-     "titulo": "Conversión 9",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Hizo el reto, no cambió su vida, y aun así volvió",
+     "gancho": "El reto no lo arregló todo. Y eso es justo lo que lo hizo valioso.",
+     "formato": "Historia de alguien que hizo el reto 7 días"
     },
     {
-     "titulo": "Conversión 10",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Cómo trabajo con la gente: sin fórmulas, con preguntas",
+     "gancho": "No te voy a dar un manual. Te voy a hacer preguntas que ya sabes responder.",
+     "formato": "Cómo trabajo con la gente"
     },
     {
-     "titulo": "Conversión 11",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Mi primera sesión con alguien nuevo, paso a paso",
+     "gancho": "Así empieza una primera sesión conmigo. Spoiler: casi no hablo.",
+     "formato": "Cómo trabajo con la gente"
     },
     {
-     "titulo": "Conversión 12",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Por qué siempre empiezo con un café (y no con un plan)",
+     "gancho": "Antes de cualquier plan, hay una taza. Te explico por qué.",
+     "formato": "Cómo trabajo con la gente"
     },
     {
-     "titulo": "Conversión 13",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Lo que NO hago cuando acompaño a alguien",
+     "gancho": "No te digo qué hacer, no te juzgo y no prometo milagros. Esto sí hago.",
+     "formato": "Cómo trabajo con la gente"
     },
     {
-     "titulo": "Conversión 14",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "3 preguntas que me hacen siempre antes de la clase gratuita",
+     "gancho": "Me llegan casi todos los días. Hoy te las respondo sin rodeos.",
+     "formato": "3 preguntas que me hacen siempre"
     },
     {
-     "titulo": "Conversión 15",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "¿Cuánto cuesta? y otras 2 preguntas que me hacen siempre",
+     "gancho": "La primera pregunta siempre es el precio. Te la contesto de frente.",
+     "formato": "3 preguntas que me hacen siempre"
     },
     {
-     "titulo": "Conversión 16",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "¿Y si no soy constante? La pregunta que más me escriben",
+     "gancho": "Nadie empieza constante. Te cuento qué hago yo con eso.",
+     "formato": "3 preguntas que me hacen siempre"
     },
     {
-     "titulo": "Conversión 17",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "¿Esto sirve si ya probé de todo? 3 respuestas honestas",
+     "gancho": "Si ya probaste mil cosas, esta pregunta es para ti.",
+     "formato": "3 preguntas que me hacen siempre"
     },
     {
-     "titulo": "Conversión 18",
-     "gancho": "..",
-     "formato": "clase"
+     "titulo": "Tu próximo paso no es un curso, es una conversación",
+     "gancho": "Antes de gastar un peso, ven y conversemos una hora. Gratis y en vivo.",
+     "formato": "3 preguntas que me hacen siempre"
     }
    ],
    "rostro": [
     {
-     "titulo": "Rostro 0",
-     "gancho": "..",
+     "titulo": "Por qué hago una clase gratuita y no un curso",
+     "gancho": "Podría venderte un curso mañana, pero prefiero que primero me conozcas.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "Antes de comprometerte con algo, mereces ver cómo trabajo.",
+      "La clase es una hora real, en vivo, con preguntas tuyas.",
+      "Si al final no es para ti, te vas con algo útil de todas formas."
      ],
-     "cierre": ".."
+     "cierre": "Si quieres vivirla, la clase gratuita en vivo es la puerta. El enlace está en la descripción."
     },
     {
-     "titulo": "Rostro 1",
-     "gancho": "..",
+     "titulo": "La historia que me hizo dejar de vender y empezar a escuchar",
+     "gancho": "Hubo una conversación que me cambió la forma de acompañar a la gente.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "Cuento el momento en que entendí que escuchar pesa más que explicar.",
+      "Eso es lo que pasa en mis clases: más preguntas que respuestas.",
+      "No hay fórmula mágica, hay presencia y un paso pequeño."
      ],
-     "cierre": ".."
+     "cierre": "Si quieres sentir cómo es, ven a la clase gratuita en vivo. Te dejo el enlace abajo."
     },
     {
-     "titulo": "Rostro 2",
-     "gancho": "..",
+     "titulo": "Qué es la mentoría ∀normal (y qué no es)",
+     "gancho": "Te explico en un minuto qué es la mentoría y qué no te voy a prometer.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "No es un curso grabado ni una receta de éxito.",
+      "Es acompañamiento real, con conversación y retos pequeños.",
+      "La clase gratuita es la puerta: ahí decides con calma."
      ],
-     "cierre": ".."
+     "cierre": "Si te da curiosidad, empieza por la clase gratuita en vivo. Enlace en la descripción."
     },
     {
-     "titulo": "Rostro 3",
-     "gancho": "..",
+     "titulo": "El error que cometí en mis primeros años de coach",
+     "gancho": "Durante años creí que mi trabajo era dar respuestas. Estaba equivocado.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "Cuento el error con honestidad y sin adornos.",
+      "Lo que aprendí: acompañar es preguntar bien, no hablar bonito.",
+      "Por eso mis espacios son conversaciones, no conferencias."
      ],
-     "cierre": ".."
+     "cierre": "Si quieres ver cómo lo hago hoy, te espero en la clase gratuita en vivo. Enlace abajo."
     },
     {
-     "titulo": "Rostro 4",
-     "gancho": "..",
+     "titulo": "3 señales de que necesitas una conversación, no otro video",
+     "gancho": "Si llevas meses viendo videos y nada cambia, mira estas tres señales.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "Sabes qué hacer, pero no lo haces.",
+      "Consumes mucho contenido y actúas poco.",
+      "Lo que te falta no es información, es acompañamiento."
      ],
-     "cierre": ".."
+     "cierre": "Si te viste en alguna, ven a la clase gratuita en vivo. Es una conversación, no otro video."
     },
     {
-     "titulo": "Rostro 5",
-     "gancho": "..",
+     "titulo": "Lo que le pasó a Laura después de venir a la clase",
+     "gancho": "Laura llegó escéptica y con los brazos cruzados. Te cuento cómo salió.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "Venía cansada de promesas grandes y resultados pequeños.",
+      "En la clase se dio permiso de hacer solo una cosa pequeña.",
+      "Esa cosa pequeña fue el principio de algo más grande."
      ],
-     "cierre": ".."
+     "cierre": "Si quieres vivir tu propia primera hora, la clase gratuita en vivo te espera. Enlace en la descripción."
     },
     {
-     "titulo": "Rostro 6",
-     "gancho": "..",
+     "titulo": "Cómo se ve un día de reto de hoy en mi vida real",
+     "gancho": "Yo también hago el reto. Te muestro cómo se ve un día normal.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "Mi reto de hoy suele ser pequeño y hasta aburrido.",
+      "No siempre me sale, y cuento qué hago cuando falla.",
+      "La constancia no es perfección, es volver a la taza."
      ],
-     "cierre": ".."
+     "cierre": "Si quieres hacer el reto acompañado, ven a la clase gratuita en vivo. Te dejo el enlace."
     },
     {
-     "titulo": "Rostro 7",
-     "gancho": "..",
+     "titulo": "Por qué tu café de la mañana dice más de ti de lo que crees",
+     "gancho": "La manera en que tomas tu primer café dice cómo empiezas tu día.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "Observa si lo tomas con prisa, con pantalla o con presencia.",
+      "Ese minuto es un laboratorio gratis de tu relación contigo.",
+      "Cambiar un detalle pequeño cambia el tono del día entero."
      ],
-     "cierre": ".."
+     "cierre": "Si quieres explorar esto conmigo, la clase gratuita en vivo es el lugar. Enlace abajo."
     },
     {
-     "titulo": "Rostro 8",
-     "gancho": "..",
+     "titulo": "Lo que NO te voy a prometer si trabajas conmigo",
+     "gancho": "Hoy te cuento lo que no te voy a prometer, porque eso también es honestidad.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "No prometo resultados garantizados ni cambios de la noche a la mañana.",
+      "No diagnostico ni digo quién eres: pregunto y acompaño.",
+      "Sí prometo presencia, claridad y pasos pequeños y posibles."
      ],
-     "cierre": ".."
+     "cierre": "Si esto te suena honesto, ven a la clase gratuita en vivo. Enlace en la descripción."
     },
     {
-     "titulo": "Rostro 9",
-     "gancho": "..",
+     "titulo": "La pregunta que me hago cada mañana antes de grabar",
+     "gancho": "Antes de encender la cámara me hago una sola pregunta. Te la comparto.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "La pregunta es sencilla y cabe en una servilleta.",
+      "Me ayuda a hablar desde la presencia, no desde la prisa.",
+      "Tú puedes usarla antes de cualquier conversación importante."
      ],
-     "cierre": ".."
+     "cierre": "Si quieres más preguntas así, ven a la clase gratuita en vivo. El enlace está abajo."
     },
     {
-     "titulo": "Rostro 10",
-     "gancho": "..",
+     "titulo": "Por qué los fines de semana son clave para salud, dinero y amor",
+     "gancho": "Tu fin de semana define más de lo que piensas en tu salud, tu dinero y tu amor.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "Salud: cómo descansas de verdad, no cuánto duermes.",
+      "Dinero: la conversación que evitas tener contigo.",
+      "Amor: el tiempo sin pantalla con quien importa."
      ],
-     "cierre": ".."
+     "cierre": "Si quieres revisar tus tres áreas conmigo, la clase gratuita en vivo te espera. Enlace abajo."
     },
     {
-     "titulo": "Rostro 11",
-     "gancho": "..",
+     "titulo": "Mi historia con el café y por qué me llaman el Barista del Ser",
+     "gancho": "Me llaman el Barista del Ser y no es por casualidad. Te cuento el origen.",
      "ideas": [
-      "a",
-      "b",
-      "c"
+      "El café fue mi primera escuela de presencia.",
+      "Servir una taza es una forma de escuchar.",
+      "De ahí nacieron mis libros y esta forma de acompañar."
      ],
-     "cierre": ".."
-    },
-    {
-     "titulo": "Rostro 12",
-     "gancho": "..",
-     "ideas": [
-      "a",
-      "b",
-      "c"
-     ],
-     "cierre": ".."
-    },
-    {
-     "titulo": "Rostro 13",
-     "gancho": "..",
-     "ideas": [
-      "a",
-      "b",
-      "c"
-     ],
-     "cierre": ".."
-    },
-    {
-     "titulo": "Rostro 14",
-     "gancho": "..",
-     "ideas": [
-      "a",
-      "b",
-      "c"
-     ],
-     "cierre": ".."
-    },
-    {
-     "titulo": "Rostro 15",
-     "gancho": "..",
-     "ideas": [
-      "a",
-      "b",
-      "c"
-     ],
-     "cierre": ".."
-    },
-    {
-     "titulo": "Rostro 16",
-     "gancho": "..",
-     "ideas": [
-      "a",
-      "b",
-      "c"
-     ],
-     "cierre": ".."
-    },
-    {
-     "titulo": "Rostro 17",
-     "gancho": "..",
-     "ideas": [
-      "a",
-      "b",
-      "c"
-     ],
-     "cierre": ".."
-    },
-    {
-     "titulo": "Rostro 18",
-     "gancho": "..",
-     "ideas": [
-      "a",
-      "b",
-      "c"
-     ],
-     "cierre": ".."
+     "cierre": "Si quieres sentarte a esa mesa conmigo, ven a la clase gratuita en vivo. Enlace en la descripción."
     }
    ],
    "mezcla": {
-    "atraccion": 100,
-    "nutricion": 74,
-    "conversion": 32
+    "atraccion": 132,
+    "nutricion": 56,
+    "conversion": 12
    },
    "proyeccion": {
     "semanas": 18.7,
