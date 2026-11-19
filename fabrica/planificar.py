@@ -90,7 +90,8 @@ def calendario(perfil, plan, diseno, desde, hasta):
     dia_rostro = sorted(plan["dias_shorts"])[len(plan["dias_shorts"]) // 2] if (rostro and plan["dias_shorts"]) else None
     hist_semana = plan.get("historias_semana", 2 if plan["shorts_semana"] >= 7 else 1)
     banco = mod_historias.disponibles(canal, 999)
-    dias_hist = sorted(plan["dias_shorts"])[:hist_semana] if (banco and plan["dias_shorts"]) else []   # primeros días de shorts → historia
+    solo_historias = bool(plan.get("solo_historias"))
+    dias_hist = sorted(plan["dias_shorts"])[:hist_semana] if ((banco or solo_historias) and plan["dias_shorts"]) else []   # primeros días de shorts → historia
     hi = 0
     piezas, k = [], 0
     li = si_der = si_rad = vi = ci = co = ro = 0
@@ -102,8 +103,8 @@ def calendario(perfil, plan, diseno, desde, hasta):
             piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-L", "fecha": d.isoformat(), "hora": plan["hora_largos"], "tipo": "largo", "serie": c["serie"], "capitulo": c["n"],
                            "titulo": c["titulo"], "subtema": c.get("subtema", ""), "referencia_video_id": c.get("referencia_video_id", ""), "minutos": plan["minutos_largo"],
                            "tipo_contenido": tc, "nivel": nivel_para(canal, tc), "estado": "planificado"})
-        if wd in dias_hist and hi < len(banco):
-            h = banco[hi]; hi += 1
+        if wd in dias_hist and (hi < len(banco) or solo_historias):
+            h = banco[hi] if hi < len(banco) else {"id": "", "titulo": "Historia real (se asigna del banco al producir)", "gancho": "", "fuente": ""}; hi += 1
             piezas.append({"id": f"{perfil['id']}-{d:%Y%m%d}-S", "fecha": d.isoformat(), "hora": plan["hora_shorts"], "tipo": "short", "origen": "historia", "historia_id": h["id"],
                            "titulo": h["titulo"], "gancho": h.get("gancho", ""), "fuente_historia": h.get("fuente", ""), "referencia_video_id": "",
                            "tipo_contenido": "atraccion", "nivel": nivel_para(canal, "atraccion"), "visual": "broll", "estado": "planificado"})
@@ -166,7 +167,7 @@ def main():
     desde = dt.date.fromisoformat(a.desde or plan["desde"]); hasta = dt.date.fromisoformat(a.hasta or plan["hasta"])
     semanas = max((hasta - desde).days / 7, 1)
     n_largos = round(plan["largos_semana"] * semanas)
-    n_series = max(math.ceil(n_largos / 6), 1)
+    n_series = math.ceil(n_largos / 6)          # 0 largos → ninguna serie ni Shorts derivados
     n_shorts = round(plan["shorts_semana"] * semanas)
     n_shorts_radar = max(round(n_shorts * 0.6), 4)
     top = radar_top(a.perfil)

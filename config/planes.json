@@ -129,7 +129,8 @@
    "horas_actuales": 0,
    "modo_largo": "broll",
    "historias_semana": 7,
-   "rostro_semana": 1
+   "rostro_semana": 1,
+   "solo_historias": true
   }
  }
 }

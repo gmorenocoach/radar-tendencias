@@ -8,7 +8,7 @@ Cola de producción: toma del plan las piezas (largos y shorts) que se publican 
 Actualiza en planes/<perfil>.json el estado de cada pieza: planificado → produciendo → producido (con produccion_id) o error.
 """
 import argparse, datetime as dt, json, subprocess, sys, time
-from .comun import ROOT, guardar_json
+from .comun import ROOT, guardar_json, canal_de
 
 PLANES = ROOT / "planes"
 
@@ -35,6 +35,13 @@ def producir(pieza, plan):
     if pieza.get("nivel"):
         cmd += ["--nivel", pieza["nivel"]]
     vid = (pieza.get("referencia_video_id") or "").strip()
+    if pieza.get("origen") == "historia" and not pieza.get("historia_id"):
+        from . import historias as mod_historias
+        usadas_en_plan = {x.get("historia_id") for x in plan.get("piezas", []) if x.get("historia_id")}
+        libres = [h for h in mod_historias.disponibles(canal_de(perfil), 50) if h["id"] not in usadas_en_plan]
+        if not libres:
+            raise RuntimeError("sin historias disponibles en el banco (se reponen solas en la próxima corrida)")
+        pieza["historia_id"] = libres[0]["id"]; pieza["titulo"] = libres[0]["titulo"]; pieza["fuente_historia"] = libres[0].get("fuente", "")
     if pieza.get("historia_id"):
         cmd += ["--historia", pieza["historia_id"]]
     elif len(vid) == 11:
