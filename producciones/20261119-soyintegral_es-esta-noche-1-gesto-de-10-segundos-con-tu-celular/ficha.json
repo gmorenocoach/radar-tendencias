@@ -1,0 +1,51 @@
+{
+ "fuente": {
+  "tema": "Prueba esto esta noche con tu celular. Gancho: Un gesto de 10 segundos con tu teléfono y mañana notas la diferencia. Te cuento cuál.. Serie: Las 6 cartas que tu cuerpo lleva meses mandándote, capítulo 1"
+ },
+ "adn": {
+  "tema_central": "Un gesto de 10 segundos con el celular antes de dormir que tu cuerpo agradece al día siguiente: capítulo 1 de la serie 'Las 6 cartas que tu cuerpo lleva meses mandándote'",
+  "promesa_del_titulo": "Con un solo gesto de 10 segundos con tu teléfono esta noche, mañana notas la diferencia en tu cuerpo y te revelo cuál es.",
+  "gancho_primeros_segundos": "Tu celular te está robando el sueño... pero hay un gesto de 10 segundos con ese mismo teléfono que hace justo lo contrario. Pruébalo esta noche y mañana me cuentas. Te enseño cuál, pero quédate hasta el final, porque es la primera de 6 cartas que tu cuerpo lleva meses mandándote.",
+  "tipo_de_gancho": "Contradicción + curiosidad con promesa inmediata (el enemigo del sueño convertido en aliado) y bucle abierto: se revela 'cuál' solo al final",
+  "estructura": [
+   "0-3s: Gancho de contradicción: 'Tu celular arruina tu sueño... salvo por este gesto de 10 segundos'",
+   "3-8s: Presentación de la serie: 'Carta 1 de 6 que tu cuerpo lleva meses mandándote' (rótulo en pantalla con sobre/carta)",
+   "8-14s: Señal del cuerpo: describir en 1-2 frases la 'carta' (el síntoma cotidiano que la mayoría ignora: ojos cansados, cuello tenso, despertar sin energía)",
+   "14-40s: Demostración del gesto paso a paso en 3 pasos cortos con cuenta visible de 10 segundos (ej.: activar modo nocturno/luz cálida, bajar brillo al mínimo, dejar el teléfono boca abajo fuera del alcance de la mano o programar la alarma lejos de la cama)",
+   "40-50s: Qué vas a notar mañana (resultado concreto y creíble, sin exagerar) y por qué ocurre en una sola frase",
+   "50-58s: Cierre con reto: 'Hazlo esta noche y escríbeme en comentarios cómo despertaste mañana'",
+   "58-60s: Teaser del capítulo 2: 'Mañana te abro la carta 2'"
+  ],
+  "ritmo": "Rápido: cortes cada 2-3 segundos, texto en pantalla grande, contador visual de 10 segundos durante la demo, una sola idea por plano, sin pausas muertas; duración total 45-58 segundos para favorecer retención y reproducción en bucle",
+  "tono": "Cercano, directo y cómplice, como un amigo que te susurra un truco útil; calmado pero con urgencia suave ('esta noche'); sin tecnicismos médicos ni alarmismo",
+  "cta_final": "Hazlo esta noche y mañana cuéntame en los comentarios qué notaste. Suscríbete para no perderte la carta 2 de las 6 que tu cuerpo lleva meses mandándote.",
+  "formula_del_titulo": "Reto temporal ('esta noche') + gesto mínimo (10 segundos) + resultado prometido (mañana) + bucle de curiosidad (te cuento cuál) + marca de serie",
+  "titulo_con_numero": "Prueba esto esta noche: 1 gesto de 10 segundos con tu celular (Carta 1 de 6)",
+  "palabras_clave": [
+   "celular",
+   "esta noche",
+   "10 segundos",
+   "dormir mejor",
+   "truco",
+   "gesto",
+   "cuerpo",
+   "señales del cuerpo",
+   "rutina nocturna",
+   "reto",
+   "serie",
+   "carta 1"
+  ],
+  "emocion_dominante": "Curiosidad con intriga leve, más la sensación de 'es tan fácil que no pierdo nada por probarlo'",
+  "formula_miniatura": "Primer plano de una mano sosteniendo un celular con la pantalla cálida y oscura sobre fondo de dormitorio nocturno; sobre de carta o sello rojo con el número '1/6'; texto grande de máximo 3 palabras ('10 SEGUNDOS' o 'ESTA NOCHE'); un signo de interrogación o flecha señalando el gesto sin revelarlo; alto contraste entre azul noche y amarillo/naranja",
+  "por_que_funciona": "Combina un bucle abierto (nunca dices cuál es el gesto hasta la mitad), una fricción casi nula (10 segundos, solo necesitas tu celular), un reto con plazo cercano (esta noche) y recompensa verificable al día siguiente, lo que genera comentarios de seguimiento. El formato de serie numerada ('carta 1 de 6') crea expectativa y motiva suscripción y regreso. El uso del celular como tema es universal y la contradicción (el culpable convertido en herramienta) rompe el patrón de scroll.",
+  "riesgos_a_evitar": [
+   "Prometer curas o resultados médicos garantizados: formular como 'puedes notar' y no como diagnóstico",
+   "Retrasar demasiado la revelación del gesto: si pasa de ~15 segundos sin pista, cae la retención",
+   "Hacer clickbait vacío: el gesto debe ser real, simple y entregarse con claridad",
+   "Cargar el vídeo de explicación científica: una frase de 'por qué', no un tratado",
+   "Tono alarmista sobre el celular o la salud que provoque rechazo o reportes",
+   "No dejar claro el nombre y número de la serie en pantalla desde el inicio",
+   "Gesto que requiera materiales o condiciones extra, rompiendo la promesa de '10 segundos con tu teléfono'"
+  ]
+ }
+}

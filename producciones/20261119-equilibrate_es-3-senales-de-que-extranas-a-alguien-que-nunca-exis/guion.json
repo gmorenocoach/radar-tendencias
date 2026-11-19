@@ -1,0 +1,126 @@
+{
+ "titulo": "3 señales de que extrañas a alguien que nunca existió",
+ "titulos_alternativos": [
+  "Extrañas a una persona que solo existió en tu cabeza",
+  "Por qué extrañas lo que imaginaste (y cómo soltarlo)"
+ ],
+ "descripcion": "A veces no extrañas a la persona: extrañas lo que imaginaste que podía ser. 3 señales para reconocer la idealización en el amor, entender tu duelo amoroso y empezar a soltar sin culpa, volviendo a ti. Capítulo 5 de La Taza Derramada. El video completo está en el canal. Haz el reto de hoy y cuéntame tu palabra en comentarios.",
+ "hashtags": [
+  "#amorpropio",
+  "#duelo",
+  "#soltar",
+  "#extrañar",
+  "#idealizacion",
+  "#LaTazaDerramada",
+  "#Equilibrate",
+  "#Germancho"
+ ],
+ "miniatura": {
+  "texto": "NUNCA EXISTIÓ",
+  "emocion": "tristeza",
+  "objeto": "taza derramada",
+  "pose": "triste_acostado"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "A veces no extrañas a la persona. Extrañas lo que imaginaste que podía ser.",
+   "emocion": "tristeza",
+   "objeto": "taza derramada",
+   "pose": "letrero",
+   "prompt_visual": "close-up of Germancho cartoon holding a sign, spilled coffee cup beside him, warm dark background, big text NOT THEM",
+   "broll": "person staring window sadness",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: sad, drooping eyes; holding up a blank sign board; close-up of Germancho cartoon holding a sign, spilled coffee cup beside him, warm dark background, big text NOT THEM; the taza derramada is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Por eso duele tanto. Estás de luto por alguien que nunca existió.",
+   "emocion": "tristeza",
+   "objeto": "silueta fantasma",
+   "pose": "triste_acostado",
+   "prompt_visual": "Germancho lying down sad next to a faint ghost silhouette of another person, warm tones",
+   "broll": "empty chair sunset",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: sad, drooping eyes; lying on the floor, sad; Germancho lying down sad next to a faint ghost silhouette of another person, warm tones; the silueta fantasma is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Primera señal: extrañas lo que ibas a ser, no lo que fue.",
+   "emocion": "sorpresa",
+   "objeto": "agenda de planes",
+   "pose": "senalando",
+   "prompt_visual": "Germancho pointing at a notebook full of crossed future plans, coffee steam rising",
+   "broll": "writing notebook planning",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: surprised, round eyes and open mouth; pointing forward with one long finger; Germancho pointing at a notebook full of crossed future plans, coffee steam rising; the agenda de planes is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Segunda: recuerdas más tus planes que sus actos. Y tercera: la versión que lloras es mejor que la real.",
+   "emocion": "tristeza",
+   "objeto": "dos tazas distintas",
+   "pose": "butaco_tazas",
+   "prompt_visual": "Germancho sitting on a stool with two cups, one golden and glowing, one plain and chipped",
+   "broll": "two coffee cups table",
+   "segundos": 11,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: sad, drooping eyes; sitting on a wooden stool; Germancho sitting on a stool with two cups, one golden and glowing, one plain and chipped; the dos tazas distintas is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Pero mira esto: si lo imaginaste tú, puedes soltarlo tú.",
+   "emocion": "alegria",
+   "objeto": "taza humeante",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "Germancho with arms open, relieved smile, light warm glow, steaming cup in front",
+   "broll": "person exhaling relief sunrise",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; arms wide open; Germancho with arms open, relieved smile, light warm glow, steaming cup in front; the taza humeante is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "No necesitas que vuelva para cerrar la historia. Cierras tú, a tu ritmo.",
+   "emocion": "alegria",
+   "objeto": "cuaderno cerrado",
+   "pose": "saludando",
+   "prompt_visual": "Germancho calmly closing a notebook, peaceful expression, soft morning light",
+   "broll": "closing notebook hands",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; standing and waving; Germancho calmly closing a notebook, peaceful expression, soft morning light; the cuaderno cerrado is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: escribe «Lo que imaginé fue...» y «Lo que realmente pasó fue...». Una frase cada una. Dime en comentarios la palabra que más te dolió soltar.",
+   "emocion": "alegria",
+   "objeto": "cuaderno y lápiz",
+   "pose": "agachado",
+   "prompt_visual": "Germancho crouching writing two lines in a notebook, pencil, cozy cafe table",
+   "broll": "hand writing notebook cafe",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; bent over looking down; Germancho crouching writing two lines in a notebook, pencil, cozy cafe table; the cuaderno y lápiz is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 8,
+   "texto": "El video completo está en el canal, y mañana llega el capítulo 6. Suscríbete: mañana hay otro reto.",
+   "emocion": "alegria",
+   "objeto": "taza con vapor",
+   "pose": "saludando",
+   "prompt_visual": "Germancho waving goodbye holding a steaming cup, text Cap. 6 coming tomorrow",
+   "broll": "coffee steam morning",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; standing and waving; Germancho waving goodbye holding a steaming cup, text Cap. 6 coming tomorrow; the taza con vapor is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "Escribe en una nota «Lo que imaginé fue...» y «Lo que realmente pasó fue...», una frase cada una (menos de 5 minutos), y comparte en comentarios la palabra que más te dolió soltar.",
+ "ganchos_alternativos": [
+  "¿Y si lo que te duele no es que se fue, sino que nunca fue como lo soñaste? A veces el vacío es de una versión imaginada.",
+  "Dato que nadie te dice: a veces lloras a alguien que solo existió en tu cabeza. No es que estés loca o loco; es que lo imaginaste muy bonito.",
+  "Una vez lloré meses por alguien. Un día me di cuenta de que no lloraba a esa persona, sino a todo lo que yo había imaginado de ella."
+ ],
+ "palabras": 126,
+ "canal": "equilibrate",
+ "color": "#E8705F",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "visual": "ilustracion"
+}

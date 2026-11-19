@@ -1,0 +1,54 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.80,Sub,,0,0,0,,{\k15}A {\k46}VECES {\k19}NO
+Dialogue: 0,0:00:00.80,0:00:01.59,Sub,,0,0,0,,{\k61}EXTRAÑAS {\k6}A {\k12}LA
+Dialogue: 0,0:00:01.59,0:00:03.41,Sub,,0,0,0,,{\k88}PERSONA. {\k81}EXTRAÑAS {\k13}LO
+Dialogue: 0,0:00:03.41,0:00:04.39,Sub,,0,0,0,,{\k12}QUE {\k72}IMAGINASTE {\k14}QUE
+Dialogue: 0,0:00:04.39,0:00:05.86,Sub,,0,0,0,,{\k49}PODÍA {\k74}SER. {\k24}POR
+Dialogue: 0,0:00:05.86,0:00:06.98,Sub,,0,0,0,,{\k24}ESO {\k29}DUELE {\k58}TANTO.
+Dialogue: 0,0:00:06.98,0:00:07.87,Sub,,0,0,0,,{\k41}ESTÁS {\k12}DE {\k37}LUTO
+Dialogue: 0,0:00:07.87,0:00:08.64,Sub,,0,0,0,,{\k23}POR {\k33}ALGUIEN {\k21}QUE
+Dialogue: 0,0:00:08.64,0:00:10.53,Sub,,0,0,0,,{\k35}NUNCA {\k113}EXISTIÓ. {\k42}PRIMERA
+Dialogue: 0,0:00:10.53,0:00:12.16,Sub,,0,0,0,,{\k62}SEÑAL: {\k83}EXTRAÑAS {\k18}LO
+Dialogue: 0,0:00:12.16,0:00:12.81,Sub,,0,0,0,,{\k22}QUE {\k35}IBAS {\k8}A
+Dialogue: 0,0:00:12.81,0:00:13.84,Sub,,0,0,0,,{\k60}SER, {\k28}NO {\k15}LO
+Dialogue: 0,0:00:13.84,0:00:15.72,Sub,,0,0,0,,{\k15}QUE {\k79}FUE. {\k94}SEGUNDA:
+Dialogue: 0,0:00:15.72,0:00:16.75,Sub,,0,0,0,,{\k56}RECUERDAS {\k27}MÁS {\k21}TUS
+Dialogue: 0,0:00:16.75,0:00:17.50,Sub,,0,0,0,,{\k41}PLANES {\k12}QUE {\k22}SUS
+Dialogue: 0,0:00:17.50,0:00:19.46,Sub,,0,0,0,,{\k87}ACTOS. {\k16}Y {\k93}TERCERA:
+Dialogue: 0,0:00:19.46,0:00:20.19,Sub,,0,0,0,,{\k14}LA {\k48}VERSIÓN {\k12}QUE
+Dialogue: 0,0:00:20.19,0:00:21.22,Sub,,0,0,0,,{\k48}LLORAS {\k20}ES {\k36}MEJOR
+Dialogue: 0,0:00:21.22,0:00:22.45,Sub,,0,0,0,,{\k13}QUE {\k14}LA {\k96}REAL.
+Dialogue: 0,0:00:22.45,0:00:23.60,Sub,,0,0,0,,{\k23}PERO {\k25}MIRA {\k66}ESTO:
+Dialogue: 0,0:00:23.60,0:00:24.55,Sub,,0,0,0,,{\k19}SI {\k9}LO {\k67}IMAGINASTE
+Dialogue: 0,0:00:24.55,0:00:26.03,Sub,,0,0,0,,{\k48}TÚ, {\k38}PUEDES {\k61}SOLTARLO
+Dialogue: 0,0:00:26.03,0:00:27.52,Sub,,0,0,0,,{\k72}TÚ. {\k19}NO {\k58}NECESITAS
+Dialogue: 0,0:00:27.52,0:00:28.19,Sub,,0,0,0,,{\k13}QUE {\k35}VUELVA {\k20}PARA
+Dialogue: 0,0:00:28.19,0:00:29.64,Sub,,0,0,0,,{\k38}CERRAR {\k8}LA {\k99}HISTORIA.
+Dialogue: 0,0:00:29.64,0:00:30.91,Sub,,0,0,0,,{\k59}CIERRAS {\k53}TÚ, {\k14}A
+Dialogue: 0,0:00:30.91,0:00:32.40,Sub,,0,0,0,,{\k20}TU {\k96}RITMO. {\k34}RETO
+Dialogue: 0,0:00:32.40,0:00:33.84,Sub,,0,0,0,,{\k12}DE {\k72}HOY: {\k60}ESCRIBE
+Dialogue: 0,0:00:33.84,0:00:34.81,Sub,,0,0,0,,{\k30}«LO {\k13}QUE {\k54}IMAGINÉ
+Dialogue: 0,0:00:34.81,0:00:36.33,Sub,,0,0,0,,{\k74}FUE...» {\k38}Y {\k39}«LO
+Dialogue: 0,0:00:36.33,0:00:37.71,Sub,,0,0,0,,{\k21}QUE {\k73}REALMENTE {\k44}PASÓ
+Dialogue: 0,0:00:37.71,0:00:39.11,Sub,,0,0,0,,{\k71}FUE...». {\k31}UNA {\k38}FRASE
+Dialogue: 0,0:00:39.11,0:00:40.43,Sub,,0,0,0,,{\k33}CADA {\k67}UNA. {\k31}DIME
+Dialogue: 0,0:00:40.43,0:00:41.42,Sub,,0,0,0,,{\k14}EN {\k73}COMENTARIOS {\k13}LA
+Dialogue: 0,0:00:41.42,0:00:42.32,Sub,,0,0,0,,{\k41}PALABRA {\k21}QUE {\k28}MÁS
+Dialogue: 0,0:00:42.32,0:00:43.71,Sub,,0,0,0,,{\k12}TE {\k34}DOLIÓ {\k94}SOLTAR.
+Dialogue: 0,0:00:43.71,0:00:44.95,Sub,,0,0,0,,{\k21}EL {\k42}VIDEO {\k62}COMPLETO
+Dialogue: 0,0:00:44.95,0:00:45.53,Sub,,0,0,0,,{\k35}ESTÁ {\k12}EN {\k12}EL
+Dialogue: 0,0:00:45.53,0:00:46.75,Sub,,0,0,0,,{\k60}CANAL, {\k15}Y {\k46}MAÑANA
+Dialogue: 0,0:00:46.75,0:00:47.90,Sub,,0,0,0,,{\k41}LLEGA {\k12}EL {\k63}CAPÍTULO
+Dialogue: 0,0:00:47.90,0:00:50.71,Sub,,0,0,0,,{\k95}6. {\k120}SUSCRÍBETE: {\k66}MAÑANA
+Dialogue: 0,0:00:50.71,0:00:52.52,Sub,,0,0,0,,{\k44}HAY {\k48}OTRO {\k89}RETO.

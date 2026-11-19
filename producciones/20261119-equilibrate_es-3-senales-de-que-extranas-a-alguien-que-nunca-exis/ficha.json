@@ -1,0 +1,49 @@
+{
+ "fuente": {
+  "tema": "Extrañas a alguien que nunca existió. Gancho: A veces no extrañas a la persona. Extrañas lo que imaginaste que podía ser. Y eso se puede soltar.. Serie: La Taza Derramada: 6 capítulos para amar sin perderte, capítulo 5"
+ },
+ "adn": {
+  "tema_central": "Extrañar a alguien que nunca existió: cuando lo que duele no es la persona real sino la versión idealizada que imaginaste, y cómo soltar esa fantasía para dejar de sufrir (Capítulo 5 de la serie 'La Taza Derramada: 6 capítulos para amar sin perderte')",
+  "promesa_del_titulo": "Entender por qué extrañas a alguien que en realidad nunca fue así, y descubrir que soltar esa ilusión es posible y más liviano de lo que crees",
+  "gancho_primeros_segundos": "A veces no extrañas a la persona. (pausa de medio segundo) Extrañas lo que imaginaste que podía ser. Texto en pantalla grande: 'NO LO EXTRAÑAS A ÉL/ELLA'. Primer plano directo a cámara, sin saludo ni introducción.",
+  "tipo_de_gancho": "Contradicción emocional (te dice que lo que sientes no es lo que crees), con revelación inmediata que genera identificación y curiosidad por el 'cómo se suelta'",
+  "estructura": [
+   "0-3s | Gancho: 'A veces no extrañas a la persona. Extrañas lo que imaginaste que podía ser.'",
+   "3-10s | Validación: 'Y por eso duele tanto: estás de luto por alguien que nunca existió.'",
+   "10-30s | Lista corta de 3 señales: 1) Extrañas lo que ibas a ser, no lo que fue. 2) Recuerdas más tus planes que sus actos. 3) La versión que lloras es mejor que la real.",
+   "30-45s | Giro de alivio: 'Si lo imaginaste tú, puedes soltarlo tú. No necesitas que vuelva para cerrar la historia.'",
+   "45-55s | Mini ejercicio: escribe en una frase 'Lo que imaginé fue...' y 'Lo que realmente pasó fue...'",
+   "55-60s | Cierre con reto y enganche de serie hacia el capítulo 6"
+  ],
+  "ritmo": "Rápido y limpio: frases de 4-8 palabras, corte o cambio de plano cada 2-3 segundos, subtítulos dinámicos sincronizados, una pausa breve y deliberada antes de la frase de giro para dar peso emocional. Duración objetivo 45-60s con final que invite a rewatch.",
+  "tono": "Íntimo, sereno y compasivo, como una amiga sabia que habla bajito y sin juzgar. Cero dramatismo exagerado; firmeza suave y esperanzadora.",
+  "cta_final": "Reto: 'Hoy escribe en una nota qué era exactamente lo que imaginaste, y dime en comentarios la palabra que más te dolió soltar. Mañana, capítulo 6 de La Taza Derramada: no te lo pierdas.'",
+  "formula_del_titulo": "Contradicción emocional + número + promesa de alivio (Dejas de extrañar a [persona] cuando entiendes [revelación] + 3 señales + 'y se puede soltar')",
+  "titulo_con_numero": "3 señales de que extrañas a alguien que nunca existió (y cómo soltarlo)",
+  "palabras_clave": [
+   "extrañar a alguien",
+   "extrañas lo que imaginaste",
+   "soltar a alguien",
+   "idealización en el amor",
+   "superar a una persona",
+   "duelo amoroso",
+   "dejar de extrañar",
+   "apego emocional",
+   "amar sin perderte",
+   "La Taza Derramada"
+  ],
+  "emocion_dominante": "Nostalgia agridulce que se transforma en alivio y esperanza (reconocimiento → comprensión → liberación)",
+  "formula_miniatura": "Rostro en primer plano con expresión pensativa, mirando a un lado; mitad de la imagen nítida y mitad desenfocada/silueta fantasma de otra persona. Texto grande de máximo 4 palabras: 'NUNCA EXISTIÓ'. Paleta cálida con contraste (fondo oscuro, texto amarillo/blanco). Pequeño sello de serie 'Cap. 5'.",
+  "por_que_funciona": "Reencuadra el dolor sin culpar a nadie y le da al espectador una explicación nueva y liberadora ('no lo extraño a él, extraño mi fantasía'). El gancho de contradicción provoca identificación inmediata, la lista corta es fácil de retener y compartir, el ejercicio y el reto generan comentarios, y la numeración de capítulo fomenta el binge de la serie y la suscripción. Tema universal con alta búsqueda recurrente.",
+  "riesgos_a_evitar": [
+   "Sonar a coach o a sermón: evitar frases como 'tienes que soltar ya'",
+   "Minimizar el dolor real de quien está de duelo o invalidar relaciones donde sí hubo persona y vínculo auténtico",
+   "Prometer curación instantánea o dar tono de terapia profesional sin aclararlo",
+   "Intro larga, logo o saludo antes del gancho",
+   "Exceso de texto en pantalla que compita con la voz",
+   "Generalizar con 'siempre'/'todos'; usar 'a veces' para mantener empatía",
+   "No cerrar el loop del gancho: la resolución debe llegar antes del final",
+   "Olvidar mencionar la serie y el capítulo, perdiendo retención entre episodios"
+  ]
+ }
+}

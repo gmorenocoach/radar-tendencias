@@ -459,7 +459,10 @@
    "titulo": "Prueba esto esta noche con tu celular",
    "gancho": "Un gesto de 10 segundos con tu teléfono y mañana notas la diferencia. Te cuento cuál.",
    "referencia_video_id": "",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261119-soyintegral_es-esta-noche-1-gesto-de-10-segundos-con-tu-celular",
+   "resultado": "ok 181s",
+   "producido_en": "2026-11-19T18:47:56"
   },
   {
    "id": "soyintegral_es-20261123-C",

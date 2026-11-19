@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00578B2E,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.88,Sub,,0,0,0,,{\k22}TU {\k53}CELULAR {\k13}TE
+Dialogue: 0,0:00:00.88,0:00:01.89,Sub,,0,0,0,,{\k35}ESTÁ {\k53}ROBANDO {\k13}EL
+Dialogue: 0,0:00:01.89,0:00:03.31,Sub,,0,0,0,,{\k78}SUEÑO... {\k41}PERO {\k23}HAY
+Dialogue: 0,0:00:03.31,0:00:03.97,Sub,,0,0,0,,{\k12}UN {\k40}GESTO {\k15}DE
+Dialogue: 0,0:00:03.97,0:00:05.14,Sub,,0,0,0,,{\k28}10 {\k70}SEGUNDOS {\k20}CON
+Dialogue: 0,0:00:05.14,0:00:06.55,Sub,,0,0,0,,{\k31}ESE {\k39}MISMO {\k70}TELÉFONO
+Dialogue: 0,0:00:06.55,0:00:07.62,Sub,,0,0,0,,{\k16}QUE {\k38}HACE {\k52}JUSTO
+Dialogue: 0,0:00:07.62,0:00:09.37,Sub,,0,0,0,,{\k14}LO {\k116}CONTRARIO. {\k45}SOY
+Dialogue: 0,0:00:09.37,0:00:10.69,Sub,,0,0,0,,{\k99}GERMANCHO, {\k12}Y {\k22}HOY
+Dialogue: 0,0:00:10.69,0:00:11.34,Sub,,0,0,0,,{\k16}TE {\k34}ABRO {\k15}LA
+Dialogue: 0,0:00:11.34,0:00:12.47,Sub,,0,0,0,,{\k57}CARTA {\k38}1 {\k17}DE
+Dialogue: 0,0:00:12.47,0:00:14.06,Sub,,0,0,0,,{\k93}6: {\k20}LAS {\k46}CARTAS
+Dialogue: 0,0:00:14.06,0:00:14.74,Sub,,0,0,0,,{\k13}QUE {\k13}TU {\k43}CUERPO
+Dialogue: 0,0:00:14.74,0:00:17.08,Sub,,0,0,0,,{\k58}LLEVA {\k56}MESES {\k120}MANDÁNDOTE.
+Dialogue: 0,0:00:17.08,0:00:18.12,Sub,,0,0,0,,{\k60}QUÉDATE {\k31}HASTA {\k13}EL
+Dialogue: 0,0:00:18.12,0:00:19.13,Sub,,0,0,0,,{\k60}FINAL {\k28}Y {\k13}TE
+Dialogue: 0,0:00:19.13,0:00:20.10,Sub,,0,0,0,,{\k50}CUENTO {\k35}CUÁL {\k12}ES
+Dialogue: 0,0:00:20.10,0:00:21.26,Sub,,0,0,0,,{\k12}EL {\k74}GESTO. {\k30}¿LA
+Dialogue: 0,0:00:21.26,0:00:22.45,Sub,,0,0,0,,{\k37}CARTA {\k12}DE {\k71}HOY?
+Dialogue: 0,0:00:22.45,0:00:24.09,Sub,,0,0,0,,{\k36}OJOS {\k85}CANSADOS, {\k43}CUELLO
+Dialogue: 0,0:00:24.09,0:00:25.74,Sub,,0,0,0,,{\k77}TENSO, {\k70}DESPERTAR {\k19}SIN
+Dialogue: 0,0:00:25.74,0:00:27.81,Sub,,0,0,0,,{\k113}ENERGÍA. {\k31}ESE {\k63}CANSANCIO
+Dialogue: 0,0:00:27.81,0:00:28.43,Sub,,0,0,0,,{\k18}QUE {\k19}YA {\k26}DAS
+Dialogue: 0,0:00:28.43,0:00:29.85,Sub,,0,0,0,,{\k18}POR {\k74}NORMAL... {\k49}TAMBIÉN
+Dialogue: 0,0:00:29.85,0:00:31.15,Sub,,0,0,0,,{\k15}ES {\k9}UN {\k106}MENSAJE.
+Dialogue: 0,0:00:31.15,0:00:32.67,Sub,,0,0,0,,{\k41}PASO {\k65}UNO: {\k46}ACTIVA
+Dialogue: 0,0:00:32.67,0:00:33.66,Sub,,0,0,0,,{\k14}EL {\k27}MODO {\k58}NOCTURNO
+Dialogue: 0,0:00:33.66,0:00:34.15,Sub,,0,0,0,,{\k12}O {\k13}LA {\k24}LUZ
+Dialogue: 0,0:00:34.15,0:00:36.33,Sub,,0,0,0,,{\k92}CÁLIDA. {\k41}CUENTA {\k86}CONMIGO:
+Dialogue: 0,0:00:36.33,0:00:38.60,Sub,,0,0,0,,{\k65}UNO, {\k71}DOS, {\k92}TRES.
+Dialogue: 0,0:00:38.60,0:00:39.94,Sub,,0,0,0,,{\k37}PASO {\k60}DOS: {\k36}BAJA
+Dialogue: 0,0:00:39.94,0:00:40.52,Sub,,0,0,0,,{\k12}EL {\k35}BRILLO {\k12}AL
+Dialogue: 0,0:00:40.52,0:00:42.82,Sub,,0,0,0,,{\k77}MÍNIMO. {\k73}CUATRO, {\k80}CINCO,
+Dialogue: 0,0:00:42.82,0:00:44.48,Sub,,0,0,0,,{\k77}SEIS. {\k31}PASO {\k58}TRES:
+Dialogue: 0,0:00:44.48,0:00:45.36,Sub,,0,0,0,,{\k30}DEJA {\k13}EL {\k45}TELÉFONO
+Dialogue: 0,0:00:45.36,0:00:46.75,Sub,,0,0,0,,{\k22}BOCA {\k72}ABAJO, {\k45}LEJOS
+Dialogue: 0,0:00:46.75,0:00:47.54,Sub,,0,0,0,,{\k10}DE {\k14}TU {\k55}MANO.
+Dialogue: 0,0:00:47.54,0:00:49.77,Sub,,0,0,0,,{\k79}SIETE, {\k71}OCHO, {\k73}NUEVE,
+Dialogue: 0,0:00:49.77,0:00:51.58,Sub,,0,0,0,,{\k85}DIEZ. {\k65}LISTO. {\k31}¿QUÉ
+Dialogue: 0,0:00:51.58,0:00:53.00,Sub,,0,0,0,,{\k37}PUEDES {\k33}NOTAR {\k72}MAÑANA?
+Dialogue: 0,0:00:53.00,0:00:53.80,Sub,,0,0,0,,{\k15}QUE {\k34}CUESTA {\k31}MENOS
+Dialogue: 0,0:00:53.80,0:00:54.62,Sub,,0,0,0,,{\k64}DESCONECTAR {\k8}Y {\k11}QUE
+Dialogue: 0,0:00:54.62,0:00:55.41,Sub,,0,0,0,,{\k57}DESPIERTAS {\k12}CON {\k10}LA
+Dialogue: 0,0:00:55.41,0:00:57.00,Sub,,0,0,0,,{\k41}CABEZA {\k16}MÁS {\k102}TRANQUILA.
+Dialogue: 0,0:00:57.00,0:00:58.09,Sub,,0,0,0,,{\k37}MENOS {\k52}LUZ {\k20}Y
+Dialogue: 0,0:00:58.09,0:00:59.76,Sub,,0,0,0,,{\k28}MENOS {\k120}TENTACIÓN: {\k19}TU
+Dialogue: 0,0:00:59.76,0:01:00.72,Sub,,0,0,0,,{\k45}MENTE {\k37}BAJA {\k14}EL
+Dialogue: 0,0:01:00.72,0:01:02.12,Sub,,0,0,0,,{\k95}RITMO. {\k33}RETO {\k13}DE
+Dialogue: 0,0:01:02.12,0:01:03.27,Sub,,0,0,0,,{\k75}HOY: {\k26}HAZ {\k14}EL
+Dialogue: 0,0:01:03.27,0:01:04.45,Sub,,0,0,0,,{\k42}GESTO {\k26}ESTA {\k50}NOCHE
+Dialogue: 0,0:01:04.45,0:01:05.68,Sub,,0,0,0,,{\k15}Y {\k49}MAÑANA {\k59}ESCRÍBEME
+Dialogue: 0,0:01:05.68,0:01:06.71,Sub,,0,0,0,,{\k9}EN {\k16}LOS {\k78}COMENTARIOS
+Dialogue: 0,0:01:06.71,0:01:09.09,Sub,,0,0,0,,{\k40}CÓMO {\k147}DESPERTASTE. {\k51}ESTO
+Dialogue: 0,0:01:09.09,0:01:09.90,Sub,,0,0,0,,{\k21}NO {\k48}REEMPLAZA {\k13}AL
+Dialogue: 0,0:01:09.90,0:01:10.62,Sub,,0,0,0,,{\k42}MÉDICO {\k15}SI {\k15}TU
+Dialogue: 0,0:01:10.62,0:01:12.07,Sub,,0,0,0,,{\k34}SUEÑO {\k12}TE {\k100}PREOCUPA.
+Dialogue: 0,0:01:12.07,0:01:13.19,Sub,,0,0,0,,{\k17}EL {\k32}VIDEO {\k62}COMPLETO
+Dialogue: 0,0:01:13.19,0:01:13.89,Sub,,0,0,0,,{\k46}ESTÁ {\k12}EN {\k12}EL
+Dialogue: 0,0:01:13.89,0:01:16.39,Sub,,0,0,0,,{\k82}CANAL. {\k116}SUSCRÍBETE: {\k52}MAÑANA
+Dialogue: 0,0:01:16.39,0:01:16.95,Sub,,0,0,0,,{\k17}TE {\k27}ABRO {\k12}LA
+Dialogue: 0,0:01:16.95,0:01:17.88,Sub,,0,0,0,,{\k35}CARTA {\k58}2.
