@@ -41,6 +41,7 @@
    "desde": "2026-11-20",
    "hasta": "2027-03-31",
    "generado": "2026-11-19T20:02:11",
+   "series": null,
    "vivos": [
     {
      "titulo": "Café con historias: la conversación que sigues aplazando",
@@ -303,6 +304,7 @@
     "nutricion": 56,
     "conversion": 12
    },
+   "piezas": null,
    "proyeccion": {
     "semanas": 18.7,
     "largos": 0,
@@ -366,203 +368,221 @@
    },
    "desde": "2026-11-20",
    "hasta": "2027-01-31",
-   "generado": "2026-11-19T19:57:59",
+   "generado": "2026-11-19T20:06:57",
+   "series": null,
    "vivos": [
     {
-     "titulo": "Café con Germancho: ¿a quién sigues esperando?",
-     "pregunta_abierta": "¿Hay alguien o algo que sigues esperando que cambie? Cuéntalo en el chat sin nombres.",
-     "reto_colectivo": "Escribir en un cuaderno una frase que empiece con: Hoy dejo de esperar que..., y leerla en voz alta al final del vivo."
+     "titulo": "Café y charla: ¿cómo amas cuando nadie te ve?",
+     "pregunta_abierta": "¿Qué parte de ti dejas de mostrar cuando estás en pareja?",
+     "reto_colectivo": "Durante el vivo, cada uno escribe en su cuaderno una cosa que quiere volver a mostrar y la comparte en el chat."
     },
     {
-     "titulo": "Ponerte primero sin sentirte culpable",
-     "pregunta_abierta": "¿Cuál fue la última vez que dijiste sí queriendo decir no? Cuéntanos qué pasó.",
-     "reto_colectivo": "Durante 7 días, decir no a una sola cosa pequeña al día y compartir cómo se sintió en la comunidad."
+     "titulo": "Volver a ti después de una relación",
+     "pregunta_abierta": "¿Qué fue lo primero que te devolviste cuando terminó algo importante?",
+     "reto_colectivo": "Durante siete días, cada uno hace una cosa pequeña solo para sí y cuenta cómo le fue en la comunidad."
     },
     {
-     "titulo": "Cuando la familia pesa: vínculos que cuidan y vínculos que cansan",
-     "pregunta_abierta": "¿Qué vínculo familiar te gustaría que se sintiera más ligero? ¿Qué sería diferente?",
-     "reto_colectivo": "Escribir un mensaje corto y honesto a un familiar, sin enviarlo todavía, y decidir en 24 horas si hoy es el día."
+     "titulo": "Mesa de familia: la frase que nos cuesta decir",
+     "pregunta_abierta": "¿Qué frase te gustaría escuchar en casa y qué frase quisieras dejar de decir?",
+     "reto_colectivo": "Esta semana cada persona dice en casa una frase buena que normalmente se guarda."
     },
     {
-     "titulo": "Soltar sin rencor: ¿qué estás cargando todavía?",
-     "pregunta_abierta": "¿Qué relación del pasado sigue ocupando espacio en tu cabeza sin que le hayas dado permiso?",
-     "reto_colectivo": "Escribir en un papel lo que sigues cargando, leerlo en voz alta y romperlo con ganas, con testigos en el chat."
+     "titulo": "¿Paz o intensidad? Qué estás llamando amor",
+     "pregunta_abierta": "¿Tu relación actual te da calma, adrenalina o las dos? ¿Cuál prefieres?",
+     "reto_colectivo": "Cada quien se pone una nota del 1 al 10 en calma emocional y la comparte con el chat, sin dar nombres."
     },
     {
-     "titulo": "Lo que tus abuelos y tus padres te enseñaron del amor (sin querer)",
-     "pregunta_abierta": "¿Qué frase o gesto de tu familia te marcó en cómo amas hoy, para bien o para mal?",
-     "reto_colectivo": "Elegir una enseñanza heredada que quieras conservar y otra que quieras soltar, y comentarlas en el chat."
+     "titulo": "Límites sin culpa: ensayemos juntos",
+     "pregunta_abierta": "¿Qué límite te cuesta poner y con quién?",
+     "reto_colectivo": "Practicamos en voz alta una frase de límite y cada persona se compromete a usarla una vez esta semana."
     },
     {
-     "titulo": "Tu calma primero: cómo se ve una relación en paz",
-     "pregunta_abierta": "¿Cómo imaginas un día tranquilo con la persona que amas o amarás? Descríbelo con detalle.",
-     "reto_colectivo": "Elegir una costumbre pequeña que te acerque a esa calma y practicarla 5 días seguidos, reportando en la comunidad."
+     "titulo": "Carta a la persona que fuiste en tu peor relación",
+     "pregunta_abierta": "¿Qué le dirías hoy a esa versión tuya que aguantó de más?",
+     "reto_colectivo": "Escribimos juntos una carta corta durante el vivo; quien quiera comparte una línea en el chat."
     }
    ],
    "comunidad": [
     {
      "tipo": "encuesta",
-     "texto": "Personaliza tu Germancho: ¿qué tema de amor quieres que trate en el próximo short? Amor propio, pareja, familia o soltar."
+     "texto": "Personaliza tu Germancho: ¿sobre qué tema de amor quieres que hable en los próximos Shorts? A) Amor propio, B) Pareja, C) Familia, D) Cuando se termina algo."
+    },
+    {
+     "tipo": "reto",
+     "texto": "Reto de la semana: cada noche escribe una cosa que hiciste hoy para cuidarte. Una sola línea. El viernes la compartimos aquí."
+    },
+    {
+     "tipo": "pregunta",
+     "texto": "Si tu amor propio fuera una taza de café, ¿cómo la servirías hoy? Cuéntame en un comentario: amargo, con leche, frío o recién hecho."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Personaliza tu Germancho: ¿prefieres que te ponga el Reto de hoy en la mañana o en la noche? A) Mañana, B) Noche, C) Me da igual mientras lo haga."
+    },
+    {
+     "tipo": "reto",
+     "texto": "Reto de la semana: dile a una persona de tu familia algo bonito que normalmente te guardas. Sin explicar, sin esperar respuesta. Cuéntame cómo se sintió."
     }
    ],
    "conversion": [
     {
-     "titulo": "Qué pasa en la clase gratuita en vivo: 3 cosas",
-     "gancho": "Nadie te va a pedir que cuentes tu vida entera. Esto es lo que sí pasa cuando entras.",
-     "formato": "Short Germancho: tres escenas rápidas (te conectas, hacemos un ejercicio de 5 minutos, te llevas un reto). Cierre: Si quieres vivirlo, la clase gratuita en vivo está en el enlace. Y hoy, tu Reto: escribe en un cuaderno una sola pregunta que quieras traer."
+     "titulo": "Qué pasa en la clase gratuita en vivo (sin sorpresas)",
+     "gancho": "Si nunca has entrado a una clase mía, te cuento qué te espera antes de que decidas.",
+     "formato": "Short de Germancho 45 s: tres pasos de la clase (te sirvo un tema de amor, hacemos un ejercicio de 5 minutos, respondo preguntas en vivo). Cierre: Si te suena útil, el link a la clase gratuita está en el comentario fijado. Y si no, igual hoy haz tu Reto: escribe una cosa que necesitas de ti esta semana."
     },
     {
-     "titulo": "El reto de 7 días que cambió una conversación",
-     "gancho": "Una chica hizo un reto de 7 días y no cambió a su pareja. Cambió algo mejor.",
-     "formato": "Short de historia (personaje anónimo, sin cifras ni promesas): el reto fue dedicar 2 minutos diarios a nombrar lo que sentía antes de responder. Germancho cuenta qué notó ella, sin prometer resultados. Cierre: Si quieres el reto completo, te lo explico en la clase gratuita en vivo. Reto de hoy: nombra una emoción en una palabra."
+     "titulo": "Hizo el reto 7 días y esto contó (historia real)",
+     "gancho": "Alguien me escribió al día 7 y no era para decirme que todo estaba resuelto.",
+     "formato": "Short narrado 50 s, historia resumida y anónima: reto diario de escribirse un mensaje de apoyo en el cuaderno; al día 7 notó que dejó de pedirle a su pareja lo que podía darse sola. Sin promesas de resultado. Cierre: Si quieres hacer el reto con compañía, en la clase gratuita lo arrancamos juntos. Link en el comentario."
     },
     {
-     "titulo": "Así trabajo con la gente (sin darte sermones)",
-     "gancho": "Cuando alguien llega conmigo, no le doy consejos. Le sirvo una pregunta.",
-     "formato": "Short a modo de mini escena de barra de café: Germancho muestra la secuencia (escuchar, preguntar, un paso pequeño). Cierre: Así es la conversación en la clase gratuita en vivo; el enlace está abajo. Reto de hoy: hazte una pregunta incómoda pero amable."
+     "titulo": "Cómo trabajo con la gente: 3 pasos sin recetas",
+     "gancho": "Nadie sale de mi mesa con una receta para que el otro cambie. Te explico qué hacemos en cambio.",
+     "formato": "Short explicativo 55 s con metáfora de barista: primero miramos qué hay en la taza (qué sientes), luego qué la llenó (tus patrones), luego qué puedes servirte distinto. Cierre: Esa lógica la vivimos en la clase gratuita en vivo. Si quieres probarla, el link está abajo."
     },
     {
      "titulo": "3 preguntas que me hacen siempre sobre el amor",
-     "gancho": "Me las hacen en cada clase, casi con las mismas palabras.",
-     "formato": "Short en lista: 1) ¿Por qué repito el mismo tipo de relación? 2) ¿Amarme a mí es egoísmo? 3) ¿Cómo sé si me estoy abandonando? Una frase de respuesta para cada una, con humor suave. Cierre: En la clase gratuita en vivo las trabajamos con calma. Reto de hoy: elige la que más te pegó y anótala."
+     "gancho": "Tres preguntas llegan cada semana a mi bandeja. Hoy te respondo en un minuto.",
+     "formato": "Short 45 s: 1) ¿Cómo sé si me quiero? 2) ¿Y si me quedo sola? 3) ¿Por qué repito el mismo tipo de pareja? Respuestas breves, sin diagnóstico y con un ejercicio de cuaderno cada una. Cierre: Las otras las respondemos en la clase gratuita en vivo, trae la tuya."
     },
     {
-     "titulo": "¿Y si la clase gratuita no es para ti?",
-     "gancho": "Te cuento para quién NO es la clase, y por qué eso es bueno.",
-     "formato": "Short invertido: Germancho dice para quién no es (quien busca recetas mágicas o que alguien más cambie). Y para quién sí (quien quiere volver a sí). Cierre: Si eres de los segundos, ahí te espero en la clase gratuita en vivo. Reto de hoy: escribe qué esperas realmente del amor."
+     "titulo": "¿Para quién es la clase gratuita? (y para quién no)",
+     "gancho": "Esta clase no es para todo el mundo, y mejor que lo sepas antes de entrar.",
+     "formato": "Short directo 40 s: sí es para quien quiere volver a sí mismo y está dispuesto a hacer un ejercicio pequeño; no es para quien busca un truco para que alguien vuelva o lo quiera. Cierre: Si eres de los primeros, bienvenido a la mesa; link en el comentario."
     },
     {
-     "titulo": "Lo que se llevan todos de la primera clase",
-     "gancho": "No es un truco. Es un cuaderno con una página distinta.",
-     "formato": "Short con imagen de cuaderno: Germancho muestra la idea del ejercicio central (una página, dos columnas: lo que doy / lo que me doy). Sin resultados prometidos. Cierre: En la clase gratuita en vivo lo hacemos juntos. Reto de hoy: dibuja tus dos columnas."
+     "titulo": "Lo que nadie te cuenta de pedir ayuda con el amor",
+     "gancho": "Pedir ayuda no es admitir que fallaste. Es pedir otra taza.",
+     "formato": "Short reflexivo 45 s: normaliza acompañarse en temas de vínculos, sin dramatizar. Un ejemplo cotidiano (la libreta que nunca abres sola). Cierre: Si quieres un primer paso sin compromiso, la clase gratuita en vivo es justo eso. Link abajo."
     },
     {
-     "titulo": "El mensaje que más me escriben después de clase",
-     "gancho": "Casi todos me escriben lo mismo, y no es gracias.",
-     "formato": "Short de anécdota: lo que más escriben es me di cuenta de que me estaba esperando a mí mismo / a mí misma. Germancho lo cuenta con humor suave y sin nombres. Cierre: Si quieres darte ese cuenta, la clase gratuita en vivo te está esperando. Reto de hoy: escríbete un mensaje de dos líneas."
+     "titulo": "El ejercicio de 5 minutos que hacemos en vivo",
+     "gancho": "Te regalo el ejercicio con el que abro mis clases y puedes hacerlo ya.",
+     "formato": "Short práctico 50 s: el ejercicio de las tres frases en el cuaderno (esto siento, esto necesito, esto me doy). Lo haces mientras Germancho lo guía. Cierre: En la clase en vivo lo profundizamos y tú me cuentas cómo te fue. Link en el comentario."
     },
     {
-     "titulo": "Pasé de contestar rápido a contestar presente",
-     "gancho": "En una clase, un señor me dijo: yo respondo rápido, pero nunca presente.",
-     "formato": "Short con historia breve (anónima): reconocer cuándo respondemos en automático en pareja o familia. Germancho propone una pausa de 3 respiraciones, sin prometer nada. Cierre: En la clase gratuita en vivo practicamos esa pausa. Reto de hoy: antes de tu próxima respuesta, respira tres veces."
+     "titulo": "Por qué la clase es en vivo y no grabada",
+     "gancho": "Podría grabarte un curso. Prefiero verte la cara.",
+     "formato": "Short 40 s: en vivo se responden dudas reales, se sienten las pausas, nadie está solo con su taza. Humor suave sobre los videos de 'mira el tuyo cuando quieras'. Cierre: La próxima clase gratuita es en vivo; reserva tu lugar con el link del comentario."
     },
     {
-     "titulo": "Cómo es una clase en vivo por dentro (en 45 segundos)",
-     "gancho": "Cámara apagada, micrófono apagado y aun así te va a mover algo.",
-     "formato": "Short tipo detrás de cámaras: planos de taza, cuaderno, chat en vivo, Germancho explicando que puedes participar solo con el chat. Cierre: La próxima clase gratuita en vivo es una buena excusa para probar. Reto de hoy: escribe en una nota qué te gustaría preguntar."
+     "titulo": "Reto 7 días: tú pones la taza, yo pongo el café",
+     "gancho": "Una semana, un gesto pequeño al día y una pareja que no necesita cambiar para que empieces.",
+     "formato": "Short 55 s presentando el reto de 7 días (día 1: nombra una emoción; día 2: di un no pequeño; día 3: pide lo que necesitas sin pelear...). Sin promesas. Cierre: Quien quiera hacerlo acompañado, lo arrancamos juntos en la clase gratuita. Link en el comentario fijado."
     },
     {
-     "titulo": "Si hoy solo hicieras una cosa por tu amor propio",
-     "gancho": "Sé que vienes con la cabeza llena. Te propongo una sola cosa.",
-     "formato": "Short de cierre suave: Germancho propone el reto de 2 minutos (agradecerte por algo concreto de hoy) y explica que en la clase gratuita en vivo hay más de estos ejercicios pequeños. Cierre: Te espero si quieres seguir. Reto de hoy: agradécete en voz alta."
+     "titulo": "Mi regla: aquí no se promete nada, se practica",
+     "gancho": "Si alguien te promete que tu relación se arregla en 3 días, cambia de mesa.",
+     "formato": "Short de postura 45 s: Germancho explica su enfoque sin promesas milagrosas, con práctica, cuaderno y pequeños pasos. Cierre: Si ese enfoque te hace sentido, la clase gratuita en vivo es la mejor forma de comprobarlo. Link abajo."
     }
    ],
    "rostro": [
     {
-     "titulo": "Por qué no te voy a decir qué hacer con tu pareja",
-     "gancho": "Si esperabas que te dijera si te quedas o te vas, te voy a decepcionar. Y es a propósito.",
+     "titulo": "Por qué hago estas clases gratuitas",
+     "gancho": "Te cuento por qué regalo una clase en vez de venderte algo desde el primer minuto.",
      "ideas": [
-      "Un coach no decide por ti: te acompaña a ver con claridad.",
-      "La pareja es un espejo, no una solución: lo que ves ahí también habla de ti.",
-      "La pregunta útil no es qué hago con él o ella, sino qué estoy sintiendo y qué necesito."
+      "Durante 27 años acompañando personas vi que casi nadie sabe por dónde empezar con sus vínculos y su amor propio.",
+      "Una clase en vivo permite que pruebes el método antes de decidir nada, sin presión.",
+      "No te prometo resultados: te propongo un espacio, un ejercicio y preguntas honestas."
      ],
-     "cierre": "Si quieres trabajar estas preguntas conmigo, te invito a la clase gratuita en vivo; el enlace está en la descripción."
+     "cierre": "Si quieres probar cómo trabajo, tienes la clase gratuita en vivo; el link está en el comentario fijado."
     },
     {
-     "titulo": "Lo que aprendí en 27 años acompañando a personas",
-     "gancho": "En 27 años acompañando gente, casi todos llegan con la misma pregunta disfrazada.",
+     "titulo": "Lo que más veo en quienes llegan buscando pareja",
+     "gancho": "Casi todos llegan preguntando cómo conseguir amor. Casi todos necesitan otra pregunta primero.",
      "ideas": [
-      "La pregunta de fondo casi siempre es: ¿me quieren si no cumplo?",
-      "Antes de buscar amor afuera, aprende a no abandonarte adentro.",
-      "Los cambios reales empiezan con acciones pequeñas, no con grandes decisiones."
+      "La pregunta que cambia el enfoque: ¿qué te ofreces tú antes de pedírselo al otro?",
+      "Pareja como espejo, no como solución: qué te muestra de ti lo que te duele en la relación.",
+      "Un gesto pequeño de hoy: escribir en el cuaderno una necesidad que sueles callar."
      ],
-     "cierre": "En la clase gratuita en vivo te muestro cómo empiezo a trabajar esto con cada persona; ahí te espero."
+     "cierre": "En la clase gratuita en vivo lo trabajamos juntos; si te interesa, el link está abajo."
     },
     {
-     "titulo": "El error que cometí con mi propio amor propio",
-     "gancho": "Yo también me abandoné, y fue más sutil de lo que crees.",
+     "titulo": "Qué hacemos en la clase en 60 segundos",
+     "gancho": "Una clase mía es más sencilla de lo que imaginas, y te la cuento sin adornos.",
      "ideas": [
-      "Contar con honestidad un momento en que puse a otros antes que a mí hasta desaparecer.",
-      "Cómo se disfraza el abandono propio: de ayuda, de paciencia, de compromiso.",
-      "El primer paso que di fue pequeño: una conversación honesta conmigo."
+      "Abrimos con una idea clave sobre amor propio o vínculos, en lenguaje cotidiano.",
+      "Hacemos un ejercicio corto en el que tú participas, sin exponerte si no quieres.",
+      "Respondo preguntas en vivo y cierro con un reto pequeño para tu semana."
      ],
-     "cierre": "Si te resuena, en la clase gratuita en vivo hablamos de cómo dar ese primer paso. Te dejo el enlace."
+     "cierre": "Si quieres vivirla, reserva tu lugar en la clase gratuita con el link del comentario."
     },
     {
-     "titulo": "3 señales de que estás esperando que el amor te complete",
-     "gancho": "No es dependencia emocional como diagnóstico. Es algo más cotidiano.",
+     "titulo": "El error de querer que el otro cambie primero",
+     "gancho": "Llevas meses esperando que cambie. ¿Y si el primer cambio es tuyo, pero no el que piensas?",
      "ideas": [
-      "Sientes que tu ánimo depende de un mensaje o de una respuesta.",
-      "Evitas decir lo que piensas para no incomodar.",
-      "Tu día tiene sentido solo si el otro está bien contigo."
+      "Esperar al otro suele ser una forma de aplazar mirarte a ti.",
+      "Cambiar no es aguantar más: es decidir qué sí y qué no ofreces en el vínculo.",
+      "Un ejercicio simple: escribe una frase que empiece con 'yo necesito' y otra con 'yo me comprometo'."
      ],
-     "cierre": "Si te viste en alguna, la clase gratuita en vivo es un buen lugar para empezar a mirarlo con calma. El enlace está abajo."
+     "cierre": "Si quieres ir más profundo, en la clase gratuita en vivo lo hacemos con ejemplos reales. Link en el comentario."
     },
     {
-     "titulo": "Qué le digo a quien me pregunta: ¿y si no sé qué quiero?",
-     "gancho": "Es la pregunta más honesta que me hacen. Y tiene una salida pequeña.",
+     "titulo": "Amor propio no es egoísmo (te lo explico con un café)",
+     "gancho": "Pensar en ti no te vuelve egoísta; te vuelve alguien que puede dar sin vaciarse.",
      "ideas": [
-      "No saber lo que quieres es un punto de partida válido, no un fracaso.",
-      "Empieza por lo que no quieres más: eso también te da información.",
-      "Escribe tres frases con: ya no quiero... y mira qué patrón aparece."
+      "Metáfora de la taza: no puedes servir si la tuya está vacía.",
+      "Diferencia entre ponerte primero y ponerte por encima de los demás.",
+      "Mini reto: hoy di un no pequeño que has venido evitando."
      ],
-     "cierre": "Si quieres hacerlo acompañado, en la clase gratuita en vivo trabajamos justo ese ejercicio. Te espero."
+     "cierre": "Si quieres practicarlo acompañado, te espero en la clase gratuita en vivo; el link está abajo."
     },
     {
-     "titulo": "Mi forma de empezar cada acompañamiento",
-     "gancho": "Antes de dar una sola herramienta, hago una cosa que nadie espera.",
+     "titulo": "3 señales de que estás dando más de lo que tienes",
+     "gancho": "Si te reconoces en una, esta clase corta es para ti.",
      "ideas": [
-      "Escucho sin interrumpir, sin consejo, sin diagnóstico.",
-      "Hago una pregunta que no tiene respuesta rápida y dejo el silencio.",
-      "Cierro con un paso mínimo que la persona pueda hacer esa misma noche."
+      "Señal 1: dices sí y sientes cansancio o enojo después.",
+      "Señal 2: tu agenda está llena de otros y tu cuaderno vacío de ti.",
+      "Señal 3: te cuesta pedir sin disculparte primero. Y qué hacer: parar, respirar, nombrar lo que necesitas."
      ],
-     "cierre": "Así será la clase gratuita en vivo: sin presión y con un paso concreto. Te dejo el enlace."
+     "cierre": "Si quieres trabajar esto con guía, la clase gratuita en vivo es un buen primer paso. Link en el comentario."
     },
     {
-     "titulo": "Por qué ofrezco una clase gratuita (y no una promesa)",
-     "gancho": "No te voy a prometer que tu vida cambia. Te voy a ofrecer algo más honesto.",
+     "titulo": "Cómo se vive una mentoría (sin humo)",
+     "gancho": "Te cuento qué es y qué no es acompañarte en un proceso de vínculos.",
      "ideas": [
-      "Prefiero que me conozcas antes de decidir nada.",
-      "La clase es una muestra real de cómo trabajo, sin letra chica.",
-      "Después decides tú si quieres seguir; si no, igual te llevas un ejercicio útil."
+      "Qué es: un espacio regular para mirar patrones, practicar y ajustar.",
+      "Qué no es: una promesa de que otra persona cambie o de que todo se arregle.",
+      "Cómo saber si es para ti: si estás dispuesto a hacer pequeñas tareas entre sesiones."
      ],
-     "cierre": "Si quieres probar, la clase gratuita en vivo es tu puerta. El enlace va en la descripción."
+     "cierre": "La puerta de entrada es la clase gratuita en vivo; si te hace sentido, el link está en el comentario fijado."
     },
     {
-     "titulo": "Lo que le digo a quien quiere que su ex vuelva",
-     "gancho": "Esta es la conversación más difícil y más frecuente que tengo.",
+     "titulo": "La pregunta que me hacen cuando alguien termina una relación",
+     "gancho": "Después de una ruptura, casi todos preguntan lo mismo, y no es la que creerías.",
      "ideas": [
-      "No tengo recetas para hacer que alguien vuelva: no es mi trabajo ni funciona así.",
-      "Lo que sí podemos mirar es qué te duele y qué necesitas sostener hoy.",
-      "A veces la salida es volver a ti antes de hablar de volver con otra persona."
+      "No es cuándo vuelve: es cómo vuelvo a mí.",
+      "El duelo necesita tiempo y gestos pequeños, no atajos.",
+      "Ejercicio de cuaderno: escribe tres cosas que dejaste de hacer por ti durante la relación y elige una para retomar."
      ],
-     "cierre": "Si estás ahí, te invito a la clase gratuita en vivo; ahí trabajamos contigo, no con tu ex. Enlace abajo."
+     "cierre": "Si quieres hacerlo acompañado, en la clase gratuita en vivo lo trabajamos. Link abajo."
     },
     {
-     "titulo": "Amor en familia: lo que casi nadie se atreve a decir",
-     "gancho": "Con la familia nos callamos más de lo que creemos, y eso también cuesta.",
+     "titulo": "Familia y límites: lo que aprendí en 27 años",
+     "gancho": "Querer a tu familia y poner límites no es contradictorio, y llevo años viéndolo.",
      "ideas": [
-      "Los roles viejos (el fuerte, el que ayuda, el que no molesta) se heredan sin decirlo.",
-      "Poner un límite en familia no es faltar al amor; es cuidarlo.",
-      "Una conversación sincera puede empezar con una sola frase tuya, no del otro."
+      "Los límites no son castigos, son información clara sobre qué puedes sostener.",
+      "Culpa y amor suelen mezclarse; separar ambas ayuda a decidir con calma.",
+      "Un primer paso: elige una situación concreta y escribe qué sí y qué no puedes ofrecer ahí."
      ],
-     "cierre": "En la clase gratuita en vivo hablamos de cómo nombrar esto con cariño. Te espero, enlace abajo."
+     "cierre": "En la clase gratuita en vivo hablamos de esto con ejemplos; el link está en el comentario."
     }
    ],
    "mezcla": {
-    "atraccion": 45,
-    "nutricion": 80,
+    "atraccion": 57,
+    "nutricion": 62,
     "conversion": 19
    },
+   "piezas": null,
    "proyeccion": {
     "semanas": 10.3,
     "largos": 0,
-    "shorts": 73,
+    "shorts": 67,
     "vivos": 31,
     "horas_estimadas": 3100,
     "horas_de_largos": 0,
     "horas_de_vivos": 3100,
-    "subs_estimados": 1858,
+    "subs_estimados": 1732,
     "supuestos": {
      "vistas_largo_promedio": 700,
      "retencion_largo": 0.35,
@@ -611,6 +631,7 @@
    "desde": "2026-11-20",
    "hasta": "2027-01-31",
    "generado": "2026-11-19T19:57:42",
+   "series": null,
    "vivos": [
     {
      "titulo": "Cuerpo, mente y trabajo: ¿qué señal estás ignorando?",
@@ -783,6 +804,7 @@
     "nutricion": 20,
     "conversion": 15
    },
+   "piezas": null,
    "proyeccion": {
     "semanas": 10.3,
     "largos": 0,
