@@ -31,306 +31,178 @@
  },
  "desde": "2026-11-20",
  "hasta": "2027-01-31",
- "generado": "2026-11-19T19:57:42",
- "series": [
-  {
-   "nombre": "Los 7 Días de Tu Cuerpo",
-   "tema_madre": "Una semana corriente en la vida de tu cuerpo, contada desde adentro: lo que le haces entre el lunes por la mañana y el domingo por la noche (lo que bebes, comes, guardas, tragas y callas), y las señales discretas que te manda sin que le hagas caso. Cada capítulo abre una puerta y deja otra entreabierta. Quien llega al final entiende cómo se conectan cuerpo, mente y trabajo.",
-   "promesa": "En 6 capítulos aprendes a leer las señales de tu cuerpo, entiendes qué hábitos cotidianos las provocan y sales con una rutina pequeña de revisión semanal, sin dietas milagro ni miedo, y sabiendo cuándo toca consultar a un profesional.",
-   "capitulos": [
-    {
-     "n": 1,
-     "titulo": "Lunes: lo que tu cuerpo ya te estaba diciendo y no escuchaste",
-     "subtema": "Las señales silenciosas (cansancio raro, hinchazón, sueño que no descansa, dolores que se repiten) y por qué las ignoramos. Introduce la semana y el Cuaderno del Cuerpo: anotar tres señales al día. Cuándo una señal ya merece cita médica.",
-     "referencia_video_id": "cImoZwQ7imc",
-     "shorts": [
-      {
-       "titulo": "5 señales que tu cuerpo repite y tú ignoras",
-       "gancho": "Si llevas semanas cansado sin razón, tu cuerpo no está flojo: te está hablando. Tómate este café y escucha."
-      },
-      {
-       "titulo": "¿Cuánto llevas ignorando ese dolor?",
-       "gancho": "Un dolor que se repite no es mala suerte, es un mensaje. Hoy no lo tapes: anótalo."
-      },
-      {
-       "titulo": "El cuaderno que te ahorra una visita al médico",
-       "gancho": "Tres líneas al día. Eso es todo lo que necesitas para que tu médico te entienda a la primera. Reto de hoy: abre tu cuaderno."
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "titulo": "Martes: lo que bebes sin pensar (y lo que tus riñones notan)",
-     "subtema": "Hidratación real, bebidas diarias, café y alcohol en dosis cotidianas, y lo que los riñones necesitan para trabajar bien. Qué sí ayuda, qué es mito de moda y cuándo conviene revisar con un profesional.",
-     "referencia_video_id": "zC-7_ccwBeo",
-     "shorts": [
-      {
-       "titulo": "6 bebidas que tus riñones agradecen (y 2 que no)",
-       "gancho": "Antes de tu tercer café de hoy, mira esto. No es un regaño: es un mapa de tu taza."
-      },
-      {
-       "titulo": "¿Tomas suficiente agua o solo crees que sí?",
-       "gancho": "Hay una forma simple de saberlo sin apps ni cálculos. Y está en el baño."
-      },
-      {
-       "titulo": "Lo que la cerveza diaria le cuenta a tu cuerpo",
-       "gancho": "No se trata de prohibir nada. Se trata de saber qué pasa cuando lo repites todos los días."
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "titulo": "Miércoles: lo que comes por costumbre y no por hambre",
-     "subtema": "Alimentos que desinflaman y alimentos que cargan al hígado, comer por ansiedad vs. por hambre, y cómo armar un plato cotidiano sencillo y barato. Sin dietas extremas.",
-     "referencia_video_id": "q5g3wy6-mZM",
-     "shorts": [
-      {
-       "titulo": "7 alimentos que tu hígado agradece (y 5 que le pesan)",
-       "gancho": "Tu hígado trabaja de madrugada mientras tú duermes. Esto es lo que le cargas en la cena."
-      },
-      {
-       "titulo": "¿Hambre o ansiedad? La pregunta de 10 segundos",
-       "gancho": "Antes de abrir la nevera, hazte esta pregunta. Cambia lo que pasa después."
-      },
-      {
-       "titulo": "El plato barato que cuida tu cuerpo toda la semana",
-       "gancho": "No necesitas productos de moda. Necesitas cinco cosas que ya conoces."
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "titulo": "Jueves: el intestino, tu segundo cerebro (y por qué se bloquea cuando te estresas)",
-     "subtema": "Conexión intestino-mente: estreñimiento, hinchazón y estrés. Alimentos y hábitos simples que ayudan a ir al baño con regularidad, y la respiración como herramienta. Señales de alarma para consultar.",
-     "referencia_video_id": "8FT5rfUb4D8",
-     "shorts": [
-      {
-       "titulo": "5 alimentos que ayudan a ir al baño a diario",
-       "gancho": "Ir al baño con regularidad no es un tema incómodo: es un termómetro de tu semana."
-      },
-      {
-       "titulo": "Por qué el estrés se siente en tu barriga",
-       "gancho": "Tu estómago y tu mente comparten cableado. Mira cómo se hablan."
-      },
-      {
-       "titulo": "El minuto de respiración antes de comer",
-       "gancho": "Un minuto. Una mano en la barriga. Prueba esto hoy y me cuentas."
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "titulo": "Viernes: lo que tragas cuando te duele (analgésicos, automedicación y sentido común)",
-     "subtema": "Tipos de analgésicos y para qué sirven, riesgos de la automedicación frecuente, y la pregunta de fondo: ¿qué me está queriendo decir este dolor? Cuándo preguntar a un farmacéutico o médico antes de tomar algo.",
-     "referencia_video_id": "LQrtMZdmCck",
-     "shorts": [
-      {
-       "titulo": "Cada pastilla para el dolor hace algo distinto",
-       "gancho": "No todo lo que quita el dolor funciona igual. Antes de tomar la siguiente, mira esto."
-      },
-      {
-       "titulo": "Tu dolor de cabeza del viernes no es casualidad",
-       "gancho": "Se repite cada semana, mismo día, misma hora. Eso es un patrón, no un castigo."
-      },
-      {
-       "titulo": "La pregunta que deberías hacerle a tu farmacéutico",
-       "gancho": "Una pregunta de cinco palabras puede evitarte un problema. Te la regalo en este video."
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "titulo": "Domingo: la revisión de 10 minutos que cambia tu semana",
-     "subtema": "Cierre de la serie. Un ritual dominical sencillo: revisar el cuaderno, elegir un hábito pequeño para la semana, preparar el entorno (agua, comida, sueño) y decidir qué consultar con un profesional. Cuerpo, mente y trabajo como un solo sistema.",
-     "referencia_video_id": "",
-     "shorts": [
-      {
-       "titulo": "El ritual de 10 minutos del domingo para tu salud",
-       "gancho": "Diez minutos hoy te ahorran el lunes caótico. Sírvete un café y empezamos."
-      },
-      {
-       "titulo": "Elige UN hábito esta semana (solo uno)",
-       "gancho": "Más hábitos no es mejor. Uno bien elegido sí. Te enseño cómo escoger el tuyo."
-      },
-      {
-       "titulo": "Tu cuerpo no es una máquina, es una conversación",
-       "gancho": "Llevas siete días de pistas. Hoy las juntamos y armamos tu rutina."
-      }
-     ]
-    }
-   ]
-  }
- ],
+ "generado": "2026-11-19T20:09:03",
+ "series": [],
  "vivos": [
   {
-   "titulo": "Cuerpo, mente y trabajo: ¿qué señal estás ignorando?",
-   "pregunta_abierta": "¿Qué te está diciendo tu cuerpo últimamente que has decidido no escuchar?",
-   "reto_colectivo": "Durante el vivo, cada quien escribe en el chat una señal de su cuerpo y un gesto de 5 minutos para atenderla hoy. Al final, todos hacemos una pausa de respiración juntos."
+   "titulo": "Café con tu Cuerpo: ¿qué le debes hoy a tu salud?",
+   "pregunta_abierta": "¿Qué es lo primero que tu cuerpo te pide hace semanas y has dejado para después?",
+   "reto_colectivo": "Durante el vivo, cada uno escribe en el chat una acción de salud de menos de 5 minutos y la hace en cámara o en casa. Al final, compartimos cuántos lo lograron."
   },
   {
-   "titulo": "Tu despensa también es salud: armemos la lista juntos",
-   "pregunta_abierta": "¿Qué alimento sencillo no falta en tu casa y cuál te gustaría incorporar este mes?",
-   "reto_colectivo": "Entre todos armamos una lista de 10 alimentos básicos en el chat. Cada persona se compromete a revisar su despensa esta semana y a compartir una foto o un comentario el domingo."
+   "titulo": "La alacena que te cuida: armamos juntos tu lista de la semana",
+   "pregunta_abierta": "¿Qué alimento sano te cuesta más meter en tu rutina y por qué?",
+   "reto_colectivo": "Entre todos armamos una lista de 10 alimentos básicos y baratos. Cada persona se compromete a comprar o preparar uno esta semana y lo cuenta en comentarios."
   }
  ],
  "comunidad": [
   {
    "tipo": "encuesta",
-   "texto": "Personaliza tu Germancho: ¿qué tema de salud quieres ver más en los Shorts? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y mente D) Despensa y ahorro"
+   "texto": "Personaliza tu Germancho: ¿qué tema de salud quieres que aborde primero? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y estrés D) Alacena y ahorro"
   },
   {
    "tipo": "reto",
-   "texto": "Reto de la semana: durante 7 días, toma un vaso de agua antes de tu primer café. Cuéntame en comentarios cómo te fue el día 3."
+   "texto": "Reto de la semana: durante 7 días, cambia una bebida azucarada por agua. Cuéntame en comentarios cómo va tu taza el día 3."
   },
   {
    "tipo": "pregunta",
-   "texto": "Si tu cuerpo pudiera dejarte una nota en la nevera hoy, ¿qué crees que diría? Cuéntamelo abajo."
+   "texto": "Si tu cuerpo pudiera dejarte una nota en la nevera, ¿qué crees que diría hoy? Te leo en comentarios."
   },
   {
    "tipo": "encuesta",
-   "texto": "Personaliza tu Germancho: ¿a qué hora prefieres tu café con propósito? A) Mañana B) Mediodía C) Tarde D) Noche"
+   "texto": "Personaliza tu Germancho: ¿en qué formato prefieres mis Shorts? A) Con un solo consejo B) Con lista de 3 a 5 ítems C) Con una historia corta D) Con una pregunta que te haga pensar"
   },
   {
    "tipo": "reto",
-   "texto": "Reto de la semana: revisa una etiqueta de algo que comes a diario. Lee los tres primeros ingredientes y cuéntame qué descubriste."
+   "texto": "Reto de la semana: hoy revisa tu alacena y deja a la vista un alimento sano. Mañana comenta cuál elegiste y si lo usaste."
   },
   {
    "tipo": "pregunta",
-   "texto": "¿Qué hábito pequeño de salud sí te ha funcionado y quieres compartir con los demás? Sin juicios, solo ideas útiles."
+   "texto": "¿Cuál fue la última vez que le preguntaste a tu cuerpo cómo estaba, de verdad? Cuéntame sin juzgarte. Recuerda: esto no reemplaza a tu médico."
   }
  ],
  "conversion": [
   {
-   "titulo": "Qué pasa en la clase gratuita (no es lo que piensas)",
-   "gancho": "Tu cuerpo avisa antes de que tu agenda se dé cuenta. Te cuento qué pasa en una clase gratuita de Café con Propósito.",
-   "formato": "Short de Germancho, 45 s: escena de taza y cuaderno; lista rápida de 3 momentos de la clase (una pregunta, un ejercicio de 2 minutos, una conversación honesta); cierra con Reto de hoy y la invitación: si quieres vivirla con tu equipo, el enlace está en el comentario fijado."
+   "titulo": "Qué pasa en la clase gratuita de Café con Propósito",
+   "gancho": "Cuando alguien me pregunta qué pasa en esa clase, lo primero que digo es: nadie sale con una receta, todos salen con una pregunta mejor.",
+   "formato": "Short de Germancho, 45 s: tres imágenes de la clase (cuaderno, taza, conversación en grupo) + invitación final: Si quieres ver cómo se siente, el enlace de la clase gratuita está abajo. Sin compromiso, solo curiosidad."
   },
   {
-   "titulo": "Hizo el reto 7 días y dejó de vivir en piloto automático",
-   "gancho": "Ella llegaba a casa con la mente en la oficina y el cuerpo agotado. Una semana de retos pequeños movió algo.",
-   "formato": "Short de historia, 50 s: relato en tercera persona de alguien que hizo el reto de 7 días (nombre cambiado, sin prometer resultados); un día clave con una imagen cotidiana; cierre: Reto de hoy y la invitación a conocer el programa si quieres algo parecido para tu empresa."
+   "titulo": "Una persona de tu equipo hizo el reto 7 días",
+   "gancho": "Una líder de un equipo me escribió: Germán, llevo una semana tomando mi café sin celular y mi reunión de lunes ya no me da miedo.",
+   "formato": "Short de historia, 50 s: narrado por Germancho, sin cifras ni promesas de resultado. Muestra el reto (5 minutos al día con el cuaderno) y lo que esa persona contó con sus palabras. Cierre: Si quieres que tu equipo pruebe algo así, escríbeme."
   },
   {
-   "titulo": "Así trabajo con la gente: sin discursos, con preguntas",
-   "gancho": "Cuando alguien llega a mi mesa, no le doy una receta: le sirvo una pregunta.",
-   "formato": "Short de Germancho, 40 s: metáfora del barista; tres pasos del trabajo (escuchar, nombrar lo que pasa, elegir una acción pequeña); Reto de hoy; cierre con invitación abierta: si tu equipo quiere trabajar así, escríbeme y lo conversamos."
+   "titulo": "Así trabajo con los equipos, sin sermones",
+   "gancho": "No llego con diapositivas gigantes. Llego con una taza, un cuaderno y una pregunta que nadie en la sala se ha hecho todavía.",
+   "formato": "Short explicativo, 40 s: Germancho describe en tres pasos el programa (conversar, practicar un reto pequeño, volver a conversar). Cierre: Si lo quieres para tu empresa, la información está en el enlace. Tú decides."
   },
   {
    "titulo": "3 preguntas que me hacen siempre sobre el programa",
-   "gancho": "Siempre me preguntan lo mismo: si es para mí, cuánto tiempo toma y si funciona. Te respondo con honestidad.",
-   "formato": "Short de Germancho, 55 s: tres tarjetas con pregunta y respuesta corta; sin promesas de resultados (es un proceso, no una garantía); Reto de hoy; cierre: más preguntas en comentarios y el enlace a la clase gratuita."
+   "gancho": "Hay tres preguntas que me llegan cada semana. Te las respondo con cariño y sin vender nada.",
+   "formato": "Short de preguntas y respuestas, 55 s: Germancho responde ¿es para mi empresa?, ¿cuánto tiempo toma?, ¿y si mi equipo es escéptico?, con humor suave y sin prometer resultados. Cierre: Si te quedó otra duda, escríbela en comentarios o en el enlace."
   },
   {
-   "titulo": "Tu equipo no necesita más café: necesita esto",
-   "gancho": "Puedes tener reuniones perfectas y un equipo agotado. Cuerpo, mente y trabajo son un solo sistema.",
-   "formato": "Short de Germancho, 45 s: contraste entre agenda llena y equipo cansado; una idea sobre liderazgo cercano; recordatorio de que ante síntomas conviene consultar a un profesional; Reto de hoy; cierre: si lideras gente y quieres explorarlo, el Programa de Liderazgo Café con Propósito tiene una clase gratuita."
+   "titulo": "El reto de 5 minutos que damos en el programa",
+   "gancho": "Te regalo el mismo reto con el que arrancamos en las empresas. Dura menos que tu café.",
+   "formato": "Short de reto, 40 s: Germancho muestra el ejercicio del cuaderno (escribir una cosa que sí controlas hoy) y lo conecta con el trabajo en equipo. Cierre: Si quieres este tipo de práctica para toda tu empresa, te dejo el enlace al programa."
   }
  ],
  "rostro": [
   {
+   "titulo": "Por qué tu equipo no necesita más motivación",
+   "gancho": "Tu equipo no está desmotivado. Está cansado de que le pidan ganas sin darle sentido.",
+   "ideas": [
+    "La motivación sube y baja; el propósito sostiene cuando el día se pone pesado.",
+    "Un equipo con propósito pregunta para qué, no solo cuánto, y eso cambia las conversaciones.",
+    "Un cuaderno y cinco minutos al día pueden abrir esa conversación sin gastar un presupuesto."
+   ],
+   "cierre": "Si quieres explorar esto con tu empresa, te dejo el enlace al Programa de Liderazgo Café con Propósito. Mira si resuena contigo."
+  },
+  {
+   "titulo": "Lo que aprendí en 27 años de coaching",
+   "gancho": "Después de 27 años acompañando personas, lo que más se repite no es la falta de talento, es la falta de pausa.",
+   "ideas": [
+    "Casi todos saben qué quieren cambiar, pocos se dan espacio para sentirlo.",
+    "El cambio real empieza por una pregunta honesta, no por un plan perfecto.",
+    "Un líder que se pregunta bien hace que su equipo también aprenda a hacerlo."
+   ],
+   "cierre": "Si tu empresa quiere abrir ese espacio, el programa está en el enlace. Sin presión, a tu ritmo."
+  },
+  {
+   "titulo": "El error más común de un líder bien intencionado",
+   "gancho": "El error de muchos líderes buenos es creer que escuchar es esperar su turno para hablar.",
+   "ideas": [
+    "Escuchar de verdad es hacer una pregunta más antes de dar la solución.",
+    "Tu equipo nota cuando lo escuchas para entender y cuando lo escuchas para responder.",
+    "Prueba hoy: en tu próxima reunión, haz una sola pregunta y cállate diez segundos."
+   ],
+   "cierre": "En el programa trabajamos esto con ejemplos reales. Si te interesa, el enlace está abajo."
+  },
+  {
+   "titulo": "Cómo es una sesión del programa por dentro",
+   "gancho": "Te cuento cómo arranca una sesión: sin presentaciones eternas y con un café en la mano.",
+   "ideas": [
+    "Primero una pregunta simple que baja las defensas de todos.",
+    "Después una conversación guiada en pequeños grupos, sin juicios.",
+    "Al final un reto pequeño para llevarse a la oficina, de menos de cinco minutos."
+   ],
+   "cierre": "Si quieres ver cómo sería en tu empresa, escríbeme o entra al enlace. Con gusto te cuento."
+  },
+  {
+   "titulo": "Liderar no es tener respuestas",
+   "gancho": "Dejé de creer que un líder tiene que saberlo todo el día que empecé a preguntar más.",
+   "ideas": [
+    "El que lidera con respuestas cansa; el que lidera con preguntas inspira.",
+    "Admitir que no sabes algo suele darle permiso al equipo de ser honesto.",
+    "Hoy anota una pregunta que nunca le has hecho a tu equipo y hazla esta semana."
+   ],
+   "cierre": "En el Programa de Liderazgo Café con Propósito practicamos justo esto. Te dejo el enlace por si quieres conocerlo."
+  },
+  {
+   "titulo": "Lo que pasa cuando un equipo se escucha",
+   "gancho": "Hay reuniones que duran una hora y no dicen nada, y otras de veinte minutos que cambian el rumbo. La diferencia es la escucha.",
+   "ideas": [
+    "Un equipo que se escucha pierde menos tiempo en malentendidos.",
+    "La escucha se entrena como un músculo, con pequeños ejercicios repetidos.",
+    "Empieza con una regla simple: nadie interrumpe hasta que el otro termine."
+   ],
+   "cierre": "Si te gustaría entrenar esto en tu empresa, el enlace al programa está abajo. Tú eliges el momento."
+  },
+  {
+   "titulo": "Cuando el estrés del trabajo llega a tu cuerpo",
+   "gancho": "Tu cuerpo ya sabe que estás cansado mucho antes de que tu agenda lo admita.",
+   "ideas": [
+    "Mente, cuerpo y trabajo son un solo sistema, no tres cajones separados.",
+    "Una pausa consciente de cinco minutos también es productividad, no pérdida de tiempo.",
+    "Si hay síntomas que te preocupan, consulta a un profesional; esto no reemplaza al médico."
+   ],
+   "cierre": "En el programa abrimos esta conversación con equipos. Si te interesa, mira el enlace con calma."
+  },
+  {
+   "titulo": "Una pregunta para tu próxima reunión de lunes",
+   "gancho": "Antes de abrir tu agenda el lunes, prueba una sola pregunta distinta con tu equipo.",
+   "ideas": [
+    "En vez de qué falta, pregunta qué te gustaría que saliera bien esta semana.",
+    "Esa pregunta cambia el tono de la conversación en menos de un minuto.",
+    "Anota lo que escuches; es información valiosa que casi nunca aparece en un informe."
+   ],
+   "cierre": "Si quieres más herramientas así para tu empresa, te dejo el enlace al Programa de Liderazgo Café con Propósito."
+  },
+  {
    "titulo": "Por qué empecé a trabajar con empresas",
-   "gancho": "Llevo 27 años acompañando personas y vi que casi nadie se detiene a mirar cómo trabaja.",
+   "gancho": "Empecé con personas una a una y me di cuenta de algo: al volver a su trabajo, cambiaban poco porque su entorno seguía igual.",
    "ideas": [
-    "Lo que vi en consulta: el trabajo mueve la salud, el dinero y el amor.",
-    "Un equipo no cambia por charlas motivacionales; cambia con conversaciones y acciones pequeñas.",
-    "Por eso nació el Programa de Liderazgo Café con Propósito."
+    "Una persona puede cambiar, pero un equipo que cambia junto sostiene mejor el cambio.",
+    "Por eso llevé las conversaciones a las empresas, con el mismo espíritu de cafetería.",
+    "No vengo a arreglar a nadie; vengo a abrir un espacio donde cada quien se escuche."
    ],
-   "cierre": "Si quieres ver cómo es, hay una clase gratuita: el enlace está en la descripción."
+   "cierre": "Si quieres que tu empresa viva esto, el enlace del programa está abajo. Con calma y sin promesas grandilocuentes."
   },
   {
-   "titulo": "Lo que le pasa a un equipo cuando el líder se cuida",
-   "gancho": "Un líder cansado contagia cansancio, y no hace falta que lo diga.",
+   "titulo": "Tres señales de que tu equipo necesita una pausa",
+   "gancho": "Si tu equipo contesta rápido pero ya nadie propone nada, quizá no sea falta de ideas, sino falta de pausa.",
    "ideas": [
-    "El ejemplo se nota más que el discurso.",
-    "Cuidarte no es egoísmo: es tu primera herramienta de liderazgo.",
-    "Un hábito de 5 minutos al día puede cambiar el tono de una oficina."
+    "Primera señal: las reuniones se llenan de silencios incómodos o de acuerdos automáticos.",
+    "Segunda: se repiten los mismos conflictos con distintos nombres.",
+    "Tercera: la gente cumple, pero ya no pregunta ni sugiere."
    ],
-   "cierre": "Si lideras y quieres explorarlo con tu equipo, te invito a la clase gratuita; el enlace está abajo."
-  },
-  {
-   "titulo": "3 señales de que tu equipo vive en piloto automático",
-   "gancho": "Cuando todos responden bien pero nadie propone nada, algo se apagó.",
-   "ideas": [
-    "Reuniones largas sin decisiones claras.",
-    "Se cumple, pero nadie se emociona con lo que hace.",
-    "El cansancio se vuelve normal y nadie lo menciona."
-   ],
-   "cierre": "Si te reconociste, conversemos: la clase gratuita del programa es un buen primer paso."
-  },
-  {
-   "titulo": "Qué es un coach ontológico (sin tecnicismos)",
-   "gancho": "No te digo qué hacer: te ayudo a ver desde dónde estás decidiendo.",
-   "ideas": [
-    "Ontológico significa mirar quién eres al actuar, no solo qué haces.",
-    "Una pregunta bien hecha mueve más que un consejo.",
-    "El cambio empieza con una acción pequeña y sostenida."
-   ],
-   "cierre": "Si tienes curiosidad por cómo se aplica en una empresa, mira la clase gratuita del enlace."
-  },
-  {
-   "titulo": "El reto de 7 días que hacemos con los equipos",
-   "gancho": "Siete días, cinco minutos al día, cero discursos.",
-   "ideas": [
-    "Cada día una acción pequeña: pausa, pregunta, agradecimiento.",
-    "No se trata de hacerlo perfecto, sino de hacerlo.",
-    "Al final del reto, cada persona nombra lo que notó, sin presión ni garantías."
-   ],
-   "cierre": "Si quieres que tu equipo lo pruebe, escríbeme o entra a la clase gratuita desde el enlace."
-  },
-  {
-   "titulo": "Lo que nadie te dice de liderar con cansancio",
-   "gancho": "Liderar cansado no te hace más fuerte: te hace más reactivo.",
-   "ideas": [
-    "El cuerpo manda señales antes de que la mente las acepte.",
-    "Parar a tiempo es una decisión de liderazgo, no una debilidad.",
-    "Si hay síntomas persistentes, lo primero es consultar a un profesional de la salud."
-   ],
-   "cierre": "Si quieres trabajar el liderazgo desde el equilibrio, el programa tiene una clase gratuita; enlace abajo."
-  },
-  {
-   "titulo": "Una pregunta para empezar la reunión distinta",
-   "gancho": "Antes de abrir la agenda, prueba esta pregunta con tu equipo.",
-   "ideas": [
-    "La pregunta: ¿qué necesitas hoy para estar presente aquí?",
-    "Escuchar sin resolver crea más confianza que cualquier dinámica.",
-    "Dos minutos pueden cambiar el clima de toda la reunión."
-   ],
-   "cierre": "Si quieres más herramientas así, te espero en la clase gratuita del programa."
-  },
-  {
-   "titulo": "Café con Propósito: de un libro a un programa",
-   "gancho": "El libro nació en una mesa de café, y las mejores conversaciones siguen empezando ahí.",
-   "ideas": [
-    "Café con Propósito parte de una idea simple: volver a ti para decidir mejor.",
-    "El programa lleva esa idea al trabajo diario de un equipo.",
-    "Todo se traduce en retos pequeños, no en teoría."
-   ],
-   "cierre": "Si quieres ver cómo se vive, hay una clase gratuita; el enlace está en la descripción."
-  },
-  {
-   "titulo": "Cómo se ve un equipo con propósito (sin postureo)",
-   "gancho": "Un equipo con propósito no es el que sonríe en la foto: es el que sabe para qué hace lo que hace.",
-   "ideas": [
-    "Saben qué aportan y cómo se conecta con lo de los demás.",
-    "Se hablan claro y se cuidan sin dramatismo.",
-    "Cada quien tiene una acción pequeña para sostenerlo."
-   ],
-   "cierre": "Si quieres construir eso en tu empresa, empecemos por la clase gratuita; enlace abajo."
-  },
-  {
-   "titulo": "Preguntas honestas antes de contratar un programa de liderazgo",
-   "gancho": "Antes de invertir en cualquier programa, hazte estas tres preguntas, incluso si no es el mío.",
-   "ideas": [
-    "¿Qué quiero que cambie en la forma de trabajar, no solo en los resultados?",
-    "¿Habrá acciones concretas o solo teoría?",
-    "¿Quién acompaña y cómo se sostiene después?"
-   ],
-   "cierre": "Si quieres ver cómo respondo yo, entra a la clase gratuita del Programa de Liderazgo Café con Propósito."
+   "cierre": "Si te reconoces en alguna, quizá el programa te sirva. Te dejo el enlace para que lo mires sin compromiso."
   }
  ],
  "mezcla": {
-  "atraccion": 27,
-  "nutricion": 20,
+  "atraccion": 35,
+  "nutricion": 10,
   "conversion": 15
  },
  "piezas": [
@@ -342,8 +214,8 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "6 bebidas para cuidar tus riñones (sin complicarte)",
-   "gancho": "Tus riñones trabajan 24/7 y casi nunca les dices gracias. Hoy les sirvo una taza.",
+   "titulo": "6 bebidas que tus riñones sí agradecen",
+   "gancho": "Tus riñones trabajan 24/7 y nadie les pregunta cómo están. Hoy te sirvo la primera taza.",
    "referencia_video_id": "zC-7_ccwBeo",
    "tipo_contenido": "atraccion",
    "nivel": "club",
@@ -354,14 +226,14 @@
    "fecha": "2026-11-20",
    "hora": "12:00",
    "tipo": "rostro",
-   "titulo": "Por qué empecé a trabajar con empresas",
-   "gancho": "Llevo 27 años acompañando personas y vi que casi nadie se detiene a mirar cómo trabaja.",
+   "titulo": "Por qué tu equipo no necesita más motivación",
+   "gancho": "Tu equipo no está desmotivado. Está cansado de que le pidan ganas sin darle sentido.",
    "ideas": [
-    "Lo que vi en consulta: el trabajo mueve la salud, el dinero y el amor.",
-    "Un equipo no cambia por charlas motivacionales; cambia con conversaciones y acciones pequeñas.",
-    "Por eso nació el Programa de Liderazgo Café con Propósito."
+    "La motivación sube y baja; el propósito sostiene cuando el día se pone pesado.",
+    "Un equipo con propósito pregunta para qué, no solo cuánto, y eso cambia las conversaciones.",
+    "Un cuaderno y cinco minutos al día pueden abrir esa conversación sin gastar un presupuesto."
    ],
-   "cierre": "Si quieres ver cómo es, hay una clase gratuita: el enlace está en la descripción.",
+   "cierre": "Si quieres explorar esto con tu empresa, te dejo el enlace al Programa de Liderazgo Café con Propósito. Mira si resuena contigo.",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
    "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
@@ -373,9 +245,9 @@
    "hora": "12:00",
    "tipo": "short",
    "origen": "conversion",
-   "titulo": "Qué pasa en la clase gratuita (no es lo que piensas)",
-   "gancho": "Tu cuerpo avisa antes de que tu agenda se dé cuenta. Te cuento qué pasa en una clase gratuita de Café con Propósito.",
-   "formato_conv": "Short de Germancho, 45 s: escena de taza y cuaderno; lista rápida de 3 momentos de la clase (una pregunta, un ejercicio de 2 minutos, una conversación honesta); cierra con Reto de hoy y la invitación: si quieres vivirla con tu equipo, el enlace está en el comentario fijado.",
+   "titulo": "Qué pasa en la clase gratuita de Café con Propósito",
+   "gancho": "Cuando alguien me pregunta qué pasa en esa clase, lo primero que digo es: nadie sale con una receta, todos salen con una pregunta mejor.",
+   "formato_conv": "Short de Germancho, 45 s: tres imágenes de la clase (cuaderno, taza, conversación en grupo) + invitación final: Si quieres ver cómo se siente, el enlace de la clase gratuita está abajo. Sin compromiso, solo curiosidad.",
    "referencia_video_id": "",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
@@ -402,7 +274,7 @@
    "fecha": "2026-11-23",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Personaliza tu Germancho: ¿qué tema de salud quieres ver más en los Shorts? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y mente D) Despensa y ahorro",
+   "titulo": "Personaliza tu Germancho: ¿qué tema de salud quieres que aborde primero? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y estrés D) Alacena y ahorro",
    "subtipo": "encuesta",
    "tipo_contenido": "nutricion",
    "estado": "planificado"
@@ -431,8 +303,8 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "¿Tus riñones están pidiendo agua y tú les das café?",
-   "gancho": "Ojo: el barista habla de café, pero hoy toca hablar de lo que de verdad hidrata.",
+   "titulo": "¿Tu taza de hoy cuida tus riñones o los cansa?",
+   "gancho": "Antes de servirte lo de siempre, mira qué líquidos le das a tu cuerpo en un día normal.",
    "referencia_video_id": "zC-7_ccwBeo",
    "tipo_contenido": "atraccion",
    "nivel": "club",
@@ -443,14 +315,14 @@
    "fecha": "2026-11-27",
    "hora": "12:00",
    "tipo": "rostro",
-   "titulo": "Lo que le pasa a un equipo cuando el líder se cuida",
-   "gancho": "Un líder cansado contagia cansancio, y no hace falta que lo diga.",
+   "titulo": "Lo que aprendí en 27 años de coaching",
+   "gancho": "Después de 27 años acompañando personas, lo que más se repite no es la falta de talento, es la falta de pausa.",
    "ideas": [
-    "El ejemplo se nota más que el discurso.",
-    "Cuidarte no es egoísmo: es tu primera herramienta de liderazgo.",
-    "Un hábito de 5 minutos al día puede cambiar el tono de una oficina."
+    "Casi todos saben qué quieren cambiar, pocos se dan espacio para sentirlo.",
+    "El cambio real empieza por una pregunta honesta, no por un plan perfecto.",
+    "Un líder que se pregunta bien hace que su equipo también aprenda a hacerlo."
    ],
-   "cierre": "Si lideras y quieres explorarlo con tu equipo, te invito a la clase gratuita; el enlace está abajo.",
+   "cierre": "Si tu empresa quiere abrir ese espacio, el programa está en el enlace. Sin presión, a tu ritmo.",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
    "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
@@ -461,14 +333,14 @@
    "fecha": "2026-11-29",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Los 7 Días de Tu Cuerpo",
-   "capitulo": 1,
-   "titulo": "5 señales que tu cuerpo repite y tú ignoras",
-   "gancho": "Si llevas semanas cansado sin razón, tu cuerpo no está flojo: te está hablando. Tómate este café y escucha.",
-   "referencia_video_id": "",
-   "tipo_contenido": "nutricion",
-   "nivel": "libro",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "3 bebidas simples para empezar a cuidar tus riñones",
+   "gancho": "No necesitas nada raro. Necesitas una jarra, agua y tres minutos.",
+   "referencia_video_id": "8PWanPSV5_8",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
@@ -492,7 +364,7 @@
    "fecha": "2026-11-30",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Reto de la semana: durante 7 días, toma un vaso de agua antes de tu primer café. Cuéntame en comentarios cómo te fue el día 3.",
+   "titulo": "Reto de la semana: durante 7 días, cambia una bebida azucarada por agua. Cuéntame en comentarios cómo va tu taza el día 3.",
    "subtipo": "reto",
    "tipo_contenido": "nutricion",
    "estado": "planificado"
@@ -521,8 +393,8 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "6 alimentos que tus riñones agradecen en tu plato",
-   "gancho": "No es una dieta mágica. Son seis cosas que ya están en tu cocina.",
+   "titulo": "6 alimentos que tus riñones agradecen que comas",
+   "gancho": "Tus riñones no hablan, pero tu plato sí les habla a ellos.",
    "referencia_video_id": "8PWanPSV5_8",
    "tipo_contenido": "atraccion",
    "nivel": "club",
@@ -533,14 +405,14 @@
    "fecha": "2026-12-04",
    "hora": "12:00",
    "tipo": "rostro",
-   "titulo": "3 señales de que tu equipo vive en piloto automático",
-   "gancho": "Cuando todos responden bien pero nadie propone nada, algo se apagó.",
+   "titulo": "El error más común de un líder bien intencionado",
+   "gancho": "El error de muchos líderes buenos es creer que escuchar es esperar su turno para hablar.",
    "ideas": [
-    "Reuniones largas sin decisiones claras.",
-    "Se cumple, pero nadie se emociona con lo que hace.",
-    "El cansancio se vuelve normal y nadie lo menciona."
+    "Escuchar de verdad es hacer una pregunta más antes de dar la solución.",
+    "Tu equipo nota cuando lo escuchas para entender y cuando lo escuchas para responder.",
+    "Prueba hoy: en tu próxima reunión, haz una sola pregunta y cállate diez segundos."
    ],
-   "cierre": "Si te reconociste, conversemos: la clase gratuita del programa es un buen primer paso.",
+   "cierre": "En el programa trabajamos esto con ejemplos reales. Si te interesa, el enlace está abajo.",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
    "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
@@ -552,9 +424,9 @@
    "hora": "12:00",
    "tipo": "short",
    "origen": "conversion",
-   "titulo": "Hizo el reto 7 días y dejó de vivir en piloto automático",
-   "gancho": "Ella llegaba a casa con la mente en la oficina y el cuerpo agotado. Una semana de retos pequeños movió algo.",
-   "formato_conv": "Short de historia, 50 s: relato en tercera persona de alguien que hizo el reto de 7 días (nombre cambiado, sin prometer resultados); un día clave con una imagen cotidiana; cierre: Reto de hoy y la invitación a conocer el programa si quieres algo parecido para tu empresa.",
+   "titulo": "Una persona de tu equipo hizo el reto 7 días",
+   "gancho": "Una líder de un equipo me escribió: Germán, llevo una semana tomando mi café sin celular y mi reunión de lunes ya no me da miedo.",
+   "formato_conv": "Short de historia, 50 s: narrado por Germancho, sin cifras ni promesas de resultado. Muestra el reto (5 minutos al día con el cuaderno) y lo que esa persona contó con sus palabras. Cierre: Si quieres que tu equipo pruebe algo así, escríbeme.",
    "referencia_video_id": "",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
@@ -581,7 +453,7 @@
    "fecha": "2026-12-07",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Si tu cuerpo pudiera dejarte una nota en la nevera hoy, ¿qué crees que diría? Cuéntamelo abajo.",
+   "titulo": "Si tu cuerpo pudiera dejarte una nota en la nevera, ¿qué crees que diría hoy? Te leo en comentarios.",
    "subtipo": "pregunta",
    "tipo_contenido": "nutricion",
    "estado": "planificado"
@@ -607,14 +479,14 @@
    "fecha": "2026-12-11",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Los 7 Días de Tu Cuerpo",
-   "capitulo": 1,
-   "titulo": "¿Cuánto llevas ignorando ese dolor?",
-   "gancho": "Un dolor que se repite no es mala suerte, es un mensaje. Hoy no lo tapes: anótalo.",
-   "referencia_video_id": "",
-   "tipo_contenido": "nutricion",
-   "nivel": "libro",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "12 alimentos para tener a mano antes de que cierre el mes",
+   "gancho": "Abre tu alacena un minuto. Esto es lo que yo revisaría primero.",
+   "referencia_video_id": "AHE7I0hNt-4",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
@@ -622,14 +494,14 @@
    "fecha": "2026-12-11",
    "hora": "12:00",
    "tipo": "rostro",
-   "titulo": "Qué es un coach ontológico (sin tecnicismos)",
-   "gancho": "No te digo qué hacer: te ayudo a ver desde dónde estás decidiendo.",
+   "titulo": "Cómo es una sesión del programa por dentro",
+   "gancho": "Te cuento cómo arranca una sesión: sin presentaciones eternas y con un café en la mano.",
    "ideas": [
-    "Ontológico significa mirar quién eres al actuar, no solo qué haces.",
-    "Una pregunta bien hecha mueve más que un consejo.",
-    "El cambio empieza con una acción pequeña y sostenida."
+    "Primero una pregunta simple que baja las defensas de todos.",
+    "Después una conversación guiada en pequeños grupos, sin juicios.",
+    "Al final un reto pequeño para llevarse a la oficina, de menos de cinco minutos."
    ],
-   "cierre": "Si tienes curiosidad por cómo se aplica en una empresa, mira la clase gratuita del enlace.",
+   "cierre": "Si quieres ver cómo sería en tu empresa, escríbeme o entra al enlace. Con gusto te cuento.",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
    "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
@@ -643,9 +515,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "Esto le hace la cerveza diaria a tus riñones",
-   "gancho": "No te voy a regañar. Solo te cuento qué pasa por dentro cuando es todos los días.",
-   "referencia_video_id": "iEBdZqdiTZg",
+   "titulo": "¿Qué hay en tu alacena? 5 básicos que sí rinden",
+   "gancho": "Una alacena ordenada baja el estrés más rápido que una lista de pendientes.",
+   "referencia_video_id": "AHE7I0hNt-4",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -671,7 +543,7 @@
    "fecha": "2026-12-14",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Personaliza tu Germancho: ¿a qué hora prefieres tu café con propósito? A) Mañana B) Mediodía C) Tarde D) Noche",
+   "titulo": "Personaliza tu Germancho: ¿en qué formato prefieres mis Shorts? A) Con un solo consejo B) Con lista de 3 a 5 ítems C) Con una historia corta D) Con una pregunta que te haga pensar",
    "subtipo": "encuesta",
    "tipo_contenido": "nutricion",
    "estado": "planificado"
@@ -700,9 +572,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "¿Tomas algo para el dolor cada semana? Mira esto",
-   "gancho": "Un analgésico no es un caramelo. Te explico cómo trabaja en tu cuerpo.",
-   "referencia_video_id": "LQrtMZdmCck",
+   "titulo": "25 alimentos que duran años sin nevera",
+   "gancho": "Cuando el antojo no se puede resolver, una alacena inteligente sí.",
+   "referencia_video_id": "vLE9EYWT6AY",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -712,14 +584,14 @@
    "fecha": "2026-12-18",
    "hora": "12:00",
    "tipo": "rostro",
-   "titulo": "El reto de 7 días que hacemos con los equipos",
-   "gancho": "Siete días, cinco minutos al día, cero discursos.",
+   "titulo": "Liderar no es tener respuestas",
+   "gancho": "Dejé de creer que un líder tiene que saberlo todo el día que empecé a preguntar más.",
    "ideas": [
-    "Cada día una acción pequeña: pausa, pregunta, agradecimiento.",
-    "No se trata de hacerlo perfecto, sino de hacerlo.",
-    "Al final del reto, cada persona nombra lo que notó, sin presión ni garantías."
+    "El que lidera con respuestas cansa; el que lidera con preguntas inspira.",
+    "Admitir que no sabes algo suele darle permiso al equipo de ser honesto.",
+    "Hoy anota una pregunta que nunca le has hecho a tu equipo y hazla esta semana."
    ],
-   "cierre": "Si quieres que tu equipo lo pruebe, escríbeme o entra a la clase gratuita desde el enlace.",
+   "cierre": "En el Programa de Liderazgo Café con Propósito practicamos justo esto. Te dejo el enlace por si quieres conocerlo.",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
    "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
@@ -731,9 +603,9 @@
    "hora": "12:00",
    "tipo": "short",
    "origen": "conversion",
-   "titulo": "Así trabajo con la gente: sin discursos, con preguntas",
-   "gancho": "Cuando alguien llega a mi mesa, no le doy una receta: le sirvo una pregunta.",
-   "formato_conv": "Short de Germancho, 40 s: metáfora del barista; tres pasos del trabajo (escuchar, nombrar lo que pasa, elegir una acción pequeña); Reto de hoy; cierre con invitación abierta: si tu equipo quiere trabajar así, escríbeme y lo conversamos.",
+   "titulo": "Así trabajo con los equipos, sin sermones",
+   "gancho": "No llego con diapositivas gigantes. Llego con una taza, un cuaderno y una pregunta que nadie en la sala se ha hecho todavía.",
+   "formato_conv": "Short explicativo, 40 s: Germancho describe en tres pasos el programa (conversar, practicar un reto pequeño, volver a conversar). Cierre: Si lo quieres para tu empresa, la información está en el enlace. Tú decides.",
    "referencia_video_id": "",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
@@ -760,7 +632,7 @@
    "fecha": "2026-12-21",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Reto de la semana: revisa una etiqueta de algo que comes a diario. Lee los tres primeros ingredientes y cuéntame qué descubriste.",
+   "titulo": "Reto de la semana: hoy revisa tu alacena y deja a la vista un alimento sano. Mañana comenta cuál elegiste y si lo usaste.",
    "subtipo": "reto",
    "tipo_contenido": "nutricion",
    "estado": "planificado"
@@ -786,14 +658,14 @@
    "fecha": "2026-12-25",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Los 7 Días de Tu Cuerpo",
-   "capitulo": 1,
-   "titulo": "El cuaderno que te ahorra una visita al médico",
-   "gancho": "Tres líneas al día. Eso es todo lo que necesitas para que tu médico te entienda a la primera. Reto de hoy: abre tu cuaderno.",
-   "referencia_video_id": "",
-   "tipo_contenido": "nutricion",
-   "nivel": "libro",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "5 alimentos de larga duración que sí vale la pena tener",
+   "gancho": "No es miedo. Es tener paz mental guardada en un frasco.",
+   "referencia_video_id": "vLE9EYWT6AY",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
@@ -801,14 +673,14 @@
    "fecha": "2026-12-25",
    "hora": "12:00",
    "tipo": "rostro",
-   "titulo": "Lo que nadie te dice de liderar con cansancio",
-   "gancho": "Liderar cansado no te hace más fuerte: te hace más reactivo.",
+   "titulo": "Lo que pasa cuando un equipo se escucha",
+   "gancho": "Hay reuniones que duran una hora y no dicen nada, y otras de veinte minutos que cambian el rumbo. La diferencia es la escucha.",
    "ideas": [
-    "El cuerpo manda señales antes de que la mente las acepte.",
-    "Parar a tiempo es una decisión de liderazgo, no una debilidad.",
-    "Si hay síntomas persistentes, lo primero es consultar a un profesional de la salud."
+    "Un equipo que se escucha pierde menos tiempo en malentendidos.",
+    "La escucha se entrena como un músculo, con pequeños ejercicios repetidos.",
+    "Empieza con una regla simple: nadie interrumpe hasta que el otro termine."
    ],
-   "cierre": "Si quieres trabajar el liderazgo desde el equilibrio, el programa tiene una clase gratuita; enlace abajo.",
+   "cierre": "Si te gustaría entrenar esto en tu empresa, el enlace al programa está abajo. Tú eliges el momento.",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
    "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
@@ -822,9 +694,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "3 analgésicos, 3 efectos distintos en tu cuerpo",
-   "gancho": "Los guardas en el mismo cajón, pero no hacen lo mismo. Consulta a tu médico antes de elegir.",
-   "referencia_video_id": "LQrtMZdmCck",
+   "titulo": "12 alimentos baratos para congelar y cuidarte en enero",
+   "gancho": "Enero llega con ganas de cuidarte y con la cartera cansada. Se puede con poco.",
+   "referencia_video_id": "Ky61xN5ib5k",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -834,14 +706,14 @@
    "fecha": "2026-12-28",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Los 7 Días de Tu Cuerpo",
-   "capitulo": 2,
-   "titulo": "6 bebidas que tus riñones agradecen (y 2 que no)",
-   "gancho": "Antes de tu tercer café de hoy, mira esto. No es un regaño: es un mapa de tu taza.",
-   "referencia_video_id": "",
-   "tipo_contenido": "nutricion",
-   "nivel": "libro",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "13 alimentos que no sabías que podías congelar",
+   "gancho": "Lo que tiras sin pensar también es salud y también es plata.",
+   "referencia_video_id": "ZZEgaDF2u-k",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
@@ -849,7 +721,7 @@
    "fecha": "2026-12-28",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "¿Qué hábito pequeño de salud sí te ha funcionado y quieres compartir con los demás? Sin juicios, solo ideas útiles.",
+   "titulo": "¿Cuál fue la última vez que le preguntaste a tu cuerpo cómo estaba, de verdad? Cuéntame sin juzgarte. Recuerda: esto no reemplaza a tu médico.",
    "subtipo": "pregunta",
    "tipo_contenido": "nutricion",
    "estado": "planificado"
@@ -862,9 +734,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "5 alimentos que ayudan a tu intestino a moverse",
-   "gancho": "Tu intestino también tiene horario. Hoy le armamos un desayuno amable.",
-   "referencia_video_id": "8FT5rfUb4D8",
+   "titulo": "¿Tiras comida? Este truco de congelador te ahorra y te nutre",
+   "gancho": "Tu congelador puede ser una despensa de buenas decisiones.",
+   "referencia_video_id": "ZZEgaDF2u-k",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -877,9 +749,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "¿Intestino bloqueado? Antes de nada, haz esto",
-   "gancho": "Un gesto simple con un vaso de agua. Si el problema dura, ve al médico.",
-   "referencia_video_id": "bahDzHhfjGY",
+   "titulo": "5 alimentos que ayudan a que tu intestino se mueva",
+   "gancho": "Tu intestino también tiene opinión sobre tu semana. Escúchalo con comida.",
+   "referencia_video_id": "8FT5rfUb4D8",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -889,14 +761,14 @@
    "fecha": "2027-01-01",
    "hora": "12:00",
    "tipo": "rostro",
-   "titulo": "Una pregunta para empezar la reunión distinta",
-   "gancho": "Antes de abrir la agenda, prueba esta pregunta con tu equipo.",
+   "titulo": "Cuando el estrés del trabajo llega a tu cuerpo",
+   "gancho": "Tu cuerpo ya sabe que estás cansado mucho antes de que tu agenda lo admita.",
    "ideas": [
-    "La pregunta: ¿qué necesitas hoy para estar presente aquí?",
-    "Escuchar sin resolver crea más confianza que cualquier dinámica.",
-    "Dos minutos pueden cambiar el clima de toda la reunión."
+    "Mente, cuerpo y trabajo son un solo sistema, no tres cajones separados.",
+    "Una pausa consciente de cinco minutos también es productividad, no pérdida de tiempo.",
+    "Si hay síntomas que te preocupan, consulta a un profesional; esto no reemplaza al médico."
    ],
-   "cierre": "Si quieres más herramientas así, te espero en la clase gratuita del programa.",
+   "cierre": "En el programa abrimos esta conversación con equipos. Si te interesa, mira el enlace con calma.",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
    "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
@@ -909,8 +781,8 @@
    "tipo": "short",
    "origen": "conversion",
    "titulo": "3 preguntas que me hacen siempre sobre el programa",
-   "gancho": "Siempre me preguntan lo mismo: si es para mí, cuánto tiempo toma y si funciona. Te respondo con honestidad.",
-   "formato_conv": "Short de Germancho, 55 s: tres tarjetas con pregunta y respuesta corta; sin promesas de resultados (es un proceso, no una garantía); Reto de hoy; cierre: más preguntas en comentarios y el enlace a la clase gratuita.",
+   "gancho": "Hay tres preguntas que me llegan cada semana. Te las respondo con cariño y sin vender nada.",
+   "formato_conv": "Short de preguntas y respuestas, 55 s: Germancho responde ¿es para mi empresa?, ¿cuánto tiempo toma?, ¿y si mi equipo es escéptico?, con humor suave y sin prometer resultados. Cierre: Si te quedó otra duda, escríbela en comentarios o en el enlace.",
    "referencia_video_id": "",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
@@ -921,14 +793,14 @@
    "fecha": "2027-01-04",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Los 7 Días de Tu Cuerpo",
-   "capitulo": 2,
-   "titulo": "¿Tomas suficiente agua o solo crees que sí?",
-   "gancho": "Hay una forma simple de saberlo sin apps ni cálculos. Y está en el baño.",
-   "referencia_video_id": "",
-   "tipo_contenido": "nutricion",
-   "nivel": "libro",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "¿Tu intestino va lento? Haz esto antes de preocuparte",
+   "gancho": "Antes de buscar soluciones raras, prueba lo más básico: agua, fibra y paciencia.",
+   "referencia_video_id": "bahDzHhfjGY",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
@@ -936,7 +808,7 @@
    "fecha": "2027-01-04",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Personaliza tu Germancho: ¿qué tema de salud quieres ver más en los Shorts? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y mente D) Despensa y ahorro",
+   "titulo": "Personaliza tu Germancho: ¿qué tema de salud quieres que aborde primero? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y estrés D) Alacena y ahorro",
    "subtipo": "encuesta",
    "tipo_contenido": "nutricion",
    "estado": "planificado"
@@ -949,9 +821,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "Tu intestino habla: 3 señales que sí debes escuchar",
-   "gancho": "El cuerpo avisa bajito antes de gritar. Aprende a oír el susurro.",
-   "referencia_video_id": "bahDzHhfjGY",
+   "titulo": "Hígado graso: 7 alimentos que lo cuidan y 5 que lo cansan",
+   "gancho": "Tu hígado no se queja. Trabaja callado hasta que ya no puede. Hoy lo escuchamos.",
+   "referencia_video_id": "q5g3wy6-mZM",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -961,14 +833,14 @@
    "fecha": "2027-01-08",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Los 7 Días de Tu Cuerpo",
-   "capitulo": 2,
-   "titulo": "Lo que la cerveza diaria le cuenta a tu cuerpo",
-   "gancho": "No se trata de prohibir nada. Se trata de saber qué pasa cuando lo repites todos los días.",
-   "referencia_video_id": "",
-   "tipo_contenido": "nutricion",
-   "nivel": "libro",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "5 señales silenciosas de tu hígado que no debes ignorar",
+   "gancho": "Algunas señales son tan suaves que las confundes con cansancio normal.",
+   "referencia_video_id": "cImoZwQ7imc",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
@@ -976,14 +848,14 @@
    "fecha": "2027-01-08",
    "hora": "12:00",
    "tipo": "rostro",
-   "titulo": "Café con Propósito: de un libro a un programa",
-   "gancho": "El libro nació en una mesa de café, y las mejores conversaciones siguen empezando ahí.",
+   "titulo": "Una pregunta para tu próxima reunión de lunes",
+   "gancho": "Antes de abrir tu agenda el lunes, prueba una sola pregunta distinta con tu equipo.",
    "ideas": [
-    "Café con Propósito parte de una idea simple: volver a ti para decidir mejor.",
-    "El programa lleva esa idea al trabajo diario de un equipo.",
-    "Todo se traduce en retos pequeños, no en teoría."
+    "En vez de qué falta, pregunta qué te gustaría que saliera bien esta semana.",
+    "Esa pregunta cambia el tono de la conversación en menos de un minuto.",
+    "Anota lo que escuches; es información valiosa que casi nunca aparece en un informe."
    ],
-   "cierre": "Si quieres ver cómo se vive, hay una clase gratuita; el enlace está en la descripción.",
+   "cierre": "Si quieres más herramientas así para tu empresa, te dejo el enlace al Programa de Liderazgo Café con Propósito.",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
    "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
@@ -997,9 +869,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "Hígado graso: 5 alimentos que ayudan, 3 que no",
-   "gancho": "Tu hígado no tiene voz, pero sí memoria. Esto es lo que le sirves cada día.",
-   "referencia_video_id": "q5g3wy6-mZM",
+   "titulo": "¿Cada cuánto revisas cómo está tu hígado? Casi nadie lo hace",
+   "gancho": "Revisas el celular veinte veces al día. ¿Y tu chequeo médico?",
+   "referencia_video_id": "cImoZwQ7imc",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -1012,9 +884,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "5 señales silenciosas de tu hígado que no ignoro",
-   "gancho": "Silencio no es lo mismo que salud. Estas señales merecen una consulta.",
-   "referencia_video_id": "cImoZwQ7imc",
+   "titulo": "Qué le pasa a tu cuerpo si tomas cerveza todos los días",
+   "gancho": "No vengo a juzgar tu brindis. Vengo a contarte qué pasa por dentro.",
+   "referencia_video_id": "iEBdZqdiTZg",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -1024,7 +896,7 @@
    "fecha": "2027-01-11",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Reto de la semana: durante 7 días, toma un vaso de agua antes de tu primer café. Cuéntame en comentarios cómo te fue el día 3.",
+   "titulo": "Reto de la semana: durante 7 días, cambia una bebida azucarada por agua. Cuéntame en comentarios cómo va tu taza el día 3.",
    "subtipo": "reto",
    "tipo_contenido": "nutricion",
    "estado": "planificado"
@@ -1034,14 +906,14 @@
    "fecha": "2027-01-13",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Los 7 Días de Tu Cuerpo",
-   "capitulo": 3,
-   "titulo": "7 alimentos que tu hígado agradece (y 5 que le pesan)",
-   "gancho": "Tu hígado trabaja de madrugada mientras tú duermes. Esto es lo que le cargas en la cena.",
-   "referencia_video_id": "",
-   "tipo_contenido": "nutricion",
-   "nivel": "libro",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "¿Y si hoy cambias una cerveza por un vaso de agua?",
+   "gancho": "Un cambio mínimo, repetido, pesa más que una promesa de año nuevo.",
+   "referencia_video_id": "iEBdZqdiTZg",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
@@ -1052,9 +924,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "¿Hígado cansado después de los 50? Empieza aquí",
-   "gancho": "No hace falta una revolución. Hace falta un primer paso pequeño en tu plato.",
-   "referencia_video_id": "q5g3wy6-mZM",
+   "titulo": "Analgésicos: lo que casi nadie te explica antes de tomarlos",
+   "gancho": "Todos tenemos uno en el cajón. Pocos sabemos qué hace de verdad.",
+   "referencia_video_id": "LQrtMZdmCck",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -1064,14 +936,14 @@
    "fecha": "2027-01-15",
    "hora": "12:00",
    "tipo": "rostro",
-   "titulo": "Cómo se ve un equipo con propósito (sin postureo)",
-   "gancho": "Un equipo con propósito no es el que sonríe en la foto: es el que sabe para qué hace lo que hace.",
+   "titulo": "Por qué empecé a trabajar con empresas",
+   "gancho": "Empecé con personas una a una y me di cuenta de algo: al volver a su trabajo, cambiaban poco porque su entorno seguía igual.",
    "ideas": [
-    "Saben qué aportan y cómo se conecta con lo de los demás.",
-    "Se hablan claro y se cuidan sin dramatismo.",
-    "Cada quien tiene una acción pequeña para sostenerlo."
+    "Una persona puede cambiar, pero un equipo que cambia junto sostiene mejor el cambio.",
+    "Por eso llevé las conversaciones a las empresas, con el mismo espíritu de cafetería.",
+    "No vengo a arreglar a nadie; vengo a abrir un espacio donde cada quien se escuche."
    ],
-   "cierre": "Si quieres construir eso en tu empresa, empecemos por la clase gratuita; enlace abajo.",
+   "cierre": "Si quieres que tu empresa viva esto, el enlace del programa está abajo. Con calma y sin promesas grandilocuentes.",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
    "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
@@ -1083,9 +955,9 @@
    "hora": "12:00",
    "tipo": "short",
    "origen": "conversion",
-   "titulo": "Tu equipo no necesita más café: necesita esto",
-   "gancho": "Puedes tener reuniones perfectas y un equipo agotado. Cuerpo, mente y trabajo son un solo sistema.",
-   "formato_conv": "Short de Germancho, 45 s: contraste entre agenda llena y equipo cansado; una idea sobre liderazgo cercano; recordatorio de que ante síntomas conviene consultar a un profesional; Reto de hoy; cierre: si lideras gente y quieres explorarlo, el Programa de Liderazgo Café con Propósito tiene una clase gratuita.",
+   "titulo": "El reto de 5 minutos que damos en el programa",
+   "gancho": "Te regalo el mismo reto con el que arrancamos en las empresas. Dura menos que tu café.",
+   "formato_conv": "Short de reto, 40 s: Germancho muestra el ejercicio del cuaderno (escribir una cosa que sí controlas hoy) y lo conecta con el trabajo en equipo. Cierre: Si quieres este tipo de práctica para toda tu empresa, te dejo el enlace al programa.",
    "referencia_video_id": "",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
@@ -1096,14 +968,14 @@
    "fecha": "2027-01-18",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Los 7 Días de Tu Cuerpo",
-   "capitulo": 3,
-   "titulo": "¿Hambre o ansiedad? La pregunta de 10 segundos",
-   "gancho": "Antes de abrir la nevera, hazte esta pregunta. Cambia lo que pasa después.",
-   "referencia_video_id": "",
-   "tipo_contenido": "nutricion",
-   "nivel": "libro",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "3 preguntas antes de tomar una pastilla para el dolor",
+   "gancho": "Antes de tragar, pregúntate esto. Tu cuerpo te lo agradece.",
+   "referencia_video_id": "LQrtMZdmCck",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
@@ -1111,7 +983,7 @@
    "fecha": "2027-01-18",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Si tu cuerpo pudiera dejarte una nota en la nevera hoy, ¿qué crees que diría? Cuéntamelo abajo.",
+   "titulo": "Si tu cuerpo pudiera dejarte una nota en la nevera, ¿qué crees que diría hoy? Te leo en comentarios.",
    "subtipo": "pregunta",
    "tipo_contenido": "nutricion",
    "estado": "planificado"
@@ -1124,8 +996,8 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "Qué le pasa a tu cuerpo si cenas ajo cada noche",
-   "gancho": "El ajo tiene fama de héroe. ¿Será cierto o es puro cuento de cocina?",
+   "titulo": "Esto le pasa a tu cuerpo si comes ajo por la noche",
+   "gancho": "Un ingrediente de cocina, una pregunta de la noche y una respuesta con matices.",
    "referencia_video_id": "-BEd9eO85SA",
    "tipo_contenido": "atraccion",
    "nivel": "club",
@@ -1139,9 +1011,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "Ajo por la noche: ¿mito o buen hábito?",
-   "gancho": "Te cuento lo que sí se sabe y lo que se exagera. Sin vender milagros.",
-   "referencia_video_id": "-BEd9eO85SA",
+   "titulo": "Háblale así a tu estómago: 60 segundos para la ansiedad",
+   "gancho": "Tu estómago también se tensa cuando tú te tensas. Vamos a soltarlo juntos.",
+   "referencia_video_id": "L1I6B2Jc990",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -1151,14 +1023,14 @@
    "fecha": "2027-01-22",
    "hora": "12:00",
    "tipo": "rostro",
-   "titulo": "Preguntas honestas antes de contratar un programa de liderazgo",
-   "gancho": "Antes de invertir en cualquier programa, hazte estas tres preguntas, incluso si no es el mío.",
+   "titulo": "Tres señales de que tu equipo necesita una pausa",
+   "gancho": "Si tu equipo contesta rápido pero ya nadie propone nada, quizá no sea falta de ideas, sino falta de pausa.",
    "ideas": [
-    "¿Qué quiero que cambie en la forma de trabajar, no solo en los resultados?",
-    "¿Habrá acciones concretas o solo teoría?",
-    "¿Quién acompaña y cómo se sostiene después?"
+    "Primera señal: las reuniones se llenan de silencios incómodos o de acuerdos automáticos.",
+    "Segunda: se repiten los mismos conflictos con distintos nombres.",
+    "Tercera: la gente cumple, pero ya no pregunta ni sugiere."
    ],
-   "cierre": "Si quieres ver cómo respondo yo, entra a la clase gratuita del Programa de Liderazgo Café con Propósito.",
+   "cierre": "Si te reconoces en alguna, quizá el programa te sirva. Te dejo el enlace para que lo mires sin compromiso.",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
    "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
@@ -1169,14 +1041,14 @@
    "fecha": "2027-01-24",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Los 7 Días de Tu Cuerpo",
-   "capitulo": 3,
-   "titulo": "El plato barato que cuida tu cuerpo toda la semana",
-   "gancho": "No necesitas productos de moda. Necesitas cinco cosas que ya conoces.",
-   "referencia_video_id": "",
-   "tipo_contenido": "nutricion",
-   "nivel": "libro",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "Habla así a tu cuerpo cuando te exiges de más",
+   "gancho": "Si le hablaras a tu cuerpo como le hablas a un amigo, ¿qué le dirías hoy?",
+   "referencia_video_id": "n7ex8ENZrDw",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
@@ -1187,9 +1059,9 @@
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "13 alimentos que no sabías que se pueden congelar",
-   "gancho": "Dejas de tirar comida y tu bolsillo respira. Café y despensa, mismo equilibrio.",
-   "referencia_video_id": "ZZEgaDF2u-k",
+   "titulo": "¿Cómo calmar la mente cuando la ansiedad aprieta?",
+   "gancho": "Cuando la cabeza va a mil, el primer paso no es pensar más. Es respirar mejor.",
+   "referencia_video_id": "ZC9dPIYu4kg",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -1199,7 +1071,7 @@
    "fecha": "2027-01-25",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Personaliza tu Germancho: ¿a qué hora prefieres tu café con propósito? A) Mañana B) Mediodía C) Tarde D) Noche",
+   "titulo": "Personaliza tu Germancho: ¿en qué formato prefieres mis Shorts? A) Con un solo consejo B) Con lista de 3 a 5 ítems C) Con una historia corta D) Con una pregunta que te haga pensar",
    "subtipo": "encuesta",
    "tipo_contenido": "nutricion",
    "estado": "planificado"
@@ -1209,42 +1081,12 @@
    "fecha": "2027-01-27",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Los 7 Días de Tu Cuerpo",
-   "capitulo": 4,
-   "titulo": "5 alimentos que ayudan a ir al baño a diario",
-   "gancho": "Ir al baño con regularidad no es un tema incómodo: es un termómetro de tu semana.",
-   "referencia_video_id": "",
-   "tipo_contenido": "nutricion",
-   "nivel": "libro",
-   "estado": "planificado"
-  },
-  {
-   "id": "soyintegral_es-20270129-S",
-   "fecha": "2027-01-29",
-   "hora": "12:00",
-   "tipo": "short",
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "12 alimentos baratos para congelar y comer bien en enero",
-   "gancho": "Enero llega con cuesta. Tu congelador puede ser tu mejor aliado.",
-   "referencia_video_id": "Ky61xN5ib5k",
-   "tipo_contenido": "atraccion",
-   "nivel": "club",
-   "estado": "planificado"
-  },
-  {
-   "id": "soyintegral_es-20270131-S",
-   "fecha": "2027-01-31",
-   "hora": "12:00",
-   "tipo": "short",
-   "origen": "radar",
-   "serie": "",
-   "capitulo": "",
-   "titulo": "¿Tu despensa está lista para un mes apretado?",
-   "gancho": "No es miedo, es orden. Cuidar tu comida también es cuidar tu salud.",
-   "referencia_video_id": "vLE9EYWT6AY",
+   "titulo": "10 alimentos que no vuelves a comprar al saber cómo se hacen",
+   "gancho": "Mira la etiqueta. Hoy aprendes a leerla en 20 segundos.",
+   "referencia_video_id": "tg8e42sgZJs",
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "estado": "planificado"
@@ -1253,12 +1095,12 @@
  "proyeccion": {
   "semanas": 10.3,
   "largos": 0,
-  "shorts": 42,
+  "shorts": 40,
   "vivos": 0,
   "horas_estimadas": 0,
   "horas_de_largos": 0,
   "horas_de_vivos": 0,
-  "subs_estimados": 893,
+  "subs_estimados": 851,
   "supuestos": {
    "vistas_largo_promedio": 700,
    "retencion_largo": 0.35,
