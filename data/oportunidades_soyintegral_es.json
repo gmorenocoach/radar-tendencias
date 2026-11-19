@@ -1,173 +1,162 @@
 {
  "perfil": "soyintegral_es",
  "canal": "Soy Integral · Salud",
- "generado": "2026-11-16T18:41:23",
+ "generado": "2026-11-19T17:28:06",
  "videos_leidos": 21,
- "comentarios_leidos": 758,
+ "comentarios_leidos": 820,
  "temas": [
   {
-   "tema": "¿Es seguro el bicarbonato para los riñones? (duda y desconfianza)",
-   "menciones": 22,
-   "cita": "Tengo 64 años y llevo 55 usando bicarbonato y mis riñones salen bien",
+   "tema": "Despensa de emergencia: qué guardar y cómo hacerlo con poco dinero",
+   "menciones": 60,
+   "cita": "Madre mía, qué mal me siento por no tener nada organizado en casa",
    "origen": "viral",
-   "titulo": "Bicarbonato y riñones: lo que nadie te aclara",
-   "gancho": "Unos juran que les cambió la vida, otros te dicen que cuidado. Aquí va una taza de calma.",
-   "reto": "Antes de tomar nada «casero» a diario, anota qué tomas y pregúntale a tu médico en tu próxima cita.",
+   "titulo": "Tu despensa en 10 min: 5 cosas para empezar hoy",
+   "gancho": "No necesitas una bodega, necesitas una escalera: un paquete más cada semana y listo.",
+   "reto": "Hoy anota 5 alimentos que ya comes y compra uno extra en tu próxima salida.",
    "formato": "short",
    "urgencia": "alta"
   },
   {
-   "tema": "Agua con limón en ayunas: ¿sirve o daña?",
+   "tema": "Miedo a apagones, escasez y crisis (tres días de oscuridad, fenómeno del niño)",
+   "menciones": 25,
+   "cita": "Nos avisaron que van a cortar el agua, por eso me estoy preparando",
+   "origen": "viral",
+   "titulo": "Cuando el miedo te grita: así lo calmas con una taza",
+   "gancho": "Prepararte es cuidar a los tuyos. Vivir asustado es otra cosa. Te cuento la diferencia.",
+   "reto": "Escribe en tu cuaderno un miedo y una acción pequeña que sí depende de ti.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Fe y confianza: «Dios proveerá» frente a estar preparados",
+   "menciones": 30,
+   "cita": "Si no tienes dinero, pídele a Cristo Jesús que provea tu despensa",
+   "origen": "viral",
+   "titulo": "Confiar y prepararte: no pelean, se abrazan",
+   "gancho": "Orar y llenar la alacena no se contradicen. Una calma tu alma, la otra tu mesa.",
+   "reto": "Antes de dormir, agradece en voz alta tres cosas que hoy sí tuviste en tu mesa.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Cuidar los riñones: bebidas, agua con limón y qué más tomar",
+   "menciones": 30,
+   "cita": "Agua con limón, lo máximo. Perejil, cilantro, jengibre y limón licuado",
+   "origen": "viral",
+   "titulo": "3 hábitos para cuidar tus riñones sin complicarte",
+   "gancho": "El primero cuesta cero pesos y lo tienes en la llave. Aun así casi nadie lo hace bien.",
+   "reto": "Toma un vaso de agua ahora mismo y deja otro listo en tu escritorio.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Cerveza, alcohol y riñones: contradicciones y experiencias personales",
+   "menciones": 20,
+   "cita": "¿Entonces por qué mi hermano toma cerveza siempre y no se ha enfermado?",
+   "origen": "viral",
+   "titulo": "«A mí no me pasa nada»: lo que no ves de tu hábito",
+   "gancho": "Que no sientas nada hoy no significa que tu cuerpo no esté llevando la cuenta.",
+   "reto": "Hoy cambia una bebida del día por agua y anota cómo te sientes.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Estreñimiento: alimentos que ayudan (ciruelas, fibra, linaza)",
+   "menciones": 18,
+   "cita": "Cada noche pongo 5 ciruelas en un poco de agua y las como en ayunas",
+   "origen": "viral",
+   "titulo": "Ir al baño a diario: 3 aliados que ya tienes en casa",
+   "gancho": "Tu intestino es tu segundo cerebro y hoy te está pidiendo un favor pequeño.",
+   "reto": "Esta noche deja 3 ciruelas pasas en agua para mañana en ayunas.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Ajo: cuándo y cómo consumirlo, cantidades y condiciones de salud",
+   "menciones": 15,
+   "cita": "¿Y cuánto debería consumir? ¿Me servirá para la fibromialgia?",
+   "origen": "viral",
+   "titulo": "Ajo de noche: lo que sí y lo que no te han contado",
+   "gancho": "Todos juran que el ajo cura todo. Hoy te cuento qué pasa de verdad en tu cuerpo.",
+   "reto": "Hoy suma un diente de ajo a tu cena, y si tomas medicinas, pregunta a tu médico.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Medicamentos y analgésicos: automedicación y efectos secundarios",
+   "menciones": 8,
+   "cita": "Me automedicaba y terminé con gastritis; me encantaría haber visto esto antes",
+   "origen": "viral",
+   "titulo": "Antes de tomar esa pastilla, hazte estas 3 preguntas",
+   "gancho": "Tu dolor es un mensaje. La pastilla solo le baja el volumen.",
+   "reto": "Revisa tu botiquín hoy y saca lo vencido. Ante dolor persistente, consulta a un profesional.",
+   "formato": "short",
+   "urgencia": "media"
+  },
+  {
+   "tema": "Perdón y gratitud al cuerpo: hablarle a tus células, enfermedad y autocuidado",
+   "menciones": 15,
+   "cita": "Hoy les hablo a mis células, que por tanto tiempo he descuidado",
+   "origen": "viral",
+   "titulo": "Háblale a tu cuerpo como a un amigo que cuidas",
+   "gancho": "Le exiges todo a tu cuerpo y casi nunca le dices gracias. Hoy cambia eso.",
+   "reto": "Pon una mano en tu pecho y dile a tu cuerpo una frase de gratitud, 1 minuto.",
+   "formato": "short",
+   "urgencia": "alta"
+  },
+  {
+   "tema": "Conservar y congelar alimentos para ahorrar (tomates, pimientos, carne)",
    "menciones": 14,
-   "cita": "En resumen, ¿es bueno o perjudicial tomar agua con limón en ayunas?",
+   "cita": "Muy buenas ideas, nosotros congelamos los filetes extendidos en bolsas",
    "origen": "viral",
-   "titulo": "Agua con limón en ayunas: ¿sí o no?",
-   "gancho": "Te piden un sí o un no y los videos solo te dan vueltas. Vamos al punto, sin dramas.",
-   "reto": "Mañana toma tu agua con limón con sorbete y enjuágate la boca después. Cuéntame cómo te sientes.",
+   "titulo": "Congela así y deja de tirar comida (y plata)",
+   "gancho": "Cada verdura que se pudre en tu nevera es dinero que se va. Esto lo frena.",
+   "reto": "Hoy congela una verdura que estés por perder, ya porcionada.",
    "formato": "short",
-   "urgencia": "alta"
+   "urgencia": "media"
   },
   {
-   "tema": "Ayuno intermitente: horarios y a quién le conviene",
+   "tema": "Sabiduría de las abuelas: conservas, salazones y despensas tradicionales",
    "menciones": 10,
-   "cita": "Quienes tengan más de 50 o 60 años deben cuidar la sarcopenia con el ayuno",
+   "cita": "Mi madre guardaba lomo frito en orzas con manteca; hacía conservas al baño María",
    "origen": "viral",
-   "titulo": "Ayuno hasta las 12: ¿para ti sí o no?",
-   "gancho": "Cada quien cuenta su horario como si fuera el único. Tu cuerpo no es el de tu vecino.",
-   "reto": "Anota hoy a qué hora cenas y a qué hora desayunas. Solo mira tu patrón, sin cambiarlo.",
+   "titulo": "Lo que tu abuela sabía de comer sano y gastar poco",
+   "gancho": "Sin apps ni nevera inteligente, ella nunca se quedó sin nada en la mesa.",
+   "reto": "Llama hoy a alguien mayor y pídele un truco de cocina o ahorro.",
    "formato": "largo",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Desconfianza en la medicina y las farmacéuticas",
-   "menciones": 14,
-   "cita": "Las farmacéuticas ocultan la cura. Este video lo paga la OMS.",
-   "origen": "viral",
-   "titulo": "¿Y si desconfío de mi médico? Esto sí puedes hacer",
-   "gancho": "Desconfiar no es tonto. Lo que cuesta caro es decidir solo y a ciegas.",
-   "reto": "Escribe tres preguntas para tu próxima consulta y llévalas al papel.",
-   "formato": "largo",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Riñones: qué bebidas elegir (cada uno cuenta lo que toma)",
-   "menciones": 18,
-   "cita": "Tomo agua con limón y té verde frecuentemente",
-   "origen": "viral",
-   "titulo": "6 bebidas para tus riñones, en una taza",
-   "gancho": "La mayoría ya toma agua con limón. Pero casi nadie cuenta cuánta agua toma de verdad.",
-   "reto": "Marca hoy en tu cuaderno cuántos vasos de agua llevas al mediodía.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Cerveza y riñones: casos que contradicen el video",
-   "menciones": 11,
-   "cita": "¿Por qué mi hermano toma cerveza y nunca se enfermó, y yo sin tomar sí?",
-   "origen": "viral",
-   "titulo": "Tu hermano toma cerveza y tú no: ¿injusto?",
-   "gancho": "Que a otro no le pase nada no significa que a ti no te pase. Tu cuerpo es tu cuerpo.",
-   "reto": "Hoy cambia una bebida del día por agua y anota cómo amaneces.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Qué comer o comprar cuando hay incertidumbre (despensa y preparación)",
-   "menciones": 18,
-   "cita": "Frijol, arroz, azúcar, leche en polvo, aceite, miel y spaghetti",
-   "origen": "viral",
-   "titulo": "Despensa sana sin miedo: lo básico en una taza",
-   "gancho": "No hace falta entrar en pánico. Hace falta una despensa tranquila y que no te dé ansiedad.",
-   "reto": "Revisa tu despensa y escribe tres cosas que ya tienes y tres que de verdad te faltan.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Alimentos caducados: qué sí y qué no se puede comer",
-   "menciones": 8,
-   "cita": "Abrí una leche condensada caducada, cambió el sabor y la boté",
-   "origen": "viral",
-   "titulo": "Caducado no siempre es basura: así sabes",
-   "gancho": "Tiras comida por miedo a una fecha. A veces el olfato sabe más que la etiqueta.",
-   "reto": "Revisa hoy una sola alacena. Distingue fecha de caducidad de fecha de consumo preferente.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Dejar azúcar y pan: cómo empezar y mantenerse",
-   "menciones": 6,
-   "cita": "Me costó trabajo pero ya bajé 6 cm de cintura. Cuando ves el resultado te motivas.",
-   "origen": "viral",
-   "titulo": "Dejar el pan y el azúcar sin odiar tu vida",
-   "gancho": "No es castigo. Es cambiar una cosa pequeña y ver qué pasa en dos semanas.",
-   "reto": "Hoy cambia una sola bebida azucarada por agua o té sin azúcar.",
-   "formato": "largo",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Estreñimiento: alimentos que ayudan a ir al baño",
-   "menciones": 7,
-   "cita": "Cada noche pongo 5 ciruelas en agua y las como en ayunas",
-   "origen": "viral",
-   "titulo": "Ciruelas, fibra y baño diario: lo simple funciona",
-   "gancho": "El truco de la abuela suele ganarle a la pastilla. Pero ojo con las prisas.",
-   "reto": "Mañana añade una fruta con fibra al desayuno y un vaso de agua. Nada más.",
-   "formato": "short",
-   "urgencia": "media"
-  },
-  {
-   "tema": "Analgésicos: automedicarse y dolor (gastritis, cuál tomar)",
-   "menciones": 8,
-   "cita": "Me automedicando terminé con gastritis. Ojalá hubiera visto esto antes.",
-   "origen": "ambos",
-   "titulo": "Esa pastilla para el dolor no es inocente",
-   "gancho": "Tomas algo «solo para esto» y al mes tu estómago te pasa factura.",
-   "reto": "Anota qué analgésicos tienes en casa y para qué sirve cada uno. Si dudas, pregunta en la farmacia.",
-   "formato": "short",
-   "urgencia": "alta"
-  },
-  {
-   "tema": "Dolor lumbar y hernia: cómo dormir y aliviar",
-   "menciones": 5,
-   "cita": "Me duele la pierna por la noche, no la cadera ni la espalda",
-   "origen": "ambos",
-   "titulo": "Duele la pierna de noche: ¿y si es la espalda?",
-   "gancho": "A veces el dolor aparece en un lugar y nace en otro. Escucha dónde empieza.",
-   "reto": "Esta noche prueba una almohada entre las rodillas y anota cómo amaneces.",
-   "formato": "short",
-   "urgencia": "media"
+   "urgencia": "baja"
   }
  ],
  "objeciones_a_la_oferta": [
-  "Desconfían de la medicina y de la información de salud: creen que todo es negocio de farmacéuticas.",
-  "Les llega información contradictoria y no saben a quién creer: cada video dice algo distinto.",
-  "Prefieren remedios caseros o naturales porque los sienten probados por su familia, y la ciencia les suena a miedo.",
-  "Piensan que lo que le funciona a uno les sirve a todos: «a mi hermano no le pasa nada».",
-  "Quieren un sí o un no rápido y los videos largos o técnicos los confunden.",
-  "Les cuesta sostener los cambios (dejar azúcar, ayunar) si no ven resultados rápidos.",
-  "Se automedican por costumbre, para evitar la consulta, y a veces les sale caro.",
-  "Sienten que tener información no es lo mismo que saber qué hacer hoy."
+  "No tengo dinero para comprar una despensa completa ni para suplementos",
+  "Desconfío: dicen lo mismo todos los meses, es terrorismo de miedo para generar vistas",
+  "Sin gas ni electricidad no puedo cocinar, así que de qué sirve almacenar",
+  "Mi caso es distinto: conozco gente que toma o come de todo y no se enferma",
+  "La comida de hoy ya no es la de antes; está alterada por la industria",
+  "No sé cómo conservar bien los alimentos y se me dañan",
+  "Mi salud ya está comprometida (riñones, estreñimiento, fibromialgia) y no sé si esto me sirve",
+  "Prefiero confiar en Dios que preocuparme por prepararme"
  ],
  "respuestas_sugeridas": [
   {
-   "a": "Desconfianza en farmacéuticas y médicos («todo es negocio»)",
-   "respuesta": "Desconfiar es humano. Pero decidir solo, a ciegas, sale más caro. Lleva tus preguntas al médico. Tú decides, bien informado. Y el café, mientras tanto, sin azúcar."
+   "a": "No tengo dinero para guardar tanta comida",
+   "respuesta": "Tampoco lo necesitas. Un paquete extra por semana alcanza. La escalera se sube de un escalón a la vez. Hoy elige uno."
   },
   {
-   "a": "«Yo lo uso hace años y estoy perfecto» (bicarbonato, cerveza, etc.)",
-   "respuesta": "Qué bueno que te sientes bien. Tu cuerpo no es el de todos. Si tienes un análisis reciente, mejor. Si no, ese es tu reto de hoy: pedirlo."
+   "a": "Dicen lo mismo cada mes, es puro miedo",
+   "respuesta": "Te entiendo. Por eso aquí no vendemos miedo: prepararte tranquilo es cuidarte. Respira, toma tu café y haz solo lo que depende de ti."
   },
   {
-   "a": "Pregunta directa: «¿entonces es bueno o malo?»",
-   "respuesta": "Depende de ti: tu edad, tus riñones, tu dosis. Por eso no hay un sí universal. Consulta con un profesional y prueba con calma, no a lo loco."
+   "a": "Yo tomo o como eso y nunca me ha pasado nada",
+   "respuesta": "Qué bueno que hoy te sientes bien. Pero el cuerpo no avisa siempre. Una revisión con tu médico vale más que mil anécdotas, incluida la mía."
   },
   {
-   "a": "Cuenta su horario o rutina de ayuno o dieta",
-   "respuesta": "Gracias por contarlo. Lo que te funciona a ti es oro, pero no una regla para todos. Si tienes dudas de salud, tu médico ayuda mejor que cualquier video."
+   "a": "Tengo una condición (fibromialgia, riñones, hígado): ¿esto me sirve?",
+   "respuesta": "Cada cuerpo es distinto. Lo que cuento acompaña, no reemplaza a tu médico. Llévale tus dudas y deja que él te guíe con tu caso."
   },
   {
-   "a": "Comentarios religiosos o de bendición",
-   "respuesta": "Gracias por tu fe y tu cariño. Que tu casa tenga con qué cocinar y tu mesa, paz. Y mientras, una despensa ordenada nunca sobra."
+   "a": "Mejor confío en Dios que prepararme",
+   "respuesta": "Confiar y prepararte caminan juntos. Orar calma el alma y una despensa sencilla cuida tu mesa. Haz tu parte y suelta el resto."
   }
  ],
  "fuentes": [
@@ -181,31 +170,25 @@
    "origen": "viral",
    "video_id": "AHE7I0hNt-4",
    "titulo": "12 Alimentos que DEBES Comprar Antes de que Acabe Octubre (y se Vacíe el Súper)",
-   "n": 99
+   "n": 100
   },
   {
    "origen": "viral",
-   "video_id": "haSDtRxOxuI",
-   "titulo": "¿Qué le pasa a tu cuerpo si dejas el pan y el azúcar durante 14 días?",
-   "n": 28
-  },
-  {
-   "origen": "viral",
-   "video_id": "rUV41H2s6n4",
-   "titulo": "20 Alimentos “Caducados” Que Puedes Comer Sin Miedo (Y 7 Que Debes Tirar HOY)",
-   "n": 54
-  },
-  {
-   "origen": "viral",
-   "video_id": "8FT5rfUb4D8",
-   "titulo": "El secreto para ir al baño a diario: 5 alimentos que matan el estreñimiento",
-   "n": 83
+   "video_id": "vLE9EYWT6AY",
+   "titulo": "25 alimentos que yo guardo AÑOS sin nevera ni enchufe",
+   "n": 100
   },
   {
    "origen": "viral",
    "video_id": "LQrtMZdmCck",
    "titulo": "Cada Tipo de Analgésico y Sus Efectos en Tu Cuerpo, Explicado",
-   "n": 49
+   "n": 48
+  },
+  {
+   "origen": "viral",
+   "video_id": "8FT5rfUb4D8",
+   "titulo": "El secreto para ir al baño a diario: 5 alimentos que matan el estreñimiento",
+   "n": 87
   },
   {
    "origen": "viral",
@@ -227,15 +210,9 @@
   },
   {
    "origen": "viral",
-   "video_id": "8I0kJonw7Lg",
-   "titulo": "¿Qué le pasa a tu cuerpo cuando ayunas hasta las 12 todos los días?",
-   "n": 68
-  },
-  {
-   "origen": "viral",
-   "video_id": "p-FSyXvG1Qs",
-   "titulo": "Lo que OCURRE DENTRO de tus RIÑONES Cuando Tomas BICARBONATO TODOS LOS DÍAS ",
-   "n": 69
+   "video_id": "Ky61xN5ib5k",
+   "titulo": "12 alimentos baratos que guardo para enero (y cómo congelarlos)",
+   "n": 97
   },
   {
    "origen": "viral",
@@ -251,45 +228,57 @@
   },
   {
    "origen": "viral",
-   "video_id": "ZYkVEGtidv0",
-   "titulo": "Lo que OCURRE DENTRO de tus RIÑONES Cuando TOMAS LIMÓN EN AYUNAS",
-   "n": 63
-  },
-  {
-   "origen": "viral",
    "video_id": "ZZEgaDF2u-k",
    "titulo": "13 Alimentos que NO Sabías que Podías Congelar (¡Deja de Tirar Dinero!)",
    "n": 9
   },
   {
    "origen": "viral",
-   "video_id": "NZfGAL0pTMs",
-   "titulo": "¿Tienes el cortisol alto?",
-   "n": 6
-  },
-  {
-   "origen": "viral",
-   "video_id": "ff_0ijE4HZw",
-   "titulo": "La MEJOR POSTURA para DORMIR si tienes HERNIA L4-L5",
-   "n": 20
-  },
-  {
-   "origen": "viral",
-   "video_id": "J05WbyfgsM0",
-   "titulo": "🛒 10 PRODUCTOS SALUDABLES DE COSTCO MÉXICO (EL #6 CASI NADIE LO COMPRA) 😱",
-   "n": 6
-  },
-  {
-   "origen": "viral",
-   "video_id": "D9wk_w8vSx8",
-   "titulo": "Una mirada a la longevidad. Con Marije Goikoetxea y Molo Cebrián.",
-   "n": 0
+   "video_id": "n7ex8ENZrDw",
+   "titulo": "Habla Así a Tus Células | Meditación Profunda para Dejar de Exigirte y Sanar Desde Dentro",
+   "n": 100
   },
   {
    "origen": "viral",
    "video_id": "Kwms6QN1Rdw",
    "titulo": "¡ALERTA! 10 ALIMENTOS QUE DEBES TENER ANTES QUE TERMINE OCTUBRE ",
    "n": 11
+  },
+  {
+   "origen": "viral",
+   "video_id": "-BEd9eO85SA",
+   "titulo": "Esto le Pasa a tu Cuerpo si Comes Ajo por la Noche",
+   "n": 25
+  },
+  {
+   "origen": "viral",
+   "video_id": "1Cf1joTSBy4",
+   "titulo": "🚨 10 ALIMENTOS que DEBES tener antes de que termine 2026 ",
+   "n": 2
+  },
+  {
+   "origen": "viral",
+   "video_id": "7vOVW8BZcyY",
+   "titulo": "LOS 7 ALIMENTOS QUE TE SALVARÁN LA VIDA EN UNA CRISIS (DURAN AÑOS)",
+   "n": 17
+  },
+  {
+   "origen": "viral",
+   "video_id": "bahDzHhfjGY",
+   "titulo": "¿Estreñimiento? Haz ESTO cuando tu intestino se bloquee #DoctorVitae",
+   "n": 11
+  },
+  {
+   "origen": "viral",
+   "video_id": "ZC9dPIYu4kg",
+   "titulo": "Jesús ¿Cómo puedo calmar mi mente cuando la ansiedad no me deja vivir?",
+   "n": 12
+  },
+  {
+   "origen": "viral",
+   "video_id": "8PWanPSV5_8",
+   "titulo": "6 Alimentos que tus RIÑONES Agradecerán que Comas",
+   "n": 8
   },
   {
    "origen": "propio",
