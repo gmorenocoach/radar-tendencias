@@ -2,22 +2,21 @@
  "perfil": "soyintegral_es",
  "canal": "Soy Integral · Salud",
  "plan": {
-  "modo": "mantenimiento",
-  "objetivo": "Acumular horas y suscriptores con las reglas nuevas (8.000 h) sin frenar el sprint de Equilíbrate",
-  "desde": "2026-11-10",
-  "hasta": "2026-12-31",
-  "largos_semana": 1,
-  "shorts_semana": 3,
+  "modo": "crecimiento",
+  "objetivo": "4 Shorts/semana (2 radar, 2 historias de salud); sin largos (auditoría 2026-11-19)",
+  "desde": "2026-11-20",
+  "hasta": "2027-01-31",
+  "largos_semana": 0,
+  "shorts_semana": 4,
   "vivos_semana": 0,
   "comunidad_semana": 1,
-  "dias_largos": [
-   3
-  ],
+  "dias_largos": [],
   "hora_largos": "18:00",
   "dias_shorts": [
-   1,
-   3,
-   5
+   0,
+   2,
+   4,
+   6
   ],
   "hora_shorts": "12:00",
   "dias_vivos": [],
@@ -25,263 +24,137 @@
   "duracion_vivo_min": 60,
   "minutos_largo": 12,
   "series_activas": 1,
-  "subs_actuales": 0,
+  "subs_actuales": 11,
   "horas_actuales": 0,
-  "modo_largo": "economico"
+  "modo_largo": "economico",
+  "historias_semana": 2
  },
- "desde": "2026-11-10",
- "hasta": "2026-12-31",
- "generado": "2026-11-06T12:23:09",
+ "desde": "2026-11-20",
+ "hasta": "2027-01-31",
+ "generado": "2026-11-19T19:57:42",
  "series": [
   {
-   "nombre": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "tema_madre": "Tu cuerpo no se queja: te escribe cartas. Cansancio, hambre, tensión, pereza y desánimo son mensajes que casi nunca abrimos. En cada capítulo abres una carta y descubres qué intenta decirte. Al final de cada video queda una pista de la carta siguiente, y la sexta es la que cambia el sentido de las otras cinco.",
-   "promesa": "En 6 videos aprendes a leer las señales de tu cuerpo con curiosidad y sin culpa, y sales con 6 retos de menos de 5 minutos que puedes hacer hoy mismo. Esto es educación y hábitos cotidianos, no diagnóstico. Si una señal persiste o te preocupa, consulta a un profesional de la salud.",
+   "nombre": "Los 7 Días de Tu Cuerpo",
+   "tema_madre": "Una semana corriente en la vida de tu cuerpo, contada desde adentro: lo que le haces entre el lunes por la mañana y el domingo por la noche (lo que bebes, comes, guardas, tragas y callas), y las señales discretas que te manda sin que le hagas caso. Cada capítulo abre una puerta y deja otra entreabierta. Quien llega al final entiende cómo se conectan cuerpo, mente y trabajo.",
+   "promesa": "En 6 capítulos aprendes a leer las señales de tu cuerpo, entiendes qué hábitos cotidianos las provocan y sales con una rutina pequeña de revisión semanal, sin dietas milagro ni miedo, y sabiendo cuándo toca consultar a un profesional.",
    "capitulos": [
     {
      "n": 1,
-     "titulo": "Duermes 8 horas y despiertas cansado: 5 razones que nadie ve",
-     "subtema": "Carta 1, el sueño. Diferencia entre dormir horas y descansar: luz, pantallas, cena, cabeza llena y horarios. Se cuenta con la imagen de una taza que se llena pero nunca se vacía. Pista final: la energía de la tarde esconde otro mensaje. Se aclara que si el cansancio persiste, conviene consultar a un profesional. Reto de hoy: escribe en una nota tres cosas que haces en la última hora antes de dormir y tacha una.",
-     "referencia_video_id": "",
+     "titulo": "Lunes: lo que tu cuerpo ya te estaba diciendo y no escuchaste",
+     "subtema": "Las señales silenciosas (cansancio raro, hinchazón, sueño que no descansa, dolores que se repiten) y por qué las ignoramos. Introduce la semana y el Cuaderno del Cuerpo: anotar tres señales al día. Cuándo una señal ya merece cita médica.",
+     "referencia_video_id": "cImoZwQ7imc",
      "shorts": [
       {
-       "titulo": "Dormir 8 horas no siempre es descansar",
-       "gancho": "Tu cama te ve llegar a las 11 y tu cabeza sigue en la oficina. ¿Quién durmió, entonces?"
+       "titulo": "5 señales que tu cuerpo repite y tú ignoras",
+       "gancho": "Si llevas semanas cansado sin razón, tu cuerpo no está flojo: te está hablando. Tómate este café y escucha."
       },
       {
-       "titulo": "El error de la última hora del día",
-       "gancho": "Lo que haces 60 minutos antes de dormir pesa más que el colchón que compraste."
+       "titulo": "¿Cuánto llevas ignorando ese dolor?",
+       "gancho": "Un dolor que se repite no es mala suerte, es un mensaje. Hoy no lo tapes: anótalo."
       },
       {
-       "titulo": "Prueba esto esta noche con tu celular",
-       "gancho": "Un gesto de 10 segundos con tu teléfono y mañana notas la diferencia. Te cuento cuál."
+       "titulo": "El cuaderno que te ahorra una visita al médico",
+       "gancho": "Tres líneas al día. Eso es todo lo que necesitas para que tu médico te entienda a la primera. Reto de hoy: abre tu cuaderno."
       }
      ]
     },
     {
      "n": 2,
-     "titulo": "¿Por qué te da sueño a las 3 pm? No es solo el almuerzo",
-     "subtema": "Carta 2, la energía. El bajón de la tarde como mensaje: ritmo del día, hidratación, pausas, qué comes y cuándo, y cómo gastas la atención. Se usa la imagen del café que ya no despierta, sino que tapa. Pista final: a veces lo que parece hambre es otra cosa. Reto de hoy: toma un vaso de agua, estírate 2 minutos y anota tu nivel de energía de 1 a 10 antes y después.",
-     "referencia_video_id": "",
+     "titulo": "Martes: lo que bebes sin pensar (y lo que tus riñones notan)",
+     "subtema": "Hidratación real, bebidas diarias, café y alcohol en dosis cotidianas, y lo que los riñones necesitan para trabajar bien. Qué sí ayuda, qué es mito de moda y cuándo conviene revisar con un profesional.",
+     "referencia_video_id": "zC-7_ccwBeo",
      "shorts": [
       {
-       "titulo": "El bajón de las 3 pm tiene explicación",
-       "gancho": "No eres flojo. Tu tarde te está mandando un recado y lo estás silenciando con más café."
+       "titulo": "6 bebidas que tus riñones agradecen (y 2 que no)",
+       "gancho": "Antes de tu tercer café de hoy, mira esto. No es un regaño: es un mapa de tu taza."
       },
       {
-       "titulo": "Antes del tercer café, haz esto",
-       "gancho": "Dos minutos y un vaso de agua. Si no cambia nada, entonces sí, sírvete el café."
+       "titulo": "¿Tomas suficiente agua o solo crees que sí?",
+       "gancho": "Hay una forma simple de saberlo sin apps ni cálculos. Y está en el baño."
       },
       {
-       "titulo": "3 pausas de 1 minuto que reviven tu tarde",
-       "gancho": "No necesitas una siesta ni una hora libre. Necesitas un minuto bien usado, tres veces."
+       "titulo": "Lo que la cerveza diaria le cuenta a tu cuerpo",
+       "gancho": "No se trata de prohibir nada. Se trata de saber qué pasa cuando lo repites todos los días."
       }
      ]
     },
     {
      "n": 3,
-     "titulo": "¿Hambre o ganas de comer? 6 señales para distinguirlas",
-     "subtema": "Carta 3, el hambre. Hambre física frente a hambre emocional, aburrimiento, hábito y estrés. Sin dietas ni culpa: se trata de aprender a preguntarle al cuerpo antes de abrir la nevera. Pista final: lo que sientes en el cuello y los hombros también habla. Si hay una relación difícil con la comida, se recomienda apoyo profesional. Reto de hoy: antes de tu próximo antojo, escribe en una línea qué sientes y cuánta hambre tienes de 1 a 10.",
-     "referencia_video_id": "",
+     "titulo": "Miércoles: lo que comes por costumbre y no por hambre",
+     "subtema": "Alimentos que desinflaman y alimentos que cargan al hígado, comer por ansiedad vs. por hambre, y cómo armar un plato cotidiano sencillo y barato. Sin dietas extremas.",
+     "referencia_video_id": "q5g3wy6-mZM",
      "shorts": [
       {
-       "titulo": "La pregunta de 5 segundos antes de comer",
-       "gancho": "¿Tengo hambre o tengo ganas de que algo cambie? Esa pregunta te ahorra más de un antojo."
+       "titulo": "7 alimentos que tu hígado agradece (y 5 que le pesan)",
+       "gancho": "Tu hígado trabaja de madrugada mientras tú duermes. Esto es lo que le cargas en la cena."
       },
       {
-       "titulo": "Hambre de estómago vs hambre de cabeza",
-       "gancho": "Una aparece de a poco y acepta cualquier plato. La otra llega de golpe y exige algo específico."
+       "titulo": "¿Hambre o ansiedad? La pregunta de 10 segundos",
+       "gancho": "Antes de abrir la nevera, hazte esta pregunta. Cambia lo que pasa después."
       },
       {
-       "titulo": "Tu nevera no es el problema",
-       "gancho": "La abres 12 veces al día y no es por comida. Veamos qué estás buscando ahí dentro."
+       "titulo": "El plato barato que cuida tu cuerpo toda la semana",
+       "gancho": "No necesitas productos de moda. Necesitas cinco cosas que ya conoces."
       }
      ]
     },
     {
      "n": 4,
-     "titulo": "Tu mandíbula está apretada y no lo sabías: 5 pistas del estrés",
-     "subtema": "Carta 4, la tensión. Mandíbula, cuello, hombros y respiración corta como señales de un cuerpo en guardia. Se explican chequeos corporales sencillos y formas de soltar sin volverlo una tarea más. Se aclara que el dolor persistente merece consulta con un profesional. Pista final: casi nadie le da a su cuerpo lo que de verdad le pide, que es moverse. Reto de hoy: suelta la mandíbula, baja los hombros y haz 3 respiraciones lentas ahora mismo.",
-     "referencia_video_id": "",
+     "titulo": "Jueves: el intestino, tu segundo cerebro (y por qué se bloquea cuando te estresas)",
+     "subtema": "Conexión intestino-mente: estreñimiento, hinchazón y estrés. Alimentos y hábitos simples que ayudan a ir al baño con regularidad, y la respiración como herramienta. Señales de alarma para consultar.",
+     "referencia_video_id": "8FT5rfUb4D8",
      "shorts": [
       {
-       "titulo": "Suelta la mandíbula: lo estás apretando ahora",
-       "gancho": "Lleva la atención a tus dientes. ¿Están pegados? Ya sabes cuánto cargas sin notarlo."
+       "titulo": "5 alimentos que ayudan a ir al baño a diario",
+       "gancho": "Ir al baño con regularidad no es un tema incómodo: es un termómetro de tu semana."
       },
       {
-       "titulo": "Tus hombros llevan una taza que no pediste",
-       "gancho": "Los subes cuando te estresas y se quedan ahí horas. Bájalos y mira qué pasa."
+       "titulo": "Por qué el estrés se siente en tu barriga",
+       "gancho": "Tu estómago y tu mente comparten cableado. Mira cómo se hablan."
       },
       {
-       "titulo": "3 respiraciones que cambian el ritmo del día",
-       "gancho": "Cuarenta segundos, sin app y sin sentarte en el suelo. Hazlas conmigo."
+       "titulo": "El minuto de respiración antes de comer",
+       "gancho": "Un minuto. Una mano en la barriga. Prueba esto hoy y me cuentas."
       }
      ]
     },
     {
      "n": 5,
-     "titulo": "No necesitas gimnasio: 6 formas de mover tu cuerpo hoy",
-     "subtema": "Carta 5, el movimiento. Desmontar la excusa de no tengo tiempo con micromovimientos: escaleras, caminar mientras llamas, estirarse al esperar el café. Se presenta el movimiento como conversación con el cuerpo y no como castigo. Se sugiere consultar a un profesional antes de empezar si hay condiciones de salud. Pista final: existe una sexta carta que casi nadie abre y que explica por qué abandonamos todo lo anterior. Reto de hoy: sube una escalera, da una vuelta a la manzana o estírate 3 minutos.",
-     "referencia_video_id": "",
+     "titulo": "Viernes: lo que tragas cuando te duele (analgésicos, automedicación y sentido común)",
+     "subtema": "Tipos de analgésicos y para qué sirven, riesgos de la automedicación frecuente, y la pregunta de fondo: ¿qué me está queriendo decir este dolor? Cuándo preguntar a un farmacéutico o médico antes de tomar algo.",
+     "referencia_video_id": "LQrtMZdmCck",
      "shorts": [
       {
-       "titulo": "Sin tiempo para ejercicio? Prueba la regla de la escalera",
-       "gancho": "Cada vez que veas una escalera, sube un tramo. Tu día se llena de movimiento sin agenda."
+       "titulo": "Cada pastilla para el dolor hace algo distinto",
+       "gancho": "No todo lo que quita el dolor funciona igual. Antes de tomar la siguiente, mira esto."
       },
       {
-       "titulo": "Estírate mientras se hace tu café",
-       "gancho": "Esos 90 segundos de espera son un regalo. Los has estado mirando como un trámite."
+       "titulo": "Tu dolor de cabeza del viernes no es casualidad",
+       "gancho": "Se repite cada semana, mismo día, misma hora. Eso es un patrón, no un castigo."
       },
       {
-       "titulo": "Moverte no es castigo por lo que comiste",
-       "gancho": "Si lo ves como pago, vas a abandonarlo. Mira esta otra forma de verlo."
+       "titulo": "La pregunta que deberías hacerle a tu farmacéutico",
+       "gancho": "Una pregunta de cinco palabras puede evitarte un problema. Te la regalo en este video."
       }
      ]
     },
     {
      "n": 6,
-     "titulo": "La carta número 6 que casi nadie abre (y cambia las otras 5)",
-     "subtema": "Carta 6, la escucha y la pausa. Es la carta que conecta sueño, energía, hambre, tensión y movimiento: dejar de vivir en piloto automático y hacerse un chequeo diario de 3 minutos. Cierre emocional con recapitulación de las 6 cartas y un cuaderno del cuerpo como ritual. Invitación a ver la Serie 2. Reto de hoy: abre tu cuaderno y responde en una línea cómo está tu cuerpo hoy y qué necesita.",
+     "titulo": "Domingo: la revisión de 10 minutos que cambia tu semana",
+     "subtema": "Cierre de la serie. Un ritual dominical sencillo: revisar el cuaderno, elegir un hábito pequeño para la semana, preparar el entorno (agua, comida, sueño) y decidir qué consultar con un profesional. Cuerpo, mente y trabajo como un solo sistema.",
      "referencia_video_id": "",
      "shorts": [
       {
-       "titulo": "La carta que tu cuerpo escribe en mayúsculas",
-       "gancho": "Las otras cinco fueron susurros. Esta es la que lleva meses subrayada y no la has abierto."
+       "titulo": "El ritual de 10 minutos del domingo para tu salud",
+       "gancho": "Diez minutos hoy te ahorran el lunes caótico. Sírvete un café y empezamos."
       },
       {
-       "titulo": "El chequeo de 3 minutos que hago cada mañana",
-       "gancho": "Una taza, un cuaderno y tres preguntas. Así empiezo a escucharme antes que a mi celular."
+       "titulo": "Elige UN hábito esta semana (solo uno)",
+       "gancho": "Más hábitos no es mejor. Uno bien elegido sí. Te enseño cómo escoger el tuyo."
       },
       {
-       "titulo": "Si solo pudieras hacer una cosa por tu salud hoy",
-       "gancho": "Después de 5 cartas, esto es lo que yo elegiría. Te sorprende por lo simple."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "nombre": "La casa de tu salud: 6 cuartos con la luz apagada",
-   "tema_madre": "Tu salud es una casa con seis cuartos (cocina, dormitorio, escalera, sala, escritorio y un cuarto cerrado con llave). Casi todos vivimos en dos o tres y dejamos los demás a oscuras. Cada capítulo enciende un cuarto con una idea práctica y un Reto de hoy de menos de 5 minutos. Al final de cada video, Germancho deja la puerta del siguiente cuarto entreabierta, y el último es el que llevas años sin abrir.",
-   "promesa": "En 6 videos recorres tu casa por dentro, enciendes cada luz con un gesto pequeño y descubres cuál es el cuarto que llevas tiempo evitando, sin sermones ni fórmulas mágicas.",
-   "capitulos": [
-    {
-     "n": 1,
-     "titulo": "Tu cocina no tiene hambre: tiene hábitos que no elegiste",
-     "subtema": "Comer en automático. Diferencia entre hambre física, aburrimiento y costumbre; cómo el entorno (qué ves, qué guardas, a qué hora) decide por ti. Sin dietas ni prohibiciones. Reto de hoy: antes de abrir la nevera, toma un vaso de agua y pregúntate si es hambre, aburrimiento o costumbre; cuéntalo en comentarios. Cierre: se escucha un ruido en el dormitorio, que es el siguiente cuarto. Si tienes una condición médica o un trastorno alimentario, consulta a un profesional.",
-     "referencia_video_id": "",
-     "shorts": [
-      {
-       "titulo": "¿Hambre o aburrimiento? La prueba del vaso",
-       "gancho": "Abres la nevera sin tener hambre. Antes de tocar nada, haz esto con un vaso de agua."
-      },
-      {
-       "titulo": "El snack que ves es el snack que comes",
-       "gancho": "No es falta de voluntad. Es que lo dejaste a la altura de tus ojos. Mira lo que hago yo."
-      },
-      {
-       "titulo": "3 preguntas antes de picar algo a las 11 p. m.",
-       "gancho": "Son las 11 de la noche y tu cocina te llama por tu nombre. Responde estas 3 preguntas primero."
-      }
-     ]
-    },
-    {
-     "n": 2,
-     "titulo": "Duermes 8 horas y despiertas cansado: 5 cosas que nadie revisa",
-     "subtema": "El dormitorio como cuarto de descanso y no de pantallas. Hábitos que sabotean el sueño: luz, cafeína tardía, cena pesada, celular en la cama, horarios caóticos. Reto de hoy: deja el celular cargando fuera del alcance de la cama. Cierre: se oyen pasos en la escalera, que es el siguiente cuarto. Si el cansancio o el insomnio persisten, consulta a un profesional de la salud.",
-     "referencia_video_id": "",
-     "shorts": [
-      {
-       "titulo": "El café de las 4 p. m. sigue en tu cuerpo a medianoche",
-       "gancho": "Te tomaste un café a media tarde y a las 12 sigues mirando el techo. Te explico por qué."
-      },
-      {
-       "titulo": "Tu cama no es una oficina ni un cine",
-       "gancho": "Tu cerebro aprende dónde estás. Si en la cama trabajas y ves series, ¿qué crees que entiende?"
-      },
-      {
-       "titulo": "El truco de los 10 minutos antes de dormir",
-       "gancho": "No necesitas una rutina de una hora. Necesitas 10 minutos y una taza tibia."
-      }
-     ]
-    },
-    {
-     "n": 3,
-     "titulo": "No necesitas gimnasio: necesitas 10 escalones y 2 minutos",
-     "subtema": "La escalera como símbolo del movimiento mínimo. Microhábitos: moverte un poco, todos los días, vale más que prometer una hora que nunca llega. Cómo romper la parálisis del todo o nada. Reto de hoy: al terminar tu café, camina o estírate 2 minutos y cuéntalo en comentarios. Cierre: desde la escalera se ve una luz encendida en la sala, el siguiente cuarto. Si tienes una condición médica, consulta a un profesional antes de cambiar tu actividad física.",
-     "referencia_video_id": "",
-     "shorts": [
-      {
-       "titulo": "El ejercicio de 2 minutos que sí vas a hacer",
-       "gancho": "Si tu plan de ejercicio muere el martes, el problema es que es demasiado grande. Prueba esto."
-      },
-      {
-       "titulo": "Todo o nada: la mentira que te mantiene en el sofá",
-       "gancho": "Si no puedes hacer una hora, no haces nada. Esa frase tiene truco. Te lo muestro."
-      },
-      {
-       "titulo": "Sube un piso a pie: lo que pasa después de 7 días",
-       "gancho": "Una semana, un solo piso de escaleras al día. No esperes magia, mira lo que sí cambia."
-      }
-     ]
-    },
-    {
-     "n": 4,
-     "titulo": "Tu salud se contagia: ¿con quién te tomas el café?",
-     "subtema": "La sala como cuarto de los vínculos. Cómo la soledad, las conversaciones pendientes y la gente que te drena o te nutre influyen en tu bienestar. Sin dramatizar: pequeños gestos de conexión. Reto de hoy: envía un audio corto a alguien con quien llevas tiempo sin hablar. Cierre: sobre el escritorio suena una notificación que no has querido mirar, el siguiente cuarto. Si te sientes muy solo o desbordado, busca apoyo profesional.",
-     "referencia_video_id": "",
-     "shorts": [
-      {
-       "titulo": "La persona que te cansa sin que lo notes",
-       "gancho": "Hay conversaciones que te dejan con la batería en 10%. Aprende a detectarlas con una pregunta."
-      },
-      {
-       "titulo": "Un audio de 30 segundos puede cambiar tu semana",
-       "gancho": "No necesitas una llamada de una hora. Necesitas 30 segundos y a alguien en mente."
-      },
-      {
-       "titulo": "Estás acompañado y aun así te sientes solo",
-       "gancho": "Puedes tener la sala llena y sentirte vacío. Esto es lo que casi nadie dice de eso."
-      }
-     ]
-    },
-    {
-     "n": 5,
-     "titulo": "Tu estrés no es falta de tiempo: 4 pausas de 60 segundos",
-     "subtema": "El escritorio como cuarto del estrés y las pantallas. Diferencia entre estar ocupado y estar acelerado; pausas breves de respiración, postura y mirada; cómo poner límites al día sin culpa. Reto de hoy: haz 3 respiraciones lentas y estira el cuello, y cuenta cómo te sentiste. Cierre: Germancho señala la puerta del fondo, la que lleva años cerrada con llave. Si el estrés afecta tu salud o tu ánimo de forma sostenida, consulta a un profesional.",
-     "referencia_video_id": "",
-     "shorts": [
-      {
-       "titulo": "La pausa de 60 segundos que no parece pausa",
-       "gancho": "Nadie en tu oficina se va a dar cuenta. Tu cuerpo sí. Cronómetro en mano: un minuto."
-      },
-      {
-       "titulo": "Ocupado no es lo mismo que acelerado",
-       "gancho": "Puedes tener 20 tareas y estar en calma, o 2 y estar al borde. Hay una diferencia clave."
-      },
-      {
-       "titulo": "Tu cuello lleva el peso de tu agenda",
-       "gancho": "Si al final del día te duele el cuello, quizá no es solo la silla. Mira este gesto."
-      }
-     ]
-    },
-    {
-     "n": 6,
-     "titulo": "El cuarto cerrado de tu salud: lo que llevas años sin abrir",
-     "subtema": "Todos tenemos algo que evitamos: un chequeo pendiente, una emoción, una conversación, pedir ayuda. Cómo acercarte a eso con pasos pequeños, sin exigirte abrir la puerta de golpe. Cierre de la serie: recorrido por la casa y elección del cuarto que más necesita luz. Reto de hoy: escribe en tu cuaderno una cosa que evitas y el primer paso de menos de 5 minutos, por ejemplo agendar una cita. Si es algo médico o emocional, el paso más valiente es consultar a un profesional.",
-     "referencia_video_id": "",
-     "shorts": [
-      {
-       "titulo": "Esa cita médica que llevas meses posponiendo",
-       "gancho": "Sabes cuál es. La que tienes en la cabeza desde hace meses. Hoy damos el primer paso, uno chiquito."
-      },
-      {
-       "titulo": "Lo que evitas te pesa más que lo que haces",
-       "gancho": "Cargar con lo pendiente cansa más que enfrentarlo. Escríbelo en tu cuaderno y mira qué pasa."
-      },
-      {
-       "titulo": "Pedir ayuda no es rendirte: es abrir la puerta",
-       "gancho": "Llevas años diciendo yo puedo solo. ¿Y si la fuerza está en dejar la llave en otras manos?"
+       "titulo": "Tu cuerpo no es una máquina, es una conversación",
+       "gancho": "Llevas siete días de pistas. Hoy las juntamos y armamos tu rutina."
       }
      ]
     }
@@ -290,239 +163,328 @@
  ],
  "vivos": [
   {
-   "titulo": "En vivo: ¿Qué hábito de salud llevas años posponiendo?",
-   "pregunta_abierta": "¿Cuál es ese hábito que sabes que te haría bien y llevas meses o años dejando para después? ¿Qué excusa usas siempre? Vamos a ponerle nombre juntos en el chat.",
-   "reto_colectivo": "Durante el vivo, cada persona escribe su hábito y lo reduce a una versión de menos de 5 minutos. Todos lo hacemos al mismo tiempo antes de cerrar la transmisión, y quien quiera cuenta cómo le fue en comentarios."
+   "titulo": "Cuerpo, mente y trabajo: ¿qué señal estás ignorando?",
+   "pregunta_abierta": "¿Qué te está diciendo tu cuerpo últimamente que has decidido no escuchar?",
+   "reto_colectivo": "Durante el vivo, cada quien escribe en el chat una señal de su cuerpo y un gesto de 5 minutos para atenderla hoy. Al final, todos hacemos una pausa de respiración juntos."
   },
   {
-   "titulo": "En vivo: Tu cuerpo te habla, ¿le estás contestando?",
-   "pregunta_abierta": "¿Qué señal pequeña de tu cuerpo llevas tiempo ignorando: cansancio, tensión, sueño, antojos? ¿Qué crees que te quiere decir? Si algo te preocupa de verdad, lo mejor es consultarlo con un profesional de salud.",
-   "reto_colectivo": "Hacemos una pausa de 5 minutos en vivo: cada quien se estira, toma agua y anota en su cuaderno una señal de su cuerpo. Quien quiera, la comparte en el chat y entre todos proponemos una acción pequeña de cuidado."
+   "titulo": "Tu despensa también es salud: armemos la lista juntos",
+   "pregunta_abierta": "¿Qué alimento sencillo no falta en tu casa y cuál te gustaría incorporar este mes?",
+   "reto_colectivo": "Entre todos armamos una lista de 10 alimentos básicos en el chat. Cada persona se compromete a revisar su despensa esta semana y a compartir una foto o un comentario el domingo."
   }
  ],
  "comunidad": [
   {
    "tipo": "encuesta",
-   "texto": "Personaliza tu Germancho: ¿de qué quieres que hable el próximo video? A) Dormir mejor B) Tener más energía en la tarde C) Moverme sin aburrirme D) Comer con menos culpa. Vota y cuéntame por qué en comentarios."
+   "texto": "Personaliza tu Germancho: ¿qué tema de salud quieres ver más en los Shorts? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y mente D) Despensa y ahorro"
+  },
+  {
+   "tipo": "reto",
+   "texto": "Reto de la semana: durante 7 días, toma un vaso de agua antes de tu primer café. Cuéntame en comentarios cómo te fue el día 3."
+  },
+  {
+   "tipo": "pregunta",
+   "texto": "Si tu cuerpo pudiera dejarte una nota en la nevera hoy, ¿qué crees que diría? Cuéntamelo abajo."
   },
   {
    "tipo": "encuesta",
-   "texto": "Personaliza tu Germancho: ¿cómo prefieres tu reto de la semana? A) 5 minutos de movimiento B) 5 minutos de respiración y silencio C) 5 minutos de cuaderno D) Sorpréndeme, que yo me animo."
+   "texto": "Personaliza tu Germancho: ¿a qué hora prefieres tu café con propósito? A) Mañana B) Mediodía C) Tarde D) Noche"
   },
   {
    "tipo": "reto",
-   "texto": "Reto de la semana: la taza de las 3 pausas. Cada día toma 3 pausas de 1 minuto: una al despertar, una a media tarde y una antes de dormir. En cada una, respira lento y pregúntate cómo está tu cuerpo. Cuéntame el viernes cuál pausa te costó menos."
-  },
-  {
-   "tipo": "reto",
-   "texto": "Reto de la semana: la escalera del agua. Lunes 1 vaso extra, martes 2, miércoles 3 y así hasta donde se sienta cómodo para ti. Si tienes alguna condición de salud, ajusta con tu profesional. Cuenta en comentarios hasta qué escalón llegaste."
+   "texto": "Reto de la semana: revisa una etiqueta de algo que comes a diario. Lee los tres primeros ingredientes y cuéntame qué descubriste."
   },
   {
    "tipo": "pregunta",
-   "texto": "Pregunta para hoy: ¿cuál es el hábito más pequeño que hiciste esta semana y que sí te hizo sentir mejor? Escríbelo en una línea. Seguro le sirve a alguien más."
-  },
-  {
-   "tipo": "pregunta",
-   "texto": "Pregunta para hoy: si tu salud fuera una taza de café, ¿cómo está hoy: vacía, tibia, amarga o recién servida? Cuéntame por qué, sin juicios."
+   "texto": "¿Qué hábito pequeño de salud sí te ha funcionado y quieres compartir con los demás? Sin juicios, solo ideas útiles."
   }
  ],
+ "conversion": [
+  {
+   "titulo": "Qué pasa en la clase gratuita (no es lo que piensas)",
+   "gancho": "Tu cuerpo avisa antes de que tu agenda se dé cuenta. Te cuento qué pasa en una clase gratuita de Café con Propósito.",
+   "formato": "Short de Germancho, 45 s: escena de taza y cuaderno; lista rápida de 3 momentos de la clase (una pregunta, un ejercicio de 2 minutos, una conversación honesta); cierra con Reto de hoy y la invitación: si quieres vivirla con tu equipo, el enlace está en el comentario fijado."
+  },
+  {
+   "titulo": "Hizo el reto 7 días y dejó de vivir en piloto automático",
+   "gancho": "Ella llegaba a casa con la mente en la oficina y el cuerpo agotado. Una semana de retos pequeños movió algo.",
+   "formato": "Short de historia, 50 s: relato en tercera persona de alguien que hizo el reto de 7 días (nombre cambiado, sin prometer resultados); un día clave con una imagen cotidiana; cierre: Reto de hoy y la invitación a conocer el programa si quieres algo parecido para tu empresa."
+  },
+  {
+   "titulo": "Así trabajo con la gente: sin discursos, con preguntas",
+   "gancho": "Cuando alguien llega a mi mesa, no le doy una receta: le sirvo una pregunta.",
+   "formato": "Short de Germancho, 40 s: metáfora del barista; tres pasos del trabajo (escuchar, nombrar lo que pasa, elegir una acción pequeña); Reto de hoy; cierre con invitación abierta: si tu equipo quiere trabajar así, escríbeme y lo conversamos."
+  },
+  {
+   "titulo": "3 preguntas que me hacen siempre sobre el programa",
+   "gancho": "Siempre me preguntan lo mismo: si es para mí, cuánto tiempo toma y si funciona. Te respondo con honestidad.",
+   "formato": "Short de Germancho, 55 s: tres tarjetas con pregunta y respuesta corta; sin promesas de resultados (es un proceso, no una garantía); Reto de hoy; cierre: más preguntas en comentarios y el enlace a la clase gratuita."
+  },
+  {
+   "titulo": "Tu equipo no necesita más café: necesita esto",
+   "gancho": "Puedes tener reuniones perfectas y un equipo agotado. Cuerpo, mente y trabajo son un solo sistema.",
+   "formato": "Short de Germancho, 45 s: contraste entre agenda llena y equipo cansado; una idea sobre liderazgo cercano; recordatorio de que ante síntomas conviene consultar a un profesional; Reto de hoy; cierre: si lideras gente y quieres explorarlo, el Programa de Liderazgo Café con Propósito tiene una clase gratuita."
+  }
+ ],
+ "rostro": [
+  {
+   "titulo": "Por qué empecé a trabajar con empresas",
+   "gancho": "Llevo 27 años acompañando personas y vi que casi nadie se detiene a mirar cómo trabaja.",
+   "ideas": [
+    "Lo que vi en consulta: el trabajo mueve la salud, el dinero y el amor.",
+    "Un equipo no cambia por charlas motivacionales; cambia con conversaciones y acciones pequeñas.",
+    "Por eso nació el Programa de Liderazgo Café con Propósito."
+   ],
+   "cierre": "Si quieres ver cómo es, hay una clase gratuita: el enlace está en la descripción."
+  },
+  {
+   "titulo": "Lo que le pasa a un equipo cuando el líder se cuida",
+   "gancho": "Un líder cansado contagia cansancio, y no hace falta que lo diga.",
+   "ideas": [
+    "El ejemplo se nota más que el discurso.",
+    "Cuidarte no es egoísmo: es tu primera herramienta de liderazgo.",
+    "Un hábito de 5 minutos al día puede cambiar el tono de una oficina."
+   ],
+   "cierre": "Si lideras y quieres explorarlo con tu equipo, te invito a la clase gratuita; el enlace está abajo."
+  },
+  {
+   "titulo": "3 señales de que tu equipo vive en piloto automático",
+   "gancho": "Cuando todos responden bien pero nadie propone nada, algo se apagó.",
+   "ideas": [
+    "Reuniones largas sin decisiones claras.",
+    "Se cumple, pero nadie se emociona con lo que hace.",
+    "El cansancio se vuelve normal y nadie lo menciona."
+   ],
+   "cierre": "Si te reconociste, conversemos: la clase gratuita del programa es un buen primer paso."
+  },
+  {
+   "titulo": "Qué es un coach ontológico (sin tecnicismos)",
+   "gancho": "No te digo qué hacer: te ayudo a ver desde dónde estás decidiendo.",
+   "ideas": [
+    "Ontológico significa mirar quién eres al actuar, no solo qué haces.",
+    "Una pregunta bien hecha mueve más que un consejo.",
+    "El cambio empieza con una acción pequeña y sostenida."
+   ],
+   "cierre": "Si tienes curiosidad por cómo se aplica en una empresa, mira la clase gratuita del enlace."
+  },
+  {
+   "titulo": "El reto de 7 días que hacemos con los equipos",
+   "gancho": "Siete días, cinco minutos al día, cero discursos.",
+   "ideas": [
+    "Cada día una acción pequeña: pausa, pregunta, agradecimiento.",
+    "No se trata de hacerlo perfecto, sino de hacerlo.",
+    "Al final del reto, cada persona nombra lo que notó, sin presión ni garantías."
+   ],
+   "cierre": "Si quieres que tu equipo lo pruebe, escríbeme o entra a la clase gratuita desde el enlace."
+  },
+  {
+   "titulo": "Lo que nadie te dice de liderar con cansancio",
+   "gancho": "Liderar cansado no te hace más fuerte: te hace más reactivo.",
+   "ideas": [
+    "El cuerpo manda señales antes de que la mente las acepte.",
+    "Parar a tiempo es una decisión de liderazgo, no una debilidad.",
+    "Si hay síntomas persistentes, lo primero es consultar a un profesional de la salud."
+   ],
+   "cierre": "Si quieres trabajar el liderazgo desde el equilibrio, el programa tiene una clase gratuita; enlace abajo."
+  },
+  {
+   "titulo": "Una pregunta para empezar la reunión distinta",
+   "gancho": "Antes de abrir la agenda, prueba esta pregunta con tu equipo.",
+   "ideas": [
+    "La pregunta: ¿qué necesitas hoy para estar presente aquí?",
+    "Escuchar sin resolver crea más confianza que cualquier dinámica.",
+    "Dos minutos pueden cambiar el clima de toda la reunión."
+   ],
+   "cierre": "Si quieres más herramientas así, te espero en la clase gratuita del programa."
+  },
+  {
+   "titulo": "Café con Propósito: de un libro a un programa",
+   "gancho": "El libro nació en una mesa de café, y las mejores conversaciones siguen empezando ahí.",
+   "ideas": [
+    "Café con Propósito parte de una idea simple: volver a ti para decidir mejor.",
+    "El programa lleva esa idea al trabajo diario de un equipo.",
+    "Todo se traduce en retos pequeños, no en teoría."
+   ],
+   "cierre": "Si quieres ver cómo se vive, hay una clase gratuita; el enlace está en la descripción."
+  },
+  {
+   "titulo": "Cómo se ve un equipo con propósito (sin postureo)",
+   "gancho": "Un equipo con propósito no es el que sonríe en la foto: es el que sabe para qué hace lo que hace.",
+   "ideas": [
+    "Saben qué aportan y cómo se conecta con lo de los demás.",
+    "Se hablan claro y se cuidan sin dramatismo.",
+    "Cada quien tiene una acción pequeña para sostenerlo."
+   ],
+   "cierre": "Si quieres construir eso en tu empresa, empecemos por la clase gratuita; enlace abajo."
+  },
+  {
+   "titulo": "Preguntas honestas antes de contratar un programa de liderazgo",
+   "gancho": "Antes de invertir en cualquier programa, hazte estas tres preguntas, incluso si no es el mío.",
+   "ideas": [
+    "¿Qué quiero que cambie en la forma de trabajar, no solo en los resultados?",
+    "¿Habrá acciones concretas o solo teoría?",
+    "¿Quién acompaña y cómo se sostiene después?"
+   ],
+   "cierre": "Si quieres ver cómo respondo yo, entra a la clase gratuita del Programa de Liderazgo Café con Propósito."
+  }
+ ],
+ "mezcla": {
+  "atraccion": 27,
+  "nutricion": 20,
+  "conversion": 15
+ },
  "piezas": [
   {
-   "id": "soyintegral_es-20261110-S",
-   "fecha": "2026-11-10",
-   "hora": "12:00",
-   "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 1,
-   "titulo": "Dormir 8 horas no siempre es descansar",
-   "gancho": "Tu cama te ve llegar a las 11 y tu cabeza sigue en la oficina. ¿Quién durmió, entonces?",
-   "referencia_video_id": "",
-   "estado": "producido",
-   "produccion_id": "20261108-soyintegral_es-dormiste-8-horas-y-sigues-cansado-carta-1-de-6",
-   "resultado": "ok 260s",
-   "producido_en": "2026-11-08T16:24:27"
-  },
-  {
-   "id": "soyintegral_es-20261112-L",
-   "fecha": "2026-11-12",
-   "hora": "18:00",
-   "tipo": "largo",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 1,
-   "titulo": "Duermes 8 horas y despiertas cansado: 5 razones que nadie ve",
-   "subtema": "Carta 1, el sueño. Diferencia entre dormir horas y descansar: luz, pantallas, cena, cabeza llena y horarios. Se cuenta con la imagen de una taza que se llena pero nunca se vacía. Pista final: la energía de la tarde esconde otro mensaje. Se aclara que si el cansancio persiste, conviene consultar a un profesional. Reto de hoy: escribe en una nota tres cosas que haces en la última hora antes de dormir y tacha una.",
-   "referencia_video_id": "",
-   "minutos": 12,
-   "estado": "producido",
-   "produccion_id": "20261110-soyintegral_es-largo-duermes-8-horas-y-despiertas-cansado-5-r",
-   "resultado": "ok 687s",
-   "producido_en": "2026-11-10T11:03:50"
-  },
-  {
-   "id": "soyintegral_es-20261112-S",
-   "fecha": "2026-11-12",
+   "id": "soyintegral_es-20261120-S",
+   "fecha": "2026-11-20",
    "hora": "12:00",
    "tipo": "short",
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "Dormir 8 horas no es la meta: haz esto primero",
-   "gancho": "Te acuestas temprano y amaneces igual de cansado. Pasa. A veces el problema no es la cantidad, es lo que haces los 20 minutos antes de cerrar los ojos. Apaga la pantalla, sirve una taza de algo tibio sin cafeína y suelta el día. Si el cansancio no se va, consulta a un profesional. Reto de hoy: antes de dormir, escribe en tu cuaderno una sola cosa que ya puedes dejar para mañana.",
-   "referencia_video_id": "sin_referencia (lista vacía)",
-   "estado": "producido",
-   "produccion_id": "20261110-soyintegral_es-8-horas-no-bastan-cuida-primero-tus-ultimos-20-min",
-   "resultado": "ok 215s",
-   "producido_en": "2026-11-10T11:30:27"
-  },
-  {
-   "id": "soyintegral_es-20261114-S",
-   "fecha": "2026-11-14",
-   "hora": "12:00",
-   "tipo": "short",
-   "origen": "radar",
-   "serie": "",
-   "capitulo": "",
-   "titulo": "¿Por qué te cansas si hoy no hiciste nada?",
-   "gancho": "Tu cuerpo quieto no siempre descansa. Tu cabeza lleva toda la mañana subiendo escaleras. Hay un cansancio que no viene de moverte, sino de cargar pendientes. Hoy lo vamos a bajar un escalón. Reto de hoy: pon un temporizador de 3 minutos, respira lento y escribe en una nota tus tres pendientes más ruidosos. Cuéntame en comentarios cuál pesa más.",
-   "referencia_video_id": "sin_referencia (lista vacía)",
-   "estado": "producido",
-   "produccion_id": "20261112-soyintegral_es-por-que-terminas-molido-si-no-hiciste-nada-3-minut",
-   "resultado": "ok 249s",
-   "producido_en": "2026-11-12T17:49:16"
-  },
-  {
-   "id": "soyintegral_es-20261116-C",
-   "fecha": "2026-11-16",
-   "hora": "09:00",
-   "tipo": "comunidad",
-   "titulo": "Personaliza tu Germancho: ¿de qué quieres que hable el próximo video? A) Dormir mejor B) Tener más energía en la tarde C) Moverme sin aburrirme D) Comer con menos culpa. Vota y cuéntame por qué en comentarios.",
-   "subtipo": "encuesta",
+   "titulo": "6 bebidas para cuidar tus riñones (sin complicarte)",
+   "gancho": "Tus riñones trabajan 24/7 y casi nunca les dices gracias. Hoy les sirvo una taza.",
+   "referencia_video_id": "zC-7_ccwBeo",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261117-S",
-   "fecha": "2026-11-17",
+   "id": "soyintegral_es-20261120-R",
+   "fecha": "2026-11-20",
    "hora": "12:00",
-   "tipo": "short",
-   "origen": "radar",
-   "serie": "",
-   "capitulo": "",
-   "titulo": "5 minutos de caminata que cambian tu tarde",
-   "gancho": "No necesitas gimnasio ni ropa deportiva. Necesitas la puerta de tu casa y cinco minutos. Sales, caminas sin celular y vuelves. Tu tarde se siente distinta, como una taza recién servida. Reto de hoy: sal ahora mismo a caminar 5 minutos, sin audífonos, y comenta qué notaste.",
-   "referencia_video_id": "sin_referencia (lista vacía)",
-   "estado": "producido",
-   "produccion_id": "20261115-soyintegral_es-5-minutos-que-cambian-tu-tarde-sin-gimnasio",
-   "resultado": "ok 171s",
-   "producido_en": "2026-11-15T16:39:29"
+   "tipo": "rostro",
+   "titulo": "Por qué empecé a trabajar con empresas",
+   "gancho": "Llevo 27 años acompañando personas y vi que casi nadie se detiene a mirar cómo trabaja.",
+   "ideas": [
+    "Lo que vi en consulta: el trabajo mueve la salud, el dinero y el amor.",
+    "Un equipo no cambia por charlas motivacionales; cambia con conversaciones y acciones pequeñas.",
+    "Por eso nació el Programa de Liderazgo Café con Propósito."
+   ],
+   "cierre": "Si quieres ver cómo es, hay una clase gratuita: el enlace está en la descripción.",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
+   "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261119-L",
-   "fecha": "2026-11-19",
-   "hora": "18:00",
-   "tipo": "largo",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 2,
-   "titulo": "¿Por qué te da sueño a las 3 pm? No es solo el almuerzo",
-   "subtema": "Carta 2, la energía. El bajón de la tarde como mensaje: ritmo del día, hidratación, pausas, qué comes y cuándo, y cómo gastas la atención. Se usa la imagen del café que ya no despierta, sino que tapa. Pista final: a veces lo que parece hambre es otra cosa. Reto de hoy: toma un vaso de agua, estírate 2 minutos y anota tu nivel de energía de 1 a 10 antes y después.",
-   "referencia_video_id": "",
-   "minutos": 12,
-   "estado": "producido",
-   "produccion_id": "20261117-soyintegral_es-largo-por-que-te-da-sueno-a-las-3-pm-y-no-es-s",
-   "resultado": "ok 671s",
-   "producido_en": "2026-11-17T18:57:28"
-  },
-  {
-   "id": "soyintegral_es-20261119-S",
-   "fecha": "2026-11-19",
+   "id": "soyintegral_es-20261122-S",
+   "fecha": "2026-11-22",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 1,
-   "titulo": "El error de la última hora del día",
-   "gancho": "Lo que haces 60 minutos antes de dormir pesa más que el colchón que compraste.",
+   "origen": "conversion",
+   "titulo": "Qué pasa en la clase gratuita (no es lo que piensas)",
+   "gancho": "Tu cuerpo avisa antes de que tu agenda se dé cuenta. Te cuento qué pasa en una clase gratuita de Café con Propósito.",
+   "formato_conv": "Short de Germancho, 45 s: escena de taza y cuaderno; lista rápida de 3 momentos de la clase (una pregunta, un ejercicio de 2 minutos, una conversación honesta); cierra con Reto de hoy y la invitación: si quieres vivirla con tu equipo, el enlace está en el comentario fijado.",
    "referencia_video_id": "",
-   "estado": "producido",
-   "produccion_id": "20261117-soyintegral_es-tu-ultima-hora-del-dia-pesa-mas-que-tu-colchon",
-   "resultado": "ok 202s",
-   "producido_en": "2026-11-17T19:25:39"
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261121-S",
-   "fecha": "2026-11-21",
+   "id": "soyintegral_es-20261123-S",
+   "fecha": "2026-11-23",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 1,
-   "titulo": "Prueba esto esta noche con tu celular",
-   "gancho": "Un gesto de 10 segundos con tu teléfono y mañana notas la diferencia. Te cuento cuál.",
+   "origen": "historia",
+   "historia_id": "salud-bebiounvasodebacteriasye",
+   "titulo": "Bebió un vaso de bacterias… y el estrés no era el culpable",
+   "gancho": "Este médico se bebió un vaso de bacterias a propósito. Tenía un motivo.",
+   "fuente_historia": "Nobel Prize (Medicina 2005, nobelprize.org); Marshall et al., Medical Journal of Australia, 1985; Wikipedia: Barry Marshall",
    "referencia_video_id": "",
-   "estado": "producido",
-   "produccion_id": "20261119-soyintegral_es-esta-noche-1-gesto-de-10-segundos-con-tu-celular",
-   "resultado": "ok 181s",
-   "producido_en": "2026-11-19T18:47:56"
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "visual": "broll",
+   "estado": "planificado"
   },
   {
    "id": "soyintegral_es-20261123-C",
    "fecha": "2026-11-23",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Personaliza tu Germancho: ¿cómo prefieres tu reto de la semana? A) 5 minutos de movimiento B) 5 minutos de respiración y silencio C) 5 minutos de cuaderno D) Sorpréndeme, que yo me animo.",
+   "titulo": "Personaliza tu Germancho: ¿qué tema de salud quieres ver más en los Shorts? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y mente D) Despensa y ahorro",
    "subtipo": "encuesta",
+   "tipo_contenido": "nutricion",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261124-S",
-   "fecha": "2026-11-24",
+   "id": "soyintegral_es-20261125-S",
+   "fecha": "2026-11-25",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "historia",
+   "historia_id": "salud-comiodurmioytrabajosobre",
+   "titulo": "Comió, durmió y trabajó sobre una báscula… 30 años",
+   "gancho": "Este médico comía, trabajaba y dormía sentado en una báscula gigante.",
+   "fuente_historia": "Santorio Santorio, De Statica Medicina (1614); Wikipedia: Santorio Santorio; Encyclopaedia Britannica",
+   "referencia_video_id": "",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "visual": "broll",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20261127-S",
+   "fecha": "2026-11-27",
    "hora": "12:00",
    "tipo": "short",
    "origen": "radar",
    "serie": "",
    "capitulo": "",
-   "titulo": "No necesitas motivación para cuidarte, necesitas esto",
-   "gancho": "Esperar a tener ganas es como esperar a que el café se haga solo. Las ganas llegan después de empezar, no antes. Lo que sí necesitas es un paso tan pequeño que sea difícil decir que no. Reto de hoy: toma un vaso de agua ahora mismo y escribe en comentarios cuál será tu paso mínimo para mañana.",
-   "referencia_video_id": "sin_referencia (lista vacía)",
+   "titulo": "¿Tus riñones están pidiendo agua y tú les das café?",
+   "gancho": "Ojo: el barista habla de café, pero hoy toca hablar de lo que de verdad hidrata.",
+   "referencia_video_id": "zC-7_ccwBeo",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261126-L",
-   "fecha": "2026-11-26",
-   "hora": "18:00",
-   "tipo": "largo",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 3,
-   "titulo": "¿Hambre o ganas de comer? 6 señales para distinguirlas",
-   "subtema": "Carta 3, el hambre. Hambre física frente a hambre emocional, aburrimiento, hábito y estrés. Sin dietas ni culpa: se trata de aprender a preguntarle al cuerpo antes de abrir la nevera. Pista final: lo que sientes en el cuello y los hombros también habla. Si hay una relación difícil con la comida, se recomienda apoyo profesional. Reto de hoy: antes de tu próximo antojo, escribe en una línea qué sientes y cuánta hambre tienes de 1 a 10.",
-   "referencia_video_id": "",
-   "minutos": 12,
+   "id": "soyintegral_es-20261127-R",
+   "fecha": "2026-11-27",
+   "hora": "12:00",
+   "tipo": "rostro",
+   "titulo": "Lo que le pasa a un equipo cuando el líder se cuida",
+   "gancho": "Un líder cansado contagia cansancio, y no hace falta que lo diga.",
+   "ideas": [
+    "El ejemplo se nota más que el discurso.",
+    "Cuidarte no es egoísmo: es tu primera herramienta de liderazgo.",
+    "Un hábito de 5 minutos al día puede cambiar el tono de una oficina."
+   ],
+   "cierre": "Si lideras y quieres explorarlo con tu equipo, te invito a la clase gratuita; el enlace está abajo.",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261126-S",
-   "fecha": "2026-11-26",
+   "id": "soyintegral_es-20261129-S",
+   "fecha": "2026-11-29",
    "hora": "12:00",
    "tipo": "short",
    "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 2,
-   "titulo": "El bajón de las 3 pm tiene explicación",
-   "gancho": "No eres flojo. Tu tarde te está mandando un recado y lo estás silenciando con más café.",
+   "serie": "Los 7 Días de Tu Cuerpo",
+   "capitulo": 1,
+   "titulo": "5 señales que tu cuerpo repite y tú ignoras",
+   "gancho": "Si llevas semanas cansado sin razón, tu cuerpo no está flojo: te está hablando. Tómate este café y escucha.",
    "referencia_video_id": "",
+   "tipo_contenido": "nutricion",
+   "nivel": "libro",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261128-S",
-   "fecha": "2026-11-28",
+   "id": "soyintegral_es-20261130-S",
+   "fecha": "2026-11-30",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 2,
-   "titulo": "Antes del tercer café, haz esto",
-   "gancho": "Dos minutos y un vaso de agua. Si no cambia nada, entonces sí, sírvete el café.",
+   "origen": "historia",
+   "historia_id": "salud-unsoldadoconunhuecoenele",
+   "titulo": "Un soldado con un hueco en el estómago… vivió más que su médico",
+   "gancho": "Un hombre comió durante años con un hilo atado a la comida. Por dentro.",
+   "fuente_historia": "William Beaumont, Experiments and Observations on the Gastric Juice and the Physiology of Digestion (1833); Wikipedia: William Beaumont, Alexis St. Martin",
    "referencia_video_id": "",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "visual": "broll",
    "estado": "planificado"
   },
   {
@@ -530,60 +492,88 @@
    "fecha": "2026-11-30",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Reto de la semana: la taza de las 3 pausas. Cada día toma 3 pausas de 1 minuto: una al despertar, una a media tarde y una antes de dormir. En cada una, respira lento y pregúntate cómo está tu cuerpo. Cuéntame el viernes cuál pausa te costó menos.",
+   "titulo": "Reto de la semana: durante 7 días, toma un vaso de agua antes de tu primer café. Cuéntame en comentarios cómo te fue el día 3.",
    "subtipo": "reto",
+   "tipo_contenido": "nutricion",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261201-S",
-   "fecha": "2026-12-01",
+   "id": "soyintegral_es-20261202-S",
+   "fecha": "2026-12-02",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 2,
-   "titulo": "3 pausas de 1 minuto que reviven tu tarde",
-   "gancho": "No necesitas una siesta ni una hora libre. Necesitas un minuto bien usado, tres veces.",
+   "origen": "historia",
+   "historia_id": "salud-semetiountuboporelbrazoh",
+   "titulo": "Se metió un tubo por el brazo hasta el corazón… y lo despidieron",
+   "gancho": "Este médico se metió un tubo por el brazo hasta su propio corazón.",
+   "fuente_historia": "Nobel Prize (Medicina 1956, nobelprize.org); Wikipedia: Werner Forssmann",
    "referencia_video_id": "",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "visual": "broll",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261203-L",
-   "fecha": "2026-12-03",
-   "hora": "18:00",
-   "tipo": "largo",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 4,
-   "titulo": "Tu mandíbula está apretada y no lo sabías: 5 pistas del estrés",
-   "subtema": "Carta 4, la tensión. Mandíbula, cuello, hombros y respiración corta como señales de un cuerpo en guardia. Se explican chequeos corporales sencillos y formas de soltar sin volverlo una tarea más. Se aclara que el dolor persistente merece consulta con un profesional. Pista final: casi nadie le da a su cuerpo lo que de verdad le pide, que es moverse. Reto de hoy: suelta la mandíbula, baja los hombros y haz 3 respiraciones lentas ahora mismo.",
-   "referencia_video_id": "",
-   "minutos": 12,
-   "estado": "planificado"
-  },
-  {
-   "id": "soyintegral_es-20261203-S",
-   "fecha": "2026-12-03",
+   "id": "soyintegral_es-20261204-S",
+   "fecha": "2026-12-04",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 3,
-   "titulo": "La pregunta de 5 segundos antes de comer",
-   "gancho": "¿Tengo hambre o tengo ganas de que algo cambie? Esa pregunta te ahorra más de un antojo.",
-   "referencia_video_id": "",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "6 alimentos que tus riñones agradecen en tu plato",
+   "gancho": "No es una dieta mágica. Son seis cosas que ya están en tu cocina.",
+   "referencia_video_id": "8PWanPSV5_8",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261205-S",
-   "fecha": "2026-12-05",
+   "id": "soyintegral_es-20261204-R",
+   "fecha": "2026-12-04",
+   "hora": "12:00",
+   "tipo": "rostro",
+   "titulo": "3 señales de que tu equipo vive en piloto automático",
+   "gancho": "Cuando todos responden bien pero nadie propone nada, algo se apagó.",
+   "ideas": [
+    "Reuniones largas sin decisiones claras.",
+    "Se cumple, pero nadie se emociona con lo que hace.",
+    "El cansancio se vuelve normal y nadie lo menciona."
+   ],
+   "cierre": "Si te reconociste, conversemos: la clase gratuita del programa es un buen primer paso.",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20261206-S",
+   "fecha": "2026-12-06",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 3,
-   "titulo": "Hambre de estómago vs hambre de cabeza",
-   "gancho": "Una aparece de a poco y acepta cualquier plato. La otra llega de golpe y exige algo específico.",
+   "origen": "conversion",
+   "titulo": "Hizo el reto 7 días y dejó de vivir en piloto automático",
+   "gancho": "Ella llegaba a casa con la mente en la oficina y el cuerpo agotado. Una semana de retos pequeños movió algo.",
+   "formato_conv": "Short de historia, 50 s: relato en tercera persona de alguien que hizo el reto de 7 días (nombre cambiado, sin prometer resultados); un día clave con una imagen cotidiana; cierre: Reto de hoy y la invitación a conocer el programa si quieres algo parecido para tu empresa.",
    "referencia_video_id": "",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20261207-S",
+   "fecha": "2026-12-07",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "historia",
+   "historia_id": "salud-unestudiantepaso11diassi",
+   "titulo": "Un estudiante pasó 11 días sin dormir… y no se volvió loco",
+   "gancho": "Un chico de 17 años pasó once días sin dormir. Los científicos miraban.",
+   "fuente_historia": "William Dement, The Promise of Sleep (1999); Wikipedia: Randy Gardner (record holder); Stanford Medicine",
+   "referencia_video_id": "",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "visual": "broll",
    "estado": "planificado"
   },
   {
@@ -591,60 +581,89 @@
    "fecha": "2026-12-07",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Reto de la semana: la escalera del agua. Lunes 1 vaso extra, martes 2, miércoles 3 y así hasta donde se sienta cómodo para ti. Si tienes alguna condición de salud, ajusta con tu profesional. Cuenta en comentarios hasta qué escalón llegaste.",
-   "subtipo": "reto",
+   "titulo": "Si tu cuerpo pudiera dejarte una nota en la nevera hoy, ¿qué crees que diría? Cuéntamelo abajo.",
+   "subtipo": "pregunta",
+   "tipo_contenido": "nutricion",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261208-S",
-   "fecha": "2026-12-08",
+   "id": "soyintegral_es-20261209-S",
+   "fecha": "2026-12-09",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "historia",
+   "historia_id": "salud-6remedios12marinerosylaa",
+   "titulo": "6 remedios, 12 marineros… y la Armada tardó casi 50 años",
+   "gancho": "Doce marineros enfermos, una mesa de barco y seis remedios distintos.",
+   "fuente_historia": "James Lind, A Treatise of the Scurvy (1753); Wikipedia: «James Lind»; Royal College of Physicians of Edinburgh",
+   "referencia_video_id": "",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "visual": "broll",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20261211-S",
+   "fecha": "2026-12-11",
    "hora": "12:00",
    "tipo": "short",
    "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 3,
-   "titulo": "Tu nevera no es el problema",
-   "gancho": "La abres 12 veces al día y no es por comida. Veamos qué estás buscando ahí dentro.",
+   "serie": "Los 7 Días de Tu Cuerpo",
+   "capitulo": 1,
+   "titulo": "¿Cuánto llevas ignorando ese dolor?",
+   "gancho": "Un dolor que se repite no es mala suerte, es un mensaje. Hoy no lo tapes: anótalo.",
    "referencia_video_id": "",
+   "tipo_contenido": "nutricion",
+   "nivel": "libro",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261210-L",
-   "fecha": "2026-12-10",
-   "hora": "18:00",
-   "tipo": "largo",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 5,
-   "titulo": "No necesitas gimnasio: 6 formas de mover tu cuerpo hoy",
-   "subtema": "Carta 5, el movimiento. Desmontar la excusa de no tengo tiempo con micromovimientos: escaleras, caminar mientras llamas, estirarse al esperar el café. Se presenta el movimiento como conversación con el cuerpo y no como castigo. Se sugiere consultar a un profesional antes de empezar si hay condiciones de salud. Pista final: existe una sexta carta que casi nadie abre y que explica por qué abandonamos todo lo anterior. Reto de hoy: sube una escalera, da una vuelta a la manzana o estírate 3 minutos.",
-   "referencia_video_id": "",
-   "minutos": 12,
+   "id": "soyintegral_es-20261211-R",
+   "fecha": "2026-12-11",
+   "hora": "12:00",
+   "tipo": "rostro",
+   "titulo": "Qué es un coach ontológico (sin tecnicismos)",
+   "gancho": "No te digo qué hacer: te ayudo a ver desde dónde estás decidiendo.",
+   "ideas": [
+    "Ontológico significa mirar quién eres al actuar, no solo qué haces.",
+    "Una pregunta bien hecha mueve más que un consejo.",
+    "El cambio empieza con una acción pequeña y sostenida."
+   ],
+   "cierre": "Si tienes curiosidad por cómo se aplica en una empresa, mira la clase gratuita del enlace.",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261210-S",
-   "fecha": "2026-12-10",
+   "id": "soyintegral_es-20261213-S",
+   "fecha": "2026-12-13",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 4,
-   "titulo": "Suelta la mandíbula: lo estás apretando ahora",
-   "gancho": "Lleva la atención a tus dientes. ¿Están pegados? Ya sabes cuánto cargas sin notarlo.",
-   "referencia_video_id": "",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "Esto le hace la cerveza diaria a tus riñones",
+   "gancho": "No te voy a regañar. Solo te cuento qué pasa por dentro cuando es todos los días.",
+   "referencia_video_id": "iEBdZqdiTZg",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261212-S",
-   "fecha": "2026-12-12",
+   "id": "soyintegral_es-20261214-S",
+   "fecha": "2026-12-14",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 4,
-   "titulo": "Tus hombros llevan una taza que no pediste",
-   "gancho": "Los subes cuando te estresas y se quedan ahí horas. Bájalos y mira qué pasa.",
+   "origen": "historia",
+   "historia_id": "salud-setragohecesdeenfermosye",
+   "titulo": "Se tragó heces de enfermos… y el culpable era el plato",
+   "gancho": "En esa mesa solo había maíz, melaza y grasa. Y nadie sospechaba.",
+   "fuente_historia": "Wikipedia: «Joseph Goldberger» y «Pelagra»; CDC, historia de la pelagra en Estados Unidos",
    "referencia_video_id": "",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "visual": "broll",
    "estado": "planificado"
   },
   {
@@ -652,60 +671,88 @@
    "fecha": "2026-12-14",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Pregunta para hoy: ¿cuál es el hábito más pequeño que hiciste esta semana y que sí te hizo sentir mejor? Escríbelo en una línea. Seguro le sirve a alguien más.",
-   "subtipo": "pregunta",
+   "titulo": "Personaliza tu Germancho: ¿a qué hora prefieres tu café con propósito? A) Mañana B) Mediodía C) Tarde D) Noche",
+   "subtipo": "encuesta",
+   "tipo_contenido": "nutricion",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261215-S",
-   "fecha": "2026-12-15",
+   "id": "soyintegral_es-20261216-S",
+   "fecha": "2026-12-16",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 4,
-   "titulo": "3 respiraciones que cambian el ritmo del día",
-   "gancho": "Cuarenta segundos, sin app y sin sentarte en el suelo. Hazlas conmigo.",
+   "origen": "historia",
+   "historia_id": "salud-unasgallinasenfermaronco",
+   "titulo": "Unas gallinas enfermaron con arroz… y un cocinero acertó",
+   "gancho": "Unas gallinas enfermaron en un laboratorio, y la solución estaba en la cocina.",
+   "fuente_historia": "Wikipedia: Christiaan Eijkman; Nobel Prize (nobelprize.org), Medicina 1929",
    "referencia_video_id": "",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "visual": "broll",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261217-L",
-   "fecha": "2026-12-17",
-   "hora": "18:00",
-   "tipo": "largo",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 6,
-   "titulo": "La carta número 6 que casi nadie abre (y cambia las otras 5)",
-   "subtema": "Carta 6, la escucha y la pausa. Es la carta que conecta sueño, energía, hambre, tensión y movimiento: dejar de vivir en piloto automático y hacerse un chequeo diario de 3 minutos. Cierre emocional con recapitulación de las 6 cartas y un cuaderno del cuerpo como ritual. Invitación a ver la Serie 2. Reto de hoy: abre tu cuaderno y responde en una línea cómo está tu cuerpo hoy y qué necesita.",
-   "referencia_video_id": "",
-   "minutos": 12,
-   "estado": "planificado"
-  },
-  {
-   "id": "soyintegral_es-20261217-S",
-   "fecha": "2026-12-17",
+   "id": "soyintegral_es-20261218-S",
+   "fecha": "2026-12-18",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 5,
-   "titulo": "Sin tiempo para ejercicio? Prueba la regla de la escalera",
-   "gancho": "Cada vez que veas una escalera, sube un tramo. Tu día se llena de movimiento sin agenda.",
-   "referencia_video_id": "",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "¿Tomas algo para el dolor cada semana? Mira esto",
+   "gancho": "Un analgésico no es un caramelo. Te explico cómo trabaja en tu cuerpo.",
+   "referencia_video_id": "LQrtMZdmCck",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261219-S",
-   "fecha": "2026-12-19",
+   "id": "soyintegral_es-20261218-R",
+   "fecha": "2026-12-18",
+   "hora": "12:00",
+   "tipo": "rostro",
+   "titulo": "El reto de 7 días que hacemos con los equipos",
+   "gancho": "Siete días, cinco minutos al día, cero discursos.",
+   "ideas": [
+    "Cada día una acción pequeña: pausa, pregunta, agradecimiento.",
+    "No se trata de hacerlo perfecto, sino de hacerlo.",
+    "Al final del reto, cada persona nombra lo que notó, sin presión ni garantías."
+   ],
+   "cierre": "Si quieres que tu equipo lo pruebe, escríbeme o entra a la clase gratuita desde el enlace.",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20261220-S",
+   "fecha": "2026-12-20",
    "hora": "12:00",
    "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 5,
-   "titulo": "Estírate mientras se hace tu café",
-   "gancho": "Esos 90 segundos de espera son un regalo. Los has estado mirando como un trámite.",
+   "origen": "conversion",
+   "titulo": "Así trabajo con la gente: sin discursos, con preguntas",
+   "gancho": "Cuando alguien llega a mi mesa, no le doy una receta: le sirvo una pregunta.",
+   "formato_conv": "Short de Germancho, 40 s: metáfora del barista; tres pasos del trabajo (escuchar, nombrar lo que pasa, elegir una acción pequeña); Reto de hoy; cierre con invitación abierta: si tu equipo quiere trabajar así, escríbeme y lo conversamos.",
    "referencia_video_id": "",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20261221-S",
+   "fecha": "2026-12-21",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "historia",
+   "historia_id": "salud-lasparterassalvabanmasqu",
+   "titulo": "Las parteras salvaban más que los médicos… por un detalle",
+   "gancho": "Las madres rogaban no ser atendidas por los médicos. Tenían razón.",
+   "fuente_historia": "Wikipedia: Ignaz Semmelweis; Semmelweis, Etiología, concepto y profilaxis de la fiebre puerperal (1861)",
+   "referencia_video_id": "",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "visual": "broll",
    "estado": "planificado"
   },
   {
@@ -713,60 +760,88 @@
    "fecha": "2026-12-21",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Pregunta para hoy: si tu salud fuera una taza de café, ¿cómo está hoy: vacía, tibia, amarga o recién servida? Cuéntame por qué, sin juicios.",
-   "subtipo": "pregunta",
+   "titulo": "Reto de la semana: revisa una etiqueta de algo que comes a diario. Lee los tres primeros ingredientes y cuéntame qué descubriste.",
+   "subtipo": "reto",
+   "tipo_contenido": "nutricion",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261222-S",
-   "fecha": "2026-12-22",
+   "id": "soyintegral_es-20261223-S",
+   "fecha": "2026-12-23",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "historia",
+   "historia_id": "salud-conectoasuhijodormidoyel",
+   "titulo": "Conectó a su hijo dormido… y el cerebro seguía despierto",
+   "gancho": "Durante siglos creímos que dormir era apagarse. Un padre con su hijo lo desmintió.",
+   "fuente_historia": "Wikipedia: Eugene Aserinsky; Aserinsky y Kleitman, Science (1953)",
+   "referencia_video_id": "",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "visual": "broll",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20261225-S",
+   "fecha": "2026-12-25",
    "hora": "12:00",
    "tipo": "short",
    "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 5,
-   "titulo": "Moverte no es castigo por lo que comiste",
-   "gancho": "Si lo ves como pago, vas a abandonarlo. Mira esta otra forma de verlo.",
-   "referencia_video_id": "",
-   "estado": "planificado"
-  },
-  {
-   "id": "soyintegral_es-20261224-L",
-   "fecha": "2026-12-24",
-   "hora": "18:00",
-   "tipo": "largo",
-   "serie": "La casa de tu salud: 6 cuartos con la luz apagada",
+   "serie": "Los 7 Días de Tu Cuerpo",
    "capitulo": 1,
-   "titulo": "Tu cocina no tiene hambre: tiene hábitos que no elegiste",
-   "subtema": "Comer en automático. Diferencia entre hambre física, aburrimiento y costumbre; cómo el entorno (qué ves, qué guardas, a qué hora) decide por ti. Sin dietas ni prohibiciones. Reto de hoy: antes de abrir la nevera, toma un vaso de agua y pregúntate si es hambre, aburrimiento o costumbre; cuéntalo en comentarios. Cierre: se escucha un ruido en el dormitorio, que es el siguiente cuarto. Si tienes una condición médica o un trastorno alimentario, consulta a un profesional.",
+   "titulo": "El cuaderno que te ahorra una visita al médico",
+   "gancho": "Tres líneas al día. Eso es todo lo que necesitas para que tu médico te entienda a la primera. Reto de hoy: abre tu cuaderno.",
    "referencia_video_id": "",
-   "minutos": 12,
+   "tipo_contenido": "nutricion",
+   "nivel": "libro",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261224-S",
-   "fecha": "2026-12-24",
+   "id": "soyintegral_es-20261225-R",
+   "fecha": "2026-12-25",
    "hora": "12:00",
-   "tipo": "short",
-   "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 6,
-   "titulo": "La carta que tu cuerpo escribe en mayúsculas",
-   "gancho": "Las otras cinco fueron susurros. Esta es la que lleva meses subrayada y no la has abierto.",
-   "referencia_video_id": "",
+   "tipo": "rostro",
+   "titulo": "Lo que nadie te dice de liderar con cansancio",
+   "gancho": "Liderar cansado no te hace más fuerte: te hace más reactivo.",
+   "ideas": [
+    "El cuerpo manda señales antes de que la mente las acepte.",
+    "Parar a tiempo es una decisión de liderazgo, no una debilidad.",
+    "Si hay síntomas persistentes, lo primero es consultar a un profesional de la salud."
+   ],
+   "cierre": "Si quieres trabajar el liderazgo desde el equilibrio, el programa tiene una clase gratuita; enlace abajo.",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261226-S",
-   "fecha": "2026-12-26",
+   "id": "soyintegral_es-20261227-S",
+   "fecha": "2026-12-27",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "3 analgésicos, 3 efectos distintos en tu cuerpo",
+   "gancho": "Los guardas en el mismo cajón, pero no hacen lo mismo. Consulta a tu médico antes de elegir.",
+   "referencia_video_id": "LQrtMZdmCck",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20261228-S",
+   "fecha": "2026-12-28",
    "hora": "12:00",
    "tipo": "short",
    "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 6,
-   "titulo": "El chequeo de 3 minutos que hago cada mañana",
-   "gancho": "Una taza, un cuaderno y tres preguntas. Así empiezo a escucharme antes que a mi celular.",
+   "serie": "Los 7 Días de Tu Cuerpo",
+   "capitulo": 2,
+   "titulo": "6 bebidas que tus riñones agradecen (y 2 que no)",
+   "gancho": "Antes de tu tercer café de hoy, mira esto. No es un regaño: es un mapa de tu taza.",
    "referencia_video_id": "",
+   "tipo_contenido": "nutricion",
+   "nivel": "libro",
    "estado": "planificado"
   },
   {
@@ -774,59 +849,416 @@
    "fecha": "2026-12-28",
    "hora": "09:00",
    "tipo": "comunidad",
-   "titulo": "Personaliza tu Germancho: ¿de qué quieres que hable el próximo video? A) Dormir mejor B) Tener más energía en la tarde C) Moverme sin aburrirme D) Comer con menos culpa. Vota y cuéntame por qué en comentarios.",
-   "subtipo": "encuesta",
+   "titulo": "¿Qué hábito pequeño de salud sí te ha funcionado y quieres compartir con los demás? Sin juicios, solo ideas útiles.",
+   "subtipo": "pregunta",
+   "tipo_contenido": "nutricion",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261229-S",
-   "fecha": "2026-12-29",
+   "id": "soyintegral_es-20261230-S",
+   "fecha": "2026-12-30",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "5 alimentos que ayudan a tu intestino a moverse",
+   "gancho": "Tu intestino también tiene horario. Hoy le armamos un desayuno amable.",
+   "referencia_video_id": "8FT5rfUb4D8",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270101-S",
+   "fecha": "2027-01-01",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "¿Intestino bloqueado? Antes de nada, haz esto",
+   "gancho": "Un gesto simple con un vaso de agua. Si el problema dura, ve al médico.",
+   "referencia_video_id": "bahDzHhfjGY",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270101-R",
+   "fecha": "2027-01-01",
+   "hora": "12:00",
+   "tipo": "rostro",
+   "titulo": "Una pregunta para empezar la reunión distinta",
+   "gancho": "Antes de abrir la agenda, prueba esta pregunta con tu equipo.",
+   "ideas": [
+    "La pregunta: ¿qué necesitas hoy para estar presente aquí?",
+    "Escuchar sin resolver crea más confianza que cualquier dinámica.",
+    "Dos minutos pueden cambiar el clima de toda la reunión."
+   ],
+   "cierre": "Si quieres más herramientas así, te espero en la clase gratuita del programa.",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270103-S",
+   "fecha": "2027-01-03",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "conversion",
+   "titulo": "3 preguntas que me hacen siempre sobre el programa",
+   "gancho": "Siempre me preguntan lo mismo: si es para mí, cuánto tiempo toma y si funciona. Te respondo con honestidad.",
+   "formato_conv": "Short de Germancho, 55 s: tres tarjetas con pregunta y respuesta corta; sin promesas de resultados (es un proceso, no una garantía); Reto de hoy; cierre: más preguntas en comentarios y el enlace a la clase gratuita.",
+   "referencia_video_id": "",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270104-S",
+   "fecha": "2027-01-04",
    "hora": "12:00",
    "tipo": "short",
    "origen": "derivado",
-   "serie": "Las 6 cartas que tu cuerpo lleva meses mandándote",
-   "capitulo": 6,
-   "titulo": "Si solo pudieras hacer una cosa por tu salud hoy",
-   "gancho": "Después de 5 cartas, esto es lo que yo elegiría. Te sorprende por lo simple.",
-   "referencia_video_id": "",
-   "estado": "planificado"
-  },
-  {
-   "id": "soyintegral_es-20261231-L",
-   "fecha": "2026-12-31",
-   "hora": "18:00",
-   "tipo": "largo",
-   "serie": "La casa de tu salud: 6 cuartos con la luz apagada",
+   "serie": "Los 7 Días de Tu Cuerpo",
    "capitulo": 2,
-   "titulo": "Duermes 8 horas y despiertas cansado: 5 cosas que nadie revisa",
-   "subtema": "El dormitorio como cuarto de descanso y no de pantallas. Hábitos que sabotean el sueño: luz, cafeína tardía, cena pesada, celular en la cama, horarios caóticos. Reto de hoy: deja el celular cargando fuera del alcance de la cama. Cierre: se oyen pasos en la escalera, que es el siguiente cuarto. Si el cansancio o el insomnio persisten, consulta a un profesional de la salud.",
+   "titulo": "¿Tomas suficiente agua o solo crees que sí?",
+   "gancho": "Hay una forma simple de saberlo sin apps ni cálculos. Y está en el baño.",
    "referencia_video_id": "",
-   "minutos": 12,
+   "tipo_contenido": "nutricion",
+   "nivel": "libro",
    "estado": "planificado"
   },
   {
-   "id": "soyintegral_es-20261231-S",
-   "fecha": "2026-12-31",
+   "id": "soyintegral_es-20270104-C",
+   "fecha": "2027-01-04",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Personaliza tu Germancho: ¿qué tema de salud quieres ver más en los Shorts? A) Riñones e hígado B) Intestino y digestión C) Ansiedad y mente D) Despensa y ahorro",
+   "subtipo": "encuesta",
+   "tipo_contenido": "nutricion",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270106-S",
+   "fecha": "2027-01-06",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "Tu intestino habla: 3 señales que sí debes escuchar",
+   "gancho": "El cuerpo avisa bajito antes de gritar. Aprende a oír el susurro.",
+   "referencia_video_id": "bahDzHhfjGY",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270108-S",
+   "fecha": "2027-01-08",
    "hora": "12:00",
    "tipo": "short",
    "origen": "derivado",
-   "serie": "La casa de tu salud: 6 cuartos con la luz apagada",
-   "capitulo": 1,
-   "titulo": "¿Hambre o aburrimiento? La prueba del vaso",
-   "gancho": "Abres la nevera sin tener hambre. Antes de tocar nada, haz esto con un vaso de agua.",
+   "serie": "Los 7 Días de Tu Cuerpo",
+   "capitulo": 2,
+   "titulo": "Lo que la cerveza diaria le cuenta a tu cuerpo",
+   "gancho": "No se trata de prohibir nada. Se trata de saber qué pasa cuando lo repites todos los días.",
    "referencia_video_id": "",
+   "tipo_contenido": "nutricion",
+   "nivel": "libro",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270108-R",
+   "fecha": "2027-01-08",
+   "hora": "12:00",
+   "tipo": "rostro",
+   "titulo": "Café con Propósito: de un libro a un programa",
+   "gancho": "El libro nació en una mesa de café, y las mejores conversaciones siguen empezando ahí.",
+   "ideas": [
+    "Café con Propósito parte de una idea simple: volver a ti para decidir mejor.",
+    "El programa lleva esa idea al trabajo diario de un equipo.",
+    "Todo se traduce en retos pequeños, no en teoría."
+   ],
+   "cierre": "Si quieres ver cómo se vive, hay una clase gratuita; el enlace está en la descripción.",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270110-S",
+   "fecha": "2027-01-10",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "Hígado graso: 5 alimentos que ayudan, 3 que no",
+   "gancho": "Tu hígado no tiene voz, pero sí memoria. Esto es lo que le sirves cada día.",
+   "referencia_video_id": "q5g3wy6-mZM",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270111-S",
+   "fecha": "2027-01-11",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "5 señales silenciosas de tu hígado que no ignoro",
+   "gancho": "Silencio no es lo mismo que salud. Estas señales merecen una consulta.",
+   "referencia_video_id": "cImoZwQ7imc",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270111-C",
+   "fecha": "2027-01-11",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Reto de la semana: durante 7 días, toma un vaso de agua antes de tu primer café. Cuéntame en comentarios cómo te fue el día 3.",
+   "subtipo": "reto",
+   "tipo_contenido": "nutricion",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270113-S",
+   "fecha": "2027-01-13",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Los 7 Días de Tu Cuerpo",
+   "capitulo": 3,
+   "titulo": "7 alimentos que tu hígado agradece (y 5 que le pesan)",
+   "gancho": "Tu hígado trabaja de madrugada mientras tú duermes. Esto es lo que le cargas en la cena.",
+   "referencia_video_id": "",
+   "tipo_contenido": "nutricion",
+   "nivel": "libro",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270115-S",
+   "fecha": "2027-01-15",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "¿Hígado cansado después de los 50? Empieza aquí",
+   "gancho": "No hace falta una revolución. Hace falta un primer paso pequeño en tu plato.",
+   "referencia_video_id": "q5g3wy6-mZM",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270115-R",
+   "fecha": "2027-01-15",
+   "hora": "12:00",
+   "tipo": "rostro",
+   "titulo": "Cómo se ve un equipo con propósito (sin postureo)",
+   "gancho": "Un equipo con propósito no es el que sonríe en la foto: es el que sabe para qué hace lo que hace.",
+   "ideas": [
+    "Saben qué aportan y cómo se conecta con lo de los demás.",
+    "Se hablan claro y se cuidan sin dramatismo.",
+    "Cada quien tiene una acción pequeña para sostenerlo."
+   ],
+   "cierre": "Si quieres construir eso en tu empresa, empecemos por la clase gratuita; enlace abajo.",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270117-S",
+   "fecha": "2027-01-17",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "conversion",
+   "titulo": "Tu equipo no necesita más café: necesita esto",
+   "gancho": "Puedes tener reuniones perfectas y un equipo agotado. Cuerpo, mente y trabajo son un solo sistema.",
+   "formato_conv": "Short de Germancho, 45 s: contraste entre agenda llena y equipo cansado; una idea sobre liderazgo cercano; recordatorio de que ante síntomas conviene consultar a un profesional; Reto de hoy; cierre: si lideras gente y quieres explorarlo, el Programa de Liderazgo Café con Propósito tiene una clase gratuita.",
+   "referencia_video_id": "",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270118-S",
+   "fecha": "2027-01-18",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Los 7 Días de Tu Cuerpo",
+   "capitulo": 3,
+   "titulo": "¿Hambre o ansiedad? La pregunta de 10 segundos",
+   "gancho": "Antes de abrir la nevera, hazte esta pregunta. Cambia lo que pasa después.",
+   "referencia_video_id": "",
+   "tipo_contenido": "nutricion",
+   "nivel": "libro",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270118-C",
+   "fecha": "2027-01-18",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Si tu cuerpo pudiera dejarte una nota en la nevera hoy, ¿qué crees que diría? Cuéntamelo abajo.",
+   "subtipo": "pregunta",
+   "tipo_contenido": "nutricion",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270120-S",
+   "fecha": "2027-01-20",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "Qué le pasa a tu cuerpo si cenas ajo cada noche",
+   "gancho": "El ajo tiene fama de héroe. ¿Será cierto o es puro cuento de cocina?",
+   "referencia_video_id": "-BEd9eO85SA",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270122-S",
+   "fecha": "2027-01-22",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "Ajo por la noche: ¿mito o buen hábito?",
+   "gancho": "Te cuento lo que sí se sabe y lo que se exagera. Sin vender milagros.",
+   "referencia_video_id": "-BEd9eO85SA",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270122-R",
+   "fecha": "2027-01-22",
+   "hora": "12:00",
+   "tipo": "rostro",
+   "titulo": "Preguntas honestas antes de contratar un programa de liderazgo",
+   "gancho": "Antes de invertir en cualquier programa, hazte estas tres preguntas, incluso si no es el mío.",
+   "ideas": [
+    "¿Qué quiero que cambie en la forma de trabajar, no solo en los resultados?",
+    "¿Habrá acciones concretas o solo teoría?",
+    "¿Quién acompaña y cómo se sostiene después?"
+   ],
+   "cierre": "Si quieres ver cómo respondo yo, entra a la clase gratuita del Programa de Liderazgo Café con Propósito.",
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "nota": "La graba Germán a cámara (60–90 s, vertical); la fábrica pone subtítulos, miniatura y CTA.",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270124-S",
+   "fecha": "2027-01-24",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Los 7 Días de Tu Cuerpo",
+   "capitulo": 3,
+   "titulo": "El plato barato que cuida tu cuerpo toda la semana",
+   "gancho": "No necesitas productos de moda. Necesitas cinco cosas que ya conoces.",
+   "referencia_video_id": "",
+   "tipo_contenido": "nutricion",
+   "nivel": "libro",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270125-S",
+   "fecha": "2027-01-25",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "13 alimentos que no sabías que se pueden congelar",
+   "gancho": "Dejas de tirar comida y tu bolsillo respira. Café y despensa, mismo equilibrio.",
+   "referencia_video_id": "ZZEgaDF2u-k",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270125-C",
+   "fecha": "2027-01-25",
+   "hora": "09:00",
+   "tipo": "comunidad",
+   "titulo": "Personaliza tu Germancho: ¿a qué hora prefieres tu café con propósito? A) Mañana B) Mediodía C) Tarde D) Noche",
+   "subtipo": "encuesta",
+   "tipo_contenido": "nutricion",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270127-S",
+   "fecha": "2027-01-27",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "derivado",
+   "serie": "Los 7 Días de Tu Cuerpo",
+   "capitulo": 4,
+   "titulo": "5 alimentos que ayudan a ir al baño a diario",
+   "gancho": "Ir al baño con regularidad no es un tema incómodo: es un termómetro de tu semana.",
+   "referencia_video_id": "",
+   "tipo_contenido": "nutricion",
+   "nivel": "libro",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270129-S",
+   "fecha": "2027-01-29",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "12 alimentos baratos para congelar y comer bien en enero",
+   "gancho": "Enero llega con cuesta. Tu congelador puede ser tu mejor aliado.",
+   "referencia_video_id": "Ky61xN5ib5k",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "estado": "planificado"
+  },
+  {
+   "id": "soyintegral_es-20270131-S",
+   "fecha": "2027-01-31",
+   "hora": "12:00",
+   "tipo": "short",
+   "origen": "radar",
+   "serie": "",
+   "capitulo": "",
+   "titulo": "¿Tu despensa está lista para un mes apretado?",
+   "gancho": "No es miedo, es orden. Cuidar tu comida también es cuidar tu salud.",
+   "referencia_video_id": "vLE9EYWT6AY",
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
    "estado": "planificado"
   }
  ],
  "proyeccion": {
-  "semanas": 7.3,
-  "largos": 8,
-  "shorts": 23,
+  "semanas": 10.3,
+  "largos": 0,
+  "shorts": 42,
   "vivos": 0,
-  "horas_estimadas": 392,
-  "horas_de_largos": 392,
+  "horas_estimadas": 0,
+  "horas_de_largos": 0,
   "horas_de_vivos": 0,
-  "subs_estimados": 651,
+  "subs_estimados": 893,
   "supuestos": {
    "vistas_largo_promedio": 700,
    "retencion_largo": 0.35,
