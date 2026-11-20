@@ -25,14 +25,14 @@
   "cta": "💛 ¿Quieres trabajar esto con acompañamiento? Mentoría ∀normal (salud · dinero · amor): {ENLACE_ANORMAL}\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».",
   "handle": ""
  },
- "generado": "2026-11-19T17:24:55Z",
- "cuota_usada": 537,
+ "generado": "2026-11-20T16:59:46Z",
+ "cuota_usada": 525,
  "resumen": {
-  "candidatos": 206,
-  "validos": 78,
-  "descartados_relevancia": 65,
-  "canales_en_rango": 36,
-  "canales_aprobados": 2,
+  "candidatos": 208,
+  "validos": 66,
+  "descartados_relevancia": 90,
+  "canales_en_rango": 32,
+  "canales_aprobados": 1,
   "videos": 1,
   "con_promocion": 0,
   "fuertes": 1
@@ -92,23 +92,6 @@
   }
  ],
  "canales": [
-  {
-   "canal_id": "UCPzcvZSkVmTF_Vm0ARLo6GQ",
-   "canal": "Maxwell Explains ",
-   "url": "https://www.youtube.com/channel/UCPzcvZSkVmTF_Vm0ARLo6GQ",
-   "pais": "US",
-   "suscriptores": 2200,
-   "videos_totales": 49,
-   "vistas_totales": 624512,
-   "creado": "2026-04-30",
-   "mediana_vistas_recientes": 1473,
-   "videos_por_semana": 2.5,
-   "pct_shorts": 0.0,
-   "duracion_media_s": 927,
-   "n_virales": 5,
-   "ratio_viral": 5,
-   "analizado": "2026-11-17T17:39:38Z"
-  },
   {
    "canal_id": "UCWIfdhqsfXOGjJeBnXaBVUA",
    "canal": "PsychDoodle",

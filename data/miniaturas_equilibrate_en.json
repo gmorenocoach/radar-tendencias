@@ -1,85 +1,37 @@
 {
  "perfil": "equilibrate_en",
- "n": 5,
+ "n": 1,
  "promedio": {
-  "brillo": 111,
-  "pct_oscuro": 43,
-  "pct_amarillo": 2,
-  "pct_piel": 16,
-  "pct_saturado": 7
+  "brillo": 212,
+  "pct_oscuro": 3,
+  "pct_amarillo": 0,
+  "pct_piel": 7,
+  "pct_saturado": 3
  },
  "promedio_top10": {
-  "brillo": 111,
-  "pct_oscuro": 43,
-  "pct_amarillo": 2,
-  "pct_piel": 16,
-  "pct_saturado": 7
+  "brillo": 212,
+  "pct_oscuro": 3,
+  "pct_amarillo": 0,
+  "pct_piel": 7,
+  "pct_saturado": 3
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 60,
-  "pct_con_rostro_probable": 100,
-  "pct_con_amarillo": 40
+  "pct_miniaturas_oscuras": 0,
+  "pct_con_rostro_probable": 0,
+  "pct_con_amarillo": 0
  },
- "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
+ "recomendacion": "Predomina fondo claro: la variante CLARA compite bien",
  "ejemplos": [
   {
-   "video_id": "l7muEDvzzLg",
-   "titulo": "Spiritual natural hair growth tips NO ONE talks about (stuck at bra strap length?)",
-   "vistas": 27726,
-   "ratio": 26.7,
-   "miniatura": "https://i.ytimg.com/vi/l7muEDvzzLg/sddefault.jpg",
-   "brillo": 69,
-   "pct_oscuro": 55,
-   "pct_amarillo": 0,
-   "pct_piel": 18,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "sNZkT-6rNho",
-   "titulo": "12 Small Tests German Shepherds Give Their Most Trusted Person",
-   "vistas": 24455,
-   "ratio": 22.9,
-   "miniatura": "https://i.ytimg.com/vi/sNZkT-6rNho/maxresdefault.jpg",
-   "brillo": 196,
-   "pct_oscuro": 10,
-   "pct_amarillo": 5,
-   "pct_piel": 15,
-   "pct_saturado": 6
-  },
-  {
-   "video_id": "Jy7Vu_4l5Og",
-   "titulo": "I Forgive You Because God Said So 🙏❤️ | Jayden Cole",
-   "vistas": 14262,
-   "ratio": 8.3,
-   "miniatura": "https://i.ytimg.com/vi/Jy7Vu_4l5Og/maxresdefault.jpg",
-   "brillo": 34,
-   "pct_oscuro": 76,
-   "pct_amarillo": 2,
-   "pct_piel": 13,
-   "pct_saturado": 15
-  },
-  {
-   "video_id": "X5_PMjdoTF4",
-   "titulo": "🙏 Jayden Cole – Turn It Over To Him ❤️ | Inspirational Gospel & Soul Music",
-   "vistas": 10459,
-   "ratio": 6.1,
-   "miniatura": "https://i.ytimg.com/vi/X5_PMjdoTF4/maxresdefault.jpg",
-   "brillo": 48,
-   "pct_oscuro": 69,
-   "pct_amarillo": 1,
-   "pct_piel": 21,
-   "pct_saturado": 9
-  },
-  {
-   "video_id": "lFihmx07XAA",
-   "titulo": "11 Small Gestures Your German Shepherd Reads as Deep Love",
-   "vistas": 6975,
-   "ratio": 6.5,
-   "miniatura": "https://i.ytimg.com/vi/lFihmx07XAA/maxresdefault.jpg",
-   "brillo": 210,
+   "video_id": "fALWgsuAIf0",
+   "titulo": "Psychology of Verbal Intelligence: How To Articulate Your Thoughts Intelligently",
+   "vistas": 651589,
+   "ratio": 46.2,
+   "miniatura": "https://i.ytimg.com/vi/fALWgsuAIf0/maxresdefault.jpg",
+   "brillo": 212,
    "pct_oscuro": 3,
    "pct_amarillo": 0,
-   "pct_piel": 14,
+   "pct_piel": 7,
    "pct_saturado": 3
   }
  ]
