@@ -1,0 +1,81 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00374E6F,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.87,Sub,,0,0,0,,{\k42}SIRVIÓ {\k39}CAFÉ {\k6}A
+Dialogue: 0,0:00:00.87,0:00:01.79,Sub,,0,0,0,,{\k68}MARINEROS {\k10}Y {\k13}SU
+Dialogue: 0,0:00:01.79,0:00:02.72,Sub,,0,0,0,,{\k50}APELLIDO {\k35}ACABÓ {\k8}EN
+Dialogue: 0,0:00:02.72,0:00:03.63,Sub,,0,0,0,,{\k15}LOS {\k60}SEGUROS {\k16}DE
+Dialogue: 0,0:00:03.63,0:00:05.74,Sub,,0,0,0,,{\k41}MEDIO {\k113}MUNDO. {\k57}CUENTAN
+Dialogue: 0,0:00:05.74,0:00:08.16,Sub,,0,0,0,,{\k16}QUE {\k41}HACIA {\k186}1688,
+Dialogue: 0,0:00:08.16,0:00:09.21,Sub,,0,0,0,,{\k19}EN {\k71}LONDRES, {\k15}UN
+Dialogue: 0,0:00:09.21,0:00:10.45,Sub,,0,0,0,,{\k23}HOMBRE {\k57}LLAMADO {\k44}EDWARD
+Dialogue: 0,0:00:10.45,0:00:11.30,Sub,,0,0,0,,{\k41}LLOYD {\k32}ABRIÓ {\k12}UN
+Dialogue: 0,0:00:11.30,0:00:12.48,Sub,,0,0,0,,{\k51}CAFÉ {\k24}EN {\k43}TOWER
+Dialogue: 0,0:00:12.48,0:00:13.64,Sub,,0,0,0,,{\k54}STREET, {\k42}CERCA {\k20}DEL
+Dialogue: 0,0:00:13.64,0:00:15.30,Sub,,0,0,0,,{\k115}TÁMESIS. {\k38}NADA {\k13}DE
+Dialogue: 0,0:00:15.30,0:00:17.43,Sub,,0,0,0,,{\k62}OFICINAS {\k102}ELEGANTES: {\k49}SOLO
+Dialogue: 0,0:00:17.43,0:00:18.90,Sub,,0,0,0,,{\k72}MESAS, {\k61}TAZAS {\k14}Y
+Dialogue: 0,0:00:18.90,0:00:21.29,Sub,,0,0,0,,{\k131}CONVERSACIÓN. {\k44}ALLÍ {\k64}LLEGABAN
+Dialogue: 0,0:00:21.29,0:00:23.52,Sub,,0,0,0,,{\k98}MARINEROS, {\k100}COMERCIANTES {\k26}Y
+Dialogue: 0,0:00:23.52,0:00:25.08,Sub,,0,0,0,,{\k43}DUEÑOS {\k10}DE {\k102}BARCOS.
+Dialogue: 0,0:00:25.08,0:00:25.93,Sub,,0,0,0,,{\k37}ENTRE {\k36}TAZA {\k12}Y
+Dialogue: 0,0:00:25.93,0:00:26.93,Sub,,0,0,0,,{\k42}TAZA, {\k15}SE {\k44}PASABAN
+Dialogue: 0,0:00:26.93,0:00:28.18,Sub,,0,0,0,,{\k58}NOTICIAS {\k15}DE {\k51}RUTAS
+Dialogue: 0,0:00:28.18,0:00:29.49,Sub,,0,0,0,,{\k9}Y {\k10}DE {\k112}NAUFRAGIOS.
+Dialogue: 0,0:00:29.49,0:00:30.74,Sub,,0,0,0,,{\k43}LLOYD, {\k42}MIENTRAS {\k41}TANTO,
+Dialogue: 0,0:00:30.74,0:00:32.21,Sub,,0,0,0,,{\k43}SERVÍA {\k13}EL {\k91}CAFÉ.
+Dialogue: 0,0:00:32.21,0:00:33.31,Sub,,0,0,0,,{\k49}PASARON {\k16}LOS {\k45}AÑOS
+Dialogue: 0,0:00:33.31,0:00:33.94,Sub,,0,0,0,,{\k14}Y {\k13}LA {\k36}COSA
+Dialogue: 0,0:00:33.94,0:00:35.38,Sub,,0,0,0,,{\k15}SE {\k21}FUE {\k108}COMPLICANDO.
+Dialogue: 0,0:00:35.38,0:00:36.51,Sub,,0,0,0,,{\k33}QUIENES {\k64}FINANCIABAN {\k17}LAS
+Dialogue: 0,0:00:36.51,0:00:37.59,Sub,,0,0,0,,{\k42}CARGAS {\k58}EMPEZARON {\k8}A
+Dialogue: 0,0:00:37.59,0:00:38.78,Sub,,0,0,0,,{\k65}REUNIRSE {\k30}ALLÍ {\k23}PARA
+Dialogue: 0,0:00:38.78,0:00:40.10,Sub,,0,0,0,,{\k55}ACORDAR {\k29}QUIÉN {\k49}ASUMÍA
+Dialogue: 0,0:00:40.10,0:00:40.85,Sub,,0,0,0,,{\k17}EL {\k46}RIESGO {\k12}DE
+Dialogue: 0,0:00:40.85,0:00:42.35,Sub,,0,0,0,,{\k29}CADA {\k79}VIAJE. {\k42}TODO
+Dialogue: 0,0:00:42.35,0:00:42.98,Sub,,0,0,0,,{\k14}EN {\k19}UNA {\k30}MESA
+Dialogue: 0,0:00:42.98,0:00:43.99,Sub,,0,0,0,,{\k10}DE {\k74}CAFÉ. {\k16}Y
+Dialogue: 0,0:00:43.99,0:00:44.70,Sub,,0,0,0,,{\k28}AQUÍ {\k31}VIENE {\k12}LO
+Dialogue: 0,0:00:44.70,0:00:46.40,Sub,,0,0,0,,{\k87}CURIOSO: {\k52}LLOYD {\k31}NO
+Dialogue: 0,0:00:46.40,0:00:48.26,Sub,,0,0,0,,{\k21}ERA {\k117}ASEGURADOR. {\k48}PONÍA
+Dialogue: 0,0:00:48.26,0:00:49.30,Sub,,0,0,0,,{\k17}LAS {\k67}MESAS, {\k19}EL
+Dialogue: 0,0:00:49.30,0:00:50.20,Sub,,0,0,0,,{\k58}CAFÉ {\k17}Y {\k15}LAS
+Dialogue: 0,0:00:50.20,0:00:51.63,Sub,,0,0,0,,{\k106}NOTICIAS. {\k24}TRAS {\k13}SU
+Dialogue: 0,0:00:51.63,0:00:53.97,Sub,,0,0,0,,{\k52}MUERTE, {\k41}HACIA {\k142}1713,
+Dialogue: 0,0:00:53.97,0:00:54.82,Sub,,0,0,0,,{\k14}EL {\k34}LUGAR {\k37}SIGUIÓ
+Dialogue: 0,0:00:54.82,0:00:55.87,Sub,,0,0,0,,{\k49}SIENDO {\k44}PUNTO {\k12}DE
+Dialogue: 0,0:00:55.87,0:00:57.22,Sub,,0,0,0,,{\k98}ENCUENTRO. {\k15}Y {\k23}MÁS
+Dialogue: 0,0:00:57.22,0:00:58.21,Sub,,0,0,0,,{\k58}ADELANTE {\k33}NACIÓ {\k8}LA
+Dialogue: 0,0:00:58.21,0:00:59.27,Sub,,0,0,0,,{\k66}INSTITUCIÓN {\k11}QUE {\k29}LLEVA
+Dialogue: 0,0:00:59.27,0:01:00.60,Sub,,0,0,0,,{\k16}SU {\k74}NOMBRE: {\k43}LLOYD'S
+Dialogue: 0,0:01:00.60,0:01:01.86,Sub,,0,0,0,,{\k14}OF {\k83}LONDON. {\k29}UNO
+Dialogue: 0,0:01:01.86,0:01:02.61,Sub,,0,0,0,,{\k8}DE {\k16}LOS {\k51}MERCADOS
+Dialogue: 0,0:01:02.61,0:01:03.60,Sub,,0,0,0,,{\k10}DE {\k58}SEGUROS {\k30}MÁS
+Dialogue: 0,0:01:03.60,0:01:04.84,Sub,,0,0,0,,{\k50}FAMOSOS {\k19}DEL {\k56}MUNDO
+Dialogue: 0,0:01:04.84,0:01:05.63,Sub,,0,0,0,,{\k34}LLEVA {\k14}EL {\k31}NOMBRE
+Dialogue: 0,0:01:05.63,0:01:06.23,Sub,,0,0,0,,{\k14}DE {\k14}UN {\k32}HOMBRE
+Dialogue: 0,0:01:06.23,0:01:07.28,Sub,,0,0,0,,{\k19}QUE {\k36}SOLO {\k50}SERVÍA
+Dialogue: 0,0:01:07.28,0:01:09.12,Sub,,0,0,0,,{\k55}CAFÉ {\k15}Y {\k115}NOTICIAS.
+Dialogue: 0,0:01:09.12,0:01:09.82,Sub,,0,0,0,,{\k14}A {\k42}VECES {\k14}EL
+Dialogue: 0,0:01:09.82,0:01:10.82,Sub,,0,0,0,,{\k31}MEJOR {\k52}NEGOCIO {\k16}NO
+Dialogue: 0,0:01:10.82,0:01:11.34,Sub,,0,0,0,,{\k10}ES {\k32}VENDER {\k9}EL
+Dialogue: 0,0:01:11.34,0:01:12.55,Sub,,0,0,0,,{\k72}PRODUCTO, {\k30}SINO {\k19}SER
+Dialogue: 0,0:01:12.55,0:01:13.45,Sub,,0,0,0,,{\k7}EL {\k48}LUGAR {\k36}DONDE
+Dialogue: 0,0:01:13.45,0:01:15.05,Sub,,0,0,0,,{\k43}TODOS {\k14}SE {\k102}JUNTAN.
+Dialogue: 0,0:01:15.05,0:01:16.09,Sub,,0,0,0,,{\k52}¿PREFIERES {\k28}SER {\k24}QUIEN
+Dialogue: 0,0:01:16.09,0:01:17.02,Sub,,0,0,0,,{\k28}VENDE {\k12}EL {\k53}PRODUCTO,
+Dialogue: 0,0:01:17.02,0:01:17.83,Sub,,0,0,0,,{\k46}A, {\k14}O {\k21}QUIEN
+Dialogue: 0,0:01:17.83,0:01:18.63,Sub,,0,0,0,,{\k29}CREA {\k9}EL {\k42}LUGAR
+Dialogue: 0,0:01:18.63,0:01:19.43,Sub,,0,0,0,,{\k31}DONDE {\k36}TODOS {\k13}SE
+Dialogue: 0,0:01:19.43,0:01:20.82,Sub,,0,0,0,,{\k58}JUNTAN, {\k61}B? {\k19}TE
+Dialogue: 0,0:01:20.82,0:01:23.49,Sub,,0,0,0,,{\k88}LEO. {\k120}SUSCRÍBETE: {\k59}MAÑANA
+Dialogue: 0,0:01:23.49,0:01:24.80,Sub,,0,0,0,,{\k22}HAY {\k20}OTRA {\k89}HISTORIA.

@@ -219,7 +219,10 @@
    "referencia_video_id": "zC-7_ccwBeo",
    "tipo_contenido": "atraccion",
    "nivel": "club",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones",
+   "resultado": "ok 235s",
+   "producido_en": "2026-11-20T18:11:14"
   },
   {
    "id": "soyintegral_es-20261120-R",
@@ -251,7 +254,10 @@
    "referencia_video_id": "",
    "tipo_contenido": "conversion",
    "nivel": "empresa",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia",
+   "resultado": "ok 219s",
+   "producido_en": "2026-11-20T18:22:39"
   },
   {
    "id": "soyintegral_es-20261123-S",

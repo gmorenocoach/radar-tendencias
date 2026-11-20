@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Harvard siguió vidas por 80 años: no era el colesterol",
+  "historia_id": "amor-harvardsiguiovidaspor80a",
+  "fuente_historia": "Harvard Study of Adult Development; Robert Waldinger, charla TED «What makes a good life?», 2015; Wikipedia: Harvard Study of Adult Development"
+ },
+ "historia": {
+  "titulo": "Harvard siguió vidas por 80 años: no era el colesterol",
+  "hecho": "Imagina sobre tu mesa dos papeles: tu análisis de colesterol y una lista de las personas que te quieren. En 1938, la Universidad de Harvard empezó el Estudio de Desarrollo Adulto: siguió a jóvenes de Harvard y, más tarde, a hombres de barrios de Boston, y los entrevistó durante décadas sobre su salud, su trabajo y sus relaciones. Los investigadores buscaban qué anticipaba una vejez saludable. Su director actual, Robert Waldinger, cuenta que lo que mejor la anticipaba no era el colesterol de mediana edad, sino qué tan satisfechos estaban con sus relaciones a los 50. Es una asociación, no una promesa, y no reemplaza tu chequeo médico.",
+  "giro": "La mejor señal de cómo llegarían a los 80 no estaba en su análisis de sangre, sino en sus vínculos.",
+  "fuente": "Harvard Study of Adult Development; Robert Waldinger, charla TED «What makes a good life?», 2015; Wikipedia: Harvard Study of Adult Development",
+  "certeza": "alta",
+  "conexion_eje": "Cuidar un vínculo también es una forma de cuidarte, y se empieza con una llamada.",
+  "gancho": "Durante más de ochenta años, Harvard buscó qué nos mantiene bien. No fue lo que esperaban.",
+  "pregunta_binaria": "¿Qué cuidas más hoy: tus análisis o tus vínculos?",
+  "broll": [
+   "old family dinner table",
+   "elderly couple holding hands",
+   "doctor reviewing medical chart"
+  ],
+  "id": "amor-harvardsiguiovidaspor80a",
+  "eje": "amor",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "Imagina sobre tu mesa dos papeles: tu análisis de colesterol y una lista de las personas que te quieren. En 1938, la Universidad de Harvard empezó el Estudio de Desarrollo Adulto: siguió a jóvenes de Harvard y, más tarde, a hombres de barrios de Boston, y los entrevistó durante décadas sobre su salud, su trabajo y sus relaciones. Los investigadores buscaban qué anticipaba una vejez saludable. Su director actual, Robert Waldinger, cuenta que lo que mejor la anticipaba no era el colesterol de mediana edad, sino qué tan satisfechos estaban con sus relaciones a los 50. Es una asociación, no una promesa, y no reemplaza tu chequeo médico.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Durante más de ochenta años, Harvard buscó qué nos mantiene bien. No fue lo que esperaban.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

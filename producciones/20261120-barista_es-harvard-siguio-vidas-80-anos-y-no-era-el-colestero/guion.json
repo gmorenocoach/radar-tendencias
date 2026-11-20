@@ -1,0 +1,127 @@
+{
+ "titulo": "Harvard siguió vidas 80 años y no era el colesterol",
+ "titulos_alternativos": [
+  "Harvard vigiló a cientos de hombres 80 años y no era la sangre",
+  "Harvard preguntó por 80 años qué nos cuida y no era el colesterol"
+ ],
+ "descripcion": "En 1938, Harvard empezó a seguir vidas para descubrir qué anticipa una vejez saludable. Ochenta años después, lo que mejor lo anticipaba no estaba en el análisis de sangre. Fuente: Harvard Study of Adult Development; Robert Waldinger, charla TED «What makes a good life?», 2015. Es una asociación, no una promesa, y no reemplaza tu chequeo médico. ¿Qué cuidas más hoy: tus análisis o tus vínculos?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#amor",
+  "#relaciones",
+  "#bienestar",
+  "#harvard"
+ ],
+ "miniatura": {
+  "texto": "NO ERA EL COLESTEROL",
+  "emocion": "sorpresa",
+  "objeto": "taza de café junto a un análisis de sangre",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Durante más de ochenta años, Harvard buscó qué nos mantiene bien. No fue lo que esperaban.",
+   "emocion": "intriga",
+   "objeto": "taza de café humeante",
+   "pose": "saludando",
+   "prompt_visual": "cartoon barista character waving beside a steaming coffee cup, warm cafe light",
+   "broll": "coffee cup steam",
+   "segundos": 4,
+   "broll_fuente": "fondo"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que en 1938, la Universidad de Harvard empezó el Estudio de Desarrollo Adulto. Primero siguió a jóvenes de Harvard y, más tarde, a hombres de barrios de Boston.",
+   "emocion": "curiosidad",
+   "objeto": "cuaderno antiguo",
+   "pose": "butaco_tazas",
+   "prompt_visual": "vintage 1930s Harvard campus sepia style, cartoon barista on a stool with cups",
+   "broll": "Harvard campus vintage",
+   "segundos": 10,
+   "broll_fuente": "fondo"
+  },
+  {
+   "n": 3,
+   "texto": "Los entrevistaron durante décadas. Sobre su salud, su trabajo, sus relaciones. Pregunta tras pregunta, año tras año.",
+   "emocion": "paciencia",
+   "objeto": "pila de cuestionarios",
+   "pose": "escalera",
+   "prompt_visual": "cartoon barista climbing a staircase made of old paper files, warm tones",
+   "broll": "old interview documents",
+   "segundos": 9,
+   "broll_fuente": "fondo"
+  },
+  {
+   "n": 4,
+   "texto": "Los investigadores buscaban una sola cosa: qué anticipaba una vejez saludable. Imagínalos con sus tablas, sus cifras, sus análisis. Todo parecía apuntar al cuerpo.",
+   "emocion": "expectativa",
+   "objeto": "análisis de colesterol",
+   "pose": "aburrido",
+   "prompt_visual": "cartoon barista bored looking at rows of medical charts, muted colors",
+   "broll": "doctor reviewing medical chart",
+   "segundos": 10,
+   "broll_fuente": "fondo"
+  },
+  {
+   "n": 5,
+   "texto": "Y pasaron los años. Y nada se resolvía rápido. El estudio siguió, generación tras generación, esperando una respuesta clara.",
+   "emocion": "tensión",
+   "objeto": "reloj sobre la mesa",
+   "pose": "agachado",
+   "prompt_visual": "cartoon barista crouching beside a large clock, long shadows, tense mood",
+   "broll": "clock time passing",
+   "segundos": 8,
+   "broll_fuente": "fondo"
+  },
+  {
+   "n": 6,
+   "texto": "Y entonces, su director actual, Robert Waldinger, lo cuenta así: lo que mejor lo anticipaba no era el colesterol a mitad de vida. Era qué tan satisfechos estaban con sus relaciones a los cincuenta.",
+   "emocion": "asombro",
+   "objeto": "dos manos entrelazadas",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista jumping in surprise next to two hands holding, bright warm light",
+   "broll": "elderly couple holding hands",
+   "segundos": 10,
+   "broll_fuente": "fondo"
+  },
+  {
+   "n": 7,
+   "texto": "La mejor señal de cómo llegarían a los ochenta no estaba en su análisis de sangre. Estaba en sus vínculos. Ojo: es una asociación, no una promesa, y no reemplaza tu chequeo médico.",
+   "emocion": "calidez",
+   "objeto": "mesa familiar con café",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista with open arms at a family table with coffee cups, golden hour",
+   "broll": "old family dinner table",
+   "segundos": 9,
+   "broll_fuente": "fondo"
+  },
+  {
+   "n": 8,
+   "texto": "Salud, dinero y amor. A veces la respuesta cabe en una llamada y un café. ¿Qué cuidas más hoy: tus análisis o tus vínculos? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "cercanía",
+   "objeto": "letrero con la pregunta",
+   "pose": "letrero",
+   "prompt_visual": "cartoon barista holding a sign with a binary question, cozy cafe background",
+   "broll": "friends sharing coffee",
+   "segundos": 8,
+   "broll_fuente": "fondo"
+  }
+ ],
+ "pregunta_final": "¿Qué cuidas más hoy: tus análisis o tus vínculos? Te leo.",
+ "reto_de_hoy": "¿Qué cuidas más hoy: tus análisis o tus vínculos? Te leo.",
+ "ganchos_alternativos": [
+  "Harvard siguió a cientos de hombres durante ochenta años para encontrar el secreto de una vejez sana. Y no estaba donde miraban.",
+  "Imagina dos papeles sobre tu mesa: tu análisis de colesterol y una lista de quienes te quieren. Harvard los comparó durante ochenta años.",
+  "Los médicos de Harvard esperaban encontrar la respuesta en la sangre. La encontraron en otro lado."
+ ],
+ "palabras": 203,
+ "canal": "barista",
+ "color": "#6F4E37",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "amor-harvardsiguiovidaspor80a",
+ "visual": "broll"
+}

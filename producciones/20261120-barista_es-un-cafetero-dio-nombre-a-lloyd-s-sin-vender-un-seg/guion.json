@@ -1,0 +1,116 @@
+{
+ "titulo": "Un cafetero dio nombre a Lloyd's sin vender un seguro",
+ "titulos_alternativos": [
+  "Un café en Londres dio nombre a un gigante de seguros",
+  "Sirvió café a marineros y su apellido llegó a los seguros"
+ ],
+ "descripcion": "Hacia 1688, un hombre abrió un café en Londres y, sin proponérselo, su apellido terminó en uno de los mercados de seguros más famosos del mundo. Fuente: historia oficial de Lloyd's of London (lloyds.com) y artículo «Lloyd's of London» en Wikipedia. ¿Prefieres ser quien vende el producto (A) o quien crea el lugar donde todos se juntan (B)?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#dinero",
+  "#negocios",
+  "#cafe",
+  "#emprendimiento"
+ ],
+ "miniatura": {
+  "texto": "CAFÉ, NO SEGUROS",
+  "emocion": "sorpresa",
+  "objeto": "taza de café con un barco de papel",
+  "pose": "salto_sorpresa"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Sirvió café a marineros y su apellido acabó en los seguros de medio mundo.",
+   "emocion": "sorpresa",
+   "objeto": "taza de café",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista character jumping in surprise holding a steaming coffee cup, warm cafe background",
+   "broll": "old London coffeehouse",
+   "segundos": 3,
+   "broll_fuente": "b5f36daea760d164.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que hacia 1688, en Londres, un hombre llamado Edward Lloyd abrió un café en Tower Street, cerca del Támesis. Nada de oficinas elegantes: solo mesas, tazas y conversación.",
+   "emocion": "calidez",
+   "objeto": "letrero del café",
+   "pose": "letrero",
+   "prompt_visual": "cartoon barista character holding a wooden cafe sign, 17th century London street by the river",
+   "broll": "Thames river London",
+   "segundos": 10,
+   "broll_fuente": "7e37e0c58a8cf9cf.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Allí llegaban marineros, comerciantes y dueños de barcos. Entre taza y taza, se pasaban noticias de rutas y de naufragios. Lloyd, mientras tanto, servía el café.",
+   "emocion": "curiosidad",
+   "objeto": "mesa con tazas y mapas",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista character sitting on a stool surrounded by cups, sailors talking around old wooden tables",
+   "broll": "sailing ship harbor",
+   "segundos": 15,
+   "broll_fuente": "547a95e1a8765bdd.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Pasaron los años y la cosa se fue complicando. Quienes financiaban las cargas empezaron a reunirse allí para acordar quién asumía el riesgo de cada viaje. Todo en una mesa de café.",
+   "emocion": "tensión",
+   "objeto": "libro de cuentas",
+   "pose": "agachado",
+   "prompt_visual": "cartoon barista character crouching over a table with an old ledger, candlelight, worried merchants nearby",
+   "broll": "vintage ledger writing",
+   "segundos": 10,
+   "broll_fuente": "d63d1a272ffc5b54.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Y aquí viene lo curioso: Lloyd no era asegurador. Ponía las mesas, el café y las noticias. Tras su muerte, hacia 1713, el lugar siguió siendo punto de encuentro. Y más adelante nació la institución que lleva su nombre: Lloyd's of London.",
+   "emocion": "asombro",
+   "objeto": "taza humeante",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista character with arms wide open, steaming cup in front, glowing old London building behind",
+   "broll": "Lloyd's of London building",
+   "segundos": 10,
+   "broll_fuente": "2c1312858e9980c3.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Uno de los mercados de seguros más famosos del mundo lleva el nombre de un hombre que solo servía café y noticias. A veces el mejor negocio no es vender el producto, sino ser el lugar donde todos se juntan.",
+   "emocion": "calidez",
+   "objeto": "taza y cuaderno",
+   "pose": "senalando",
+   "prompt_visual": "cartoon barista character pointing at the viewer with a smile, coffee cup and notebook on a table",
+   "broll": "coffee shop customers talking",
+   "segundos": 8,
+   "broll_fuente": "4a2f0d6c40ea842c.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "¿Prefieres ser quien vende el producto, A, o quien crea el lugar donde todos se juntan, B? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "complicidad",
+   "objeto": "taza de café",
+   "pose": "saludando",
+   "prompt_visual": "cartoon barista character waving goodbye with a warm smile, coffee cup in hand, cozy cafe",
+   "broll": "coffee cup steam closeup",
+   "segundos": 7,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  }
+ ],
+ "pregunta_final": "¿Prefieres ser quien vende el producto (A) o quien crea el lugar donde todos se juntan (B)?",
+ "reto_de_hoy": "¿Prefieres ser quien vende el producto (A) o quien crea el lugar donde todos se juntan (B)?",
+ "ganchos_alternativos": [
+  "Nunca vendió un seguro, y su apellido es sinónimo de seguros en todo el mundo.",
+  "Un hombre sirvió café en Londres y, sin saberlo, bautizó a un gigante.",
+  "Cuentan que el nombre de un mercado de seguros famoso salió de una cafetería."
+ ],
+ "palabras": 207,
+ "canal": "barista",
+ "color": "#6F4E37",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "dinero-uncafeterodionombrealloy",
+ "visual": "broll"
+}

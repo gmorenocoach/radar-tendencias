@@ -1,0 +1,47 @@
+{
+ "fuente": {
+  "tema": "Qué pasa en la clase gratuita de Café con Propósito. Gancho: Cuando alguien me pregunta qué pasa en esa clase, lo primero que digo es: nadie sale con una receta, todos salen con una pregunta mejor.. Formato de conversión: Short de Germancho, 45 s: tres imágenes de la clase (cuaderno, taza, conversación en grupo) + invitación final: Si quieres ver cómo se siente, el enlace de la clase gratuita está abajo. Sin compromiso, solo curiosidad."
+ },
+ "adn": {
+  "tema_central": "Qué pasa realmente en la clase gratuita de Café con Propósito: nadie sale con una receta, todos salen con una pregunta mejor",
+  "promesa_del_titulo": "Descubrir en 45 segundos qué se vive dentro de la clase gratuita y por qué la gente sale con una pregunta mejor en lugar de una fórmula cerrada",
+  "gancho_primeros_segundos": "Voz directa a cámara (0-3 s): «Cuando alguien me pregunta qué pasa en esa clase, lo primero que digo es: nadie sale con una receta, todos salen con una pregunta mejor.» Mientras se dice la frase, corte rápido a la primera imagen (cuaderno abierto con apuntes) para anclar lo prometido visualmente.",
+  "tipo_de_gancho": "Contradicción (se esperaba una receta/fórmula y se promete lo contrario) con curiosidad abierta: ¿qué es una 'pregunta mejor'?",
+  "estructura": [
+   "0-3 s: Gancho de contradicción dicho a cámara: 'nadie sale con una receta, todos salen con una pregunta mejor'",
+   "3-12 s: Imagen 1, el cuaderno: 'Primero escribes, no copias. El cuaderno se llena de dudas, no de pasos'",
+   "12-22 s: Imagen 2, la taza: 'Hay una pausa, un café, tiempo para mirar tu propósito sin prisa'",
+   "22-34 s: Imagen 3, conversación en grupo: 'Otros dicen en voz alta lo que tú pensabas solo, y tu pregunta cambia'",
+   "34-40 s: Cierre emocional: la pregunta mejor como resultado, 'te vas con menos respuestas y más claridad'",
+   "40-45 s: Invitación suave: 'Si quieres ver cómo se siente, el enlace de la clase gratuita está abajo. Sin compromiso, solo curiosidad.'"
+  ],
+  "ritmo": "Rápido y limpio: cortes cada 4-8 segundos sincronizados con cada imagen, frases cortas, una idea por plano. Pausa breve de medio segundo antes de la frase final para que el cierre respire. Subtítulos grandes y dinámicos en pantalla.",
+  "tono": "Cálido, cercano y sereno; conversacional, como quien cuenta una experiencia a un amigo con un café en la mano. Sin urgencia ni promesas exageradas; honesto y curioso.",
+  "cta_final": "Si quieres ver cómo se siente, el enlace de la clase gratuita está abajo. Sin compromiso, solo curiosidad. (Reto opcional en pantalla: 'Escribe en comentarios la pregunta que hoy te gustaría hacerte mejor')",
+  "formula_del_titulo": "Contradicción + resultado inesperado: [Lo que esperas] vs [lo que realmente pasa] en [experiencia concreta]. Alternativa: Pregunta directa + promesa de respuesta breve.",
+  "titulo_con_numero": "3 cosas que pasan en la clase gratuita de Café con Propósito (y ninguna es una receta)",
+  "palabras_clave": [
+   "Café con Propósito",
+   "clase gratuita",
+   "qué pasa en la clase",
+   "pregunta mejor",
+   "propósito",
+   "claridad",
+   "sin receta",
+   "conversación en grupo",
+   "Germancho",
+   "autoconocimiento"
+  ],
+  "emocion_dominante": "Curiosidad serena, con un toque de alivio (no hay presión por tener respuestas) y calidez de pertenencia",
+  "formula_miniatura": "Primer plano de una taza de café junto a un cuaderno abierto; texto grande de 3-4 palabras: «SIN RECETA» o «UNA PREGUNTA MEJOR». Paleta cálida (marrones, crema), alto contraste en el texto, rostro de Germancho pequeño y sonriente en una esquina mirando a cámara.",
+  "por_que_funciona": "Abre con una contradicción que rompe la expectativa típica de las clases (recetas y fórmulas), lo que genera curiosidad inmediata y retención en los primeros 3 segundos. La estructura de tres imágenes concretas (cuaderno, taza, grupo) hace tangible algo abstracto y da ritmo visual natural para un Short de 45 s. El cierre sin presión ('solo curiosidad') reduce la fricción y aumenta la confianza, favoreciendo el clic al enlace. La frase central es memorable y compartible.",
+  "riesgos_a_evitar": [
+   "Sonar a venta agresiva o prometer transformaciones garantizadas; rompe el tono de 'sin compromiso'",
+   "Explicar demasiado qué es la 'pregunta mejor' y matar la curiosidad; mostrar la sensación, no el contenido completo",
+   "Imágenes genéricas de stock en lugar de fotos reales de la clase, que restan credibilidad",
+   "Gancho diluido con saludos o presentaciones antes de la frase de contradicción",
+   "Exceder los 45-50 s o saturar con texto en pantalla que compita con la voz",
+   "Usar jerga vaga de 'propósito' sin ejemplos concretos que hagan la promesa creíble"
+  ]
+ }
+}

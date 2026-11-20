@@ -36,8 +36,9 @@
    ],
    "id": "amor-harvardsiguiovidaspor80a",
    "eje": "amor",
-   "usada": false,
-   "creada": "2026-11-12"
+   "usada": true,
+   "creada": "2026-11-12",
+   "produccion": "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero"
   },
   {
    "titulo": "Un emperador levantó el Taj Mahal… y acabó mirándolo preso",
@@ -397,8 +398,9 @@
    ],
    "id": "dinero-uncafeterodionombrealloy",
    "eje": "dinero",
-   "usada": false,
-   "creada": "2026-11-12"
+   "usada": true,
+   "creada": "2026-11-12",
+   "produccion": "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg"
   },
   {
    "titulo": "Newton vendió con ganancia, volvió a comprar… y perdió",

@@ -317,7 +317,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero",
+   "resultado": "ok 111s",
+   "producido_en": "2026-11-20T18:07:19"
   },
   {
    "id": "barista_es-20261120-V",
@@ -346,7 +349,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg",
+   "resultado": "ok 249s",
+   "producido_en": "2026-11-20T18:18:59"
   },
   {
    "id": "barista_es-20261122-S",

@@ -1,0 +1,115 @@
+{
+ "titulo": "Salud sin receta: la pregunta que cambia tu día",
+ "titulos_alternativos": [
+  "Tu cuerpo no necesita otra receta, necesita esto",
+  "3 pausas de salud que no son una receta"
+ ],
+ "descripcion": "Cuerpo, mente y trabajo son un solo sistema. En este short, Germancho te muestra por qué una pregunta mejor sobre tu salud, tu sueño y tu estrés pesa más que otra fórmula. Si hay síntomas, consulta a un profesional. Quédate con el reto de hoy y cuéntalo en comentarios.",
+ "hashtags": [
+  "#SoyIntegral",
+  "#Salud",
+  "#Bienestar",
+  "#HabitosSaludables",
+  "#EstresLaboral",
+  "#Sueno",
+  "#Germancho",
+  "#CafeConProposito"
+ ],
+ "miniatura": {
+  "texto": "SIN RECETA",
+  "emocion": "sorpresa",
+  "objeto": "taza de café junto a cuaderno abierto",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Tu salud no necesita otra receta. Necesita una pregunta mejor.",
+   "emocion": "sorpresa",
+   "objeto": "cuaderno abierto",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "open notebook with a big question mark, warm tones",
+   "broll": "open notebook writing",
+   "segundos": 5,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: surprised, round eyes and open mouth; arms wide open; open notebook with a big question mark, warm tones; the cuaderno abierto is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Yo me sé de memoria las recetas: duerme ocho horas, toma agua, haz pausas. Y aun así, tu cuerpo sigue cansado. ¿Sabes por qué?",
+   "emocion": "aburrido",
+   "objeto": "lista tachada",
+   "pose": "aburrido",
+   "prompt_visual": "tired cartoon character next to a crossed-out checklist",
+   "broll": "tired office worker",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: calm; slumped, bored; tired cartoon character next to a crossed-out checklist; the lista tachada is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Porque las recetas responden cómo. Pero casi nunca preguntamos cómo te sientes de verdad.",
+   "emocion": "tristeza",
+   "objeto": "taza de café vacía",
+   "pose": "triste_acostado",
+   "prompt_visual": "empty coffee cup on a desk, soft light",
+   "broll": "empty coffee cup",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: sad, drooping eyes; lying on the floor, sad; empty coffee cup on a desk, soft light; the taza de café vacía is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Cambia la pregunta. En vez de «qué hábito me falta», prueba con «qué le está pesando hoy a mi cuerpo».",
+   "emocion": "alegria",
+   "objeto": "cuaderno con dos preguntas",
+   "pose": "cambio",
+   "prompt_visual": "notebook with two questions crossed and rewritten",
+   "broll": "writing in journal",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; arms stretched sideways; notebook with two questions crossed and rewritten; the cuaderno con dos preguntas is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "A veces la respuesta es dormir. A veces es decir que no. A veces es salir de la silla y caminar cinco minutos.",
+   "emocion": "alegria",
+   "objeto": "escalera",
+   "pose": "escalera",
+   "prompt_visual": "small staircase with a coffee cup on each step",
+   "broll": "walking outdoors morning",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; climbing a tall ladder; small staircase with a coffee cup on each step; the escalera is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "Tu cuerpo, tu mente y tu trabajo son un solo sistema. Si algo duele, escúchalo. Y si persiste, consulta a un profesional.",
+   "emocion": "tristeza",
+   "objeto": "taza humeante",
+   "pose": "butaco_tazas",
+   "prompt_visual": "steaming coffee cup beside a stethoscope silhouette, calm mood",
+   "broll": "doctor consultation calm",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: sad, drooping eyes; sitting on a wooden stool; steaming coffee cup beside a stethoscope silhouette, calm mood; the taza humeante is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: toma tu cuaderno y escribe una pregunta sobre cómo está tu cuerpo ahora mismo. Cuéntamela en comentarios. Suscríbete: mañana hay otro reto.",
+   "emocion": "alegria",
+   "objeto": "cuaderno y lápiz",
+   "pose": "senalando",
+   "prompt_visual": "notebook and pencil with a coffee cup, inviting mood",
+   "broll": "hand writing notebook coffee",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; pointing forward with one long finger; notebook and pencil with a coffee cup, inviting mood; the cuaderno y lápiz is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "Toma tu cuaderno y escribe en una línea una pregunta sobre cómo está tu cuerpo ahora mismo; luego compártela en comentarios.",
+ "ganchos_alternativos": [
+  "¿Y si lo que le falta a tu salud no es otro hábito, sino una pregunta mejor?",
+  "Dormir ocho horas, tomar agua, hacer pausas. Las sabes todas. Y sigues agotado. Eso no es falta de disciplina.",
+  "El mes pasado me senté con mi café a revisar mis hábitos y descubrí que me sobraban recetas. Me faltaba una pregunta."
+ ],
+ "palabras": 138,
+ "canal": "soyintegral",
+ "color": "#2E8B57",
+ "tipo_contenido": "conversion",
+ "nivel": "empresa",
+ "visual": "ilustracion"
+}

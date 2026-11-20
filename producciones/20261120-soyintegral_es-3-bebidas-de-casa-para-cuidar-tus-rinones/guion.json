@@ -1,0 +1,114 @@
+{
+ "titulo": "3 bebidas de casa para cuidar tus riñones",
+ "titulos_alternativos": [
+  "3 bebidas simples para unos riñones tranquilos",
+  "Lo que bebes hoy lo filtran tus riñones mañana"
+ ],
+ "descripcion": "Tus riñones filtran tu sangre las 24 horas y lo que bebes les ayuda o les estorba. Tres bebidas cotidianas, con respaldo en la evidencia, para cuidarlos desde tu cocina. Si tienes enfermedad renal, consulta primero a tu médico. Hoy te dejo un reto de menos de cinco minutos: míralo hasta el final y cuéntame en comentarios cuál harás.",
+ "hashtags": [
+  "#salud",
+  "#riñones",
+  "#hábitos",
+  "#bienestar",
+  "#hidratación",
+  "#CaféConPropósito",
+  "#SoyIntegral"
+ ],
+ "miniatura": {
+  "texto": "RIÑONES SIN DESCANSO",
+  "emocion": "sorpresa",
+  "objeto": "vaso de agua con limón junto a una taza de café",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Tus riñones no descansan ni de noche. Filtran tu sangre las 24 horas, y casi nadie les dice gracias.",
+   "emocion": "sorpresa",
+   "objeto": "riñón dibujado con un reloj al lado",
+   "pose": "senalando",
+   "prompt_visual": "cartoon barista pointing at a smiling kidney with a clock, minimal flat style",
+   "broll": "kidney anatomy animation",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: surprised, round eyes and open mouth; pointing forward with one long finger; cartoon barista pointing at a smiling kidney with a clock, minimal flat style; the riñón dibujado con un reloj al lado is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Y lo que bebes durante el día les ayuda o les complica el trabajo. Hoy te cuento tres bebidas de casa, con respaldo en la evidencia.",
+   "emocion": "alegria",
+   "objeto": "tres tazas en fila",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista with open arms in front of three cups, flat style",
+   "broll": "pouring drinks kitchen",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; arms wide open; cartoon barista with open arms in front of three cups, flat style; the tres tazas en fila is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Primera: agua. Sí, la obvia. Ayuda a diluir lo que tus riñones filtran, y ese es justo el trabajo de ellos. Una botella a la vista en el escritorio ya cambia el día.",
+   "emocion": "alegria",
+   "objeto": "botella de agua sobre un escritorio",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista on a stool with a water bottle on a desk, flat style",
+   "broll": "drinking water desk",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; sitting on a wooden stool; cartoon barista on a stool with a water bottle on a desk, flat style; the botella de agua sobre un escritorio is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Segunda: agua con limón. El limón aporta citrato, una sustancia que se relaciona con menos formación de cálculos. Medio limón en tu vaso, y listo.",
+   "emocion": "sorpresa",
+   "objeto": "medio limón exprimido en un vaso",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista jumping with surprise next to a glass with lemon half, flat style",
+   "broll": "squeezing lemon water",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: surprised, round eyes and open mouth; jumping with arms up; cartoon barista jumping with surprise next to a glass with lemon half, flat style; the medio limón exprimido en un vaso is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Tercera: tu café, y aquí te sorprendo. Tomado con moderación y sin azúcar de más, la evidencia no lo pinta como enemigo de tus riñones. El exceso sí cansa, y el equilibrio manda.",
+   "emocion": "sorpresa",
+   "objeto": "taza de café humeante",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista holding a steaming coffee cup with a raised eyebrow, flat style",
+   "broll": "coffee cup steam morning",
+   "segundos": 11,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: surprised, round eyes and open mouth; sitting on a wooden stool; cartoon barista holding a steaming coffee cup with a raised eyebrow, flat style; the taza de café humeante is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "Una precaución, de amigo a amigo: si ya tienes alguna enfermedad renal, antes de cambiar lo que bebes consulta a tu médico. Cada cuerpo tiene sus reglas.",
+   "emocion": "tristeza",
+   "objeto": "cuaderno con una cruz de salud dibujada",
+   "pose": "letrero",
+   "prompt_visual": "cartoon barista holding a sign with a health cross, calm expression, flat style",
+   "broll": "doctor consultation talking",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: sad, drooping eyes; holding up a blank sign board; cartoon barista holding a sign with a health cross, calm expression, flat style; the cuaderno con una cruz de salud dibujada is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: llena un vaso de agua con limón y bébelo antes de tu próximo café. Luego cuéntame en comentarios cuál de las tres vas a sumar. Suscríbete: mañana hay otro reto.",
+   "emocion": "alegria",
+   "objeto": "vaso con limón sobre el cuaderno",
+   "pose": "saludando",
+   "prompt_visual": "cartoon barista waving next to a glass of lemon water and a notebook, flat style",
+   "broll": "glass of lemon water",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; standing and waving; cartoon barista waving next to a glass of lemon water and a notebook, flat style; the vaso con limón sobre el cuaderno is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "Llena un vaso de agua con medio limón y bébelo antes de tu próximo café; luego comenta cuál de las tres bebidas vas a sumar a tu día.",
+ "ganchos_alternativos": [
+  "¿Cuándo fue la última vez que le diste las gracias a tus riñones? Trabajan las 24 horas, y casi nadie los trata como a un compañero de equipo.",
+  "Dato que casi nadie sabe: tus riñones filtran tu sangre todo el día, y hay una bebida que quizás ya tienes en la cocina que puede darles una mano.",
+  "Hace unos años descubrí que bebía casi puro café y casi nada de agua. Mis riñones llevaban meses trabajando sin una pausa ni un aliado."
+ ],
+ "palabras": 196,
+ "canal": "soyintegral",
+ "color": "#2E8B57",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "visual": "ilustracion"
+}

@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Un cafetero dio nombre a Lloyd's sin vender un seguro",
+  "historia_id": "dinero-uncafeterodionombrealloy",
+  "fuente_historia": "Historia oficial de Lloyd's of London (lloyds.com) y artículo «Lloyd's of London» en Wikipedia"
+ },
+ "historia": {
+  "titulo": "Un cafetero dio nombre a Lloyd's sin vender un seguro",
+  "hecho": "Hacia 1688, en Londres, un hombre llamado Edward Lloyd abre un café en Tower Street, cerca del Támesis. Lo frecuentan marineros, comerciantes y dueños de barcos, y entre taza y taza se intercambian noticias de rutas y naufragios. Con los años, quienes financian las cargas se reúnen allí para acordar quién asume el riesgo de cada viaje. Lloyd no era asegurador: ponía las mesas, el café y las noticias. Tras su muerte, hacia 1713, el lugar siguió siendo punto de encuentro, y más adelante nació la institución que lleva su nombre: Lloyd's of London.",
+  "giro": "Uno de los mercados de seguros más famosos del mundo lleva el nombre de un hombre que solo servía café y noticias.",
+  "fuente": "Historia oficial de Lloyd's of London (lloyds.com) y artículo «Lloyd's of London» en Wikipedia",
+  "certeza": "alta",
+  "conexion_eje": "A veces el mejor negocio no es vender el producto, sino ser el lugar donde todos se juntan.",
+  "gancho": "Sirvió café a marineros y su apellido acabó en los seguros de medio mundo.",
+  "pregunta_binaria": "¿Prefieres ser quien vende el producto (A) o quien crea el lugar donde todos se juntan (B)?",
+  "broll": [
+   "old London coffeehouse",
+   "sailing ship harbor",
+   "vintage ledger writing"
+  ],
+  "id": "dinero-uncafeterodionombrealloy",
+  "eje": "dinero",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "Hacia 1688, en Londres, un hombre llamado Edward Lloyd abre un café en Tower Street, cerca del Támesis. Lo frecuentan marineros, comerciantes y dueños de barcos, y entre taza y taza se intercambian noticias de rutas y naufragios. Con los años, quienes financian las cargas se reúnen allí para acordar quién asume el riesgo de cada viaje. Lloyd no era asegurador: ponía las mesas, el café y las noticias. Tras su muerte, hacia 1713, el lugar siguió siendo punto de encuentro, y más adelante nació la institución que lleva su nombre: Lloyd's of London.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Sirvió café a marineros y su apellido acabó en los seguros de medio mundo.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

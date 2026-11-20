@@ -1,0 +1,80 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00374E6F,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.84,Sub,,0,0,0,,{\k44}DURANTE {\k27}MÁS {\k13}DE
+Dialogue: 0,0:00:00.84,0:00:02.25,Sub,,0,0,0,,{\k44}OCHENTA {\k49}AÑOS, {\k49}HARVARD
+Dialogue: 0,0:00:02.25,0:00:03.15,Sub,,0,0,0,,{\k49}BUSCÓ {\k19}QUÉ {\k22}NOS
+Dialogue: 0,0:00:03.15,0:00:04.97,Sub,,0,0,0,,{\k59}MANTIENE {\k94}BIEN. {\k29}NO
+Dialogue: 0,0:00:04.97,0:00:05.47,Sub,,0,0,0,,{\k23}FUE {\k14}LO {\k13}QUE
+Dialogue: 0,0:00:05.47,0:00:07.26,Sub,,0,0,0,,{\k118}ESPERABAN. {\k45}CUENTAN {\k15}QUE
+Dialogue: 0,0:00:07.26,0:00:09.29,Sub,,0,0,0,,{\k16}EN {\k176}1938, {\k11}LA
+Dialogue: 0,0:00:09.29,0:00:10.44,Sub,,0,0,0,,{\k59}UNIVERSIDAD {\k15}DE {\k41}HARVARD
+Dialogue: 0,0:00:10.44,0:00:11.63,Sub,,0,0,0,,{\k50}EMPEZÓ {\k12}EL {\k58}ESTUDIO
+Dialogue: 0,0:00:11.63,0:00:13.50,Sub,,0,0,0,,{\k12}DE {\k70}DESARROLLO {\k106}ADULTO.
+Dialogue: 0,0:00:13.50,0:00:14.43,Sub,,0,0,0,,{\k44}PRIMERO {\k41}SIGUIÓ {\k8}A
+Dialogue: 0,0:00:14.43,0:00:15.63,Sub,,0,0,0,,{\k45}JÓVENES {\k12}DE {\k63}HARVARD
+Dialogue: 0,0:00:15.63,0:00:16.52,Sub,,0,0,0,,{\k21}Y, {\k22}MÁS {\k46}TARDE,
+Dialogue: 0,0:00:16.52,0:00:17.17,Sub,,0,0,0,,{\k11}A {\k43}HOMBRES {\k12}DE
+Dialogue: 0,0:00:17.17,0:00:18.84,Sub,,0,0,0,,{\k48}BARRIOS {\k11}DE {\k109}BOSTON.
+Dialogue: 0,0:00:18.84,0:00:20.20,Sub,,0,0,0,,{\k21}LOS {\k73}ENTREVISTARON {\k42}DURANTE
+Dialogue: 0,0:00:20.20,0:00:21.40,Sub,,0,0,0,,{\k77}DÉCADAS. {\k31}SOBRE {\k12}SU
+Dialogue: 0,0:00:21.40,0:00:23.13,Sub,,0,0,0,,{\k74}SALUD, {\k18}SU {\k81}TRABAJO,
+Dialogue: 0,0:00:23.13,0:00:25.22,Sub,,0,0,0,,{\k23}SUS {\k124}RELACIONES. {\k61}PREGUNTA
+Dialogue: 0,0:00:25.22,0:00:26.76,Sub,,0,0,0,,{\k24}TRAS {\k87}PREGUNTA, {\k43}AÑO
+Dialogue: 0,0:00:26.76,0:00:28.17,Sub,,0,0,0,,{\k28}TRAS {\k91}AÑO. {\k22}LOS
+Dialogue: 0,0:00:28.17,0:00:29.91,Sub,,0,0,0,,{\k79}INVESTIGADORES {\k64}BUSCABAN {\k31}UNA
+Dialogue: 0,0:00:29.91,0:00:31.38,Sub,,0,0,0,,{\k31}SOLA {\k94}COSA: {\k22}QUÉ
+Dialogue: 0,0:00:31.38,0:00:33.11,Sub,,0,0,0,,{\k93}ANTICIPABA {\k35}UNA {\k45}VEJEZ
+Dialogue: 0,0:00:33.11,0:00:35.38,Sub,,0,0,0,,{\k128}SALUDABLE. {\k84}IMAGÍNALOS {\k15}CON
+Dialogue: 0,0:00:35.38,0:00:36.55,Sub,,0,0,0,,{\k21}SUS {\k73}TABLAS, {\k23}SUS
+Dialogue: 0,0:00:36.55,0:00:38.59,Sub,,0,0,0,,{\k73}CIFRAS, {\k24}SUS {\k107}ANÁLISIS.
+Dialogue: 0,0:00:38.59,0:00:40.26,Sub,,0,0,0,,{\k38}TODO {\k67}PARECÍA {\k61}APUNTAR
+Dialogue: 0,0:00:40.26,0:00:41.40,Sub,,0,0,0,,{\k13}AL {\k85}CUERPO. {\k16}Y
+Dialogue: 0,0:00:41.40,0:00:42.82,Sub,,0,0,0,,{\k53}PASARON {\k17}LOS {\k71}AÑOS.
+Dialogue: 0,0:00:42.82,0:00:43.51,Sub,,0,0,0,,{\k24}Y {\k30}NADA {\k15}SE
+Dialogue: 0,0:00:43.51,0:00:45.22,Sub,,0,0,0,,{\k63}RESOLVÍA {\k87}RÁPIDO. {\k21}EL
+Dialogue: 0,0:00:45.22,0:00:47.25,Sub,,0,0,0,,{\k57}ESTUDIO {\k70}SIGUIÓ, {\k77}GENERACIÓN
+Dialogue: 0,0:00:47.25,0:00:49.18,Sub,,0,0,0,,{\k21}TRAS {\k92}GENERACIÓN, {\k80}ESPERANDO
+Dialogue: 0,0:00:49.18,0:00:51.01,Sub,,0,0,0,,{\k27}UNA {\k64}RESPUESTA {\k93}CLARA.
+Dialogue: 0,0:00:51.01,0:00:52.09,Sub,,0,0,0,,{\k15}Y {\k74}ENTONCES, {\k19}SU
+Dialogue: 0,0:00:52.09,0:00:53.80,Sub,,0,0,0,,{\k51}DIRECTOR {\k77}ACTUAL, {\k43}ROBERT
+Dialogue: 0,0:00:53.80,0:00:55.08,Sub,,0,0,0,,{\k67}WALDINGER, {\k17}LO {\k43}CUENTA
+Dialogue: 0,0:00:55.08,0:00:56.22,Sub,,0,0,0,,{\k86}ASÍ: {\k15}LO {\k13}QUE
+Dialogue: 0,0:00:56.22,0:00:57.69,Sub,,0,0,0,,{\k45}MEJOR {\k11}LO {\k92}ANTICIPABA
+Dialogue: 0,0:00:57.69,0:00:58.24,Sub,,0,0,0,,{\k27}NO {\k15}ERA {\k13}EL
+Dialogue: 0,0:00:58.24,0:00:59.42,Sub,,0,0,0,,{\k73}COLESTEROL {\k7}A {\k38}MITAD
+Dialogue: 0,0:00:59.42,0:01:00.78,Sub,,0,0,0,,{\k13}DE {\k82}VIDA. {\k41}ERA
+Dialogue: 0,0:01:00.78,0:01:02.04,Sub,,0,0,0,,{\k26}QUÉ {\k20}TAN {\k81}SATISFECHOS
+Dialogue: 0,0:01:02.04,0:01:02.82,Sub,,0,0,0,,{\k42}ESTABAN {\k15}CON {\k21}SUS
+Dialogue: 0,0:01:02.82,0:01:03.70,Sub,,0,0,0,,{\k68}RELACIONES {\k6}A {\k14}LOS
+Dialogue: 0,0:01:03.70,0:01:05.41,Sub,,0,0,0,,{\k113}CINCUENTA. {\k16}LA {\k42}MEJOR
+Dialogue: 0,0:01:05.41,0:01:06.29,Sub,,0,0,0,,{\k46}SEÑAL {\k14}DE {\k28}CÓMO
+Dialogue: 0,0:01:06.29,0:01:07.18,Sub,,0,0,0,,{\k63}LLEGARÍAN {\k6}A {\k20}LOS
+Dialogue: 0,0:01:07.18,0:01:08.52,Sub,,0,0,0,,{\k69}OCHENTA {\k27}NO {\k39}ESTABA
+Dialogue: 0,0:01:08.52,0:01:09.30,Sub,,0,0,0,,{\k9}EN {\k11}SU {\k58}ANÁLISIS
+Dialogue: 0,0:01:09.30,0:01:10.61,Sub,,0,0,0,,{\k11}DE {\k58}SANGRE. {\k63}ESTABA
+Dialogue: 0,0:01:10.61,0:01:11.83,Sub,,0,0,0,,{\k9}EN {\k23}SUS {\k89}VÍNCULOS.
+Dialogue: 0,0:01:11.83,0:01:13.05,Sub,,0,0,0,,{\k70}OJO: {\k35}ES {\k17}UNA
+Dialogue: 0,0:01:13.05,0:01:14.43,Sub,,0,0,0,,{\k98}ASOCIACIÓN, {\k22}NO {\k19}UNA
+Dialogue: 0,0:01:14.43,0:01:15.57,Sub,,0,0,0,,{\k82}PROMESA, {\k15}Y {\k16}NO
+Dialogue: 0,0:01:15.57,0:01:16.63,Sub,,0,0,0,,{\k52}REEMPLAZA {\k13}TU {\k41}CHEQUEO
+Dialogue: 0,0:01:16.63,0:01:18.84,Sub,,0,0,0,,{\k79}MÉDICO. {\k82}SALUD, {\k60}DINERO
+Dialogue: 0,0:01:18.84,0:01:20.46,Sub,,0,0,0,,{\k16}Y {\k131}AMOR. {\k14}A
+Dialogue: 0,0:01:20.46,0:01:21.49,Sub,,0,0,0,,{\k38}VECES {\k13}LA {\k52}RESPUESTA
+Dialogue: 0,0:01:21.49,0:01:22.05,Sub,,0,0,0,,{\k27}CABE {\k14}EN {\k15}UNA
+Dialogue: 0,0:01:22.05,0:01:22.76,Sub,,0,0,0,,{\k52}LLAMADA {\k8}Y {\k10}UN
+Dialogue: 0,0:01:22.76,0:01:24.40,Sub,,0,0,0,,{\k89}CAFÉ. {\k34}¿QUÉ {\k42}CUIDAS
+Dialogue: 0,0:01:24.40,0:01:25.41,Sub,,0,0,0,,{\k21}MÁS {\k55}HOY: {\k25}TUS
+Dialogue: 0,0:01:25.41,0:01:26.49,Sub,,0,0,0,,{\k73}ANÁLISIS {\k13}O {\k22}TUS
+Dialogue: 0,0:01:26.49,0:01:28.38,Sub,,0,0,0,,{\k88}VÍNCULOS? {\k20}TE {\k80}LEO.
+Dialogue: 0,0:01:28.38,0:01:30.39,Sub,,0,0,0,,{\k118}SUSCRÍBETE: {\k58}MAÑANA {\k25}HAY
+Dialogue: 0,0:01:30.39,0:01:31.53,Sub,,0,0,0,,{\k24}OTRA {\k89}HISTORIA.
