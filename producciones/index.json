@@ -1,6 +1,437 @@
 {
- "actualizado": "2026-11-19T18:47:56",
+ "actualizado": "2026-11-20T18:22:39",
  "producciones": [
+  {
+   "id": "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia",
+   "perfil": "soyintegral_es",
+   "canal": "Soy Integral · Salud",
+   "fecha": "2026-11-20T18:22:39",
+   "titulo": "Salud sin receta: la pregunta que cambia tu día",
+   "titulos_alternativos": [
+    "Tu cuerpo no necesita otra receta, necesita esto",
+    "3 pausas de salud que no son una receta"
+   ],
+   "descripcion": "Cuerpo, mente y trabajo son un solo sistema. En este short, Germancho te muestra por qué una pregunta mejor sobre tu salud, tu sueño y tu estrés pesa más que otra fórmula. Si hay síntomas, consulta a un profesional. Quédate con el reto de hoy y cuéntalo en comentarios.\n\n#SoyIntegral #Salud #Bienestar #HabitosSaludables #EstresLaboral #Sueno #Germancho #CafeConProposito",
+   "hashtags": [
+    "#SoyIntegral",
+    "#Salud",
+    "#Bienestar",
+    "#HabitosSaludables",
+    "#EstresLaboral",
+    "#Sueno",
+    "#Germancho",
+    "#CafeConProposito"
+   ],
+   "reto_de_hoy": "Toma tu cuaderno y escribe en una línea una pregunta sobre cómo está tu cuerpo ahora mismo; luego compártela en comentarios.",
+   "duracion_s": 56.3,
+   "tamano_mb": 8.9,
+   "fuente": {
+    "tema": "Qué pasa en la clase gratuita de Café con Propósito. Gancho: Cuando alguien me pregunta qué pasa en esa clase, lo primero que digo es: nadie sale con una receta, todos salen con una pregunta mejor.. Formato de conversión: Short de Germancho, 45 s: tres imágenes de la clase (cuaderno, taza, conversación en grupo) + invitación final: Si quieres ver cómo se siente, el enlace de la clase gratuita está abajo. Sin compromiso, solo curiosidad."
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "short",
+   "visual": "ilustracion",
+   "archivos": {
+    "video": "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/short.mp4",
+    "miniatura": "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/miniatura.jpg",
+    "miniatura_16x9": "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/miniatura_16x9.jpg",
+    "guion": "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/guion.json",
+    "ficha": "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/ficha.json",
+    "miniaturas": [
+     "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/miniatura.jpg",
+     "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/miniatura_16x9.jpg",
+     "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/miniatura_16x9_oscura.jpg",
+     "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/miniatura_16x9_rostro.jpg",
+     "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/miniatura_oscura_9x16.jpg",
+     "20261120-soyintegral_es-salud-sin-receta-la-pregunta-que-cambia-tu-dia/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "conversion",
+   "nivel": "empresa",
+   "cta": "",
+   "ganchos_alternativos": [
+    "¿Y si lo que le falta a tu salud no es otro hábito, sino una pregunta mejor?",
+    "Dormir ocho horas, tomar agua, hacer pausas. Las sabes todas. Y sigues agotado. Eso no es falta de disciplina.",
+    "El mes pasado me senté con mi café a revisar mis hábitos y descubrí que me sobraban recetas. Me faltaba una pregunta."
+   ],
+   "comentario_fijado": "Reto de hoy: Toma tu cuaderno y escribe en una línea una pregunta sobre cómo está tu cuerpo ahora mismo; luego compártela en comentarios. Cuéntame cómo te fue 👇 Escribe SALUD y te mando el reto completo.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
+  {
+   "id": "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg",
+   "perfil": "barista_es",
+   "canal": "El Barista del Ser · Historias",
+   "fecha": "2026-11-20T18:18:59",
+   "titulo": "Un cafetero dio nombre a Lloyd's sin vender un seguro",
+   "titulos_alternativos": [
+    "Un café en Londres dio nombre a un gigante de seguros",
+    "Sirvió café a marineros y su apellido llegó a los seguros"
+   ],
+   "descripcion": "Hacia 1688, un hombre abrió un café en Londres y, sin proponérselo, su apellido terminó en uno de los mercados de seguros más famosos del mundo. Fuente: historia oficial de Lloyd's of London (lloyds.com) y artículo «Lloyd's of London» en Wikipedia. ¿Prefieres ser quien vende el producto (A) o quien crea el lugar donde todos se juntan (B)?\n\n📕 El libro donde empezó todo: «Vuelve M&3#d@ este libro».\n\n#historia #curiosidades #dinero #negocios #cafe #emprendimiento",
+   "hashtags": [
+    "#historia",
+    "#curiosidades",
+    "#dinero",
+    "#negocios",
+    "#cafe",
+    "#emprendimiento"
+   ],
+   "reto_de_hoy": "¿Prefieres ser quien vende el producto (A) o quien crea el lugar donde todos se juntan (B)?",
+   "duracion_s": 84.8,
+   "tamano_mb": 38.0,
+   "fuente": {
+    "tema": "Un cafetero dio nombre a Lloyd's sin vender un seguro",
+    "historia_id": "dinero-uncafeterodionombrealloy",
+    "fuente_historia": "Historia oficial de Lloyd's of London (lloyds.com) y artículo «Lloyd's of London» en Wikipedia"
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "historia",
+   "visual": "broll",
+   "archivos": {
+    "video": "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/short.mp4",
+    "miniatura": "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/miniatura.jpg",
+    "miniatura_16x9": "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/miniatura_16x9.jpg",
+    "guion": "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/guion.json",
+    "ficha": "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/ficha.json",
+    "miniaturas": [
+     "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/miniatura.jpg",
+     "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/miniatura_16x9.jpg",
+     "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/miniatura_16x9_oscura.jpg",
+     "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/miniatura_16x9_rostro.jpg",
+     "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/miniatura_oscura_9x16.jpg",
+     "20261120-barista_es-un-cafetero-dio-nombre-a-lloyd-s-sin-vender-un-seg/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "📕 El libro donde empezó todo: «Vuelve M&3#d@ este libro».",
+   "ganchos_alternativos": [
+    "Nunca vendió un seguro, y su apellido es sinónimo de seguros en todo el mundo.",
+    "Un hombre sirvió café en Londres y, sin saberlo, bautizó a un gigante.",
+    "Cuentan que el nombre de un mercado de seguros famoso salió de una cafetería."
+   ],
+   "comentario_fijado": "¿Prefieres ser quien vende el producto (A) o quien crea el lugar donde todos se juntan (B)? Te leo 👇 Escribe CAFÉ y te mando la fuente y la historia completa.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
+  {
+   "id": "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa",
+   "perfil": "equilibrate_es",
+   "canal": "Equilíbrate · Amor",
+   "fecha": "2026-11-20T18:14:50",
+   "titulo": "Si ninguno escribe primero, esto es lo que pasa",
+   "titulos_alternativos": [
+    "Cuando los dos dejan de buscarse, pasa esto",
+    "El silencio en pareja no está vacío: te dice esto"
+   ],
+   "descripcion": "¿Qué pasa cuando dos personas dejan de buscarse? Germancho te cuenta qué dice el silencio en una relación, por qué cuesta tanto soltar el celular y cómo volver a ti, sin depender de una respuesta. Amor propio, contacto cero y vínculos, en menos de un minuto. Haz el reto de hoy y cuéntame cómo te fue.\n\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».\n\n#amorpropio #contactocero #relaciones #pareja #soltar #equilibrate #germancho",
+   "hashtags": [
+    "#amorpropio",
+    "#contactocero",
+    "#relaciones",
+    "#pareja",
+    "#soltar",
+    "#equilibrate",
+    "#germancho"
+   ],
+   "reto_de_hoy": "Cuando sientas el impulso de escribirle, escribe un mensaje en tu cuaderno, sin enviarlo, durante tres minutos.",
+   "duracion_s": 65.4,
+   "tamano_mb": 9.9,
+   "fuente": {
+    "video_id": "JJ4VYVYzxHw",
+    "url": "https://www.youtube.com/watch?v=JJ4VYVYzxHw",
+    "titulo": "SI AMBOS DEJAN DE CONTACTARSE, ESTO TERMINARÁ PASANDO | Gabriel Rolon",
+    "descripcion": "💔 ¿QUÉ PASA CUANDO DOS PERSONAS DEJAN DE BUSCARSE? ¿El silencio hace que el amor desaparezca o revela lo que realmente existe entre dos personas?\n\nCuando dejan de llegar los mensajes, las llamadas y los buenos días, comienza una etapa que puede cambiar la forma en que entiendes el amor, el apego y tu propio valor. A veces, el silencio duele; otras veces, se convierte en la oportunidad que necesitabas para recuperar tu paz interior.\n\nEn este video, inspirado en una reflexión sobre la psicología de las relaciones, descubrirás qué puede suceder emocionalmente cuando dos personas dejan de contactarse, por qué cuesta tanto dejar de buscar a alguien y cómo transformar la ausencia en una oportunidad de crecimiento personal.\n\n🧠 EN ESTE VIDEO DESCUBRIRÁS:\n\n💔 Por qué el silencio puede despertar emociones intensas cuando se interrumpe una comunicación habitual.\n\n⚖️ Cómo reconocer si eres tú quien siempre sostiene la relación.\n\n🧠 Qué relación existe entre el apego emocional, la ansiedad y la necesidad de recibir mensajes.\n\n🌱 Cómo dejar de perseguir la atención de alguien y comenzar a recuperar tu autoestima.\n\n🎭 Qué puede revelar la distancia sobre el orgullo, las expectativas y la reciprocidad.\n\n🕊️ Cómo aprender a esperar sin perder tu tranquilidad emocional.\n\n❤️ La diferencia entre el amor sano, la dependencia emocional y el miedo a la soledad.\n\n✨ Qué puedes aprender de una separación temporal y cómo afrontar un posible reencuentro desde una perspectiva más madura.\n\nEL SILENCIO TAMBIÉN TIENE ALGO QUE DECIR.\n\nNo se trata de dejar de hablarle a alguien para castigarlo, despertar sus celos o conseguir que regrese. Se trata de dejar de insistir cuando una relación te desgasta, establecer límites saludables y comprender que tu valor no depende de la atención de otra persona.\n\nA veces, el silencio no trae de vuelta a quien se fue. Pero puede ayudarte a volver a ti mismo.\n\n💬 COMENTA ESTA FRASE:\n«MI PAZ NO DEPENDE DE QUIÉN ME BUSCA, SINO DE LO QUE APRENDO A DARME A MÍ MISMO».\n\nSi este mensaje conecta contigo, deja tu LIKE, comparte el video con alguien que necesite escucharlo y SUSCRÍBETE para descubrir más reflexiones sobre psicología de las relaciones, amor propio, desapego emocional y crecimiento personal.\n\n🔔 Activa las notificaciones para acompañarnos en este camino de autoconocimiento y relaciones más saludables.\n\n📌 Recuerda: el silencio no garantiza que alguien regrese ni demuestra por sí solo lo que siente. Su mayor valor está en permitirte observar la relación con claridad, respetar tus límites y recuperar tu equilibrio emocional.\n\n#ContactoCero #AmorPropio #psicologiadelasrelaciones \n\n00:00 💔 Cuando dos personas dejan de buscarse\n\n01:38 ⚖️ El silencio devuelve el equilibrio\n\n05:11 🧠 Qué sucede cuando se interrumpe el contacto\n\n08:08 ❤️ El camino hacia relaciones más saludables\n\n08:40 🌱 Quien más buscaba comienza a despertar\n\n11:46 🎭 Cuando el orgullo deja paso a la verdad\n\n14:03 🕊️ El poder de esperar y recuperar la paz\n\n16:32 🔥 Si el amor es real, ¿puede encontrar el camino de regreso?\n\n17:23 🫂 Del apego ansioso a un vínculo más seguro\n\n18:14 🔍 Lo que la distancia puede revelar sobre el amor\n\n18:46 ✨ Un posible reencuentro y una nueva forma de amar\n\n19:31 🌅 El silencio como oportunidad para comenzar de nuevo\n\nsi ambos dejan de buscarse, cuando dos personas dejan de hablarse, psicología del silencio, contacto cero, amor propio, relaciones de pareja, apego emocional, apego ansioso, dependencia emocional, sanar una ruptura amorosa, cómo dejar de buscar a alguien, qué siente cuando no le escribes, silencio en una relación, inteligencia emocional, recuperar la autoestima, desapego emocional, relaciones saludables, crecimiento personal, Gabriel Rolón, el arte de soltar\n\n#Psicologia #AmorPropio #ContactoCero #PsicologiaDeLasRelaciones #RelacionesDePareja #ApegoEmocional #DependenciaEmocional #ApegoAnsioso #InteligenciaEmocional #SanarElCorazon #SuperarUnaRuptura #DesapegoEmocional #Autoestima #CrecimientoPersonal #PazInterior #AmorSano #Silencio #RelacionesSaludables #GabrielRolon #ElArteDeSoltar\n\nDISCLAIMER / AVISO IMPORTANTE\n\nEste video tiene fines exclusivamente educativos, informativos y de reflexión personal. El contenido aborda temas generales relacionados con las emociones, las relaciones de pareja, el apego y el crecimiento personal. No constituye asesoramiento psicológico, diagnóstico clínico ni tratamiento médico, y no sustituye la orientación de un profesional cualificado de la salud mental.",
+    "canal": "El Arte de Soltar",
+    "vistas": 177795,
+    "likes": 1710,
+    "comentarios": 205,
+    "publicado": "2026-10-12",
+    "miniatura": "https://i.ytimg.com/vi/JJ4VYVYzxHw/maxresdefault.jpg",
+    "duracion": "PT19M45S",
+    "tags": [
+     "si ambos dejan de buscarse",
+     "cuando dejan de hablarse",
+     "psicología del silencio",
+     "contacto cero",
+     "amor propio",
+     "relaciones de pareja",
+     "apego emocional",
+     "apego ansioso",
+     "dependencia emocional",
+     "sanar una ruptura",
+     "superar una ruptura amorosa",
+     "dejar de buscar a alguien",
+     "silencio en el amor",
+     "inteligencia emocional",
+     "desapego emocional",
+     "recuperar la autoestima",
+     "relaciones saludables",
+     "crecimiento personal",
+     "Gabriel Rolón",
+     "el arte de soltar"
+    ],
+    "transcripcion_chars": 0
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "short",
+   "visual": "ilustracion",
+   "archivos": {
+    "video": "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/short.mp4",
+    "miniatura": "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/miniatura.jpg",
+    "miniatura_16x9": "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/miniatura_16x9.jpg",
+    "guion": "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/guion.json",
+    "ficha": "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/ficha.json",
+    "miniaturas": [
+     "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/miniatura.jpg",
+     "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/miniatura_16x9.jpg",
+     "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/miniatura_16x9_oscura.jpg",
+     "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/miniatura_16x9_rostro.jpg",
+     "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/miniatura_oscura_9x16.jpg",
+     "20261120-equilibrate_es-si-ninguno-escribe-primero-esto-es-lo-que-pasa/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».",
+   "ganchos_alternativos": [
+    "¿Y si el silencio no fuera un castigo, sino una respuesta? Quédate: te cuento qué te está diciendo.",
+    "Dicen que el silencio en pareja lo arruina todo, pero casi nunca es el silencio: es lo que él deja ver. Te explico qué muestra.",
+    "Una vez pasé tres semanas mirando un chat vacío, esperando a que alguien escribiera primero. Esto fue lo que aprendí."
+   ],
+   "comentario_fijado": "Reto de hoy: Cuando sientas el impulso de escribirle, escribe un mensaje en tu cuaderno, sin enviarlo, durante tres minutos. Cuéntame cómo te fue 👇 Escribe RETO y te mando el reto completo.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
+  {
+   "id": "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones",
+   "perfil": "soyintegral_es",
+   "canal": "Soy Integral · Salud",
+   "fecha": "2026-11-20T18:11:14",
+   "titulo": "3 bebidas de casa para cuidar tus riñones",
+   "titulos_alternativos": [
+    "3 bebidas simples para unos riñones tranquilos",
+    "Lo que bebes hoy lo filtran tus riñones mañana"
+   ],
+   "descripcion": "Tus riñones filtran tu sangre las 24 horas y lo que bebes les ayuda o les estorba. Tres bebidas cotidianas, con respaldo en la evidencia, para cuidarlos desde tu cocina. Si tienes enfermedad renal, consulta primero a tu médico. Hoy te dejo un reto de menos de cinco minutos: míralo hasta el final y cuéntame en comentarios cuál harás.\n\n#salud #riñones #hábitos #bienestar #hidratación #CaféConPropósito #SoyIntegral",
+   "hashtags": [
+    "#salud",
+    "#riñones",
+    "#hábitos",
+    "#bienestar",
+    "#hidratación",
+    "#CaféConPropósito",
+    "#SoyIntegral"
+   ],
+   "reto_de_hoy": "Llena un vaso de agua con medio limón y bébelo antes de tu próximo café; luego comenta cuál de las tres bebidas vas a sumar a tu día.",
+   "duracion_s": 78.9,
+   "tamano_mb": 10.6,
+   "fuente": {
+    "video_id": "zC-7_ccwBeo",
+    "url": "https://www.youtube.com/watch?v=zC-7_ccwBeo",
+    "titulo": "6 Bebidas para tener RIÑONES Sanos y Fuertes",
+    "descripcion": "Tus riñones trabajan las 24 horas filtrando la sangre y eliminando toxinas. En este video te enseñamos cuáles son las mejores bebidas para cuidar tus riñones, prevenir cálculos renales (piedras) y proteger su función a largo plazo con evidencia científica.\nEn este video descubrirás:\n-La importancia del agua para diluir el ácido úrico y la urea.\n-Cómo el agua con limón y el citrato evitan la formación de piedras en los riñones.\n-Los poderosos antioxidantes del té verde para reducir el estrés oxidativo.\n-Infusiones saludables (jamaica, manzanilla, jengibre) y su impacto en la presión arterial y el azúcar.\n-La verdad sobre el café y la salud renal.\n-El poder antiinflamatorio del jugo de granada natural.\n-Precauciones indispensables si tienes enfermedad renal previa.\n\n¡Bienvenido a Capsulín Explica!\n🔔 ¡Suscríbete al canal para no perderte ningún video!\nhttps://www.youtube.com/channel/UCMuWETbS1JhHjewQ4935VcA?sub_confirmation=1\n💬 ¡Déjanos tu comentario!\n¿Cuál de estas bebidas ya forma parte de tu rutina diaria?\n👍 Si te gustó este video, no olvides darle LIKE y COMPARTIRLO con alguien a quien le pueda servir esta información.\n#CuidadoDeLosRiones #saludrenal  #bebidassaludables  #CalculosRenales #CapsulinExplica #saludybienestar  #hábitossaludables  #aguaconlimón  #tèverde #cafe #manzanilla \n⚠️ AVISO IMPORTANTE:\nEl contenido de este video y de este canal tiene un propósito únicamente educativo e informativo. No constituye ni reemplaza el consejo, diagnóstico o tratamiento médico profesional. Ante cualquier duda o condición de salud (como insuficiencia renal), consulta siempre con un médico o un especialista de la salud cualificado.",
+    "canal": "Capsulin Explica",
+    "vistas": 2429862,
+    "likes": 14049,
+    "comentarios": 129,
+    "publicado": "2026-08-20",
+    "miniatura": "https://i.ytimg.com/vi/zC-7_ccwBeo/maxresdefault.jpg",
+    "duracion": "PT9M10S",
+    "tags": [
+     "`salud renal",
+     "cuidar los riñones",
+     "bebidas para los riñones",
+     "riñones sanos",
+     "salud de los riñones",
+     "cómo cuidar los riñones",
+     "función renal",
+     "limpiar los riñones naturalmente",
+     "prevenir piedras en los riñones",
+     "agua con limón beneficios",
+     "té verde beneficios",
+     "beneficios del café",
+     "jugo de granada beneficios",
+     "infusiones para la salud",
+     "bebidas buenas para los riñones",
+     "qué tomar para cuidar los riñones",
+     "alimentos y bebidas para los riñones",
+     "cómo prevenir enfermedad renal"
+    ],
+    "transcripcion_chars": 0
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "short",
+   "visual": "ilustracion",
+   "archivos": {
+    "video": "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/short.mp4",
+    "miniatura": "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/miniatura.jpg",
+    "miniatura_16x9": "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/miniatura_16x9.jpg",
+    "guion": "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/guion.json",
+    "ficha": "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/ficha.json",
+    "miniaturas": [
+     "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/miniatura.jpg",
+     "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/miniatura_16x9.jpg",
+     "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/miniatura_16x9_oscura.jpg",
+     "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/miniatura_16x9_rostro.jpg",
+     "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/miniatura_oscura_9x16.jpg",
+     "20261120-soyintegral_es-3-bebidas-de-casa-para-cuidar-tus-rinones/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "",
+   "ganchos_alternativos": [
+    "¿Cuándo fue la última vez que le diste las gracias a tus riñones? Trabajan las 24 horas, y casi nadie los trata como a un compañero de equipo.",
+    "Dato que casi nadie sabe: tus riñones filtran tu sangre todo el día, y hay una bebida que quizás ya tienes en la cocina que puede darles una mano.",
+    "Hace unos años descubrí que bebía casi puro café y casi nada de agua. Mis riñones llevaban meses trabajando sin una pausa ni un aliado."
+   ],
+   "comentario_fijado": "Reto de hoy: Llena un vaso de agua con medio limón y bébelo antes de tu próximo café; luego comenta cuál de las tres bebidas vas a sumar a tu día. Cuéntame cómo te fue 👇 Escribe SALUD y te mando el reto completo.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
+  {
+   "id": "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero",
+   "perfil": "barista_es",
+   "canal": "El Barista del Ser · Historias",
+   "fecha": "2026-11-20T18:07:18",
+   "titulo": "Harvard siguió vidas 80 años y no era el colesterol",
+   "titulos_alternativos": [
+    "Harvard vigiló a cientos de hombres 80 años y no era la sangre",
+    "Harvard preguntó por 80 años qué nos cuida y no era el colesterol"
+   ],
+   "descripcion": "En 1938, Harvard empezó a seguir vidas para descubrir qué anticipa una vejez saludable. Ochenta años después, lo que mejor lo anticipaba no estaba en el análisis de sangre. Fuente: Harvard Study of Adult Development; Robert Waldinger, charla TED «What makes a good life?», 2015. Es una asociación, no una promesa, y no reemplaza tu chequeo médico. ¿Qué cuidas más hoy: tus análisis o tus vínculos?\n\n📕 El libro donde empezó todo: «Vuelve M&3#d@ este libro».\n\n#historia #curiosidades #amor #relaciones #bienestar #harvard",
+   "hashtags": [
+    "#historia",
+    "#curiosidades",
+    "#amor",
+    "#relaciones",
+    "#bienestar",
+    "#harvard"
+   ],
+   "reto_de_hoy": "¿Qué cuidas más hoy: tus análisis o tus vínculos? Te leo.",
+   "duracion_s": 91.5,
+   "tamano_mb": 3.5,
+   "fuente": {
+    "tema": "Harvard siguió vidas por 80 años: no era el colesterol",
+    "historia_id": "amor-harvardsiguiovidaspor80a",
+    "fuente_historia": "Harvard Study of Adult Development; Robert Waldinger, charla TED «What makes a good life?», 2015; Wikipedia: Harvard Study of Adult Development"
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "historia",
+   "visual": "broll",
+   "archivos": {
+    "video": "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/short.mp4",
+    "miniatura": "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/miniatura.jpg",
+    "miniatura_16x9": "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/miniatura_16x9.jpg",
+    "guion": "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/guion.json",
+    "ficha": "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/ficha.json",
+    "miniaturas": [
+     "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/miniatura.jpg",
+     "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/miniatura_16x9.jpg",
+     "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/miniatura_16x9_oscura.jpg",
+     "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/miniatura_16x9_rostro.jpg",
+     "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/miniatura_oscura_9x16.jpg",
+     "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "📕 El libro donde empezó todo: «Vuelve M&3#d@ este libro».",
+   "ganchos_alternativos": [
+    "Harvard siguió a cientos de hombres durante ochenta años para encontrar el secreto de una vejez sana. Y no estaba donde miraban.",
+    "Imagina dos papeles sobre tu mesa: tu análisis de colesterol y una lista de quienes te quieren. Harvard los comparó durante ochenta años.",
+    "Los médicos de Harvard esperaban encontrar la respuesta en la sangre. La encontraron en otro lado."
+   ],
+   "comentario_fijado": "¿Qué cuidas más hoy: tus análisis o tus vínculos? Te leo. Te leo 👇 Escribe CAFÉ y te mando la fuente y la historia completa.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
+  {
+   "id": "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando",
+   "perfil": "equilibrate_es",
+   "canal": "Equilíbrate · Amor",
+   "fecha": "2026-11-20T18:05:27",
+   "titulo": "Si ninguno escribe, esto termina pasando",
+   "titulos_alternativos": [
+    "Cuando los dos se callan, esto pasa de verdad",
+    "Si dejan de buscarse, esto es lo que sigue"
+   ],
+   "descripcion": "¿Qué pasa cuando dos personas que se querían dejan de escribirse? El silencio no es vacío: es información sobre el vínculo y sobre ti. Amor propio, contacto cero y apego, contados con calma y sin falsas promesas. Haz el reto de hoy y cuéntame en los comentarios cómo te fue.\n\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».\n\n#amorpropio #contactocero #superarunaruptura #apego #soltar #parejas #equilibrate #germancho",
+   "hashtags": [
+    "#amorpropio",
+    "#contactocero",
+    "#superarunaruptura",
+    "#apego",
+    "#soltar",
+    "#parejas",
+    "#equilibrate",
+    "#germancho"
+   ],
+   "reto_de_hoy": "Antes de escribirle, anota en tu cuaderno tres cosas que sí dependen de ti esta semana.",
+   "duracion_s": 77.2,
+   "tamano_mb": 10.8,
+   "fuente": {
+    "video_id": "JJ4VYVYzxHw",
+    "url": "https://www.youtube.com/watch?v=JJ4VYVYzxHw",
+    "titulo": "SI AMBOS DEJAN DE CONTACTARSE, ESTO TERMINARÁ PASANDO | Gabriel Rolon",
+    "descripcion": "💔 ¿QUÉ PASA CUANDO DOS PERSONAS DEJAN DE BUSCARSE? ¿El silencio hace que el amor desaparezca o revela lo que realmente existe entre dos personas?\n\nCuando dejan de llegar los mensajes, las llamadas y los buenos días, comienza una etapa que puede cambiar la forma en que entiendes el amor, el apego y tu propio valor. A veces, el silencio duele; otras veces, se convierte en la oportunidad que necesitabas para recuperar tu paz interior.\n\nEn este video, inspirado en una reflexión sobre la psicología de las relaciones, descubrirás qué puede suceder emocionalmente cuando dos personas dejan de contactarse, por qué cuesta tanto dejar de buscar a alguien y cómo transformar la ausencia en una oportunidad de crecimiento personal.\n\n🧠 EN ESTE VIDEO DESCUBRIRÁS:\n\n💔 Por qué el silencio puede despertar emociones intensas cuando se interrumpe una comunicación habitual.\n\n⚖️ Cómo reconocer si eres tú quien siempre sostiene la relación.\n\n🧠 Qué relación existe entre el apego emocional, la ansiedad y la necesidad de recibir mensajes.\n\n🌱 Cómo dejar de perseguir la atención de alguien y comenzar a recuperar tu autoestima.\n\n🎭 Qué puede revelar la distancia sobre el orgullo, las expectativas y la reciprocidad.\n\n🕊️ Cómo aprender a esperar sin perder tu tranquilidad emocional.\n\n❤️ La diferencia entre el amor sano, la dependencia emocional y el miedo a la soledad.\n\n✨ Qué puedes aprender de una separación temporal y cómo afrontar un posible reencuentro desde una perspectiva más madura.\n\nEL SILENCIO TAMBIÉN TIENE ALGO QUE DECIR.\n\nNo se trata de dejar de hablarle a alguien para castigarlo, despertar sus celos o conseguir que regrese. Se trata de dejar de insistir cuando una relación te desgasta, establecer límites saludables y comprender que tu valor no depende de la atención de otra persona.\n\nA veces, el silencio no trae de vuelta a quien se fue. Pero puede ayudarte a volver a ti mismo.\n\n💬 COMENTA ESTA FRASE:\n«MI PAZ NO DEPENDE DE QUIÉN ME BUSCA, SINO DE LO QUE APRENDO A DARME A MÍ MISMO».\n\nSi este mensaje conecta contigo, deja tu LIKE, comparte el video con alguien que necesite escucharlo y SUSCRÍBETE para descubrir más reflexiones sobre psicología de las relaciones, amor propio, desapego emocional y crecimiento personal.\n\n🔔 Activa las notificaciones para acompañarnos en este camino de autoconocimiento y relaciones más saludables.\n\n📌 Recuerda: el silencio no garantiza que alguien regrese ni demuestra por sí solo lo que siente. Su mayor valor está en permitirte observar la relación con claridad, respetar tus límites y recuperar tu equilibrio emocional.\n\n#ContactoCero #AmorPropio #psicologiadelasrelaciones \n\n00:00 💔 Cuando dos personas dejan de buscarse\n\n01:38 ⚖️ El silencio devuelve el equilibrio\n\n05:11 🧠 Qué sucede cuando se interrumpe el contacto\n\n08:08 ❤️ El camino hacia relaciones más saludables\n\n08:40 🌱 Quien más buscaba comienza a despertar\n\n11:46 🎭 Cuando el orgullo deja paso a la verdad\n\n14:03 🕊️ El poder de esperar y recuperar la paz\n\n16:32 🔥 Si el amor es real, ¿puede encontrar el camino de regreso?\n\n17:23 🫂 Del apego ansioso a un vínculo más seguro\n\n18:14 🔍 Lo que la distancia puede revelar sobre el amor\n\n18:46 ✨ Un posible reencuentro y una nueva forma de amar\n\n19:31 🌅 El silencio como oportunidad para comenzar de nuevo\n\nsi ambos dejan de buscarse, cuando dos personas dejan de hablarse, psicología del silencio, contacto cero, amor propio, relaciones de pareja, apego emocional, apego ansioso, dependencia emocional, sanar una ruptura amorosa, cómo dejar de buscar a alguien, qué siente cuando no le escribes, silencio en una relación, inteligencia emocional, recuperar la autoestima, desapego emocional, relaciones saludables, crecimiento personal, Gabriel Rolón, el arte de soltar\n\n#Psicologia #AmorPropio #ContactoCero #PsicologiaDeLasRelaciones #RelacionesDePareja #ApegoEmocional #DependenciaEmocional #ApegoAnsioso #InteligenciaEmocional #SanarElCorazon #SuperarUnaRuptura #DesapegoEmocional #Autoestima #CrecimientoPersonal #PazInterior #AmorSano #Silencio #RelacionesSaludables #GabrielRolon #ElArteDeSoltar\n\nDISCLAIMER / AVISO IMPORTANTE\n\nEste video tiene fines exclusivamente educativos, informativos y de reflexión personal. El contenido aborda temas generales relacionados con las emociones, las relaciones de pareja, el apego y el crecimiento personal. No constituye asesoramiento psicológico, diagnóstico clínico ni tratamiento médico, y no sustituye la orientación de un profesional cualificado de la salud mental.",
+    "canal": "El Arte de Soltar",
+    "vistas": 177764,
+    "likes": 1710,
+    "comentarios": 205,
+    "publicado": "2026-10-12",
+    "miniatura": "https://i.ytimg.com/vi/JJ4VYVYzxHw/maxresdefault.jpg",
+    "duracion": "PT19M45S",
+    "tags": [
+     "si ambos dejan de buscarse",
+     "cuando dejan de hablarse",
+     "psicología del silencio",
+     "contacto cero",
+     "amor propio",
+     "relaciones de pareja",
+     "apego emocional",
+     "apego ansioso",
+     "dependencia emocional",
+     "sanar una ruptura",
+     "superar una ruptura amorosa",
+     "dejar de buscar a alguien",
+     "silencio en el amor",
+     "inteligencia emocional",
+     "desapego emocional",
+     "recuperar la autoestima",
+     "relaciones saludables",
+     "crecimiento personal",
+     "Gabriel Rolón",
+     "el arte de soltar"
+    ],
+    "transcripcion_chars": 0
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "short",
+   "visual": "ilustracion",
+   "archivos": {
+    "video": "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/short.mp4",
+    "miniatura": "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/miniatura.jpg",
+    "miniatura_16x9": "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/miniatura_16x9.jpg",
+    "guion": "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/guion.json",
+    "ficha": "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/ficha.json",
+    "miniaturas": [
+     "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/miniatura.jpg",
+     "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/miniatura_16x9.jpg",
+     "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/miniatura_16x9_oscura.jpg",
+     "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/miniatura_16x9_rostro.jpg",
+     "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/miniatura_oscura_9x16.jpg",
+     "20261120-equilibrate_es-si-ninguno-escribe-esto-termina-pasando/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».",
+   "ganchos_alternativos": [
+    "Dime la verdad: ¿cuántas veces hoy abriste el chat solo para ver si él o ella había escrito?",
+    "Dicen que cuando nadie escribe, el amor se acabó. Pero el silencio no dice eso: dice algo más interesante.",
+    "Yo también me quedé mirando el celular una noche entera, esperando un mensaje que nunca llegó. Y aprendí algo."
+   ],
+   "comentario_fijado": "Reto de hoy: Antes de escribirle, anota en tu cuaderno tres cosas que sí dependen de ti esta semana. Cuéntame cómo te fue 👇 Escribe RETO y te mando el reto completo.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
   {
    "id": "20261119-soyintegral_es-esta-noche-1-gesto-de-10-segundos-con-tu-celular",
    "perfil": "soyintegral_es",
