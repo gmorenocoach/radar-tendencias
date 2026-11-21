@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T16:59:46Z",
+ "actualizado": "2026-11-21T16:11:21Z",
  "perfiles": [
   {
    "id": "barista_es",
@@ -7,7 +7,7 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "es",
    "formato": "shorts",
-   "generado": "2026-11-20T16:59:46Z",
+   "generado": "2026-11-21T16:11:21Z",
    "videos": 0,
    "canales": 0
   },
@@ -17,9 +17,9 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "en",
    "formato": "largo",
-   "generado": "2026-11-20T16:59:46Z",
-   "videos": 1,
-   "canales": 1
+   "generado": "2026-11-21T16:11:21Z",
+   "videos": 16,
+   "canales": 6
   },
   {
    "id": "equilibrate_es",
@@ -27,9 +27,9 @@
    "nicho": "Amor (Equilíbrate)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-20T16:59:46Z",
-   "videos": 34,
-   "canales": 9
+   "generado": "2026-11-21T16:11:21Z",
+   "videos": 40,
+   "canales": 11
   },
   {
    "id": "mercado_coaching_es",
@@ -37,9 +37,9 @@
    "nicho": "Mercado coaching y cursos",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-20T16:59:46Z",
-   "videos": 79,
-   "canales": 68
+   "generado": "2026-11-21T16:11:21Z",
+   "videos": 107,
+   "canales": 86
   },
   {
    "id": "mitribu_en",
@@ -47,9 +47,9 @@
    "nicho": "Dinero (Mi Tribu)",
    "idioma": "en",
    "formato": "shorts",
-   "generado": "2026-11-20T16:59:46Z",
-   "videos": 3,
-   "canales": 7
+   "generado": "2026-11-21T16:11:21Z",
+   "videos": 2,
+   "canales": 6
   },
   {
    "id": "mitribu_es",
@@ -57,9 +57,9 @@
    "nicho": "Dinero (Mi Tribu)",
    "idioma": "es",
    "formato": "shorts",
-   "generado": "2026-11-20T16:59:46Z",
-   "videos": 9,
-   "canales": 8
+   "generado": "2026-11-21T16:11:21Z",
+   "videos": 11,
+   "canales": 9
   },
   {
    "id": "soyintegral_en",
@@ -67,9 +67,9 @@
    "nicho": "Salud (Soy Integral)",
    "idioma": "en",
    "formato": "largo",
-   "generado": "2026-11-20T16:59:46Z",
-   "videos": 12,
-   "canales": 7
+   "generado": "2026-11-21T16:11:21Z",
+   "videos": 13,
+   "canales": 5
   },
   {
    "id": "soyintegral_es",
@@ -77,10 +77,10 @@
    "nicho": "Salud (Soy Integral)",
    "idioma": "es",
    "formato": "largo",
-   "generado": "2026-11-20T16:59:46Z",
-   "videos": 22,
-   "canales": 10
+   "generado": "2026-11-21T16:11:21Z",
+   "videos": 18,
+   "canales": 4
   }
  ],
- "cuota_usada_hoy": 6705
+ "cuota_usada_hoy": 6932
 }
