@@ -38,7 +38,7 @@
    "eje": "amor",
    "usada": true,
    "creada": "2026-11-12",
-   "produccion": "20261120-barista_es-harvard-siguio-vidas-80-anos-y-no-era-el-colestero"
+   "produccion": "20261121-equilibrate_es-harvard-siguio-a-miles-de-hombres-80-anos-y-hallo-"
   },
   {
    "titulo": "Un emperador levantó el Taj Mahal… y acabó mirándolo preso",
@@ -56,8 +56,9 @@
    ],
    "id": "amor-unemperadorlevantoeltajm",
    "eje": "amor",
-   "usada": false,
-   "creada": "2026-11-12"
+   "usada": true,
+   "creada": "2026-11-12",
+   "produccion": "20261121-barista_es-un-emperador-levanto-el-taj-mahal-y-acabo-mirandol"
   },
   {
    "titulo": "Prohibió el café a su hija… y ella negoció su boda",
@@ -684,9 +685,10 @@
    ],
    "id": "salud-bebiounvasodebacteriasye",
    "eje": "salud",
-   "usada": false,
+   "usada": true,
    "creada": "2026-11-12",
-   "produccion_en": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-"
+   "produccion_en": "20261113-soyintegral_en-bebio-bacterias-a-proposito-y-el-estres-no-era-el-",
+   "produccion": "20261121-soyintegral_es-medico-se-bebio-un-vaso-de-bacterias-a-proposito-y"
   },
   {
    "titulo": "Comió, durmió y trabajó sobre una báscula… 30 años",

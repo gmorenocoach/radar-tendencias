@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Un emperador levantó el Taj Mahal… y acabó mirándolo preso",
+  "historia_id": "amor-unemperadorlevantoeltajm",
+  "fuente_historia": "Wikipedia: Taj Mahal, Shah Jahan y Mumtaz Mahal; Encyclopaedia Britannica: Shah Jahan"
+ },
+ "historia": {
+  "titulo": "Un emperador levantó el Taj Mahal… y acabó mirándolo preso",
+  "hecho": "En 1631, la emperatriz Mumtaz Mahal murió en Burhanpur, India, mientras daba a luz a su hijo número catorce, según las crónicas. Su esposo, el emperador mogol Shah Jahan, quedó devastado. Hacia 1632 empezó en Agra la construcción de un mausoleo de mármol blanco: el Taj Mahal, que tardó cerca de dos décadas en completarse. Años después, en 1658, su hijo Aurangzeb lo derrocó en una disputa por el trono. Shah Jahan pasó sus últimos años confinado en el Fuerte de Agra hasta su muerte en 1666. Según la tradición, desde allí veía el Taj Mahal por la ventana.",
+  "giro": "El hombre que construyó el mayor monumento al amor terminó encerrado por su propio hijo, mirándolo a lo lejos.",
+  "fuente": "Wikipedia: Taj Mahal, Shah Jahan y Mumtaz Mahal; Encyclopaedia Britannica: Shah Jahan",
+  "certeza": "alta",
+  "conexion_eje": "Un gran monumento no sustituye el cuidado cotidiano de los vínculos que tenemos vivos.",
+  "gancho": "Construyó la tumba más famosa del amor y terminó mirándola desde una celda.",
+  "pregunta_binaria": "¿Amor de grandes monumentos o amor de presencia diaria?",
+  "broll": [
+   "Taj Mahal sunrise",
+   "Agra Fort window",
+   "old Mughal painting"
+  ],
+  "id": "amor-unemperadorlevantoeltajm",
+  "eje": "amor",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "En 1631, la emperatriz Mumtaz Mahal murió en Burhanpur, India, mientras daba a luz a su hijo número catorce, según las crónicas. Su esposo, el emperador mogol Shah Jahan, quedó devastado. Hacia 1632 empezó en Agra la construcción de un mausoleo de mármol blanco: el Taj Mahal, que tardó cerca de dos décadas en completarse. Años después, en 1658, su hijo Aurangzeb lo derrocó en una disputa por el trono. Shah Jahan pasó sus últimos años confinado en el Fuerte de Agra hasta su muerte en 1666. Según la tradición, desde allí veía el Taj Mahal por la ventana.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Construyó la tumba más famosa del amor y terminó mirándola desde una celda.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

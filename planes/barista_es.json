@@ -368,7 +368,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261121-barista_es-un-medico-bebio-un-vaso-de-bacterias-a-proposito-y",
+   "resultado": "ok 248s",
+   "producido_en": "2026-11-21T17:06:28"
   },
   {
    "id": "barista_es-20261123-S",
@@ -384,7 +387,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261121-barista_es-un-emperador-levanto-el-taj-mahal-y-acabo-mirandol",
+   "resultado": "ok 203s",
+   "producido_en": "2026-11-21T17:16:58"
   },
   {
    "id": "barista_es-20261123-C",

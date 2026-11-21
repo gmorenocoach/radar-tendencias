@@ -1,0 +1,48 @@
+{
+ "fuente": {
+  "tema": "Qué pasa en la clase gratuita en vivo (sin sorpresas). Gancho: Si nunca has entrado a una clase mía, te cuento qué te espera antes de que decidas.. Formato de conversión: Short de Germancho 45 s: tres pasos de la clase (te sirvo un tema de amor, hacemos un ejercicio de 5 minutos, respondo preguntas en vivo). Cierre: Si te suena útil, el link a la clase gratuita está en el comentario fijado. Y si no, igual hoy haz tu Reto: escribe una cosa que necesitas de ti esta semana."
+ },
+ "adn": {
+  "tema_central": "Qué pasa en la clase gratuita en vivo, sin sorpresas: tres pasos claros (un tema de amor, un ejercicio de 5 minutos y preguntas en vivo) para que decidas con información antes de entrar.",
+  "promesa_del_titulo": "Sabrás exactamente qué te espera en la clase gratuita en vivo antes de decidir si entras, sin letra chica ni sorpresas.",
+  "gancho_primeros_segundos": "Si nunca has entrado a una clase mía, te cuento qué te espera antes de que decidas. (Mirada directa a cámara, texto en pantalla: 'SIN SORPRESAS'. Dicho en los primeros 3 segundos, sin saludo ni presentación.)",
+  "tipo_de_gancho": "Pregunta-condición dirigida a un público específico ('si nunca has entrado...') combinada con contradicción de expectativa: promete transparencia total frente a la típica clase gratuita que esconde una venta.",
+  "estructura": [
+   "0-3 s: Gancho directo: 'Si nunca has entrado a una clase mía, te cuento qué te espera antes de que decidas.'",
+   "3-6 s: Marco de confianza: 'Son solo tres cosas, sin sorpresas.' (texto en pantalla: 1, 2, 3)",
+   "6-17 s: Paso 1: 'Te sirvo un tema de amor.' Una frase de ejemplo del tipo de tema para que el espectador lo visualice.",
+   "17-30 s: Paso 2: 'Hacemos un ejercicio de 5 minutos.' Describir qué se siente hacerlo y que se puede hacer desde casa, sin preparación.",
+   "30-38 s: Paso 3: 'Respondo preguntas en vivo.' Aclarar que puedes preguntar lo que quieras.",
+   "38-45 s: Cierre doble: 'Si te suena útil, el link a la clase gratuita está en el comentario fijado. Y si no, igual hoy haz tu Reto: escribe una cosa que necesitas de ti esta semana.'"
+  ],
+  "ritmo": "Rápido y limpio, 45 s en total. Un paso por bloque de unos 10 s, cortes secos o cambios de plano cada 3-5 s, numeración en pantalla (1, 2, 3) como ancla visual y subtítulos grandes. Sin relleno ni introducción: el primer segundo ya es contenido. Pausa breve antes del cierre para marcar el cambio al reto.",
+  "tono": "Cercano, cálido y directo, como una conversación uno a uno. Honesto y sin presión de venta; seguro pero no grandilocuente. Habla en segunda persona y en presente ('te sirvo', 'hacemos', 'respondo').",
+  "cta_final": "Doble CTA de baja fricción: (1) 'Si te suena útil, el link a la clase gratuita está en el comentario fijado.' (2) 'Y si no, igual hoy haz tu Reto: escribe una cosa que necesitas de ti esta semana.' El segundo CTA invita a comentar y mantiene el valor aunque el espectador no se inscriba.",
+  "formula_del_titulo": "Qué pasa en [evento] + promesa de transparencia entre paréntesis o con 'sin sorpresas' + número de pasos o beneficio concreto.",
+  "titulo_con_numero": "Mi clase gratuita en vivo en 3 pasos (sin sorpresas)",
+  "palabras_clave": [
+   "clase gratuita en vivo",
+   "qué pasa en la clase",
+   "sin sorpresas",
+   "tema de amor",
+   "ejercicio de 5 minutos",
+   "preguntas en vivo",
+   "reto",
+   "Germancho",
+   "amor propio",
+   "Short"
+  ],
+  "emocion_dominante": "Confianza y tranquilidad, con una dosis de curiosidad y de sentirse acompañado.",
+  "formula_miniatura": "Primer plano del rostro de Germancho con expresión amable y segura, mirando a cámara. Texto grande de máximo 3 palabras: 'SIN SORPRESAS' o '3 PASOS'. Números 1-2-3 o íconos simples a un lado, fondo limpio y de alto contraste. Sin saturar de elementos.",
+  "por_que_funciona": "Elimina el miedo principal de quien duda en entrar a una clase gratuita: no saber qué le van a pedir. El gancho segmenta de inmediato al público (quien nunca ha entrado) y la lista de tres pasos es fácil de seguir y de retener, lo que sostiene la retención en un Short de 45 s. El cierre doble convierte tanto a quien se inscribe como a quien no, porque el Reto genera comentarios (señal de interacción) y deja valor emocional sin presión. La transparencia refuerza la credibilidad del creador.",
+  "riesgos_a_evitar": [
+   "Empezar con saludo, presentación o logo: se pierde el espectador antes de los 3 segundos.",
+   "Prometer 'sin sorpresas' y luego esconder una venta fuerte o letra chica: destruye la confianza.",
+   "Poner el link en la descripción o decirlo sin aclarar que está en el comentario fijado; recordar fijar el comentario antes de publicar.",
+   "Explicar cada paso con demasiado detalle: hay que dar una imagen mental rápida, no la clase completa.",
+   "Sonar a guion de venta; mantener el tono conversacional.",
+   "Dar dos CTA sin jerarquía clara; presentar el reto como alternativa, no como obligación.",
+   "Pasarse de 45-50 s o cortar la frase del reto por prisa."
+  ]
+ }
+}

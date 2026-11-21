@@ -273,7 +273,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261121-soyintegral_es-medico-se-bebio-un-vaso-de-bacterias-a-proposito-y",
+   "resultado": "ok 215s",
+   "producido_en": "2026-11-21T17:10:04"
   },
   {
    "id": "soyintegral_es-20261123-C",

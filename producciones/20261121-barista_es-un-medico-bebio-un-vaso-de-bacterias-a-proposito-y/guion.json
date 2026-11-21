@@ -1,0 +1,116 @@
+{
+ "titulo": "Un médico bebió un vaso de bacterias a propósito… y ganó",
+ "titulos_alternativos": [
+  "Un médico se bebió un vaso de bacterias a propósito y no era el estrés",
+  "Un médico brindó con bacterias a propósito y el estrés fue inocente"
+ ],
+ "descripcion": "En 1984, en Perth, Australia, el médico Barry Marshall hizo algo que parecía una locura: se bebió un cultivo de bacterias para probar una idea que casi nadie creía. Esta es la historia de lo que pasó en su estómago y a quién se le había echado la culpa durante años.\nFuente: Nobel Prize (Medicina 2005, nobelprize.org); Marshall et al., Medical Journal of Australia, 1985.\n¿Genio valiente o imprudente con suerte?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#salud",
+  "#medicina",
+  "#estres",
+  "#nobel"
+ ],
+ "miniatura": {
+  "texto": "SE LA BEBIÓ",
+  "emocion": "sorpresa",
+  "objeto": "vaso con líquido turbio",
+  "pose": "salto_sorpresa"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Este médico se bebió un vaso de bacterias a propósito. Tenía un motivo.",
+   "emocion": "sorpresa",
+   "objeto": "vaso con líquido turbio",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista character jumping in surprise holding a cloudy glass, warm cafe background",
+   "broll": "petri dish bacteria",
+   "segundos": 3,
+   "broll_fuente": "c9a6e3e60442e866.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que en 1984, en Perth, Australia, vivía un médico llamado Barry Marshall. Estaba convencido de que muchas úlceras y gastritis las causaba una bacteria, la Helicobacter pylori. Pero casi todos creían otra cosa: que era culpa del estrés y de la comida picante.",
+   "emocion": "curiosidad",
+   "objeto": "cuaderno con notas",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista sitting on a stool with coffee cups, vintage 1980s Australian city skyline behind",
+   "broll": "Perth Australia 1980s",
+   "segundos": 10,
+   "broll_fuente": "3f23f8664a9bfd06.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Nadie le hacía caso. Sus pruebas con animales no habían convencido a nadie. Así que Marshall tomó una decisión que ningún comité aprobaría. Primero se hizo una endoscopia para comprobar que su estómago estaba sano.",
+   "emocion": "determinación",
+   "objeto": "taza humeante",
+   "pose": "senalando",
+   "prompt_visual": "cartoon barista pointing confidently at a notebook, doctors in white coats looking skeptical",
+   "broll": "stomach endoscopy",
+   "segundos": 8,
+   "broll_fuente": "f184d4f9ccd79f4c.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Y entonces, se bebió un cultivo de esa bacteria. Sí, un vaso entero. Cuentan que ahí empezó la espera.",
+   "emocion": "tensión",
+   "objeto": "vaso con cultivo",
+   "pose": "agachado",
+   "prompt_visual": "cartoon barista crouching nervously next to a glass of cloudy liquid on a lab table",
+   "broll": "laboratory petri dish",
+   "segundos": 7,
+   "broll_fuente": "46da8357e4b29d1e.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "A los pocos días llegaron las náuseas, los vómitos y el mal aliento. Otra endoscopia mostró gastritis, y la bacteria estaba ahí, presente. Tomó antibióticos y se recuperó.",
+   "emocion": "malestar",
+   "objeto": "cubeta y vaso de agua",
+   "pose": "triste_acostado",
+   "prompt_visual": "cartoon barista lying down looking queasy with a hand on his stomach, soft hospital light",
+   "broll": "vintage hospital corridor",
+   "segundos": 10,
+   "broll_fuente": "c627c8d9fdbd1476.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "El giro es este: el gran culpable, el estrés, no era la causa principal. Era una bacteria tratable. En 2005, Marshall recibió el Nobel de Medicina junto a su colega Robin Warren.",
+   "emocion": "asombro",
+   "objeto": "medalla dorada",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista with arms wide open holding a golden medal, warm celebratory light",
+   "broll": "Nobel Prize ceremony",
+   "segundos": 9,
+   "broll_fuente": "3504505a973d03a3.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "A veces le echamos la culpa al estrés de todo lo que duele. Y conviene preguntarle al médico qué más puede estar pasando. Salud, dinero y amor: historias reales alrededor de un café. ¿Genio valiente o imprudente con suerte? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "calidez",
+   "objeto": "taza de café",
+   "pose": "letrero",
+   "prompt_visual": "cartoon barista holding a sign with a question mark next to a steaming coffee cup, cozy cafe",
+   "broll": "coffee cup steam",
+   "segundos": 13,
+   "broll_fuente": "9da4e8b1842b64eb.mp4"
+  }
+ ],
+ "pregunta_final": "¿Genio valiente o imprudente con suerte?",
+ "reto_de_hoy": "¿Genio valiente o imprudente con suerte?",
+ "ganchos_alternativos": [
+  "Un médico se tomó un vaso de bacterias a propósito. Y no lo hizo por locura.",
+  "Nadie le creía, así que se bebió el problema. Literalmente.",
+  "En 1984 un doctor brindó con bacterias. Lo que pasó después cambió la medicina."
+ ],
+ "palabras": 217,
+ "canal": "barista",
+ "color": "#6F4E37",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "salud-bebiounvasodebacteriasye",
+ "visual": "broll"
+}

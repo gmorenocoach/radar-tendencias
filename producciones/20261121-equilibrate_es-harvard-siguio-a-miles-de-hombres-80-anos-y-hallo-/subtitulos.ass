@@ -1,0 +1,77 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.00,Sub,,0,0,0,,{\k53}DURANTE {\k35}MÁS {\k12}DE
+Dialogue: 0,0:00:01.00,0:00:02.44,Sub,,0,0,0,,{\k45}OCHENTA {\k48}AÑOS, {\k51}HARVARD
+Dialogue: 0,0:00:02.44,0:00:03.38,Sub,,0,0,0,,{\k56}BUSCÓ {\k19}QUÉ {\k20}NOS
+Dialogue: 0,0:00:03.38,0:00:04.97,Sub,,0,0,0,,{\k49}MANTIENE {\k84}BIEN. {\k27}NO
+Dialogue: 0,0:00:04.97,0:00:05.45,Sub,,0,0,0,,{\k22}FUE {\k14}LO {\k12}QUE
+Dialogue: 0,0:00:05.45,0:00:07.14,Sub,,0,0,0,,{\k106}ESPERABAN. {\k49}CUENTAN {\k15}QUE
+Dialogue: 0,0:00:07.14,0:00:09.37,Sub,,0,0,0,,{\k19}EN {\k194}1938, {\k10}LA
+Dialogue: 0,0:00:09.37,0:00:10.53,Sub,,0,0,0,,{\k57}UNIVERSIDAD {\k14}DE {\k45}HARVARD
+Dialogue: 0,0:00:10.53,0:00:11.64,Sub,,0,0,0,,{\k50}EMPEZÓ {\k13}EL {\k49}ESTUDIO
+Dialogue: 0,0:00:11.64,0:00:13.54,Sub,,0,0,0,,{\k12}DE {\k65}DESARROLLO {\k113}ADULTO.
+Dialogue: 0,0:00:13.54,0:00:14.57,Sub,,0,0,0,,{\k45}SIGUIÓ {\k9}A {\k49}JÓVENES
+Dialogue: 0,0:00:14.57,0:00:15.59,Sub,,0,0,0,,{\k14}DE {\k61}HARVARD {\k27}Y,
+Dialogue: 0,0:00:15.59,0:00:16.37,Sub,,0,0,0,,{\k21}MÁS {\k45}TARDE, {\k12}A
+Dialogue: 0,0:00:16.37,0:00:17.36,Sub,,0,0,0,,{\k41}HOMBRES {\k12}DE {\k46}BARRIOS
+Dialogue: 0,0:00:17.36,0:00:18.77,Sub,,0,0,0,,{\k10}DE {\k109}BOSTON. {\k22}LOS
+Dialogue: 0,0:00:18.77,0:00:20.72,Sub,,0,0,0,,{\k75}ENTREVISTARON {\k43}DURANTE {\k77}DÉCADAS.
+Dialogue: 0,0:00:20.72,0:00:21.80,Sub,,0,0,0,,{\k21}LES {\k68}PREGUNTARON {\k19}POR
+Dialogue: 0,0:00:21.80,0:00:22.74,Sub,,0,0,0,,{\k13}SU {\k63}SALUD, {\k19}SU
+Dialogue: 0,0:00:22.74,0:00:23.59,Sub,,0,0,0,,{\k53}TRABAJO {\k11}Y {\k21}SUS
+Dialogue: 0,0:00:23.59,0:00:25.39,Sub,,0,0,0,,{\k111}RELACIONES. {\k50}UNA {\k19}Y
+Dialogue: 0,0:00:25.39,0:00:26.74,Sub,,0,0,0,,{\k28}OTRA {\k59}VEZ, {\k48}AÑO
+Dialogue: 0,0:00:26.74,0:00:28.07,Sub,,0,0,0,,{\k35}TRAS {\k77}AÑO. {\k22}LOS
+Dialogue: 0,0:00:28.07,0:00:29.78,Sub,,0,0,0,,{\k78}INVESTIGADORES {\k60}BUSCABAN {\k33}UNA
+Dialogue: 0,0:00:29.78,0:00:31.10,Sub,,0,0,0,,{\k34}SOLA {\k78}COSA: {\k21}QUÉ
+Dialogue: 0,0:00:31.10,0:00:32.63,Sub,,0,0,0,,{\k86}ANTICIPABA {\k23}UNA {\k44}VEJEZ
+Dialogue: 0,0:00:32.63,0:00:34.46,Sub,,0,0,0,,{\k113}SALUDABLE. {\k52}PASARON {\k17}LOS
+Dialogue: 0,0:00:34.46,0:00:35.73,Sub,,0,0,0,,{\k64}AÑOS, {\k48}CAMBIARON {\k16}LOS
+Dialogue: 0,0:00:35.73,0:00:36.62,Sub,,0,0,0,,{\k64}EQUIPOS, {\k14}Y {\k10}LA
+Dialogue: 0,0:00:36.62,0:00:38.56,Sub,,0,0,0,,{\k56}PREGUNTA {\k40}SEGUÍA {\k99}ABIERTA.
+Dialogue: 0,0:00:38.56,0:00:39.59,Sub,,0,0,0,,{\k47}CUENTAN {\k19}QUE {\k38}TODOS
+Dialogue: 0,0:00:39.59,0:00:40.39,Sub,,0,0,0,,{\k56}ESPERABAN {\k12}QUE {\k13}LA
+Dialogue: 0,0:00:40.39,0:00:41.68,Sub,,0,0,0,,{\k58}RESPUESTA {\k58}ESTUVIERA {\k13}EN
+Dialogue: 0,0:00:41.68,0:00:42.54,Sub,,0,0,0,,{\k13}EL {\k61}ANÁLISIS {\k12}DE
+Dialogue: 0,0:00:42.54,0:00:44.07,Sub,,0,0,0,,{\k91}SANGRE. {\k20}SU {\k43}DIRECTOR
+Dialogue: 0,0:00:44.07,0:00:45.82,Sub,,0,0,0,,{\k69}ACTUAL, {\k42}ROBERT {\k65}WALDINGER,
+Dialogue: 0,0:00:45.82,0:00:47.33,Sub,,0,0,0,,{\k17}LO {\k42}CUENTA {\k92}ASÍ:
+Dialogue: 0,0:00:47.33,0:00:48.01,Sub,,0,0,0,,{\k15}LO {\k12}QUE {\k41}MEJOR
+Dialogue: 0,0:00:48.01,0:00:49.23,Sub,,0,0,0,,{\k9}LA {\k86}ANTICIPABA {\k27}NO
+Dialogue: 0,0:00:49.23,0:00:50.24,Sub,,0,0,0,,{\k16}ERA {\k13}EL {\k72}COLESTEROL
+Dialogue: 0,0:00:50.24,0:00:51.55,Sub,,0,0,0,,{\k12}DE {\k45}MEDIANA {\k74}EDAD.
+Dialogue: 0,0:00:51.55,0:00:52.40,Sub,,0,0,0,,{\k39}ERA {\k24}QUÉ {\k21}TAN
+Dialogue: 0,0:00:52.40,0:00:53.79,Sub,,0,0,0,,{\k81}SATISFECHOS {\k43}ESTABAN {\k15}CON
+Dialogue: 0,0:00:53.79,0:00:54.77,Sub,,0,0,0,,{\k20}SUS {\k72}RELACIONES {\k7}A
+Dialogue: 0,0:00:54.77,0:00:56.52,Sub,,0,0,0,,{\k14}LOS {\k123}CINCUENTA. {\k37}ES
+Dialogue: 0,0:00:56.52,0:00:58.18,Sub,,0,0,0,,{\k23}UNA {\k116}ASOCIACIÓN, {\k27}NO
+Dialogue: 0,0:00:58.18,0:00:59.49,Sub,,0,0,0,,{\k21}UNA {\k92}PROMESA, {\k19}Y
+Dialogue: 0,0:00:59.49,0:01:00.53,Sub,,0,0,0,,{\k24}NO {\k65}REEMPLAZA {\k15}TU
+Dialogue: 0,0:01:00.53,0:01:02.25,Sub,,0,0,0,,{\k45}CHEQUEO {\k101}MÉDICO. {\k26}PERO
+Dialogue: 0,0:01:02.25,0:01:03.17,Sub,,0,0,0,,{\k10}LA {\k33}MEJOR {\k49}SEÑAL
+Dialogue: 0,0:01:03.17,0:01:04.34,Sub,,0,0,0,,{\k17}DE {\k31}CÓMO {\k69}LLEGARÍAN
+Dialogue: 0,0:01:04.34,0:01:05.28,Sub,,0,0,0,,{\k7}A {\k21}LOS {\k66}OCHENTA
+Dialogue: 0,0:01:05.28,0:01:06.14,Sub,,0,0,0,,{\k27}NO {\k48}ESTABA {\k12}EN
+Dialogue: 0,0:01:06.14,0:01:07.72,Sub,,0,0,0,,{\k17}SU {\k85}SANGRE. {\k56}ESTABA
+Dialogue: 0,0:01:07.72,0:01:08.95,Sub,,0,0,0,,{\k11}EN {\k21}SUS {\k92}VÍNCULOS.
+Dialogue: 0,0:01:08.95,0:01:09.87,Sub,,0,0,0,,{\k43}QUIZÁS {\k38}CUIDAR {\k10}UN
+Dialogue: 0,0:01:09.87,0:01:10.84,Sub,,0,0,0,,{\k43}VÍNCULO {\k41}TAMBIÉN {\k14}ES
+Dialogue: 0,0:01:10.84,0:01:11.53,Sub,,0,0,0,,{\k22}UNA {\k36}FORMA {\k10}DE
+Dialogue: 0,0:01:11.53,0:01:12.63,Sub,,0,0,0,,{\k82}CUIDARTE, {\k19}Y {\k9}SE
+Dialogue: 0,0:01:12.63,0:01:13.59,Sub,,0,0,0,,{\k60}EMPIEZA {\k21}CON {\k15}UNA
+Dialogue: 0,0:01:13.59,0:01:15.33,Sub,,0,0,0,,{\k94}LLAMADA. {\k35}¿QUÉ {\k44}CUIDAS
+Dialogue: 0,0:01:15.33,0:01:16.42,Sub,,0,0,0,,{\k22}MÁS {\k60}HOY: {\k27}TUS
+Dialogue: 0,0:01:16.42,0:01:17.62,Sub,,0,0,0,,{\k79}ANÁLISIS {\k16}O {\k26}TUS
+Dialogue: 0,0:01:17.62,0:01:19.64,Sub,,0,0,0,,{\k106}VÍNCULOS? {\k19}TE {\k78}LEO.
+Dialogue: 0,0:01:19.64,0:01:21.44,Sub,,0,0,0,,{\k104}SUSCRÍBETE: {\k52}MAÑANA {\k23}HAY
+Dialogue: 0,0:01:21.44,0:01:22.57,Sub,,0,0,0,,{\k23}OTRA {\k89}HISTORIA.

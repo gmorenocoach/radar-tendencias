@@ -1,0 +1,105 @@
+{
+ "titulo": "Un emperador levantó el Taj Mahal y acabó mirándolo preso",
+ "titulos_alternativos": [
+  "Un emperador levantó un monumento al amor y lo vio desde una celda",
+  "Un viudo construyó el Taj Mahal y su hijo lo encerró a mirarlo"
+ ],
+ "descripcion": "En 1631 murió la emperatriz Mumtaz Mahal y su esposo, Shah Jahan, prometió un monumento al amor. Lo levantó en Agra, pero su historia no terminó donde imaginas. Fuente: Wikipedia (Taj Mahal, Shah Jahan, Mumtaz Mahal) y Encyclopaedia Britannica (Shah Jahan). ¿Amor de grandes monumentos o amor de presencia diaria? Te leo.",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#amor",
+  "#tajmahal",
+  "#relaciones",
+  "#elbaristadelser"
+ ],
+ "miniatura": {
+  "texto": "PRESO DEL AMOR",
+  "emocion": "tristeza",
+  "objeto": "taza de café frente a una ventana con el Taj Mahal",
+  "pose": "triste_acostado"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Construyó la tumba más famosa del amor y terminó mirándola desde una celda.",
+   "emocion": "sorpresa",
+   "objeto": "taza de café",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista character jumping in surprise next to a coffee cup, Taj Mahal silhouette behind, warm tones",
+   "broll": "Taj Mahal sunrise",
+   "segundos": 3,
+   "broll_fuente": "a8a316d74e3465cc.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que en 1631, en Burhanpur, India, murió la emperatriz Mumtaz Mahal. Daba a luz a su hijo número catorce. Su esposo, el emperador Shah Jahan, quedó devastado.",
+   "emocion": "tristeza",
+   "objeto": "cuaderno",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista sitting on a stool with cups, solemn expression, old Mughal palace background",
+   "broll": "old Mughal painting",
+   "segundos": 10,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Hacia 1632 empezó en Agra un mausoleo de mármol blanco. El Taj Mahal. Tardaría cerca de dos décadas en terminarse. Veinte años dedicados a una sola promesa de piedra.",
+   "emocion": "determinación",
+   "objeto": "escalera",
+   "pose": "escalera",
+   "prompt_visual": "cartoon barista climbing a tall ladder beside a growing white marble dome, golden light",
+   "broll": "Taj Mahal sunrise",
+   "segundos": 15,
+   "broll_fuente": "ddce5addf756d353.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Pero mientras la cúpula crecía, el trono se movía bajo sus pies. Cuentan que su hijo Aurangzeb miraba el imperio con otros planes.",
+   "emocion": "tensión",
+   "objeto": "taza de café",
+   "pose": "senalando",
+   "prompt_visual": "cartoon barista pointing nervously at a shadowy figure behind a throne, dramatic lighting",
+   "broll": "old Mughal painting",
+   "segundos": 10,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "En 1658, ese hijo lo derrocó. Shah Jahan pasó sus últimos años confinado en el Fuerte de Agra, hasta 1666. Y cuentan que desde allí veía el Taj Mahal por la ventana.",
+   "emocion": "ironía triste",
+   "objeto": "ventana",
+   "pose": "triste_acostado",
+   "prompt_visual": "cartoon barista lying sadly looking out a small fort window toward a distant white mausoleum",
+   "broll": "Agra Fort window",
+   "segundos": 10,
+   "broll_fuente": "1e243244939b0c85.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "El hombre que levantó el mayor monumento al amor terminó encerrado por su propio hijo, mirándolo a lo lejos. A veces lo grande lo hacemos de lejos, y lo cercano se nos queda sin tocar. ¿Amor de grandes monumentos o amor de presencia diaria? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "calidez",
+   "objeto": "taza de café",
+   "pose": "letrero",
+   "prompt_visual": "cartoon barista holding a sign with a question mark beside a steaming coffee cup, cozy cafe background",
+   "broll": "Taj Mahal sunrise",
+   "segundos": 12,
+   "broll_fuente": "a8a316d74e3465cc.mp4"
+  }
+ ],
+ "pregunta_final": "¿Amor de grandes monumentos o amor de presencia diaria?",
+ "reto_de_hoy": "¿Amor de grandes monumentos o amor de presencia diaria?",
+ "ganchos_alternativos": [
+  "Levantó el monumento más romántico del mundo y acabó viéndolo por una ventana con barrotes.",
+  "Prometió al amor una obra eterna y su propio hijo lo encerró frente a ella.",
+  "Gastó veinte años en una tumba de mármol y terminó mirándola como único paisaje."
+ ],
+ "palabras": 176,
+ "canal": "barista",
+ "color": "#6F4E37",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "amor-unemperadorlevantoeltajm",
+ "visual": "broll"
+}

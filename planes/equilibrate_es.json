@@ -302,7 +302,10 @@
    "referencia_video_id": "",
    "tipo_contenido": "conversion",
    "nivel": "clase",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261121-equilibrate_es-mi-clase-gratuita-en-vivo-en-3-pasos-sin-sorpresas",
+   "resultado": "ok 237s",
+   "producido_en": "2026-11-21T17:02:20"
   },
   {
    "id": "equilibrate_es-20261122-V",
@@ -331,7 +334,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261121-equilibrate_es-harvard-siguio-a-miles-de-hombres-80-anos-y-hallo-",
+   "resultado": "ok 211s",
+   "producido_en": "2026-11-21T17:13:35"
   },
   {
    "id": "equilibrate_es-20261123-C",

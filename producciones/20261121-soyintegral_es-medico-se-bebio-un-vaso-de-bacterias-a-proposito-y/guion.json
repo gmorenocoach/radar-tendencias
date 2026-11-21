@@ -1,0 +1,117 @@
+{
+ "titulo": "Médico se bebió un vaso de bacterias a propósito y su estómago",
+ "titulos_alternativos": [
+  "Este médico bebió un cultivo de bacterias para probar algo",
+  "Se bebió bacterias a propósito y el estrés no era el culpable"
+ ],
+ "descripcion": "En 1984, el médico australiano Barry Marshall se bebió un cultivo de Helicobacter pylori para demostrar algo que casi nadie creía. Cuentan que su estómago tuvo mucho que decir. Fuente: Nobel Prize (Medicina 2005, nobelprize.org) y Marshall et al., Medical Journal of Australia, 1985. ¿Genio valiente o imprudente con suerte?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#salud",
+  "#medicina",
+  "#estres",
+  "#gastritis",
+  "#nobel"
+ ],
+ "miniatura": {
+  "texto": "SE BEBIÓ BACTERIAS",
+  "emocion": "sorpresa",
+  "objeto": "vaso de cultivo turbio",
+  "pose": "salto_sorpresa"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Este médico se bebió un vaso de bacterias a propósito. Tenía un motivo.",
+   "emocion": "sorpresa",
+   "objeto": "vaso turbio",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "Germancho jumping in surprise next to a cloudy glass, warm cafe background",
+   "broll": "petri dish laboratory",
+   "segundos": 3,
+   "broll_fuente": "c9a6e3e60442e866.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que en 1984, en Perth, Australia, vivía el médico Barry Marshall. Él estaba convencido de que muchas úlceras y gastritis las causaba una bacteria llamada Helicobacter pylori. Pero casi todos creían otra cosa: que era culpa del estrés y de la comida picante.",
+   "emocion": "calma",
+   "objeto": "cuaderno",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "Germancho with open arms telling a story, 1980s Perth skyline sketch behind him",
+   "broll": "Perth Australia 1980s",
+   "segundos": 11,
+   "broll_fuente": "3f23f8664a9bfd06.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Marshall lo intentó por las buenas. Hizo pruebas con animales, pero no convencieron a nadie. Nadie le hacía caso. Así que tomó una decisión rara: iba a probarlo en sí mismo.",
+   "emocion": "frustración",
+   "objeto": "letrero",
+   "pose": "letrero",
+   "prompt_visual": "Germancho holding a sign that says nobody listens, tired expression",
+   "broll": "vintage laboratory microscope",
+   "segundos": 10,
+   "broll_fuente": "4d8007113b436ab3.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Primero se hizo una endoscopia para comprobar que su estómago estaba sano. Lo estaba. Y entonces, sí, se bebió un cultivo de esa bacteria.",
+   "emocion": "tensión",
+   "objeto": "vaso turbio",
+   "pose": "senalando",
+   "prompt_visual": "Germancho pointing at a glass with cloudy liquid, dramatic lighting",
+   "broll": "stomach endoscopy",
+   "segundos": 9,
+   "broll_fuente": "e6aca56237acc57b.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "A los pocos días llegaron las náuseas, los vómitos y el mal aliento. Una nueva endoscopia mostró gastritis, con la bacteria presente. Su cuerpo había hablado.",
+   "emocion": "malestar",
+   "objeto": "taza",
+   "pose": "triste_acostado",
+   "prompt_visual": "Germancho lying down looking unwell, cup of tea untouched beside him",
+   "broll": "vintage hospital corridor",
+   "segundos": 10,
+   "broll_fuente": "ea9b55dedb2bff4e.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Pero ahí viene el giro. Tomó antibióticos y se recuperó. El supuesto culpable, el estrés, no era la causa principal: era una bacteria tratable. Y en 2005, Marshall recibió el Nobel de Medicina junto a su colega Robin Warren.",
+   "emocion": "asombro",
+   "objeto": "medalla",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "Germancho with open arms and a golden medal, celebratory warm light",
+   "broll": "Nobel Prize medal ceremony",
+   "segundos": 12,
+   "broll_fuente": "3504505a973d03a3.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "A veces le echamos la culpa al estrés de todo lo que duele. Y conviene preguntarle al médico qué más puede estar pasando. ¿Genio valiente o imprudente con suerte? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "cercanía",
+   "objeto": "taza de café",
+   "pose": "butaco_tazas",
+   "prompt_visual": "Germancho sitting on a stool with two cups, friendly smile, cozy cafe",
+   "broll": "doctor patient consultation",
+   "segundos": 11,
+   "broll_fuente": "b7ce2db5f36269de.mp4"
+  }
+ ],
+ "pregunta_final": "¿Genio valiente o imprudente con suerte?",
+ "reto_de_hoy": "¿Genio valiente o imprudente con suerte?",
+ "ganchos_alternativos": [
+  "Un médico se tomó un vaso de bacterias a propósito. Y no fue una apuesta.",
+  "Nadie le creía, así que se bebió la prueba. Literalmente.",
+  "Se bebió un cultivo de bacterias para demostrar algo. Y su estómago respondió."
+ ],
+ "palabras": 213,
+ "canal": "soyintegral",
+ "color": "#2E8B57",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "salud-bebiounvasodebacteriasye",
+ "visual": "broll"
+}

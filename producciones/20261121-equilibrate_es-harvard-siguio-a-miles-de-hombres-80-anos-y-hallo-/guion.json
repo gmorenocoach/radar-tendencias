@@ -1,0 +1,116 @@
+{
+ "titulo": "Harvard siguió a miles de hombres 80 años y halló esto",
+ "titulos_alternativos": [
+  "Harvard buscó la clave de la vejez sana y no era el colesterol",
+  "Un estudio de 80 años contó quién llegaría bien a los 80"
+ ],
+ "descripcion": "En 1938, Harvard empezó a seguir la vida de cientos de hombres para descubrir qué anticipa una vejez saludable. Décadas de entrevistas, análisis y tazas de café después, la respuesta no estaba donde la buscaban. Fuente: Harvard Study of Adult Development; Robert Waldinger, charla TED «What makes a good life?», 2015. Es una asociación, no una promesa, y no reemplaza tu chequeo médico. ¿Qué cuidas más hoy: tus análisis o tus vínculos?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#amor",
+  "#vinculos",
+  "#relaciones",
+  "#bienestar"
+ ],
+ "miniatura": {
+  "texto": "NO ERA EL COLESTEROL",
+  "emocion": "sorpresa",
+  "objeto": "análisis de sangre junto a una lista de nombres",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Durante más de ochenta años, Harvard buscó qué nos mantiene bien. No fue lo que esperaban.",
+   "emocion": "intriga",
+   "objeto": "taza de café",
+   "pose": "senalando",
+   "prompt_visual": "cartoon barista character pointing at a steaming coffee cup on a table, warm light",
+   "broll": "old library archive",
+   "segundos": 4,
+   "broll_fuente": "481bf0bddfb295e8.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que en 1938, la Universidad de Harvard empezó el Estudio de Desarrollo Adulto. Siguió a jóvenes de Harvard y, más tarde, a hombres de barrios de Boston.",
+   "emocion": "curiosidad",
+   "objeto": "cuaderno antiguo",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista with open arms beside a vintage 1930s notebook and old university building",
+   "broll": "Harvard 1930s vintage",
+   "segundos": 10,
+   "broll_fuente": "0aafdbb111528b03.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Los entrevistaron durante décadas. Les preguntaron por su salud, su trabajo y sus relaciones. Una y otra vez, año tras año.",
+   "emocion": "paciencia",
+   "objeto": "cuaderno con anotaciones",
+   "pose": "agachado",
+   "prompt_visual": "cartoon barista crouching over a notebook full of handwritten notes, soft sepia tones",
+   "broll": "researcher writing interview notes",
+   "segundos": 9,
+   "broll_fuente": "d63d1a272ffc5b54.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Los investigadores buscaban una sola cosa: qué anticipaba una vejez saludable. Pasaron los años, cambiaron los equipos, y la pregunta seguía abierta. Cuentan que todos esperaban que la respuesta estuviera en el análisis de sangre.",
+   "emocion": "tensión",
+   "objeto": "análisis de colesterol",
+   "pose": "aburrido",
+   "prompt_visual": "cartoon barista bored, chin on hand, staring at a cholesterol lab report on a table",
+   "broll": "doctor reviewing medical chart",
+   "segundos": 11,
+   "broll_fuente": "8d450f33d5321578.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Su director actual, Robert Waldinger, lo cuenta así: lo que mejor la anticipaba no era el colesterol de mediana edad. Era qué tan satisfechos estaban con sus relaciones a los cincuenta.",
+   "emocion": "sorpresa",
+   "objeto": "lista de nombres",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista jumping in surprise as a list of loved ones' names glows beside a lab report",
+   "broll": "elderly couple holding hands",
+   "segundos": 9,
+   "broll_fuente": "7ebe2776fcf62c9f.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Es una asociación, no una promesa, y no reemplaza tu chequeo médico. Pero la mejor señal de cómo llegarían a los ochenta no estaba en su sangre. Estaba en sus vínculos.",
+   "emocion": "calidez",
+   "objeto": "mesa familiar",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista sitting on a stool with several coffee cups, family dinner table in the background",
+   "broll": "old family dinner table",
+   "segundos": 9,
+   "broll_fuente": "8e6df6d775a5821e.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "Quizás cuidar un vínculo también es una forma de cuidarte, y se empieza con una llamada. ¿Qué cuidas más hoy: tus análisis o tus vínculos? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "ternura",
+   "objeto": "teléfono y taza",
+   "pose": "saludando",
+   "prompt_visual": "cartoon barista waving warmly, phone and coffee cup on a table, cozy evening light",
+   "broll": "person calling family phone",
+   "segundos": 9,
+   "broll_fuente": "5ad901a121578586.mp4"
+  }
+ ],
+ "pregunta_final": "¿Qué cuidas más hoy: tus análisis o tus vínculos?",
+ "reto_de_hoy": "¿Qué cuidas más hoy: tus análisis o tus vínculos?",
+ "ganchos_alternativos": [
+  "Imagina dos papeles sobre tu mesa: tu colesterol y la lista de quienes te quieren. Harvard los comparó durante ochenta años.",
+  "Un estudio gastó décadas buscando el secreto de la vejez sana, y la pista no estaba en el laboratorio.",
+  "Siguieron a cientos de hombres durante ochenta años. La mejor señal no salió de ninguna analítica."
+ ],
+ "palabras": 194,
+ "canal": "equilibrate",
+ "color": "#E8705F",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "amor-harvardsiguiovidaspor80a",
+ "visual": "broll"
+}
