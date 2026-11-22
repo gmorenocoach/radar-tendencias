@@ -1,347 +1,349 @@
 {
  "perfil": "equilibrate_es",
  "canal": "Equilíbrate · Amor",
- "generado": "2026-11-15T15:44:46",
+ "generado": "2026-11-22T16:22:22",
  "canales": [
   {
-   "canal_id": "UCOiteHxsYW84XI25ATfu-_A",
-   "canal": "Padre Tranquilo",
-   "url": "https://www.youtube.com/channel/UCOiteHxsYW84XI25ATfu-_A",
-   "suscriptores": 3520,
-   "pais": "",
-   "n_virales_radar": 10,
+   "canal_id": "UCMblrijJp_MwvsWMb0HOC0A",
+   "canal": "Mujer Empoderada",
+   "url": "https://www.youtube.com/channel/UCMblrijJp_MwvsWMb0HOC0A",
+   "suscriptores": 8630,
+   "pais": "CO",
+   "n_virales_radar": 8,
    "videos_analizados": 30,
-   "videos_por_semana": 13.1,
+   "videos_por_semana": 2.0,
    "pct_shorts": 0,
-   "duracion_media_largos_min": 137.2,
+   "duracion_media_largos_min": 36.4,
    "duracion_media_shorts_s": 0,
-   "mediana_vistas": 4296.0,
-   "vistas_top": 146015,
-   "outlier_top": 34.0,
-   "engagement_medio": 0.0453,
+   "mediana_vistas": 18291.5,
+   "vistas_top": 169440,
+   "outlier_top": 9.3,
+   "engagement_medio": 0.0302,
    "horas_publicacion": [
-    "17:00",
+    "08:00",
+    "09:00",
+    "07:00"
+   ],
+   "dias_publicacion": [
+    "vie",
+    "dom",
+    "mié"
+   ],
+   "pct_titulos_con_numero": 0,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "Cómo amar profundamente sin renunciar a tu esencia ni a tu libertad | Nilda Chiaraviglio",
+     "vistas": 169440,
+     "duracion_s": 2547,
+     "url": "https://www.youtube.com/watch?v=xt6CGKDkLpM",
+     "miniatura": "https://i.ytimg.com/vi/xt6CGKDkLpM/maxresdefault.jpg"
+    },
+    {
+     "titulo": "El día que empiezas a ponerte primero, tu vida cambia para siempre | Nilda Chiaraviglio",
+     "vistas": 152758,
+     "duracion_s": 5162,
+     "url": "https://www.youtube.com/watch?v=cIB92GESyrE",
+     "miniatura": "https://i.ytimg.com/vi/cIB92GESyrE/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Cuando sanas tus heridas, recuperas la tranquilidad que habías perdido | Nilda Chiaraviglio",
+     "vistas": 134219,
+     "duracion_s": 1790,
+     "url": "https://www.youtube.com/watch?v=9Mx_EO1QWTU",
+     "miniatura": "https://i.ytimg.com/vi/9Mx_EO1QWTU/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Las decisiones que tomas hoy pueden transformar tu futuro para siempre | Nilda Chiaraviglio",
+     "vistas": 109487,
+     "duracion_s": 1802,
+     "url": "https://www.youtube.com/watch?v=zxVwWEpeIhk",
+     "miniatura": "https://i.ytimg.com/vi/zxVwWEpeIhk/maxresdefault.jpg"
+    },
+    {
+     "titulo": "La relación que sueñas comienza con las decisiones que tomas hoy | Nilda Chiaraviglio",
+     "vistas": 101031,
+     "duracion_s": 3840,
+     "url": "https://www.youtube.com/watch?v=yiBB-3_Fmx8",
+     "miniatura": "https://i.ytimg.com/vi/yiBB-3_Fmx8/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCwFUTkINmIvvrT5qQaVI7Dw",
+   "canal": "Terapias con Luz",
+   "url": "https://www.youtube.com/channel/UCwFUTkINmIvvrT5qQaVI7Dw",
+   "suscriptores": 3710,
+   "pais": "MX",
+   "n_virales_radar": 7,
+   "videos_analizados": 30,
+   "videos_por_semana": 2.6,
+   "pct_shorts": 40,
+   "duracion_media_largos_min": 16.2,
+   "duracion_media_shorts_s": 144,
+   "mediana_vistas": 5331.5,
+   "vistas_top": 37517,
+   "outlier_top": 7.0,
+   "engagement_medio": 0.0254,
+   "horas_publicacion": [
+    "20:00",
+    "01:00",
+    "11:00"
+   ],
+   "dias_publicacion": [
+    "mar",
+    "jue",
+    "dom"
+   ],
+   "pct_titulos_con_numero": 13,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "Ejercicios de apoyo emocional para superar la traición.",
+     "vistas": 37517,
+     "duracion_s": 831,
+     "url": "https://www.youtube.com/watch?v=4QFENEQwP_8",
+     "miniatura": "https://i.ytimg.com/vi/4QFENEQwP_8/maxresdefault.jpg"
+    },
+    {
+     "titulo": "CREA UNA VIDA CON PROPÓSITO, SIGNIFICADO Y PODER PERSOAL.",
+     "vistas": 33429,
+     "duracion_s": 1955,
+     "url": "https://www.youtube.com/watch?v=siImKtLOYhs",
+     "miniatura": "https://i.ytimg.com/vi/siImKtLOYhs/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Deja de sufrir, desarrolla una identidad sanadora,  #masajes #comunidadpsicologica #energia",
+     "vistas": 22418,
+     "duracion_s": 134,
+     "url": "https://www.youtube.com/watch?v=tHh3x-eRLv4",
+     "miniatura": "https://i.ytimg.com/vi/tHh3x-eRLv4/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Mejora tu relación de pareja con nuevos hábitos mentales.",
+     "vistas": 20744,
+     "duracion_s": 1310,
+     "url": "https://www.youtube.com/watch?v=bYnUKmH4KxA",
+     "miniatura": "https://i.ytimg.com/vi/bYnUKmH4KxA/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Cuando la dependencia se disfraza de amor.",
+     "vistas": 20600,
+     "duracion_s": 1383,
+     "url": "https://www.youtube.com/watch?v=-ai9L-jXtx0",
+     "miniatura": "https://i.ytimg.com/vi/-ai9L-jXtx0/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCKni2CFOMCQ_iYzduGnsTtA",
+   "canal": "EscenciaySendero",
+   "url": "https://www.youtube.com/channel/UCKni2CFOMCQ_iYzduGnsTtA",
+   "suscriptores": 8070,
+   "pais": "MX",
+   "n_virales_radar": 5,
+   "videos_analizados": 30,
+   "videos_por_semana": 0.8,
+   "pct_shorts": 73,
+   "duracion_media_largos_min": 52.9,
+   "duracion_media_shorts_s": 141,
+   "mediana_vistas": 2717.5,
+   "vistas_top": 159792,
+   "outlier_top": 58.8,
+   "engagement_medio": 0.0789,
+   "horas_publicacion": [
+    "16:00",
     "23:00",
     "20:00"
    ],
    "dias_publicacion": [
-    "sáb",
-    "dom",
-    "lun"
-   ],
-   "pct_titulos_con_numero": 63,
-   "pct_videos_con_oferta": 3,
-   "ofertas": [
-    "curso"
-   ],
-   "plataformas": [],
-   "top5": [
-    {
-     "titulo": "Tras 11 años viudo, me casé con una mujer normal… hasta que su tarjeta reveló una fortuna oculta",
-     "vistas": 146015,
-     "duracion_s": 8563,
-     "url": "https://www.youtube.com/watch?v=Ex4j_Go9s4Q",
-     "miniatura": "https://i.ytimg.com/vi/Ex4j_Go9s4Q/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Cambié mi dirección antes de mudarme con mi hijo… y el banquero descubrió algo increíble",
-     "vistas": 89454,
-     "duracion_s": 8652,
-     "url": "https://www.youtube.com/watch?v=F54TF2JNMLg",
-     "miniatura": "https://i.ytimg.com/vi/F54TF2JNMLg/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Mi hijo me compró una casa de $820.000. Su esposa metió a sus padres... y dormí 7 meses en mi coche!",
-     "vistas": 63010,
-     "duracion_s": 8193,
-     "url": "https://www.youtube.com/watch?v=UlGCIfZO-iQ",
-     "miniatura": "https://i.ytimg.com/vi/UlGCIfZO-iQ/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Mi hijo abandonó a su madre moribunda en la UCI por su esposa... hasta que una llamada lo aterrorizó",
-     "vistas": 62858,
-     "duracion_s": 8176,
-     "url": "https://www.youtube.com/watch?v=YEnJfNlMolY",
-     "miniatura": "https://i.ytimg.com/vi/YEnJfNlMolY/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Mi hijo dio 5 habitaciones de mi casa a la familia de su esposa… ¡hasta que llegó mi propia familia!",
-     "vistas": 44957,
-     "duracion_s": 8495,
-     "url": "https://www.youtube.com/watch?v=0BA-588TEcM",
-     "miniatura": "https://i.ytimg.com/vi/0BA-588TEcM/maxresdefault.jpg"
-    }
-   ]
-  },
-  {
-   "canal_id": "UCpxKeGs28XClrtxFcCBMMJQ",
-   "canal": "Alma en Historias",
-   "url": "https://www.youtube.com/channel/UCpxKeGs28XClrtxFcCBMMJQ",
-   "suscriptores": 91800,
-   "pais": "DO",
-   "n_virales_radar": 5,
-   "videos_analizados": 30,
-   "videos_por_semana": 1.5,
-   "pct_shorts": 0,
-   "duracion_media_largos_min": 115.5,
-   "duracion_media_shorts_s": 0,
-   "mediana_vistas": 215027.0,
-   "vistas_top": 3689151,
-   "outlier_top": 17.2,
-   "engagement_medio": 0.032,
-   "horas_publicacion": [
-    "11:00",
-    "13:00",
-    "14:00"
-   ],
-   "dias_publicacion": [
+    "jue",
     "vie",
-    "mar",
     "sáb"
    ],
-   "pct_titulos_con_numero": 3,
-   "pct_videos_con_oferta": 0,
-   "ofertas": [],
+   "pct_titulos_con_numero": 20,
+   "pct_videos_con_oferta": 3,
+   "ofertas": [
+    "comunidad"
+   ],
    "plataformas": [],
    "top5": [
     {
-     "titulo": "\"No quiero morir sola... le dejo todo\", dijo la anciana a la joven madre que buscaba trabajo",
-     "vistas": 3689151,
-     "duracion_s": 7142,
-     "url": "https://www.youtube.com/watch?v=wha1gcd7lls",
-     "miniatura": "https://i.ytimg.com/vi/wha1gcd7lls/maxresdefault.jpg"
+     "titulo": "Deja de Hablar y Haz Esto: La Disciplina de la Hormiga (Gyoji)",
+     "vistas": 159792,
+     "duracion_s": 176,
+     "url": "https://www.youtube.com/watch?v=sswxXfBlYaQ",
+     "miniatura": "https://i.ytimg.com/vi/sswxXfBlYaQ/maxresdefault.jpg"
     },
     {
-     "titulo": "Mi esposa murió al dar a luz… amamante a mi bebé y repararé su casa”, rogó el padre a la madre sola",
-     "vistas": 1609948,
-     "duracion_s": 7202,
-     "url": "https://www.youtube.com/watch?v=lz2JXhuz-0k",
-     "miniatura": "https://i.ytimg.com/vi/lz2JXhuz-0k/maxresdefault.jpg"
+     "titulo": "El truco JAPONÉS para dominar tu EGO (Nadie te ofenderá) 🐅",
+     "vistas": 148548,
+     "duracion_s": 156,
+     "url": "https://www.youtube.com/watch?v=c2xNraCWhU8",
+     "miniatura": "https://i.ytimg.com/vi/c2xNraCWhU8/maxresdefault.jpg"
     },
     {
-     "titulo": "\"Usted no tiene quién la cuide… y yo no tengo dónde vivir \", dijo la madre viuda a la señora",
-     "vistas": 1137197,
-     "duracion_s": 6822,
-     "url": "https://www.youtube.com/watch?v=mWZ9mWiiooc",
-     "miniatura": "https://i.ytimg.com/vi/mWZ9mWiiooc/maxresdefault.jpg"
+     "titulo": "El águila no responde al ruido del cuervo #estoicismo #shorts",
+     "vistas": 66898,
+     "duracion_s": 169,
+     "url": "https://www.youtube.com/watch?v=Xc7Uo9nU0cU",
+     "miniatura": "https://i.ytimg.com/vi/Xc7Uo9nU0cU/maxresdefault.jpg"
     },
     {
-     "titulo": "\"Usted perdió a su hijo... yo perdí a mi padres. déjeme trabajar sus tierras\", le pidió el joven",
-     "vistas": 711598,
-     "duracion_s": 7580,
-     "url": "https://www.youtube.com/watch?v=FG34n8NX-B8",
-     "miniatura": "https://i.ytimg.com/vi/FG34n8NX-B8/maxresdefault.jpg"
+     "titulo": "El truco JAPONÉS para dominar tu mente (El Sabio y el Lobo) ⛩️",
+     "vistas": 46036,
+     "duracion_s": 151,
+     "url": "https://www.youtube.com/watch?v=FUJfQ2klm28",
+     "miniatura": "https://i.ytimg.com/vi/FUJfQ2klm28/maxresdefault.jpg"
     },
     {
-     "titulo": "\"Mi hija llora de hambre... permítame reparar su cerca por un poco de leche\" dijo el padre",
-     "vistas": 709997,
-     "duracion_s": 8115,
-     "url": "https://www.youtube.com/watch?v=OdQTKA98Kww",
-     "miniatura": "https://i.ytimg.com/vi/OdQTKA98Kww/maxresdefault.jpg"
+     "titulo": "El Secreto Japonés para SOPORTARLO TODO 🐼 (Gaman)",
+     "vistas": 45621,
+     "duracion_s": 178,
+     "url": "https://www.youtube.com/watch?v=XPYayDsMYFs",
+     "miniatura": "https://i.ytimg.com/vi/XPYayDsMYFs/maxresdefault.jpg"
     }
    ]
   },
   {
-   "canal_id": "UCUdZYGZ0z2VnBViHX5V13nA",
-   "canal": "Sueños Ocultos",
-   "url": "https://www.youtube.com/channel/UCUdZYGZ0z2VnBViHX5V13nA",
-   "suscriptores": 3980,
-   "pais": "US",
+   "canal_id": "UC7wq601bKImUdlgQF1enKvg",
+   "canal": "Más Allá del Amor",
+   "url": "https://www.youtube.com/channel/UC7wq601bKImUdlgQF1enKvg",
+   "suscriptores": 1020,
+   "pais": "",
    "n_virales_radar": 5,
    "videos_analizados": 30,
-   "videos_por_semana": 15.0,
+   "videos_por_semana": 6.2,
    "pct_shorts": 0,
-   "duracion_media_largos_min": 32.9,
+   "duracion_media_largos_min": 16.1,
    "duracion_media_shorts_s": 0,
-   "mediana_vistas": 4270.0,
-   "vistas_top": 64529,
-   "outlier_top": 15.1,
-   "engagement_medio": 0.0875,
-   "horas_publicacion": [
-    "08:00",
-    "17:00",
-    "19:00"
-   ],
-   "dias_publicacion": [
-    "dom",
-    "lun",
-    "mié"
-   ],
-   "pct_titulos_con_numero": 3,
-   "pct_videos_con_oferta": 0,
-   "ofertas": [],
-   "plataformas": [],
-   "top5": [
-    {
-     "titulo": "📝 TU APARIENCIA Y TU EDAD HAN SORPRENDIDO A MUCHAS PERSONAS PORQUE TIENES C... | CARL JUNG",
-     "vistas": 64529,
-     "duracion_s": 2038,
-     "url": "https://www.youtube.com/watch?v=C2RdmhLD3qY",
-     "miniatura": "https://i.ytimg.com/vi/C2RdmhLD3qY/maxresdefault.jpg"
-    },
-    {
-     "titulo": "👉TU ALMA GEMELA ESCUCHÓ A ALGUIEN DECIR ALGO CRUEL SOBRE TU EDAD… SU REACCIÓN INMEDIATA…",
-     "vistas": 59870,
-     "duracion_s": 2494,
-     "url": "https://www.youtube.com/watch?v=eok3jK5LWFY",
-     "miniatura": "https://i.ytimg.com/vi/eok3jK5LWFY/maxresdefault.jpg"
-    },
-    {
-     "titulo": "💸LA FAMILIA DE TU ALMA GEMELA TIENE UN MENSAJE ESPECIAL PARA TI… QUÉDATE HASTA EL FINAL | CARL JUNG",
-     "vistas": 47756,
-     "duracion_s": 2415,
-     "url": "https://www.youtube.com/watch?v=y7OQRkcxcBs",
-     "miniatura": "https://i.ytimg.com/vi/y7OQRkcxcBs/maxresdefault.jpg"
-    },
-    {
-     "titulo": "ALGUIEN ADIVIRTIÓ A TU ALMA GEMELA QUE SE ALEJARA DE TI… ENTONCES SALIÓ A LA LUZ LA VERDAD|CARL JUNG",
-     "vistas": 30536,
-     "duracion_s": 1991,
-     "url": "https://www.youtube.com/watch?v=d702LWcXmW0",
-     "miniatura": "https://i.ytimg.com/vi/d702LWcXmW0/maxresdefault.jpg"
-    },
-    {
-     "titulo": "TU ALMA GEMELA VIENE A VERTE… PERO DEBE MANTENERSE EN SECRETO… | Carl Jung",
-     "vistas": 23346,
-     "duracion_s": 2343,
-     "url": "https://www.youtube.com/watch?v=drwf8joBmZ4",
-     "miniatura": "https://i.ytimg.com/vi/drwf8joBmZ4/maxresdefault.jpg"
-    }
-   ]
-  },
-  {
-   "canal_id": "UClyxJSuAW1PYa9eYmHblShQ",
-   "canal": "Filosofía De Vida - Pensamientos De Nikita",
-   "url": "https://www.youtube.com/channel/UClyxJSuAW1PYa9eYmHblShQ",
-   "suscriptores": 5230,
-   "pais": "ES",
-   "n_virales_radar": 5,
-   "videos_analizados": 28,
-   "videos_por_semana": 9.8,
-   "pct_shorts": 21,
-   "duracion_media_largos_min": 26.8,
-   "duracion_media_shorts_s": 38,
-   "mediana_vistas": 1918.5,
-   "vistas_top": 378626,
-   "outlier_top": 197.4,
-   "engagement_medio": 0.0276,
-   "horas_publicacion": [
-    "17:00",
-    "16:00",
-    "18:00"
-   ],
-   "dias_publicacion": [
-    "jue",
-    "sáb",
-    "mié"
-   ],
-   "pct_titulos_con_numero": 57,
-   "pct_videos_con_oferta": 0,
-   "ofertas": [],
-   "plataformas": [],
-   "top5": [
-    {
-     "titulo": "7 cosas que nunca debes darles a tus hijos en vida — Schopenhauer (Lee Nikita)",
-     "vistas": 378626,
-     "duracion_s": 1716,
-     "url": "https://www.youtube.com/watch?v=KP6bAN7Nio4",
-     "miniatura": "https://i.ytimg.com/vi/KP6bAN7Nio4/maxresdefault.jpg"
-    },
-    {
-     "titulo": "APRENDE A HABLAR COMO UN LOBO: 10 Reglas de Schopenhauer y Maquiavelo (Lee Nikita)",
-     "vistas": 255218,
-     "duracion_s": 1468,
-     "url": "https://www.youtube.com/watch?v=5AD_SLD7Hhs",
-     "miniatura": "https://i.ytimg.com/vi/5AD_SLD7Hhs/maxresdefault.jpg"
-    },
-    {
-     "titulo": "7 COSAS QUE NUNCA DEBES DAR A TUS HIJOS MIENTRAS ESTÉS VIVO — OMAR KHAYYAM",
-     "vistas": 138000,
-     "duracion_s": 2362,
-     "url": "https://www.youtube.com/watch?v=DZ-AjMnbIHQ",
-     "miniatura": "https://i.ytimg.com/vi/DZ-AjMnbIHQ/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Hablemos de cómo las personas inteligentes se comunican con los TONTOS-Schopenhauer (Lee Nikita)",
-     "vistas": 60519,
-     "duracion_s": 1591,
-     "url": "https://www.youtube.com/watch?v=XoXIOA7BlV4",
-     "miniatura": "https://i.ytimg.com/vi/XoXIOA7BlV4/maxresdefault.jpg"
-    },
-    {
-     "titulo": "NUNCA respondas a estas 7 preguntas — Schopenhauer",
-     "vistas": 52624,
-     "duracion_s": 1637,
-     "url": "https://www.youtube.com/watch?v=IokyDB9YFWw",
-     "miniatura": "https://i.ytimg.com/vi/IokyDB9YFWw/maxresdefault.jpg"
-    }
-   ]
-  },
-  {
-   "canal_id": "UCt98friBmIbx5M7OmsbtQnA",
-   "canal": "Cuentos del Rancho",
-   "url": "https://www.youtube.com/channel/UCt98friBmIbx5M7OmsbtQnA",
-   "suscriptores": 37200,
-   "pais": "CO",
-   "n_virales_radar": 4,
-   "videos_analizados": 30,
-   "videos_por_semana": 3.9,
-   "pct_shorts": 0,
-   "duracion_media_largos_min": 78.6,
-   "duracion_media_shorts_s": 0,
-   "mediana_vistas": 105861.5,
-   "vistas_top": 606860,
-   "outlier_top": 5.7,
-   "engagement_medio": 0.0286,
+   "mediana_vistas": 526.0,
+   "vistas_top": 94553,
+   "outlier_top": 179.8,
+   "engagement_medio": 0.0156,
    "horas_publicacion": [
     "10:00",
     "11:00",
     "12:00"
    ],
    "dias_publicacion": [
-    "dom",
-    "mar",
-    "jue"
+    "lun",
+    "vie",
+    "sáb"
    ],
-   "pct_titulos_con_numero": 27,
+   "pct_titulos_con_numero": 53,
    "pct_videos_con_oferta": 0,
    "ofertas": [],
    "plataformas": [],
    "top5": [
     {
-     "titulo": "\"La Viuda más Pobre Recogió a 2 Viejitos… Sin Saber que Guardaban el Secreto de su Esposo\"",
-     "vistas": 606860,
-     "duracion_s": 2920,
-     "url": "https://www.youtube.com/watch?v=6j1ZJtUmmbY",
-     "miniatura": "https://i.ytimg.com/vi/6j1ZJtUmmbY/maxresdefault.jpg"
+     "titulo": "13 gestos Masculinos que DERRITEN a las Mujeres...",
+     "vistas": 94553,
+     "duracion_s": 1443,
+     "url": "https://www.youtube.com/watch?v=WeqpG4kfD58",
+     "miniatura": "https://i.ytimg.com/vi/WeqpG4kfD58/maxresdefault.jpg"
     },
     {
-     "titulo": "\"Tú lo Provocas, Rosa\", Dijo su Suegra… Un Año Después, Llegó a Su Puerta Suplicando Comida",
-     "vistas": 398478,
-     "duracion_s": 4285,
-     "url": "https://www.youtube.com/watch?v=Y9YfT5mFTro",
-     "miniatura": "https://i.ytimg.com/vi/Y9YfT5mFTro/maxresdefault.jpg"
+     "titulo": "Nunca Hagas Esto con una Mujer Joven si Eres un Hombre Mayor Psicología Femenina",
+     "vistas": 69660,
+     "duracion_s": 1398,
+     "url": "https://www.youtube.com/watch?v=YvOPLgUy8Ic",
+     "miniatura": "https://i.ytimg.com/vi/YvOPLgUy8Ic/maxresdefault.jpg"
     },
     {
-     "titulo": "Un Coronel Paralítico se Arrastró por un Río para Salvar a una Joven que ni Conocía",
-     "vistas": 293026,
-     "duracion_s": 6068,
-     "url": "https://www.youtube.com/watch?v=f-JQritdcLs",
-     "miniatura": "https://i.ytimg.com/vi/f-JQritdcLs/maxresdefault.jpg"
+     "titulo": "Si TE IGNORA tienes una ventaja que el 99% DESPERDICIA",
+     "vistas": 41599,
+     "duracion_s": 923,
+     "url": "https://www.youtube.com/watch?v=InTGWHvexWs",
+     "miniatura": "https://i.ytimg.com/vi/InTGWHvexWs/maxresdefault.jpg"
     },
     {
-     "titulo": "Abandonada por sus Hijos, le Pidió Refugió a su Nuera… Lo que Pasó Después Nadie se lo Esperaba",
-     "vistas": 263224,
-     "duracion_s": 4463,
-     "url": "https://www.youtube.com/watch?v=Z3lRQcOCrk8",
-     "miniatura": "https://i.ytimg.com/vi/Z3lRQcOCrk8/maxresdefault.jpg"
+     "titulo": "Ella está más ENAMORADA de ti de lo que crees: Presta ATENCION a esta señal",
+     "vistas": 25689,
+     "duracion_s": 845,
+     "url": "https://www.youtube.com/watch?v=naBewqoYUDs",
+     "miniatura": "https://i.ytimg.com/vi/naBewqoYUDs/maxresdefault.jpg"
     },
     {
-     "titulo": "El Hacendado Acogió a un Padre con Gemelos... Sin Saber que Era Su Hijo",
-     "vistas": 242554,
-     "duracion_s": 4198,
-     "url": "https://www.youtube.com/watch?v=LZv3xdxVmds",
-     "miniatura": "https://i.ytimg.com/vi/LZv3xdxVmds/maxresdefault.jpg"
+     "titulo": "7 Cosas que EXPONEN a una Mujer de que le quiere contigo",
+     "vistas": 12458,
+     "duracion_s": 667,
+     "url": "https://www.youtube.com/watch?v=XJubF3GmuNs",
+     "miniatura": "https://i.ytimg.com/vi/XJubF3GmuNs/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCEj5Vo3D7O7MlzJpdsRGPTA",
+   "canal": "Almacén de Fe",
+   "url": "https://www.youtube.com/channel/UCEj5Vo3D7O7MlzJpdsRGPTA",
+   "suscriptores": 7820,
+   "pais": "ES",
+   "n_virales_radar": 4,
+   "videos_analizados": 30,
+   "videos_por_semana": 2.6,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 8.7,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 5225.0,
+   "vistas_top": 537584,
+   "outlier_top": 102.9,
+   "engagement_medio": 0.0296,
+   "horas_publicacion": [
+    "09:00",
+    "12:00",
+    "15:00"
+   ],
+   "dias_publicacion": [
+    "sáb",
+    "vie",
+    "mié"
+   ],
+   "pct_titulos_con_numero": 100,
+   "pct_videos_con_oferta": 33,
+   "ofertas": [
+    "comunidad"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "3 Formas en las que Dios Te Presenta a Tu Alma Gemela",
+     "vistas": 537584,
+     "duracion_s": 514,
+     "url": "https://www.youtube.com/watch?v=L-cjHNREqZk",
+     "miniatura": "https://i.ytimg.com/vi/L-cjHNREqZk/maxresdefault.jpg"
+    },
+    {
+     "titulo": "6 Oraciones Que Dios Considera PECADO",
+     "vistas": 410397,
+     "duracion_s": 525,
+     "url": "https://www.youtube.com/watch?v=f0mpSblItNs",
+     "miniatura": "https://i.ytimg.com/vi/f0mpSblItNs/maxresdefault.jpg"
+    },
+    {
+     "titulo": "5 Cosas Que Nunca Debemos Hacer Como Cristianos (Advertencia Bíblica)",
+     "vistas": 109358,
+     "duracion_s": 406,
+     "url": "https://www.youtube.com/watch?v=8eSPNNUyUO4",
+     "miniatura": "https://i.ytimg.com/vi/8eSPNNUyUO4/maxresdefault.jpg"
+    },
+    {
+     "titulo": "6 Señales de Que Tu Salvación Es Solo un Sentimiento (Advertencia Bíblica)",
+     "vistas": 85226,
+     "duracion_s": 552,
+     "url": "https://www.youtube.com/watch?v=jqu4JRllguk",
+     "miniatura": "https://i.ytimg.com/vi/jqu4JRllguk/maxresdefault.jpg"
+    },
+    {
+     "titulo": "7 Pecados Cotidianos Que Has Normalizado (Advertencia Bíblica)",
+     "vistas": 59563,
+     "duracion_s": 630,
+     "url": "https://www.youtube.com/watch?v=Smn0oxex_Yo",
+     "miniatura": "https://i.ytimg.com/vi/Smn0oxex_Yo/maxresdefault.jpg"
     }
    ]
   }
@@ -349,80 +351,72 @@
  "analisis": {
   "formulas_titulo": [
    {
-    "plantilla": "Yo + gesto ofensivo de un familiar político + 'Mi hijo/nuera...' + consecuencia inesperada días después",
+    "plantilla": "N señales/cosas de [tema emocional] que [consecuencia o advertencia]",
     "ejemplos": [
-     "Mi nuera me pasó la cuenta de una cena para 35… Mi hijo sonrió hasta ver quién acababa de llegar",
-     "Mi hijo se rió cuando su esposa me lanzó café en Pascua… olvidaron a nombre de quién estaba la casa!",
-     "Tras el funeral de mi esposa, mi hijo y su mujer «¡Fuera, la casa es nuestra!» 1 día después… volví"
+     "7 SEÑALES de que tu silencio la está destruyendo (Ella se arrepiente)",
+     "7 Frases «inofensivas» que pueden ARRUINAR tu relación...",
+     "6 señales de que tu arrepentimiento es falso (advertencia de Dios)"
     ]
    },
    {
-    "plantilla": "Súplica entre comillas + 'dijo/rogó' + personaje vulnerable + intercambio: te doy X a cambio de Y",
+    "plantilla": "Amar sin perderte: [decisión que cambia tu relación o tu vida]",
     "ejemplos": [
-     "«Déjeme usar su cocina esta noche… mañana venderé lo que prepare y le daré la mitad», rogó la joven",
-     "«Enséñeme a leer y escribir… yo repararé su techo y cuidaré su ganado», dijo el viajero solitario",
-     "«No quiero morir sola... le dejo todo», dijo la anciana a la joven madre que buscaba trabajo"
+     "Amar a alguien nunca debería costarte perderte a ti mismo",
+     "Deja de aceptar cualquier amor y empieza a construir la relación que mereces",
+     "El día que empiezas a ponerte primero, tu vida cambia para siempre"
     ]
    },
    {
-    "plantilla": "TU ALMA GEMELA + verbo de urgencia emocional ahora mismo + promesa de revelación + autoridad (Carl Jung)",
+    "plantilla": "Nombra el dolor exacto + pregunta o salida liberadora",
     "ejemplos": [
-     "TU ALMA GEMELA ESTÁ LLORANDO DE FELICIDAD AHORA MISMO… PORQUE FINALMENTE HICISTE ESTO.. | Carl Jung",
-     "TU ALMA GEMELA FINALMENTE HA ENTRADO EN TU VIDA… ESTO ES LO QUE DEBES HACER AHORA | CARL JUNG",
-     "LA PERSONA QUE AMAS ELIGIÓ A OTRA… PERO AHORA TIENE UN MENSAJE QUE TE DEJARÁ IMPACTADO | CARL JUNG"
+     "Saliste de esa relación, pero tu mente sigue ATRAPADA",
+     "Cuando la dependencia se disfraza de amor",
+     "Deja ir a quien YA ELIGIÓ PERDERTE (aunque todavía la ames)"
     ]
    },
    {
-    "plantilla": "Número (5-8) + cosas/señales/reglas + tema de relaciones + filósofo famoso como autoridad",
+    "plantilla": "Pregunta directa al espectador sobre su caso",
     "ejemplos": [
-     "ESTAS 7 SEÑALES DELATAN A LOS ENVIDIOSOS ENTRE TUS AMIGOS — SCHOPENHAUER",
-     "5 COSAS QUE DEBES SABER SI TE LASTIMAN SIN REMORDIMIENTO — SCHOPENHAUER (Lee Nikita)",
-     "7 Cosas Que Debes Explicarles A Tus Hijos En Vida — Schopenhauer"
-    ]
-   },
-   {
-    "plantilla": "Humillación o abandono + giro de poder oculto + vuelta de rodillas (justicia poética) + emoji 😭💔",
-    "ejemplos": [
-     "EL HACENDADO Humilló a la Huérfana por Ser Pobre…Después Volvió de Rodillas😭💔",
-     "LA VIUDA Echó al Quesero por Amar a su Hija… Tres Años Después se Arrodilló Ante Él",
-     "Mi hijo ganó $15 millones y me rechazó… hasta que mi abogado reveló que yo valía más de $80 millones"
+     "¿Te sirve estar pensando en el daño que te hicieron?",
+     "¿Tienes una relación feliz con tu pareja?",
+     "¿Te está ignorando o le gustas?"
     ]
    }
   ],
-  "formato_y_cadencia": "El nicho es de video largo casi puro: solo Nikita mezcla un 21% de shorts y sus resultados son pobres (mediana 1.918 vistas). Hay dos modelos. Volumen alto y calidad baja: Padre Tranquilo (13 videos por semana, 137 min de media) y Sueños Ocultos (15 por semana, 33 min) logran apenas ~4.300 de mediana. Cadencia baja y calidad alta: Alma en Historias (1,5 por semana, 115 min, 215.000 de mediana) y Cuentos del Rancho (3,9 por semana, 79 min, 106.000). Menos videos con historia fuerte rinde 25 a 50 veces más que inundar. Publican en la tarde (16-20 h) los de volumen y a media mañana (10-14 h) los de storytelling. El mejor engagement (8,75%) es el de Sueños Ocultos, que apela a audiencia emocional y fiel. Ojo: el nicho gira en torno a ficción narrada o contenido místico; ninguno enseña una práctica.",
-  "como_venden": "Casi nadie vende. Alma en Historias, Sueños Ocultos, Nikita y Cuentos del Rancho tienen 0% de videos con oferta. Solo Padre Tranquilo menciona un curso, en el 3% de sus videos, sin plataforma identificable. Su modelo es monetización por vistas (AdSense) y cierran con suspense o una emoción fuerte, no con una invitación. Para nosotros eso es una ventaja: el libro y el Reto de hoy pueden ser un cierre suave real, no una venta de frente.",
-  "hueco": "Nadie hace amor práctico y sin humo. Los de amor (Sueños Ocultos) prometen que tu alma gemela llora por ti o que alguien te eligió, lo que alimenta la dependencia del otro. Los de historias dramatizan familias rotas, y los de filosofía citan a Schopenhauer sin una acción concreta. Libre queda: (1) amor como volver a ti, no como esperar a alguien; (2) una acción de menos de 5 minutos al final de cada video, que ninguno ofrece; (3) voz cercana, con humor y con el café como imagen, frente al tono místico o sombrío; (4) formato corto con valor. Con la regla de nuestra marca (no prometer, no diagnosticar, no recetas para que vuelva), esa postura es opuesta a la manipulación del nicho y por eso se nota.",
+  "formato_y_cadencia": "Hay dos modelos. Los grandes (Mujer Empoderada, 8.6k subs) hacen largos de 36 min, 2 por semana, con mediana de 18k vistas: entrevista con una autoridad y títulos de promesa emocional, sin números. Los pequeños (Más Allá del Amor, Almacén de Fe) usan listas con número (53% y 100% de sus títulos) y dan el golpe con outliers: 180x y 103x sobre su mediana, así que la lista con número es la palanca de alcance. Los Shorts casi no se usan (solo 40% y 73% en dos canales) y rinden poco: EscenciaySendero tiene mediana de 2.7k pese a ser Short-heavy, aunque su outlier de 58x muestra que un Short con gancho fuerte puede explotar. Engagement alto en el nicho (2.5-3%, hasta 7.9% en EscenciaySendero). Cadencia ganadora: 2-3 videos por semana, entre 8:00 y 12:00, viernes a domingo.",
+  "como_venden": "Casi nadie vende en el nicho: 0% de ofertas en 3 de los 5 canales. Solo EscenciaySendero (3%) y Almacén de Fe (33%) mencionan algo, y es siempre una comunidad, sin curso, libro ni plataforma de pago. Cierran con invitación a unirse a la comunidad y a comentar, no con venta directa. Mujer Empoderada se apoya en la marca personal de una experta invitada (Nilda Chiaraviglio) como prueba de autoridad. Lectura: la audiencia consume mucho y compra poco en estos canales, así que el espacio para un libro bien presentado (Café con Propósito) y una invitación suave está prácticamente libre.",
+  "hueco": "Nadie combina amor con acción pequeña y concreta. Los canales de pareja se dividen entre sermón largo (Mujer Empoderada), psicología de señales para conquistar a una mujer (Más Allá del Amor, con enfoque de atraer y manipular) y espiritualidad o misticismo (Almacén de Fe, EscenciaySendero). Ninguno ofrece un reto de menos de 5 minutos, ni usa un personaje cercano con imágenes cotidianas (café, taza, cuaderno), ni plantea el amor como volver a ti sin recetas para conquistar. Además, el enfoque de «señales de que le gustas» domina por volumen pero nadie lo trata con honestidad y sin promesas. Ese es nuestro terreno: calidez, autocuidado y práctica diaria.",
   "plan_replica": [
-   "Días 1-2: Fija tres plantillas propias (número + situación cotidiana de pareja; pregunta que incomoda con el café; mini historia de un cliente anónimo con giro suave) y escribe 12 títulos con ellas. Descarta todo gancho de alma gemela o de que alguien te elige.",
-   "Días 3-5: Graba 5 shorts de 40-50 segundos con Germancho, cada uno con un solo gancho de título y cierre con Reto de hoy de menos de 5 minutos. Publícalos a las 11:00 o 17:00, las horas que repite el nicho.",
-   "Días 6-9: Produce 1 video largo de 8-12 minutos (no de 100: ese formato exige historias de ficción) con una situación real de pareja contada en primera persona y el reto al final. Pon un número en el título, algo que el 57-63% de los canales de volumen ya hace.",
-   "Días 10-12: Reutiliza la mitad del largo en 2 shorts y repite tres veces la misma frase gancho como identidad de marca. Fija la cadencia en 3-4 shorts y 1 largo por semana: menos que los de volumen, más que Alma en Historias.",
-   "Días 13-14: Revisa vistas, retención y comentarios de los Retos. Duplica la plantilla que mejor funcione y apaga las otras dos. Mide la mediana (no el pico) y pon un CTA suave al libro solo en videos donde el tema encaje."
+   "Semana 1: publicar 3 Shorts con plantilla de lista y número (ej. 5 señales de que te estás abandonando en tu relación), subirlos viernes, sábado y domingo entre 8:00 y 10:00.",
+   "Semana 1: grabar 1 video largo de 8-10 min (el rango de Almacén de Fe, que rinde con mediana de 5k) sobre amar sin perderte, con estructura de 5 puntos y Reto de hoy final.",
+   "Semana 2: repetir la cadencia y probar 2 Shorts con título de pregunta directa (Te sirve...?) para medir cuál formato engancha más, comparando vistas y comentarios.",
+   "Ambas semanas: cerrar cada pieza con el Reto de hoy y pedir que lo comenten; responder todos los comentarios las primeras 24 horas para empujar el engagement por encima del 3% del nicho.",
+   "Semana 2: añadir una mención suave y no vendedora a Café con Propósito en el video largo (una frase, sin empujar) y fijar un comentario con la invitación a la comunidad, copiando la mecánica de cierre que usan los canales pequeños."
   ],
   "titulos_propuestos": [
    {
-    "titulo": "3 señales de que en tu relación te estás abandonando a ti primero",
+    "titulo": "5 señales de que te estás abandonando por no perder a tu pareja",
     "formato": "short"
    },
    {
-    "titulo": "Tu pareja no es la solución: es un espejo. Esto es lo que te enseña hoy",
-    "formato": "short"
-   },
-   {
-    "titulo": "«Dime qué quieres tú» tardas en responder… Esto pasa en tu taza de café",
-    "formato": "short"
-   },
-   {
-    "titulo": "5 preguntas para hacerte antes de decir «te amo» sin perderte en el intento",
+    "titulo": "Amar sin perderte: el reto de 5 minutos que cambia tu relación",
     "formato": "largo"
    },
    {
-    "titulo": "Dejé de buscar amor afuera y esto cambió en mi cuaderno en 7 días",
+    "titulo": "Saliste de esa relación, pero tu taza sigue sirviendo para dos",
+    "formato": "short"
+   },
+   {
+    "titulo": "¿Estás amando o estás aguantando? Un café contigo mismo",
     "formato": "largo"
    },
    {
-    "titulo": "Reto de hoy: escribe 1 cosa que dejaste de hacer por agradar a alguien",
+    "titulo": "6 frases que repites en pareja y te alejan de ti",
     "formato": "short"
+   },
+   {
+    "titulo": "Cuando la pareja no es la respuesta: vuelve a ti en 5 minutos",
+    "formato": "largo"
    }
   ]
  }

@@ -1,282 +1,79 @@
 {
  "perfil": "mitribu_es",
  "canal": "Mi Tribu · Dinero",
- "generado": "2026-11-15T15:45:07",
+ "generado": "2026-11-22T16:22:42",
  "canales": [
   {
-   "canal_id": "UCNDmkNIrLXIDQW1r_2j1AgA",
-   "canal": "Cero Residuo",
-   "url": "https://www.youtube.com/channel/UCNDmkNIrLXIDQW1r_2j1AgA",
-   "suscriptores": 78500,
-   "pais": "ES",
-   "n_virales_radar": 4,
+   "canal_id": "UCHVZJx8kFIQ-KsB5ypOS41A",
+   "canal": "Lo Que No Ves",
+   "url": "https://www.youtube.com/channel/UCHVZJx8kFIQ-KsB5ypOS41A",
+   "suscriptores": 12200,
+   "pais": "",
+   "n_virales_radar": 7,
    "videos_analizados": 30,
-   "videos_por_semana": 2.0,
+   "videos_por_semana": 23.3,
    "pct_shorts": 100,
    "duracion_media_largos_min": 0,
-   "duracion_media_shorts_s": 53,
-   "mediana_vistas": 153654.0,
-   "vistas_top": 2018192,
-   "outlier_top": 13.1,
-   "engagement_medio": 0.0385,
+   "duracion_media_shorts_s": 48,
+   "mediana_vistas": 35976.5,
+   "vistas_top": 556626,
+   "outlier_top": 15.5,
+   "engagement_medio": 0.0239,
    "horas_publicacion": [
-    "05:00",
-    "06:00"
+    "12:00",
+    "09:00",
+    "16:00"
    ],
    "dias_publicacion": [
+    "sáb",
     "jue",
-    "lun",
     "vie"
    ],
-   "pct_titulos_con_numero": 37,
-   "pct_videos_con_oferta": 0,
-   "ofertas": [],
-   "plataformas": [],
-   "top5": [
-    {
-     "titulo": "Tres cosas que he dejado de comprar",
-     "vistas": 2018192,
-     "duracion_s": 38,
-     "url": "https://www.youtube.com/watch?v=ZtucAaPqMyA",
-     "miniatura": "https://i.ytimg.com/vi/ZtucAaPqMyA/maxresdefault.jpg"
-    },
-    {
-     "titulo": "No sé si eres consciente de esto, pero la primera esponja que utilizaste sigue en el fondo del mar",
-     "vistas": 1673605,
-     "duracion_s": 49,
-     "url": "https://www.youtube.com/watch?v=gYQItQe3gr8",
-     "miniatura": "https://i.ytimg.com/vi/gYQItQe3gr8/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Cosas que ya no necesito desde que vivo de forma cero residuo",
-     "vistas": 1373667,
-     "duracion_s": 72,
-     "url": "https://www.youtube.com/watch?v=lHoxfR83FX4",
-     "miniatura": "https://i.ytimg.com/vi/lHoxfR83FX4/maxresdefault.jpg"
-    },
-    {
-     "titulo": "4 cosas tóxicas de tu baño de las que deberías deshacerte",
-     "vistas": 1124643,
-     "duracion_s": 66,
-     "url": "https://www.youtube.com/watch?v=KYMk34MAsJI",
-     "miniatura": "https://i.ytimg.com/vi/KYMk34MAsJI/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Si coges tu compresa y la tiras a la basura es porque no conoces esta de tela",
-     "vistas": 432687,
-     "duracion_s": 43,
-     "url": "https://www.youtube.com/watch?v=IQHG99OTxMo",
-     "miniatura": "https://i.ytimg.com/vi/IQHG99OTxMo/maxresdefault.jpg"
-    }
-   ]
-  },
-  {
-   "canal_id": "UCkgbnslZAs6le_VtCqzE_3Q",
-   "canal": "ETB",
-   "url": "https://www.youtube.com/channel/UCkgbnslZAs6le_VtCqzE_3Q",
-   "suscriptores": 48300,
-   "pais": "CO",
-   "n_virales_radar": 4,
-   "videos_analizados": 30,
-   "videos_por_semana": 4.0,
-   "pct_shorts": 100,
-   "duracion_media_largos_min": 0,
-   "duracion_media_shorts_s": 25,
-   "mediana_vistas": 112804.5,
-   "vistas_top": 4909122,
-   "outlier_top": 43.5,
-   "engagement_medio": 0.0006,
-   "horas_publicacion": [
-    "09:00",
-    "14:00",
-    "11:00"
-   ],
-   "dias_publicacion": [
-    "lun",
-    "vie",
-    "mar"
-   ],
-   "pct_titulos_con_numero": 0,
-   "pct_videos_con_oferta": 10,
+   "pct_titulos_con_numero": 20,
+   "pct_videos_con_oferta": 17,
    "ofertas": [
-    "curso"
+    "comunidad",
+    "curso",
+    "mentoria"
    ],
    "plataformas": [
     "whatsapp"
    ],
    "top5": [
     {
-     "titulo": "Tu negocio sigue avanzando",
-     "vistas": 4909122,
-     "duracion_s": 6,
-     "url": "https://www.youtube.com/watch?v=OfuMQtCU-Zk",
-     "miniatura": "https://i.ytimg.com/vi/OfuMQtCU-Zk/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Conexión a internet exclusivo con ETB",
-     "vistas": 1390271,
-     "duracion_s": 15,
-     "url": "https://www.youtube.com/watch?v=nSWO75fh6X8",
-     "miniatura": "https://i.ytimg.com/vi/nSWO75fh6X8/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Pásate a Pospago ETB",
-     "vistas": 1157987,
-     "duracion_s": 15,
-     "url": "https://www.youtube.com/watch?v=FrirLNHLPx0",
-     "miniatura": "https://i.ytimg.com/vi/FrirLNHLPx0/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Pásate a Pospago ETB",
-     "vistas": 927699,
-     "duracion_s": 10,
-     "url": "https://www.youtube.com/watch?v=TZCAdrbgpeU",
-     "miniatura": "https://i.ytimg.com/vi/TZCAdrbgpeU/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Más historias con Universal+",
-     "vistas": 862670,
-     "duracion_s": 11,
-     "url": "https://www.youtube.com/watch?v=zQsB9onb2Zg",
-     "miniatura": "https://i.ytimg.com/vi/zQsB9onb2Zg/hqdefault.jpg"
-    }
-   ]
-  },
-  {
-   "canal_id": "UC-3aIpV9Jk70gb6UhYW881w",
-   "canal": "webchoco",
-   "url": "https://www.youtube.com/channel/UC-3aIpV9Jk70gb6UhYW881w",
-   "suscriptores": 1380,
-   "pais": "CL",
-   "n_virales_radar": 4,
-   "videos_analizados": 30,
-   "videos_por_semana": 26.2,
-   "pct_shorts": 100,
-   "duracion_media_largos_min": 0,
-   "duracion_media_shorts_s": 43,
-   "mediana_vistas": 4677.0,
-   "vistas_top": 60116,
-   "outlier_top": 12.9,
-   "engagement_medio": 0.0288,
-   "horas_publicacion": [
-    "22:00",
-    "20:00",
-    "21:00"
-   ],
-   "dias_publicacion": [
-    "jue",
-    "sáb",
-    "mié"
-   ],
-   "pct_titulos_con_numero": 83,
-   "pct_videos_con_oferta": 0,
-   "ofertas": [],
-   "plataformas": [],
-   "top5": [
-    {
-     "titulo": "La abuela les cerró la puerta y les dio una lección inolvidable 😱 #shorts",
-     "vistas": 60116,
-     "duracion_s": 16,
-     "url": "https://www.youtube.com/watch?v=YyFAYtGJWF0",
-     "miniatura": "https://i.ytimg.com/vi/YyFAYtGJWF0/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Su hijo quería quedarse con sus ahorros, pero mamá dijo ¡BASTA! 😱 #Shorts",
-     "vistas": 55751,
-     "duracion_s": 16,
-     "url": "https://www.youtube.com/watch?v=5_YUEhu797E",
-     "miniatura": "https://i.ytimg.com/vi/5_YUEhu797E/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Humilló a la heredera de su padre… ¡Hasta que descubrió quién era! 😭 | Parte 2",
-     "vistas": 44519,
+     "titulo": "Un policía te llama por videollamada: «Estás detenido, no cuelgues»🚔#estafa #seguridad #policia #fyp",
+     "vistas": 556626,
      "duracion_s": 50,
-     "url": "https://www.youtube.com/watch?v=gMSC4fqWp04",
-     "miniatura": "https://i.ytimg.com/vi/gMSC4fqWp04/maxresdefault.jpg"
+     "url": "https://www.youtube.com/watch?v=-x94W9gSoCk",
+     "miniatura": "https://i.ytimg.com/vi/-x94W9gSoCk/maxresdefault.jpg"
     },
     {
-     "titulo": "Su nuera la humilló durante la cena, pero olvidó de quién era la casa 😱 #Shorts",
-     "vistas": 30369,
-     "duracion_s": 16,
-     "url": "https://www.youtube.com/watch?v=tr4vVo2gRG0",
-     "miniatura": "https://i.ytimg.com/vi/tr4vVo2gRG0/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Humilló a la heredera de su padre… ¡Hasta que descubrió quién era! 😭 | Parte 2",
-     "vistas": 29464,
+     "titulo": "Vas a cien, de noche, y una vaca se te cruza: ¿esquivas o frenas?🐄#seguridadvial #carretera #fyp",
+     "vistas": 507561,
      "duracion_s": 50,
-     "url": "https://www.youtube.com/watch?v=Uvw6rSsHa14",
-     "miniatura": "https://i.ytimg.com/vi/Uvw6rSsHa14/maxresdefault.jpg"
-    }
-   ]
-  },
-  {
-   "canal_id": "UCreUMiRkte0mEZR4CQVRUiQ",
-   "canal": "Carlos Espárraga ",
-   "url": "https://www.youtube.com/channel/UCreUMiRkte0mEZR4CQVRUiQ",
-   "suscriptores": 1050,
-   "pais": "",
-   "n_virales_radar": 4,
-   "videos_analizados": 30,
-   "videos_por_semana": 17.5,
-   "pct_shorts": 83,
-   "duracion_media_largos_min": 14.5,
-   "duracion_media_shorts_s": 32,
-   "mediana_vistas": 11181.0,
-   "vistas_top": 380392,
-   "outlier_top": 34.0,
-   "engagement_medio": 0.0273,
-   "horas_publicacion": [
-    "10:00",
-    "13:00",
-    "09:00"
-   ],
-   "dias_publicacion": [
-    "jue",
-    "mié",
-    "dom"
-   ],
-   "pct_titulos_con_numero": 13,
-   "pct_videos_con_oferta": 17,
-   "ofertas": [
-    "curso"
-   ],
-   "plataformas": [],
-   "top5": [
-    {
-     "titulo": "Para Auron 320.000€ es poco ☠️",
-     "vistas": 380392,
-     "duracion_s": 31,
-     "url": "https://www.youtube.com/watch?v=c3jFlER8E4o",
-     "miniatura": "https://i.ytimg.com/vi/c3jFlER8E4o/maxresdefault.jpg"
+     "url": "https://www.youtube.com/watch?v=ZULITvCta5k",
+     "miniatura": "https://i.ytimg.com/vi/ZULITvCta5k/maxresdefault.jpg"
     },
     {
-     "titulo": "Así multan en Dubai por saltarte el semáforo ☠️",
-     "vistas": 38122,
-     "duracion_s": 29,
-     "url": "https://www.youtube.com/watch?v=3aXy7PfYKxE",
-     "miniatura": "https://i.ytimg.com/vi/3aXy7PfYKxE/maxresdefault.jpg"
+     "titulo": "Tu madre pierde su Facebook por pulsar el vídeo de su hermana 😱 #estafas #reels #sabiasque #fyp",
+     "vistas": 427140,
+     "duracion_s": 47,
+     "url": "https://www.youtube.com/watch?v=ZF8zuLez3MM",
+     "miniatura": "https://i.ytimg.com/vi/ZF8zuLez3MM/maxresdefault.jpg"
     },
     {
-     "titulo": "El debate termina con una sola pregunta...",
-     "vistas": 29690,
-     "duracion_s": 25,
-     "url": "https://www.youtube.com/watch?v=C112fuTAi-4",
-     "miniatura": "https://i.ytimg.com/vi/C112fuTAi-4/maxresdefault.jpg"
+     "titulo": "Cámaras esondidas en el airbnb??😱😱#seguridad #sabiasque #historiareal #fyp",
+     "vistas": 383564,
+     "duracion_s": 51,
+     "url": "https://www.youtube.com/watch?v=u5dJA7iMshw",
+     "miniatura": "https://i.ytimg.com/vi/u5dJA7iMshw/maxresdefault.jpg"
     },
     {
-     "titulo": "Cuando Cell sintió el verdadero terror...☠️",
-     "vistas": 25707,
-     "duracion_s": 60,
-     "url": "https://www.youtube.com/watch?v=Bu4W7McPWZM",
-     "miniatura": "https://i.ytimg.com/vi/Bu4W7McPWZM/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Así vivió Viruzz su combate contra Gero ☠️",
-     "vistas": 25393,
-     "duracion_s": 37,
-     "url": "https://www.youtube.com/watch?v=dG0ttrKJZlA",
-     "miniatura": "https://i.ytimg.com/vi/dG0ttrKJZlA/maxresdefault.jpg"
+     "titulo": "Te bañas donde no hay olas… y algo te arrastra mar adentro🌊",
+     "vistas": 358063,
+     "duracion_s": 48,
+     "url": "https://www.youtube.com/watch?v=siixLzGKaeU",
+     "miniatura": "https://i.ytimg.com/vi/siixLzGKaeU/maxresdefault.jpg"
     }
    ]
   },
@@ -288,14 +85,14 @@
    "pais": "BR",
    "n_virales_radar": 3,
    "videos_analizados": 30,
-   "videos_por_semana": 30.0,
+   "videos_por_semana": 5.7,
    "pct_shorts": 100,
    "duracion_media_largos_min": 0,
    "duracion_media_shorts_s": 22,
-   "mediana_vistas": 98676.0,
-   "vistas_top": 895784,
-   "outlier_top": 9.1,
-   "engagement_medio": 0.0442,
+   "mediana_vistas": 91775.0,
+   "vistas_top": 896129,
+   "outlier_top": 9.8,
+   "engagement_medio": 0.0439,
    "horas_publicacion": [
     "09:00",
     "15:00",
@@ -303,8 +100,8 @@
    ],
    "dias_publicacion": [
     "vie",
-    "jue",
-    "dom"
+    "dom",
+    "jue"
    ],
    "pct_titulos_con_numero": 3,
    "pct_videos_con_oferta": 0,
@@ -313,38 +110,244 @@
    "top5": [
     {
      "titulo": "🤯 Brian encuentra el boleto ganador entre 200 mil boletos",
-     "vistas": 895784,
+     "vistas": 896129,
      "duracion_s": 30,
      "url": "https://www.youtube.com/watch?v=hyMPY8BJMjQ",
      "miniatura": "https://i.ytimg.com/vi/hyMPY8BJMjQ/maxresdefault.jpg"
     },
     {
      "titulo": "😂 ¡Meg despierta al sentir que un médico guapo le toma el pulso!",
-     "vistas": 849483,
+     "vistas": 850601,
      "duracion_s": 26,
      "url": "https://www.youtube.com/watch?v=QGUJWSeaD1Q",
      "miniatura": "https://i.ytimg.com/vi/QGUJWSeaD1Q/maxresdefault.jpg"
     },
     {
-     "titulo": "😂 ¡Stewie tiene que operar a Brian siguiendo sus instrucciones!",
-     "vistas": 814830,
-     "duracion_s": 18,
-     "url": "https://www.youtube.com/watch?v=eC_0y2HvmMo",
-     "miniatura": "https://i.ytimg.com/vi/eC_0y2HvmMo/maxresdefault.jpg"
-    },
-    {
      "titulo": "😱 Peter va a buscar al chico que dejó embarazada a Meg",
-     "vistas": 712871,
+     "vistas": 713076,
      "duracion_s": 26,
      "url": "https://www.youtube.com/watch?v=3gblaJG8XgI",
      "miniatura": "https://i.ytimg.com/vi/3gblaJG8XgI/maxresdefault.jpg"
     },
     {
      "titulo": "🤣 La chica de la lotería no sabe ni qué números está sacando",
-     "vistas": 632728,
+     "vistas": 632950,
      "duracion_s": 17,
      "url": "https://www.youtube.com/watch?v=GZ7kh1eBc_s",
      "miniatura": "https://i.ytimg.com/vi/GZ7kh1eBc_s/maxresdefault.jpg"
+    },
+    {
+     "titulo": "🤣 ¡Quagmire llega tarde y deja solos a Peter y Joe!",
+     "vistas": 365894,
+     "duracion_s": 20,
+     "url": "https://www.youtube.com/watch?v=hM-NkSkAR3M",
+     "miniatura": "https://i.ytimg.com/vi/hM-NkSkAR3M/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCFrdNONq2wtSjhtJAviuslw",
+   "canal": "Edu Hub",
+   "url": "https://www.youtube.com/channel/UCFrdNONq2wtSjhtJAviuslw",
+   "suscriptores": 23900,
+   "pais": "MX",
+   "n_virales_radar": 3,
+   "videos_analizados": 30,
+   "videos_por_semana": 12.4,
+   "pct_shorts": 100,
+   "duracion_media_largos_min": 0,
+   "duracion_media_shorts_s": 31,
+   "mediana_vistas": 48449.0,
+   "vistas_top": 979517,
+   "outlier_top": 20.2,
+   "engagement_medio": 0.0004,
+   "horas_publicacion": [
+    "07:00",
+    "14:00",
+    "08:00"
+   ],
+   "dias_publicacion": [
+    "jue",
+    "sáb",
+    "dom"
+   ],
+   "pct_titulos_con_numero": 0,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "¡Así Evitan que los Árboles de Papaya Crezcan Demasiado! 😱🌳",
+     "vistas": 979517,
+     "duracion_s": 48,
+     "url": "https://www.youtube.com/watch?v=Q8lxSWxFblg",
+     "miniatura": "https://i.ytimg.com/vi/Q8lxSWxFblg/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¡Así Fabrican Enormes Vasijas de Barro en Francia! 😱🏺",
+     "vistas": 637833,
+     "duracion_s": 29,
+     "url": "https://www.youtube.com/watch?v=nLLj7Rkupb4",
+     "miniatura": "https://i.ytimg.com/vi/nLLj7Rkupb4/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¡La Diosa Viviente de Nepal Tiene una Regla Increíble! 😱🇳🇵",
+     "vistas": 490431,
+     "duracion_s": 41,
+     "url": "https://www.youtube.com/watch?v=zpJD0JUWQcc",
+     "miniatura": "https://i.ytimg.com/vi/zpJD0JUWQcc/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¡Estos Monos Trabajan Como Agricultores en Tailandia! 😱🐒",
+     "vistas": 466978,
+     "duracion_s": 43,
+     "url": "https://www.youtube.com/watch?v=UOmsxNwWVfE",
+     "miniatura": "https://i.ytimg.com/vi/UOmsxNwWVfE/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¡Esta Fruta del Desierto Puede Hacerte Rico! 😱🌵",
+     "vistas": 186407,
+     "duracion_s": 26,
+     "url": "https://www.youtube.com/watch?v=2SN5NIpFJrI",
+     "miniatura": "https://i.ytimg.com/vi/2SN5NIpFJrI/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCYaQvhcnSjo7Gcn6KM1FpGQ",
+   "canal": "Carlos Finanzas",
+   "url": "https://www.youtube.com/channel/UCYaQvhcnSjo7Gcn6KM1FpGQ",
+   "suscriptores": 10100,
+   "pais": "ES",
+   "n_virales_radar": 2,
+   "videos_analizados": 30,
+   "videos_por_semana": 16.2,
+   "pct_shorts": 90,
+   "duracion_media_largos_min": 42.5,
+   "duracion_media_shorts_s": 30,
+   "mediana_vistas": 29962.0,
+   "vistas_top": 311736,
+   "outlier_top": 10.4,
+   "engagement_medio": 0.0188,
+   "horas_publicacion": [
+    "14:00",
+    "20:00",
+    "19:00"
+   ],
+   "dias_publicacion": [
+    "dom",
+    "mar",
+    "sáb"
+   ],
+   "pct_titulos_con_numero": 3,
+   "pct_videos_con_oferta": 10,
+   "ofertas": [
+    "curso"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "Sigueme en I-G @Carlos_espaarraga4 #españa #carlosesparraga",
+     "vistas": 311736,
+     "duracion_s": 26,
+     "url": "https://www.youtube.com/watch?v=oEnAuSU4jWw",
+     "miniatura": "https://i.ytimg.com/vi/oEnAuSU4jWw/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Sigueme en I-G @Carlos_espaarraga4#españa #carlosesparraga #debates",
+     "vistas": 281974,
+     "duracion_s": 24,
+     "url": "https://www.youtube.com/watch?v=CWm8g2BcvgQ",
+     "miniatura": "https://i.ytimg.com/vi/CWm8g2BcvgQ/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Sigueme en I-G @Carlos_espaarraga4 #españa #carlosesparraga",
+     "vistas": 123614,
+     "duracion_s": 29,
+     "url": "https://www.youtube.com/watch?v=_cfz4EdCMGg",
+     "miniatura": "https://i.ytimg.com/vi/_cfz4EdCMGg/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Sigueme en I-G @Carlos_espaarraga4#españa #carlosesparraga #debates",
+     "vistas": 69825,
+     "duracion_s": 35,
+     "url": "https://www.youtube.com/watch?v=GofCHq2NBD8",
+     "miniatura": "https://i.ytimg.com/vi/GofCHq2NBD8/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Sigueme en I-G @Carlos_espaarraga4#españa #carlosesparraga #debates",
+     "vistas": 66799,
+     "duracion_s": 22,
+     "url": "https://www.youtube.com/watch?v=4n-jPPtlOTg",
+     "miniatura": "https://i.ytimg.com/vi/4n-jPPtlOTg/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UC51ZNEK_rmlK3nIRx_n1v3g",
+   "canal": "Ju_",
+   "url": "https://www.youtube.com/channel/UC51ZNEK_rmlK3nIRx_n1v3g",
+   "suscriptores": 17600,
+   "pais": "BR",
+   "n_virales_radar": 2,
+   "videos_analizados": 30,
+   "videos_por_semana": 4.2,
+   "pct_shorts": 100,
+   "duracion_media_largos_min": 0,
+   "duracion_media_shorts_s": 68,
+   "mediana_vistas": 21332.0,
+   "vistas_top": 328269,
+   "outlier_top": 15.4,
+   "engagement_medio": 0.0444,
+   "horas_publicacion": [
+    "16:00",
+    "07:00",
+    "18:00"
+   ],
+   "dias_publicacion": [
+    "sáb",
+    "mar",
+    "mié"
+   ],
+   "pct_titulos_con_numero": 23,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "🔥 ¡Hoy el sofá se convierte en tu compañero de entrenamiento!",
+     "vistas": 328269,
+     "duracion_s": 61,
+     "url": "https://www.youtube.com/watch?v=kUGpbi8vws0",
+     "miniatura": "https://i.ytimg.com/vi/kUGpbi8vws0/maxresdefault.jpg"
+    },
+    {
+     "titulo": "🔥 ¿Quieres trabajar los muslos y conseguir unos glúteos más redonditos sin ir al gimnasio?",
+     "vistas": 322769,
+     "duracion_s": 61,
+     "url": "https://www.youtube.com/watch?v=8AryW0FhC8g",
+     "miniatura": "https://i.ytimg.com/vi/8AryW0FhC8g/maxresdefault.jpg"
+    },
+    {
+     "titulo": "3 ejercicios para los glúteos en casa y un movimiento para complementar tu rutina de abdomen!",
+     "vistas": 156029,
+     "duracion_s": 88,
+     "url": "https://www.youtube.com/watch?v=SpZS_yXYxbo",
+     "miniatura": "https://i.ytimg.com/vi/SpZS_yXYxbo/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¿Quieres trabajar los muslos y los glúteos sin salir de casa?  #fitnessespaña",
+     "vistas": 145608,
+     "duracion_s": 54,
+     "url": "https://www.youtube.com/watch?v=HUlEvmYWN-s",
+     "miniatura": "https://i.ytimg.com/vi/HUlEvmYWN-s/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¡5 ejercicios para trabajar los glúteos en casa",
+     "vistas": 80878,
+     "duracion_s": 95,
+     "url": "https://www.youtube.com/watch?v=UanuMT7RRDs",
+     "miniatura": "https://i.ytimg.com/vi/UanuMT7RRDs/maxresdefault.jpg"
     }
    ]
   }
@@ -352,79 +355,71 @@
  "analisis": {
   "formulas_titulo": [
    {
-    "plantilla": "[Número] cosas que [dejé de / ya no] [verbo] y me ahorran [algo]",
+    "plantilla": "Haces algo cotidiano… y [consecuencia inesperada o peligrosa]",
     "ejemplos": [
-     "3 cosas que he dejado de comprar",
-     "3 cambios cero residuo que te harán ahorrar dinero",
-     "Cosas que ya no necesito desde que vivo de forma cero residuo"
+     "Sacas dinero en el banco… y en la fila ya te eligieron para robarte",
+     "Vendes tu bici por internet… y el comprador te vacía la tarjeta",
+     "Pides un préstamo por app… y tu foto llega a todos tus contactos"
     ]
    },
    {
-    "plantilla": "[Persona] quiso [abusar de alguien], pero [reacción firme] 😱 | Parte N",
+    "plantilla": "¡Por esto / Así [grupo hace algo curioso]! 😱 + emoji temático",
     "ejemplos": [
-     "Su hijo quería quedarse con sus ahorros, pero mamá dijo ¡BASTA! 😱 #Shorts",
-     "Su nuera la mandó a trabajar, pero olvidó que la casa era de ella 😱",
-     "Rechazó a su madre en Navidad y perdió millones 😱💔 | Parte 2"
+     "¡Estas Ramas de Madera se Convierten en Dinero! 😱",
+     "¡Por Esto Envuelven la Hierba Seca en Plástico! 😱",
+     "¡Así Cosechan el Café de Forma Inteligente! 😱☕"
     ]
    },
    {
-    "plantilla": "[Personaje] [error con plata] y termina [consecuencia] + emoji",
+    "plantilla": "[Personaje] hace [decisión de dinero] y termina [resultado absurdo]",
     "ejemplos": [
-     "😂 Peter gana la lotería, pero se queda sin un peso",
-     "😱 Los Griffin despilfarran toda su fortuna y terminan en la calle",
-     "💸 Peter despilfarra su fortuna para presumir su dinero"
+     "Peter gana la lotería, pero se queda sin un peso",
+     "Los Griffin despilfarran toda su fortuna y terminan en la calle",
+     "Peter hipoteca la casa para comprar miles de boletos de lotería"
     ]
    },
    {
-    "plantilla": "Pregunta corta sobre dinero que obliga a opinar",
+    "plantilla": "¿Quieres [deseo] sin [obstáculo]? / N ejercicios para [zona] en casa",
     "ejemplos": [
-     "¿El dinero da felicidad?",
-     "¿Sirve de algo estudiar tantos años?",
-     "¿Cuánto te costaría llevar una vida sin residuos? Parte 2"
-    ]
-   },
-   {
-    "plantilla": "Si [hábito común], [tu error]. Te enseño [alternativa simple]",
-    "ejemplos": [
-     "Si blanqueas tu ropa con lejía, la estás estropeando. Te enseño cómo hacerlo con percarbonato",
-     "Si coges tu compresa y la tiras a la basura es porque no conoces esta de tela",
-     "Hace 10 años dejé de usar plástico para cocinar"
+     "¿Quieres aumentar los glúteos y reducir la pancita sin salir de casa?",
+     "¡4 ejercicios para trabajar el abdomen y los glúteos sin salir de casa!",
+     "¡Solo 10 minutitos al día para trabajar los glúteos sin salir de casa!"
     ]
    }
   ],
-  "formato_y_cadencia": "Casi todo es Short vertical: 4 de 5 canales publican 100% Shorts y solo Carlos Espárraga mezcla algo de largo (14 min de media). Cadencia: Cero Residuo y ETB, de 2 a 4 por semana, sacan las mejores medianas (153 mil y 112 mil vistas) con poco volumen; webchoco y Griffin Xpress publican entre 26 y 30 por semana con menos retorno por video, salvo Griffin con 98 mil de mediana. Moraleja: la constancia sirve, pero lo que mueve vistas es la idea clara. Cero Residuo es el único del nicho útil para nosotros: 3 a 4 días por semana, a primera hora (05:00 a 06:00), con 37% de títulos con número y buen engagement (3,9%). Webchoco rinde por series con Parte 1, 2 y 3 que enganchan a ver la siguiente. El engagement de ETB es casi cero (0,06%), así que el contenido de marca sin historia no conecta.",
-  "como_venden": "Casi nadie vende. Solo 2 de 5 canales muestran ofertas, y de forma tímida: Carlos Espárraga (17% de sus videos) y ETB (10%) mencionan un curso, y ETB deriva a WhatsApp. Cero Residuo, el de mayor engagement entre los útiles, no vende nada en sus títulos: construye confianza con hábitos concretos y deja el producto para después. El cierre dominante es la emoción o la curiosidad (Parte 2, ☠️, 😱), no una oferta. Lectura: el espectador de este nicho viene por entretenimiento o utilidad, no por compra; vender de frente aquí no es el patrón. Para Germancho esto encaja: invitar con un Reto de hoy y construir comunidad primero, la propuesta de valor después.",
-  "hueco": "Nadie habla de dinero como hábito cotidiano y emocional. Lo que hay es: ahorro disfrazado de ecología (Cero Residuo), dinero como espectáculo o ostentación (Carlos Espárraga con sus coches), dinero como chiste (Griffin) y dinero como drama familiar (webchoco). Nadie ofrece una acción pequeña y repetible para cambiar tu relación con la plata, ni usa la conversación personal con el dinero (qué te dijeron de niño, qué te da miedo, cómo hablas de él en casa). Tampoco hay formato de reto diario ni serie con taza de café y cuaderno. Ese espacio entre lo aspiracional y lo caricaturesco está libre.",
+  "formato_y_cadencia": "Todo es Short vertical (90-100%), con volumen alto: 4 a 23 videos por semana. Lo que más vistas da es el gancho de amenaza o curiosidad en la primera línea (medianas de 21 mil a 92 mil vistas con canales de 10 a 36 mil suscriptores, así que el alcance no depende del tamaño del canal). Hay outliers fuertes de 10 a 20 veces la mediana, señal de que un solo gancho acertado explota. El engagement real ronda 2-4% en tres canales, y el canal de Edu Hub, con 0.04%, atrae vistas pero no gente que se quede. Horarios repetidos: mañana (07:00-09:00) y tarde (14:00-16:00); días jueves a sábado. Solo Carlos Finanzas hace largos (42 min de media) y su Short es casi todo un letrero de «Sígueme en IG», sin gancho.",
+  "como_venden": "Casi nadie vende de frente. Lo Que No Ves, el único con oferta clara (17% de sus videos), apunta a comunidad, curso y mentoría con cierre por WhatsApp. Carlos Finanzas solo empuja a su Instagram, y su curso aparece en un 10%. Griffin Xpress, Edu Hub y Ju_ no venden nada: monetizan con alcance. Patrón: primero captan atención con miedo o curiosidad, y el cierre es una derivación a otra plataforma, no una oferta en el video.",
+  "hueco": "Nadie habla de dinero como hábito o conversación. El miedo domina (estafas, robos, accidentes), el dinero aparece como suerte o espectáculo (lotería, millonarios, trabajos curiosos) y lo útil está ausente: cero títulos sobre ahorro, gastos pequeños, hablar de plata en pareja o en familia. Tampoco hay un cierre con acción mínima («Reto de hoy») ni un personaje con voz propia en finanzas cotidianas: Carlos Finanzas tiene el nicho pero sin contenido ni gancho. Tenemos libre el terreno de dinero cercano, sin promesas ni trading, con tono de amigo.",
   "plan_replica": [
-   "Días 1 a 3: graba 6 Shorts de 30 a 45 segundos con la plantilla de número, 3 cosas que dejé de hacer con mi plata, cada uno con su Reto de hoy de menos de 5 minutos.",
-   "Días 4 a 7: lanza una mini serie de 3 partes tipo webchoco pero en tu tono: una historia cotidiana de una persona y su billetera, con Parte 2 y Parte 3 anunciadas en el último segundo del primero.",
-   "Semana 2: publica 3 a 4 Shorts por semana (no 30), entre las 05:00 y las 06:00 y otro bloque a las 20:00, y compara la mediana de vistas contra tu base.",
-   "Semana 2: incluye 2 Shorts con pregunta de opinión sobre dinero y usa el primer comentario fijado para pedir respuestas, y responde cada comentario en 24 horas.",
-   "Cierra la quincena con un video largo de 8 a 12 minutos que junte los 3 mejores Shorts en una sola conversación, y solo al final invita a la comunidad o al libro, sin empujar."
+   "Días 1-3: Graba 6 Shorts de 30-40 segundos con la plantilla «Haces algo cotidiano… y consecuencia», pero con dinero de la vida real (el cafecito diario, la tarjeta, el 15 del mes), tono Germancho y Reto de hoy al final.",
+   "Días 4-7: Publica 1 Short diario en horario de mañana (08:00) o tarde (15:00), jueves a sábado como prioridad, y anota qué gancho (miedo, curiosidad o espejo) saca más vistas y comentarios.",
+   "Días 8-10: Haz 3 Shorts de «Por esto…/Así…» adaptados a hábitos de dinero de la gente común (cuaderno de gastos, sobre del mes), con el emoji de la taza como sello visual.",
+   "Días 10-12: Usa cada comentario al Reto de hoy como material: responde con un Short corto que cite la mejor respuesta, para subir engagement real más allá de las vistas.",
+   "Días 13-14: Sube 1 video largo de 8-10 minutos, «Café con Propósito: tu conversación con el dinero», con 3 retos acumulados; revisa qué Short tuvo más retención y repite su gancho. Cierra con una invitación suave a los libros, sin empujar."
   ],
   "titulos_propuestos": [
    {
-    "titulo": "3 cosas que dejé de comprar con ansiedad y mi taza de café lo agradece",
+    "titulo": "Pagas el cafecito con tarjeta cada mañana… y a fin de mes no sabes a dónde se fue tu plata ☕",
     "formato": "short"
    },
    {
-    "titulo": "Si gastas y luego te sientes culpable, esto es lo que te falta hacer",
+    "titulo": "Cobras tu quincena… y el día 3 ya no queda nada: esto es lo que pasó en realidad",
     "formato": "short"
    },
    {
-    "titulo": "¿Tu dinero te alcanza o solo lo persigues? Primer reto de hoy",
+    "titulo": "¡Por esto guardar tus recibos en un cuaderno cambia tu mes! 😮☕",
     "formato": "short"
    },
    {
-    "titulo": "Su mamá le dijo que el dinero era sucio, y a los 30 aún lo evita | Parte 1",
+    "titulo": "Le prestas plata a un amigo… y la amistad se enfría sin que nadie diga nada",
     "formato": "short"
    },
    {
-    "titulo": "Un cuaderno, 5 minutos y 1 pregunta: así cambié mi relación con la plata",
+    "titulo": "¿Quieres ordenar tu plata sin apps ni hojas de cálculo? 5 minutos y una taza",
     "formato": "short"
    },
    {
-    "titulo": "Mis 3 hábitos de dinero de la semana, qué funcionó y qué no, tomando un café",
+    "titulo": "Tu conversación con el dinero: por qué evitarla te cuesta más que hablarla (Reto de hoy incluido)",
     "formato": "largo"
    }
   ]

@@ -1,31 +1,31 @@
 {
  "perfil": "mitribu_es",
- "n": 11,
+ "n": 3,
  "promedio": {
-  "brillo": 70,
-  "pct_oscuro": 60,
+  "brillo": 82,
+  "pct_oscuro": 47,
   "pct_amarillo": 0,
-  "pct_piel": 8,
-  "pct_saturado": 2
+  "pct_piel": 4,
+  "pct_saturado": 1
  },
  "promedio_top10": {
-  "brillo": 71,
-  "pct_oscuro": 59,
+  "brillo": 82,
+  "pct_oscuro": 47,
   "pct_amarillo": 0,
-  "pct_piel": 7,
-  "pct_saturado": 2
+  "pct_piel": 4,
+  "pct_saturado": 1
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 91,
-  "pct_con_rostro_probable": 36,
-  "pct_con_amarillo": 9
+  "pct_miniaturas_oscuras": 67,
+  "pct_con_rostro_probable": 0,
+  "pct_con_amarillo": 0
  },
  "recomendacion": "Mixto: probar clara y oscura con 'Prueba y compara'",
  "ejemplos": [
   {
    "video_id": "i5Y60tfWIGc",
    "titulo": "💰 Peter descubre cómo ganar dinero con el nuevo trabajo de Quagmire",
-   "vistas": 1147178,
+   "vistas": 1147211,
    "ratio": 31.6,
    "miniatura": "https://i.ytimg.com/vi/i5Y60tfWIGc/maxresdefault.jpg",
    "brillo": 67,
@@ -47,18 +47,6 @@
    "pct_saturado": 1
   },
   {
-   "video_id": "nLLj7Rkupb4",
-   "titulo": "¡Así Fabrican Enormes Vasijas de Barro en Francia! 😱🏺",
-   "vistas": 577004,
-   "ratio": 26.2,
-   "miniatura": "https://i.ytimg.com/vi/nLLj7Rkupb4/maxresdefault.jpg",
-   "brillo": 59,
-   "pct_oscuro": 71,
-   "pct_amarillo": 0,
-   "pct_piel": 5,
-   "pct_saturado": 2
-  },
-  {
    "video_id": "wUJmuhYJuyc",
    "titulo": "Tu padre acaba endeudado por devolver un dinero que no era suyo💸#estafas #transferencia #dinero #fyp",
    "vistas": 205731,
@@ -68,78 +56,6 @@
    "pct_oscuro": 16,
    "pct_amarillo": 0,
    "pct_piel": 4,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "qVhcWh_sL2Q",
-   "titulo": "Aprende hacer jabones de glicerina desde cero#jabonesartesanales #jabonesdeglicerina #emprendimiento",
-   "vistas": 175473,
-   "ratio": 16.2,
-   "miniatura": "https://i.ytimg.com/vi/qVhcWh_sL2Q/maxresdefault.jpg",
-   "brillo": 70,
-   "pct_oscuro": 58,
-   "pct_amarillo": 0,
-   "pct_piel": 16,
-   "pct_saturado": 3
-  },
-  {
-   "video_id": "oL3AYbzrXZs",
-   "titulo": "Aprende hacer jabones naturales #jabonesartesanales #emprendimiento #jabonesdeglicerina #soap",
-   "vistas": 141319,
-   "ratio": 13.1,
-   "miniatura": "https://i.ytimg.com/vi/oL3AYbzrXZs/maxresdefault.jpg",
-   "brillo": 60,
-   "pct_oscuro": 72,
-   "pct_amarillo": 3,
-   "pct_piel": 8,
-   "pct_saturado": 9
-  },
-  {
-   "video_id": "_yTEP4DtUXw",
-   "titulo": "#pasteleria #emprenderconreposteria #cake #reposteria",
-   "vistas": 118809,
-   "ratio": 38.3,
-   "miniatura": "https://i.ytimg.com/vi/_yTEP4DtUXw/maxresdefault.jpg",
-   "brillo": 101,
-   "pct_oscuro": 42,
-   "pct_amarillo": 0,
-   "pct_piel": 2,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "5NMCMYjXENg",
-   "titulo": "\"Dios, bendice las manos que me dan este dinero y las manos que lo reciben. Que se multiplique seten",
-   "vistas": 111292,
-   "ratio": 61.8,
-   "miniatura": "https://i.ytimg.com/vi/5NMCMYjXENg/maxresdefault.jpg",
-   "brillo": 44,
-   "pct_oscuro": 83,
-   "pct_amarillo": 0,
-   "pct_piel": 1,
-   "pct_saturado": 1
-  },
-  {
-   "video_id": "5_YUEhu797E",
-   "titulo": "Su hijo quería quedarse con sus ahorros, pero mamá dijo ¡BASTA! 😱 #Shorts",
-   "vistas": 55706,
-   "ratio": 40.4,
-   "miniatura": "https://i.ytimg.com/vi/5_YUEhu797E/maxresdefault.jpg",
-   "brillo": 45,
-   "pct_oscuro": 77,
-   "pct_amarillo": 0,
-   "pct_piel": 21,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "u0xHu0BfkW4",
-   "titulo": "#pasteleria #emprenderconreposteria #cake #postresparavender",
-   "vistas": 47441,
-   "ratio": 15.3,
-   "miniatura": "https://i.ytimg.com/vi/u0xHu0BfkW4/maxresdefault.jpg",
-   "brillo": 85,
-   "pct_oscuro": 46,
-   "pct_amarillo": 0,
-   "pct_piel": 7,
    "pct_saturado": 0
   }
  ]

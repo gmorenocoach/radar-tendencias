@@ -1,176 +1,167 @@
 {
  "perfil": "mercado_coaching_es",
  "canal": "Mercado · coaching y cursos (investigación)",
- "generado": "2026-11-15T15:45:48",
+ "generado": "2026-11-22T16:23:20",
  "canales": [
   {
-   "canal_id": "UCazSqlYBywpHISrohrfRMjA",
-   "canal": "Teo North",
-   "url": "https://www.youtube.com/channel/UCazSqlYBywpHISrohrfRMjA",
-   "suscriptores": 2560,
-   "pais": "AR",
-   "n_virales_radar": 6,
+   "canal_id": "UCULi2HIpmcHaOeSm_DTliUw",
+   "canal": "Move Or Die Stoic Español",
+   "url": "https://www.youtube.com/channel/UCULi2HIpmcHaOeSm_DTliUw",
+   "suscriptores": 6670,
+   "pais": "US",
+   "n_virales_radar": 5,
    "videos_analizados": 30,
-   "videos_por_semana": 2.2,
-   "pct_shorts": 47,
-   "duracion_media_largos_min": 38.7,
-   "duracion_media_shorts_s": 86,
-   "mediana_vistas": 519.0,
-   "vistas_top": 22064,
-   "outlier_top": 42.5,
-   "engagement_medio": 0.0172,
+   "videos_por_semana": 4.0,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 17.4,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 4923.5,
+   "vistas_top": 279749,
+   "outlier_top": 56.8,
+   "engagement_medio": 0.0149,
    "horas_publicacion": [
-    "17:00",
-    "10:00",
-    "09:00"
+    "11:00",
+    "12:00",
+    "13:00"
+   ],
+   "dias_publicacion": [
+    "mar",
+    "jue",
+    "dom"
+   ],
+   "pct_titulos_con_numero": 63,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "7 Razones para Jubilarte Tan Pronto Como Puedas — No Puedes Comprar de Nuevo Tu Tiempo | Estoicismo",
+     "vistas": 279749,
+     "duracion_s": 1160,
+     "url": "https://www.youtube.com/watch?v=NnZWaZq0SGY",
+     "miniatura": "https://i.ytimg.com/vi/NnZWaZq0SGY/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¿Tienes más de 60 años? NECESITAS estas 10 cosas para vivir solo con comodidad | ESTOICISMO",
+     "vistas": 20227,
+     "duracion_s": 1187,
+     "url": "https://www.youtube.com/watch?v=WjK1k9lt8jk",
+     "miniatura": "https://i.ytimg.com/vi/WjK1k9lt8jk/hqdefault.jpg"
+    },
+    {
+     "titulo": "Envejecer sin pareja te cambia de maneras que la mayoría de la gente no comprende | ESTOICISMO",
+     "vistas": 19967,
+     "duracion_s": 976,
+     "url": "https://www.youtube.com/watch?v=hQugd7c2sU8",
+     "miniatura": "https://i.ytimg.com/vi/hQugd7c2sU8/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Por Qué los Jubilados Poco a Poco Dejan de Querer Salir de Casa | ESTOICISMO",
+     "vistas": 17421,
+     "duracion_s": 1025,
+     "url": "https://www.youtube.com/watch?v=EIieBd0hGGk",
+     "miniatura": "https://i.ytimg.com/vi/EIieBd0hGGk/maxresdefault.jpg"
+    },
+    {
+     "titulo": "La Jubilación Moderna Está Rota: Lo Hemos Entendido Mal | ESTOICISMO",
+     "vistas": 13745,
+     "duracion_s": 949,
+     "url": "https://www.youtube.com/watch?v=BStdibVCbgA",
+     "miniatura": "https://i.ytimg.com/vi/BStdibVCbgA/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCVW6N0BUpCP2V6IsquYweww",
+   "canal": "Conversando Con Jesus",
+   "url": "https://www.youtube.com/channel/UCVW6N0BUpCP2V6IsquYweww",
+   "suscriptores": 1130,
+   "pais": "CO",
+   "n_virales_radar": 3,
+   "videos_analizados": 12,
+   "videos_por_semana": 3.7,
+   "pct_shorts": 42,
+   "duracion_media_largos_min": 7.7,
+   "duracion_media_shorts_s": 53,
+   "mediana_vistas": 4849.0,
+   "vistas_top": 31888,
+   "outlier_top": 6.6,
+   "engagement_medio": 0.058,
+   "horas_publicacion": [
+    "18:00",
+    "20:00",
+    "17:00"
    ],
    "dias_publicacion": [
     "mié",
     "dom",
-    "sáb"
+    "jue"
    ],
-   "pct_titulos_con_numero": 37,
-   "pct_videos_con_oferta": 53,
-   "ofertas": [
-    "curso"
-   ],
-   "plataformas": [
-    "wa.me"
-   ],
-   "top5": [
-    {
-     "titulo": "Empezó con 600USD y Hoy Creó una Marca Millonaria | Nacho Trotta | NEP #15",
-     "vistas": 22064,
-     "duracion_s": 4681,
-     "url": "https://www.youtube.com/watch?v=JCCFN6OPwr0",
-     "miniatura": "https://i.ytimg.com/vi/JCCFN6OPwr0/maxresdefault.jpg"
-    },
-    {
-     "titulo": "De Ser Influencer a Convertirse en Empresario Millonario | Nico Lorenzón |NEP #13",
-     "vistas": 20819,
-     "duracion_s": 3711,
-     "url": "https://www.youtube.com/watch?v=Lg4_t4u6QBY",
-     "miniatura": "https://i.ytimg.com/vi/Lg4_t4u6QBY/maxresdefault.jpg"
-    },
-    {
-     "titulo": "\"Tengo alumnas que ganan +USD 30.000 por Mes\" | Agus Friedrichs | NEP #11",
-     "vistas": 17651,
-     "duracion_s": 5713,
-     "url": "https://www.youtube.com/watch?v=miUqPi-p6VM",
-     "miniatura": "https://i.ytimg.com/vi/miUqPi-p6VM/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Experto en Ecommerce Nos Cuenta su Estrategia para ESCALAR UN NEGOCIO | Agus Giallo | NEP #12",
-     "vistas": 11664,
-     "duracion_s": 5346,
-     "url": "https://www.youtube.com/watch?v=au0of6XknjE",
-     "miniatura": "https://i.ytimg.com/vi/au0of6XknjE/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Me Infiltré en el Depósito Más Grande de Argentina | MDM #1",
-     "vistas": 11307,
-     "duracion_s": 4657,
-     "url": "https://www.youtube.com/watch?v=VvxaQPgoygo",
-     "miniatura": "https://i.ytimg.com/vi/VvxaQPgoygo/maxresdefault.jpg"
-    }
-   ]
-  },
-  {
-   "canal_id": "UCtzfUIZuWI3oEPOVn_VSNvQ",
-   "canal": "ALTEA PSICOLOGOS Granada",
-   "url": "https://www.youtube.com/channel/UCtzfUIZuWI3oEPOVn_VSNvQ",
-   "suscriptores": 10600,
-   "pais": "ES",
-   "n_virales_radar": 3,
-   "videos_analizados": 30,
-   "videos_por_semana": 0.1,
-   "pct_shorts": 13,
-   "duracion_media_largos_min": 31.3,
-   "duracion_media_shorts_s": 106,
-   "mediana_vistas": 680.0,
-   "vistas_top": 2085642,
-   "outlier_top": 3067.1,
-   "engagement_medio": 0.0288,
-   "horas_publicacion": [
-    "06:00",
-    "15:00",
-    "05:00"
-   ],
-   "dias_publicacion": [
-    "jue",
-    "sáb",
-    "mar"
-   ],
-   "pct_titulos_con_numero": 10,
-   "pct_videos_con_oferta": 13,
-   "ofertas": [
-    "comunidad",
-    "mentoria"
-   ],
+   "pct_titulos_con_numero": 25,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
    "plataformas": [],
    "top5": [
     {
-     "titulo": "Pedro Gª Aguado. El hermano mayor se sincera.",
-     "vistas": 2085642,
-     "duracion_s": 1968,
-     "url": "https://www.youtube.com/watch?v=TyUpXh8usUg",
-     "miniatura": "https://i.ytimg.com/vi/TyUpXh8usUg/hqdefault.jpg"
+     "titulo": "JESÚS, ¿Por qué no me sanas si sabes cuanto estoy sufriendo?",
+     "vistas": 31888,
+     "duracion_s": 419,
+     "url": "https://www.youtube.com/watch?v=3Qe6VDROeOc",
+     "miniatura": "https://i.ytimg.com/vi/3Qe6VDROeOc/maxresdefault.jpg"
     },
     {
-     "titulo": "Los sentimientos y las emociones. De la pelicula \"del reves\"",
-     "vistas": 1354819,
-     "duracion_s": 238,
-     "url": "https://www.youtube.com/watch?v=XU3SlbNAZIo",
-     "miniatura": "https://i.ytimg.com/vi/XU3SlbNAZIo/maxresdefault.jpg"
+     "titulo": "¿Cómo puedo perdonar a alguien que me destruyó por dentro?",
+     "vistas": 28190,
+     "duracion_s": 445,
+     "url": "https://www.youtube.com/watch?v=QXJVfq9pDIA",
+     "miniatura": "https://i.ytimg.com/vi/QXJVfq9pDIA/maxresdefault.jpg"
     },
     {
-     "titulo": "Mejor ejemplo de mediación y resolución de conflictos  Película 7 años",
-     "vistas": 72765,
-     "duracion_s": 153,
-     "url": "https://www.youtube.com/watch?v=Nu3WislGwqc",
-     "miniatura": "https://i.ytimg.com/vi/Nu3WislGwqc/hqdefault.jpg"
+     "titulo": "Jesús ¿Cómo puedo calmar mi mente cuando la ansiedad no me deja vivir?",
+     "vistas": 21354,
+     "duracion_s": 299,
+     "url": "https://www.youtube.com/watch?v=ZC9dPIYu4kg",
+     "miniatura": "https://i.ytimg.com/vi/ZC9dPIYu4kg/maxresdefault.jpg"
     },
     {
-     "titulo": "Fragmento de la película \"Historia de lo nuestro\"",
-     "vistas": 20010,
-     "duracion_s": 271,
-     "url": "https://www.youtube.com/watch?v=uhqQyHiKu50",
-     "miniatura": "https://i.ytimg.com/vi/uhqQyHiKu50/maxresdefault.jpg"
+     "titulo": "Jesús, ¿Por qué Guardas Silencio?",
+     "vistas": 11611,
+     "duracion_s": 416,
+     "url": "https://www.youtube.com/watch?v=ydbpD6qfHAs",
+     "miniatura": "https://i.ytimg.com/vi/ydbpD6qfHAs/maxresdefault.jpg"
     },
     {
-     "titulo": "PENSAMIENTO Y VISIÓN SISTÉMICA",
-     "vistas": 18031,
-     "duracion_s": 328,
-     "url": "https://www.youtube.com/watch?v=4wlkFFib1nw",
-     "miniatura": "https://i.ytimg.com/vi/4wlkFFib1nw/maxresdefault.jpg"
+     "titulo": "JESÚS, ¿Cómo puedo encontrar mi PROPOSITO si ni siquiera se quien soy?",
+     "vistas": 6253,
+     "duracion_s": 636,
+     "url": "https://www.youtube.com/watch?v=yjphK3l8CwE",
+     "miniatura": "https://i.ytimg.com/vi/yjphK3l8CwE/maxresdefault.jpg"
     }
    ]
   },
   {
-   "canal_id": "UClQclOMskUBgCSAVtGKWjRw",
-   "canal": " Sombra Vincular",
-   "url": "https://www.youtube.com/channel/UClQclOMskUBgCSAVtGKWjRw",
-   "suscriptores": 1050,
-   "pais": "US",
-   "n_virales_radar": 3,
+   "canal_id": "UCAUv6KvqEEXpriK9sNC63dA",
+   "canal": "La Psicología Invisible",
+   "url": "https://www.youtube.com/channel/UCAUv6KvqEEXpriK9sNC63dA",
+   "suscriptores": 257000,
+   "pais": "ES",
+   "n_virales_radar": 2,
    "videos_analizados": 30,
-   "videos_por_semana": 13.1,
+   "videos_por_semana": 2.1,
    "pct_shorts": 0,
-   "duracion_media_largos_min": 27.4,
+   "duracion_media_largos_min": 9.0,
    "duracion_media_shorts_s": 0,
-   "mediana_vistas": 522.5,
-   "vistas_top": 6128,
-   "outlier_top": 11.7,
-   "engagement_medio": 0.1029,
+   "mediana_vistas": 22843.0,
+   "vistas_top": 894706,
+   "outlier_top": 39.2,
+   "engagement_medio": 0.0232,
    "horas_publicacion": [
-    "17:00",
-    "08:00",
-    "10:00"
+    "13:00",
+    "14:00"
    ],
    "dias_publicacion": [
-    "sáb",
-    "dom",
-    "lun"
+    "jue",
+    "sáb"
    ],
    "pct_titulos_con_numero": 7,
    "pct_videos_con_oferta": 0,
@@ -178,182 +169,179 @@
    "plataformas": [],
    "top5": [
     {
-     "titulo": "El abogado de divorcios de tu alma gemela descubrió algo impactante sobre ti.. ¡Que eres.| Carl Jung",
-     "vistas": 6128,
-     "duracion_s": 1701,
-     "url": "https://www.youtube.com/watch?v=eDQJKx4HXoc",
-     "miniatura": "https://i.ytimg.com/vi/eDQJKx4HXoc/maxresdefault.jpg"
+     "titulo": "La Psicología de la disciplina: Cómo engañar a tu cerebro para que la desee",
+     "vistas": 894706,
+     "duracion_s": 666,
+     "url": "https://www.youtube.com/watch?v=3w-1eRsZeC0",
+     "miniatura": "https://i.ytimg.com/vi/3w-1eRsZeC0/maxresdefault.jpg"
     },
     {
-     "titulo": "TU ALMA GEMELA LE PREGUNTARON ¿CON QUIÉN TE CASARÍAS SI PUDIERAS ELEGIR HOY? EN REALIDAD, RESPONDIÓ",
-     "vistas": 3467,
-     "duracion_s": 1745,
-     "url": "https://www.youtube.com/watch?v=OwjvagEc5NE",
-     "miniatura": "https://i.ytimg.com/vi/OwjvagEc5NE/maxresdefault.jpg"
+     "titulo": "La PSICOLOGIA de las personas INFIELES",
+     "vistas": 712531,
+     "duracion_s": 580,
+     "url": "https://www.youtube.com/watch?v=7KMsZ_vetwk",
+     "miniatura": "https://i.ytimg.com/vi/7KMsZ_vetwk/maxresdefault.jpg"
     },
     {
-     "titulo": "😭 ELEGIDO, LLORÓ DESCONSOLADAMENTE ANOCHE… ¡LO QUE DESCUBRIÓ LO CAMBIÓ TODO! | Carl Jung",
-     "vistas": 2332,
-     "duracion_s": 1772,
-     "url": "https://www.youtube.com/watch?v=IbdXVKoM2C0",
-     "miniatura": "https://i.ytimg.com/vi/IbdXVKoM2C0/maxresdefault.jpg"
+     "titulo": "La PSICOLOGÍA de las personas que ABRAZAN la almohada para dormir",
+     "vistas": 429912,
+     "duracion_s": 587,
+     "url": "https://www.youtube.com/watch?v=HuOxBT7KJgU",
+     "miniatura": "https://i.ytimg.com/vi/HuOxBT7KJgU/maxresdefault.jpg"
     },
     {
-     "titulo": "🚨 ¡HACE APENAS UNOS MINUTOS! TU ALMA GEMELA FUE ATACADA… ¿PERO POR QUÉ? 😱 | CARL JUNG",
-     "vistas": 2118,
-     "duracion_s": 1514,
-     "url": "https://www.youtube.com/watch?v=-4U66TdPUtU",
-     "miniatura": "https://i.ytimg.com/vi/-4U66TdPUtU/maxresdefault.jpg"
+     "titulo": "La Psicología de las Personas que les Encanta Estar Solas",
+     "vistas": 358991,
+     "duracion_s": 541,
+     "url": "https://www.youtube.com/watch?v=r0FGYFZQ6f8",
+     "miniatura": "https://i.ytimg.com/vi/r0FGYFZQ6f8/maxresdefault.jpg"
     },
     {
-     "titulo": "Tu alma gemela no es quien aparenta ser... En realidad, tu alma gemela es un... | Carl Jung",
-     "vistas": 2015,
-     "duracion_s": 1665,
-     "url": "https://www.youtube.com/watch?v=UymkLDJW07o",
-     "miniatura": "https://i.ytimg.com/vi/UymkLDJW07o/maxresdefault.jpg"
+     "titulo": "La Psicología de las Personas Que Lloran Cuando se Enfadan",
+     "vistas": 214608,
+     "duracion_s": 525,
+     "url": "https://www.youtube.com/watch?v=P9VQo6q3ctk",
+     "miniatura": "https://i.ytimg.com/vi/P9VQo6q3ctk/maxresdefault.jpg"
     }
    ]
   },
   {
-   "canal_id": "UCXPkE9iFwzCMAryOxnZwJdw",
-   "canal": "Natasha Cheij",
-   "url": "https://www.youtube.com/channel/UCXPkE9iFwzCMAryOxnZwJdw",
-   "suscriptores": 43100,
-   "pais": "US",
-   "n_virales_radar": 2,
-   "videos_analizados": 30,
-   "videos_por_semana": 2.6,
-   "pct_shorts": 67,
-   "duracion_media_largos_min": 56.7,
-   "duracion_media_shorts_s": 80,
-   "mediana_vistas": 1805.0,
-   "vistas_top": 495684,
-   "outlier_top": 274.6,
-   "engagement_medio": 0.0482,
+   "canal_id": "UCuRn0NWV49JLmLXQB5iaBsQ",
+   "canal": "Sofia Rays",
+   "url": "https://www.youtube.com/channel/UCuRn0NWV49JLmLXQB5iaBsQ",
+   "suscriptores": 6370,
+   "pais": "ES",
+   "n_virales_radar": 1,
+   "videos_analizados": 18,
+   "videos_por_semana": 0.8,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 13.8,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 10946.5,
+   "vistas_top": 59226,
+   "outlier_top": 5.4,
+   "engagement_medio": 0.0556,
    "horas_publicacion": [
-    "17:00",
-    "18:00",
+    "07:00",
+    "10:00",
     "11:00"
    ],
    "dias_publicacion": [
-    "mié",
+    "mar",
     "jue",
-    "mar"
+    "vie"
    ],
-   "pct_titulos_con_numero": 0,
-   "pct_videos_con_oferta": 23,
+   "pct_titulos_con_numero": 6,
+   "pct_videos_con_oferta": 78,
    "ofertas": [
-    "comunidad",
     "curso"
    ],
    "plataformas": [],
    "top5": [
     {
-     "titulo": "Halloween y el mal: lo que vio el exdirector de la Policía de Colombia | Henry Sanabria",
-     "vistas": 495684,
-     "duracion_s": 3655,
-     "url": "https://www.youtube.com/watch?v=djB3knx_ErI",
-     "miniatura": "https://i.ytimg.com/vi/djB3knx_ErI/maxresdefault.jpg"
+     "titulo": "Cómo ser la mujer que recibe.",
+     "vistas": 59226,
+     "duracion_s": 1094,
+     "url": "https://www.youtube.com/watch?v=-UpV3Ty3XLw",
+     "miniatura": "https://i.ytimg.com/vi/-UpV3Ty3XLw/maxresdefault.jpg"
     },
     {
-     "titulo": "Creía sanar a otros, pero vivía un infierno: de coach cuántica a Jesús | Testimonio de conversión",
-     "vistas": 155339,
-     "duracion_s": 4800,
-     "url": "https://www.youtube.com/watch?v=8GQBj9icGbU",
-     "miniatura": "https://i.ytimg.com/vi/8GQBj9icGbU/maxresdefault.jpg"
+     "titulo": "Cómo ser esa mujer MAGNÉTICA que lo atrae todo.",
+     "vistas": 26144,
+     "duracion_s": 811,
+     "url": "https://www.youtube.com/watch?v=30j2rKt09GQ",
+     "miniatura": "https://i.ytimg.com/vi/30j2rKt09GQ/maxresdefault.jpg"
     },
     {
-     "titulo": "Creer en Dios cuando el dolor parece imposible de entender | Paco Arango",
-     "vistas": 66307,
-     "duracion_s": 2643,
-     "url": "https://www.youtube.com/watch?v=Fg4fSAQUkYc",
-     "miniatura": "https://i.ytimg.com/vi/Fg4fSAQUkYc/maxresdefault.jpg"
+     "titulo": "Cómo enamorar al hombre exitoso",
+     "vistas": 16525,
+     "duracion_s": 1018,
+     "url": "https://www.youtube.com/watch?v=G53hGynME5A",
+     "miniatura": "https://i.ytimg.com/vi/G53hGynME5A/maxresdefault.jpg"
     },
     {
-     "titulo": "Cómo escuchar la voz de Dios y reconocer su voluntad | P. Gustavo Lombardo",
-     "vistas": 38800,
-     "duracion_s": 3123,
-     "url": "https://www.youtube.com/watch?v=ztQzE2WPLIM",
-     "miniatura": "https://i.ytimg.com/vi/ztQzE2WPLIM/maxresdefault.jpg"
+     "titulo": "Cómo sentirte MERECEDORA.",
+     "vistas": 16362,
+     "duracion_s": 939,
+     "url": "https://www.youtube.com/watch?v=pi1yvWZa2qY",
+     "miniatura": "https://i.ytimg.com/vi/pi1yvWZa2qY/maxresdefault.jpg"
     },
     {
-     "titulo": "“Si existes y eres real, sálvame”: la oración que transformó la vida de Alexander Acha",
-     "vistas": 34815,
-     "duracion_s": 5081,
-     "url": "https://www.youtube.com/watch?v=xIThVJYpgnE",
-     "miniatura": "https://i.ytimg.com/vi/xIThVJYpgnE/maxresdefault.jpg"
+     "titulo": "Cómo despertar una ENERGÍA FEMENINA irresistible",
+     "vistas": 13646,
+     "duracion_s": 789,
+     "url": "https://www.youtube.com/watch?v=Zoq0DdIOJnE",
+     "miniatura": "https://i.ytimg.com/vi/Zoq0DdIOJnE/maxresdefault.jpg"
     }
    ]
   },
   {
-   "canal_id": "UClFTrqWfvggEcRyOv_C7Hgg",
-   "canal": "Academia ArteFénix ",
-   "url": "https://www.youtube.com/channel/UClFTrqWfvggEcRyOv_C7Hgg",
-   "suscriptores": 4320,
-   "pais": "CL",
-   "n_virales_radar": 2,
-   "videos_analizados": 19,
+   "canal_id": "UC6ffUgAasw3S_A1RTutJhEQ",
+   "canal": "Antonio Cedillo Hernandez",
+   "url": "https://www.youtube.com/channel/UC6ffUgAasw3S_A1RTutJhEQ",
+   "suscriptores": 17100,
+   "pais": "MX",
+   "n_virales_radar": 1,
+   "videos_analizados": 30,
    "videos_por_semana": 0.2,
-   "pct_shorts": 37,
-   "duracion_media_largos_min": 51.2,
-   "duracion_media_shorts_s": 95,
-   "mediana_vistas": 653,
-   "vistas_top": 51973,
-   "outlier_top": 79.6,
-   "engagement_medio": 0.0488,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 16.1,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 2324.5,
+   "vistas_top": 90922,
+   "outlier_top": 39.1,
+   "engagement_medio": 0.0349,
    "horas_publicacion": [
-    "06:00",
-    "09:00",
-    "19:00"
+    "23:00",
+    "16:00",
+    "14:00"
    ],
    "dias_publicacion": [
     "jue",
     "mié",
     "sáb"
    ],
-   "pct_titulos_con_numero": 11,
-   "pct_videos_con_oferta": 79,
+   "pct_titulos_con_numero": 27,
+   "pct_videos_con_oferta": 13,
    "ofertas": [
-    "comunidad",
-    "curso",
-    "mentoria"
+    "curso"
    ],
    "plataformas": [],
    "top5": [
     {
-     "titulo": "Ejercicio SOS - Cambia tu estado emocional en 5 minutas!",
-     "vistas": 51973,
-     "duracion_s": 175,
-     "url": "https://www.youtube.com/watch?v=FM39StUX8SM",
-     "miniatura": "https://i.ytimg.com/vi/FM39StUX8SM/maxresdefault.jpg"
+     "titulo": "Descargar un video de Google Drive de sólo lectura (Método 2025)",
+     "vistas": 90922,
+     "duracion_s": 719,
+     "url": "https://www.youtube.com/watch?v=gmHBrHVowZw",
+     "miniatura": "https://i.ytimg.com/vi/gmHBrHVowZw/maxresdefault.jpg"
     },
     {
-     "titulo": "Ejercicio de NeuroDibujo que hoy te va salvar el día!!",
-     "vistas": 9034,
-     "duracion_s": 188,
-     "url": "https://www.youtube.com/watch?v=0ne9ypy1zgk",
-     "miniatura": "https://i.ytimg.com/vi/0ne9ypy1zgk/maxresdefault.jpg"
+     "titulo": "Descargar un archivo PDF de Google Drive de sólo lectura usando ANDROID",
+     "vistas": 25583,
+     "duracion_s": 309,
+     "url": "https://www.youtube.com/watch?v=4-qWplu0Nno",
+     "miniatura": "https://i.ytimg.com/vi/4-qWplu0Nno/maxresdefault.jpg"
     },
     {
-     "titulo": "¿Qué necesito hoy para de verdad estar bien? El NeuroDibujo te lo va a responder.",
-     "vistas": 4671,
-     "duracion_s": 2295,
-     "url": "https://www.youtube.com/watch?v=4x32Aj8Eyao",
-     "miniatura": "https://i.ytimg.com/vi/4x32Aj8Eyao/maxresdefault.jpg"
+     "titulo": "Modelo de Cambio de las 7s de Mckinsey - Gestión del Cambio Organizacional",
+     "vistas": 13913,
+     "duracion_s": 650,
+     "url": "https://www.youtube.com/watch?v=w80zLU_fjxY",
+     "miniatura": "https://i.ytimg.com/vi/w80zLU_fjxY/maxresdefault.jpg"
     },
     {
-     "titulo": "NEURODIBUJO: De la Transformación Personal a Herramienta Profesional",
-     "vistas": 3454,
-     "duracion_s": 11829,
-     "url": "https://www.youtube.com/watch?v=gZTKbN5Vaag",
-     "miniatura": "https://i.ytimg.com/vi/gZTKbN5Vaag/maxresdefault.jpg"
+     "titulo": "ProjectLibre - Exportar e importar archivos entre Project Libre y Microsoft Project",
+     "vistas": 10425,
+     "duracion_s": 316,
+     "url": "https://www.youtube.com/watch?v=1tlYjfpT_rg",
+     "miniatura": "https://i.ytimg.com/vi/1tlYjfpT_rg/maxresdefault.jpg"
     },
     {
-     "titulo": "Materiales para dibujar NeuroGráfica",
-     "vistas": 2778,
-     "duracion_s": 161,
-     "url": "https://www.youtube.com/watch?v=GT-q5rlDj0w",
-     "miniatura": "https://i.ytimg.com/vi/GT-q5rlDj0w/maxresdefault.jpg"
+     "titulo": "ProjectLibre - Instalación en macOS",
+     "vistas": 10052,
+     "duracion_s": 203,
+     "url": "https://www.youtube.com/watch?v=b5igBstsQ2s",
+     "miniatura": "https://i.ytimg.com/vi/b5igBstsQ2s/maxresdefault.jpg"
     }
    ]
   }
@@ -361,71 +349,79 @@
  "analisis": {
   "formulas_titulo": [
    {
-    "plantilla": "Tengo [dato duro de resultado] y hoy [logro] | Nombre del invitado",
+    "plantilla": "Después de los N, [verdad o error] que debes saber | TEMA",
     "ejemplos": [
-     "Tenía una Deuda de USD 40.000 y Hoy Despacha 10.000 Pedidos Por Día | Lucas Motta",
-     "Empezó con 600USD y Hoy Creó una Marca Millonaria | Nacho Trotta",
-     "Mejoré su Empresa de Ecommerce y Hoy Facturan 30 Millones - Caso de Éxito"
+     "Después de los 60: 7 Verdades Brutales que Debes Conocer | ESTOICISMO",
+     "Después de los 60, Nunca Te Defiendas | ESTOICISMO",
+     "Después de los 60, Necesitas ESTA Mentalidad para Volver a Disfrutar de la Vida | ESTOICISMO"
     ]
    },
    {
-    "plantilla": "Cómo [verbo de deseo] + [promesa emocional] | autoridad",
+    "plantilla": "La Psicología de [persona o situación concreta] (y qué dice de ti)",
     "ejemplos": [
-     "Cómo convertirte en una mujer inolvidable después de los 40 | Carl Jung",
-     "Cómo hacer que te extrañe 50 veces más | Carl Jung",
-     "Cómo escuchar la voz de Dios y reconocer su voluntad | P. Gustavo Lombardo"
+     "La Psicología de las Personas que Imaginan Vidas Enteras en su Cabeza",
+     "La Psicología de las Personas Atrapadas en Deudas",
+     "La Psicología de la Autoestima (Y Cómo Dejar de Buscar Validación Externa)"
     ]
    },
    {
-    "plantilla": "Tema técnico con gancho personal: ¿Cuándo / Qué / Por qué + problema cotidiano?",
+    "plantilla": "Jesús/Dios, ¿Cómo [dolor íntimo] cuando [obstáculo]? (pregunta en primera persona)",
     "ejemplos": [
-     "¿Cuándo ir al psicólogo?",
-     "Tengo un sueño, pero no una meta. Coaching para lograr tus sueños y definir tus objetivos",
-     "¿Qué necesito hoy para de verdad estar bien? El NeuroDibujo te lo va a responder."
+     "JESÚS, ¿Cómo puedo tener FE cuando no tengo ni para comer?",
+     "JESÚS, ¿Por que todos avanzan y yo sigo FRACASANDO?",
+     "¿Cómo puedo perdonar a alguien que me destruyó por dentro?"
     ]
    },
    {
-    "plantilla": "Ejercicio de [método] que hoy [alivio rápido] en [tiempo corto]",
+    "plantilla": "Cómo [ser/atraer/recibir] [identidad deseada] (verbo + promesa de identidad)",
     "ejemplos": [
-     "Ejercicio de NeuroDibujo que hoy te va salvar el día!!",
-     "Ejercicio SOS - Cambia tu estado emocional en 5 minutas!",
-     "Ejercicio de NeuroDibujo para recibir ayuda rápido."
+     "Cómo ser esa mujer que atrae",
+     "Cómo sentirte MERECEDORA.",
+     "Cómo encontrar tu propósito."
+    ]
+   },
+   {
+    "plantilla": "N [cosas/errores] que [nadie te dice] + MAYÚSCULA en la palabra clave",
+    "ejemplos": [
+     "8 cosas que se van apagando después de jubilarte (de las que nadie habla)",
+     "9 Errores Financieros de los Que Quizás Nunca Te Recuperes Durante la Jubilación",
+     "Si te Encanta Hacer Estas 6 Cosas a Solas, tu Cerebro Funciona de Manera Diferente"
     ]
    }
   ],
-  "formato_y_cadencia": "Los canales con más vistas por video (Natasha Cheij, mediana 1.805) mezclan entrevistas largas de 50+ minutos con Shorts (67%) que recortan el gancho del episodio y llevan al completo. Teo North replica el patrón con el aviso «Episodio COMPLETO en mi canal». Los canales con cadencia baja (Altea 0,1 por semana, ArteFénix 0,2) se quedan con medianas de 650 a 680 vistas. Sombra Vincular publica 13 videos por semana, pero con títulos en MAYÚSCULAS y promesas de «alma gemela» de baja credibilidad, y tiene solo 1.050 suscriptores. Su engagement alto (10%) es el que puede inflar un canal pequeño con comunidad cerrada y no prueba que la fórmula funcione para marca personal. El engagement más sano en canales con autoridad real ronda el 3% a 5%. Horario de publicación recurrente: 17:00 a 18:00, entre semana y fines de semana. El outlier de Altea (3.067 veces su mediana) muestra que un solo video puede disparar el canal, pero hay que buscar el tema, no esperarlo. Con 2 a 3 publicaciones semanales y una mezcla de Short más largo por tema, el rango es alcanzable para un solo creador.",
-  "como_venden": "La venta es suave y por pasos: cursos y mentorías en ecommerce (Teo North, 53% de videos con oferta, enlace a wa.me), comunidad más curso en Natasha Cheij, y venta casi en cada video en ArteFénix (79%: club, talleres gratuitos, curso, mentoría). El cierre típico es una invitación a un taller gratuito, a un club o a un chat directo, y no un precio en pantalla. Altea y Sombra Vincular casi no venden (13% y 0%), así que su audiencia se acumula sin monetizar. Lo que más repiten los canales que sí venden es el puente de confianza: primero contenido gratuito útil, luego la invitación a un espacio de pertenencia (club, comunidad, WhatsApp).",
-  "hueco": "Nadie combina coaching práctico con rituales cotidianos y retos de menos de 5 minutos. Los canales de crecimiento personal van por dos extremos: la entrevista larga y solemne (Altea, Natasha) o el misticismo de promesas dramáticas tipo «alma gemela» (Sombra Vincular). Los de negocio hablan solo de ecommerce y facturación. Nadie habla de salud, dinero y amor en un mismo marco de equilibrio con tono de café entre amigos, ni ofrece una acción concreta y comentable al final de cada video. Tampoco hay un personaje recurrente con identidad visual propia (el barista, la taza, el cuaderno): todos son una cara o un nombre, no una voz con universo. Ese es el espacio de Germancho: cercanía, humor suave y acción pequeña, sin dramatismo ni promesas de resultado.",
+  "formato_y_cadencia": "Dos modelos exitosos. (a) Volumen: Move Or Die publica 4 largos por semana (17 min de media, 11:00-13:00, mar/jue/dom) y tiene el mayor outlier (56.8x), pero con solo 6.670 suscriptores y 1,5% de engagement. (b) Calidad: La Psicología Invisible publica 2 largos por semana (9 min, 13:00-14:00, jue/sáb), tiene 257.000 suscriptores y la mejor mediana de vistas (22.843). Conversando Con Jesús es el único que mezcla Shorts (42%) con largos de 7,7 min, publica 3,7 por semana a las 17:00-20:00 y tiene el engagement más alto de los que publican mucho (5,8%). Los canales con menos de 1 video por semana (Sofia Rays, Antonio Cedillo) tienen medianas bajas o nichos muy distintos. Conclusión: 2 a 4 videos por semana, largos de 8 a 12 minutos, publicados a mediodía y en la tarde, con un Short de apoyo.",
+  "como_venden": "Casi nadie vende de frente. Cuatro de los cinco canales tienen 0% o muy poca oferta visible. Solo Sofia Rays declara oferta en el 78% de sus videos (curso), con un cierre suave: el título promete una identidad (mujer magnética, la que recibe) y el curso aparece como el siguiente paso natural. Antonio Cedillo menciona un curso en el 13% de sus videos, de forma funcional. Los demás monetizan por audiencia y construyen confianza primero. Patrón útil: contenido que ya resuelve algo, identidad aspiracional en el título y la oferta como invitación al final, no como promesa de resultado. Esto encaja con el tono de Germancho (invita, no empuja).",
+  "hueco": "Nadie combina tres cosas a la vez: (1) lenguaje cotidiano y cálido, sin mística, sin dramatismo y sin dogma, (2) una acción concreta y pequeña al final de cada video, y (3) un equilibrio entre salud, dinero y amor. Los estoicos son sombríos, dirigidos a hombres mayores de 60 y sin acción práctica. La Psicología Invisible explica pero no pone tarea. Conversando Con Jesús y Sofia Rays se apoyan en lo espiritual o lo femenino-atracción. Nadie usa una metáfora recurrente y reconocible (el café, la taza, el cuaderno) como identidad de canal, y nadie cierra con un reto verificable de menos de 5 minutos que invite a comentar. El hueco es: coaching ontológico práctico, cercano y para todas las edades, con un ritual de cierre que genera comentarios.",
   "plan_replica": [
-   "Días 1 a 3: graba 4 Shorts de 40 a 60 segundos con la plantilla Ejercicio de menos de 5 minutos (cuaderno, taza, escalera), cada uno cerrando con Reto de hoy y pidiendo que lo comenten.",
-   "Días 4 a 7: publica 1 video largo de 12 a 18 minutos tipo ¿Cuándo / Qué / Por qué? con un problema cotidiano real (por ejemplo procrastinación o plata que no alcanza), y corta 2 Shorts del mismo episodio con el aviso de que el completo está en el canal.",
-   "Días 8 a 10: prueba la plantilla Tenía X y hoy Y con un caso propio o testimonio real de alumnos o lectores, con permiso y sin cifras exageradas ni promesas de resultado.",
-   "Días 11 a 14: fija el horario de publicación entre 17:00 y 18:00 (el que más se repite en los canales con mejores vistas) y sostén 2 a 3 publicaciones por semana; anota vistas y comentarios del reto para ver cuál plantilla funciona mejor.",
-   "Todo el período: en cada video cierra con una invitación suave (un cuaderno de retos gratuito, la lista de correo o el libro Café con Propósito) en vez de empujar la venta; mide cuántos piden el recurso gratuito antes de abrir una oferta mayor."
+   "Días 1-3: producir 4 largos de 8 a 10 minutos con la fórmula Después de los N / N cosas que nadie te dice, usando el café como metáfora y cerrando cada uno con el Reto de hoy. Publicar a las 13:00 (jueves y sábado, ventana de La Psicología Invisible).",
+   "Días 4-6: producir 3 videos de la serie La Psicología de [situación cotidiana] con voz de Germancho (deudas, procrastinación, cuaderno vacío). Cada uno incluye una frase de reto comentable en los primeros 30 segundos.",
+   "Días 7-9: probar el formato pregunta íntima en primera persona (como Conversando Con Jesús) pero en clave de coaching: ¿Cómo empiezo de nuevo si ya me cansé de intentarlo? Publicar a las 18:00-20:00, miércoles y domingo, y cortar 2 Shorts de cada largo.",
+   "Días 10-12: medir qué fórmula tiene mayor retención y comentarios con el reto, y duplicar la ganadora. Tomar como umbral la mediana de La Psicología Invisible como referencia aspiracional, no como meta inmediata. Responder cada comentario del reto durante las primeras 2 horas.",
+   "Días 13-14: añadir un cierre de oferta suave (estilo Sofia Rays pero sin promesas de resultado): una frase final que invite al libro Café con Propósito como continuación natural del reto, en máximo 10 segundos y solo en el 30-40% de los videos para no empujar."
   ],
   "titulos_propuestos": [
    {
-    "titulo": "Ejercicio de 3 minutos para cuando sientes que no avanzas | Reto de hoy",
+    "titulo": "Después de los 40: 5 cosas que tu cuaderno sabe de ti (y tú no)",
+    "formato": "largo"
+   },
+   {
+    "titulo": "La psicología de la persona que vive en modo «luego lo hago»",
+    "formato": "largo"
+   },
+   {
+    "titulo": "Germancho, ¿cómo vuelvo a empezar si ya me cansé de intentarlo?",
+    "formato": "largo"
+   },
+   {
+    "titulo": "7 señales de que tu taza está vacía y sigues sirviendo a todos",
+    "formato": "largo"
+   },
+   {
+    "titulo": "Cómo ser la persona que cumple lo que se promete a sí misma",
     "formato": "short"
    },
    {
-    "titulo": "Cómo volver a ti cuando todo te dice que corras | Café con Germancho",
-    "formato": "largo"
-   },
-   {
-    "titulo": "¿Cuándo es momento de cambiar de rumbo? 3 señales que casi nadie mira",
-    "formato": "largo"
-   },
-   {
-    "titulo": "Salud, dinero y amor: el mismo cuaderno, tres preguntas de 5 minutos",
-    "formato": "largo"
-   },
-   {
-    "titulo": "Ejercicio de la taza vacía: suelta lo que no te toca cargar hoy",
-    "formato": "short"
-   },
-   {
-    "titulo": "Estaba atascado en la misma escalera y esto fue lo que cambié esta semana",
+    "titulo": "Salud, dinero y amor: cuál de los tres estás descuidando hoy",
     "formato": "short"
    }
   ]

@@ -1,122 +1,86 @@
 {
  "perfil": "equilibrate_en",
- "n": 16,
+ "n": 12,
  "promedio": {
-  "brillo": 88,
-  "pct_oscuro": 52,
+  "brillo": 166,
+  "pct_oscuro": 21,
   "pct_amarillo": 1,
-  "pct_piel": 16,
-  "pct_saturado": 5
+  "pct_piel": 5,
+  "pct_saturado": 6
  },
  "promedio_top10": {
-  "brillo": 80,
-  "pct_oscuro": 58,
+  "brillo": 173,
+  "pct_oscuro": 19,
   "pct_amarillo": 0,
-  "pct_piel": 13,
-  "pct_saturado": 2
+  "pct_piel": 4,
+  "pct_saturado": 5
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 62,
-  "pct_con_rostro_probable": 81,
-  "pct_con_amarillo": 19
+  "pct_miniaturas_oscuras": 8,
+  "pct_con_rostro_probable": 17,
+  "pct_con_amarillo": 17
  },
- "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
+ "recomendacion": "Predomina fondo claro: la variante CLARA compite bien",
  "ejemplos": [
   {
-   "video_id": "ki29gfgLuc8",
-   "titulo": "The Only 36 Minutes You Need To Stop Chasing And Find Peace | Shi Heng Yi Motivation",
-   "vistas": 739881,
-   "ratio": 18.2,
-   "miniatura": "https://i.ytimg.com/vi/ki29gfgLuc8/maxresdefault.jpg",
-   "brillo": 54,
-   "pct_oscuro": 64,
+   "video_id": "6MtY3fBXOMo",
+   "titulo": "Psychology of Men Who Let Women Go",
+   "vistas": 713266,
+   "ratio": 148.6,
+   "miniatura": "https://i.ytimg.com/vi/6MtY3fBXOMo/maxresdefault.jpg",
+   "brillo": 160,
+   "pct_oscuro": 27,
    "pct_amarillo": 0,
-   "pct_piel": 25,
-   "pct_saturado": 1
+   "pct_piel": 2,
+   "pct_saturado": 6
   },
   {
-   "video_id": "AIBfnG1it0s",
-   "titulo": "The Only 35 Minutes You Need To Rebuild Yourself | Andrew Huberman Motivation",
-   "vistas": 659658,
-   "ratio": 16.2,
-   "miniatura": "https://i.ytimg.com/vi/AIBfnG1it0s/maxresdefault.jpg",
-   "brillo": 38,
-   "pct_oscuro": 86,
+   "video_id": "fALWgsuAIf0",
+   "titulo": "Psychology of Verbal Intelligence: How To Articulate Your Thoughts Intelligently",
+   "vistas": 651589,
+   "ratio": 46.2,
+   "miniatura": "https://i.ytimg.com/vi/fALWgsuAIf0/maxresdefault.jpg",
+   "brillo": 212,
+   "pct_oscuro": 3,
    "pct_amarillo": 0,
-   "pct_piel": 6,
-   "pct_saturado": 0
+   "pct_piel": 7,
+   "pct_saturado": 3
   },
   {
-   "video_id": "6p0rf-snw4k",
-   "titulo": "The Only 37 Minutes You Need To Become Mentally Dangerous | Andrew Huberman Motivation",
-   "vistas": 456992,
-   "ratio": 11.3,
-   "miniatura": "https://i.ytimg.com/vi/6p0rf-snw4k/maxresdefault.jpg",
-   "brillo": 26,
-   "pct_oscuro": 88,
+   "video_id": "5aI6icg7bVU",
+   "titulo": "PSYCHOLOGY OF MEN WHO LET WOMEN GO",
+   "vistas": 481766,
+   "ratio": 156.9,
+   "miniatura": "https://i.ytimg.com/vi/5aI6icg7bVU/maxresdefault.jpg",
+   "brillo": 208,
+   "pct_oscuro": 7,
    "pct_amarillo": 0,
-   "pct_piel": 6,
-   "pct_saturado": 0
+   "pct_piel": 3,
+   "pct_saturado": 4
   },
   {
-   "video_id": "SycmADdXbt4",
-   "titulo": "The Only 37 Minutes You Need To Take Back Control Of Your Life | Tony Robbins Motivation",
-   "vistas": 364655,
-   "ratio": 9.0,
-   "miniatura": "https://i.ytimg.com/vi/SycmADdXbt4/maxresdefault.jpg",
-   "brillo": 45,
-   "pct_oscuro": 79,
+   "video_id": "wEN2CfbDWwo",
+   "titulo": "The Psychology of Men Who Never Beg For Love",
+   "vistas": 160592,
+   "ratio": 33.5,
+   "miniatura": "https://i.ytimg.com/vi/wEN2CfbDWwo/maxresdefault.jpg",
+   "brillo": 165,
+   "pct_oscuro": 23,
+   "pct_amarillo": 0,
+   "pct_piel": 4,
+   "pct_saturado": 9
+  },
+  {
+   "video_id": "pEmI9ewFrkc",
+   "titulo": "Why Society Is Terrified of Single, HAPPY Men",
+   "vistas": 131947,
+   "ratio": 27.5,
+   "miniatura": "https://i.ytimg.com/vi/pEmI9ewFrkc/maxresdefault.jpg",
+   "brillo": 128,
+   "pct_oscuro": 31,
    "pct_amarillo": 0,
    "pct_piel": 9,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "cGQYCq7sB3w",
-   "titulo": "The Only 28 Minutes You Need To Reinvent Yourself | Joe Dispenza Motivation",
-   "vistas": 363527,
-   "ratio": 9.0,
-   "miniatura": "https://i.ytimg.com/vi/cGQYCq7sB3w/maxresdefault.jpg",
-   "brillo": 48,
-   "pct_oscuro": 73,
-   "pct_amarillo": 0,
-   "pct_piel": 9,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "79sJ7Zswo7U",
-   "titulo": "The Only 37 Minutes You Need To Stop Living Someone Else's Life | Robert Greene Motivation",
-   "vistas": 316967,
-   "ratio": 7.8,
-   "miniatura": "https://i.ytimg.com/vi/79sJ7Zswo7U/maxresdefault.jpg",
-   "brillo": 53,
-   "pct_oscuro": 68,
-   "pct_amarillo": 0,
-   "pct_piel": 11,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "6uDLao-YRTk",
-   "titulo": "The Only 29 Minutes You Need To Sort Yourself Out | Jordan Peterson Motivation",
-   "vistas": 291765,
-   "ratio": 7.2,
-   "miniatura": "https://i.ytimg.com/vi/6uDLao-YRTk/maxresdefault.jpg",
-   "brillo": 62,
-   "pct_oscuro": 68,
-   "pct_amarillo": 0,
-   "pct_piel": 12,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "igCUXPBaAu0",
-   "titulo": "The Only 28 Minutes You Need To Transform Your Life | Joe Dispenza Motivation",
-   "vistas": 263912,
-   "ratio": 6.5,
-   "miniatura": "https://i.ytimg.com/vi/igCUXPBaAu0/maxresdefault.jpg",
-   "brillo": 106,
-   "pct_oscuro": 34,
-   "pct_amarillo": 0,
-   "pct_piel": 20,
-   "pct_saturado": 0
+   "pct_saturado": 6
   },
   {
    "video_id": "vxlHookTCtI",
@@ -131,16 +95,52 @@
    "pct_saturado": 3
   },
   {
-   "video_id": "1D1uNM3NWOg",
-   "titulo": "💕 Family pressure pushed her to blind dates. By chance, she met him. He proposed. 🥰#chinesedrama",
-   "vistas": 91319,
-   "ratio": 9.1,
-   "miniatura": "https://i.ytimg.com/vi/1D1uNM3NWOg/maxresdefault.jpg",
-   "brillo": 157,
-   "pct_oscuro": 8,
-   "pct_amarillo": 5,
-   "pct_piel": 32,
-   "pct_saturado": 11
+   "video_id": "DpMzAEGoseU",
+   "titulo": "What Society Never Tells Men About Staying Single",
+   "vistas": 61575,
+   "ratio": 12.8,
+   "miniatura": "https://i.ytimg.com/vi/DpMzAEGoseU/maxresdefault.jpg",
+   "brillo": 159,
+   "pct_oscuro": 28,
+   "pct_amarillo": 0,
+   "pct_piel": 2,
+   "pct_saturado": 2
+  },
+  {
+   "video_id": "eG9qIXXQZx0",
+   "titulo": "Why More Men Are Quietly Choosing to Stay Single ?",
+   "vistas": 56308,
+   "ratio": 11.7,
+   "miniatura": "https://i.ytimg.com/vi/eG9qIXXQZx0/maxresdefault.jpg",
+   "brillo": 151,
+   "pct_oscuro": 24,
+   "pct_amarillo": 0,
+   "pct_piel": 4,
+   "pct_saturado": 2
+  },
+  {
+   "video_id": "-RX2BPueAOQ",
+   "titulo": "Psychology of Men Who Are Happier Without a Girlfriend",
+   "vistas": 54861,
+   "ratio": 11.4,
+   "miniatura": "https://i.ytimg.com/vi/-RX2BPueAOQ/maxresdefault.jpg",
+   "brillo": 147,
+   "pct_oscuro": 25,
+   "pct_amarillo": 4,
+   "pct_piel": 4,
+   "pct_saturado": 9
+  },
+  {
+   "video_id": "NHB0ba-0ois",
+   "titulo": "Why Men Who LET GO First Always WIN",
+   "vistas": 47490,
+   "ratio": 9.9,
+   "miniatura": "https://i.ytimg.com/vi/NHB0ba-0ois/maxresdefault.jpg",
+   "brillo": 183,
+   "pct_oscuro": 14,
+   "pct_amarillo": 0,
+   "pct_piel": 7,
+   "pct_saturado": 10
   }
  ]
 }

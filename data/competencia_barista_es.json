@@ -1,0 +1,55 @@
+{
+ "perfil": "barista_es",
+ "canal": "El Barista del Ser · Historias",
+ "generado": "2026-11-22T16:23:29",
+ "canales": [],
+ "analisis": {
+  "aviso": "El informe de competidores llegó vacío (0 canales, 0 videos), así que no hay métricas reales que analizar. No voy a inventar ejemplos ni cifras de canales que no existen: eso sería fabricar datos. Lo que sigue son hipótesis de trabajo basadas en el cerebro de marca de Germán, marcadas como tales, para que puedas actuar mientras cargas competidores reales.",
+  "formulas_titulo": [
+   {
+    "plantilla": "SIN DATOS: sin competidores no hay plantilla observada",
+    "ejemplos": [
+     "Sin ejemplo real disponible",
+     "Sin ejemplo real disponible",
+     "Sin ejemplo real disponible"
+    ]
+   }
+  ],
+  "formato_y_cadencia": "SIN DATOS de competidores. Hipótesis para probar en nuestro canal: 3 shorts por semana (gancho en los primeros 2 segundos, cierre con Reto de hoy) y 1 video largo de historia por semana, tono de sobremesa. Medir retención y comentarios durante 14 días antes de ajustar.",
+  "como_venden": "SIN DATOS de lo que venden otros. Para nosotros, según la marca: Germancho invita, no empuja. Cierre sugerido: Reto de hoy y una mención suave a «Café con Propósito» solo en 1 de cada 3 videos.",
+  "hueco": "No puedo afirmar qué no hace nadie sin ver el nicho. Hipótesis a validar: pocas historias personales narradas que unan salud, dinero y amor desde un café y terminen en una acción de menos de 5 minutos.",
+  "plan_replica": [
+   "Día 1-2: cargar 5 a 8 canales competidores del nicho coaching/desarrollo personal en español y regenerar este informe con métricas reales.",
+   "Día 3-5: publicar 3 shorts de historia de café (gancho, giro, Reto de hoy) como prueba de formato.",
+   "Día 6-8: publicar 1 video largo de historia de sobremesa de 6 a 8 minutos con el mismo cierre.",
+   "Día 9-11: revisar retención y comentarios; quedarnos con el gancho que más retuvo.",
+   "Día 12-14: repetir lo que funcionó en 3 shorts y 1 largo, y comparar contra los competidores ya cargados."
+  ],
+  "titulos_propuestos": [
+   {
+    "titulo": "Un café frío me enseñó a dejar de postergar",
+    "formato": "short"
+   },
+   {
+    "titulo": "La taza que nadie quiso lavar y lo que dijo de mi dinero",
+    "formato": "largo"
+   },
+   {
+    "titulo": "Lo que le dije a mi café antes de renunciar",
+    "formato": "short"
+   },
+   {
+    "titulo": "Mi abuela servía el café igual cuando todo se caía",
+    "formato": "largo"
+   },
+   {
+    "titulo": "Pagué dos cafés y entendí qué me faltaba en el amor",
+    "formato": "short"
+   },
+   {
+    "titulo": "Cinco minutos y un cuaderno: la mañana que cambié de rumbo",
+    "formato": "short"
+   }
+  ]
+ }
+}

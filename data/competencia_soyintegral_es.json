@@ -1,33 +1,104 @@
 {
  "perfil": "soyintegral_es",
  "canal": "Soy Integral · Salud",
- "generado": "2026-11-15T15:45:27",
+ "generado": "2026-11-22T16:22:59",
  "canales": [
   {
-   "canal_id": "UCL_WHaLzV1IC410fmHuKcGA",
-   "canal": "Kika Silva",
-   "url": "https://www.youtube.com/channel/UCL_WHaLzV1IC410fmHuKcGA",
-   "suscriptores": 6880,
-   "pais": "CL",
-   "n_virales_radar": 10,
+   "canal_id": "UCyYDFiGrr7Oe5ROgqMjw14g",
+   "canal": "Refugio Zen",
+   "url": "https://www.youtube.com/channel/UCyYDFiGrr7Oe5ROgqMjw14g",
+   "suscriptores": 14700,
+   "pais": "ES",
+   "n_virales_radar": 5,
    "videos_analizados": 30,
-   "videos_por_semana": 2.1,
-   "pct_shorts": 63,
-   "duracion_media_largos_min": 36.3,
-   "duracion_media_shorts_s": 59,
-   "mediana_vistas": 1334.5,
-   "vistas_top": 88662,
-   "outlier_top": 66.4,
-   "engagement_medio": 0.0147,
+   "videos_por_semana": 1.0,
+   "pct_shorts": 3,
+   "duracion_media_largos_min": 19.6,
+   "duracion_media_shorts_s": 49,
+   "mediana_vistas": 5017.5,
+   "vistas_top": 337379,
+   "outlier_top": 67.2,
+   "engagement_medio": 0.0542,
    "horas_publicacion": [
-    "18:00",
-    "19:00",
-    "23:00"
+    "13:00",
+    "07:00",
+    "08:00"
    ],
    "dias_publicacion": [
     "mar",
-    "mié",
+    "dom",
     "jue"
+   ],
+   "pct_titulos_con_numero": 10,
+   "pct_videos_con_oferta": 23,
+   "ofertas": [
+    "comunidad",
+    "curso"
+   ],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "Habla Así a Tus Células | Meditación Profunda para Dejar de Exigirte y Sanar Desde Dentro",
+     "vistas": 337379,
+     "duracion_s": 2112,
+     "url": "https://www.youtube.com/watch?v=n7ex8ENZrDw",
+     "miniatura": "https://i.ytimg.com/vi/n7ex8ENZrDw/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Háblale así a tu ESTÓMAGO y mira lo que ocurre | Meditación para el Segundo Cerebro y la Ansiedad",
+     "vistas": 159968,
+     "duracion_s": 984,
+     "url": "https://www.youtube.com/watch?v=L1I6B2Jc990",
+     "miniatura": "https://i.ytimg.com/vi/L1I6B2Jc990/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Háblale así a TODOS tus ÓRGANOS ✨ Meditación Guiada para Sanar, Relajar y Conectar con tu Cuerpo",
+     "vistas": 152551,
+     "duracion_s": 2158,
+     "url": "https://www.youtube.com/watch?v=zIceGUxul5k",
+     "miniatura": "https://i.ytimg.com/vi/zIceGUxul5k/maxresdefault.jpg"
+    },
+    {
+     "titulo": "HÁBLALE ASÍ A TU CUERPO Y MIRA LO QUE OCURRE | Meditación para Recuperar la Calma",
+     "vistas": 139544,
+     "duracion_s": 904,
+     "url": "https://www.youtube.com/watch?v=fKMS3EXnaOw",
+     "miniatura": "https://i.ytimg.com/vi/fKMS3EXnaOw/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Reinicia tu Sistema Nervioso | Meditación Guiada para Calmar la Ansiedad y Soltar el Estrés✨",
+     "vistas": 103383,
+     "duracion_s": 1164,
+     "url": "https://www.youtube.com/watch?v=CyN_QdYh6f4",
+     "miniatura": "https://i.ytimg.com/vi/CyN_QdYh6f4/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UCeKDczunJ81vP0YRq61O3kA",
+   "canal": "DoctorChef",
+   "url": "https://www.youtube.com/channel/UCeKDczunJ81vP0YRq61O3kA",
+   "suscriptores": 4500,
+   "pais": "CL",
+   "n_virales_radar": 5,
+   "videos_analizados": 30,
+   "videos_por_semana": 2.5,
+   "pct_shorts": 40,
+   "duracion_media_largos_min": 9.2,
+   "duracion_media_shorts_s": 22,
+   "mediana_vistas": 1703.5,
+   "vistas_top": 142824,
+   "outlier_top": 83.8,
+   "engagement_medio": 0.032,
+   "horas_publicacion": [
+    "17:00",
+    "18:00",
+    "16:00"
+   ],
+   "dias_publicacion": [
+    "dom",
+    "mié",
+    "sáb"
    ],
    "pct_titulos_con_numero": 0,
    "pct_videos_con_oferta": 3,
@@ -37,312 +108,243 @@
    "plataformas": [],
    "top5": [
     {
-     "titulo": "DESAYUNOS ANTIINFLAMATORIOS",
-     "vistas": 88662,
-     "duracion_s": 2927,
-     "url": "https://www.youtube.com/watch?v=hewNxr2Teic",
-     "miniatura": "https://i.ytimg.com/vi/hewNxr2Teic/maxresdefault.jpg"
+     "titulo": "¿Tienes el cortisol alto?",
+     "vistas": 142824,
+     "duracion_s": 377,
+     "url": "https://www.youtube.com/watch?v=NZfGAL0pTMs",
+     "miniatura": "https://i.ytimg.com/vi/NZfGAL0pTMs/maxresdefault.jpg"
     },
     {
-     "titulo": "EL IMPACTO DE TU CLÓSET",
-     "vistas": 87119,
-     "duracion_s": 2189,
-     "url": "https://www.youtube.com/watch?v=jHgKgD7QeB0",
-     "miniatura": "https://i.ytimg.com/vi/jHgKgD7QeB0/maxresdefault.jpg"
+     "titulo": "¿Hacen bien los fermentados?",
+     "vistas": 55516,
+     "duracion_s": 674,
+     "url": "https://www.youtube.com/watch?v=5IbRn2UUbZw",
+     "miniatura": "https://i.ytimg.com/vi/5IbRn2UUbZw/maxresdefault.jpg"
     },
     {
-     "titulo": "SALUD FINANCIERA",
-     "vistas": 85302,
-     "duracion_s": 2112,
-     "url": "https://www.youtube.com/watch?v=bKdGxJ-fo_Y",
-     "miniatura": "https://i.ytimg.com/vi/bKdGxJ-fo_Y/maxresdefault.jpg"
+     "titulo": "¿Tengo Que Ocupar Fármacos Para Bajar De Peso?",
+     "vistas": 40742,
+     "duracion_s": 614,
+     "url": "https://www.youtube.com/watch?v=6Xqm_jnW0BA",
+     "miniatura": "https://i.ytimg.com/vi/6Xqm_jnW0BA/maxresdefault.jpg"
     },
     {
-     "titulo": "EL AMOR PROPIO COMO MOTOR",
-     "vistas": 75577,
-     "duracion_s": 1993,
-     "url": "https://www.youtube.com/watch?v=BG2-rhnbpKk",
-     "miniatura": "https://i.ytimg.com/vi/BG2-rhnbpKk/maxresdefault.jpg"
+     "titulo": "¿Las frutas y verduras cocidas pierden sus nutrientes?",
+     "vistas": 36303,
+     "duracion_s": 555,
+     "url": "https://www.youtube.com/watch?v=DNYbRrnJDh8",
+     "miniatura": "https://i.ytimg.com/vi/DNYbRrnJDh8/maxresdefault.jpg"
     },
     {
-     "titulo": "SANA TU COLON",
-     "vistas": 74877,
-     "duracion_s": 2253,
-     "url": "https://www.youtube.com/watch?v=Dp9YQH7H2To",
-     "miniatura": "https://i.ytimg.com/vi/Dp9YQH7H2To/maxresdefault.jpg"
+     "titulo": "¿Cómo ganarle a la menopausia?",
+     "vistas": 29878,
+     "duracion_s": 648,
+     "url": "https://www.youtube.com/watch?v=cx4q25Ub3G8",
+     "miniatura": "https://i.ytimg.com/vi/cx4q25Ub3G8/maxresdefault.jpg"
     }
    ]
   },
   {
-   "canal_id": "UCwZZJ6wUa1TLK1YlGwDIinQ",
-   "canal": "SALUD MAYOR",
-   "url": "https://www.youtube.com/channel/UCwZZJ6wUa1TLK1YlGwDIinQ",
-   "suscriptores": 2050,
-   "pais": "ES",
-   "n_virales_radar": 9,
-   "videos_analizados": 28,
-   "videos_por_semana": 5.3,
-   "pct_shorts": 0,
-   "duracion_media_largos_min": 30.1,
-   "duracion_media_shorts_s": 0,
-   "mediana_vistas": 4363.5,
-   "vistas_top": 177316,
-   "outlier_top": 40.6,
-   "engagement_medio": 0.0101,
-   "horas_publicacion": [
-    "05:00",
-    "04:00"
-   ],
-   "dias_publicacion": [
-    "sáb",
-    "vie",
-    "jue"
-   ],
-   "pct_titulos_con_numero": 82,
-   "pct_videos_con_oferta": 0,
-   "ofertas": [],
-   "plataformas": [],
-   "top5": [
-    {
-     "titulo": "¿Te cuesta caminar? 5 alimentos que pueden fortalecer tus piernas | Salud",
-     "vistas": 177316,
-     "duracion_s": 1972,
-     "url": "https://www.youtube.com/watch?v=if4E9gYd8aI",
-     "miniatura": "https://i.ytimg.com/vi/if4E9gYd8aI/maxresdefault.jpg"
-    },
-    {
-     "titulo": "¿TE CUESTA CAMINAR? COME ESTAS 5 RAÍCES PARA FORTALECER TUS PIERNAS | Salud",
-     "vistas": 148773,
-     "duracion_s": 1728,
-     "url": "https://www.youtube.com/watch?v=YF9VE8goedw",
-     "miniatura": "https://i.ytimg.com/vi/YF9VE8goedw/maxresdefault.jpg"
-    },
-    {
-     "titulo": "¿Sin fuerza después de los 60? El garbanzo puede ayudar a recuperar músculo | Salud",
-     "vistas": 47753,
-     "duracion_s": 1706,
-     "url": "https://www.youtube.com/watch?v=DLOUI8V9f14",
-     "miniatura": "https://i.ytimg.com/vi/DLOUI8V9f14/maxresdefault.jpg"
-    },
-    {
-     "titulo": "¿Qué le pasa a tu cuerpo al comer garbanzos? La sorprendente verdad para tus músculos | Salud",
-     "vistas": 46315,
-     "duracion_s": 1796,
-     "url": "https://www.youtube.com/watch?v=YpL1tZXccPg",
-     "miniatura": "https://i.ytimg.com/vi/YpL1tZXccPg/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Antes de Dormir: 1 Cucharada de Aceite de Oliva | El Ritual de Salud que Sorprende",
-     "vistas": 46235,
-     "duracion_s": 1988,
-     "url": "https://www.youtube.com/watch?v=vGLAw2dM6hM",
-     "miniatura": "https://i.ytimg.com/vi/vGLAw2dM6hM/maxresdefault.jpg"
-    }
-   ]
-  },
-  {
-   "canal_id": "UC_CxwBaV5129plEujXtcNWg",
-   "canal": "Central Aztecas",
-   "url": "https://www.youtube.com/channel/UC_CxwBaV5129plEujXtcNWg",
-   "suscriptores": 5070,
-   "pais": "BR",
-   "n_virales_radar": 8,
-   "videos_analizados": 30,
-   "videos_por_semana": 3.2,
-   "pct_shorts": 0,
-   "duracion_media_largos_min": 45.6,
-   "duracion_media_shorts_s": 0,
-   "mediana_vistas": 4301.5,
-   "vistas_top": 318408,
-   "outlier_top": 74.0,
-   "engagement_medio": 0.0238,
-   "horas_publicacion": [
-    "11:00",
-    "16:00",
-    "14:00"
-   ],
-   "dias_publicacion": [
-    "mié",
-    "jue",
-    "mar"
-   ],
-   "pct_titulos_con_numero": 80,
-   "pct_videos_con_oferta": 0,
-   "ofertas": [],
-   "plataformas": [],
-   "top5": [
-    {
-     "titulo": "20 Alimentos que les Daban Huesos de Acero a los Aztecas Sin Tomar Leche",
-     "vistas": 318408,
-     "duracion_s": 2678,
-     "url": "https://www.youtube.com/watch?v=qng-3WyQc7s",
-     "miniatura": "https://i.ytimg.com/vi/qng-3WyQc7s/maxresdefault.jpg"
-    },
-    {
-     "titulo": "15 Comidas Aztecas del Día de Muertos que los Españoles Borraron de la Ofrenda",
-     "vistas": 118764,
-     "duracion_s": 2747,
-     "url": "https://www.youtube.com/watch?v=ua-RTflsJ0Q",
-     "miniatura": "https://i.ytimg.com/vi/ua-RTflsJ0Q/maxresdefault.jpg"
-    },
-    {
-     "titulo": "Cómo los Aztecas Hacían la Ofrenda de Muertos (y Por Qué los Españoles la Cambiaron)",
-     "vistas": 71866,
-     "duracion_s": 3250,
-     "url": "https://www.youtube.com/watch?v=68dQVfsH7Sc",
-     "miniatura": "https://i.ytimg.com/vi/68dQVfsH7Sc/maxresdefault.jpg"
-    },
-    {
-     "titulo": "15 Comidas Aztecas de Tenochtitlán que Borraron los Españoles",
-     "vistas": 48981,
-     "duracion_s": 3109,
-     "url": "https://www.youtube.com/watch?v=72OEI7Upxeo",
-     "miniatura": "https://i.ytimg.com/vi/72OEI7Upxeo/maxresdefault.jpg"
-    },
-    {
-     "titulo": "16 Caldos Aztecas que Borraron los Españoles",
-     "vistas": 48229,
-     "duracion_s": 2576,
-     "url": "https://www.youtube.com/watch?v=LUkGUxjx2IM",
-     "miniatura": "https://i.ytimg.com/vi/LUkGUxjx2IM/maxresdefault.jpg"
-    }
-   ]
-  },
-  {
-   "canal_id": "UCqvHefJwCSfomEe8L3W1C2g",
-   "canal": "Cuerpo Sabio",
-   "url": "https://www.youtube.com/channel/UCqvHefJwCSfomEe8L3W1C2g",
-   "suscriptores": 31000,
+   "canal_id": "UCc_kbewmjKJyBrnrr_ENaoQ",
+   "canal": "Martha Liliana Bautista Niño",
+   "url": "https://www.youtube.com/channel/UCc_kbewmjKJyBrnrr_ENaoQ",
+   "suscriptores": 1480,
    "pais": "",
-   "n_virales_radar": 4,
+   "n_virales_radar": 5,
    "videos_analizados": 30,
-   "videos_por_semana": 1.3,
-   "pct_shorts": 0,
-   "duracion_media_largos_min": 15.6,
-   "duracion_media_shorts_s": 0,
-   "mediana_vistas": 37034.5,
-   "vistas_top": 843245,
-   "outlier_top": 22.8,
-   "engagement_medio": 0.0283,
+   "videos_por_semana": 0.1,
+   "pct_shorts": 20,
+   "duracion_media_largos_min": 14.3,
+   "duracion_media_shorts_s": 149,
+   "mediana_vistas": 556.5,
+   "vistas_top": 76928,
+   "outlier_top": 138.2,
+   "engagement_medio": 0.012,
    "horas_publicacion": [
-    "17:00",
-    "12:00",
-    "19:00"
+    "21:00",
+    "18:00",
+    "11:00"
    ],
    "dias_publicacion": [
-    "mié",
-    "sáb",
-    "jue"
+    "mar",
+    "jue",
+    "vie"
    ],
-   "pct_titulos_con_numero": 73,
+   "pct_titulos_con_numero": 13,
    "pct_videos_con_oferta": 0,
    "ofertas": [],
    "plataformas": [],
    "top5": [
     {
-     "titulo": "Cada Vitamina y Lo Que Hace en Tu Cuerpo, en 20 Min",
-     "vistas": 843245,
-     "duracion_s": 1171,
-     "url": "https://www.youtube.com/watch?v=G2aRjGzHl3c",
-     "miniatura": "https://i.ytimg.com/vi/G2aRjGzHl3c/maxresdefault.jpg"
+     "titulo": "Limpieza y desinfección en baños",
+     "vistas": 76928,
+     "duracion_s": 815,
+     "url": "https://www.youtube.com/watch?v=90THYn7M-KY",
+     "miniatura": "https://i.ytimg.com/vi/90THYn7M-KY/maxresdefault.jpg"
     },
     {
-     "titulo": "¿Por qué no descansas? Las fases del sueño explicadas",
-     "vistas": 307433,
-     "duracion_s": 726,
-     "url": "https://www.youtube.com/watch?v=ITS2sMBANac",
-     "miniatura": "https://i.ytimg.com/vi/ITS2sMBANac/maxresdefault.jpg"
+     "titulo": "Manejo de máquina fregadora de pisos hombre de pie - autoscruber",
+     "vistas": 53673,
+     "duracion_s": 1281,
+     "url": "https://www.youtube.com/watch?v=CfRKptDwuio",
+     "miniatura": "https://i.ytimg.com/vi/CfRKptDwuio/maxresdefault.jpg"
     },
     {
-     "titulo": "Los 12 Pares Craneales: Qué Hacen y Por Qué Importan (Explicado Fácil)",
-     "vistas": 302951,
-     "duracion_s": 1075,
-     "url": "https://www.youtube.com/watch?v=OUPuK8kAI0M",
-     "miniatura": "https://i.ytimg.com/vi/OUPuK8kAI0M/maxresdefault.jpg"
+     "titulo": "Manejo máquina fregadora industrial hombre a bordo - hombre sentado",
+     "vistas": 8979,
+     "duracion_s": 1336,
+     "url": "https://www.youtube.com/watch?v=vBq-ApY4wnA",
+     "miniatura": "https://i.ytimg.com/vi/vBq-ApY4wnA/maxresdefault.jpg"
     },
     {
-     "titulo": "Las HORMONAS explicadas en 10 minutos",
-     "vistas": 272979,
-     "duracion_s": 606,
-     "url": "https://www.youtube.com/watch?v=RL0WWuuZUAk",
-     "miniatura": "https://i.ytimg.com/vi/RL0WWuuZUAk/maxresdefault.jpg"
+     "titulo": "Manejo de sustancias químicas",
+     "vistas": 8467,
+     "duracion_s": 706,
+     "url": "https://www.youtube.com/watch?v=ZIFt2jYyc8A",
+     "miniatura": "https://i.ytimg.com/vi/ZIFt2jYyc8A/hqdefault.jpg"
     },
     {
-     "titulo": "Todos los NUTRIENTES que tu cuerpo necesita (y por qué uno solo no te sirve)",
-     "vistas": 250902,
-     "duracion_s": 1292,
-     "url": "https://www.youtube.com/watch?v=pRsJoIlrROY",
-     "miniatura": "https://i.ytimg.com/vi/pRsJoIlrROY/maxresdefault.jpg"
+     "titulo": "Limpieza y desinfección en oficinas",
+     "vistas": 7814,
+     "duracion_s": 1489,
+     "url": "https://www.youtube.com/watch?v=VXQ8XHC4Xfg",
+     "miniatura": "https://i.ytimg.com/vi/VXQ8XHC4Xfg/maxresdefault.jpg"
     }
    ]
   },
   {
-   "canal_id": "UCtYguH6XbSaRy1X4CCOKLug",
-   "canal": "Edad de Oro Saludable",
-   "url": "https://www.youtube.com/channel/UCtYguH6XbSaRy1X4CCOKLug",
-   "suscriptores": 16300,
-   "pais": "ES",
+   "canal_id": "UCVW6N0BUpCP2V6IsquYweww",
+   "canal": "Conversando Con Jesus",
+   "url": "https://www.youtube.com/channel/UCVW6N0BUpCP2V6IsquYweww",
+   "suscriptores": 1000,
+   "pais": "CO",
    "n_virales_radar": 4,
-   "videos_analizados": 30,
-   "videos_por_semana": 7.0,
-   "pct_shorts": 0,
-   "duracion_media_largos_min": 35.6,
-   "duracion_media_shorts_s": 0,
-   "mediana_vistas": 21460.5,
-   "vistas_top": 685145,
-   "outlier_top": 31.9,
-   "engagement_medio": 0.0234,
+   "videos_analizados": 12,
+   "videos_por_semana": 3.7,
+   "pct_shorts": 42,
+   "duracion_media_largos_min": 7.7,
+   "duracion_media_shorts_s": 53,
+   "mediana_vistas": 4846.0,
+   "vistas_top": 31891,
+   "outlier_top": 6.6,
+   "engagement_medio": 0.058,
    "horas_publicacion": [
-    "06:00",
-    "07:00",
-    "05:00"
+    "18:00",
+    "20:00",
+    "17:00"
    ],
    "dias_publicacion": [
-    "sáb",
+    "mié",
     "dom",
+    "jue"
+   ],
+   "pct_titulos_con_numero": 25,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
+   "plataformas": [],
+   "top5": [
+    {
+     "titulo": "JESÚS, ¿Por qué no me sanas si sabes cuanto estoy sufriendo?",
+     "vistas": 31891,
+     "duracion_s": 419,
+     "url": "https://www.youtube.com/watch?v=3Qe6VDROeOc",
+     "miniatura": "https://i.ytimg.com/vi/3Qe6VDROeOc/maxresdefault.jpg"
+    },
+    {
+     "titulo": "¿Cómo puedo perdonar a alguien que me destruyó por dentro?",
+     "vistas": 28190,
+     "duracion_s": 445,
+     "url": "https://www.youtube.com/watch?v=QXJVfq9pDIA",
+     "miniatura": "https://i.ytimg.com/vi/QXJVfq9pDIA/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Jesús ¿Cómo puedo calmar mi mente cuando la ansiedad no me deja vivir?",
+     "vistas": 21354,
+     "duracion_s": 299,
+     "url": "https://www.youtube.com/watch?v=ZC9dPIYu4kg",
+     "miniatura": "https://i.ytimg.com/vi/ZC9dPIYu4kg/maxresdefault.jpg"
+    },
+    {
+     "titulo": "Jesús, ¿Por qué Guardas Silencio?",
+     "vistas": 11611,
+     "duracion_s": 416,
+     "url": "https://www.youtube.com/watch?v=ydbpD6qfHAs",
+     "miniatura": "https://i.ytimg.com/vi/ydbpD6qfHAs/maxresdefault.jpg"
+    },
+    {
+     "titulo": "JESÚS, ¿Cómo puedo encontrar mi PROPOSITO si ni siquiera se quien soy?",
+     "vistas": 6253,
+     "duracion_s": 636,
+     "url": "https://www.youtube.com/watch?v=yjphK3l8CwE",
+     "miniatura": "https://i.ytimg.com/vi/yjphK3l8CwE/maxresdefault.jpg"
+    }
+   ]
+  },
+  {
+   "canal_id": "UC4qwVeZpzzNR22gFiBdKpMg",
+   "canal": "La Palabra Desenredada",
+   "url": "https://www.youtube.com/channel/UC4qwVeZpzzNR22gFiBdKpMg",
+   "suscriptores": 11800,
+   "pais": "PA",
+   "n_virales_radar": 4,
+   "videos_analizados": 30,
+   "videos_por_semana": 7.5,
+   "pct_shorts": 0,
+   "duracion_media_largos_min": 23.9,
+   "duracion_media_shorts_s": 0,
+   "mediana_vistas": 2243.0,
+   "vistas_top": 533046,
+   "outlier_top": 237.6,
+   "engagement_medio": 0.0111,
+   "horas_publicacion": [
+    "04:00",
+    "06:00",
+    "16:00"
+   ],
+   "dias_publicacion": [
+    "dom",
+    "sáb",
     "lun"
    ],
-   "pct_titulos_con_numero": 67,
-   "pct_videos_con_oferta": 100,
-   "ofertas": [
-    "comunidad"
-   ],
+   "pct_titulos_con_numero": 43,
+   "pct_videos_con_oferta": 0,
+   "ofertas": [],
    "plataformas": [],
    "top5": [
     {
-     "titulo": "🥑 5 frutas para proteger tu vista por la noche | salud integral",
-     "vistas": 685145,
-     "duracion_s": 2380,
-     "url": "https://www.youtube.com/watch?v=CnNVAfi_4jc",
-     "miniatura": "https://i.ytimg.com/vi/CnNVAfi_4jc/maxresdefault.jpg"
+     "titulo": "5 SALMOS PODEROSOS de la Biblia Que Debes Leer Antes de un Nuevo Día",
+     "vistas": 533046,
+     "duracion_s": 961,
+     "url": "https://www.youtube.com/watch?v=Mic4BdvioEA",
+     "miniatura": "https://i.ytimg.com/vi/Mic4BdvioEA/maxresdefault.jpg"
     },
     {
-     "titulo": "la fruta que muchos médicos recomiendan antes de dormir: beneficios para tu salud integral",
-     "vistas": 515179,
-     "duracion_s": 2513,
-     "url": "https://www.youtube.com/watch?v=iXtwpmWk9Cs",
-     "miniatura": "https://i.ytimg.com/vi/iXtwpmWk9Cs/maxresdefault.jpg"
+     "titulo": "¿Qué Pasa Realmente Cuando Oras Acostado en la Cama? (Esto Casi Nadie Lo Ve)",
+     "vistas": 303338,
+     "duracion_s": 997,
+     "url": "https://www.youtube.com/watch?v=sKQl93EOtsg",
+     "miniatura": "https://i.ytimg.com/vi/sKQl93EOtsg/maxresdefault.jpg"
     },
     {
-     "titulo": "👁️ protege tu salud integral con estas señales que pueden salvar tu visión",
-     "vistas": 320532,
-     "duracion_s": 2343,
-     "url": "https://www.youtube.com/watch?v=4MGqRJJAtZY",
-     "miniatura": "https://i.ytimg.com/vi/4MGqRJJAtZY/maxresdefault.jpg"
+     "titulo": "REFLEXION: Cómo Ser Mentalmente Más Fuerte con la Fe en Dios",
+     "vistas": 157428,
+     "duracion_s": 2238,
+     "url": "https://www.youtube.com/watch?v=Qv-SDrb-leg",
+     "miniatura": "https://i.ytimg.com/vi/Qv-SDrb-leg/maxresdefault.jpg"
     },
     {
-     "titulo": "👁️ salud integral después de los 55: 5 alimentos y hábitos para proteger la visión",
-     "vistas": 275564,
-     "duracion_s": 1987,
-     "url": "https://www.youtube.com/watch?v=CkdldPB0nbI",
-     "miniatura": "https://i.ytimg.com/vi/CkdldPB0nbI/maxresdefault.jpg"
+     "titulo": "6 HÁBITOS QUE diferencian Cristiano tibio vs. Cristiano verdadero",
+     "vistas": 110400,
+     "duracion_s": 1234,
+     "url": "https://www.youtube.com/watch?v=exT973UMaDY",
+     "miniatura": "https://i.ytimg.com/vi/exT973UMaDY/maxresdefault.jpg"
     },
     {
-     "titulo": "🥬 7 alimentos que cuidan tu vista y fortalecen tu salud integral de forma natural",
-     "vistas": 208191,
-     "duracion_s": 2155,
-     "url": "https://www.youtube.com/watch?v=wi6Qk-dBDRU",
-     "miniatura": "https://i.ytimg.com/vi/wi6Qk-dBDRU/maxresdefault.jpg"
+     "titulo": "Oración Nocturna: ¿Sientes Ansiedad al Final Del Día? Deja Que Dios Tome el Control",
+     "vistas": 34066,
+     "duracion_s": 2063,
+     "url": "https://www.youtube.com/watch?v=JQz3kLqwqAE",
+     "miniatura": "https://i.ytimg.com/vi/JQz3kLqwqAE/maxresdefault.jpg"
     }
    ]
   }
@@ -350,80 +352,72 @@
  "analisis": {
   "formulas_titulo": [
    {
-    "plantilla": "¿Sientes X? Y cosas que tu cuerpo te está avisando",
+    "plantilla": "Háblale así a tu [órgano/parte del cuerpo] | Meditación guiada para [emoción]",
     "ejemplos": [
-     "Si te despiertas a las 3 A.M., tu cuerpo te está avisando esto",
-     "Ansiedad: 7 síntomas físicos que puedes confundir con otra enfermedad",
-     "¿Sientes esto? 20 síntomas de deficiencia mineral que NO debes ignorar"
+     "Háblale así a tu COLON | Suelta lo que ya no necesitas Meditación guiada",
+     "Háblale así a tus PULMONES | Meditación guiada para sanar, perdonar y soltar la culpa",
+     "Háblale así a tu ESTÓMAGO y mira lo que ocurre | Meditación para el Segundo Cerebro y la Ansiedad"
     ]
    },
    {
-    "plantilla": "¿Te cuesta X después de los 60? Come estos N alimentos | Salud",
+    "plantilla": "¿Pregunta en primera persona sobre un dolor? + dirigida a una figura",
     "ejemplos": [
-     "¿Te cuesta caminar? 5 alimentos que pueden fortalecer tus piernas | Salud",
-     "¿Sin fuerza después de los 60? El garbanzo puede ayudar a recuperar músculo | Salud",
-     "¿Le Cuesta Caminar Después de los 70? ¡5 Raíces para Fortalecer sus Piernas! | Salud"
+     "JESÚS, ¿Cómo puedo calmar mi mente cuando la ansiedad no me deja vivir?",
+     "JESÚS, ¿Por qué todos avanzan y yo sigo FRACASANDO?",
+     "¿Cómo puedo perdonar a alguien que me destruyó por dentro?"
     ]
    },
    {
-    "plantilla": "N alimentos o hábitos de antes que hoy borramos",
+    "plantilla": "[N] [cosas/hábitos/pasos] + tema de fe o emoción + promesa de claridad",
     "ejemplos": [
-     "15 Hábitos de Cocina de tu Abuela que Venían de los Aztecas",
-     "14 Alimentos que Daban Energía a los Aztecas Sin Tomar Café",
-     "16 Desayunos Aztecas que Borraron los Españoles"
+     "5 Cosas que Jesús Dijo Sobre el Afán y la Preocupación",
+     "6 HÁBITOS QUE diferencian Cristiano tibio vs. Cristiano verdadero",
+     "La Biblia y las adicciones: 8 pasos para ser libre hoy"
     ]
    },
    {
-    "plantilla": "Todo sobre X explicado en N minutos (guía completa)",
+    "plantilla": "¿Pregunta de duda común de salud? (título repetido en varios cortes)",
     "ejemplos": [
-     "Cada vitamina del complejo B, explicada",
-     "Toda Tu Microbiota Explicada en 15 Minutos (Y CÓMO REPARARLA)",
-     "Los 22 Aminoácidos Explicados en 20 Minutos"
-    ]
-   },
-   {
-    "plantilla": "Pregunta filosófica corta en mayúsculas sobre vivir mejor",
-    "ejemplos": [
-     "¿SE PUEDE TENER PAZ PERMANENTE?",
-     "EL AMOR PROPIO COMO MOTOR",
-     "LA MUERTE DE TU ANTIGUA VIDA"
+     "¿Cuánta proteína debo comer?",
+     "¿Tienes el cortisol alto?",
+     "¿Hace mal comer gluten?"
     ]
    }
   ],
-  "formato_y_cadencia": "Dos modelos. (a) Cuerpo Sabio: 1,3 videos por semana, videos largos de unos 15 minutos y la mediana de vistas más alta del grupo (37 mil), con solo 31 mil suscriptores: el canal que más rinde por video. Publica mié a sáb entre 12:00 y 19:00. (b) Edad de Oro Saludable y Salud Mayor: volumen alto (5 a 7 videos por semana), largos de 30 minutos, publicados de madrugada (04:00 a 07:00), con mucho SEO y título repetido. Edad de Oro tiene 21 mil de mediana, Salud Mayor 4 mil. Kika Silva es el único con 63 % de shorts y le va peor (mediana de 1.300 vistas con 6.880 suscriptores), y Central Aztecas funciona con series de títulos clonados (80 % con número). Lectura: lo que mueve vistas son los largos con lista numerada y promesa concreta, no los shorts ni el volumen por sí solo. El engagement es parecido en todos (1 a 3 %), así que lo decide el título.",
-  "como_venden": "Casi nadie vende de frente. Cuatro de los cinco canales tienen 0 % de videos con oferta. Edad de Oro Saludable cierra con una invitación a su comunidad en el 100 % de sus videos (cierre blando, sin precio). Kika Silva menciona un curso en solo el 3 % de sus videos, así que su audiencia es de contenido y la venta es casi inexistente. Nadie usa plataformas de pago visibles ni ofertas con urgencia. Aprendizaje para Germancho: el cierre que repite y funciona es el de comunidad (invitar a quedarse y comentar), que encaja con el Reto de hoy. Primero se construye hábito y conversación, y la oferta va después y en voz baja.",
-  "hueco": "Nadie conecta el cuerpo con la vida diaria y con quien la vive. Cuerpo Sabio explica el sistema; Salud Mayor y Edad de Oro dan listas de alimentos para mayores de 60; Central Aztecas es nostalgia cultural. Ninguno ofrece una acción pequeña y concreta de menos de 5 minutos, ni mezcla cuerpo, mente y trabajo como un solo sistema (el estrés y el sueño ligados a la rutina, la silla y el dinero). Tampoco hay una voz cercana y con humor: todos suenan a ficha técnica o a promesa milagrosa («secreto de los 100 años», «sorprendente verdad»). Y casi nadie habla a adultos de 30 a 50 años, que no son el público de los que dicen «después de los 60». El hueco es salud integral para el adulto activo, dicha como un amigo barista, con reto del día.",
+  "formato_y_cadencia": "Hay dos modelos. El largo y calmado (Refugio Zen: 1 video por semana, casi 20 min, mediana de 5.000 vistas con solo 14.700 suscriptores) y el volumen alto (La Palabra Desenredada: 7,5 por semana, 24 min). Los canales pequeños con Shorts (DoctorChef y Conversando con Jesús, 40% de Shorts) publican 2,5 a 3,7 veces por semana. Refugio Zen y Conversando con Jesús tienen el mejor engagement (5 a 6%). Conversando con Jesús, con solo 1.000 suscriptores, logra una mediana de 4.800 vistas: la pregunta emocional rinde más que el tamaño del canal. Publican por la tarde-noche (17 a 20 h) o muy temprano (4 a 8 h). Repetir el mismo título en varias piezas es práctica común.",
+  "como_venden": "Casi nadie vende de frente. Solo Refugio Zen (23% de videos con oferta: comunidad y curso) y DoctorChef (3%, curso) llevan a algo propio. Los otros tres no tienen oferta alguna. El cierre habitual es emocional o espiritual (meditar, orar, soltar), no una venta. Para nosotros esto encaja: Germancho invita, no empuja.",
+  "hueco": "Nadie baja la salud emocional a una acción diminuta y medible. Refugio Zen da meditaciones largas y pasivas, DoctorChef da datos y los otros dan fe o respuestas. Nadie ofrece un paso de menos de 5 minutos que el espectador pueda hacer ya, ni cuaderno o café como ritual, ni la mirada de cuerpo, mente y trabajo como un solo sistema. Tampoco hay voz de barista cercana que mezcle humor suave con el tema. Ese es el espacio de Germancho: el Reto de hoy como cierre fijo.",
   "plan_replica": [
-   "Días 1 a 3: graba 2 videos largos de 12 a 15 minutos con la fórmula de síntomas o señales (ej. cuerpo, mente, trabajo) y un reto de 5 minutos al final. Publícalos mié y sáb entre 12:00 y 19:00.",
-   "Días 4 a 7: haz una serie de 3 títulos con la plantilla lista numerada más promesa concreta (7 a 12 ítems), siempre con número en el título, porque 67 a 82 % de los que funcionan lo traen.",
-   "Semana 2: lanza el hueco como marca de serie, «Reto de hoy de Germancho», un video corto de 60 segundos por día con una acción de menos de 5 minutos, y úsalo para ver qué tema pide la gente en comentarios.",
-   "Todos los videos: cierra siempre con una invitación a comentar cómo te fue con el reto y a sumarse a la comunidad (modelo Edad de Oro). Sin oferta ni precio aún.",
-   "Final de la semana 2: revisa la mediana de vistas por título y por formato; duplica la plantilla que más rinda y baja el resto. Pon el nombre de Germancho en la miniatura para que se reconozca la voz."
+   "Días 1 a 3: grabar 4 Shorts con la plantilla de pregunta en primera persona (¿Cómo puedo X cuando Y?), cada uno cerrado con un Reto de hoy de menos de 5 minutos.",
+   "Días 4 a 7: publicar 1 video largo de 10 a 12 min con la plantilla Háblale así a tu [cuerpo/mente], con humor suave y ritual de taza de café; sin tono de sanación milagrosa y con una frase que invite a consultar a un profesional.",
+   "Semana 2: fijar cadencia de 3 Shorts y 1 largo por semana, publicando a las 18:00 o 19:00 (la franja que más repiten los canales con mejor engagement).",
+   "Semana 2: lanzar una mini serie de 3 Shorts con título con número y tema de estrés o ansiedad, para probar si el gancho numérico mejora las vistas frente a las preguntas.",
+   "Todos los días: pedir en el cierre que comenten cómo les fue con el Reto de hoy y responder esos comentarios en 24 horas; revisar al final de la semana cuál formato tuvo más comentarios y duplicarlo."
   ],
   "titulos_propuestos": [
    {
-    "titulo": "Si te cuesta levantarte por la mañana, tu cuerpo te está pidiendo esto",
-    "formato": "largo"
-   },
-   {
-    "titulo": "7 señales de que tu trabajo te está pasando factura en el cuerpo",
-    "formato": "largo"
-   },
-   {
-    "titulo": "¿Sin energía a las 4 de la tarde? 5 hábitos de tu taza de café que ayudan",
-    "formato": "largo"
-   },
-   {
-    "titulo": "Tu cuerpo, tu mente y tu trabajo explicados en 12 minutos",
-    "formato": "largo"
-   },
-   {
-    "titulo": "Reto de hoy: 3 minutos para soltar la espalda sin salir de tu escritorio",
+    "titulo": "¿Cómo calmo mi mente cuando el trabajo no me deja respirar?",
     "formato": "short"
    },
    {
-    "titulo": "¿Puedes vivir sin estrés permanente? Lo que de verdad cambia tu día",
+    "titulo": "Háblale así a tu cansancio | Una taza, 5 minutos y un cuaderno",
+    "formato": "largo"
+   },
+   {
+    "titulo": "3 señales de que tu cuerpo te pide pausa (y un Reto de hoy)",
     "formato": "short"
+   },
+   {
+    "titulo": "¿Por qué todos descansan y yo sigo agotado?",
+    "formato": "short"
+   },
+   {
+    "titulo": "Háblale así a tu estrés | Reto de hoy para soltar la tensión del día",
+    "formato": "largo"
+   },
+   {
+    "titulo": "5 hábitos pequeños que cambian cómo te sientes esta semana",
+    "formato": "largo"
    }
   ]
  }
