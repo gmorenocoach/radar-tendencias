@@ -1,0 +1,116 @@
+{
+ "titulo": "Un emperador levantó el Taj Mahal y acabó mirándolo preso",
+ "titulos_alternativos": [
+  "Un emperador construyó la tumba del amor y la vio desde una celda",
+  "Shah Jahan levantó un palacio de mármol a su esposa y acabó encerrado"
+ ],
+ "descripcion": "En 1631 murió Mumtaz Mahal y su esposo, el emperador Shah Jahan, quedó devastado. Levantó en Agra el monumento más famoso del amor, pero su final fue otro muy distinto al que imaginó. Fuente: Wikipedia (Taj Mahal, Shah Jahan, Mumtaz Mahal) y Encyclopaedia Britannica (Shah Jahan). ¿Amor de grandes monumentos o amor de presencia diaria? Te leo.",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#amor",
+  "#amorpropio",
+  "#vinculos",
+  "#tajmahal"
+ ],
+ "miniatura": {
+  "texto": "AMOR EN MÁRMOL",
+  "emocion": "tristeza",
+  "objeto": "Taj Mahal visto desde una ventana con barrotes",
+  "pose": "triste_acostado"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Construyó la tumba más famosa del amor y terminó mirándola desde una celda.",
+   "emocion": "intriga",
+   "objeto": "taza de café humeante",
+   "pose": "letrero",
+   "prompt_visual": "Germancho holding a sign next to a steaming coffee cup, behind him a white marble mausoleum in soft morning light",
+   "broll": "Taj Mahal sunrise",
+   "segundos": 4,
+   "broll_fuente": "ddce5addf756d353.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que en 1631, en la India, murió la emperatriz Mumtaz Mahal mientras daba a luz a su hijo número catorce. Su esposo, el emperador Shah Jahan, quedó devastado.",
+   "emocion": "tristeza",
+   "objeto": "cuaderno abierto",
+   "pose": "triste_acostado",
+   "prompt_visual": "Germancho lying down sadly beside an open notebook, warm candlelight, hint of Mughal court architecture in the background",
+   "broll": "old Mughal painting",
+   "segundos": 11,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Hacia 1632 empezó en Agra un mausoleo de mármol blanco. Era su manera de decirle que no la olvidaba. Ese monumento es el Taj Mahal.",
+   "emocion": "ternura",
+   "objeto": "escalera",
+   "pose": "escalera",
+   "prompt_visual": "Germancho climbing a small ladder toward a glowing white marble dome, golden hour, gentle illustrated style",
+   "broll": "Taj Mahal marble dome",
+   "segundos": 13,
+   "broll_fuente": "a8a316d74e3465cc.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Y la obra se alargó. Cerca de veinte años de piedra, de planos, de esfuerzo. Veinte años cuidando un recuerdo con una dedicación enorme.",
+   "emocion": "ironía suave",
+   "objeto": "reloj de arena",
+   "pose": "aburrido",
+   "prompt_visual": "Germancho looking bored next to an hourglass, tiny workers building marble walls in the background, patient mood",
+   "broll": "Taj Mahal construction history",
+   "segundos": 11,
+   "broll_fuente": "a8a316d74e3465cc.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Pero en 1658 su propio hijo, Aurangzeb, lo derrocó por el trono. Shah Jahan acabó confinado en el Fuerte de Agra hasta su muerte, en 1666.",
+   "emocion": "sorpresa",
+   "objeto": "ventana con barrotes",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "Germancho jumping in surprise in front of a barred window of an old red sandstone fort, dramatic soft light",
+   "broll": "Agra Fort window",
+   "segundos": 10,
+   "broll_fuente": "1e243244939b0c85.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Cuentan que desde allí veía el Taj Mahal por la ventana. El hombre que levantó el mayor monumento al amor lo miraba a lo lejos, encerrado por su propio hijo.",
+   "emocion": "melancolía",
+   "objeto": "ventana con vista lejana",
+   "pose": "senalando",
+   "prompt_visual": "Germancho pointing toward a distant white mausoleum seen through a stone window, hazy golden sky, melancholic tone",
+   "broll": "Taj Mahal distance river",
+   "segundos": 9,
+   "broll_fuente": "a8a316d74e3465cc.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "A veces creemos que el amor se demuestra con algo enorme. Pero un monumento no reemplaza el cuidado de los vínculos que todavía están vivos. ¿Amor de grandes monumentos o amor de presencia diaria? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "cercanía",
+   "objeto": "dos tazas de café",
+   "pose": "butaco_tazas",
+   "prompt_visual": "Germancho sitting on a stool with two coffee cups on a small table, warm cozy cafe light, inviting expression",
+   "broll": "two coffee cups table",
+   "segundos": 12,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  }
+ ],
+ "pregunta_final": "¿Amor de grandes monumentos o amor de presencia diaria?",
+ "reto_de_hoy": "¿Amor de grandes monumentos o amor de presencia diaria?",
+ "ganchos_alternativos": [
+  "Le dedicó a su esposa el edificio más bello del mundo y acabó viéndolo a través de unos barrotes.",
+  "Veinte años construyendo una obra de amor, y su propio hijo lo dejó mirándola desde una ventana.",
+  "Hizo el monumento más famoso del amor y nadie lo dejó pasear por él."
+ ],
+ "palabras": 188,
+ "canal": "equilibrate",
+ "color": "#E8705F",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "amor-unemperadorlevantoeltajm",
+ "visual": "broll"
+}

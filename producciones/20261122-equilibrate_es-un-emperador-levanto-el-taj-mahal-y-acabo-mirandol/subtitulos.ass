@@ -1,0 +1,75 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.10,Sub,,0,0,0,,{\k60}CONSTRUYÓ {\k12}LA {\k38}TUMBA
+Dialogue: 0,0:00:01.10,0:00:02.11,Sub,,0,0,0,,{\k31}MÁS {\k52}FAMOSA {\k17}DEL
+Dialogue: 0,0:00:02.11,0:00:03.25,Sub,,0,0,0,,{\k48}AMOR {\k15}Y {\k51}TERMINÓ
+Dialogue: 0,0:00:03.25,0:00:04.41,Sub,,0,0,0,,{\k60}MIRÁNDOLA {\k31}DESDE {\k24}UNA
+Dialogue: 0,0:00:04.41,0:00:06.07,Sub,,0,0,0,,{\k101}CELDA. {\k49}CUENTAN {\k16}QUE
+Dialogue: 0,0:00:06.07,0:00:08.00,Sub,,0,0,0,,{\k19}EN {\k160}1631, {\k14}EN
+Dialogue: 0,0:00:08.00,0:00:08.86,Sub,,0,0,0,,{\k12}LA {\k43}INDIA, {\k31}MURIÓ
+Dialogue: 0,0:00:08.86,0:00:10.08,Sub,,0,0,0,,{\k8}LA {\k63}EMPERATRIZ {\k51}MUMTAZ
+Dialogue: 0,0:00:10.08,0:00:11.44,Sub,,0,0,0,,{\k57}MAHAL {\k46}MIENTRAS {\k32}DABA
+Dialogue: 0,0:00:11.44,0:00:11.98,Sub,,0,0,0,,{\k7}A {\k34}LUZ {\k14}A
+Dialogue: 0,0:00:11.98,0:00:12.96,Sub,,0,0,0,,{\k15}SU {\k42}HIJO {\k41}NÚMERO
+Dialogue: 0,0:00:12.96,0:00:14.92,Sub,,0,0,0,,{\k114}CATORCE. {\k18}SU {\k64}ESPOSO,
+Dialogue: 0,0:00:14.92,0:00:16.13,Sub,,0,0,0,,{\k16}EL {\k65}EMPERADOR {\k39}SHAH
+Dialogue: 0,0:00:16.13,0:00:18.61,Sub,,0,0,0,,{\k64}JAHAN, {\k43}QUEDÓ {\k142}DEVASTADO.
+Dialogue: 0,0:00:18.61,0:00:21.30,Sub,,0,0,0,,{\k39}HACIA {\k166}1632 {\k64}EMPEZÓ
+Dialogue: 0,0:00:21.30,0:00:21.87,Sub,,0,0,0,,{\k13}EN {\k30}AGRA {\k14}UN
+Dialogue: 0,0:00:21.87,0:00:23.13,Sub,,0,0,0,,{\k71}MAUSOLEO {\k14}DE {\k41}MÁRMOL
+Dialogue: 0,0:00:23.13,0:00:24.29,Sub,,0,0,0,,{\k76}BLANCO. {\k25}ERA {\k15}SU
+Dialogue: 0,0:00:24.29,0:00:25.24,Sub,,0,0,0,,{\k34}MANERA {\k12}DE {\k50}DECIRLE
+Dialogue: 0,0:00:25.24,0:00:25.77,Sub,,0,0,0,,{\k22}QUE {\k23}NO {\k8}LA
+Dialogue: 0,0:00:25.77,0:00:27.83,Sub,,0,0,0,,{\k100}OLVIDABA. {\k37}ESE {\k69}MONUMENTO
+Dialogue: 0,0:00:27.83,0:00:28.56,Sub,,0,0,0,,{\k24}ES {\k20}EL {\k29}TAJ
+Dialogue: 0,0:00:28.56,0:00:29.70,Sub,,0,0,0,,{\k84}MAHAL. {\k16}Y {\k14}LA
+Dialogue: 0,0:00:29.70,0:00:31.10,Sub,,0,0,0,,{\k36}OBRA {\k17}SE {\k87}ALARGÓ.
+Dialogue: 0,0:00:31.10,0:00:32.02,Sub,,0,0,0,,{\k41}CERCA {\k12}DE {\k39}VEINTE
+Dialogue: 0,0:00:32.02,0:00:33.11,Sub,,0,0,0,,{\k31}AÑOS {\k10}DE {\k67}PIEDRA,
+Dialogue: 0,0:00:33.11,0:00:34.23,Sub,,0,0,0,,{\k14}DE {\k83}PLANOS, {\k15}DE
+Dialogue: 0,0:00:34.23,0:00:36.00,Sub,,0,0,0,,{\k101}ESFUERZO. {\k42}VEINTE {\k35}AÑOS
+Dialogue: 0,0:00:36.00,0:00:37.15,Sub,,0,0,0,,{\k49}CUIDANDO {\k16}UN {\k50}RECUERDO
+Dialogue: 0,0:00:37.15,0:00:38.27,Sub,,0,0,0,,{\k17}CON {\k19}UNA {\k76}DEDICACIÓN
+Dialogue: 0,0:00:38.27,0:00:39.65,Sub,,0,0,0,,{\k101}ENORME. {\k23}PERO {\k14}EN
+Dialogue: 0,0:00:39.65,0:00:42.11,Sub,,0,0,0,,{\k186}1658 {\k19}SU {\k42}PROPIO
+Dialogue: 0,0:00:42.11,0:00:43.61,Sub,,0,0,0,,{\k46}HIJO, {\k88}AURANGZEB, {\k15}LO
+Dialogue: 0,0:00:43.61,0:00:44.47,Sub,,0,0,0,,{\k55}DERROCÓ {\k20}POR {\k12}EL
+Dialogue: 0,0:00:44.47,0:00:46.53,Sub,,0,0,0,,{\k110}TRONO. {\k42}SHAH {\k55}JAHAN
+Dialogue: 0,0:00:46.53,0:00:47.61,Sub,,0,0,0,,{\k39}ACABÓ {\k58}CONFINADO {\k10}EN
+Dialogue: 0,0:00:47.61,0:00:48.32,Sub,,0,0,0,,{\k16}EL {\k42}FUERTE {\k13}DE
+Dialogue: 0,0:00:48.32,0:00:49.09,Sub,,0,0,0,,{\k33}AGRA {\k29}HASTA {\k15}SU
+Dialogue: 0,0:00:49.09,0:00:52.36,Sub,,0,0,0,,{\k65}MUERTE, {\k28}EN {\k234}1666.
+Dialogue: 0,0:00:52.36,0:00:53.29,Sub,,0,0,0,,{\k49}CUENTAN {\k13}QUE {\k31}DESDE
+Dialogue: 0,0:00:53.29,0:00:54.30,Sub,,0,0,0,,{\k43}ALLÍ {\k39}VEÍA {\k19}EL
+Dialogue: 0,0:00:54.30,0:00:55.17,Sub,,0,0,0,,{\k31}TAJ {\k41}MAHAL {\k15}POR
+Dialogue: 0,0:00:55.17,0:00:56.80,Sub,,0,0,0,,{\k10}LA {\k129}VENTANA. {\k23}EL
+Dialogue: 0,0:00:56.80,0:00:57.83,Sub,,0,0,0,,{\k35}HOMBRE {\k12}QUE {\k57}LEVANTÓ
+Dialogue: 0,0:00:57.83,0:00:59.07,Sub,,0,0,0,,{\k13}EL {\k48}MAYOR {\k64}MONUMENTO
+Dialogue: 0,0:00:59.07,0:00:59.88,Sub,,0,0,0,,{\k13}AL {\k51}AMOR {\k17}LO
+Dialogue: 0,0:00:59.88,0:01:00.53,Sub,,0,0,0,,{\k43}MIRABA {\k7}A {\k15}LO
+Dialogue: 0,0:01:00.53,0:01:02.32,Sub,,0,0,0,,{\k73}LEJOS, {\k82}ENCERRADO {\k23}POR
+Dialogue: 0,0:01:02.32,0:01:04.02,Sub,,0,0,0,,{\k20}SU {\k42}PROPIO {\k108}HIJO.
+Dialogue: 0,0:01:04.02,0:01:05.00,Sub,,0,0,0,,{\k13}A {\k33}VECES {\k53}CREEMOS
+Dialogue: 0,0:01:05.00,0:01:05.64,Sub,,0,0,0,,{\k14}QUE {\k14}EL {\k36}AMOR
+Dialogue: 0,0:01:05.64,0:01:06.62,Sub,,0,0,0,,{\k14}SE {\k57}DEMUESTRA {\k27}CON
+Dialogue: 0,0:01:06.62,0:01:08.16,Sub,,0,0,0,,{\k30}ALGO {\k99}ENORME. {\k26}PERO
+Dialogue: 0,0:01:08.16,0:01:09.33,Sub,,0,0,0,,{\k15}UN {\k73}MONUMENTO {\k29}NO
+Dialogue: 0,0:01:09.33,0:01:10.64,Sub,,0,0,0,,{\k67}REEMPLAZA {\k14}EL {\k49}CUIDADO
+Dialogue: 0,0:01:10.64,0:01:11.48,Sub,,0,0,0,,{\k10}DE {\k21}LOS {\k53}VÍNCULOS
+Dialogue: 0,0:01:11.48,0:01:12.67,Sub,,0,0,0,,{\k19}QUE {\k64}TODAVÍA {\k36}ESTÁN
+Dialogue: 0,0:01:12.67,0:01:14.18,Sub,,0,0,0,,{\k69}VIVOS. {\k69}¿AMOR {\k14}DE
+Dialogue: 0,0:01:14.18,0:01:15.59,Sub,,0,0,0,,{\k44}GRANDES {\k81}MONUMENTOS {\k16}O
+Dialogue: 0,0:01:15.59,0:01:16.63,Sub,,0,0,0,,{\k28}AMOR {\k13}DE {\k63}PRESENCIA
+Dialogue: 0,0:01:16.63,0:01:18.24,Sub,,0,0,0,,{\k80}DIARIA? {\k19}TE {\k63}LEO.
+Dialogue: 0,0:01:18.24,0:01:20.27,Sub,,0,0,0,,{\k108}SUSCRÍBETE: {\k65}MAÑANA {\k30}HAY
+Dialogue: 0,0:01:20.27,0:01:21.41,Sub,,0,0,0,,{\k22}OTRA {\k92}HISTORIA.

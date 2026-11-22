@@ -363,7 +363,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261122-equilibrate_es-un-emperador-levanto-el-taj-mahal-y-acabo-mirandol",
+   "resultado": "ok 235s",
+   "producido_en": "2026-11-22T17:29:18"
   },
   {
    "id": "equilibrate_es-20261124-V",

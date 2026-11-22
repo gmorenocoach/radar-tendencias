@@ -1,0 +1,127 @@
+{
+ "titulo": "Dejó un malvavisco frente a niños… y la regla tenía trampa",
+ "titulos_alternativos": [
+  "Puso un dulce frente a niños de 4 años… y esperó quince minutos",
+  "Un psicólogo dejó un malvavisco a un niño… y el destino no era lo que creían"
+ ],
+ "descripcion": "Pon un malvavisco frente a un niño de cuatro años y dile que espere quince minutos. Así empezó un experimento famoso en Stanford que durante décadas se contó como prueba de que la fuerza de voluntad marca el destino. ¿Seguro que fue tan simple?\nFuentes: Mischel, Ebbesen y Raskoff Zeiss (1972), Journal of Personality and Social Psychology; Watts, Duncan y Quan (2018), Psychological Science.\n¿Esperarías por los dos malvaviscos (A) o te comerías uno ya (B)?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#dinero",
+  "#ahorro",
+  "#psicologia",
+  "#habitos"
+ ],
+ "miniatura": {
+  "texto": "EL MALVAVISCO MENTÍA",
+  "emocion": "sorpresa",
+  "objeto": "un malvavisco sobre un platito frente a una taza de café",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Pon un malvavisco frente a un niño de cuatro años. Ahora, espera quince minutos.",
+   "emocion": "picardía",
+   "objeto": "malvavisco sobre un platito",
+   "pose": "senalando",
+   "prompt_visual": "close-up of a single marshmallow on a small plate on a table, warm vintage light",
+   "broll": "child marshmallow test",
+   "segundos": 4,
+   "broll_fuente": "5ad901a121578586.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que a finales de los años sesenta, en la Universidad de Stanford, un psicólogo llamado Walter Mischel sentaba a niños frente a un dulce, casi siempre un malvavisco.",
+   "emocion": "curiosidad",
+   "objeto": "mesa pequeña con un malvavisco",
+   "pose": "butaco_tazas",
+   "prompt_visual": "1960s university classroom, small table with a marshmallow, child seated, nostalgic film look",
+   "broll": "kids classroom table",
+   "segundos": 10,
+   "broll_fuente": "53205d05b35444c7.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "La regla era simple: si esperas unos quince minutos sin comértelo, te doy dos. Si no aguantas, te quedas con uno.",
+   "emocion": "complicidad",
+   "objeto": "dos malvaviscos y uno solo",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "adult hand placing one marshmallow in front of a small child, two more marshmallows in the background",
+   "broll": "hand reaching candy",
+   "segundos": 9,
+   "broll_fuente": "ada976a1819b3aa5.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Algunos se lo comían apenas se cerraba la puerta. Otros se tapaban los ojos, cantaban o se daban la vuelta, como quien huye de un café recién servido.",
+   "emocion": "ternura",
+   "objeto": "niño tapándose los ojos",
+   "pose": "agachado",
+   "prompt_visual": "small child covering eyes and turning away from a marshmallow on a table, playful mood",
+   "broll": "child covering eyes",
+   "segundos": 10,
+   "broll_fuente": "c085aff19dc236c9.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Años después, los estudios de seguimiento sugirieron que quienes esperaron más tuvieron mejores resultados en ciertas medidas.",
+   "emocion": "expectativa",
+   "objeto": "cuaderno con una gráfica ascendente",
+   "pose": "escalera",
+   "prompt_visual": "notebook with a rising line chart next to a coffee cup, soft morning light",
+   "broll": "psychology research notes",
+   "segundos": 8,
+   "broll_fuente": "40840ead3457d07b.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Y durante décadas se contó como prueba de que la fuerza de voluntad predice tu destino. Una historia redonda. Demasiado redonda.",
+   "emocion": "ironía",
+   "objeto": "taza humeante",
+   "pose": "aburrido",
+   "prompt_visual": "steaming coffee cup beside a perfectly round marshmallow, subtle ironic mood",
+   "broll": "marshmallow close up",
+   "segundos": 8,
+   "broll_fuente": "aea035f633d233b1.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "Hasta que en 2018 repitieron el experimento con más niños y más diversos. La relación resultó bastante menor, y casi se desinflaba al tener en cuenta el entorno económico y familiar. Quizá no era solo aguantar: era cuánto confiabas en que mañana habría más.",
+   "emocion": "sorpresa",
+   "objeto": "malvavisco desinflándose junto a una taza",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "marshmallow deflating slowly on a table next to a coffee cup, soft light, reveal moment",
+   "broll": "family kitchen table",
+   "segundos": 11,
+   "broll_fuente": "5ad901a121578586.mp4"
+  },
+  {
+   "n": 8,
+   "texto": "Mientras lo piensas, sírvete un café. ¿Esperarías por los dos malvaviscos, A, o te comerías uno ya, B? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "calidez",
+   "objeto": "taza de café y un malvavisco",
+   "pose": "saludando",
+   "prompt_visual": "warm cafe table with a coffee cup and a marshmallow, friendly inviting mood",
+   "broll": "coffee cup steam",
+   "segundos": 8,
+   "broll_fuente": "9da4e8b1842b64eb.mp4"
+  }
+ ],
+ "pregunta_final": "¿Esperarías por los dos malvaviscos (A) o te comerías uno ya (B)?",
+ "reto_de_hoy": "¿Esperarías por los dos malvaviscos (A) o te comerías uno ya (B)?",
+ "ganchos_alternativos": [
+  "Le dijeron a un niño de cuatro años: no te comas el malvavisco. Y se fueron quince minutos.",
+  "Durante décadas creímos que un malvavisco podía predecir tu futuro. Hoy sabemos que la regla tenía trampa.",
+  "Un dulce, un niño y quince minutos de silencio. Así nació una de las pruebas más famosas de la psicología."
+ ],
+ "palabras": 199,
+ "canal": "barista",
+ "color": "#6F4E37",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "dinero-dejounmalvaviscofrentean",
+ "visual": "broll"
+}

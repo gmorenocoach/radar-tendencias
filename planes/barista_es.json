@@ -416,7 +416,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261122-barista_es-dejo-un-malvavisco-frente-a-ninos-y-la-regla-tenia",
+   "resultado": "ok 290s",
+   "producido_en": "2026-11-22T17:34:08"
   },
   {
    "id": "barista_es-20261125-S",

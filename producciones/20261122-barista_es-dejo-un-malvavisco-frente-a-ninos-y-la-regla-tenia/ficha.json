@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Dejó un malvavisco frente a niños… y la regla tenía trampa",
+  "historia_id": "dinero-dejounmalvaviscofrentean",
+  "fuente_historia": "Mischel, Ebbesen y Raskoff Zeiss (1972), Journal of Personality and Social Psychology; Watts, Duncan y Quan (2018), Psychological Science"
+ },
+ "historia": {
+  "titulo": "Dejó un malvavisco frente a niños… y la regla tenía trampa",
+  "hecho": "A finales de los años 60 y comienzos de los 70, el psicólogo Walter Mischel, en la Universidad de Stanford, sienta a niños de unos 4 años frente a un dulce, a menudo un malvavisco. Les dice que si esperan unos 15 minutos sin comérselo, recibirán dos. Algunos se lo comen enseguida; otros se tapan los ojos, cantan o se dan la vuelta. Estudios de seguimiento sugirieron que quienes esperaron más tuvieron después mejores resultados en ciertas medidas. Durante décadas se contó como prueba de que la fuerza de voluntad predice el destino. En 2018, una réplica con una muestra más grande y diversa halló una relación bastante menor, que se reducía mucho al tener en cuenta el entorno familiar y económico de los niños.",
+  "giro": "La prueba famosa de la paciencia dependía en buena parte del entorno del niño, no solo de su fuerza de voluntad.",
+  "fuente": "Mischel, Ebbesen y Raskoff Zeiss (1972), Journal of Personality and Social Psychology; Watts, Duncan y Quan (2018), Psychological Science",
+  "certeza": "alta",
+  "conexion_eje": "Ahorrar no es solo cuestión de aguantar: también cuenta qué tan seguro sientes que mañana habrá más.",
+  "gancho": "Pon un malvavisco frente a un niño de cuatro años. Ahora, espera quince minutos.",
+  "pregunta_binaria": "¿Esperarías por los dos malvaviscos (A) o te comerías uno ya (B)?",
+  "broll": [
+   "child marshmallow test",
+   "kids classroom table",
+   "hand reaching candy"
+  ],
+  "id": "dinero-dejounmalvaviscofrentean",
+  "eje": "dinero",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "A finales de los años 60 y comienzos de los 70, el psicólogo Walter Mischel, en la Universidad de Stanford, sienta a niños de unos 4 años frente a un dulce, a menudo un malvavisco. Les dice que si esperan unos 15 minutos sin comérselo, recibirán dos. Algunos se lo comen enseguida; otros se tapan los ojos, cantan o se dan la vuelta. Estudios de seguimiento sugirieron que quienes esperaron más tuvieron después mejores resultados en ciertas medidas. Durante décadas se contó como prueba de que la fuerza de voluntad predice el destino. En 2018, una réplica con una muestra más grande y diversa halló una relación bastante menor, que se reducía mucho al tener en cuenta el entorno familiar y económico de los niños.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Pon un malvavisco frente a un niño de cuatro años. Ahora, espera quince minutos.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

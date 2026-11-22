@@ -1,0 +1,79 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00374E6F,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.24,Sub,,0,0,0,,{\k36}PON {\k15}UN {\k73}MALVAVISCO
+Dialogue: 0,0:00:01.24,0:00:01.85,Sub,,0,0,0,,{\k40}FRENTE {\k9}A {\k12}UN
+Dialogue: 0,0:00:01.85,0:00:02.79,Sub,,0,0,0,,{\k36}NIÑO {\k14}DE {\k44}CUATRO
+Dialogue: 0,0:00:02.79,0:00:04.89,Sub,,0,0,0,,{\k103}AÑOS. {\k49}AHORA, {\k58}ESPERA
+Dialogue: 0,0:00:04.89,0:00:07.07,Sub,,0,0,0,,{\k42}QUINCE {\k120}MINUTOS. {\k57}CUENTAN
+Dialogue: 0,0:00:07.07,0:00:07.73,Sub,,0,0,0,,{\k17}QUE {\k7}A {\k42}FINALES
+Dialogue: 0,0:00:07.73,0:00:08.24,Sub,,0,0,0,,{\k8}DE {\k16}LOS {\k27}AÑOS
+Dialogue: 0,0:00:08.24,0:00:09.14,Sub,,0,0,0,,{\k62}SESENTA, {\k17}EN {\k10}LA
+Dialogue: 0,0:00:09.14,0:00:10.63,Sub,,0,0,0,,{\k65}UNIVERSIDAD {\k12}DE {\k73}STANFORD,
+Dialogue: 0,0:00:10.63,0:00:11.97,Sub,,0,0,0,,{\k16}UN {\k63}PSICÓLOGO {\k55}LLAMADO
+Dialogue: 0,0:00:11.97,0:00:13.51,Sub,,0,0,0,,{\k48}WALTER {\k49}MISCHEL {\k58}SENTABA
+Dialogue: 0,0:00:13.51,0:00:14.56,Sub,,0,0,0,,{\k9}A {\k46}NIÑOS {\k49}FRENTE
+Dialogue: 0,0:00:14.56,0:00:15.64,Sub,,0,0,0,,{\k9}A {\k15}UN {\k84}DULCE,
+Dialogue: 0,0:00:15.64,0:00:16.80,Sub,,0,0,0,,{\k39}CASI {\k59}SIEMPRE {\k17}UN
+Dialogue: 0,0:00:16.80,0:00:18.90,Sub,,0,0,0,,{\k139}MALVAVISCO. {\k22}LA {\k49}REGLA
+Dialogue: 0,0:00:18.90,0:00:20.30,Sub,,0,0,0,,{\k26}ERA {\k93}SIMPLE: {\k21}SI
+Dialogue: 0,0:00:20.30,0:00:21.57,Sub,,0,0,0,,{\k66}ESPERAS {\k26}UNOS {\k36}QUINCE
+Dialogue: 0,0:00:21.57,0:00:23.08,Sub,,0,0,0,,{\k53}MINUTOS {\k30}SIN {\k67}COMÉRTELO,
+Dialogue: 0,0:00:23.08,0:00:24.38,Sub,,0,0,0,,{\k21}TE {\k29}DOY {\k80}DOS.
+Dialogue: 0,0:00:24.38,0:00:25.47,Sub,,0,0,0,,{\k21}SI {\k15}NO {\k73}AGUANTAS,
+Dialogue: 0,0:00:25.47,0:00:26.29,Sub,,0,0,0,,{\k20}TE {\k39}QUEDAS {\k22}CON
+Dialogue: 0,0:00:26.29,0:00:27.83,Sub,,0,0,0,,{\k84}UNO. {\k57}ALGUNOS {\k14}SE
+Dialogue: 0,0:00:27.83,0:00:28.97,Sub,,0,0,0,,{\k12}LO {\k59}COMÍAN {\k43}APENAS
+Dialogue: 0,0:00:28.97,0:00:29.65,Sub,,0,0,0,,{\k13}SE {\k45}CERRABA {\k10}LA
+Dialogue: 0,0:00:29.65,0:00:31.18,Sub,,0,0,0,,{\k87}PUERTA. {\k50}OTROS {\k16}SE
+Dialogue: 0,0:00:31.18,0:00:32.55,Sub,,0,0,0,,{\k44}TAPABAN {\k24}LOS {\k68}OJOS,
+Dialogue: 0,0:00:32.55,0:00:33.89,Sub,,0,0,0,,{\k92}CANTABAN {\k27}O {\k15}SE
+Dialogue: 0,0:00:33.89,0:00:35.04,Sub,,0,0,0,,{\k27}DABAN {\k12}LA {\k77}VUELTA,
+Dialogue: 0,0:00:35.04,0:00:36.06,Sub,,0,0,0,,{\k28}COMO {\k31}QUIEN {\k43}HUYE
+Dialogue: 0,0:00:36.06,0:00:36.91,Sub,,0,0,0,,{\k20}DE {\k15}UN {\k50}CAFÉ
+Dialogue: 0,0:00:36.91,0:00:39.20,Sub,,0,0,0,,{\k50}RECIÉN {\k138}SERVIDO. {\k41}AÑOS
+Dialogue: 0,0:00:39.20,0:00:40.46,Sub,,0,0,0,,{\k58}DESPUÉS, {\k22}LOS {\k46}ESTUDIOS
+Dialogue: 0,0:00:40.46,0:00:41.83,Sub,,0,0,0,,{\k11}DE {\k63}SEGUIMIENTO {\k64}SUGIRIERON
+Dialogue: 0,0:00:41.83,0:00:42.84,Sub,,0,0,0,,{\k13}QUE {\k30}QUIENES {\k58}ESPERARON
+Dialogue: 0,0:00:42.84,0:00:44.38,Sub,,0,0,0,,{\k45}MÁS {\k49}TUVIERON {\k60}MEJORES
+Dialogue: 0,0:00:44.38,0:00:45.78,Sub,,0,0,0,,{\k72}RESULTADOS {\k13}EN {\k55}CIERTAS
+Dialogue: 0,0:00:45.78,0:00:47.62,Sub,,0,0,0,,{\k116}MEDIDAS. {\k15}Y {\k53}DURANTE
+Dialogue: 0,0:00:47.62,0:00:48.74,Sub,,0,0,0,,{\k53}DÉCADAS {\k16}SE {\k42}CONTÓ
+Dialogue: 0,0:00:48.74,0:00:49.44,Sub,,0,0,0,,{\k26}COMO {\k33}PRUEBA {\k12}DE
+Dialogue: 0,0:00:49.44,0:00:50.14,Sub,,0,0,0,,{\k12}QUE {\k15}LA {\k44}FUERZA
+Dialogue: 0,0:00:50.14,0:00:51.39,Sub,,0,0,0,,{\k9}DE {\k63}VOLUNTAD {\k52}PREDICE
+Dialogue: 0,0:00:51.39,0:00:53.22,Sub,,0,0,0,,{\k14}TU {\k145}DESTINO. {\k24}UNA
+Dialogue: 0,0:00:53.22,0:00:55.26,Sub,,0,0,0,,{\k45}HISTORIA {\k88}REDONDA. {\k71}DEMASIADO
+Dialogue: 0,0:00:55.26,0:00:56.56,Sub,,0,0,0,,{\k79}REDONDA. {\k36}HASTA {\k15}QUE
+Dialogue: 0,0:00:56.56,0:00:58.20,Sub,,0,0,0,,{\k16}EN {\k96}2018 {\k51}REPITIERON
+Dialogue: 0,0:00:58.20,0:00:59.14,Sub,,0,0,0,,{\k10}EL {\k63}EXPERIMENTO {\k21}CON
+Dialogue: 0,0:00:59.14,0:01:00.07,Sub,,0,0,0,,{\k29}MÁS {\k50}NIÑOS {\k14}Y
+Dialogue: 0,0:01:00.07,0:01:01.42,Sub,,0,0,0,,{\k22}MÁS {\k96}DIVERSOS. {\k16}LA
+Dialogue: 0,0:01:01.42,0:01:03.08,Sub,,0,0,0,,{\k48}RELACIÓN {\k57}RESULTÓ {\k61}BASTANTE
+Dialogue: 0,0:01:03.08,0:01:04.19,Sub,,0,0,0,,{\k64}MENOR, {\k16}Y {\k31}CASI
+Dialogue: 0,0:01:04.19,0:01:05.11,Sub,,0,0,0,,{\k13}SE {\k65}DESINFLABA {\k14}AL
+Dialogue: 0,0:01:05.11,0:01:05.84,Sub,,0,0,0,,{\k28}TENER {\k11}EN {\k35}CUENTA
+Dialogue: 0,0:01:05.84,0:01:07.09,Sub,,0,0,0,,{\k13}EL {\k48}ENTORNO {\k65}ECONÓMICO
+Dialogue: 0,0:01:07.09,0:01:08.95,Sub,,0,0,0,,{\k9}Y {\k125}FAMILIAR. {\k51}QUIZÁ
+Dialogue: 0,0:01:08.95,0:01:09.73,Sub,,0,0,0,,{\k21}NO {\k22}ERA {\k35}SOLO
+Dialogue: 0,0:01:09.73,0:01:11.54,Sub,,0,0,0,,{\k95}AGUANTAR: {\k35}ERA {\k51}CUÁNTO
+Dialogue: 0,0:01:11.54,0:01:12.49,Sub,,0,0,0,,{\k63}CONFIABAS {\k13}EN {\k20}QUE
+Dialogue: 0,0:01:12.49,0:01:14.48,Sub,,0,0,0,,{\k63}MAÑANA {\k43}HABRÍA {\k93}MÁS.
+Dialogue: 0,0:01:14.48,0:01:15.60,Sub,,0,0,0,,{\k41}MIENTRAS {\k13}LO {\k59}PIENSAS,
+Dialogue: 0,0:01:15.60,0:01:17.24,Sub,,0,0,0,,{\k56}SÍRVETE {\k11}UN {\k97}CAFÉ.
+Dialogue: 0,0:01:17.24,0:01:18.56,Sub,,0,0,0,,{\k92}¿ESPERARÍAS {\k20}POR {\k21}LOS
+Dialogue: 0,0:01:18.56,0:01:20.35,Sub,,0,0,0,,{\k25}DOS {\k103}MALVAVISCOS, {\k50}A,
+Dialogue: 0,0:01:20.35,0:01:21.32,Sub,,0,0,0,,{\k26}O {\k14}TE {\k57}COMERÍAS
+Dialogue: 0,0:01:21.32,0:01:22.98,Sub,,0,0,0,,{\k22}UNO {\k43}YA, {\k101}B?
+Dialogue: 0,0:01:22.98,0:01:25.03,Sub,,0,0,0,,{\k19}TE {\k87}LEO. {\k100}SUSCRÍBETE:
+Dialogue: 0,0:01:25.03,0:01:25.92,Sub,,0,0,0,,{\k50}MAÑANA {\k20}HAY {\k20}OTRA
+Dialogue: 0,0:01:25.92,0:01:26.75,Sub,,0,0,0,,{\k83}HISTORIA.
