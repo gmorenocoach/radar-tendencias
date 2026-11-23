@@ -1,0 +1,105 @@
+{
+ "titulo": "Comió, durmió y trabajó sobre una báscula… 30 años",
+ "titulos_alternativos": [
+  "Un médico vivió sentado en una balanza 30 años… y faltaba peso",
+  "Pesó cada comida durante 30 años… y la cuenta no cerraba"
+ ],
+ "descripcion": "Hacia 1600, en Padua, un médico mandó construir una silla colgada de una balanza gigante para pesarse mientras comía, trabajaba y dormía. Según la tradición, lo hizo unos treinta años, y la cuenta nunca cerró.\nFuente: Santorio Santorio, De Statica Medicina (1614); Encyclopaedia Britannica.\n¿Obsesión absurda o ciencia visionaria? Te leo.",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#salud",
+  "#cuerpo",
+  "#bienestar",
+  "#habitos"
+ ],
+ "miniatura": {
+  "texto": "VIVIÓ EN UNA BÁSCULA",
+  "emocion": "sorpresa",
+  "objeto": "silla colgada de una balanza gigante",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Este médico comía, trabajaba y dormía sentado en una báscula gigante.",
+   "emocion": "sorpresa",
+   "objeto": "silla colgada de una balanza enorme",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "a man sitting in a chair hanging from a giant antique balance scale, renaissance study, warm light",
+   "broll": "antique weighing scale",
+   "segundos": 3,
+   "broll_fuente": "8c20166d57b26e7b.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que hacia el año 1600, en Padua, Italia, vivía un médico llamado Santorio Santorio. Y tenía una duda muy rara: ¿qué le pasa al peso del cuerpo durante el día?",
+   "emocion": "curiosidad",
+   "objeto": "libro antiguo y balanza",
+   "pose": "butaco_tazas",
+   "prompt_visual": "17th century Padua library, physician in dark robe with books and a small scale, candlelight",
+   "broll": "renaissance library",
+   "segundos": 10,
+   "broll_fuente": "481bf0bddfb295e8.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Así que mandó construir una silla colgada de una balanza gigante. Se sentaba ahí para comer, para trabajar y hasta para dormir. Pesaba su comida, se pesaba a sí mismo, y también pesaba lo que el cuerpo despedía.",
+   "emocion": "entusiasmo",
+   "objeto": "silla-balanza con plato de comida",
+   "pose": "senalando",
+   "prompt_visual": "scholar eating at a table while seated on a large hanging chair scale, ropes and weights, old Italian room",
+   "broll": "old medical manuscript",
+   "segundos": 15,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Y lo hizo, según la tradición, durante unos treinta años. Anotando todo. Día tras día. Esperaba que el peso que perdía coincidiera con lo que veía salir. Pero la cuenta no cerraba. Siempre faltaba peso.",
+   "emocion": "confusion",
+   "objeto": "cuaderno con números tachados",
+   "pose": "aburrido",
+   "prompt_visual": "tired man writing numbers in a notebook, crossed-out figures, dim candlelight, renaissance desk",
+   "broll": "old handwritten manuscript",
+   "segundos": 10,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "En 1614 publicó sus resultados en De Statica Medicina. Su conclusión: el cuerpo perdía mucho más peso del que se veía. Lo llamó perspiración insensible.",
+   "emocion": "revelacion",
+   "objeto": "libro De Statica Medicina abierto",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "open antique book titled De Statica Medicina with scale illustrations, soft golden light",
+   "broll": "antique medical book",
+   "segundos": 8,
+   "broll_fuente": "3225804f3c7a4086.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Tu cuerpo hace cosas todo el día sin avisarte, y medir un poquito ayuda a notarlas. Hoy, ¿obsesión absurda o ciencia visionaria? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "calidez",
+   "objeto": "taza de café y cuaderno",
+   "pose": "saludando",
+   "prompt_visual": "warm cup of coffee next to an open notebook on a wooden table, morning light, cozy",
+   "broll": "coffee cup notebook",
+   "segundos": 10,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  }
+ ],
+ "pregunta_final": "¿Obsesión absurda o ciencia visionaria?",
+ "reto_de_hoy": "¿Obsesión absurda o ciencia visionaria?",
+ "ganchos_alternativos": [
+  "Durante treinta años, este médico no se bajó de una báscula ni para dormir.",
+  "Pesó todo lo que comió durante tres décadas, y aun así le faltaba peso.",
+  "Imagina trabajar, comer y dormir colgado de una balanza gigante."
+ ],
+ "palabras": 169,
+ "canal": "soyintegral",
+ "color": "#2E8B57",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "salud-comiodurmioytrabajosobre",
+ "visual": "broll"
+}

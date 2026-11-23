@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00374E6F,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.53,Sub,,0,0,0,,{\k35}ESTE {\k42}MÉDICO {\k77}COMÍA,
+Dialogue: 0,0:00:01.53,0:00:03.01,Sub,,0,0,0,,{\k80}TRABAJABA {\k14}Y {\k53}DORMÍA
+Dialogue: 0,0:00:03.01,0:00:03.97,Sub,,0,0,0,,{\k59}SENTADO {\k15}EN {\k22}UNA
+Dialogue: 0,0:00:03.97,0:00:05.93,Sub,,0,0,0,,{\k52}BÁSCULA {\k89}GIGANTE. {\k55}CUENTAN
+Dialogue: 0,0:00:05.93,0:00:07.75,Sub,,0,0,0,,{\k31}QUE, {\k45}HACIA {\k106}1600,
+Dialogue: 0,0:00:07.75,0:00:09.29,Sub,,0,0,0,,{\k20}EN {\k55}PADUA, {\k79}ITALIA,
+Dialogue: 0,0:00:09.29,0:00:10.22,Sub,,0,0,0,,{\k42}VIVÍA {\k14}UN {\k37}MÉDICO
+Dialogue: 0,0:00:10.22,0:00:12.38,Sub,,0,0,0,,{\k51}LLAMADO {\k71}SANTORIO {\k94}SANTORIO.
+Dialogue: 0,0:00:12.38,0:00:13.22,Sub,,0,0,0,,{\k16}Y {\k49}TENÍA {\k20}UNA
+Dialogue: 0,0:00:13.22,0:00:14.84,Sub,,0,0,0,,{\k52}IDEA {\k41}MUY {\k68}RARA:
+Dialogue: 0,0:00:14.84,0:00:15.76,Sub,,0,0,0,,{\k36}QUERÍA {\k37}SABER {\k19}QUÉ
+Dialogue: 0,0:00:15.76,0:00:16.94,Sub,,0,0,0,,{\k53}PASABA {\k12}DE {\k53}VERDAD
+Dialogue: 0,0:00:16.94,0:00:18.30,Sub,,0,0,0,,{\k43}DENTRO {\k17}DEL {\k75}CUERPO.
+Dialogue: 0,0:00:18.30,0:00:19.05,Sub,,0,0,0,,{\k30}ASÍ {\k12}QUE {\k34}MANDÓ
+Dialogue: 0,0:00:19.05,0:00:20.21,Sub,,0,0,0,,{\k62}CONSTRUIR {\k20}UNA {\k35}SILLA
+Dialogue: 0,0:00:20.21,0:00:21.06,Sub,,0,0,0,,{\k48}COLGADA {\k15}DE {\k22}UNA
+Dialogue: 0,0:00:21.06,0:00:22.85,Sub,,0,0,0,,{\k55}BALANZA {\k95}ENORME. {\k29}AHÍ
+Dialogue: 0,0:00:22.85,0:00:23.72,Sub,,0,0,0,,{\k14}SE {\k64}SENTABA {\k9}A
+Dialogue: 0,0:00:23.72,0:00:25.26,Sub,,0,0,0,,{\k70}COMER, {\k13}A {\k72}TRABAJAR
+Dialogue: 0,0:00:25.26,0:00:25.89,Sub,,0,0,0,,{\k20}Y {\k36}HASTA {\k7}A
+Dialogue: 0,0:00:25.89,0:00:27.82,Sub,,0,0,0,,{\k103}DORMIR. {\k25}SE {\k64}PESABA
+Dialogue: 0,0:00:27.82,0:00:28.85,Sub,,0,0,0,,{\k10}A {\k19}SÍ {\k74}MISMO.
+Dialogue: 0,0:00:28.85,0:00:30.04,Sub,,0,0,0,,{\k16}Y {\k46}PESABA {\k56}TAMBIÉN
+Dialogue: 0,0:00:30.04,0:00:31.08,Sub,,0,0,0,,{\k17}SU {\k64}COMIDA {\k23}Y
+Dialogue: 0,0:00:31.08,0:00:31.55,Sub,,0,0,0,,{\k17}LO {\k12}QUE {\k18}EL
+Dialogue: 0,0:00:31.55,0:00:33.42,Sub,,0,0,0,,{\k49}CUERPO {\k121}DESPEDÍA. {\k18}Y
+Dialogue: 0,0:00:33.42,0:00:34.09,Sub,,0,0,0,,{\k17}NO {\k26}FUE {\k23}UNA
+Dialogue: 0,0:00:34.09,0:00:35.11,Sub,,0,0,0,,{\k61}SEMANA {\k27}NI {\k14}UN
+Dialogue: 0,0:00:35.11,0:00:36.64,Sub,,0,0,0,,{\k85}MES. {\k55}CUENTAN {\k14}QUE
+Dialogue: 0,0:00:36.64,0:00:37.69,Sub,,0,0,0,,{\k13}LO {\k49}HIZO {\k43}UNOS
+Dialogue: 0,0:00:37.69,0:00:39.43,Sub,,0,0,0,,{\k48}TREINTA {\k87}AÑOS. {\k39}DÍA
+Dialogue: 0,0:00:39.43,0:00:41.11,Sub,,0,0,0,,{\k29}TRAS {\k66}DÍA, {\k73}ANOTANDO
+Dialogue: 0,0:00:41.11,0:00:42.69,Sub,,0,0,0,,{\k31}CADA {\k72}NÚMERO, {\k55}ESPERANDO
+Dialogue: 0,0:00:42.69,0:00:43.35,Sub,,0,0,0,,{\k12}QUE {\k13}LA {\k42}CUENTA
+Dialogue: 0,0:00:43.35,0:00:45.03,Sub,,0,0,0,,{\k94}CERRARA. {\k45}PERO {\k29}NO
+Dialogue: 0,0:00:45.03,0:00:46.89,Sub,,0,0,0,,{\k114}CERRABA. {\k24}EL {\k48}CUERPO
+Dialogue: 0,0:00:46.89,0:00:48.23,Sub,,0,0,0,,{\k51}PERDÍA {\k51}MUCHO {\k31}MÁS
+Dialogue: 0,0:00:48.23,0:00:48.91,Sub,,0,0,0,,{\k36}PESO {\k19}DEL {\k14}QUE
+Dialogue: 0,0:00:48.91,0:00:50.46,Sub,,0,0,0,,{\k15}SE {\k49}VEÍA {\k91}SALIR.
+Dialogue: 0,0:00:50.46,0:00:52.80,Sub,,0,0,0,,{\k70}FALTABA {\k95}PESO. {\k70}SANTORIO
+Dialogue: 0,0:00:52.80,0:00:54.17,Sub,,0,0,0,,{\k12}LO {\k33}LLAMÓ {\k93}PERSPIRACIÓN
+Dialogue: 0,0:00:54.17,0:00:55.82,Sub,,0,0,0,,{\k114}INSENSIBLE: {\k37}ALGO {\k14}QUE
+Dialogue: 0,0:00:55.82,0:00:56.83,Sub,,0,0,0,,{\k15}EL {\k56}CUERPO {\k30}HACE
+Dialogue: 0,0:00:56.83,0:00:58.71,Sub,,0,0,0,,{\k21}SIN {\k116}AVISARTE. {\k51}PUBLICÓ
+Dialogue: 0,0:00:58.71,0:01:01.00,Sub,,0,0,0,,{\k35}TODO {\k16}EN {\k178}1614,
+Dialogue: 0,0:01:01.00,0:01:01.85,Sub,,0,0,0,,{\k21}EN {\k12}DE {\k52}STATICA
+Dialogue: 0,0:01:01.85,0:01:03.69,Sub,,0,0,0,,{\k121}MEDICINA. {\k15}Y {\k49}QUIZÁ
+Dialogue: 0,0:01:03.69,0:01:04.39,Sub,,0,0,0,,{\k13}LA {\k45}LECCIÓN {\k12}ES
+Dialogue: 0,0:01:04.39,0:01:05.86,Sub,,0,0,0,,{\k88}PEQUEÑA: {\k16}TU {\k43}CUERPO
+Dialogue: 0,0:01:05.86,0:01:06.93,Sub,,0,0,0,,{\k29}HACE {\k45}COSAS {\k33}TODO
+Dialogue: 0,0:01:06.93,0:01:07.52,Sub,,0,0,0,,{\k13}EL {\k28}DÍA {\k19}SIN
+Dialogue: 0,0:01:07.52,0:01:08.96,Sub,,0,0,0,,{\k94}AVISARTE, {\k15}Y {\k35}MEDIR
+Dialogue: 0,0:01:08.96,0:01:10.04,Sub,,0,0,0,,{\k12}UN {\k45}POCO {\k51}AYUDA
+Dialogue: 0,0:01:10.04,0:01:11.55,Sub,,0,0,0,,{\k7}A {\k116}NOTARLAS. {\k28}COMO
+Dialogue: 0,0:01:11.55,0:01:12.20,Sub,,0,0,0,,{\k12}UN {\k39}CAFÉ {\k14}QUE
+Dialogue: 0,0:01:12.20,0:01:13.08,Sub,,0,0,0,,{\k11}SE {\k58}ENFRÍA {\k20}SIN
+Dialogue: 0,0:01:13.08,0:01:13.92,Sub,,0,0,0,,{\k12}QUE {\k13}LO {\k59}MIRES.
+Dialogue: 0,0:01:13.92,0:01:15.49,Sub,,0,0,0,,{\k71}¿OBSESIÓN {\k68}ABSURDA {\k17}O
+Dialogue: 0,0:01:15.49,0:01:17.26,Sub,,0,0,0,,{\k46}CIENCIA {\k111}VISIONARIA? {\k20}TE
+Dialogue: 0,0:01:17.26,0:01:19.46,Sub,,0,0,0,,{\k64}LEO. {\k97}SUSCRÍBETE: {\k58}MAÑANA
+Dialogue: 0,0:01:19.46,0:01:20.71,Sub,,0,0,0,,{\k20}HAY {\k21}OTRA {\k85}HISTORIA.

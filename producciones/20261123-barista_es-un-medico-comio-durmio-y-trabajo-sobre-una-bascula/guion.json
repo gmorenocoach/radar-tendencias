@@ -1,0 +1,105 @@
+{
+ "titulo": "Un médico comió, durmió y trabajó sobre una báscula 30 años",
+ "titulos_alternativos": [
+  "Un médico vivió pesándose sobre una balanza gigante tres décadas",
+  "Santorio pesó todo lo que comía… y la cuenta nunca cerró"
+ ],
+ "descripcion": "Hacia 1600, en Padua, un médico mandó colgar su silla de una balanza gigante para pesarse mientras comía, trabajaba y dormía. Según la tradición, lo hizo unos treinta años, y lo que descubrió no era lo que esperaba. Fuente: Santorio Santorio, De Statica Medicina (1614). ¿Obsesión absurda o ciencia visionaria?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#salud",
+  "#ciencia",
+  "#medicina",
+  "#cuerpohumano"
+ ],
+ "miniatura": {
+  "texto": "SILLA-BÁSCULA",
+  "emocion": "sorpresa",
+  "objeto": "silla colgada de una balanza gigante",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Este médico comía, trabajaba y dormía sentado en una báscula gigante.",
+   "emocion": "sorpresa",
+   "objeto": "balanza gigante",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista character jumping in surprise next to a giant antique weighing scale",
+   "broll": "antique weighing scale",
+   "segundos": 3,
+   "broll_fuente": "8fd519e19962a181.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que, hacia 1600, en Padua, Italia, vivía un médico llamado Santorio Santorio. Y tenía una idea muy rara: quería saber qué pasaba de verdad dentro del cuerpo.",
+   "emocion": "curiosidad",
+   "objeto": "libro antiguo",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista character with open arms in a renaissance Italian library, warm light",
+   "broll": "renaissance library",
+   "segundos": 10,
+   "broll_fuente": "712b4f66a3926a62.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Así que mandó construir una silla colgada de una balanza enorme. Ahí se sentaba a comer, a trabajar y hasta a dormir. Se pesaba a sí mismo. Y pesaba también su comida y lo que el cuerpo despedía.",
+   "emocion": "entusiasmo",
+   "objeto": "silla colgada de balanza",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista character sitting on a stool with cups, beside a hanging chair scale",
+   "broll": "old medical manuscript",
+   "segundos": 15,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Y no fue una semana ni un mes. Cuentan que lo hizo unos treinta años. Día tras día, anotando cada número, esperando que la cuenta cerrara.",
+   "emocion": "tension",
+   "objeto": "cuaderno de notas",
+   "pose": "agachado",
+   "prompt_visual": "cartoon barista character crouching, writing numbers in a notebook, many pages piled up",
+   "broll": "writing quill notebook",
+   "segundos": 10,
+   "broll_fuente": "e94505e39e044169.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Pero no cerraba. El cuerpo perdía mucho más peso del que se veía salir. Faltaba peso. Santorio lo llamó perspiración insensible: algo que el cuerpo hace sin avisarte.",
+   "emocion": "asombro",
+   "objeto": "balanza desequilibrada",
+   "pose": "letrero",
+   "prompt_visual": "cartoon barista character holding a sign with a question mark next to an unbalanced scale",
+   "broll": "old medical manuscript",
+   "segundos": 8,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Publicó todo en 1614, en De Statica Medicina. Y quizá la lección es pequeña: tu cuerpo hace cosas todo el día sin avisarte, y medir un poco ayuda a notarlas. Como un café que se enfría sin que lo mires. ¿Obsesión absurda o ciencia visionaria? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "calidez",
+   "objeto": "taza de café",
+   "pose": "saludando",
+   "prompt_visual": "cartoon barista character waving warmly holding a coffee cup, cozy cafe background",
+   "broll": "coffee cup steam",
+   "segundos": 14,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  }
+ ],
+ "pregunta_final": "¿Obsesión absurda o ciencia visionaria?",
+ "reto_de_hoy": "¿Obsesión absurda o ciencia visionaria?",
+ "ganchos_alternativos": [
+  "Durante treinta años, este médico no se bajó de una báscula ni para dormir.",
+  "Pesó todo lo que comía, todo lo que su cuerpo despedía… y los números no cuadraban.",
+  "Imagina trabajar, comer y dormir en una balanza gigante. Él lo hizo, y por una buena razón."
+ ],
+ "palabras": 183,
+ "canal": "barista",
+ "color": "#6F4E37",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "salud-comiodurmioytrabajosobre",
+ "visual": "broll"
+}

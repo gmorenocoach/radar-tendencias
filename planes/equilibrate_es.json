@@ -394,7 +394,10 @@
    "referencia_video_id": "JJ4VYVYzxHw",
    "tipo_contenido": "atraccion",
    "nivel": "club",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261123-equilibrate_es-si-ninguno-escribe-esto-es-lo-que-queda",
+   "resultado": "ok 205s",
+   "producido_en": "2026-11-23T21:59:19"
   },
   {
    "id": "equilibrate_es-20261126-S",

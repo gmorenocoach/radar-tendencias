@@ -435,7 +435,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261123-barista_es-un-medico-comio-durmio-y-trabajo-sobre-una-bascula",
+   "resultado": "ok 217s",
+   "producido_en": "2026-11-23T21:55:53"
   },
   {
    "id": "barista_es-20261126-S",

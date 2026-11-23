@@ -302,7 +302,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261123-soyintegral_es-comio-durmio-y-trabajo-sobre-una-bascula-30-anos",
+   "resultado": "ok 201s",
+   "producido_en": "2026-11-23T21:52:15"
   },
   {
    "id": "soyintegral_es-20261127-S",
