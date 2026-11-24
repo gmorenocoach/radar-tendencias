@@ -1,0 +1,106 @@
+{
+ "titulo": "Prohibió el café a su hija… y ella negoció su boda",
+ "titulos_alternativos": [
+  "Bach convirtió una pelea por una taza en una ópera",
+  "Amenazó a su hija por tomar café… y ella ganó el trato"
+ ],
+ "descripcion": "Hacia 1735, en Leipzig, Bach estrenó una cantata sobre un padre que quería quitarle el café a su hija. Él lo intentó todo: amenazas, castigos y hasta una promesa de marido. Lo que ella respondió cambió el trato. Fuente: Wikipedia, Coffee Cantata (BWV 211); Bach Digital / Bach-Archiv Leipzig. ¿Cederías para mantener la paz o sostendrías tu taza como Lieschen?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#amor",
+  "#familia",
+  "#bach",
+  "#cafe",
+  "#ElBaristaDelSer"
+ ],
+ "miniatura": {
+  "texto": "CAFÉ O MARIDO",
+  "emocion": "sorpresa",
+  "objeto": "taza de café humeante",
+  "pose": "letrero"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Una taza de café provocó una pelea familiar tan famosa que Bach la convirtió en ópera.",
+   "emocion": "sorpresa",
+   "objeto": "taza de café humeante",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista character jumping in surprise next to a giant steaming coffee cup, warm cafe background",
+   "broll": "steaming coffee cup",
+   "segundos": 4,
+   "broll_fuente": "9da4e8b1842b64eb.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que hacia 1735, en Leipzig, existía el café Zimmermann. Ahí la gente tomaba café y escuchaba música. Y ahí Bach estrenó su Cantata del café, con texto del poeta Picander.",
+   "emocion": "curiosidad",
+   "objeto": "partitura y taza",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista with open arms inside an 18th century German coffee house, candlelight, musicians in the background",
+   "broll": "baroque coffee house",
+   "segundos": 10,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "La historia cuenta de un padre, Schlendrian, y de su hija, Lieschen. Él quiere que ella deje el café. Y no se anda con rodeos: le amenaza con no dejarla salir, con no comprarle vestidos y con no conseguirle marido.",
+   "emocion": "preocupación",
+   "objeto": "cuaderno con lista de castigos",
+   "pose": "senalando",
+   "prompt_visual": "cartoon barista pointing at a notebook listing punishments, stern father figure silhouette in background, warm sepia tones",
+   "broll": "Bach sheet music",
+   "segundos": 15,
+   "broll_fuente": "cdbfdb7afdd43306.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Pero Lieschen no se mueve. Para ella, el café es más dulce que mil besos. Dicho así, sin temblar. El padre prueba una amenaza tras otra, y la taza sigue ahí, humeando, como si nada.",
+   "emocion": "tensión",
+   "objeto": "taza humeante",
+   "pose": "aburrido",
+   "prompt_visual": "cartoon barista looking bored and unimpressed beside a steaming cup, comic tension, soft vintage palette",
+   "broll": "steaming coffee cup",
+   "segundos": 10,
+   "broll_fuente": "9da4e8b1842b64eb.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Entonces él cambia de táctica. Si dejas el café, te consigo marido. Y ella acepta, encantada. El padre cree que ganó el pulso. Pero por detrás, ella ya avisó que solo se casará con quien le deje tomar café.",
+   "emocion": "sorpresa",
+   "objeto": "taza y anillo",
+   "pose": "cambio",
+   "prompt_visual": "cartoon barista with a sly smile holding a coffee cup behind his back, ring on the table, playful twist mood",
+   "broll": "baroque coffee house",
+   "segundos": 10,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "A veces el amor en familia es saber cuándo mandar y cuándo escuchar lo que de verdad le importa al otro. Tú, ¿cederías para mantener la paz o sostendrías tu taza como Lieschen? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "calidez",
+   "objeto": "dos tazas sobre la mesa",
+   "pose": "saludando",
+   "prompt_visual": "cartoon barista waving warmly at the camera, two coffee cups on a wooden table, cozy cafe light",
+   "broll": "steaming coffee cup",
+   "segundos": 11,
+   "broll_fuente": "9da4e8b1842b64eb.mp4"
+  }
+ ],
+ "pregunta_final": "¿Cederías para mantener la paz o sostendrías tu taza como Lieschen?",
+ "reto_de_hoy": "¿Cederías para mantener la paz o sostendrías tu taza como Lieschen?",
+ "ganchos_alternativos": [
+  "Un padre prohibió el café a su hija, y ella terminó negociando su propia boda.",
+  "Bach escribió una ópera sobre una pelea familiar… por una taza de café.",
+  "Le prometió marido si dejaba el café. Ella dijo que sí. Y ahí empezó el verdadero trato."
+ ],
+ "palabras": 201,
+ "canal": "barista",
+ "color": "#6F4E37",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "amor-prohibioelcafeasuhijayel",
+ "visual": "broll"
+}

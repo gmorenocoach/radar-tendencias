@@ -1,0 +1,76 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.77,Sub,,0,0,0,,{\k23}¿QUÉ {\k34}PASA {\k20}POR
+Dialogue: 0,0:00:00.77,0:00:01.75,Sub,,0,0,0,,{\k36}DENTRO {\k29}CUANDO {\k34}DEJAS
+Dialogue: 0,0:00:01.75,0:00:02.93,Sub,,0,0,0,,{\k12}DE {\k92}ESCRIBIR, {\k14}DE
+Dialogue: 0,0:00:02.93,0:00:04.14,Sub,,0,0,0,,{\k97}LLAMAR... {\k13}Y {\k12}EL
+Dialogue: 0,0:00:04.14,0:00:05.13,Sub,,0,0,0,,{\k51}CELULAR {\k19}SE {\k29}QUEDA
+Dialogue: 0,0:00:05.13,0:00:06.77,Sub,,0,0,0,,{\k10}EN {\k132}SILENCIO? {\k21}SI
+Dialogue: 0,0:00:06.77,0:00:07.74,Sub,,0,0,0,,{\k48}SIEMPRE {\k29}ERES {\k21}TÚ
+Dialogue: 0,0:00:07.74,0:00:08.92,Sub,,0,0,0,,{\k24}QUIEN {\k68}BUSCA, {\k24}QUIEN
+Dialogue: 0,0:00:08.92,0:00:10.84,Sub,,0,0,0,,{\k87}PREGUNTA, {\k24}QUIEN {\k81}ESPERA,
+Dialogue: 0,0:00:10.84,0:00:11.92,Sub,,0,0,0,,{\k26}YA {\k62}CONOCES {\k21}ESE
+Dialogue: 0,0:00:11.92,0:00:13.62,Sub,,0,0,0,,{\k121}CANSANCIO. {\k32}NO {\k16}ES
+Dialogue: 0,0:00:13.62,0:00:14.96,Sub,,0,0,0,,{\k34}DRAMA {\k73}TUYO. {\k28}ES
+Dialogue: 0,0:00:14.96,0:00:16.34,Sub,,0,0,0,,{\k15}UN {\k52}VÍNCULO {\k70}COJO,
+Dialogue: 0,0:00:16.34,0:00:17.59,Sub,,0,0,0,,{\k78}SOSTENIDO {\k22}POR {\k26}UNA
+Dialogue: 0,0:00:17.59,0:00:19.47,Sub,,0,0,0,,{\k35}SOLA {\k133}PERSONA. {\k20}EL
+Dialogue: 0,0:00:19.47,0:00:20.56,Sub,,0,0,0,,{\k66}SILENCIO {\k31}ES {\k12}UN
+Dialogue: 0,0:00:20.56,0:00:22.01,Sub,,0,0,0,,{\k117}ESPEJO. {\k16}NO {\k12}TE
+Dialogue: 0,0:00:22.01,0:00:22.65,Sub,,0,0,0,,{\k44}DEVUELVE {\k7}A {\k13}LA
+Dialogue: 0,0:00:22.65,0:00:23.74,Sub,,0,0,0,,{\k22}OTRA {\k72}PERSONA: {\k15}TE
+Dialogue: 0,0:00:23.74,0:00:25.16,Sub,,0,0,0,,{\k51}DEVUELVE {\k8}A {\k82}TI.
+Dialogue: 0,0:00:25.16,0:00:25.79,Sub,,0,0,0,,{\k13}Y {\k12}TE {\k38}MUESTRA
+Dialogue: 0,0:00:25.79,0:00:27.11,Sub,,0,0,0,,{\k36}CUÁNTO {\k51}ENERGÍA {\k45}LLEVABAS
+Dialogue: 0,0:00:27.11,0:00:28.84,Sub,,0,0,0,,{\k59}GASTANDO {\k11}EN {\k103}INSISTIR.
+Dialogue: 0,0:00:28.84,0:00:29.41,Sub,,0,0,0,,{\k17}Y {\k15}LA {\k24}OTRA
+Dialogue: 0,0:00:29.41,0:00:31.56,Sub,,0,0,0,,{\k122}PERSONA? {\k50}QUIZÁS {\k43}SIENTA
+Dialogue: 0,0:00:31.56,0:00:33.62,Sub,,0,0,0,,{\k94}CONFUSIÓN, {\k93}VACÍO, {\k20}O
+Dialogue: 0,0:00:33.62,0:00:35.25,Sub,,0,0,0,,{\k48}EXTRAÑE {\k11}LA {\k104}ATENCIÓN.
+Dialogue: 0,0:00:35.25,0:00:36.63,Sub,,0,0,0,,{\k30}O {\k48}QUIZÁS {\k60}NADA.
+Dialogue: 0,0:00:36.63,0:00:37.72,Sub,,0,0,0,,{\k16}NO {\k13}LO {\k80}SABES.
+Dialogue: 0,0:00:37.72,0:00:39.04,Sub,,0,0,0,,{\k46}NADIE {\k16}LO {\k70}SABE.
+Dialogue: 0,0:00:39.04,0:00:39.67,Sub,,0,0,0,,{\k16}Y {\k13}TU {\k34}PAZ
+Dialogue: 0,0:00:39.67,0:00:40.66,Sub,,0,0,0,,{\k19}NO {\k30}PUEDE {\k50}DEPENDER
+Dialogue: 0,0:00:40.66,0:00:42.79,Sub,,0,0,0,,{\k9}DE {\k132}ADIVINARLO. {\k72}OJO:
+Dialogue: 0,0:00:42.79,0:00:44.16,Sub,,0,0,0,,{\k48}CALLAR {\k21}PARA {\k69}CASTIGAR
+Dialogue: 0,0:00:44.16,0:00:44.74,Sub,,0,0,0,,{\k23}O {\k22}PARA {\k13}QUE
+Dialogue: 0,0:00:44.74,0:00:46.93,Sub,,0,0,0,,{\k53}VUELVA {\k27}ES {\k138}MANIPULACIÓN.
+Dialogue: 0,0:00:46.93,0:00:47.94,Sub,,0,0,0,,{\k47}CALLAR {\k31}PARA {\k23}NO
+Dialogue: 0,0:00:47.94,0:00:49.66,Sub,,0,0,0,,{\k95}ABANDONARTE, {\k53}ESO {\k23}ES
+Dialogue: 0,0:00:49.66,0:00:51.23,Sub,,0,0,0,,{\k113}DIGNIDAD. {\k31}ES {\k14}LA
+Dialogue: 0,0:00:51.23,0:00:52.52,Sub,,0,0,0,,{\k36}MISMA {\k27}BOCA {\k66}CERRADA,
+Dialogue: 0,0:00:52.52,0:00:54.40,Sub,,0,0,0,,{\k22}CON {\k55}DISTINTA {\k111}INTENCIÓN.
+Dialogue: 0,0:00:54.40,0:00:55.67,Sub,,0,0,0,,{\k29}UNA {\k52}RELACIÓN {\k45}SANA
+Dialogue: 0,0:00:55.67,0:00:56.48,Sub,,0,0,0,,{\k23}NO {\k13}SE {\k45}SOSTIENE
+Dialogue: 0,0:00:56.48,0:00:57.27,Sub,,0,0,0,,{\k16}CON {\k10}EL {\k52}ESFUERZO
+Dialogue: 0,0:00:57.27,0:00:58.57,Sub,,0,0,0,,{\k15}DE {\k23}UNO {\k92}SOLO.
+Dialogue: 0,0:00:58.57,0:00:59.43,Sub,,0,0,0,,{\k19}EL {\k24}AMOR {\k43}PROPIO
+Dialogue: 0,0:00:59.43,0:01:00.52,Sub,,0,0,0,,{\k45}EMPIEZA {\k31}CUANDO {\k33}DEJAS
+Dialogue: 0,0:01:00.52,0:01:01.43,Sub,,0,0,0,,{\k12}DE {\k38}PAGAR {\k41}SOLA
+Dialogue: 0,0:01:01.43,0:01:02.17,Sub,,0,0,0,,{\k16}LA {\k41}CUENTA {\k17}DEL
+Dialogue: 0,0:01:02.17,0:01:03.37,Sub,,0,0,0,,{\k80}VÍNCULO. {\k24}Y {\k15}SI
+Dialogue: 0,0:01:03.37,0:01:04.32,Sub,,0,0,0,,{\k12}NO {\k64}VUELVE, {\k20}NO
+Dialogue: 0,0:01:04.32,0:01:06.23,Sub,,0,0,0,,{\k111}PERDISTE. {\k64}RECUPERASTE {\k16}TU
+Dialogue: 0,0:01:06.23,0:01:07.55,Sub,,0,0,0,,{\k66}TIEMPO, {\k23}TU {\k42}PAZ
+Dialogue: 0,0:01:07.55,0:01:08.73,Sub,,0,0,0,,{\k15}Y {\k14}TU {\k89}LUGAR.
+Dialogue: 0,0:01:08.73,0:01:09.96,Sub,,0,0,0,,{\k47}QUÉDATE {\k21}CON {\k56}ESO,
+Dialogue: 0,0:01:09.96,0:01:10.48,Sub,,0,0,0,,{\k27}NO {\k17}CON {\k8}LA
+Dialogue: 0,0:01:10.48,0:01:12.00,Sub,,0,0,0,,{\k100}ESPERA. {\k38}RETO {\k14}DE
+Dialogue: 0,0:01:12.00,0:01:13.25,Sub,,0,0,0,,{\k70}HOY: {\k39}TOMA {\k15}TU
+Dialogue: 0,0:01:13.25,0:01:14.42,Sub,,0,0,0,,{\k57}CUADERNO {\k13}Y {\k48}ESCRIBE
+Dialogue: 0,0:01:14.42,0:01:15.42,Sub,,0,0,0,,{\k38}TRES {\k45}COSAS {\k16}QUE
+Dialogue: 0,0:01:15.42,0:01:16.59,Sub,,0,0,0,,{\k49}HACES {\k46}SOLO {\k22}POR
+Dialogue: 0,0:01:16.59,0:01:18.34,Sub,,0,0,0,,{\k67}TI. {\k70}HAZLAS {\k38}ESTA
+Dialogue: 0,0:01:18.34,0:01:21.03,Sub,,0,0,0,,{\k85}SEMANA. {\k109}SUSCRÍBETE: {\k74}MAÑANA
+Dialogue: 0,0:01:21.03,0:01:22.94,Sub,,0,0,0,,{\k51}HAY {\k46}OTRO {\k94}RETO.

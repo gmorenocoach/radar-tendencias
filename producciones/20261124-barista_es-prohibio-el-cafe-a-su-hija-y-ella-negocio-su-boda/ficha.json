@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Prohibió el café a su hija… y ella negoció su boda",
+  "historia_id": "amor-prohibioelcafeasuhijayel",
+  "fuente_historia": "Wikipedia: Coffee Cantata (BWV 211); Bach Digital / Bach-Archiv Leipzig"
+ },
+ "historia": {
+  "titulo": "Prohibió el café a su hija… y ella negoció su boda",
+  "hecho": "Hacia 1735, en Leipzig, Johann Sebastian Bach estrenó la «Cantata del café» en el café Zimmermann, un local donde se bebía café y se escuchaba música. La obra, con texto del poeta Picander, cuenta la historia de Schlendrian, un padre que quiere que su hija Lieschen deje el café. Le amenaza con no dejarla salir, no comprarle vestidos y no conseguirle marido. Ella lo rechaza, porque el café es para ella más dulce que mil besos. Entonces él cambia de táctica y le promete un esposo si deja la taza. Ella acepta, y por detrás avisa que solo se casará con quien le permita tomar café.",
+  "giro": "El padre cree que ganó el pulso, pero la hija ya había negociado su propia condición.",
+  "fuente": "Wikipedia: Coffee Cantata (BWV 211); Bach Digital / Bach-Archiv Leipzig",
+  "certeza": "alta",
+  "conexion_eje": "En la familia, a veces el amor es saber cuándo mandar y cuándo escuchar lo que importa al otro.",
+  "gancho": "Una taza de café provocó una pelea familiar tan famosa que Bach la convirtió en ópera.",
+  "pregunta_binaria": "¿Cederías para mantener la paz o sostendrías tu taza como Lieschen?",
+  "broll": [
+   "baroque coffee house",
+   "steaming coffee cup",
+   "Bach sheet music"
+  ],
+  "id": "amor-prohibioelcafeasuhijayel",
+  "eje": "amor",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "Hacia 1735, en Leipzig, Johann Sebastian Bach estrenó la «Cantata del café» en el café Zimmermann, un local donde se bebía café y se escuchaba música. La obra, con texto del poeta Picander, cuenta la historia de Schlendrian, un padre que quiere que su hija Lieschen deje el café. Le amenaza con no dejarla salir, no comprarle vestidos y no conseguirle marido. Ella lo rechaza, porque el café es para ella más dulce que mil besos. Entonces él cambia de táctica y le promete un esposo si deja la taza. Ella acepta, y por detrás avisa que solo se casará con quien le permita tomar café.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Una taza de café provocó una pelea familiar tan famosa que Bach la convirtió en ópera.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

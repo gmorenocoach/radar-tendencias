@@ -412,7 +412,10 @@
    "referencia_video_id": "M792ZNlLS2A",
    "tipo_contenido": "atraccion",
    "nivel": "club",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261124-equilibrate_es-cuando-dejas-de-buscar-lo-que-si-cambia-en-ti",
+   "resultado": "ok 273s",
+   "producido_en": "2026-11-24T20:27:21"
   },
   {
    "id": "equilibrate_es-20261126-R",
