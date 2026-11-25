@@ -471,7 +471,10 @@
    "referencia_video_id": "M792ZNlLS2A",
    "tipo_contenido": "atraccion",
    "nivel": "club",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261125-equilibrate_es-cuando-dejas-de-buscar-pasa-algo-germancho",
+   "resultado": "ok 276s",
+   "producido_en": "2026-11-25T19:43:51"
   },
   {
    "id": "equilibrate_es-20261128-S",

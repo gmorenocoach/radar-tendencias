@@ -1,0 +1,80 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00578B2E,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.42,Sub,,0,0,0,,{\k36}TUS {\k50}RIÑONES {\k56}TRABAJAN
+Dialogue: 0,0:00:01.42,0:00:02.79,Sub,,0,0,0,,{\k20}LAS {\k68}24 {\k49}HORAS,
+Dialogue: 0,0:00:02.79,0:00:03.69,Sub,,0,0,0,,{\k29}SIN {\k42}PAUSA {\k20}PARA
+Dialogue: 0,0:00:03.69,0:00:04.69,Sub,,0,0,0,,{\k10}EL {\k73}CAFÉ. {\k16}Y
+Dialogue: 0,0:00:04.69,0:00:05.34,Sub,,0,0,0,,{\k14}LO {\k13}QUE {\k38}BEBES
+Dialogue: 0,0:00:05.34,0:00:06.38,Sub,,0,0,0,,{\k27}HOY {\k27}LOS {\k51}AYUDA
+Dialogue: 0,0:00:06.38,0:00:07.50,Sub,,0,0,0,,{\k9}O {\k22}LOS {\k80}AGOTA.
+Dialogue: 0,0:00:07.50,0:00:08.60,Sub,,0,0,0,,{\k17}TE {\k51}CUENTO {\k42}5
+Dialogue: 0,0:00:08.60,0:00:09.76,Sub,,0,0,0,,{\k43}GESTOS {\k12}DE {\k62}TAZA,
+Dialogue: 0,0:00:09.76,0:00:10.53,Sub,,0,0,0,,{\k13}Y {\k14}EL {\k50}ÚLTIMO
+Dialogue: 0,0:00:10.53,0:00:11.51,Sub,,0,0,0,,{\k48}CASI {\k38}NADIE {\k12}LO
+Dialogue: 0,0:00:11.51,0:00:13.69,Sub,,0,0,0,,{\k36}CUENTA {\k86}BIEN. {\k96}PRIMERO:
+Dialogue: 0,0:00:13.69,0:00:15.04,Sub,,0,0,0,,{\k87}AGUA. {\k34}ES {\k14}LA
+Dialogue: 0,0:00:15.04,0:00:16.57,Sub,,0,0,0,,{\k82}BASE. {\k58}DILUYE {\k13}LO
+Dialogue: 0,0:00:16.57,0:00:17.39,Sub,,0,0,0,,{\k14}QUE {\k15}TU {\k53}CUERPO
+Dialogue: 0,0:00:17.39,0:00:18.96,Sub,,0,0,0,,{\k30}DEBE {\k107}SACAR. {\k20}TU
+Dialogue: 0,0:00:18.96,0:00:20.41,Sub,,0,0,0,,{\k36}PISTA {\k67}FÁCIL: {\k42}ORINA
+Dialogue: 0,0:00:20.41,0:00:21.25,Sub,,0,0,0,,{\k12}DE {\k29}COLOR {\k43}AMARILLO
+Dialogue: 0,0:00:21.25,0:00:22.18,Sub,,0,0,0,,{\k44}CLARO, {\k28}COMO {\k21}TÉ
+Dialogue: 0,0:00:22.18,0:00:24.45,Sub,,0,0,0,,{\k97}SUAVE. {\k88}SEGUNDO: {\k42}AGUA
+Dialogue: 0,0:00:24.45,0:00:25.70,Sub,,0,0,0,,{\k21}CON {\k84}LIMÓN. {\k21}EL
+Dialogue: 0,0:00:25.70,0:00:27.04,Sub,,0,0,0,,{\k38}LIMÓN {\k41}APORTA {\k55}CITRATO,
+Dialogue: 0,0:00:27.04,0:00:27.68,Sub,,0,0,0,,{\k15}QUE {\k41}AYUDA {\k8}A
+Dialogue: 0,0:00:27.68,0:00:28.25,Sub,,0,0,0,,{\k21}QUE {\k20}NO {\k16}SE
+Dialogue: 0,0:00:28.25,0:00:30.00,Sub,,0,0,0,,{\k39}FORMEN {\k93}PIEDRAS. {\k43}MEDIO
+Dialogue: 0,0:00:30.00,0:00:30.64,Sub,,0,0,0,,{\k38}LIMÓN {\k11}EN {\k15}TU
+Dialogue: 0,0:00:30.64,0:00:31.72,Sub,,0,0,0,,{\k60}JARRA, {\k28}NO {\k20}UNA
+Dialogue: 0,0:00:31.72,0:00:33.47,Sub,,0,0,0,,{\k57}LIMONADA {\k17}CON {\k101}AZÚCAR.
+Dialogue: 0,0:00:33.47,0:00:35.54,Sub,,0,0,0,,{\k94}TERCERO: {\k88}INFUSIONES {\k24}SIN
+Dialogue: 0,0:00:35.54,0:00:38.30,Sub,,0,0,0,,{\k96}AZÚCAR. {\k93}JAMAICA, {\k87}MANZANILLA,
+Dialogue: 0,0:00:38.30,0:00:40.04,Sub,,0,0,0,,{\k107}JENGIBRE. {\k30}UNA {\k37}TAZA
+Dialogue: 0,0:00:40.04,0:00:40.66,Sub,,0,0,0,,{\k40}TIBIA {\k12}QUE {\k10}TE
+Dialogue: 0,0:00:40.66,0:00:41.40,Sub,,0,0,0,,{\k50}HIDRATA {\k10}Y {\k14}TE
+Dialogue: 0,0:00:41.40,0:00:42.56,Sub,,0,0,0,,{\k29}BAJA {\k13}EL {\k74}RITMO.
+Dialogue: 0,0:00:42.56,0:00:43.89,Sub,,0,0,0,,{\k30}SI {\k37}TOMAS {\k65}MEDICACIÓN
+Dialogue: 0,0:00:43.89,0:00:44.66,Sub,,0,0,0,,{\k19}PARA {\k10}LA {\k49}PRESIÓN,
+Dialogue: 0,0:00:44.66,0:00:45.51,Sub,,0,0,0,,{\k65}PREGÚNTALE {\k6}A {\k14}TU
+Dialogue: 0,0:00:45.51,0:00:47.76,Sub,,0,0,0,,{\k100}MÉDICO. {\k103}CUARTO: {\k22}EL
+Dialogue: 0,0:00:47.76,0:00:48.98,Sub,,0,0,0,,{\k66}CAFÉ. {\k41}AQUÍ {\k15}VA
+Dialogue: 0,0:00:48.98,0:00:50.47,Sub,,0,0,0,,{\k12}LA {\k110}SORPRESA. {\k27}SIN
+Dialogue: 0,0:00:50.47,0:00:51.55,Sub,,0,0,0,,{\k69}PASARTE, {\k32}UNA {\k7}O
+Dialogue: 0,0:00:51.55,0:00:52.59,Sub,,0,0,0,,{\k22}DOS {\k52}TAZAS {\k30}NO
+Dialogue: 0,0:00:52.59,0:00:53.87,Sub,,0,0,0,,{\k13}ES {\k13}TU {\k102}ENEMIGO.
+Dialogue: 0,0:00:53.87,0:00:54.96,Sub,,0,0,0,,{\k21}EL {\k55}PROBLEMA {\k34}SUELE
+Dialogue: 0,0:00:54.96,0:00:55.84,Sub,,0,0,0,,{\k20}SER {\k12}EL {\k57}AZÚCAR
+Dialogue: 0,0:00:55.84,0:00:56.56,Sub,,0,0,0,,{\k17}Y {\k20}LAS {\k35}SEIS
+Dialogue: 0,0:00:56.56,0:00:58.00,Sub,,0,0,0,,{\k41}TAZAS {\k13}AL {\k91}DÍA.
+Dialogue: 0,0:00:58.00,0:00:59.77,Sub,,0,0,0,,{\k99}QUINTO: {\k60}CUIDADO {\k17}CON
+Dialogue: 0,0:00:59.77,0:01:01.48,Sub,,0,0,0,,{\k10}EL {\k40}AZÚCAR {\k121}ESCONDIDO.
+Dialogue: 0,0:01:01.48,0:01:02.40,Sub,,0,0,0,,{\k48}JUGOS {\k12}DE {\k34}CAJA
+Dialogue: 0,0:01:02.40,0:01:03.92,Sub,,0,0,0,,{\k8}Y {\k62}GASEOSAS {\k82}SOBRECARGAN
+Dialogue: 0,0:01:03.92,0:01:05.35,Sub,,0,0,0,,{\k39}TODO {\k15}TU {\k88}CUERPO.
+Dialogue: 0,0:01:05.35,0:01:07.49,Sub,,0,0,0,,{\k46}FRUTA {\k72}NATURAL, {\k95}SÍ.
+Dialogue: 0,0:01:07.49,0:01:07.97,Sub,,0,0,0,,{\k16}Y {\k14}SI {\k17}YA
+Dialogue: 0,0:01:07.97,0:01:09.52,Sub,,0,0,0,,{\k35}TIENES {\k62}ENFERMEDAD {\k59}RENAL,
+Dialogue: 0,0:01:09.52,0:01:10.32,Sub,,0,0,0,,{\k59}CONSULTA {\k7}A {\k14}TU
+Dialogue: 0,0:01:10.32,0:01:11.42,Sub,,0,0,0,,{\k56}MÉDICO {\k44}ANTES {\k11}DE
+Dialogue: 0,0:01:11.42,0:01:13.13,Sub,,0,0,0,,{\k46}CAMBIAR {\k85}NADA. {\k39}RETO
+Dialogue: 0,0:01:13.13,0:01:14.45,Sub,,0,0,0,,{\k13}DE {\k73}HOY: {\k46}LLENA
+Dialogue: 0,0:01:14.45,0:01:15.23,Sub,,0,0,0,,{\k24}UNA {\k37}JARRA {\k16}DE
+Dialogue: 0,0:01:15.23,0:01:16.32,Sub,,0,0,0,,{\k38}AGUA {\k46}AHORA {\k24}Y
+Dialogue: 0,0:01:16.32,0:01:16.92,Sub,,0,0,0,,{\k39}DÉJALA {\k9}EN {\k10}TU
+Dialogue: 0,0:01:16.92,0:01:18.51,Sub,,0,0,0,,{\k110}ESCRITORIO. {\k35}MIRA {\k14}SU
+Dialogue: 0,0:01:18.51,0:01:19.02,Sub,,0,0,0,,{\k31}NIVEL {\k8}EN {\k12}LA
+Dialogue: 0,0:01:19.02,0:01:20.13,Sub,,0,0,0,,{\k42}TARDE {\k15}Y {\k55}ANÓTALO
+Dialogue: 0,0:01:20.13,0:01:21.18,Sub,,0,0,0,,{\k10}EN {\k12}TU {\k82}CUADERNO.
+Dialogue: 0,0:01:21.18,0:01:23.28,Sub,,0,0,0,,{\k115}SUSCRÍBETE: {\k61}MAÑANA {\k34}HAY
+Dialogue: 0,0:01:23.28,0:01:24.33,Sub,,0,0,0,,{\k30}OTRO {\k75}RETO.

@@ -1,0 +1,116 @@
+{
+ "titulo": "Una lavandera donó 150.000 dólares a una universidad",
+ "titulos_alternativos": [
+  "Lavó ropa ajena 70 años y pagó becas universitarias",
+  "Una lavandera sin estudios pagó la universidad de otros"
+ ],
+ "descripcion": "Oseola McCarty dejó la escuela en sexto grado y pasó décadas lavando y planchando ropa ajena en Hattiesburg, Misisipi. En 1995, a los 87 años, hizo algo que nadie esperaba. Fuente: archivos de la Universidad del Sur de Misisipi sobre la beca McCarty y el artículo «Oseola McCarty» en Wikipedia. ¿Ahorrarías para ti (A) o para alguien que aún no conoces (B)?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#dinero",
+  "#ahorro",
+  "#historiasreales",
+  "#cafeconproposito"
+ ],
+ "miniatura": {
+  "texto": "LAVÓ ROPA, DONÓ UNIVERSIDAD",
+  "emocion": "sorpresa",
+  "objeto": "taza de café junto a una plancha antigua",
+  "pose": "salto_sorpresa"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Lavó ropa ajena casi toda su vida, y con eso ahorró para una universidad.",
+   "emocion": "intriga",
+   "objeto": "taza de café",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista character jumping in surprise holding a coffee cup, warm cafe background",
+   "broll": "laundry ironing vintage",
+   "segundos": 4,
+   "broll_fuente": "c2857b3c41ec98aa.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que Oseola McCarty nació en 1908, en Misisipi. Dejó la escuela en sexto grado para cuidar de una tía enferma. Y se quedó lavando.",
+   "emocion": "ternura",
+   "objeto": "cuaderno",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista sitting on a stool with coffee cups, vintage 1930s Mississippi town sepia tones",
+   "broll": "vintage Mississippi town",
+   "segundos": 10,
+   "broll_fuente": "413b279356f7ff4e.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Durante décadas, en Hattiesburg, lavó y planchó la ropa de otros. Cobraba poco por cada prenda. Vivía sencillo, y lo que podía, lo dejaba en el banco.",
+   "emocion": "constancia",
+   "objeto": "plancha antigua",
+   "pose": "agachado",
+   "prompt_visual": "cartoon barista crouching next to a pile of folded clothes and an old iron, soft warm light",
+   "broll": "laundry ironing vintage",
+   "segundos": 10,
+   "broll_fuente": "c2857b3c41ec98aa.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Pasaron los años. Muchos años. Y ella seguía igual: lavar, planchar, guardar. Una moneda tras otra.",
+   "emocion": "paciencia",
+   "objeto": "frasco de monedas",
+   "pose": "aburrido",
+   "prompt_visual": "cartoon barista looking calm and patient next to a jar of coins on a wooden table",
+   "broll": "coins jar savings",
+   "segundos": 10,
+   "broll_fuente": "ab570c24c5a9d7bd.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "En 1995, ya con 87 años, hizo algo que nadie vio venir. Donó unos 150.000 dólares a la Universidad del Sur de Misisipi, para becas de estudiantes que las necesitaran.",
+   "emocion": "asombro",
+   "objeto": "carta de donación",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista with arms wide open in amazement, university building in the background",
+   "broll": "university campus building",
+   "segundos": 10,
+   "broll_fuente": "174eebc1fb6e6677.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "La mujer que no pasó de sexto grado terminó pagando los estudios universitarios de otros. Y en 1996 recibió la Medalla Presidencial de los Ciudadanos.",
+   "emocion": "emoción",
+   "objeto": "medalla",
+   "pose": "senalando",
+   "prompt_visual": "cartoon barista pointing proudly at a medal on a table, graduation caps floating around",
+   "broll": "university graduation ceremony",
+   "segundos": 8,
+   "broll_fuente": "e761c913255687a4.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "A veces un hábito pequeño tiene un destino más grande que el sueldo que lo alimenta. Eso pasa mientras el café se enfría. ¿Ahorrarías para ti, A, o para alguien que aún no conoces, B? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "calidez",
+   "objeto": "taza de café",
+   "pose": "letrero",
+   "prompt_visual": "cartoon barista holding a sign with letters A and B, steaming coffee cup beside him, cozy cafe",
+   "broll": "coffee cup steam table",
+   "segundos": 12,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  }
+ ],
+ "pregunta_final": "¿Ahorrarías para ti (A) o para alguien que aún no conoces (B)?",
+ "reto_de_hoy": "¿Ahorrarías para ti (A) o para alguien que aún no conoces (B)?",
+ "ganchos_alternativos": [
+  "Dejó la escuela en sexto grado, y décadas después pagó becas universitarias.",
+  "Cobraba centavos por lavar camisas ajenas, y aun así regaló una fortuna.",
+  "Nunca pisó una universidad, pero hay estudiantes que se graduaron gracias a ella."
+ ],
+ "palabras": 179,
+ "canal": "barista",
+ "color": "#6F4E37",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "dinero-unalavanderadono150000do",
+ "visual": "broll"
+}

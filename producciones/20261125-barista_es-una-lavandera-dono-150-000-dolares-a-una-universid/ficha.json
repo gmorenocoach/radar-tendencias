@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Una lavandera donó 150.000 dólares a una universidad",
+  "historia_id": "dinero-unalavanderadono150000do",
+  "fuente_historia": "Universidad del Sur de Misisipi (archivos sobre la beca McCarty) y artículo «Oseola McCarty» en Wikipedia"
+ },
+ "historia": {
+  "titulo": "Una lavandera donó 150.000 dólares a una universidad",
+  "hecho": "Oseola McCarty nace en 1908 en Misisipi y deja la escuela en sexto grado para cuidar de una tía enferma. Pasa décadas lavando y planchando ropa ajena en Hattiesburg, cobrando poco por cada prenda. Vive de forma sencilla y deposita en el banco lo que puede. En 1995, a los 87 años, dona unos 150.000 dólares a la Universidad del Sur de Misisipi para becas de estudiantes que las necesitaran. Ella nunca fue a la universidad. En 1996 recibe la Medalla Presidencial de los Ciudadanos de Estados Unidos.",
+  "giro": "La mujer que no pasó de sexto grado terminó pagando los estudios universitarios de otros.",
+  "fuente": "Universidad del Sur de Misisipi (archivos sobre la beca McCarty) y artículo «Oseola McCarty» en Wikipedia",
+  "certeza": "alta",
+  "conexion_eje": "Un hábito pequeño y constante puede tener un destino más grande que el sueldo que lo alimenta.",
+  "gancho": "Lavó ropa ajena casi toda su vida y ahorró para una universidad.",
+  "pregunta_binaria": "¿Ahorrarías para ti (A) o para alguien que aún no conoces (B)?",
+  "broll": [
+   "laundry ironing vintage",
+   "coins jar savings",
+   "university graduation ceremony"
+  ],
+  "id": "dinero-unalavanderadono150000do",
+  "eje": "dinero",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "Oseola McCarty nace en 1908 en Misisipi y deja la escuela en sexto grado para cuidar de una tía enferma. Pasa décadas lavando y planchando ropa ajena en Hattiesburg, cobrando poco por cada prenda. Vive de forma sencilla y deposita en el banco lo que puede. En 1995, a los 87 años, dona unos 150.000 dólares a la Universidad del Sur de Misisipi para becas de estudiantes que las necesitaran. Ella nunca fue a la universidad. En 1996 recibe la Medalla Presidencial de los Ciudadanos de Estados Unidos.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Lavó ropa ajena casi toda su vida y ahorró para una universidad.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

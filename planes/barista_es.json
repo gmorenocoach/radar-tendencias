@@ -501,7 +501,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261125-barista_es-una-lavandera-dono-150-000-dolares-a-una-universid",
+   "resultado": "ok 282s",
+   "producido_en": "2026-11-25T19:48:33"
   },
   {
    "id": "barista_es-20261127-V",

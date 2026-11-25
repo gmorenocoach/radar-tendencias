@@ -478,8 +478,9 @@
    ],
    "id": "dinero-unalavanderadono150000do",
    "eje": "dinero",
-   "usada": false,
-   "creada": "2026-11-12"
+   "usada": true,
+   "creada": "2026-11-12",
+   "produccion": "20261125-barista_es-una-lavandera-dono-150-000-dolares-a-una-universid"
   },
   {
    "titulo": "Les dieron una taza… y de pronto valía el doble",

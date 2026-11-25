@@ -320,7 +320,10 @@
    "referencia_video_id": "zC-7_ccwBeo",
    "tipo_contenido": "atraccion",
    "nivel": "club",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261125-soyintegral_es-5-habitos-de-taza-para-unos-rinones-sanos",
+   "resultado": "ok 274s",
+   "producido_en": "2026-11-25T19:53:08"
   },
   {
    "id": "soyintegral_es-20261127-R",

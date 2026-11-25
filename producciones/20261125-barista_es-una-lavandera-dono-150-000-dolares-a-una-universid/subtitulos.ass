@@ -1,0 +1,72 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00374E6F,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.35,Sub,,0,0,0,,{\k43}LAVÓ {\k39}ROPA {\k52}AJENA
+Dialogue: 0,0:00:01.35,0:00:02.38,Sub,,0,0,0,,{\k50}CASI {\k35}TODA {\k19}SU
+Dialogue: 0,0:00:02.38,0:00:03.31,Sub,,0,0,0,,{\k59}VIDA, {\k15}Y {\k19}CON
+Dialogue: 0,0:00:03.31,0:00:04.54,Sub,,0,0,0,,{\k41}ESO {\k53}AHORRÓ {\k29}PARA
+Dialogue: 0,0:00:04.54,0:00:06.71,Sub,,0,0,0,,{\k27}UNA {\k140}UNIVERSIDAD. {\k50}CUENTAN
+Dialogue: 0,0:00:06.71,0:00:08.17,Sub,,0,0,0,,{\k30}QUE {\k59}OSEOLA {\k57}MCCARTY
+Dialogue: 0,0:00:08.17,0:00:10.19,Sub,,0,0,0,,{\k41}NACIÓ {\k21}EN {\k141}1908,
+Dialogue: 0,0:00:10.19,0:00:11.84,Sub,,0,0,0,,{\k21}EN {\k115}MISISIPI. {\k29}DEJÓ
+Dialogue: 0,0:00:11.84,0:00:12.42,Sub,,0,0,0,,{\k8}LA {\k38}ESCUELA {\k12}EN
+Dialogue: 0,0:00:12.42,0:00:13.28,Sub,,0,0,0,,{\k34}SEXTO {\k34}GRADO {\k19}PARA
+Dialogue: 0,0:00:13.28,0:00:14.13,Sub,,0,0,0,,{\k45}CUIDAR {\k13}DE {\k27}UNA
+Dialogue: 0,0:00:14.13,0:00:15.44,Sub,,0,0,0,,{\k28}TÍA {\k87}ENFERMA. {\k16}Y
+Dialogue: 0,0:00:15.44,0:00:17.12,Sub,,0,0,0,,{\k13}SE {\k39}QUEDÓ {\k116}LAVANDO.
+Dialogue: 0,0:00:17.12,0:00:18.31,Sub,,0,0,0,,{\k41}DURANTE {\k58}DÉCADAS, {\k20}EN
+Dialogue: 0,0:00:18.31,0:00:19.60,Sub,,0,0,0,,{\k85}HATTIESBURG, {\k35}LAVÓ {\k9}Y
+Dialogue: 0,0:00:19.60,0:00:20.48,Sub,,0,0,0,,{\k45}PLANCHÓ {\k14}LA {\k29}ROPA
+Dialogue: 0,0:00:20.48,0:00:21.65,Sub,,0,0,0,,{\k13}DE {\k62}OTROS. {\k43}COBRABA
+Dialogue: 0,0:00:21.65,0:00:22.45,Sub,,0,0,0,,{\k32}POCO {\k20}POR {\k28}CADA
+Dialogue: 0,0:00:22.45,0:00:24.35,Sub,,0,0,0,,{\k65}PRENDA. {\k50}VIVÍA {\k74}SENCILLO,
+Dialogue: 0,0:00:24.35,0:00:24.69,Sub,,0,0,0,,{\k13}Y {\k12}LO {\k10}QUE
+Dialogue: 0,0:00:24.69,0:00:25.93,Sub,,0,0,0,,{\k56}PODÍA, {\k17}LO {\k50}DEJABA
+Dialogue: 0,0:00:25.93,0:00:26.92,Sub,,0,0,0,,{\k10}EN {\k12}EL {\k78}BANCO.
+Dialogue: 0,0:00:26.92,0:00:28.20,Sub,,0,0,0,,{\k52}PASARON {\k15}LOS {\k60}AÑOS.
+Dialogue: 0,0:00:28.20,0:00:29.45,Sub,,0,0,0,,{\k44}MUCHOS {\k65}AÑOS. {\k16}Y
+Dialogue: 0,0:00:29.45,0:00:30.82,Sub,,0,0,0,,{\k27}ELLA {\k39}SEGUÍA {\k71}IGUAL:
+Dialogue: 0,0:00:30.82,0:00:33.26,Sub,,0,0,0,,{\k68}LAVAR, {\k86}PLANCHAR, {\k89}GUARDAR.
+Dialogue: 0,0:00:33.26,0:00:34.33,Sub,,0,0,0,,{\k31}UNA {\k48}MONEDA {\k28}TRAS
+Dialogue: 0,0:00:34.33,0:00:36.87,Sub,,0,0,0,,{\k70}OTRA. {\k20}EN {\k165}1995,
+Dialogue: 0,0:00:36.87,0:00:38.19,Sub,,0,0,0,,{\k24}YA {\k24}CON {\k82}87
+Dialogue: 0,0:00:38.19,0:00:39.42,Sub,,0,0,0,,{\k52}AÑOS, {\k42}HIZO {\k29}ALGO
+Dialogue: 0,0:00:39.42,0:00:40.32,Sub,,0,0,0,,{\k20}QUE {\k46}NADIE {\k24}VIO
+Dialogue: 0,0:00:40.32,0:00:41.80,Sub,,0,0,0,,{\k84}VENIR. {\k36}DONÓ {\k28}UNOS
+Dialogue: 0,0:00:41.80,0:00:43.72,Sub,,0,0,0,,{\k134}150.000 {\k52}DÓLARES {\k7}A
+Dialogue: 0,0:00:43.72,0:00:44.64,Sub,,0,0,0,,{\k8}LA {\k63}UNIVERSIDAD {\k21}DEL
+Dialogue: 0,0:00:44.64,0:00:45.85,Sub,,0,0,0,,{\k26}SUR {\k9}DE {\k86}MISISIPI,
+Dialogue: 0,0:00:45.85,0:00:46.59,Sub,,0,0,0,,{\k26}PARA {\k39}BECAS {\k9}DE
+Dialogue: 0,0:00:46.59,0:00:47.57,Sub,,0,0,0,,{\k71}ESTUDIANTES {\k12}QUE {\k15}LAS
+Dialogue: 0,0:00:47.57,0:00:49.28,Sub,,0,0,0,,{\k127}NECESITARAN. {\k15}LA {\k30}MUJER
+Dialogue: 0,0:00:49.28,0:00:49.92,Sub,,0,0,0,,{\k13}QUE {\k15}NO {\k36}PASÓ
+Dialogue: 0,0:00:49.92,0:00:50.89,Sub,,0,0,0,,{\k16}DE {\k42}SEXTO {\k38}GRADO
+Dialogue: 0,0:00:50.89,0:00:51.97,Sub,,0,0,0,,{\k44}TERMINÓ {\k44}PAGANDO {\k20}LOS
+Dialogue: 0,0:00:51.97,0:00:53.41,Sub,,0,0,0,,{\k50}ESTUDIOS {\k80}UNIVERSITARIOS {\k14}DE
+Dialogue: 0,0:00:53.41,0:00:54.37,Sub,,0,0,0,,{\k69}OTROS. {\k15}Y {\k13}EN
+Dialogue: 0,0:00:54.37,0:00:56.85,Sub,,0,0,0,,{\k167}1996 {\k65}RECIBIÓ {\k16}LA
+Dialogue: 0,0:00:56.85,0:00:58.31,Sub,,0,0,0,,{\k47}MEDALLA {\k89}PRESIDENCIAL {\k9}DE
+Dialogue: 0,0:00:58.31,0:00:59.83,Sub,,0,0,0,,{\k15}LOS {\k124}CIUDADANOS. {\k13}A
+Dialogue: 0,0:00:59.83,0:01:00.83,Sub,,0,0,0,,{\k49}VECES {\k16}UN {\k35}HÁBITO
+Dialogue: 0,0:01:00.83,0:01:01.79,Sub,,0,0,0,,{\k55}PEQUEÑO {\k31}TIENE {\k11}UN
+Dialogue: 0,0:01:01.79,0:01:02.98,Sub,,0,0,0,,{\k51}DESTINO {\k28}MÁS {\k41}GRANDE
+Dialogue: 0,0:01:02.98,0:01:03.73,Sub,,0,0,0,,{\k13}QUE {\k16}EL {\k45}SUELDO
+Dialogue: 0,0:01:03.73,0:01:04.98,Sub,,0,0,0,,{\k11}QUE {\k9}LO {\k106}ALIMENTA.
+Dialogue: 0,0:01:04.98,0:01:06.22,Sub,,0,0,0,,{\k43}ESO {\k38}PASA {\k43}MIENTRAS
+Dialogue: 0,0:01:06.22,0:01:06.82,Sub,,0,0,0,,{\k12}EL {\k35}CAFÉ {\k13}SE
+Dialogue: 0,0:01:06.82,0:01:08.74,Sub,,0,0,0,,{\k94}ENFRÍA. {\k75}¿AHORRARÍAS {\k23}PARA
+Dialogue: 0,0:01:08.74,0:01:09.88,Sub,,0,0,0,,{\k40}TI, {\k51}A, {\k23}O
+Dialogue: 0,0:01:09.88,0:01:10.60,Sub,,0,0,0,,{\k23}PARA {\k34}ALGUIEN {\k15}QUE
+Dialogue: 0,0:01:10.60,0:01:11.84,Sub,,0,0,0,,{\k29}AÚN {\k14}NO {\k81}CONOCES,
+Dialogue: 0,0:01:11.84,0:01:13.81,Sub,,0,0,0,,{\k94}B? {\k21}TE {\k81}LEO.
+Dialogue: 0,0:01:13.81,0:01:16.07,Sub,,0,0,0,,{\k147}SUSCRÍBETE: {\k58}MAÑANA {\k21}HAY
+Dialogue: 0,0:01:16.07,0:01:17.14,Sub,,0,0,0,,{\k22}OTRA {\k85}HISTORIA.
