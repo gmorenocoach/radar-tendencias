@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.30,Sub,,0,0,0,,{\k43}LLEVAS {\k35}AÑOS {\k52}SIRVIENDO
+Dialogue: 0,0:00:01.30,0:00:02.10,Sub,,0,0,0,,{\k41}CAFÉ {\k9}A {\k30}TODO
+Dialogue: 0,0:00:02.10,0:00:02.93,Sub,,0,0,0,,{\k12}EL {\k54}MUNDO {\k16}Y
+Dialogue: 0,0:00:02.93,0:00:03.84,Sub,,0,0,0,,{\k16}TU {\k43}TAZA {\k33}SIGUE
+Dialogue: 0,0:00:03.84,0:00:06.07,Sub,,0,0,0,,{\k102}VACÍA. {\k92}ELEGIRTE {\k29}NO
+Dialogue: 0,0:00:06.07,0:00:07.92,Sub,,0,0,0,,{\k17}ES {\k125}EGOÍSMO. {\k42}DICES
+Dialogue: 0,0:00:07.92,0:00:08.78,Sub,,0,0,0,,{\k23}SÍ {\k32}CUANDO {\k30}QUIERES
+Dialogue: 0,0:00:08.78,0:00:10.55,Sub,,0,0,0,,{\k36}DECIR {\k78}NO. {\k64}SONRÍES
+Dialogue: 0,0:00:10.55,0:00:11.82,Sub,,0,0,0,,{\k106}CANSADO. {\k14}Y {\k7}A
+Dialogue: 0,0:00:11.82,0:00:12.74,Sub,,0,0,0,,{\k14}LA {\k53}NOCHE {\k24}NO
+Dialogue: 0,0:00:12.74,0:00:14.65,Sub,,0,0,0,,{\k14}TE {\k130}RECONOCES. {\k48}¿SABES
+Dialogue: 0,0:00:14.65,0:00:15.82,Sub,,0,0,0,,{\k15}POR {\k14}QUÉ {\k88}PASA?
+Dialogue: 0,0:00:15.82,0:00:17.02,Sub,,0,0,0,,{\k58}APRENDIMOS {\k14}QUE {\k48}QUERER
+Dialogue: 0,0:00:17.02,0:00:18.60,Sub,,0,0,0,,{\k30}ES {\k110}COMPLACER. {\k17}QUE
+Dialogue: 0,0:00:18.60,0:00:19.53,Sub,,0,0,0,,{\k13}SI {\k12}ME {\k68}APLAUDEN,
+Dialogue: 0,0:00:19.53,0:00:21.35,Sub,,0,0,0,,{\k114}VALGO. {\k28}PERO {\k41}VIVIR
+Dialogue: 0,0:00:21.35,0:00:22.95,Sub,,0,0,0,,{\k59}ESPERANDO {\k78}APROBACIÓN {\k23}ES
+Dialogue: 0,0:00:22.95,0:00:23.92,Sub,,0,0,0,,{\k27}COMO {\k28}UNA {\k42}TAZA
+Dialogue: 0,0:00:23.92,0:00:24.52,Sub,,0,0,0,,{\k18}CON {\k11}LA {\k31}BASE
+Dialogue: 0,0:00:24.52,0:00:26.04,Sub,,0,0,0,,{\k98}ROTA: {\k27}POR {\k28}MÁS
+Dialogue: 0,0:00:26.04,0:00:26.81,Sub,,0,0,0,,{\k13}QUE {\k12}LA {\k52}LLENES,
+Dialogue: 0,0:00:26.81,0:00:28.40,Sub,,0,0,0,,{\k21}SE {\k114}VACÍA. {\k24}UN
+Dialogue: 0,0:00:28.40,0:00:29.68,Sub,,0,0,0,,{\k48}LÍMITE {\k51}SANO {\k29}NO
+Dialogue: 0,0:00:29.68,0:00:30.49,Sub,,0,0,0,,{\k21}ES {\k21}UNA {\k39}PARED
+Dialogue: 0,0:00:30.49,0:00:31.82,Sub,,0,0,0,,{\k30}CONTRA {\k17}LOS {\k86}DEMÁS.
+Dialogue: 0,0:00:31.82,0:00:32.69,Sub,,0,0,0,,{\k23}ES {\k21}UNA {\k43}PUERTA
+Dialogue: 0,0:00:32.69,0:00:33.89,Sub,,0,0,0,,{\k19}CON {\k13}TU {\k88}NOMBRE.
+Dialogue: 0,0:00:33.89,0:00:35.13,Sub,,0,0,0,,{\k20}SE {\k31}DICE {\k73}ASÍ:
+Dialogue: 0,0:00:35.13,0:00:36.65,Sub,,0,0,0,,{\k72}«AHORA {\k21}NO {\k59}PUEDO,
+Dialogue: 0,0:00:36.65,0:00:38.12,Sub,,0,0,0,,{\k107}GRACIAS». {\k14}Y {\k26}CUANDO
+Dialogue: 0,0:00:38.12,0:00:39.15,Sub,,0,0,0,,{\k51}EMPIEZAS {\k7}A {\k45}PONERTE
+Dialogue: 0,0:00:39.15,0:00:40.36,Sub,,0,0,0,,{\k49}PRIMERO, {\k44}PASA {\k28}ALGO
+Dialogue: 0,0:00:40.36,0:00:41.83,Sub,,0,0,0,,{\k85}BONITO: {\k20}EL {\k43}AMOR
+Dialogue: 0,0:00:41.83,0:00:42.68,Sub,,0,0,0,,{\k43}DEJA {\k14}DE {\k28}SER
+Dialogue: 0,0:00:42.68,0:00:43.62,Sub,,0,0,0,,{\k60}DEUDA {\k17}Y {\k16}SE
+Dialogue: 0,0:00:43.62,0:00:45.29,Sub,,0,0,0,,{\k40}VUELVE {\k110}COMPAÑÍA. {\k17}LA
+Dialogue: 0,0:00:45.29,0:00:46.34,Sub,,0,0,0,,{\k59}PAREJA {\k32}ES {\k13}UN
+Dialogue: 0,0:00:46.34,0:00:47.71,Sub,,0,0,0,,{\k87}ESPEJO, {\k28}NO {\k22}UNA
+Dialogue: 0,0:00:47.71,0:00:49.31,Sub,,0,0,0,,{\k109}SOLUCIÓN. {\k40}RETO {\k12}DE
+Dialogue: 0,0:00:49.31,0:00:50.31,Sub,,0,0,0,,{\k65}HOY: {\k20}EN {\k15}TU
+Dialogue: 0,0:00:50.31,0:00:51.75,Sub,,0,0,0,,{\k68}CUADERNO {\k53}ESCRIBE {\k22}UNA
+Dialogue: 0,0:00:51.75,0:00:52.59,Sub,,0,0,0,,{\k36}COSA {\k20}QUE {\k29}VAS
+Dialogue: 0,0:00:52.59,0:00:53.10,Sub,,0,0,0,,{\k7}A {\k34}DEJAR {\k10}DE
+Dialogue: 0,0:00:53.10,0:00:54.50,Sub,,0,0,0,,{\k33}HACER {\k19}POR {\k88}COMPROMISO
+Dialogue: 0,0:00:54.50,0:00:55.07,Sub,,0,0,0,,{\k19}Y {\k26}UNA {\k13}QUE
+Dialogue: 0,0:00:55.07,0:00:56.04,Sub,,0,0,0,,{\k42}HARÁS {\k36}SOLO {\k20}POR
+Dialogue: 0,0:00:56.04,0:00:58.64,Sub,,0,0,0,,{\k88}TI. {\k109}SUSCRÍBETE: {\k63}MAÑANA
+Dialogue: 0,0:00:58.64,0:01:00.05,Sub,,0,0,0,,{\k39}HAY {\k29}OTRO {\k72}RETO.

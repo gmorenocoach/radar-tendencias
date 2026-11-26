@@ -533,7 +533,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261126-barista_es-un-hombre-con-un-hueco-en-el-estomago-vivio-mas-qu",
+   "resultado": "ok 230s",
+   "producido_en": "2026-11-26T19:26:18"
   },
   {
    "id": "barista_es-20261129-S",

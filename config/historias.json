@@ -730,8 +730,9 @@
    ],
    "id": "salud-unsoldadoconunhuecoenele",
    "eje": "salud",
-   "usada": false,
-   "creada": "2026-11-12"
+   "usada": true,
+   "creada": "2026-11-12",
+   "produccion": "20261126-barista_es-un-hombre-con-un-hueco-en-el-estomago-vivio-mas-qu"
   },
   {
    "titulo": "Se metió un tubo por el brazo hasta el corazón… y lo despidieron",

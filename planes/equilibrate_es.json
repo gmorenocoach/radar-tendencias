@@ -489,7 +489,10 @@
    "referencia_video_id": "cIB92GESyrE",
    "tipo_contenido": "atraccion",
    "nivel": "club",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261126-equilibrate_es-el-dia-que-te-sirves-primero-tu-propia-taza",
+   "resultado": "ok 197s",
+   "producido_en": "2026-11-26T19:22:28"
   },
   {
    "id": "equilibrate_es-20261128-C",

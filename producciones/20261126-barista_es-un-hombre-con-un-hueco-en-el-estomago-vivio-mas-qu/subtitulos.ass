@@ -1,0 +1,75 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00374E6F,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.67,Sub,,0,0,0,,{\k41}CUENTAN {\k14}QUE {\k13}UN
+Dialogue: 0,0:00:00.67,0:00:01.70,Sub,,0,0,0,,{\k29}HOMBRE {\k29}COMIÓ {\k44}DURANTE
+Dialogue: 0,0:00:01.70,0:00:02.43,Sub,,0,0,0,,{\k42}AÑOS {\k21}CON {\k10}UN
+Dialogue: 0,0:00:02.43,0:00:03.22,Sub,,0,0,0,,{\k29}HILO {\k43}ATADO {\k7}A
+Dialogue: 0,0:00:03.22,0:00:04.49,Sub,,0,0,0,,{\k12}LA {\k88}COMIDA. {\k28}POR
+Dialogue: 0,0:00:04.49,0:00:06.24,Sub,,0,0,0,,{\k130}DENTRO. {\k23}FUE {\k21}EL
+Dialogue: 0,0:00:06.24,0:00:07.14,Sub,,0,0,0,,{\k34}6 {\k14}DE {\k43}JUNIO
+Dialogue: 0,0:00:07.14,0:00:09.27,Sub,,0,0,0,,{\k14}DE {\k173}1822, {\k26}EN
+Dialogue: 0,0:00:09.27,0:00:11.38,Sub,,0,0,0,,{\k28}FORT {\k66}MACKINAC, {\k117}MÍCHIGAN.
+Dialogue: 0,0:00:11.38,0:00:12.82,Sub,,0,0,0,,{\k64}ALEXIS {\k28}ST. {\k52}MARTIN
+Dialogue: 0,0:00:12.82,0:00:13.57,Sub,,0,0,0,,{\k23}ERA {\k14}UN {\k38}JOVEN
+Dialogue: 0,0:00:13.57,0:00:15.58,Sub,,0,0,0,,{\k84}COMERCIANTE {\k12}DE {\k106}PIELES.
+Dialogue: 0,0:00:15.58,0:00:16.56,Sub,,0,0,0,,{\k35}ESE {\k44}DÍA, {\k19}UNA
+Dialogue: 0,0:00:16.56,0:00:17.74,Sub,,0,0,0,,{\k59}ESCOPETA {\k14}SE {\k45}DISPARÓ
+Dialogue: 0,0:00:17.74,0:00:18.91,Sub,,0,0,0,,{\k19}POR {\k65}ACCIDENTE {\k34}MUY
+Dialogue: 0,0:00:18.91,0:00:19.54,Sub,,0,0,0,,{\k39}CERCA {\k10}DE {\k13}SU
+Dialogue: 0,0:00:19.54,0:00:21.34,Sub,,0,0,0,,{\k102}ABDOMEN. {\k16}LO {\k62}ATENDIÓ
+Dialogue: 0,0:00:21.34,0:00:22.85,Sub,,0,0,0,,{\k13}UN {\k56}CIRUJANO {\k82}MILITAR,
+Dialogue: 0,0:00:22.85,0:00:24.80,Sub,,0,0,0,,{\k48}WILLIAM {\k99}BEAUMONT. {\k49}NADIE
+Dialogue: 0,0:00:24.80,0:00:26.82,Sub,,0,0,0,,{\k63}ESPERABA {\k14}QUE {\k125}SOBREVIVIERA.
+Dialogue: 0,0:00:26.82,0:00:28.77,Sub,,0,0,0,,{\k41}PERO {\k120}SOBREVIVIÓ. {\k35}ESO
+Dialogue: 0,0:00:28.77,0:00:30.13,Sub,,0,0,0,,{\k71}SÍ: {\k15}LA {\k50}HERIDA
+Dialogue: 0,0:00:30.13,0:00:31.52,Sub,,0,0,0,,{\k60}CERRÓ {\k60}DEJANDO {\k19}UNA
+Dialogue: 0,0:00:31.52,0:00:32.94,Sub,,0,0,0,,{\k55}ABERTURA {\k74}PERMANENTE {\k13}AL
+Dialogue: 0,0:00:32.94,0:00:34.70,Sub,,0,0,0,,{\k107}ESTÓMAGO. {\k16}Y {\k53}BEAUMONT
+Dialogue: 0,0:00:34.70,0:00:35.77,Sub,,0,0,0,,{\k35}VIO {\k43}AHÍ {\k29}UNA
+Dialogue: 0,0:00:35.77,0:00:37.85,Sub,,0,0,0,,{\k122}OPORTUNIDAD. {\k43}DURANTE {\k43}AÑOS
+Dialogue: 0,0:00:37.85,0:00:38.72,Sub,,0,0,0,,{\k30}ATÓ {\k45}TROZOS {\k12}DE
+Dialogue: 0,0:00:38.72,0:00:39.46,Sub,,0,0,0,,{\k49}COMIDA {\k10}A {\k15}UN
+Dialogue: 0,0:00:39.46,0:00:40.83,Sub,,0,0,0,,{\k59}HILO, {\k21}LOS {\k57}INTRODUJO
+Dialogue: 0,0:00:40.83,0:00:41.99,Sub,,0,0,0,,{\k22}POR {\k19}ESE {\k75}ORIFICIO
+Dialogue: 0,0:00:41.99,0:00:42.62,Sub,,0,0,0,,{\k27}Y {\k14}SE {\k22}QUEDÓ
+Dialogue: 0,0:00:42.62,0:00:43.75,Sub,,0,0,0,,{\k53}MIRANDO {\k44}CÓMO {\k15}SE
+Dialogue: 0,0:00:43.75,0:00:45.88,Sub,,0,0,0,,{\k131}DIGERÍAN. {\k42}TAMBIÉN {\k41}ANOTÓ
+Dialogue: 0,0:00:45.88,0:00:47.38,Sub,,0,0,0,,{\k27}ALGO {\k87}CURIOSO: {\k36}CUANDO
+Dialogue: 0,0:00:47.38,0:00:48.16,Sub,,0,0,0,,{\k22}ST. {\k43}MARTIN {\k13}SE
+Dialogue: 0,0:00:48.16,0:00:49.82,Sub,,0,0,0,,{\k58}ENOJABA, {\k55}PARECÍA {\k53}CAMBIAR
+Dialogue: 0,0:00:49.82,0:00:50.59,Sub,,0,0,0,,{\k13}LO {\k13}QUE {\k51}PASABA
+Dialogue: 0,0:00:50.59,0:00:51.86,Sub,,0,0,0,,{\k9}EN {\k12}SU {\k107}ESTÓMAGO.
+Dialogue: 0,0:00:51.86,0:00:53.05,Sub,,0,0,0,,{\k66}PUBLICÓ {\k36}TODO {\k16}EN
+Dialogue: 0,0:00:53.05,0:00:55.55,Sub,,0,0,0,,{\k211}1833. {\k17}Y {\k22}AQUÍ
+Dialogue: 0,0:00:55.55,0:00:56.52,Sub,,0,0,0,,{\k27}VIENE {\k9}LO {\k60}IRÓNICO:
+Dialogue: 0,0:00:56.52,0:00:57.18,Sub,,0,0,0,,{\k15}EL {\k42}PACIENTE {\k9}QUE
+Dialogue: 0,0:00:57.18,0:00:58.57,Sub,,0,0,0,,{\k43}PARECÍA {\k55}CONDENADO {\k42}MURIÓ
+Dialogue: 0,0:00:58.57,0:01:00.86,Sub,,0,0,0,,{\k17}EN {\k195}1880. {\k16}SU
+Dialogue: 0,0:01:00.86,0:01:01.78,Sub,,0,0,0,,{\k29}MÉDICO {\k29}HABÍA {\k34}MUERTO
+Dialogue: 0,0:01:01.78,0:01:04.04,Sub,,0,0,0,,{\k12}EN {\k185}1853. {\k30}CASI
+Dialogue: 0,0:01:04.04,0:01:05.41,Sub,,0,0,0,,{\k37}TREINTA {\k28}AÑOS {\k72}ANTES.
+Dialogue: 0,0:01:05.41,0:01:06.02,Sub,,0,0,0,,{\k25}ASÍ {\k22}QUE {\k13}YA
+Dialogue: 0,0:01:06.02,0:01:07.95,Sub,,0,0,0,,{\k48}VES: {\k23}DESDE {\k123}1833
+Dialogue: 0,0:01:07.95,0:01:08.65,Sub,,0,0,0,,{\k33}ALGUIEN {\k28}ANOTÓ {\k9}QUE
+Dialogue: 0,0:01:08.65,0:01:09.25,Sub,,0,0,0,,{\k10}LO {\k12}QUE {\k38}SIENTES
+Dialogue: 0,0:01:09.25,0:01:09.53,Sub,,0,0,0,,{\k7}Y {\k11}LO {\k10}QUE
+Dialogue: 0,0:01:09.53,0:01:10.36,Sub,,0,0,0,,{\k50}DIGIERES {\k24}VAN {\k8}DE
+Dialogue: 0,0:01:10.36,0:01:11.75,Sub,,0,0,0,,{\k9}LA {\k63}MANO. {\k67}SALUD,
+Dialogue: 0,0:01:11.75,0:01:13.22,Sub,,0,0,0,,{\k59}DINERO {\k14}Y {\k74}AMOR:
+Dialogue: 0,0:01:13.22,0:01:15.02,Sub,,0,0,0,,{\k69}HISTORIAS {\k49}REALES {\k63}ALREDEDOR
+Dialogue: 0,0:01:15.02,0:01:16.07,Sub,,0,0,0,,{\k15}DE {\k12}UN {\k78}CAFÉ.
+Dialogue: 0,0:01:16.07,0:01:17.57,Sub,,0,0,0,,{\k51}¿CIENCIA {\k76}NECESARIA {\k23}O
+Dialogue: 0,0:01:17.57,0:01:18.15,Sub,,0,0,0,,{\k37}ABUSO {\k13}DE {\k8}UN
+Dialogue: 0,0:01:18.15,0:01:19.75,Sub,,0,0,0,,{\k82}PACIENTE? {\k16}TE {\k61}LEO.
+Dialogue: 0,0:01:19.75,0:01:21.35,Sub,,0,0,0,,{\k98}SUSCRÍBETE: {\k42}MAÑANA {\k21}HAY
+Dialogue: 0,0:01:21.35,0:01:22.29,Sub,,0,0,0,,{\k20}OTRA {\k74}HISTORIA.
