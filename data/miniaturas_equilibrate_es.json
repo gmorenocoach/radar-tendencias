@@ -2,31 +2,31 @@
  "perfil": "equilibrate_es",
  "n": 30,
  "promedio": {
-  "brillo": 73,
-  "pct_oscuro": 56,
+  "brillo": 77,
+  "pct_oscuro": 52,
   "pct_amarillo": 4,
-  "pct_piel": 18,
-  "pct_saturado": 10
+  "pct_piel": 21,
+  "pct_saturado": 11
  },
  "promedio_top10": {
-  "brillo": 77,
-  "pct_oscuro": 51,
+  "brillo": 80,
+  "pct_oscuro": 48,
   "pct_amarillo": 4,
-  "pct_piel": 20,
+  "pct_piel": 22,
   "pct_saturado": 11
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 90,
+  "pct_miniaturas_oscuras": 83,
   "pct_con_rostro_probable": 77,
-  "pct_con_amarillo": 63
+  "pct_con_amarillo": 67
  },
  "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
  "ejemplos": [
   {
    "video_id": "UKV5-h3DsDw",
    "titulo": "La FILOSOFÍA del AMOR PROPIO que TRANSFORMA la VIDA de una MUJER 🧠 | Brian Tracy",
-   "vistas": 586959,
-   "ratio": 19.0,
+   "vistas": 607675,
+   "ratio": 19.7,
    "miniatura": "https://i.ytimg.com/vi/UKV5-h3DsDw/maxresdefault.jpg",
    "brillo": 74,
    "pct_oscuro": 55,
@@ -37,8 +37,8 @@
   {
    "video_id": "2DyzfI3cVyg",
    "titulo": "La Guía COMPLETA para que una MUJER Invierta en SÍ MISMA: Mente, Dinero y Amor Propio 🧠| Brian Tracy",
-   "vistas": 380253,
-   "ratio": 12.3,
+   "vistas": 406373,
+   "ratio": 13.2,
    "miniatura": "https://i.ytimg.com/vi/2DyzfI3cVyg/maxresdefault.jpg",
    "brillo": 77,
    "pct_oscuro": 54,
@@ -47,22 +47,10 @@
    "pct_saturado": 6
   },
   {
-   "video_id": "n7ex8ENZrDw",
-   "titulo": "Habla Así a Tus Células | Meditación Profunda para Dejar de Exigirte y Sanar Desde Dentro",
-   "vistas": 346241,
-   "ratio": 22.6,
-   "miniatura": "https://i.ytimg.com/vi/n7ex8ENZrDw/maxresdefault.jpg",
-   "brillo": 62,
-   "pct_oscuro": 61,
-   "pct_amarillo": 2,
-   "pct_piel": 20,
-   "pct_saturado": 14
-  },
-  {
    "video_id": "Sd3Vfv8xB4M",
    "titulo": "#2 LARA ÁLVAREZ se sincera sobre el amor, el sexo y por qué está soltera | ADN con Pedro Ruiz",
-   "vistas": 263993,
-   "ratio": 12.8,
+   "vistas": 268796,
+   "ratio": 13.0,
    "miniatura": "https://i.ytimg.com/vi/Sd3Vfv8xB4M/maxresdefault.jpg",
    "brillo": 75,
    "pct_oscuro": 46,
@@ -81,18 +69,6 @@
    "pct_amarillo": 5,
    "pct_piel": 41,
    "pct_saturado": 22
-  },
-  {
-   "video_id": "wTnLU0XR4CY",
-   "titulo": "¿Existen Realmente los Videntes? | René Mey en Entrevista con Nayo Escobar",
-   "vistas": 186177,
-   "ratio": 65.3,
-   "miniatura": "https://i.ytimg.com/vi/wTnLU0XR4CY/maxresdefault.jpg",
-   "brillo": 113,
-   "pct_oscuro": 25,
-   "pct_amarillo": 5,
-   "pct_piel": 28,
-   "pct_saturado": 13
   },
   {
    "video_id": "J1_oInJtnRU",
@@ -121,8 +97,8 @@
   {
    "video_id": "TqSawW52wuA",
    "titulo": "EL DÍA QUE APRENDAS A VALORARTE, TODO COMENZARÁ A CAMBIAR | Yokoi Kenji",
-   "vistas": 120127,
-   "ratio": 74.6,
+   "vistas": 137243,
+   "ratio": 85.2,
    "miniatura": "https://i.ytimg.com/vi/TqSawW52wuA/maxresdefault.jpg",
    "brillo": 49,
    "pct_oscuro": 73,
@@ -131,9 +107,33 @@
    "pct_saturado": 10
   },
   {
+   "video_id": "TXUsVf7FdVc",
+   "titulo": "Cómo la Fe en Dios Puede Hacerte Más Fuerte Mentalmente - Reflexión Cristiana",
+   "vistas": 128982,
+   "ratio": 53.7,
+   "miniatura": "https://i.ytimg.com/vi/TXUsVf7FdVc/maxresdefault.jpg",
+   "brillo": 119,
+   "pct_oscuro": 24,
+   "pct_amarillo": 5,
+   "pct_piel": 43,
+   "pct_saturado": 10
+  },
+  {
+   "video_id": "qmGwq01XOVo",
+   "titulo": "No Pienses Tanto, Solo Confía en Dios - Reflexión Cristiana",
+   "vistas": 112899,
+   "ratio": 47.0,
+   "miniatura": "https://i.ytimg.com/vi/qmGwq01XOVo/maxresdefault.jpg",
+   "brillo": 91,
+   "pct_oscuro": 38,
+   "pct_amarillo": 5,
+   "pct_piel": 25,
+   "pct_saturado": 13
+  },
+  {
    "video_id": "FRC_8jRMJB8",
    "titulo": "Verdades que debes aceptar para dejar una relación tóxica",
-   "vistas": 106978,
+   "vistas": 106988,
    "ratio": 21.8,
    "miniatura": "https://i.ytimg.com/vi/FRC_8jRMJB8/maxresdefault.jpg",
    "brillo": 79,

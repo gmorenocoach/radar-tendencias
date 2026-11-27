@@ -1,128 +1,32 @@
 {
  "perfil": "equilibrate_en",
- "n": 20,
+ "n": 14,
  "promedio": {
-  "brillo": 77,
-  "pct_oscuro": 55,
-  "pct_amarillo": 2,
-  "pct_piel": 20,
-  "pct_saturado": 7
+  "brillo": 91,
+  "pct_oscuro": 46,
+  "pct_amarillo": 4,
+  "pct_piel": 22,
+  "pct_saturado": 16
  },
  "promedio_top10": {
-  "brillo": 70,
-  "pct_oscuro": 59,
-  "pct_amarillo": 1,
-  "pct_piel": 16,
-  "pct_saturado": 2
+  "brillo": 90,
+  "pct_oscuro": 47,
+  "pct_amarillo": 4,
+  "pct_piel": 22,
+  "pct_saturado": 15
  },
  "lectura": {
-  "pct_miniaturas_oscuras": 85,
-  "pct_con_rostro_probable": 90,
-  "pct_con_amarillo": 50
+  "pct_miniaturas_oscuras": 79,
+  "pct_con_rostro_probable": 100,
+  "pct_con_amarillo": 86
  },
  "recomendacion": "Predomina fondo oscuro + rostro: usar variante OSCURA con rostro grande",
  "ejemplos": [
   {
-   "video_id": "ki29gfgLuc8",
-   "titulo": "The Only 36 Minutes You Need To Stop Chasing And Find Peace | Shi Heng Yi Motivation",
-   "vistas": 739881,
-   "ratio": 18.2,
-   "miniatura": "https://i.ytimg.com/vi/ki29gfgLuc8/maxresdefault.jpg",
-   "brillo": 54,
-   "pct_oscuro": 64,
-   "pct_amarillo": 0,
-   "pct_piel": 25,
-   "pct_saturado": 1
-  },
-  {
-   "video_id": "AIBfnG1it0s",
-   "titulo": "The Only 35 Minutes You Need To Rebuild Yourself | Andrew Huberman Motivation",
-   "vistas": 659658,
-   "ratio": 16.2,
-   "miniatura": "https://i.ytimg.com/vi/AIBfnG1it0s/maxresdefault.jpg",
-   "brillo": 38,
-   "pct_oscuro": 86,
-   "pct_amarillo": 0,
-   "pct_piel": 6,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "6p0rf-snw4k",
-   "titulo": "The Only 37 Minutes You Need To Become Mentally Dangerous | Andrew Huberman Motivation",
-   "vistas": 456992,
-   "ratio": 11.3,
-   "miniatura": "https://i.ytimg.com/vi/6p0rf-snw4k/maxresdefault.jpg",
-   "brillo": 26,
-   "pct_oscuro": 88,
-   "pct_amarillo": 0,
-   "pct_piel": 6,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "SycmADdXbt4",
-   "titulo": "The Only 37 Minutes You Need To Take Back Control Of Your Life | Tony Robbins Motivation",
-   "vistas": 364655,
-   "ratio": 9.0,
-   "miniatura": "https://i.ytimg.com/vi/SycmADdXbt4/maxresdefault.jpg",
-   "brillo": 45,
-   "pct_oscuro": 79,
-   "pct_amarillo": 0,
-   "pct_piel": 9,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "79sJ7Zswo7U",
-   "titulo": "The Only 37 Minutes You Need To Stop Living Someone Else's Life | Robert Greene Motivation",
-   "vistas": 316967,
-   "ratio": 7.8,
-   "miniatura": "https://i.ytimg.com/vi/79sJ7Zswo7U/maxresdefault.jpg",
-   "brillo": 53,
-   "pct_oscuro": 68,
-   "pct_amarillo": 0,
-   "pct_piel": 11,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "6uDLao-YRTk",
-   "titulo": "The Only 29 Minutes You Need To Sort Yourself Out | Jordan Peterson Motivation",
-   "vistas": 291765,
-   "ratio": 7.2,
-   "miniatura": "https://i.ytimg.com/vi/6uDLao-YRTk/maxresdefault.jpg",
-   "brillo": 62,
-   "pct_oscuro": 68,
-   "pct_amarillo": 0,
-   "pct_piel": 12,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "igCUXPBaAu0",
-   "titulo": "The Only 28 Minutes You Need To Transform Your Life | Joe Dispenza Motivation",
-   "vistas": 270544,
-   "ratio": 6.7,
-   "miniatura": "https://i.ytimg.com/vi/igCUXPBaAu0/maxresdefault.jpg",
-   "brillo": 106,
-   "pct_oscuro": 34,
-   "pct_amarillo": 0,
-   "pct_piel": 20,
-   "pct_saturado": 0
-  },
-  {
-   "video_id": "1D1uNM3NWOg",
-   "titulo": "💕 Family pressure pushed her to blind dates. By chance, she met him. He proposed. 🥰#chinesedrama",
-   "vistas": 91319,
-   "ratio": 9.1,
-   "miniatura": "https://i.ytimg.com/vi/1D1uNM3NWOg/maxresdefault.jpg",
-   "brillo": 157,
-   "pct_oscuro": 8,
-   "pct_amarillo": 5,
-   "pct_piel": 32,
-   "pct_saturado": 11
-  },
-  {
    "video_id": "jR_JYdvKY6c",
    "titulo": "7th House for All 12 Rising Signs: Your Destined Partner",
-   "vistas": 71684,
-   "ratio": 35.7,
+   "vistas": 76924,
+   "ratio": 38.3,
    "miniatura": "https://i.ytimg.com/vi/jR_JYdvKY6c/maxresdefault.jpg",
    "brillo": 53,
    "pct_oscuro": 71,
@@ -131,16 +35,112 @@
    "pct_saturado": 5
   },
   {
-   "video_id": "5oPRanurTZ0",
-   "titulo": "💞 A slow-burning marriage. A steady love. She found family. She found growth. She found him.💕 #drama",
-   "vistas": 58902,
-   "ratio": 5.9,
-   "miniatura": "https://i.ytimg.com/vi/5oPRanurTZ0/maxresdefault.jpg",
-   "brillo": 111,
-   "pct_oscuro": 24,
-   "pct_amarillo": 0,
-   "pct_piel": 21,
-   "pct_saturado": 1
+   "video_id": "L28ucst84NA",
+   "titulo": "The Moment He Realizes You’re Not Like Anyone He’s Ever Known | Carl Jung Inspired",
+   "vistas": 46733,
+   "ratio": 42.9,
+   "miniatura": "https://i.ytimg.com/vi/L28ucst84NA/maxresdefault.jpg",
+   "brillo": 87,
+   "pct_oscuro": 51,
+   "pct_amarillo": 2,
+   "pct_piel": 27,
+   "pct_saturado": 9
+  },
+  {
+   "video_id": "xNcl3qMlYrA",
+   "titulo": "CHOSEN ONE, Your SOULMATE Can't Keep This SECRET Anymore… Their AMAZING NEWS Will SHOCK You! 💌",
+   "vistas": 17980,
+   "ratio": 11.8,
+   "miniatura": "https://i.ytimg.com/vi/xNcl3qMlYrA/maxresdefault.jpg",
+   "brillo": 74,
+   "pct_oscuro": 54,
+   "pct_amarillo": 6,
+   "pct_piel": 17,
+   "pct_saturado": 19
+  },
+  {
+   "video_id": "tYqLadw6wrs",
+   "titulo": "THIS PERSON WAS GIVEN A HIDDEN TEST FROM GOD ABOUT YOU WILL NOT BELIEVE WHY THEY FAILED || CARL JUNG",
+   "vistas": 15590,
+   "ratio": 14.3,
+   "miniatura": "https://i.ytimg.com/vi/tYqLadw6wrs/maxresdefault.jpg",
+   "brillo": 89,
+   "pct_oscuro": 50,
+   "pct_amarillo": 2,
+   "pct_piel": 28,
+   "pct_saturado": 8
+  },
+  {
+   "video_id": "LNJHUJ-r3iA",
+   "titulo": "Don't Be Afraid to Give! God Will Always Provide | Dave Concepcion",
+   "vistas": 15461,
+   "ratio": 14.3,
+   "miniatura": "https://i.ytimg.com/vi/LNJHUJ-r3iA/maxresdefault.jpg",
+   "brillo": 129,
+   "pct_oscuro": 19,
+   "pct_amarillo": 8,
+   "pct_piel": 19,
+   "pct_saturado": 23
+  },
+  {
+   "video_id": "7m2O4SghUvQ",
+   "titulo": "CHOSEN ONE, THEY DON'T CARE WHAT ANYONE THINKS ANYMORE — THEY ONLY WANT YOU NOW! 😭❤️ | CARL JUNG",
+   "vistas": 11211,
+   "ratio": 7.4,
+   "miniatura": "https://i.ytimg.com/vi/7m2O4SghUvQ/maxresdefault.jpg",
+   "brillo": 71,
+   "pct_oscuro": 56,
+   "pct_amarillo": 2,
+   "pct_piel": 17,
+   "pct_saturado": 18
+  },
+  {
+   "video_id": "pvdb4qO_Cvc",
+   "titulo": "🔴 CHOSEN ONES, YOU ARE ABOUT TO MEET SOMEONE THE WHOLE WORLD WANTS' BUT THIS PERSON ONLY WANTS YOU!",
+   "vistas": 10831,
+   "ratio": 7.1,
+   "miniatura": "https://i.ytimg.com/vi/pvdb4qO_Cvc/maxresdefault.jpg",
+   "brillo": 75,
+   "pct_oscuro": 53,
+   "pct_amarillo": 4,
+   "pct_piel": 17,
+   "pct_saturado": 20
+  },
+  {
+   "video_id": "AqYDKWAWYzw",
+   "titulo": "They Know They’re Losing You — And Their Reaction Will Surprise You | Carl Jung",
+   "vistas": 10653,
+   "ratio": 9.8,
+   "miniatura": "https://i.ytimg.com/vi/AqYDKWAWYzw/maxresdefault.jpg",
+   "brillo": 91,
+   "pct_oscuro": 50,
+   "pct_amarillo": 1,
+   "pct_piel": 28,
+   "pct_saturado": 8
+  },
+  {
+   "video_id": "ZgLAha9pfyI",
+   "titulo": "A Man Who Loves You Deeply Keeps His Distance Because of One Single Trait | CARL JUNG",
+   "vistas": 9313,
+   "ratio": 8.5,
+   "miniatura": "https://i.ytimg.com/vi/ZgLAha9pfyI/maxresdefault.jpg",
+   "brillo": 92,
+   "pct_oscuro": 48,
+   "pct_amarillo": 2,
+   "pct_piel": 28,
+   "pct_saturado": 8
+  },
+  {
+   "video_id": "aI6_gaIRFck",
+   "titulo": "Stop Chasing Things! Your Family Won't Be Here Forever | Dave Concepcion",
+   "vistas": 8832,
+   "ratio": 8.2,
+   "miniatura": "https://i.ytimg.com/vi/aI6_gaIRFck/maxresdefault.jpg",
+   "brillo": 135,
+   "pct_oscuro": 20,
+   "pct_amarillo": 12,
+   "pct_piel": 20,
+   "pct_saturado": 33
   }
  ]
 }
