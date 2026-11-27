@@ -1,0 +1,115 @@
+{
+ "titulo": "Hizo el reto 7 días y esto contó",
+ "titulos_alternativos": [
+  "7 días escribiéndose en el cuaderno: lo que notó",
+  "Día 7 del reto: no fue lo que esperaba"
+ ],
+ "descripcion": "Una persona hizo un reto de 7 días: escribirse cada día un mensaje de apoyo en el cuaderno. Esto es lo que notó al final, contado sin maquillaje. Autocuidado, amor propio y pareja, sin promesas. Si quieres hacer el reto, quédate al final y arráncalo hoy.",
+ "hashtags": [
+  "#amorpropio",
+  "#reto7dias",
+  "#autocuidado",
+  "#pareja",
+  "#escribirenelcuaderno",
+  "#equilibrate",
+  "#germancho",
+  "#crecimientopersonal"
+ ],
+ "miniatura": {
+  "texto": "DÍA 7: NO FUE LO ESPERADO",
+  "emocion": "sorpresa",
+  "objeto": "cuaderno abierto",
+  "pose": "letrero"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Alguien me escribió el día 7 del reto... y no era para decirme que todo estaba resuelto.",
+   "emocion": "sorpresa",
+   "objeto": "cuaderno abierto",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "open notebook with a handwritten note, big number 7 in a circle, warm tones",
+   "broll": "open notebook handwriting",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: surprised, round eyes and open mouth; jumping with arms up; open notebook with a handwritten note, big number 7 in a circle, warm tones; the cuaderno abierto is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Una persona hizo un reto simple: cada día, escribirse en el cuaderno un mensaje de apoyo. Uno solo. Para ella.",
+   "emocion": "alegria",
+   "objeto": "cuaderno y lápiz",
+   "pose": "saludando",
+   "prompt_visual": "person writing in a notebook at a kitchen table with a coffee cup",
+   "broll": "writing journal morning",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; standing and waving; person writing in a notebook at a kitchen table with a coffee cup; the cuaderno y lápiz is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Día uno: se sintió rarísimo. Día tres: casi lo deja. Día cinco: ya esperaba el momento de escribir.",
+   "emocion": "tristeza",
+   "objeto": "calendario con tachones",
+   "pose": "escalera",
+   "prompt_visual": "small calendar with days crossed off, stairs drawn rising upward",
+   "broll": "calendar days crossing",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: sad, drooping eyes; climbing a tall ladder; small calendar with days crossed off, stairs drawn rising upward; the calendario con tachones is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Nada de fuegos artificiales. Solo una costumbre pequeña que se fue haciendo un poquito más fácil.",
+   "emocion": "alegria",
+   "objeto": "taza de café",
+   "pose": "butaco_tazas",
+   "prompt_visual": "steaming coffee cup beside a closed notebook, cozy morning light",
+   "broll": "coffee cup morning",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; sitting on a wooden stool; steaming coffee cup beside a closed notebook, cozy morning light; the taza de café is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Y el día siete lo notó. Dejó de pedirle a su pareja lo que podía darse sola. Por ejemplo, unas palabras de ánimo.",
+   "emocion": "sorpresa",
+   "objeto": "dos manos y una nota",
+   "pose": "senalando",
+   "prompt_visual": "handwritten note reading you can do this, hand holding it gently",
+   "broll": "handwritten note hand",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: surprised, round eyes and open mouth; pointing forward with one long finger; handwritten note reading you can do this, hand holding it gently; the dos manos y una nota is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "No resolvió todo. No era un final perfecto. Pero cambió algo en cómo pedía.",
+   "emocion": "alegria",
+   "objeto": "taza de café",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "empty chair beside a coffee cup with warm light, calm mood",
+   "broll": "calm coffee window light",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; arms wide open; empty chair beside a coffee cup with warm light, calm mood; the taza de café is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: abre tu cuaderno y escríbete una frase de apoyo, como se la dirías a alguien que quieres. Menos de cinco minutos. Suscríbete: mañana hay otro reto.",
+   "emocion": "alegria",
+   "objeto": "cuaderno y lápiz",
+   "pose": "letrero",
+   "prompt_visual": "notebook page with one short supportive sentence and a pencil, warm background",
+   "broll": "pencil notebook desk",
+   "segundos": 10,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a coral hoodie (hood down) and coral high-top sneakers with white soles; expression: happy, big toothy grin; holding up a blank sign board; notebook page with one short supportive sentence and a pencil, warm background; the cuaderno y lápiz is drawn in coral. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "Abre tu cuaderno y escríbete una frase de apoyo, como se la dirías a alguien que quieres. Menos de cinco minutos.",
+ "ganchos_alternativos": [
+  "¿Y si lo que le pides a tu pareja cada día es justo lo que podrías darte tú? Una persona lo descubrió el día 7 de un reto, y no fue lo que esperaba.",
+  "Hay un reto de 7 días donde el día 7 no trae final feliz. Trae algo mejor: una observación honesta. Te la cuento en menos de un minuto.",
+  "Yo pensé que el reto del cuaderno terminaría con alguien diciendo «todo se arregló». Alguien me escribió el día 7 y me dijo otra cosa."
+ ],
+ "palabras": 137,
+ "canal": "equilibrate",
+ "color": "#E8705F",
+ "tipo_contenido": "conversion",
+ "nivel": "clase",
+ "visual": "ilustracion"
+}

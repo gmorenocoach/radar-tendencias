@@ -1,0 +1,58 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.35,Sub,,0,0,0,,{\k53}ALGUIEN {\k12}ME {\k70}ESCRIBIÓ
+Dialogue: 0,0:00:01.35,0:00:02.21,Sub,,0,0,0,,{\k17}EL {\k36}DÍA {\k32}7
+Dialogue: 0,0:00:02.21,0:00:03.30,Sub,,0,0,0,,{\k20}DEL {\k74}RETO... {\k15}Y
+Dialogue: 0,0:00:03.30,0:00:03.79,Sub,,0,0,0,,{\k12}NO {\k17}ERA {\k20}PARA
+Dialogue: 0,0:00:03.79,0:00:04.71,Sub,,0,0,0,,{\k46}DECIRME {\k15}QUE {\k31}TODO
+Dialogue: 0,0:00:04.71,0:00:06.28,Sub,,0,0,0,,{\k38}ESTABA {\k94}RESUELTO. {\k24}UNA
+Dialogue: 0,0:00:06.28,0:00:07.23,Sub,,0,0,0,,{\k48}PERSONA {\k33}HIZO {\k15}UN
+Dialogue: 0,0:00:07.23,0:00:08.68,Sub,,0,0,0,,{\k28}RETO {\k81}SIMPLE: {\k36}CADA
+Dialogue: 0,0:00:08.68,0:00:09.88,Sub,,0,0,0,,{\k36}DÍA, {\k72}ESCRIBIRSE {\k12}EN
+Dialogue: 0,0:00:09.88,0:00:10.81,Sub,,0,0,0,,{\k12}EL {\k63}CUADERNO {\k19}UN
+Dialogue: 0,0:00:10.81,0:00:12.39,Sub,,0,0,0,,{\k60}MENSAJE {\k14}DE {\k84}APOYO.
+Dialogue: 0,0:00:12.39,0:00:13.54,Sub,,0,0,0,,{\k32}UNO {\k52}SOLO. {\k30}PARA
+Dialogue: 0,0:00:13.54,0:00:15.49,Sub,,0,0,0,,{\k97}ELLA. {\k38}DÍA {\k59}UNO:
+Dialogue: 0,0:00:15.49,0:00:17.26,Sub,,0,0,0,,{\k17}SE {\k53}SINTIÓ {\k107}RARÍSIMO.
+Dialogue: 0,0:00:17.26,0:00:18.76,Sub,,0,0,0,,{\k31}DÍA {\k77}TRES: {\k42}CASI
+Dialogue: 0,0:00:18.76,0:00:20.24,Sub,,0,0,0,,{\k15}LO {\k99}DEJA. {\k34}DÍA
+Dialogue: 0,0:00:20.24,0:00:21.99,Sub,,0,0,0,,{\k95}CINCO: {\k21}YA {\k59}ESPERABA
+Dialogue: 0,0:00:21.99,0:00:22.71,Sub,,0,0,0,,{\k13}EL {\k48}MOMENTO {\k12}DE
+Dialogue: 0,0:00:22.71,0:00:24.32,Sub,,0,0,0,,{\k102}ESCRIBIR. {\k44}NADA {\k15}DE
+Dialogue: 0,0:00:24.32,0:00:26.31,Sub,,0,0,0,,{\k44}FUEGOS {\k114}ARTIFICIALES. {\k41}SOLO
+Dialogue: 0,0:00:26.31,0:00:27.57,Sub,,0,0,0,,{\k20}UNA {\k55}COSTUMBRE {\k52}PEQUEÑA
+Dialogue: 0,0:00:27.57,0:00:28.12,Sub,,0,0,0,,{\k14}QUE {\k16}SE {\k24}FUE
+Dialogue: 0,0:00:28.12,0:00:29.35,Sub,,0,0,0,,{\k55}HACIENDO {\k14}UN {\k55}POQUITO
+Dialogue: 0,0:00:29.35,0:00:30.58,Sub,,0,0,0,,{\k22}MÁS {\k87}FÁCIL. {\k14}Y
+Dialogue: 0,0:00:30.58,0:00:31.57,Sub,,0,0,0,,{\k14}EL {\k31}DÍA {\k53}SIETE
+Dialogue: 0,0:00:31.57,0:00:32.87,Sub,,0,0,0,,{\k16}LO {\k81}NOTÓ. {\k33}DEJÓ
+Dialogue: 0,0:00:32.87,0:00:33.51,Sub,,0,0,0,,{\k12}DE {\k45}PEDIRLE {\k7}A
+Dialogue: 0,0:00:33.51,0:00:34.23,Sub,,0,0,0,,{\k15}SU {\k43}PAREJA {\k14}LO
+Dialogue: 0,0:00:34.23,0:00:35.26,Sub,,0,0,0,,{\k14}QUE {\k50}PODÍA {\k40}DARSE
+Dialogue: 0,0:00:35.26,0:00:36.85,Sub,,0,0,0,,{\k72}SOLA. {\k20}POR {\k67}EJEMPLO,
+Dialogue: 0,0:00:36.85,0:00:37.86,Sub,,0,0,0,,{\k33}UNAS {\k55}PALABRAS {\k14}DE
+Dialogue: 0,0:00:37.86,0:00:39.45,Sub,,0,0,0,,{\k73}ÁNIMO. {\k31}NO {\k55}RESOLVIÓ
+Dialogue: 0,0:00:39.45,0:00:40.62,Sub,,0,0,0,,{\k68}TODO. {\k30}NO {\k19}ERA
+Dialogue: 0,0:00:40.62,0:00:41.89,Sub,,0,0,0,,{\k13}UN {\k37}FINAL {\k77}PERFECTO.
+Dialogue: 0,0:00:41.89,0:00:42.86,Sub,,0,0,0,,{\k24}PERO {\k45}CAMBIÓ {\k28}ALGO
+Dialogue: 0,0:00:42.86,0:00:44.62,Sub,,0,0,0,,{\k16}EN {\k32}CÓMO {\k127}PEDÍA.
+Dialogue: 0,0:00:44.62,0:00:45.80,Sub,,0,0,0,,{\k43}RETO {\k13}DE {\k63}HOY:
+Dialogue: 0,0:00:45.80,0:00:46.87,Sub,,0,0,0,,{\k32}ABRE {\k14}TU {\k60}CUADERNO
+Dialogue: 0,0:00:46.87,0:00:48.05,Sub,,0,0,0,,{\k14}Y {\k77}ESCRÍBETE {\k28}UNA
+Dialogue: 0,0:00:48.05,0:00:49.18,Sub,,0,0,0,,{\k37}FRASE {\k12}DE {\k64}APOYO,
+Dialogue: 0,0:00:49.18,0:00:49.67,Sub,,0,0,0,,{\k26}COMO {\k13}SE {\k11}LA
+Dialogue: 0,0:00:49.67,0:00:50.65,Sub,,0,0,0,,{\k55}DIRÍAS {\k7}A {\k37}ALGUIEN
+Dialogue: 0,0:00:50.65,0:00:52.26,Sub,,0,0,0,,{\k14}QUE {\k102}QUIERES. {\k44}MENOS
+Dialogue: 0,0:00:52.26,0:00:53.85,Sub,,0,0,0,,{\k13}DE {\k41}CINCO {\k106}MINUTOS.
+Dialogue: 0,0:00:53.85,0:00:56.04,Sub,,0,0,0,,{\k106}SUSCRÍBETE: {\k70}MAÑANA {\k44}HAY
+Dialogue: 0,0:00:56.04,0:00:57.26,Sub,,0,0,0,,{\k49}OTRO {\k73}RETO.

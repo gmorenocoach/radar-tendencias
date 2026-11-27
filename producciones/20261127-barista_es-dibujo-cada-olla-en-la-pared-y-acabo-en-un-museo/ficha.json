@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Dibujó cada olla en la pared… y acabó en un museo",
+  "historia_id": "amor-dibujocadaollaenlaparedy",
+  "fuente_historia": "Julia Child, «My Life in France» (2006); Smithsonian National Museum of American History"
+ },
+ "historia": {
+  "titulo": "Dibujó cada olla en la pared… y acabó en un museo",
+  "hecho": "En una cocina de Cambridge, Massachusetts, cada olla y cada sartén tiene su silueta dibujada en un tablero de pared. Quien las dibujó fue Paul Child, pintor y fotógrafo, esposo de Julia Child. Julia, según ella misma contó en sus memorias, casi no cocinaba antes de mudarse a París en 1948. Allí estudió en Le Cordon Bleu y, a los 49 años, en 1961, publicó junto a dos coautoras «Mastering the Art of French Cooking». Esa cocina, con las siluetas de Paul, está hoy en el Museo Nacional de Historia Americana del Smithsonian.",
+  "giro": "La cocina que cambió la cocina de un país la ordenó un esposo con un marcador, y el museo guarda ambas cosas.",
+  "fuente": "Julia Child, «My Life in France» (2006); Smithsonian National Museum of American History",
+  "certeza": "alta",
+  "conexion_eje": "A veces amar es dibujar el contorno para que el sueño del otro tenga dónde colgarse.",
+  "gancho": "En esta cocina, cada olla tiene su silueta dibujada en la pared.",
+  "pregunta_binaria": "Si tu pareja empieza un sueño a los 40, ¿le dices vamos o seguro?",
+  "broll": [
+   "vintage kitchen utensils",
+   "pegboard pots pans",
+   "Paris cooking school"
+  ],
+  "id": "amor-dibujocadaollaenlaparedy",
+  "eje": "amor",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "En una cocina de Cambridge, Massachusetts, cada olla y cada sartén tiene su silueta dibujada en un tablero de pared. Quien las dibujó fue Paul Child, pintor y fotógrafo, esposo de Julia Child. Julia, según ella misma contó en sus memorias, casi no cocinaba antes de mudarse a París en 1948. Allí estudió en Le Cordon Bleu y, a los 49 años, en 1961, publicó junto a dos coautoras «Mastering the Art of French Cooking». Esa cocina, con las siluetas de Paul, está hoy en el Museo Nacional de Historia Americana del Smithsonian.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "En esta cocina, cada olla tiene su silueta dibujada en la pared.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

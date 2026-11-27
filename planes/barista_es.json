@@ -552,7 +552,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261127-barista_es-dibujo-cada-olla-en-la-pared-y-acabo-en-un-museo",
+   "resultado": "ok 171s",
+   "producido_en": "2026-11-27T19:18:41"
   },
   {
    "id": "barista_es-20261130-S",

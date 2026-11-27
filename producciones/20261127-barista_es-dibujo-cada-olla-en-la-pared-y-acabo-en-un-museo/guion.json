@@ -1,0 +1,116 @@
+{
+ "titulo": "Dibujó cada olla en la pared… y acabó en un museo",
+ "titulos_alternativos": [
+  "Un pintor trazó sus ollas en la pared por amor, y un museo las guardó",
+  "Dibujó la silueta de cada sartén a su esposa… y acabó en el Smithsonian"
+ ],
+ "descripcion": "Cuentan que en una cocina de Cambridge cada olla tiene su silueta dibujada en la pared. Quien la trazó fue Paul Child, esposo de Julia Child, que a los 49 años publicó el libro que cambió la cocina de un país. Hoy esa cocina vive en un museo.\nFuente: Julia Child, «My Life in France» (2006); Smithsonian National Museum of American History.\nSi tu pareja empieza un sueño a los 40, ¿le dices vamos o seguro? Te leo.",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#amor",
+  "#pareja",
+  "#juliachild",
+  "#cocina"
+ ],
+ "miniatura": {
+  "texto": "UNA OLLA, UNA SILUETA",
+  "emocion": "sorpresa",
+  "objeto": "pared de cocina con siluetas de ollas dibujadas",
+  "pose": "senalando"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "En esta cocina, cada olla tiene su silueta dibujada en la pared.",
+   "emocion": "curiosidad",
+   "objeto": "tablero de pared con siluetas de ollas",
+   "pose": "senalando",
+   "prompt_visual": "kitchen pegboard wall with painted outlines around hanging pots and pans, warm light",
+   "broll": "pegboard pots pans",
+   "segundos": 3,
+   "broll_fuente": "400f30d634a8a8cc.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que esto pasó en una casa de Cambridge, Massachusetts. Quien dibujó los contornos fue Paul Child, pintor y fotógrafo. Su esposa se llamaba Julia.",
+   "emocion": "calidez",
+   "objeto": "taza de café sobre la mesa de la cocina",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cozy kitchen in Cambridge Massachusetts, painter's brushes and a coffee cup on the table, vintage feel",
+   "broll": "vintage kitchen utensils",
+   "segundos": 10,
+   "broll_fuente": "06cf4934117b68e5.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Julia Child, según contó ella misma en sus memorias, casi no cocinaba antes de mudarse a París en 1948. Allá estudió en Le Cordon Bleu. Y empezó a cocinar en serio.",
+   "emocion": "asombro",
+   "objeto": "cuaderno de recetas abierto",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "open handwritten recipe notebook beside a copper pot, Paris cooking school atmosphere, 1940s style",
+   "broll": "Paris cooking school",
+   "segundos": 8,
+   "broll_fuente": "c16a92992540ab54.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Pasaron los años. Y no fue rápido. A los 49, en 1961, publicó junto a dos coautoras un libro: Mastering the Art of French Cooking. A esa edad, muchos ya se dicen que es tarde.",
+   "emocion": "tension",
+   "objeto": "libro de cocina grueso sobre la mesa",
+   "pose": "aburrido",
+   "prompt_visual": "thick vintage cookbook on a wooden kitchen table, clock on the wall, quiet suspense",
+   "broll": "vintage cookbook pages",
+   "segundos": 12,
+   "broll_fuente": "ea9b55dedb2bff4e.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Pero mira el detalle. Paul tomó un marcador y dibujó el contorno de cada olla y cada sartén. Para que cada una tuviera su lugar. El sueño de ella necesitaba un orden. Y él se lo dibujó.",
+   "emocion": "ternura",
+   "objeto": "marcador trazando el contorno de una sartén",
+   "pose": "agachado",
+   "prompt_visual": "hand tracing marker outline around a frying pan on a pegboard wall, close-up, soft warm light",
+   "broll": "pegboard pots pans",
+   "segundos": 10,
+   "broll_fuente": "265aa6014b75a59a.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Esa cocina, con las siluetas de Paul, hoy está en el Museo Nacional de Historia Americana del Smithsonian. La cocina que cambió la cocina de un país la ordenó un esposo con un marcador, y el museo guarda ambas cosas.",
+   "emocion": "asombro",
+   "objeto": "cocina exhibida en un museo",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "museum exhibit of a vintage kitchen behind glass, pots hanging over painted outlines, gallery lighting",
+   "broll": "museum kitchen exhibit",
+   "segundos": 9,
+   "broll_fuente": "06cf4934117b68e5.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "A veces amar es dibujar el contorno para que el sueño del otro tenga dónde colgarse. Si tu pareja empieza un sueño a los 40, ¿le dices vamos o seguro? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "calidez",
+   "objeto": "taza de café humeante",
+   "pose": "saludando",
+   "prompt_visual": "steaming coffee cup on a kitchen counter next to a hanging pot, soft morning light, inviting mood",
+   "broll": "coffee steam morning",
+   "segundos": 8,
+   "broll_fuente": "ec405037c7c28403.mp4"
+  }
+ ],
+ "pregunta_final": "Si tu pareja empieza un sueño a los 40, ¿le dices vamos o seguro?",
+ "reto_de_hoy": "Si tu pareja empieza un sueño a los 40, ¿le dices vamos o seguro?",
+ "ganchos_alternativos": [
+  "Alguien dibujó el contorno de cada sartén en una pared, y hoy esa pared está en un museo.",
+  "Su esposa casi no cocinaba, y aun así él le dibujó un lugar para cada olla.",
+  "La cocina más famosa de Estados Unidos tiene un secreto: está dibujada con marcador."
+ ],
+ "palabras": 217,
+ "canal": "barista",
+ "color": "#6F4E37",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "amor-dibujocadaollaenlaparedy",
+ "visual": "broll"
+}

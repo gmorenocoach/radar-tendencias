@@ -1,0 +1,47 @@
+{
+ "fuente": {
+  "tema": "Hizo el reto 7 días y esto contó (historia real). Gancho: Alguien me escribió al día 7 y no era para decirme que todo estaba resuelto.. Formato de conversión: Short narrado 50 s, historia resumida y anónima: reto diario de escribirse un mensaje de apoyo en el cuaderno; al día 7 notó que dejó de pedirle a su pareja lo que podía darse sola. Sin promesas de resultado. Cierre: Si quieres hacer el reto con compañía, en la clase gratuita lo arrancamos juntos. Link en el comentario."
+ },
+ "adn": {
+  "tema_central": "Reto de 7 días escribiéndose un mensaje de apoyo cada día en el cuaderno, y lo que una persona notó al día 7: dejó de pedirle a su pareja lo que podía darse sola (historia real, resumida y anónima)",
+  "promesa_del_titulo": "Descubrirás qué pasó realmente al final de un reto de 7 días, contado sin maquillaje y sin prometer que todo se resuelve: solo lo que una persona real notó.",
+  "gancho_primeros_segundos": "\"Alguien me escribió el día 7 del reto… y no era para decirme que todo estaba resuelto.\" (texto en pantalla grande desde el segundo 0, voz directa a cámara o voz en off sobre imagen de un cuaderno abierto)",
+  "tipo_de_gancho": "Contradicción + bucle abierto: rompe la expectativa del final feliz típico de los retos y deja la pregunta '¿entonces para qué le escribieron?' sin responder hasta el segundo ~35.",
+  "estructura": [
+   "0-3 s: Gancho de contradicción (el mensaje del día 7 que no fue de 'todo resuelto').",
+   "3-10 s: Contexto mínimo y anónimo: 'Una persona hizo un reto simple: cada día, escribirse un mensaje de apoyo en el cuaderno'.",
+   "10-25 s: Resumen rápido de los días 1-6 en lista corta y visual (día 1: se sentía raro; día 3: casi lo deja; día 5: empezó a esperar el momento de escribir), sin exagerar resultados.",
+   "25-40 s: Giro del día 7: notó que dejó de pedirle a su pareja cosas que podía darse sola (ejemplo concreto: palabras de ánimo). Resolver el bucle del gancho con honestidad: no era un final perfecto, era una observación.",
+   "40-46 s: Frase de cierre honesta: 'No resolvió todo. Pero cambió algo en cómo pedía'. Sin promesas de resultado.",
+   "46-50 s: CTA suave de reto con compañía hacia la clase gratuita."
+  ],
+  "ritmo": "Rápido y limpio: cortes cada 2-3 segundos, subtítulos grandes sincronizados con la voz, pausas breves antes del giro del día 7 para generar peso emocional. Narración de ~130-140 palabras en 50 s sin relleno.",
+  "tono": "Cercano, sereno y honesto, como contarle algo real a una amiga. Sin dramatismo, sin tono de gurú, sin promesas. Voz cálida con una pausa antes de la revelación.",
+  "cta_final": "Si quieres hacer el reto con compañía, en la clase gratuita lo arrancamos juntos. Link en el comentario.",
+  "formula_del_titulo": "Reto de [N días] + [acción simple] + 'esto contó' / revelación parcial que no es el final esperado (contradicción + historia real)",
+  "titulo_con_numero": "Hizo el reto 7 días y esto contó (historia real)",
+  "palabras_clave": [
+   "reto 7 días",
+   "historia real",
+   "mensaje de apoyo",
+   "escribir en el cuaderno",
+   "autocuidado",
+   "pareja",
+   "dependencia emocional",
+   "darte lo que pides",
+   "reto diario",
+   "clase gratuita"
+  ],
+  "emocion_dominante": "Curiosidad que deriva en reconocimiento y ternura (identificación con pedir al otro lo que uno podría darse)",
+  "formula_miniatura": "Primer plano de un cuaderno abierto con una frase manuscrita y un '7' grande en un círculo; texto corto en 3-4 palabras: 'DÍA 7: NO FUE LO ESPERADO'. Paleta cálida, pocos elementos, sin rostro obligatorio para mantener el anonimato.",
+  "por_que_funciona": "El gancho rompe el patrón de los retos con final perfecto y abre un bucle que retiene hasta el giro. El formato de 7 días con una acción mínima es fácil de imaginar y de imitar. La historia anónima y concreta (una observación pequeña, no una transformación mágica) genera credibilidad y reconocimiento personal. El cierre invita a un reto compartido en lugar de vender, lo que baja la resistencia al CTA.",
+  "riesgos_a_evitar": [
+   "Prometer resultados o transformaciones ('esto cambiará tu relación'): mantener solo lo que la persona notó.",
+   "Presentar el reto como sustituto de terapia o de comunicación en pareja; evitar sugerir que pedir apoyo a la pareja está mal.",
+   "Revelar datos identificables de la persona o de su pareja: mantener el anonimato total.",
+   "Alargar el contexto antes del giro: el bucle del gancho debe resolverse antes del segundo 40.",
+   "Tono de venta agresivo en el cierre: el CTA debe sonar a invitación, no a presión.",
+   "Inventar detalles que no sean de la historia real contada."
+  ]
+ }
+}

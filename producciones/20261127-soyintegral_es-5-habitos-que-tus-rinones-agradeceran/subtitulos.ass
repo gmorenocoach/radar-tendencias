@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00578B2E,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.95,Sub,,0,0,0,,{\k34}¿ES {\k46}CIERTO {\k15}QUE
+Dialogue: 0,0:00:00.95,0:00:02.00,Sub,,0,0,0,,{\k13}UN {\k48}JUGO {\k44}LIMPIA
+Dialogue: 0,0:00:02.00,0:00:04.12,Sub,,0,0,0,,{\k22}TUS {\k98}RIÑONES? {\k93}SPOILER:
+Dialogue: 0,0:00:04.12,0:00:05.48,Sub,,0,0,0,,{\k59}NO. {\k30}PERO {\k46}ESTO
+Dialogue: 0,0:00:05.48,0:00:06.61,Sub,,0,0,0,,{\k28}SÍ {\k21}LOS {\k64}CUIDA.
+Dialogue: 0,0:00:06.61,0:00:07.89,Sub,,0,0,0,,{\k29}TUS {\k67}RIÑONES {\k32}SON
+Dialogue: 0,0:00:07.89,0:00:09.58,Sub,,0,0,0,,{\k54}FILTROS {\k96}FINÍSIMOS. {\k17}Y
+Dialogue: 0,0:00:09.58,0:00:10.31,Sub,,0,0,0,,{\k51}DEPENDEN {\k9}DE {\k13}TU
+Dialogue: 0,0:00:10.31,0:00:11.76,Sub,,0,0,0,,{\k45}PRESIÓN {\k85}ARTERIAL, {\k15}DE
+Dialogue: 0,0:00:11.76,0:00:12.78,Sub,,0,0,0,,{\k13}TU {\k74}GLUCOSA {\k15}Y
+Dialogue: 0,0:00:12.78,0:00:14.08,Sub,,0,0,0,,{\k12}DE {\k13}TU {\k106}CORAZÓN.
+Dialogue: 0,0:00:14.08,0:00:15.26,Sub,,0,0,0,,{\k21}SI {\k45}CUIDAS {\k51}ESO,
+Dialogue: 0,0:00:15.26,0:00:16.16,Sub,,0,0,0,,{\k25}LOS {\k50}CUIDAS {\k15}A
+Dialogue: 0,0:00:16.16,0:00:18.12,Sub,,0,0,0,,{\k78}ELLOS. {\k74}UNO: {\k44}BAJA
+Dialogue: 0,0:00:18.12,0:00:18.75,Sub,,0,0,0,,{\k15}UN {\k34}POCO {\k14}LA
+Dialogue: 0,0:00:18.75,0:00:20.19,Sub,,0,0,0,,{\k71}SAL. {\k52}COCINA {\k21}CON
+Dialogue: 0,0:00:20.19,0:00:21.34,Sub,,0,0,0,,{\k51}AJO, {\k58}CEBOLLA {\k6}Y
+Dialogue: 0,0:00:21.34,0:00:22.54,Sub,,0,0,0,,{\k56}PIMIENTO {\k24}PARA {\k39}DARLE
+Dialogue: 0,0:00:22.54,0:00:23.80,Sub,,0,0,0,,{\k43}SABOR {\k28}SIN {\k56}PASARTE
+Dialogue: 0,0:00:23.80,0:00:25.94,Sub,,0,0,0,,{\k12}DE {\k110}SODIO. {\k92}DOS:
+Dialogue: 0,0:00:25.94,0:00:27.42,Sub,,0,0,0,,{\k29}MÁS {\k70}AVENA, {\k50}FRUTOS
+Dialogue: 0,0:00:27.42,0:00:28.51,Sub,,0,0,0,,{\k46}ROJOS {\k17}Y {\k45}ACEITE
+Dialogue: 0,0:00:28.51,0:00:29.94,Sub,,0,0,0,,{\k12}DE {\k106}OLIVA. {\k26}NO
+Dialogue: 0,0:00:29.94,0:00:31.13,Sub,,0,0,0,,{\k44}LIMPIAN {\k49}NADA, {\k26}PERO
+Dialogue: 0,0:00:31.13,0:00:31.72,Sub,,0,0,0,,{\k41}AYUDAN {\k7}A {\k12}TU
+Dialogue: 0,0:00:31.72,0:00:32.54,Sub,,0,0,0,,{\k64}GLUCOSA {\k12}Y {\k7}A
+Dialogue: 0,0:00:32.54,0:00:34.69,Sub,,0,0,0,,{\k13}TU {\k121}CORAZÓN. {\k81}TRES:
+Dialogue: 0,0:00:34.69,0:00:35.76,Sub,,0,0,0,,{\k38}TOMA {\k29}AGUA {\k39}DURANTE
+Dialogue: 0,0:00:35.76,0:00:36.65,Sub,,0,0,0,,{\k15}EL {\k49}DÍA, {\k26}SIN
+Dialogue: 0,0:00:36.65,0:00:38.91,Sub,,0,0,0,,{\k127}OBSESIONARTE. {\k19}Y {\k80}CUATRO:
+Dialogue: 0,0:00:38.91,0:00:40.03,Sub,,0,0,0,,{\k35}MUEVE {\k14}EL {\k64}CUERPO,
+Dialogue: 0,0:00:40.03,0:00:41.20,Sub,,0,0,0,,{\k16}QUE {\k54}CAMINAR {\k47}TAMBIÉN
+Dialogue: 0,0:00:41.20,0:00:42.86,Sub,,0,0,0,,{\k35}CUIDA {\k12}TU {\k120}PRESIÓN.
+Dialogue: 0,0:00:42.86,0:00:44.23,Sub,,0,0,0,,{\k86}CINCO: {\k34}OJO {\k17}CON
+Dialogue: 0,0:00:44.23,0:00:44.85,Sub,,0,0,0,,{\k10}EL {\k41}EXCESO {\k10}DE
+Dialogue: 0,0:00:44.85,0:00:45.94,Sub,,0,0,0,,{\k84}ANALGÉSICOS {\k12}Y {\k14}CON
+Dialogue: 0,0:00:45.94,0:00:47.36,Sub,,0,0,0,,{\k14}LAS {\k35}DIETAS {\k93}MILAGRO.
+Dialogue: 0,0:00:47.36,0:00:48.01,Sub,,0,0,0,,{\k21}SI {\k14}YA {\k30}TIENES
+Dialogue: 0,0:00:48.01,0:00:49.42,Sub,,0,0,0,,{\k62}ENFERMEDAD {\k45}RENAL, {\k35}ANTES
+Dialogue: 0,0:00:49.42,0:00:50.03,Sub,,0,0,0,,{\k9}DE {\k39}CAMBIAR {\k12}TU
+Dialogue: 0,0:00:50.03,0:00:51.12,Sub,,0,0,0,,{\k55}COMIDA {\k37}HABLA {\k17}CON
+Dialogue: 0,0:00:51.12,0:00:52.98,Sub,,0,0,0,,{\k12}TU {\k141}MÉDICO. {\k34}RETO
+Dialogue: 0,0:00:52.98,0:00:54.11,Sub,,0,0,0,,{\k13}DE {\k65}HOY: {\k36}CAMBIA
+Dialogue: 0,0:00:54.11,0:00:54.86,Sub,,0,0,0,,{\k13}EL {\k44}SALERO {\k17}POR
+Dialogue: 0,0:00:54.86,0:00:55.91,Sub,,0,0,0,,{\k14}UNA {\k77}ESPECIA {\k15}O
+Dialogue: 0,0:00:55.91,0:00:56.60,Sub,,0,0,0,,{\k16}UN {\k38}DIENTE {\k14}DE
+Dialogue: 0,0:00:56.60,0:00:57.04,Sub,,0,0,0,,{\k22}AJO {\k9}EN {\k13}TU
+Dialogue: 0,0:00:57.04,0:00:58.52,Sub,,0,0,0,,{\k46}PRÓXIMA {\k84}COMIDA. {\k18}Y
+Dialogue: 0,0:00:58.52,0:01:00.20,Sub,,0,0,0,,{\k52}CUÉNTAME {\k27}CUÁL {\k88}USASTE.
+Dialogue: 0,0:01:00.20,0:01:02.21,Sub,,0,0,0,,{\k99}SUSCRÍBETE: {\k65}MAÑANA {\k37}HAY
+Dialogue: 0,0:01:02.21,0:01:03.16,Sub,,0,0,0,,{\k29}OTRO {\k66}RETO.

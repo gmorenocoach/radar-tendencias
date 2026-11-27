@@ -516,7 +516,10 @@
    "referencia_video_id": "",
    "tipo_contenido": "conversion",
    "nivel": "clase",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261127-equilibrate_es-hizo-el-reto-7-dias-y-esto-conto",
+   "resultado": "ok 182s",
+   "producido_en": "2026-11-27T19:15:50"
   },
   {
    "id": "equilibrate_es-20261129-V",

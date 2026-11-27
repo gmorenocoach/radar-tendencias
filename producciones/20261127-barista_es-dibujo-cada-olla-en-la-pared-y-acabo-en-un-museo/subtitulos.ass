@@ -1,0 +1,85 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00374E6F,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.93,Sub,,0,0,0,,{\k20}EN {\k22}ESTA {\k51}COCINA,
+Dialogue: 0,0:00:00.93,0:00:01.80,Sub,,0,0,0,,{\k32}CADA {\k28}OLLA {\k27}TIENE
+Dialogue: 0,0:00:01.80,0:00:03.03,Sub,,0,0,0,,{\k15}SU {\k51}SILUETA {\k57}DIBUJADA
+Dialogue: 0,0:00:03.03,0:00:04.25,Sub,,0,0,0,,{\k9}EN {\k12}LA {\k101}PARED.
+Dialogue: 0,0:00:04.25,0:00:05.13,Sub,,0,0,0,,{\k45}CUENTAN {\k16}QUE {\k27}ESTO
+Dialogue: 0,0:00:05.13,0:00:05.86,Sub,,0,0,0,,{\k42}PASÓ {\k13}EN {\k19}UNA
+Dialogue: 0,0:00:05.86,0:00:06.98,Sub,,0,0,0,,{\k32}CASA {\k14}DE {\k65}CAMBRIDGE,
+Dialogue: 0,0:00:06.98,0:00:09.04,Sub,,0,0,0,,{\k143}MASSACHUSETTS. {\k23}QUIEN {\k41}DIBUJÓ
+Dialogue: 0,0:00:09.04,0:00:10.32,Sub,,0,0,0,,{\k19}LOS {\k71}CONTORNOS {\k38}FUE
+Dialogue: 0,0:00:10.32,0:00:11.88,Sub,,0,0,0,,{\k29}PAUL {\k64}CHILD, {\k63}PINTOR
+Dialogue: 0,0:00:11.88,0:00:13.49,Sub,,0,0,0,,{\k14}Y {\k129}FOTÓGRAFO. {\k19}SU
+Dialogue: 0,0:00:13.49,0:00:14.74,Sub,,0,0,0,,{\k48}ESPOSA {\k13}SE {\k65}LLAMABA
+Dialogue: 0,0:00:14.74,0:00:16.95,Sub,,0,0,0,,{\k124}JULIA. {\k43}JULIA {\k53}CHILD,
+Dialogue: 0,0:00:16.95,0:00:18.03,Sub,,0,0,0,,{\k39}SEGÚN {\k44}CONTÓ {\k24}ELLA
+Dialogue: 0,0:00:18.03,0:00:18.65,Sub,,0,0,0,,{\k34}MISMA {\k9}EN {\k19}SUS
+Dialogue: 0,0:00:18.65,0:00:19.97,Sub,,0,0,0,,{\k71}MEMORIAS, {\k42}CASI {\k20}NO
+Dialogue: 0,0:00:19.97,0:00:20.93,Sub,,0,0,0,,{\k58}COCINABA {\k30}ANTES {\k8}DE
+Dialogue: 0,0:00:20.93,0:00:21.92,Sub,,0,0,0,,{\k50}MUDARSE {\k8}A {\k41}PARÍS
+Dialogue: 0,0:00:21.92,0:00:24.70,Sub,,0,0,0,,{\k16}EN {\k218}1948. {\k43}ALLÁ
+Dialogue: 0,0:00:24.70,0:00:25.93,Sub,,0,0,0,,{\k60}ESTUDIÓ {\k43}EN {\k20}LE
+Dialogue: 0,0:00:25.93,0:00:27.20,Sub,,0,0,0,,{\k43}CORDON {\k70}BLEU. {\k15}Y
+Dialogue: 0,0:00:27.20,0:00:28.30,Sub,,0,0,0,,{\k52}EMPEZÓ {\k7}A {\k51}COCINAR
+Dialogue: 0,0:00:28.30,0:00:29.62,Sub,,0,0,0,,{\k11}EN {\k68}SERIO. {\k52}PASARON
+Dialogue: 0,0:00:29.62,0:00:30.66,Sub,,0,0,0,,{\k16}LOS {\k71}AÑOS. {\k17}Y
+Dialogue: 0,0:00:30.66,0:00:31.78,Sub,,0,0,0,,{\k14}NO {\k21}FUE {\k77}RÁPIDO.
+Dialogue: 0,0:00:31.78,0:00:32.96,Sub,,0,0,0,,{\k12}A {\k17}LOS {\k89}49,
+Dialogue: 0,0:00:32.96,0:00:35.13,Sub,,0,0,0,,{\k17}EN {\k161}1961, {\k38}PUBLICÓ
+Dialogue: 0,0:00:35.13,0:00:35.76,Sub,,0,0,0,,{\k30}JUNTO {\k8}A {\k24}DOS
+Dialogue: 0,0:00:35.76,0:00:37.30,Sub,,0,0,0,,{\k70}COAUTORAS {\k15}UN {\k70}LIBRO:
+Dialogue: 0,0:00:37.30,0:00:38.33,Sub,,0,0,0,,{\k56}MASTERING {\k17}THE {\k29}ART
+Dialogue: 0,0:00:38.33,0:00:39.78,Sub,,0,0,0,,{\k13}OF {\k32}FRENCH {\k100}COOKING.
+Dialogue: 0,0:00:39.78,0:00:40.70,Sub,,0,0,0,,{\k20}A {\k21}ESA {\k52}EDAD,
+Dialogue: 0,0:00:40.70,0:00:41.59,Sub,,0,0,0,,{\k56}MUCHOS {\k19}YA {\k14}SE
+Dialogue: 0,0:00:41.59,0:00:42.24,Sub,,0,0,0,,{\k36}DICEN {\k15}QUE {\k14}ES
+Dialogue: 0,0:00:42.24,0:00:43.96,Sub,,0,0,0,,{\k100}TARDE. {\k44}PERO {\k28}MIRA
+Dialogue: 0,0:00:43.96,0:00:45.47,Sub,,0,0,0,,{\k14}EL {\k101}DETALLE. {\k36}PAUL
+Dialogue: 0,0:00:45.47,0:00:46.49,Sub,,0,0,0,,{\k32}TOMÓ {\k11}UN {\k59}MARCADOR
+Dialogue: 0,0:00:46.49,0:00:47.18,Sub,,0,0,0,,{\k13}Y {\k44}DIBUJÓ {\k13}EL
+Dialogue: 0,0:00:47.18,0:00:48.34,Sub,,0,0,0,,{\k57}CONTORNO {\k16}DE {\k43}CADA
+Dialogue: 0,0:00:48.34,0:00:49.24,Sub,,0,0,0,,{\k39}OLLA {\k17}Y {\k33}CADA
+Dialogue: 0,0:00:49.24,0:00:50.61,Sub,,0,0,0,,{\k100}SARTÉN. {\k23}PARA {\k14}QUE
+Dialogue: 0,0:00:50.61,0:00:51.69,Sub,,0,0,0,,{\k33}CADA {\k28}UNA {\k48}TUVIERA
+Dialogue: 0,0:00:51.69,0:00:52.83,Sub,,0,0,0,,{\k13}SU {\k77}LUGAR. {\k24}EL
+Dialogue: 0,0:00:52.83,0:00:53.69,Sub,,0,0,0,,{\k36}SUEÑO {\k13}DE {\k37}ELLA
+Dialogue: 0,0:00:53.69,0:00:55.37,Sub,,0,0,0,,{\k81}NECESITABA {\k15}UN {\k72}ORDEN.
+Dialogue: 0,0:00:55.37,0:00:56.05,Sub,,0,0,0,,{\k21}Y {\k30}ÉL {\k18}SE
+Dialogue: 0,0:00:56.05,0:00:57.69,Sub,,0,0,0,,{\k12}LO {\k115}DIBUJÓ. {\k37}ESA
+Dialogue: 0,0:00:57.69,0:00:58.55,Sub,,0,0,0,,{\k56}COCINA, {\k17}CON {\k13}LAS
+Dialogue: 0,0:00:58.55,0:00:59.68,Sub,,0,0,0,,{\k52}SILUETAS {\k12}DE {\k49}PAUL,
+Dialogue: 0,0:00:59.68,0:01:00.51,Sub,,0,0,0,,{\k38}HOY {\k35}ESTÁ {\k11}EN
+Dialogue: 0,0:01:00.51,0:01:01.58,Sub,,0,0,0,,{\k12}EL {\k41}MUSEO {\k55}NACIONAL
+Dialogue: 0,0:01:01.58,0:01:02.78,Sub,,0,0,0,,{\k10}DE {\k49}HISTORIA {\k60}AMERICANA
+Dialogue: 0,0:01:02.78,0:01:04.33,Sub,,0,0,0,,{\k21}DEL {\k118}SMITHSONIAN. {\k16}LA
+Dialogue: 0,0:01:04.33,0:01:05.32,Sub,,0,0,0,,{\k43}COCINA {\k12}QUE {\k44}CAMBIÓ
+Dialogue: 0,0:01:05.32,0:01:05.99,Sub,,0,0,0,,{\k11}LA {\k42}COCINA {\k15}DE
+Dialogue: 0,0:01:05.99,0:01:06.84,Sub,,0,0,0,,{\k12}UN {\k59}PAÍS {\k14}LA
+Dialogue: 0,0:01:06.84,0:01:07.85,Sub,,0,0,0,,{\k39}ORDENÓ {\k12}UN {\k50}ESPOSO
+Dialogue: 0,0:01:07.85,0:01:09.00,Sub,,0,0,0,,{\k21}CON {\k12}UN {\k82}MARCADOR,
+Dialogue: 0,0:01:09.00,0:01:09.77,Sub,,0,0,0,,{\k13}Y {\k13}EL {\k51}MUSEO
+Dialogue: 0,0:01:09.77,0:01:12.13,Sub,,0,0,0,,{\k52}GUARDA {\k55}AMBAS {\k130}COSAS.
+Dialogue: 0,0:01:12.13,0:01:12.99,Sub,,0,0,0,,{\k14}A {\k35}VECES {\k37}AMAR
+Dialogue: 0,0:01:12.99,0:01:13.64,Sub,,0,0,0,,{\k10}ES {\k43}DIBUJAR {\k12}EL
+Dialogue: 0,0:01:13.64,0:01:14.55,Sub,,0,0,0,,{\k58}CONTORNO {\k21}PARA {\k12}QUE
+Dialogue: 0,0:01:14.55,0:01:15.29,Sub,,0,0,0,,{\k15}EL {\k38}SUEÑO {\k21}DEL
+Dialogue: 0,0:01:15.29,0:01:16.36,Sub,,0,0,0,,{\k33}OTRO {\k41}TENGA {\k34}DÓNDE
+Dialogue: 0,0:01:16.36,0:01:17.95,Sub,,0,0,0,,{\k129}COLGARSE. {\k19}SI {\k12}TU
+Dialogue: 0,0:01:17.95,0:01:18.91,Sub,,0,0,0,,{\k34}PAREJA {\k50}EMPIEZA {\k13}UN
+Dialogue: 0,0:01:18.91,0:01:19.60,Sub,,0,0,0,,{\k41}SUEÑO {\k6}A {\k22}LOS
+Dialogue: 0,0:01:19.60,0:01:21.10,Sub,,0,0,0,,{\k60}40, {\k29}¿LE {\k60}DICES
+Dialogue: 0,0:01:21.10,0:01:22.97,Sub,,0,0,0,,{\k63}VAMOS {\k27}O {\k98}SEGURO?
+Dialogue: 0,0:01:22.97,0:01:25.10,Sub,,0,0,0,,{\k17}TE {\k93}LEO. {\k103}SUSCRÍBETE:
+Dialogue: 0,0:01:25.10,0:01:26.17,Sub,,0,0,0,,{\k61}MAÑANA {\k22}HAY {\k23}OTRA
+Dialogue: 0,0:01:26.17,0:01:27.08,Sub,,0,0,0,,{\k91}HISTORIA.

@@ -1,0 +1,114 @@
+{
+ "titulo": "5 hábitos que tus RIÑONES agradecerán",
+ "titulos_alternativos": [
+  "5 cosas de tu día que tus RIÑONES agradecerán",
+  "¿Limpiar los RIÑONES? 5 hábitos que sí ayudan"
+ ],
+ "descripcion": "¿Se pueden limpiar los riñones con un jugo? No: pero tus hábitos diarios sí los cuidan, sobre todo los que protegen tu presión arterial. Cinco ideas sencillas para empezar hoy. Esto no reemplaza al médico: si tienes una enfermedad renal, consulta antes de cambiar tu alimentación. Haz el reto de hoy y cuéntame en comentarios cuál elegiste.",
+ "hashtags": [
+  "#salud",
+  "#riñones",
+  "#habitos",
+  "#bienestar",
+  "#presionarterial",
+  "#saludintegral",
+  "#germancho"
+ ],
+ "miniatura": {
+  "texto": "¿LIMPIAR RIÑONES?",
+  "emocion": "sorpresa",
+  "objeto": "taza de café con dos riñones dibujados al lado",
+  "pose": "salto_sorpresa"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "¿Es cierto que un jugo limpia tus riñones? Spoiler: no. Pero esto sí los cuida.",
+   "emocion": "sorpresa",
+   "objeto": "taza humeante con un riñón dibujado",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista character jumping in surprise next to a coffee cup with a kidney drawn on it",
+   "broll": "kidney anatomy model",
+   "segundos": 7,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: surprised, round eyes and open mouth; jumping with arms up; cartoon barista character jumping in surprise next to a coffee cup with a kidney drawn on it; the taza humeante con un riñón dibujado is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 2,
+   "texto": "Tus riñones son filtros finísimos. Y dependen de tu presión arterial, de tu glucosa y de tu corazón. Si cuidas eso, los cuidas a ellos.",
+   "emocion": "alegria",
+   "objeto": "cuaderno con un corazón y un riñón unidos por una flecha",
+   "pose": "senalando",
+   "prompt_visual": "character pointing at a notebook showing a heart linked to a kidney by an arrow",
+   "broll": "doctor explaining anatomy",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; pointing forward with one long finger; character pointing at a notebook showing a heart linked to a kidney by an arrow; the cuaderno con un corazón y un riñón unidos por una flecha is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 3,
+   "texto": "Uno: baja un poco la sal. Cocina con ajo, cebolla y pimiento para darle sabor sin pasarte de sodio.",
+   "emocion": "alegria",
+   "objeto": "salero tachado junto a ajo y cebolla",
+   "pose": "letrero",
+   "prompt_visual": "character holding a sign with a crossed-out salt shaker beside garlic and onion",
+   "broll": "chopping garlic onion",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; holding up a blank sign board; character holding a sign with a crossed-out salt shaker beside garlic and onion; the salero tachado junto a ajo y cebolla is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 4,
+   "texto": "Dos: más avena, frutos rojos y aceite de oliva. No limpian nada, pero ayudan a tu glucosa y a tu corazón.",
+   "emocion": "alegria",
+   "objeto": "plato de avena con frutos rojos y una gota de aceite",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "character with open arms beside a bowl of oatmeal with berries and an olive oil drop",
+   "broll": "oatmeal berries breakfast",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; arms wide open; character with open arms beside a bowl of oatmeal with berries and an olive oil drop; the plato de avena con frutos rojos y una gota de aceite is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 5,
+   "texto": "Tres: toma agua durante el día, sin obsesionarte. Y cuatro: mueve el cuerpo, que caminar también cuida tu presión.",
+   "emocion": "alegria",
+   "objeto": "vaso de agua y un par de zapatos de caminar",
+   "pose": "escalera",
+   "prompt_visual": "character climbing a small staircase with a glass of water and walking shoes at the top",
+   "broll": "walking park morning",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; climbing a tall ladder; character climbing a small staircase with a glass of water and walking shoes at the top; the vaso de agua y un par de zapatos de caminar is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 6,
+   "texto": "Cinco: ojo con el exceso de analgésicos y con las dietas milagro. Si ya tienes enfermedad renal, antes de cambiar tu comida habla con tu médico.",
+   "emocion": "miedo",
+   "objeto": "pastillero con un signo de precaución",
+   "pose": "agachado",
+   "prompt_visual": "character crouching to examine a pill organizer with a caution sign",
+   "broll": "doctor consultation patient",
+   "segundos": 9,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: scared, wide eyes, raised brows; bent over looking down; character crouching to examine a pill organizer with a caution sign; the pastillero con un signo de precaución is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  },
+  {
+   "n": 7,
+   "texto": "Reto de hoy: cambia el salero por una especia o un diente de ajo en tu próxima comida. Y cuéntame cuál usaste. Suscríbete: mañana hay otro reto.",
+   "emocion": "alegria",
+   "objeto": "taza de café con una nota que dice Reto de hoy",
+   "pose": "saludando",
+   "prompt_visual": "character waving cheerfully beside a coffee cup with a note reading Reto de hoy",
+   "broll": "cooking with spices",
+   "segundos": 8,
+   "prompt_final": "This is Germancho. Keep this SAME character identical (same head, hair, face, proportions, line style, hoodie and sneakers) and only change his pose, expression and the object: the head is a flat INVERTED TRIANGLE (wide at the top, pointed chin) with spiky scribbled hair on the top edge, two friendly open oval eyes drawn as outlines with a small dot pupil (NOT solid black eyes), a gentle smile, no nose, no ears; very long thin neck, stick-thin body, extremely long wire legs, twig hands with long fingers; loose multi-stroke pen lines. Do NOT redesign the face or head shape, do NOT make it a skull, alien or realistic head. Change ONLY his clothes and the scene: he wears a forest green hoodie (hood down) and forest green high-top sneakers with white soles; expression: happy, big toothy grin; standing and waving; character waving cheerfully beside a coffee cup with a note reading Reto de hoy; the taza de café con una nota que dice Reto de hoy is drawn in forest green. Everything else is black ink on a plain flat off-white paper background. No dark background, no shading gradients, no signature, no watermark, no text, no extra colors. Vertical 9:16 composition, character large and centered, children's-book sketch illustration. Absolutely no written words, letters, labels or captions anywhere in the image."
+  }
+ ],
+ "reto_de_hoy": "En tu próxima comida, cambia el salero por una especia o un diente de ajo, y cuéntalo en comentarios.",
+ "ganchos_alternativos": [
+  "Tus riñones filtran todo lo que comes y bebes, y casi nunca les das las gracias. Hoy sí. ¿Quieres saber cómo?",
+  "Dicen que ciertos alimentos limpian los riñones. Es un mito. Lo que sí funciona es más simple y está en tu cocina.",
+  "Mi tío pasó años tomando jugos para limpiar sus riñones. Hasta que su médico le explicó lo que de verdad importaba."
+ ],
+ "palabras": 152,
+ "canal": "soyintegral",
+ "color": "#2E8B57",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "visual": "ilustracion"
+}
