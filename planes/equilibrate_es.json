@@ -548,7 +548,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda",
+   "resultado": "ok 179s",
+   "producido_en": "2026-11-28T17:53:40"
   },
   {
    "id": "equilibrate_es-20261130-C",

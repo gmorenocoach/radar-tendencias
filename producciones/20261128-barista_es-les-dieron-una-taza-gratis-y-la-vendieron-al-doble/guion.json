@@ -1,0 +1,116 @@
+{
+ "titulo": "Les dieron una taza gratis y la vendieron al doble",
+ "titulos_alternativos": [
+  "Cuentan que una taza de regalo valía el doble para quien la tenía",
+  "Economistas repartieron tazas al azar y nadie quiso soltarlas"
+ ],
+ "descripcion": "Cuentan que unos economistas repartieron tazas al azar entre estudiantes, y lo que pasó después desarmó una idea muy cómoda sobre cómo valoramos las cosas. Fuente: Kahneman, Knetsch y Thaler, Journal of Political Economy, 1990. Si te regalan una taza al azar, ¿la venderías barato o la defenderías como si fuera tuya de siempre?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#dinero",
+  "#psicologia",
+  "#economia",
+  "#cafe"
+ ],
+ "miniatura": {
+  "texto": "MI TAZA VALE MÁS",
+  "emocion": "sorpresa",
+  "objeto": "taza de café con logo universitario",
+  "pose": "butaco_tazas"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Pon una taza sobre tu mesa. Ahora imagina que te tocó por puro azar.",
+   "emocion": "curiosidad",
+   "objeto": "taza sobre la mesa",
+   "pose": "saludando",
+   "prompt_visual": "friendly barista character waving beside a single coffee mug on a table, warm cafe light",
+   "broll": "coffee mug table",
+   "segundos": 3,
+   "broll_fuente": "eb6e5f0f6e7bf462.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Cuentan que en 1990 tres economistas, Daniel Kahneman, Jack Knetsch y Richard Thaler, publicaron un experimento con estudiantes. Nada de fórmulas raras: tazas con el logo de una universidad.",
+   "emocion": "calma",
+   "objeto": "taza con logo universitario",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "barista character with open arms in a university classroom, mugs with a college logo on desks",
+   "broll": "students classroom experiment",
+   "segundos": 10,
+   "broll_fuente": "68c575a110517c02.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "Le dieron una taza a la mitad del grupo. Elegidos al azar, sin méritos ni sorteos con trampa. A unos les preguntaron: ¿por cuánto la venderías? A los otros: ¿cuánto pagarías por ella?",
+   "emocion": "intriga",
+   "objeto": "dos grupos de estudiantes",
+   "pose": "senalando",
+   "prompt_visual": "barista character pointing at two groups of students, one holding mugs, one empty-handed",
+   "broll": "hand holding cup",
+   "segundos": 15,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Como el reparto fue puro azar, la teoría decía que cerca de la mitad de las tazas debería cambiar de manos. Compradores y vendedores se pondrían de acuerdo, y todos felices.",
+   "emocion": "expectativa",
+   "objeto": "tazas cambiando de manos",
+   "pose": "letrero",
+   "prompt_visual": "barista character holding a sign showing arrows swapping mugs between two groups",
+   "broll": "people exchanging cups",
+   "segundos": 10,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Pero no. Cambiaron muchas menos. Los dueños pedían, en promedio, más del doble de lo que los demás querían pagar.",
+   "emocion": "sorpresa",
+   "objeto": "taza que nadie suelta",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "barista character jumping in surprise next to a mug with a price tag doubling",
+   "broll": "hand holding cup",
+   "segundos": 8,
+   "broll_fuente": "8de8b71399243f1f.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "La taza era idéntica para todos. Lo único que cambió fue quién la tenía en la mano.",
+   "emocion": "ironía",
+   "objeto": "dos tazas idénticas",
+   "pose": "cambio",
+   "prompt_visual": "barista character holding two identical mugs side by side, one glowing slightly",
+   "broll": "two identical coffee mugs",
+   "segundos": 7,
+   "broll_fuente": "0bbfcb0840e14d38.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "A veces no valoras algo por lo que es, sino porque ya es tuyo. Y eso pesa cuando vendes, compras o decides. Si te regalan una taza al azar, ¿la venderías barato o la defenderías como si fuera tuya de siempre? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "calidez",
+   "objeto": "taza de café humeante",
+   "pose": "butaco_tazas",
+   "prompt_visual": "barista character sitting on a stool with a steaming mug, cozy cafe, inviting smile",
+   "broll": "coffee steam closeup",
+   "segundos": 10,
+   "broll_fuente": "400f30d634a8a8cc.mp4"
+  }
+ ],
+ "pregunta_final": "Si te regalan una taza al azar, ¿la venderías barato o la defenderías como si fuera tuya de siempre? Te leo.",
+ "reto_de_hoy": "Si te regalan una taza al azar, ¿la venderías barato o la defenderías como si fuera tuya de siempre? Te leo.",
+ "ganchos_alternativos": [
+  "Una taza idéntica, dos precios distintos. Y la única diferencia es quién la sostiene.",
+  "Cuentan que a unos estudiantes les regalaron una taza y, de pronto, ya no era negociable.",
+  "Si te regalan una taza hoy, mañana vale más para ti que para cualquiera. ¿Raro, no?"
+ ],
+ "palabras": 192,
+ "canal": "barista",
+ "color": "#6F4E37",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "dinero-lesdieronunatazaydepront",
+ "visual": "broll"
+}

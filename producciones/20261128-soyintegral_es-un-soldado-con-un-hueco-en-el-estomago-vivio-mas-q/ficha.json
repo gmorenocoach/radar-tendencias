@@ -1,0 +1,35 @@
+{
+ "fuente": {
+  "tema": "Un soldado con un hueco en el estómago… vivió más que su médico",
+  "historia_id": "salud-unsoldadoconunhuecoenele",
+  "fuente_historia": "William Beaumont, Experiments and Observations on the Gastric Juice and the Physiology of Digestion (1833); Wikipedia: William Beaumont, Alexis St. Martin"
+ },
+ "historia": {
+  "titulo": "Un soldado con un hueco en el estómago… vivió más que su médico",
+  "hecho": "El 6 de junio de 1822, en Fort Mackinac (Míchigan), a Alexis St. Martin, un joven comerciante de pieles, se le disparó una escopeta por accidente muy cerca del abdomen. El cirujano militar William Beaumont lo atendió y nadie esperaba que sobreviviera. Sobrevivió, pero la herida cerró dejando una abertura permanente al estómago. Beaumont vio la oportunidad: durante años ató trozos de comida a un hilo, los introdujo por ese orificio y observó cómo se digerían. También anotó que el enojo de St. Martin parecía alterar lo que pasaba en su estómago. Publicó sus observaciones en 1833.",
+  "giro": "El paciente que parecía condenado murió en 1880, casi 30 años después que su médico, fallecido en 1853.",
+  "fuente": "William Beaumont, Experiments and Observations on the Gastric Juice and the Physiology of Digestion (1833); Wikipedia: William Beaumont, Alexis St. Martin",
+  "certeza": "alta",
+  "conexion_eje": "Ya en 1833 alguien anotó que lo que sientes y lo que digieres van de la mano.",
+  "gancho": "Un hombre comió durante años con un hilo atado a la comida. Por dentro.",
+  "pregunta_binaria": "¿Ciencia necesaria o abuso de un paciente?",
+  "broll": [
+   "19th century surgeon",
+   "old kitchen table",
+   "antique medical instruments"
+  ],
+  "id": "salud-unsoldadoconunhuecoenele",
+  "eje": "salud",
+  "usada": true,
+  "creada": "2026-11-12",
+  "produccion": "20261126-barista_es-un-hombre-con-un-hueco-en-el-estomago-vivio-mas-qu"
+ },
+ "adn": {
+  "tema_central": "El 6 de junio de 1822, en Fort Mackinac (Míchigan), a Alexis St. Martin, un joven comerciante de pieles, se le disparó una escopeta por accidente muy cerca del abdomen. El cirujano militar William Beaumont lo atendió y nadie esperaba que sobreviviera. Sobrevivió, pero la herida cerró dejando una abertura permanente al estómago. Beaumont vio la oportunidad: durante años ató trozos de comida a un hilo, los introdujo por ese orificio y observó cómo se digerían. También anotó que el enojo de St. Martin parecía alterar lo que pasaba en su estómago. Publicó sus observaciones en 1833.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Un hombre comió durante años con un hilo atado a la comida. Por dentro.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

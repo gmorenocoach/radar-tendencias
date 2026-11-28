@@ -375,7 +375,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q",
+   "resultado": "ok 202s",
+   "producido_en": "2026-11-28T17:59:33"
   },
   {
    "id": "soyintegral_es-20261130-C",

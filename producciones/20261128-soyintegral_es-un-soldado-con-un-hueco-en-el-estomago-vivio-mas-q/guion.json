@@ -1,0 +1,116 @@
+{
+ "titulo": "Un soldado con un hueco en el estómago vivió más que su médico",
+ "titulos_alternativos": [
+  "Un médico ató comida a un hilo para vigilar a un paciente",
+  "Un disparo en el abdomen a un joven que enterró a su doctor"
+ ],
+ "descripcion": "Fort Mackinac, 1822: un joven comerciante de pieles recibe un disparo accidental y nadie espera que sobreviva. Lo que vino después cambió la forma de entender la digestión... y dejó una pregunta incómoda.\nFuente: William Beaumont, Experiments and Observations on the Gastric Juice and the Physiology of Digestion (1833).\n¿Ciencia necesaria o abuso de un paciente?",
+ "hashtags": [
+  "#historia",
+  "#curiosidades",
+  "#salud",
+  "#digestion",
+  "#bienestar",
+  "#cienciaehistoria"
+ ],
+ "miniatura": {
+  "texto": "COMIDA CON HILO",
+  "emocion": "sorpresa",
+  "objeto": "hilo atado a un trozo de pan",
+  "pose": "salto_sorpresa"
+ },
+ "escenas": [
+  {
+   "n": 1,
+   "texto": "Cuentan que un hombre comió durante años con un hilo atado a la comida. Por dentro.",
+   "emocion": "intriga",
+   "objeto": "hilo atado a un trozo de pan",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista holding a piece of bread tied to a long thread, wide eyes, warm cafe background",
+   "broll": "thread tied bread",
+   "segundos": 3,
+   "broll_fuente": "da09e773be4fb64c.mp4"
+  },
+  {
+   "n": 2,
+   "texto": "Fue el 6 de junio de 1822, en Fort Mackinac, en Míchigan. Alexis St. Martin era un joven comerciante de pieles. Y ese día, una escopeta se disparó por accidente, muy cerca de su abdomen.",
+   "emocion": "calma narrativa",
+   "objeto": "cuaderno antiguo",
+   "pose": "butaco_tazas",
+   "prompt_visual": "cartoon barista sitting on a stool with cups, old fort and fur trader sketched on a notebook behind him",
+   "broll": "old fort Michigan",
+   "segundos": 10,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 3,
+   "texto": "El cirujano militar William Beaumont lo atendió. Y nadie esperaba que St. Martin sobreviviera. Pero sobrevivió. Eso sí: la herida cerró dejando una abertura permanente al estómago.",
+   "emocion": "asombro",
+   "objeto": "instrumentos médicos antiguos",
+   "pose": "brazos_abiertos",
+   "prompt_visual": "cartoon barista with open arms next to antique medical instruments, 1820s surgeon silhouette",
+   "broll": "antique medical instruments",
+   "segundos": 8,
+   "broll_fuente": "01a1da6d9f94a68f.mp4"
+  },
+  {
+   "n": 4,
+   "texto": "Beaumont vio una oportunidad. Durante años ató trozos de comida a un hilo, los metió por ese orificio y se quedó mirando cómo se digerían.",
+   "emocion": "curiosidad inquietante",
+   "objeto": "hilo y trozos de comida",
+   "pose": "agachado",
+   "prompt_visual": "cartoon barista crouching, examining a small piece of food on a thread under candlelight, old wooden table",
+   "broll": "old kitchen table",
+   "segundos": 9,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 5,
+   "texto": "Y anotó algo más: cuando St. Martin se enojaba, lo que pasaba en su estómago parecía cambiar. En 1833 publicó todo lo que observó.",
+   "emocion": "tensión",
+   "objeto": "cuaderno de notas",
+   "pose": "acostado_ira",
+   "prompt_visual": "cartoon barista lying down looking angry, notebook with handwritten notes floating above, dim vintage tones",
+   "broll": "19th century surgeon",
+   "segundos": 10,
+   "broll_fuente": "6d8d572a4203c48a.mp4"
+  },
+  {
+   "n": 6,
+   "texto": "Aquí viene lo curioso. El paciente que parecía condenado murió en 1880. Su médico había muerto en 1853. Casi treinta años antes.",
+   "emocion": "sorpresa",
+   "objeto": "dos tazas, una vacía",
+   "pose": "salto_sorpresa",
+   "prompt_visual": "cartoon barista jumping in surprise between two coffee cups, one full and one empty, calendar pages 1853 and 1880",
+   "broll": "old calendar pages",
+   "segundos": 8,
+   "broll_fuente": "d8f69e2c51ac7cf7.mp4"
+  },
+  {
+   "n": 7,
+   "texto": "Ya en 1833 alguien anotó que lo que sientes y lo que digieres van de la mano. Tu estómago también escucha tu día. Tú decides: ¿ciencia necesaria o abuso de un paciente? Te leo. Suscríbete: mañana hay otra historia.",
+   "emocion": "cercanía",
+   "objeto": "taza de café humeante",
+   "pose": "senalando",
+   "prompt_visual": "cartoon barista pointing at the viewer holding a steaming coffee cup, cozy cafe, question mark in the air",
+   "broll": "steaming coffee cup",
+   "segundos": 12,
+   "broll_fuente": "9da4e8b1842b64eb.mp4"
+  }
+ ],
+ "pregunta_final": "¿Ciencia necesaria o abuso de un paciente?",
+ "reto_de_hoy": "¿Ciencia necesaria o abuso de un paciente?",
+ "ganchos_alternativos": [
+  "Un médico ató comida a un hilo y la metió dentro de su paciente. Y el paciente lo enterró.",
+  "Cuentan que a un hombre le quedó una ventana al estómago. Y un médico no dejó de mirar por ella.",
+  "Nadie creía que sobreviviría a ese disparo. Vivió casi treinta años más que su médico."
+ ],
+ "palabras": 188,
+ "canal": "soyintegral",
+ "color": "#2E8B57",
+ "tipo_contenido": "atraccion",
+ "nivel": "club",
+ "formato": "historia",
+ "historia_id": "salud-unsoldadoconunhuecoenele",
+ "visual": "broll"
+}

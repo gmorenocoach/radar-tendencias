@@ -1,0 +1,76 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H00374E6F,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.84,Sub,,0,0,0,,{\k29}PON {\k20}UNA {\k35}TAZA
+Dialogue: 0,0:00:00.84,0:00:01.92,Sub,,0,0,0,,{\k28}SOBRE {\k14}TU {\k66}MESA.
+Dialogue: 0,0:00:01.92,0:00:03.19,Sub,,0,0,0,,{\k49}AHORA {\k66}IMAGINA {\k13}QUE
+Dialogue: 0,0:00:03.19,0:00:04.17,Sub,,0,0,0,,{\k13}TE {\k55}TOCÓ {\k30}POR
+Dialogue: 0,0:00:04.17,0:00:05.89,Sub,,0,0,0,,{\k36}PURO {\k88}AZAR. {\k48}CUENTAN
+Dialogue: 0,0:00:05.89,0:00:07.63,Sub,,0,0,0,,{\k14}QUE {\k14}EN {\k146}1990
+Dialogue: 0,0:00:07.63,0:00:09.42,Sub,,0,0,0,,{\k29}TRES {\k104}ECONOMISTAS, {\k45}DANIEL
+Dialogue: 0,0:00:09.42,0:00:10.98,Sub,,0,0,0,,{\k74}KAHNEMAN, {\k30}JACK {\k52}KNETSCH
+Dialogue: 0,0:00:10.98,0:00:12.20,Sub,,0,0,0,,{\k29}Y {\k37}RICHARD {\k56}THALER,
+Dialogue: 0,0:00:12.20,0:00:13.55,Sub,,0,0,0,,{\k57}PUBLICARON {\k9}UN {\k68}EXPERIMENTO
+Dialogue: 0,0:00:13.55,0:00:15.58,Sub,,0,0,0,,{\k16}CON {\k144}ESTUDIANTES. {\k43}NADA
+Dialogue: 0,0:00:15.58,0:00:17.31,Sub,,0,0,0,,{\k20}DE {\k64}FÓRMULAS {\k89}RARAS:
+Dialogue: 0,0:00:17.31,0:00:18.14,Sub,,0,0,0,,{\k51}TAZAS {\k20}CON {\k12}EL
+Dialogue: 0,0:00:18.14,0:00:18.89,Sub,,0,0,0,,{\k34}LOGO {\k17}DE {\k24}UNA
+Dialogue: 0,0:00:18.89,0:00:20.53,Sub,,0,0,0,,{\k115}UNIVERSIDAD. {\k16}LE {\k32}DIERON
+Dialogue: 0,0:00:20.53,0:00:21.14,Sub,,0,0,0,,{\k20}UNA {\k36}TAZA {\k6}A
+Dialogue: 0,0:00:21.14,0:00:21.79,Sub,,0,0,0,,{\k12}LA {\k37}MITAD {\k16}DEL
+Dialogue: 0,0:00:21.79,0:00:23.50,Sub,,0,0,0,,{\k85}GRUPO. {\k74}ELEGIDOS {\k12}AL
+Dialogue: 0,0:00:23.50,0:00:25.00,Sub,,0,0,0,,{\k62}AZAR, {\k28}SIN {\k60}MÉRITOS
+Dialogue: 0,0:00:25.00,0:00:25.88,Sub,,0,0,0,,{\k18}NI {\k56}SORTEOS {\k15}CON
+Dialogue: 0,0:00:25.88,0:00:27.33,Sub,,0,0,0,,{\k99}TRAMPA. {\k17}A {\k29}UNOS
+Dialogue: 0,0:00:27.33,0:00:28.86,Sub,,0,0,0,,{\k15}LES {\k107}PREGUNTARON: {\k31}¿POR
+Dialogue: 0,0:00:28.86,0:00:30.49,Sub,,0,0,0,,{\k38}CUÁNTO {\k10}LA {\k114}VENDERÍAS?
+Dialogue: 0,0:00:30.49,0:00:31.52,Sub,,0,0,0,,{\k14}A {\k21}LOS {\k69}OTROS:
+Dialogue: 0,0:00:31.52,0:00:32.94,Sub,,0,0,0,,{\k57}¿CUÁNTO {\k64}PAGARÍAS {\k21}POR
+Dialogue: 0,0:00:32.94,0:00:34.22,Sub,,0,0,0,,{\k92}ELLA? {\k24}COMO {\k12}EL
+Dialogue: 0,0:00:34.22,0:00:35.33,Sub,,0,0,0,,{\k50}REPARTO {\k29}FUE {\k33}PURO
+Dialogue: 0,0:00:35.33,0:00:36.46,Sub,,0,0,0,,{\k56}AZAR, {\k14}LA {\k43}TEORÍA
+Dialogue: 0,0:00:36.46,0:00:37.36,Sub,,0,0,0,,{\k38}DECÍA {\k14}QUE {\k38}CERCA
+Dialogue: 0,0:00:37.36,0:00:37.94,Sub,,0,0,0,,{\k11}DE {\k10}LA {\k37}MITAD
+Dialogue: 0,0:00:37.94,0:00:38.66,Sub,,0,0,0,,{\k10}DE {\k17}LAS {\k44}TAZAS
+Dialogue: 0,0:00:38.66,0:00:39.68,Sub,,0,0,0,,{\k45}DEBERÍA {\k47}CAMBIAR {\k10}DE
+Dialogue: 0,0:00:39.68,0:00:41.25,Sub,,0,0,0,,{\k71}MANOS. {\k76}COMPRADORES {\k10}Y
+Dialogue: 0,0:00:41.25,0:00:42.59,Sub,,0,0,0,,{\k60}VENDEDORES {\k15}SE {\k58}PONDRÍAN
+Dialogue: 0,0:00:42.59,0:00:43.62,Sub,,0,0,0,,{\k9}DE {\k64}ACUERDO, {\k30}Y
+Dialogue: 0,0:00:43.62,0:00:45.34,Sub,,0,0,0,,{\k41}TODOS {\k100}FELICES. {\k31}PERO
+Dialogue: 0,0:00:45.34,0:00:47.32,Sub,,0,0,0,,{\k70}NO. {\k72}CAMBIARON {\k57}MUCHAS
+Dialogue: 0,0:00:47.32,0:00:48.80,Sub,,0,0,0,,{\k87}MENOS. {\k22}LOS {\k38}DUEÑOS
+Dialogue: 0,0:00:48.80,0:00:50.21,Sub,,0,0,0,,{\k60}PEDÍAN, {\k20}EN {\k62}PROMEDIO,
+Dialogue: 0,0:00:50.21,0:00:51.21,Sub,,0,0,0,,{\k38}MÁS {\k24}DEL {\k37}DOBLE
+Dialogue: 0,0:00:51.21,0:00:51.56,Sub,,0,0,0,,{\k10}DE {\k13}LO {\k12}QUE
+Dialogue: 0,0:00:51.56,0:00:52.55,Sub,,0,0,0,,{\k16}LOS {\k37}DEMÁS {\k45}QUERÍAN
+Dialogue: 0,0:00:52.55,0:00:54.02,Sub,,0,0,0,,{\k77}PAGAR. {\k19}LA {\k52}TAZA
+Dialogue: 0,0:00:54.02,0:00:55.10,Sub,,0,0,0,,{\k23}ERA {\k62}IDÉNTICA {\k23}PARA
+Dialogue: 0,0:00:55.10,0:00:56.49,Sub,,0,0,0,,{\k88}TODOS. {\k19}LO {\k32}ÚNICO
+Dialogue: 0,0:00:56.49,0:00:57.31,Sub,,0,0,0,,{\k12}QUE {\k48}CAMBIÓ {\k22}FUE
+Dialogue: 0,0:00:57.31,0:00:58.04,Sub,,0,0,0,,{\k26}QUIÉN {\k12}LA {\k36}TENÍA
+Dialogue: 0,0:00:58.04,0:00:59.12,Sub,,0,0,0,,{\k10}EN {\k13}LA {\k85}MANO.
+Dialogue: 0,0:00:59.12,0:00:59.76,Sub,,0,0,0,,{\k13}A {\k36}VECES {\k15}NO
+Dialogue: 0,0:00:59.76,0:01:00.63,Sub,,0,0,0,,{\k43}VALORAS {\k27}ALGO {\k17}POR
+Dialogue: 0,0:01:00.63,0:01:01.27,Sub,,0,0,0,,{\k13}LO {\k19}QUE {\k32}ES,
+Dialogue: 0,0:01:01.27,0:01:02.32,Sub,,0,0,0,,{\k31}SINO {\k45}PORQUE {\k29}YA
+Dialogue: 0,0:01:02.32,0:01:03.43,Sub,,0,0,0,,{\k17}ES {\k72}TUYO. {\k21}Y
+Dialogue: 0,0:01:03.43,0:01:04.49,Sub,,0,0,0,,{\k36}ESO {\k37}PESA {\k34}CUANDO
+Dialogue: 0,0:01:04.49,0:01:05.89,Sub,,0,0,0,,{\k67}VENDES, {\k64}COMPRAS {\k8}O
+Dialogue: 0,0:01:05.89,0:01:07.34,Sub,,0,0,0,,{\k109}DECIDES. {\k21}SI {\k15}TE
+Dialogue: 0,0:01:07.34,0:01:08.53,Sub,,0,0,0,,{\k56}REGALAN {\k27}UNA {\k37}TAZA
+Dialogue: 0,0:01:08.53,0:01:09.46,Sub,,0,0,0,,{\k15}AL {\k53}AZAR, {\k24}¿LA
+Dialogue: 0,0:01:09.46,0:01:10.62,Sub,,0,0,0,,{\k50}VENDERÍAS {\k52}BARATO {\k14}O
+Dialogue: 0,0:01:10.62,0:01:11.63,Sub,,0,0,0,,{\k12}LA {\k66}DEFENDERÍAS {\k23}COMO
+Dialogue: 0,0:01:11.63,0:01:12.57,Sub,,0,0,0,,{\k15}SI {\k39}FUERA {\k39}TUYA
+Dialogue: 0,0:01:12.57,0:01:13.90,Sub,,0,0,0,,{\k13}DE {\k101}SIEMPRE? {\k19}TE
+Dialogue: 0,0:01:13.90,0:01:16.56,Sub,,0,0,0,,{\k88}LEO. {\k109}SUSCRÍBETE: {\k69}MAÑANA
+Dialogue: 0,0:01:16.56,0:01:18.07,Sub,,0,0,0,,{\k28}HAY {\k24}OTRA {\k99}HISTORIA.

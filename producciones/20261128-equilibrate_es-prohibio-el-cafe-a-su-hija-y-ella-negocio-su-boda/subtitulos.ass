@@ -1,0 +1,78 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,78,&H005F70E8,&H00FFFFFF,&H00201A16,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,60,60,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.67,Sub,,0,0,0,,{\k27}UNA {\k29}TAZA {\k12}DE
+Dialogue: 0,0:00:00.67,0:00:01.70,Sub,,0,0,0,,{\k37}CAFÉ {\k45}PROVOCÓ {\k20}UNA
+Dialogue: 0,0:00:01.70,0:00:02.97,Sub,,0,0,0,,{\k45}PELEA {\k58}FAMILIAR {\k24}TAN
+Dialogue: 0,0:00:02.97,0:00:04.03,Sub,,0,0,0,,{\k55}FAMOSA {\k15}QUE {\k36}BACH
+Dialogue: 0,0:00:04.03,0:00:04.98,Sub,,0,0,0,,{\k14}LA {\k68}CONVIRTIÓ {\k13}EN
+Dialogue: 0,0:00:04.98,0:00:06.68,Sub,,0,0,0,,{\k107}MÚSICA. {\k46}CUENTAN {\k16}QUE
+Dialogue: 0,0:00:06.68,0:00:08.94,Sub,,0,0,0,,{\k36}HACIA {\k171}1735, {\k20}EN
+Dialogue: 0,0:00:08.94,0:00:10.00,Sub,,0,0,0,,{\k58}LEIPZIG, {\k35}HABÍA {\k13}UN
+Dialogue: 0,0:00:10.00,0:00:11.89,Sub,,0,0,0,,{\k38}CAFÉ {\k56}LLAMADO {\k95}ZIMMERMANN
+Dialogue: 0,0:00:11.89,0:00:12.59,Sub,,0,0,0,,{\k29}DONDE {\k10}LA {\k30}GENTE
+Dialogue: 0,0:00:12.59,0:00:13.61,Sub,,0,0,0,,{\k41}BEBÍA {\k48}CAFÉ {\k14}Y
+Dialogue: 0,0:00:13.61,0:00:15.81,Sub,,0,0,0,,{\k63}ESCUCHABA {\k115}MÚSICA. {\k43}ALLÍ
+Dialogue: 0,0:00:15.81,0:00:16.85,Sub,,0,0,0,,{\k35}BACH {\k52}ESTRENÓ {\k16}SU
+Dialogue: 0,0:00:16.85,0:00:18.18,Sub,,0,0,0,,{\k55}CANTATA {\k17}DEL {\k62}CAFÉ,
+Dialogue: 0,0:00:18.18,0:00:18.99,Sub,,0,0,0,,{\k22}CON {\k39}TEXTO {\k20}DEL
+Dialogue: 0,0:00:18.99,0:00:20.60,Sub,,0,0,0,,{\k50}POETA {\k96}PICANDER. {\k14}LA
+Dialogue: 0,0:00:20.60,0:00:21.49,Sub,,0,0,0,,{\k57}HISTORIA {\k19}VA {\k14}DE
+Dialogue: 0,0:00:21.49,0:00:23.06,Sub,,0,0,0,,{\k14}UN {\k57}PADRE, {\k86}SCHLENDRIAN,
+Dialogue: 0,0:00:23.06,0:00:23.61,Sub,,0,0,0,,{\k16}QUE {\k27}QUIERE {\k13}QUE
+Dialogue: 0,0:00:23.61,0:00:24.71,Sub,,0,0,0,,{\k14}SU {\k41}HIJA {\k55}LIESCHEN
+Dialogue: 0,0:00:24.71,0:00:26.30,Sub,,0,0,0,,{\k34}DEJE {\k14}EL {\k112}CAFÉ.
+Dialogue: 0,0:00:26.30,0:00:27.56,Sub,,0,0,0,,{\k18}Y {\k9}LE {\k99}AMENAZA:
+Dialogue: 0,0:00:27.56,0:00:28.20,Sub,,0,0,0,,{\k21}NO {\k32}SALES {\k11}DE
+Dialogue: 0,0:00:28.20,0:00:29.13,Sub,,0,0,0,,{\k64}CASA, {\k17}NO {\k12}TE
+Dialogue: 0,0:00:29.13,0:00:30.51,Sub,,0,0,0,,{\k31}COMPRO {\k86}VESTIDOS, {\k21}NO
+Dialogue: 0,0:00:30.51,0:00:32.05,Sub,,0,0,0,,{\k13}TE {\k55}CONSIGO {\k87}MARIDO.
+Dialogue: 0,0:00:32.05,0:00:33.19,Sub,,0,0,0,,{\k29}PERO {\k34}ELLA {\k51}RESPONDE
+Dialogue: 0,0:00:33.19,0:00:33.94,Sub,,0,0,0,,{\k12}QUE {\k13}EL {\k50}CAFÉ
+Dialogue: 0,0:00:33.94,0:00:34.76,Sub,,0,0,0,,{\k16}LE {\k35}SABE {\k31}MÁS
+Dialogue: 0,0:00:34.76,0:00:35.71,Sub,,0,0,0,,{\k45}DULCE {\k22}QUE {\k28}MIL
+Dialogue: 0,0:00:35.71,0:00:37.80,Sub,,0,0,0,,{\k125}BESOS. {\k67}IMAGÍNATE {\k16}LA
+Dialogue: 0,0:00:37.80,0:00:39.24,Sub,,0,0,0,,{\k30}CARA {\k19}DEL {\k95}PADRE.
+Dialogue: 0,0:00:39.24,0:00:40.27,Sub,,0,0,0,,{\k21}NI {\k13}LA {\k70}AMENAZA
+Dialogue: 0,0:00:40.27,0:00:41.19,Sub,,0,0,0,,{\k19}NI {\k13}EL {\k60}CASTIGO
+Dialogue: 0,0:00:41.19,0:00:42.46,Sub,,0,0,0,,{\k100}FUNCIONARON, {\k15}Y {\k12}LA
+Dialogue: 0,0:00:42.46,0:00:44.11,Sub,,0,0,0,,{\k71}DISCUSIÓN {\k14}SE {\k80}ALARGÓ,
+Dialogue: 0,0:00:44.11,0:00:45.70,Sub,,0,0,0,,{\k29}Y {\k14}SE {\k116}ALARGÓ.
+Dialogue: 0,0:00:45.70,0:00:46.93,Sub,,0,0,0,,{\k67}ENTONCES {\k16}EL {\k39}PADRE
+Dialogue: 0,0:00:46.93,0:00:48.12,Sub,,0,0,0,,{\k38}CAMBIA {\k12}DE {\k70}TÁCTICA
+Dialogue: 0,0:00:48.12,0:00:48.78,Sub,,0,0,0,,{\k14}Y {\k10}LE {\k42}PROMETE
+Dialogue: 0,0:00:48.78,0:00:49.68,Sub,,0,0,0,,{\k13}UN {\k53}ESPOSO {\k23}SI
+Dialogue: 0,0:00:49.68,0:00:50.99,Sub,,0,0,0,,{\k34}DEJA {\k14}LA {\k84}TAZA.
+Dialogue: 0,0:00:50.99,0:00:53.85,Sub,,0,0,0,,{\k44}ELLA {\k91}ACEPTA, {\k151}ENCANTADA.
+Dialogue: 0,0:00:53.85,0:00:54.81,Sub,,0,0,0,,{\k25}PERO {\k19}POR {\k52}DETRÁS
+Dialogue: 0,0:00:54.81,0:00:55.72,Sub,,0,0,0,,{\k39}AVISA {\k15}QUE {\k36}SOLO
+Dialogue: 0,0:00:55.72,0:00:56.42,Sub,,0,0,0,,{\k12}SE {\k42}CASARÁ {\k17}CON
+Dialogue: 0,0:00:56.42,0:00:57.21,Sub,,0,0,0,,{\k16}QUIEN {\k12}LE {\k51}PERMITA
+Dialogue: 0,0:00:57.21,0:00:58.98,Sub,,0,0,0,,{\k34}TOMAR {\k117}CAFÉ. {\k26}EL
+Dialogue: 0,0:00:58.98,0:00:59.85,Sub,,0,0,0,,{\k37}PADRE {\k37}CREYÓ {\k13}QUE
+Dialogue: 0,0:00:59.85,0:01:01.02,Sub,,0,0,0,,{\k29}GANÓ {\k13}EL {\k75}PULSO,
+Dialogue: 0,0:01:01.02,0:01:01.97,Sub,,0,0,0,,{\k29}PERO {\k40}ELLA {\k27}YA
+Dialogue: 0,0:01:01.97,0:01:03.38,Sub,,0,0,0,,{\k42}HABÍA {\k77}NEGOCIADO {\k22}SU
+Dialogue: 0,0:01:03.38,0:01:05.17,Sub,,0,0,0,,{\k43}PROPIA {\k122}CONDICIÓN. {\k14}A
+Dialogue: 0,0:01:05.17,0:01:06.01,Sub,,0,0,0,,{\k48}VECES {\k14}EL {\k23}AMOR
+Dialogue: 0,0:01:06.01,0:01:06.71,Sub,,0,0,0,,{\k9}EN {\k50}FAMILIA {\k10}ES
+Dialogue: 0,0:01:06.71,0:01:08.21,Sub,,0,0,0,,{\k44}SABER {\k53}CUÁNDO {\k52}MANDAR
+Dialogue: 0,0:01:08.21,0:01:09.40,Sub,,0,0,0,,{\k10}Y {\k48}CUÁNDO {\k62}ESCUCHAR
+Dialogue: 0,0:01:09.40,0:01:09.80,Sub,,0,0,0,,{\k14}LO {\k14}QUE {\k12}DE
+Dialogue: 0,0:01:09.80,0:01:11.12,Sub,,0,0,0,,{\k55}VERDAD {\k13}LE {\k65}IMPORTA
+Dialogue: 0,0:01:11.12,0:01:13.31,Sub,,0,0,0,,{\k16}AL {\k124}OTRO. {\k78}¿CEDERÍAS
+Dialogue: 0,0:01:13.31,0:01:14.09,Sub,,0,0,0,,{\k18}PARA {\k48}MANTENER {\k13}LA
+Dialogue: 0,0:01:14.09,0:01:15.45,Sub,,0,0,0,,{\k44}PAZ {\k21}O {\k71}SOSTENDRÍAS
+Dialogue: 0,0:01:15.45,0:01:16.22,Sub,,0,0,0,,{\k14}TU {\k36}TAZA {\k27}COMO
+Dialogue: 0,0:01:16.22,0:01:18.12,Sub,,0,0,0,,{\k109}LIESCHEN? {\k19}TE {\k63}LEO.
+Dialogue: 0,0:01:18.12,0:01:20.00,Sub,,0,0,0,,{\k108}SUSCRÍBETE: {\k59}MAÑANA {\k21}HAY
+Dialogue: 0,0:01:20.00,0:01:21.04,Sub,,0,0,0,,{\k21}OTRA {\k82}HISTORIA.

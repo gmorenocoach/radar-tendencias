@@ -1,0 +1,34 @@
+{
+ "fuente": {
+  "tema": "Les dieron una taza… y de pronto valía el doble",
+  "historia_id": "dinero-lesdieronunatazaydepront",
+  "fuente_historia": "Kahneman, Knetsch y Thaler, «Experimental Tests of the Endowment Effect and the Coase Theorem», Journal of Political Economy, 1990; Wikipedia: «Endowment effect»"
+ },
+ "historia": {
+  "titulo": "Les dieron una taza… y de pronto valía el doble",
+  "hecho": "En un experimento publicado en 1990 por los economistas Daniel Kahneman, Jack Knetsch y Richard Thaler, se repartieron tazas con el logo de una universidad a la mitad de un grupo de estudiantes, elegidos al azar. A quienes recibieron la taza se les preguntó por cuánto la venderían. A quienes no la recibieron, cuánto pagarían por ella. Como el reparto fue puro azar, la teoría decía que cerca de la mitad de las tazas debería cambiar de manos. Cambiaron muchas menos. Los dueños pedían, en promedio, más del doble de lo que los compradores estaban dispuestos a pagar.",
+  "giro": "La taza era idéntica para todos: lo único que cambió fue quién la tenía en la mano.",
+  "fuente": "Kahneman, Knetsch y Thaler, «Experimental Tests of the Endowment Effect and the Coase Theorem», Journal of Political Economy, 1990; Wikipedia: «Endowment effect»",
+  "certeza": "alta",
+  "conexion_eje": "A veces no valoras algo por lo que es, sino por el simple hecho de que ya es tuyo, y eso también pesa cuando vendes, compras o decides.",
+  "gancho": "Pon una taza sobre tu mesa. Ahora imagina que te tocó por puro azar.",
+  "pregunta_binaria": "Si te regalan una taza al azar, ¿la venderías barato o la defenderías como si fuera tuya de siempre?",
+  "broll": [
+   "coffee mug table",
+   "students classroom experiment",
+   "hand holding cup"
+  ],
+  "id": "dinero-lesdieronunatazaydepront",
+  "eje": "dinero",
+  "usada": false,
+  "creada": "2026-11-12"
+ },
+ "adn": {
+  "tema_central": "En un experimento publicado en 1990 por los economistas Daniel Kahneman, Jack Knetsch y Richard Thaler, se repartieron tazas con el logo de una universidad a la mitad de un grupo de estudiantes, elegidos al azar. A quienes recibieron la taza se les preguntó por cuánto la venderían. A quienes no la recibieron, cuánto pagarían por ella. Como el reparto fue puro azar, la teoría decía que cerca de la mitad de las tazas debería cambiar de manos. Cambiaron muchas menos. Los dueños pedían, en promedio, más del doble de lo que los compradores estaban dispuestos a pagar.",
+  "tipo_de_gancho": "historia",
+  "gancho_primeros_segundos": "Pon una taza sobre tu mesa. Ahora imagina que te tocó por puro azar.",
+  "emocion_dominante": "sorpresa",
+  "formula_del_titulo": "[figura] + [acción extrema] + a + [persona] + [acción cotidiana]… + giro",
+  "por_que_funciona": "historia real con giro y pregunta binaria"
+ }
+}

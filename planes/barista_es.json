@@ -571,7 +571,10 @@
    "tipo_contenido": "atraccion",
    "nivel": "club",
    "visual": "broll",
-   "estado": "planificado"
+   "estado": "producido",
+   "produccion_id": "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble",
+   "resultado": "ok 151s",
+   "producido_en": "2026-11-28T17:56:11"
   },
   {
    "id": "barista_es-20261130-C",
