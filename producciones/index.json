@@ -1,6 +1,174 @@
 {
- "actualizado": "2026-11-27T19:21:51",
+ "actualizado": "2026-11-28T17:59:33",
  "producciones": [
+  {
+   "id": "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q",
+   "perfil": "soyintegral_es",
+   "canal": "Soy Integral · Salud",
+   "fecha": "2026-11-28T17:59:33",
+   "titulo": "Un soldado con un hueco en el estómago vivió más que su médico",
+   "titulos_alternativos": [
+    "Un médico ató comida a un hilo para vigilar a un paciente",
+    "Un disparo en el abdomen a un joven que enterró a su doctor"
+   ],
+   "descripcion": "Fort Mackinac, 1822: un joven comerciante de pieles recibe un disparo accidental y nadie espera que sobreviva. Lo que vino después cambió la forma de entender la digestión... y dejó una pregunta incómoda.\nFuente: William Beaumont, Experiments and Observations on the Gastric Juice and the Physiology of Digestion (1833).\n¿Ciencia necesaria o abuso de un paciente?\n\n#historia #curiosidades #salud #digestion #bienestar #cienciaehistoria",
+   "hashtags": [
+    "#historia",
+    "#curiosidades",
+    "#salud",
+    "#digestion",
+    "#bienestar",
+    "#cienciaehistoria"
+   ],
+   "reto_de_hoy": "¿Ciencia necesaria o abuso de un paciente?",
+   "duracion_s": 79.8,
+   "tamano_mb": 48.9,
+   "fuente": {
+    "tema": "Un soldado con un hueco en el estómago… vivió más que su médico",
+    "historia_id": "salud-unsoldadoconunhuecoenele",
+    "fuente_historia": "William Beaumont, Experiments and Observations on the Gastric Juice and the Physiology of Digestion (1833); Wikipedia: William Beaumont, Alexis St. Martin"
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "historia",
+   "visual": "broll",
+   "archivos": {
+    "video": "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/short.mp4",
+    "miniatura": "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/miniatura.jpg",
+    "miniatura_16x9": "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/miniatura_16x9.jpg",
+    "guion": "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/guion.json",
+    "ficha": "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/ficha.json",
+    "miniaturas": [
+     "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/miniatura.jpg",
+     "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/miniatura_16x9.jpg",
+     "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/miniatura_16x9_oscura.jpg",
+     "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/miniatura_16x9_rostro.jpg",
+     "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/miniatura_oscura_9x16.jpg",
+     "20261128-soyintegral_es-un-soldado-con-un-hueco-en-el-estomago-vivio-mas-q/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "",
+   "ganchos_alternativos": [
+    "Un médico ató comida a un hilo y la metió dentro de su paciente. Y el paciente lo enterró.",
+    "Cuentan que a un hombre le quedó una ventana al estómago. Y un médico no dejó de mirar por ella.",
+    "Nadie creía que sobreviviría a ese disparo. Vivió casi treinta años más que su médico."
+   ],
+   "comentario_fijado": "¿Ciencia necesaria o abuso de un paciente? Te leo 👇 Escribe SALUD y te mando la fuente y la historia completa.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
+  {
+   "id": "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble",
+   "perfil": "barista_es",
+   "canal": "El Barista del Ser · Historias",
+   "fecha": "2026-11-28T17:56:11",
+   "titulo": "Les dieron una taza gratis y la vendieron al doble",
+   "titulos_alternativos": [
+    "Cuentan que una taza de regalo valía el doble para quien la tenía",
+    "Economistas repartieron tazas al azar y nadie quiso soltarlas"
+   ],
+   "descripcion": "Cuentan que unos economistas repartieron tazas al azar entre estudiantes, y lo que pasó después desarmó una idea muy cómoda sobre cómo valoramos las cosas. Fuente: Kahneman, Knetsch y Thaler, Journal of Political Economy, 1990. Si te regalan una taza al azar, ¿la venderías barato o la defenderías como si fuera tuya de siempre?\n\n📕 El libro donde empezó todo: «Vuelve M&3#d@ este libro».\n\n#historia #curiosidades #dinero #psicologia #economia #cafe",
+   "hashtags": [
+    "#historia",
+    "#curiosidades",
+    "#dinero",
+    "#psicologia",
+    "#economia",
+    "#cafe"
+   ],
+   "reto_de_hoy": "Si te regalan una taza al azar, ¿la venderías barato o la defenderías como si fuera tuya de siempre? Te leo.",
+   "duracion_s": 78.1,
+   "tamano_mb": 30.0,
+   "fuente": {
+    "tema": "Les dieron una taza… y de pronto valía el doble",
+    "historia_id": "dinero-lesdieronunatazaydepront",
+    "fuente_historia": "Kahneman, Knetsch y Thaler, «Experimental Tests of the Endowment Effect and the Coase Theorem», Journal of Political Economy, 1990; Wikipedia: «Endowment effect»"
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "historia",
+   "visual": "broll",
+   "archivos": {
+    "video": "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/short.mp4",
+    "miniatura": "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/miniatura.jpg",
+    "miniatura_16x9": "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/miniatura_16x9.jpg",
+    "guion": "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/guion.json",
+    "ficha": "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/ficha.json",
+    "miniaturas": [
+     "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/miniatura.jpg",
+     "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/miniatura_16x9.jpg",
+     "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/miniatura_16x9_oscura.jpg",
+     "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/miniatura_16x9_rostro.jpg",
+     "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/miniatura_oscura_9x16.jpg",
+     "20261128-barista_es-les-dieron-una-taza-gratis-y-la-vendieron-al-doble/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "📕 El libro donde empezó todo: «Vuelve M&3#d@ este libro».",
+   "ganchos_alternativos": [
+    "Una taza idéntica, dos precios distintos. Y la única diferencia es quién la sostiene.",
+    "Cuentan que a unos estudiantes les regalaron una taza y, de pronto, ya no era negociable.",
+    "Si te regalan una taza hoy, mañana vale más para ti que para cualquiera. ¿Raro, no?"
+   ],
+   "comentario_fijado": "Si te regalan una taza al azar, ¿la venderías barato o la defenderías como si fuera tuya de siempre? Te leo. Te leo 👇 Escribe CAFÉ y te mando la fuente y la historia completa.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
+  {
+   "id": "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda",
+   "perfil": "equilibrate_es",
+   "canal": "Equilíbrate · Amor",
+   "fecha": "2026-11-28T17:53:40",
+   "titulo": "Prohibió el café a su hija… y ella negoció su boda",
+   "titulos_alternativos": [
+    "Amenazó a su hija por una taza… y perdió la negociación",
+    "Quiso quitarle el café a su hija… y ella puso condiciones"
+   ],
+   "descripcion": "Hacia 1735, en Leipzig, Bach estrenó una cantata sobre un padre que quería quitarle el café a su hija. Amenazas, promesas de marido y una negociación que nadie vio venir. Fuente: Coffee Cantata (BWV 211), Bach Digital / Bach-Archiv Leipzig. ¿Cederías para mantener la paz o sostendrías tu taza como Lieschen?\n\n📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».\n\n#historia #curiosidades #amor #familia #bach #cafe",
+   "hashtags": [
+    "#historia",
+    "#curiosidades",
+    "#amor",
+    "#familia",
+    "#bach",
+    "#cafe"
+   ],
+   "reto_de_hoy": "¿Cederías para mantener la paz o sostendrías tu taza como Lieschen?",
+   "duracion_s": 81.0,
+   "tamano_mb": 37.7,
+   "fuente": {
+    "tema": "Prohibió el café a su hija… y ella negoció su boda",
+    "historia_id": "amor-prohibioelcafeasuhijayel",
+    "fuente_historia": "Wikipedia: Coffee Cantata (BWV 211); Bach Digital / Bach-Archiv Leipzig"
+   },
+   "estado": "pendiente_aprobacion",
+   "subformato": "historia",
+   "visual": "broll",
+   "archivos": {
+    "video": "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/short.mp4",
+    "miniatura": "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/miniatura.jpg",
+    "miniatura_16x9": "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/miniatura_16x9.jpg",
+    "guion": "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/guion.json",
+    "ficha": "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/ficha.json",
+    "miniaturas": [
+     "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/miniatura.jpg",
+     "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/miniatura_16x9.jpg",
+     "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/miniatura_16x9_oscura.jpg",
+     "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/miniatura_16x9_rostro.jpg",
+     "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/miniatura_oscura_9x16.jpg",
+     "20261128-equilibrate_es-prohibio-el-cafe-a-su-hija-y-ella-negocio-su-boda/miniatura_rostro_9x16.jpg"
+    ]
+   },
+   "tipo_contenido": "atraccion",
+   "nivel": "club",
+   "cta": "📕 Todos los retos están en el libro «Vuelve M&3#d@ este libro».",
+   "ganchos_alternativos": [
+    "Un padre le prohibió el café a su hija y ella terminó dictando las condiciones de su boda.",
+    "Hubo una discusión por una taza tan famosa que Bach le puso música.",
+    "Ni amenazas ni promesas: una hija ganó su pulso familiar sin soltar el café."
+   ],
+   "comentario_fijado": "¿Cederías para mantener la paz o sostendrías tu taza como Lieschen? Te leo 👇 Escribe RETO y te mando la fuente y la historia completa.",
+   "divulgacion_ia": "Marcar 'contenido alterado o sintético' al subir (voz e imágenes generadas con IA)."
+  },
   {
    "id": "20261127-soyintegral_es-5-habitos-que-tus-rinones-agradeceran",
    "perfil": "soyintegral_es",
